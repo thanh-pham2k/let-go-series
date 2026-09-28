@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="6" exercise="2" rubric="" rubricMc="mcRubric" timeout="50" finalTimeout="1" finalText="2">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg4_u6_g2_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<over id="overSound">sounds/out_of_time.mp3</over>
+		<done id="doneSound">sounds/lg4_ma_b2.mp3</done>
+		<tik id="tikSound">sounds/tick.mp3</tik>
+	</sounds>
+	<sentence>
+		<sentence id="1" _text ="He has red hair and green eyes." Audio="lg4_u6_g2_1.mp3" clip="pictures/pic1.swf"/>
+		<sentence id="2" _text ="He has blond hair and blue eyes." Audio="lg4_u6_g2_2.mp3" clip="pictures/pic2.swf"/>
+		<sentence id="3" _text ="She has brown hair." Audio="lg4_u6_g2_3.mp3" clip="pictures/pic3.swf"/>
+		<sentence id="4" _text ="She has red hair." Audio="lg4_u6_g2_4.mp3" clip="pictures/pic4.swf"/>
+		<sentence id="5" _text ="He has a moustache and black hair." Audio="lg4_u6_g2_5.mp3" clip="pictures/pic5.swf"/>
+		<sentence id="6" _text ="He has a moustache and grey hair." Audio="lg4_u6_g2_6.mp3" clip="pictures/pic6.swf"/>
+		<sentence id="7" _text ="She has blond hair and blue eyes." Audio="lg4_u6_g2_7.mp3" clip="pictures/pic7.swf"/>
+		<sentence id="8" _text ="She has brown hair and blue eyes." Audio="lg4_u6_g2_8.mp3" clip="pictures/pic8.swf"/>
+		<sentence id="9" _text ="She has bangs and black eyes." Audio="lg4_u6_g2_9.mp3" clip="pictures/pic9.swf"/>
+		<sentence id="10" _text ="She has bangs and brown eyes." Audio="lg4_u6_g2_10.mp3" clip="pictures/pic10.swf"/>
+		<sentence id="11" _text ="She has a red ponytail." Audio="lg4_u6_g2_11.mp3" clip="pictures/pic11.swf"/>
+		<sentence id="12" _text ="She has a black ponytail." Audio="lg4_u6_g2_12.mp3" clip="pictures/pic12.swf"/>
+		<sentence id="13" _text ="He has straight hair and a beard." Audio="lg4_u6_g2_13.mp3" clip="pictures/pic13.swf"/>
+		<sentence id="14" _text ="He has curly hair and a beard." Audio="lg4_u6_g2_14.mp3" clip="pictures/pic14.swf"/>
+		<sentence id="15" _text ="She has brown hair and brown eyes." Audio="lg4_u6_g2_15.mp3" clip="pictures/pic15.swf"/>
+		<sentence id="16" _text ="She has blond hair and green eyes." Audio="lg4_u6_g2_16.mp3" clip="pictures/pic16.swf"/>
+	</sentence>
+</activity>

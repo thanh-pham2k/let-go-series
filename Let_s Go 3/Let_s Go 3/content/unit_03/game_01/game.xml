@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="Unit 3" exercise="1" rubric="Listen and choose." rubricMc="mcRubric" finalText="4" timeout="45" finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u3_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_b4.mp3]]></done>
+		<gameaudio_1_0 id="gameaudio_1_0" text="He lives on the first floor."><![CDATA[sounds/lg3_u3_g1_1.mp3]]></gameaudio_1_0>
+		<gameaudio_1_1 id="gameaudio_1_1" text="He lives on the second floor."><![CDATA[sounds/lg3_u3_g1_2.mp3]]></gameaudio_1_1>
+		<gameaudio_1_2 id="gameaudio_1_2" text="He lives on the third floor."><![CDATA[sounds/lg3_u3_g1_3.mp3]]></gameaudio_1_2>
+		<gameaudio_1_3 id="gameaudio_1_3" text="He lives on the fourth floor."><![CDATA[sounds/lg3_u3_g1_4.mp3]]></gameaudio_1_3>
+		<gameaudio_1_4 id="gameaudio_1_4" text="He lives on the fifth floor."><![CDATA[sounds/lg3_u3_g1_5.mp3]]></gameaudio_1_4>
+		<gameaudio_1_5 id="gameaudio_1_5" text="He lives on the sixth floor."><![CDATA[sounds/lg3_u3_g1_6.mp3]]></gameaudio_1_5>
+		<gameaudio_1_6 id="gameaudio_1_6" text="He lives on the seventh floor."><![CDATA[sounds/lg3_u3_g1_7.mp3]]></gameaudio_1_6>
+		<gameaudio_1_7 id="gameaudio_1_7" text="He lives on the eighth floor."><![CDATA[sounds/lg3_u3_g1_8.mp3]]></gameaudio_1_7>
+		<gameaudio_1_8 id="gameaudio_1_8" text="He lives on the ninth floor."><![CDATA[sounds/lg3_u3_g1_9.mp3]]></gameaudio_1_8>
+		<gameaudio_1_9 id="gameaudio_1_9" text="He lives on the tenth floor."><![CDATA[sounds/lg3_u3_g1_10.mp3]]></gameaudio_1_9>
+		<gameaudio_0_0 id="gameaudio_0_0" text="She lives on the first floor."><![CDATA[sounds/lg3_u3_g1_11.mp3]]></gameaudio_0_0>
+		<gameaudio_0_1 id="gameaudio_0_1" text="She lives on the second floor."><![CDATA[sounds/lg3_u3_g1_12.mp3]]></gameaudio_0_1>
+		<gameaudio_0_2 id="gameaudio_0_2" text="She lives on the third floor."><![CDATA[sounds/lg3_u3_g1_13.mp3]]></gameaudio_0_2>
+		<gameaudio_0_3 id="gameaudio_0_3" text="She lives on the fourth floor."><![CDATA[sounds/lg3_u3_g1_14.mp3]]></gameaudio_0_3>
+		<gameaudio_0_4 id="gameaudio_0_4" text="She lives on the fifth floor."><![CDATA[sounds/lg3_u3_g1_15.mp3]]></gameaudio_0_4>
+		<gameaudio_0_5 id="gameaudio_0_5" text="She lives on the sixth floor."><![CDATA[sounds/lg3_u3_g1_16.mp3]]></gameaudio_0_5>
+		<gameaudio_0_6 id="gameaudio_0_6" text="She lives on the seventh floor."><![CDATA[sounds/lg3_u3_g1_17.mp3]]></gameaudio_0_6>
+		<gameaudio_0_7 id="gameaudio_0_7" text="She lives on the eighth floor."><![CDATA[sounds/lg3_u3_g1_18.mp3]]></gameaudio_0_7>
+		<gameaudio_0_8 id="gameaudio_0_8" text="She lives on the ninth floor."><![CDATA[sounds/lg3_u3_g1_19.mp3]]></gameaudio_0_8>
+		<gameaudio_0_9 id="gameaudio_0_9" text="She lives on the tenth floor."><![CDATA[sounds/lg3_u3_g1_20.mp3]]></gameaudio_0_9>	
+		<textformat id="textformat" autoSize = "center" selectable = "0" border= "0" background = "0" backgroundColor = "0xFFFFFF" borderColor = "0x00FF00" textColor = "0x000000"></textformat>
+	</sounds>
+</activity>
+
+
+

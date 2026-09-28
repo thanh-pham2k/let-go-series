@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="activity" type="labirynth" unit="8" rubric="Read and match." finalText="5" exercise="1" debug="0">
+	<sounds id="sounds">
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u8_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<wrong id="wrongSound"><![CDATA[sounds/wrong.mp3]]></wrong>
+		<done id="doneSound"><![CDATA[sounds/lg2_ma_g5.mp3]]></done>
+	</sounds>
+	<!-- 
+		trzeba użyć minimum n+1 elementów, gdzie n to długość ścieżki 
+		standardowo n=7, ale można zmienić w kodzie przez parametr
+		maxSideMoves
+	-->
+	<elements id="elements" autoscale="1">
+		<element id="1" image="images/item_01.swf" sound="sounds/lg3_u8_g1_1.mp3"></element>
+		<element id="2" image="images/item_02.swf" sound="sounds/lg3_u8_g1_2.mp3"></element>
+		<element id="3" image="images/item_03.swf" sound="sounds/lg3_u8_g1_3.mp3"></element>
+		<element id="4" image="images/item_04.swf" sound="sounds/lg3_u8_g1_4.mp3"></element>
+		<element id="5" image="images/item_05.swf" sound="sounds/lg3_u8_g1_5.mp3"></element>
+		<element id="6" image="images/item_06.swf" sound="sounds/lg3_u8_g1_6.mp3"></element>		
+		<element id="7" image="images/item_07.swf" sound="sounds/lg3_u8_g1_7.mp3"></element>
+		<element id="8" image="images/item_08.swf" sound="sounds/lg3_u8_g1_8.mp3"></element>
+		<element id="9" image="images/item_09.swf" sound="sounds/lg3_u8_g1_9.mp3"></element>
+		<element id="10" image="images/item_10.swf" sound="sounds/lg3_u8_g1_10.mp3"></element>
+  	<element id="11" image="images/item_11.swf" sound="sounds/lg3_u8_g1_11.mp3"></element>
+  	<element id="12" image="images/item_12.swf" sound="sounds/lg3_u8_g1_12.mp3"></element>
+  	<element id="13" image="images/item_13.swf" sound="sounds/lg3_u8_g1_13.mp3"></element>
+		<element id="14" image="images/item_14.swf" sound="sounds/lg3_u8_g1_14.mp3"></element>
+  	<element id="15" image="images/item_15.swf" sound="sounds/lg3_u8_g1_15.mp3"></element>  		
+	</elements>
+	
+</activity>

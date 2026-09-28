@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" unit="5" exercise="3" finalText="6" rubricText="Listen and match." rubricSound="sounds/lb_u5_g3_rubric.mp3" doneSound="sounds/lb_ma_b6.mp3">
+	<sounds>
+		<good id="goodSound" sound="sounds/good.mp3"/>
+		<wrong id="badSound" sound="sounds/bad.mp3"/>
+		
+		<number nmb="1" sound="sounds/lb_u5_g3_34.mp3"/>
+		<number nmb="2" sound="sounds/lb_u5_g3_35.mp3"/>
+		<number nmb="3" sound="sounds/lb_u5_g3_36.mp3"/>
+		<number nmb="4" sound="sounds/lb_u5_g3_37.mp3"/>
+		<number nmb="5" sound="sounds/lb_u5_g3_38.mp3"/>
+		<number nmb="6" sound="sounds/lb_u5_g3_39.mp3"/>
+		<number nmb="7" sound="sounds/lb_u5_g3_40.mp3"/>
+		<number nmb="8" sound="sounds/lb_u5_g3_41.mp3"/>
+		<number nmb="9" sound="sounds/lb_u5_g3_42.mp3"/>
+		<number nmb="10" sound="sounds/lb_u5_g3_43.mp3"/>
+		
+		<answer question="0" nmb="1" sound="sounds/lb_u5_g3_2.mp3"/>
+		<answer question="0" nmb="2" sound="sounds/lb_u5_g3_3.mp3"/>
+		<answer question="0" nmb="3" sound="sounds/lb_u5_g3_4.mp3"/>
+		<answer question="0" nmb="4" sound="sounds/lb_u5_g3_5.mp3"/>
+		<answer question="2" nmb="1" sound="sounds/lb_u5_g3_7.mp3"/>
+		<answer question="2" nmb="2" sound="sounds/lb_u5_g3_8.mp3"/>
+		<answer question="2" nmb="3" sound="sounds/lb_u5_g3_9.mp3"/>
+		<answer question="2" nmb="4" sound="sounds/lb_u5_g3_10.mp3"/>
+		<answer question="2" nmb="5" sound="sounds/lb_u5_g3_11.mp3"/>
+		<answer question="2" nmb="6" sound="sounds/lb_u5_g3_12.mp3"/>
+		<answer question="3" nmb="1" sound="sounds/lb_u5_g3_14.mp3"/>
+		<answer question="3" nmb="2" sound="sounds/lb_u5_g3_15.mp3"/>
+		<answer question="3" nmb="3" sound="sounds/lb_u5_g3_16.mp3"/>
+		<answer question="3" nmb="4" sound="sounds/lb_u5_g3_17.mp3"/>
+		<answer question="3" nmb="5" sound="sounds/lb_u5_g3_18.mp3"/>
+		<answer question="3" nmb="6" sound="sounds/lb_u5_g3_19.mp3"/>
+		<answer question="3" nmb="7" sound="sounds/lb_u5_g3_20.mp3"/>
+		<answer question="3" nmb="8" sound="sounds/lb_u5_g3_21.mp3"/>
+		<answer question="1" nmb="1" sound="sounds/lb_u5_g3_23.mp3"/>
+		<answer question="1" nmb="2" sound="sounds/lb_u5_g3_24.mp3"/>
+		<answer question="1" nmb="3" sound="sounds/lb_u5_g3_25.mp3"/>
+		<answer question="1" nmb="4" sound="sounds/lb_u5_g3_27.mp3"/>
+		<answer question="1" nmb="5" sound="sounds/lb_u5_g3_28.mp3"/>
+		<answer question="1" nmb="6" sound="sounds/lb_u5_g3_29.mp3"/>
+		<answer question="1" nmb="7" sound="sounds/lb_u5_g3_30.mp3"/>
+		<answer question="1" nmb="8" sound="sounds/lb_u5_g3_31.mp3"/>
+		<answer question="1" nmb="9" sound="sounds/lb_u5_g3_32.mp3"/>
+		<answer question="1" nmb="10" sound="sounds/lb_u5_g3_33.mp3"/>
+	</sounds>
+	<items id="items" questions="5">
+		<item id="0" sound="sounds/lb_u5_g3_1.mp3"/>
+		<item id="2" sound="sounds/lb_u5_g3_6.mp3"/>
+		<item id="3" sound="sounds/lb_u5_g3_13.mp3"/>
+		<item id="1" sound="sounds/lb_u5_g3_22.mp3"/>
+</items>
+</settings>

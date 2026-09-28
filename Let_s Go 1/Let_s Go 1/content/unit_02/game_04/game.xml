@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<items id="items" text="Is this " maxitems="4,4" rubric="sounds/lg1_u2_g4_rubric.mp3" doneSound="sounds/lg1_ma_b4.mp3" finalText="4">
+		<item id="0" group="1" text="a bag" image="images/a bag.swf" sound="sounds/lg1_u2_g4_19.mp3"/>
+		<item id="1" group="1" text="a book" image="images/a book.swf" sound="sounds/lg1_u2_g4_20.mp3"/>
+		<item id="2" group="1" text="a chair" image="images/a chair.swf" sound="sounds/lg1_u2_g4_22.mp3"/>
+		<item id="3" group="0" text="a circle" image="images/a circle.swf" sound="sounds/lg1_u2_g4_4.mp3"/>
+		<item id="4" group="1" text="a crayon" image="images/a crayon.swf" sound="sounds/lg1_u2_g4_10.mp3"/>
+		<item id="5" group="1" text="a desk" image="images/a desk.swf" sound="sounds/lg1_u2_g4_21.mp3"/>
+		<item id="6" group="0" text="a diamond" image="images/a diamond.swf" sound="sounds/lg1_u2_g4_8.mp3"/>
+		<item id="7" group="1" text="a globe" image="images/a globe.swf" sound="sounds/lg1_u2_g4_12.mp3"/>
+		<item id="8" group="0" text="a heart" image="images/a heart.swf" sound="sounds/lg1_u2_g4_6.mp3"/>
+		<item id="9" group="1" text="a map" image="images/a map.swf" sound="sounds/lg1_u2_g4_16.mp3"/>
+		<item id="10" group="1" text="a marker" image="images/a marker.swf" sound="sounds/lg1_u2_g4_11.mp3"/>
+		<item id="11" group="1" text="a pen" image="images/a pen.swf" sound="sounds/lg1_u2_g4_18.mp3"/>
+		<item id="12" group="1" text="a pencil" image="images/a pencil.swf" sound="sounds/lg1_u2_g4_17.mp3"/>
+		<item id="13" group="1" text="a poster" image="images/a poster.swf" sound="sounds/lg1_u2_g4_15.mp3"/>
+		<item id="14" group="0" text="a rectangle" image="images/a rectangle.swf" sound="sounds/lg1_u2_g4_7.mp3"/>
+		<item id="15" group="1" text="a ruler" image="images/a ruler.swf" sound="sounds/lg1_u2_g4_23.mp3"/>
+		<item id="16" group="0" text="a square" image="images/a square.swf" sound="sounds/lg1_u2_g4_3.mp3"/>
+		<item id="17" group="0" text="a star" image="images/a star.swf" sound="sounds/lg1_u2_g4_5.mp3"/>
+		<item id="18" group="1" text="a table" image="images/a table.swf" sound="sounds/lg1_u2_g4_13.mp3"/>
+		<item id="19" group="0" text="a triangle" image="images/a triangle.swf" sound="sounds/lg1_u2_g4_2.mp3"/>
+		<item id="20" group="1" text="a wastebasket" image="images/a wastebasket.swf" sound="sounds/lg1_u2_g4_14.mp3"/>
+		<item id="21" group="1" text="an eraser" image="images/an eraser.swf" sound="sounds/lg1_u2_g4_24.mp3"/>
+		<item id="22" group="0" text="an oval" image="images/an oval.swf" sound="sounds/lg1_u2_g4_9.mp3"/>
+	</items>
+</settings>

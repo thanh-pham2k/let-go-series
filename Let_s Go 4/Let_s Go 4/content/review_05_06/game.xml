@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u4_r2_rubric.mp3" text = "Answer the questions" >
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="dropDownSound" file="good.mp3" />
+	</sounds>
+	<questions>
+	</questions>
+</activity>

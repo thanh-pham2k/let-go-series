@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="8" exercise="2" rubric="Read and match." rubricMc="mcRubric" timeout="90" finalTimeout="1" finalText="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u8_g2_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b2.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/out_of_time.mp3]]></over>
+	</sounds>
+	<words setId="0" shuffle="true">
+		<word id="0">
+			<text><![CDATA[She was small.]]></text>
+			<image><![CDATA[swf/item_01.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_1.mp3]]></sound>
+		</word>
+		<word id="1">
+			<text><![CDATA[Now she's big.]]></text>
+			<image><![CDATA[swf/item_01.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_2.mp3]]></sound>
+		</word>
+		<word id="2">
+			<text><![CDATA[He was small.]]></text>
+			<image><![CDATA[swf/item_05.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_3.mp3]]></sound>
+		</word>
+		<word id="3">
+			<text><![CDATA[Now he's big.]]></text>
+			<image><![CDATA[swf/item_05.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_4.mp3]]></sound>
+		</word>
+		<word id="4">
+			<text><![CDATA[She was light.]]></text>
+			<image><![CDATA[swf/item_06.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_5.mp3]]></sound>
+		</word>
+		<word id="5">
+			<text><![CDATA[Now she's heavy.]]></text>
+			<image><![CDATA[swf/item_06.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_6.mp3]]></sound>
+		</word>
+		<word id="6">
+			<text><![CDATA[He was light.]]></text>
+			<image><![CDATA[swf/item_02.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_7.mp3]]></sound>
+		</word>
+		<word id="7">
+			<text><![CDATA[Now he's heavy.]]></text>
+			<image><![CDATA[swf/item_02.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_8.mp3]]></sound>
+		</word>
+	</words>
+	<words setId="1" shuffle="true">
+		<word id="8">
+			<text><![CDATA[She was weak.]]></text>
+			<image><![CDATA[swf/item_03.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_9.mp3]]></sound>
+		</word>
+		<word id="9">
+			<text><![CDATA[Now she's strong.]]></text>
+			<image><![CDATA[swf/item_03.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_10.mp3]]></sound>
+		</word>
+		<word id="10">
+			<text><![CDATA[He was weak.]]></text>
+			<image><![CDATA[swf/item_07.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_11.mp3]]></sound>
+		</word>
+		<word id="11">
+			<text><![CDATA[Now he's strong.]]></text>
+			<image><![CDATA[swf/item_07.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_12.mp3]]></sound>
+		</word>
+		<word id="12">
+			<text><![CDATA[She was slow.]]></text>
+			<image><![CDATA[swf/item_08.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_13.mp3]]></sound>
+		</word>
+		<word id="13">
+			<text><![CDATA[Now she's fast.]]></text>
+			<image><![CDATA[swf/item_08.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_14.mp3]]></sound>
+		</word>
+		<word id="14">
+			<text><![CDATA[He was slow.]]></text>
+			<image><![CDATA[swf/item_04.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_15.mp3]]></sound>
+		</word>
+		<word id="15">
+			<text><![CDATA[Now he's fast.]]></text>
+			<image><![CDATA[swf/item_04.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u8_g2_16.mp3]]></sound>
+		</word>
+	
+	</words>
+</activity>

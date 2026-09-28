@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+	
+	<conf instruction="Listenand match." game="2" unit="2" questions="6" timeout="20" finalTimeout="1"/>
+	
+	<sounds>
+		<sound name="good" url="sounds/good.mp3"/>
+		<sound name="bad" url="sounds/bad.mp3"/>
+		<sound name="intro" url="sounds/lg6_u4_g2_rubric.mp3"/>
+		<sound name="nicetry" url="sounds/lg6_ma_b7.mp3"/>
+		<sound name="goodtry" url="sounds/lg6_ma_b8.mp3"/>
+		<sound name="excellent" url="sounds/lg6_ma_b3.mp3"/>
+		<sound name="goodjob" url="sounds/lg6_ma_b1.mp3"/>
+		<sound name="tick" url="sounds/tick.mp3"/>
+		<sound name="outoftime" url="sounds/out_of_time.mp3"/>
+	</sounds>
+	
+	<paragraphs>
+		
+		<paragraph id="0">
+			<ask arr="0" clip="0" p="0" questionSound="sounds/lg6_u4_g2_1.mp3" goodSound="sounds/lg6_u4_g2_2.mp3" question="How do I get to the pet store?" answers="Go straight and turn left.|Turn right and cross the street.|Turn right and cross the street. Go to the corner.|Go to the corner and turn left. Go three blocks."/>
+			
+			<ask arr="0" clip="1" p="1" questionSound="sounds/lg6_u4_g2_3.mp3" goodSound="sounds/lg6_u4_g2_4.mp3" question="How do I get to the bakery?" answers="Go straight and cross the street.|Go straight and cross the street. Turn left and go to the corner.|Turn right and go to the corner.|Go to the corner. Turn right and cross the street."/>
+			
+			<ask arr="0" clip="2" p="2" questionSound="sounds/lg6_u4_g2_5.mp3" goodSound="sounds/lg6_u4_g2_6.mp3" question="How do I get to the bank?" answers="Go straight and cross the street. Turn left and go to the corner.|Turn right and cross the street.|Go two blocks. Turn right and cross the street.|Go to the corner and turn left. Go three blocks."/>
+			
+			<ask arr="0" clip="3" p="3" questionSound="sounds/lg6_u4_g2_7.mp3" goodSound="sounds/lg6_u4_g2_8.mp3" question="How do I get to the video store?" answers="Turn right and cross the street.|Go straight and cross the street. Turn left and cross the street.|Go to the corner and turn left. Go two blocks to the corner.| Go to the corner and turn left. Go three blocks."/>
+			
+			
+			<ask arr="0" clip="4" p="4" questionSound="sounds/lg6_u4_g2_9.mp3" goodSound="sounds/lg6_u4_g2_10.mp3" question="How do I get to the bookstore?" answers="Turn right and cross the street. Go to the corner.|Go two blocks. Turn right and cross the street.|Go to the corner and turn left. Go three blocks.|Go straight and cross the street. Turn left and cross the street."/>
+		
+			
+			<ask arr="1" clip="6" p="5" questionSound="sounds/lg6_u4_g2_13.mp3" goodSound="sounds/lg6_u4_g2_14.mp3" question="How do I get to the airport?" answers="Go two blocks. Turn right and cross the street.|Go straight and cross the street.|Go to the corner and turn left. Go three blocks.|Turn right and cross the street."/>
+
+		</paragraph>
+		
+		<paragraph id="1">
+			<ask arr="1" clip="10" p="0" questionSound="sounds/lg6_u4_g2_15.mp3" goodSound="sounds/lg6_u4_g2_16.mp3" question="How do I get to the airport?" answers="Go straight and cross the street.|Go to the corner and turn left. Go three blocks and cross the street.|Go to the corner and turn left. Go two blocks to the corner.|Go straight and cross the street. Turn left and go to the corner."/>
+			
+			<ask arr="2" clip="11" p="1" questionSound="sounds/lg6_u4_g2_17.mp3" goodSound="sounds/lg6_u4_g2_8.mp3" question="How do I get to the pet store?" answers="Turn right and cross the street. |Go straight and cross the street. Turn left and cross the street.|Go two blocks. Turn right and cross the street.|Go to the corner. Cross the street. Turn left and cross the street again."/>
+		
+		<ask arr="3" clip="12" p="2" questionSound="sounds/lg6_u4_g2_19.mp3" goodSound="sounds/lg6_u4_g2_10.mp3" question="How do I get to the video store?" answers="Turn right and cross the street. Go to the corner. |Go to the corner and turn left. Go three blocks.|Go two blocks. Turn right and cross the street.|Go straight and cross the street. Turn left and go to the corner."/>
+		
+		<ask arr="1" clip="13" p="3" questionSound="sounds/lg6_u4_g2_21.mp3" goodSound="sounds/lg6_u4_g2_20.mp3" question="How do I get to the park?" answers="Go to the corner and turn left. Go two blocks to the corner.|Go to the corner and turn left. Go one block, turn right and cross the street.|Go straight and cross the street.|Go two blocks. Turn right and cross the street."/>
+		
+		<ask arr="4" clip="14" p="4" questionSound="sounds/lg6_u4_g2_23.mp3" goodSound="sounds/lg6_u4_g2_12.mp3" question="How do I get to the restaurant?" answers="Go to the corner. Cross the street. Turn left and cross the street again.|Go to the corner and turn left. Go three blocks and cross the street.|Turn right and cross the street. Go to the corner.|Go to the corner. Turn right and go two blocks."/>
+		
+		
+		<ask arr="1" clip="16" p="5" questionSound="sounds/lg6_u4_g2_27.mp3" goodSound="sounds/lg6_u4_g2_4.mp3" question="How do I get to the bakery?" answers="Go straight and cross the street. |Go to the corner and turn left. Go one block, turn right and cross the street.|Go to the corner and turn left. Go three blocks and cross the street.|Go two blocks. Turn right and cross the street."/>
+		
+		</paragraph>
+		
+	</paragraphs>
+</activity>

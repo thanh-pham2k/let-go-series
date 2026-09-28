@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u7_g4_rubric.mp3" finalText="2" finalAudio="lg4_ma_b2.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+
+	<questions>
+		<quest picId="0" audio="lg4_u7_g4_1.mp3" sentenceStart="Amy " answer0="stayed home" sentenceRest0=" on Sunday"/>
+		<quest picId="0" audio="lg4_u7_g4_2.mp3" sentenceStart="She " answer0="went" sentenceRest0=" to gymnastics yesterday." />
+		<quest picId="0" audio="lg4_u7_g4_3.mp3" sentenceStart="Today she is " answer0="studying English" sentenceRest0="." />
+		<quest picId="0" audio="lg4_u7_g4_4.mp3" sentenceStart="Tomorrow Amy is " answer0="going to" sentenceRest0=" go shopping."/>
+		<quest picId="0" audio="lg4_u7_g4_5.mp3" sentenceStart="Amy is " answer0="going to" sentenceRest0=" study math on Thursday."/>
+		<quest picId="0" audio="lg4_u7_g4_6.mp3" sentenceStart="Amy is going to " answer0="go to art class" sentenceRest0=" on Friday. "/>
+		<quest picId="0" audio="lg4_u7_g4_7.mp3" sentenceStart="She's " answer0="going to" sentenceRest0=" practice the violin " answer1="on Saturday" sentenceRest1="." />
+		
+
+		<quest picId="1" audio="lg4_u7_g4_8.mp3" sentenceStart="Linda " answer0="played softball" sentenceRest0=" on Sunday."/>
+		<quest picId="1" audio="lg4_u7_g4_9.mp3" sentenceStart="Linda went to a " answer0="softball game" sentenceRest0=" yesterday." />
+		<quest picId="1" audio="lg4_u7_g4_10.mp3" sentenceStart="Today Linda is " answer0="going to" sentenceRest0=" take a math test." />
+		<quest picId="1" audio="lg4_u7_g4_11.mp3" sentenceStart="She's " answer0="going to" sentenceRest0=" play soccer tomorrow."/>
+		<quest picId="1" audio="lg4_u7_g4_12.mp3" sentenceStart="She's " answer0="going to" sentenceRest0=" go to English class on Thursday."/>
+		<quest picId="1" audio="lg4_u7_g4_13.mp3" sentenceStart="She's going to go shopping on " answer0="Friday" sentenceRest0="."/>
+		<quest picId="1" audio="lg4_u7_g4_14.mp3" sentenceStart="Linda is going to go to a softball game on " answer0="Saturday" sentenceRest0="." />
+		
+		<quest picId="2" audio="lg4_u7_g4_15.mp3" sentenceStart="Ben " answer0="played video games" sentenceRest0=" on Sunday"/>
+		<quest picId="2" audio="lg4_u7_g4_16.mp3" sentenceStart="Ben went to " answer0="a soccer game" sentenceRest0=" on Monday." />
+		<quest picId="2" audio="lg4_u7_g4_17.mp3" sentenceStart="Ben is going to " answer0="go to" sentenceRest0=" computer class today." />
+		<quest picId="2" audio="lg4_u7_g4_18.mp3" sentenceStart="He's going to go to " answer0="English class" sentenceRest0=" tomorrow."/>
+		<quest picId="2" audio="lg4_u7_g4_19.mp3" sentenceStart="Ben is " answer0="going to" sentenceRest0=" play soccer on Thursday"/>
+		<quest picId="2" audio="lg4_u7_g4_20.mp3" sentenceStart="Ben is going to " answer0="practice the piano" sentenceRest0=" on Friday."/>
+		<quest picId="2" audio="lg4_u7_g4_21.mp3" sentenceStart="He's " answer0="going to" sentenceRest0=" play with friends on Saturday." />
+		
+
+		<quest picId="3" audio="lg4_u7_g4_22.mp3" sentenceStart="Joe " answer0="saw" sentenceRest0=" a play yesterday."/>
+		<quest picId="3" audio="lg4_u7_g4_23.mp3" sentenceStart="Joe is studying " answer0="English" sentenceRest0=" today." />
+		<quest picId="3" audio="lg4_u7_g4_24.mp3" sentenceStart="Joe is " answer0="going to" sentenceRest0=" clean his room tomorrow." />
+		<quest picId="3" audio="lg4_u7_g4_25.mp3" sentenceStart="He's going to go to a" answer0="baseball game" sentenceRest0=" on Wednesday."/>
+		<quest picId="3" audio="lg4_u7_g4_26.mp3" sentenceStart="He's going to study science on " answer0="Thursday" sentenceRest0="."/>
+		<quest picId="3" audio="lg4_u7_g4_27.mp3" sentenceStart="Joe is " answer0="going to" sentenceRest0=" practice the violin on Friday."/>
+		<quest picId="3" audio="lg4_u7_g4_28.mp3" sentenceStart="He's going to " answer0="watch a movie" sentenceRest0=" on Saturday ." />
+		
+
+
+
+
+
+
+	</questions>
+	
+</activity>

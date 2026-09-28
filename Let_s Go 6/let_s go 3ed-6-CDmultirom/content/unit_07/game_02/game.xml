@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity rubricSound="lg6_u7_g2_rubric.mp3" timer="100" toAsk="8" finalAudio="lg6_ma_b3.mp3" finalAudio2="lg6_ma_b7.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3"/>
+		
+	</sounds>
+	
+	<questions s0="They're usually" s1=",  but sometimes they're">
+		
+		<quest frame="1" aud="lg6_u7_g2_1.mp3" q0="outgoing" q1="shy"/>
+		<quest frame="2" aud="lg6_u7_g2_2.mp3" q0="generous" q1="selfish"/>
+		<quest frame="3" aud="lg6_u7_g2_3.mp3" q0="studious" q1="lazy"/>
+		<quest frame="4" aud="lg6_u7_g2_4.mp3" q0="studious" q1="selfish"/>
+		<quest frame="5" aud="lg6_u7_g2_5.mp3" q0="generous" q1="shy"/>
+		<quest frame="6" aud="lg6_u7_g2_6.mp3" q0="studious" q1="generous"/>
+		<quest frame="7" aud="lg6_u7_g2_7.mp3" q0="outgoing" q1="selfish"/>
+		<quest frame="8" aud="lg6_u7_g2_8.mp3" q0="generous" q1="lazy"/>
+		<quest frame="9" aud="lg6_u7_g2_9.mp3" q0="shy" q1="lazy"/>
+		<quest frame="10" aud="lg6_u7_g2_10.mp3" q0="outgoing" q1="studious"/>
+
+	</questions>
+</activity>

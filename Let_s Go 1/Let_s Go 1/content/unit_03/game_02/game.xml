@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="2" rubric="Simon" rubricSound="sound/lg1_u3_g2_rubric.mp3" finalText="2" goodSound="sound/good.mp3" wrongSound="sound/bad.mp3" doneSound="sound/lg1_ma_g2.mp3" roundSound="sound/good.mp3" maxQuestions="12">
+<placement startx="83" starty="318" itemWidth="78" itemHeight="78" />
+<set>
+	<item src="swf/item_01.swf" sound="sound/lg1_u3_g2_1.mp3" name="triangle" />
+	<item src="swf/item_02.swf" sound="sound/lg1_u3_g2_3.mp3" name="square" />
+	<item src="swf/item_03.swf" sound="sound/lg1_u3_g2_6.mp3" name="circle" />
+	<item src="swf/item_04.swf" sound="sound/lg1_u3_g2_2.mp3" name="star" />
+	<item src="swf/item_05.swf" sound="sound/lg1_u3_g2_7.mp3" name="heart" />
+	<item src="swf/item_06.swf" sound="sound/lg1_u3_g2_5.mp3" name="rectangle" />
+	<item src="swf/item_07.swf" sound="sound/lg1_u3_g2_8.mp3" name="diamond" />
+	<item src="swf/item_08.swf" sound="sound/lg1_u3_g2_4.mp3" name="oval" />
+	<item src="swf/item_09.swf" sound="sound/lg1_u3_g2_9.mp3" name="triangle" />
+	<item src="swf/item_10.swf" sound="sound/lg1_u3_g2_11.mp3" name="square" />
+	<item src="swf/item_11.swf" sound="sound/lg1_u3_g2_14.mp3" name="circle" />
+	<item src="swf/item_12.swf" sound="sound/lg1_u3_g2_10.mp3" name="star" />
+	<item src="swf/item_13.swf" sound="sound/lg1_u3_g2_15.mp3" name="heart" />
+	<item src="swf/item_14.swf" sound="sound/lg1_u3_g2_13.mp3" name="rectangle" />
+	<item src="swf/item_15.swf" sound="sound/lg1_u3_g2_16.mp3" name="diamond" />
+	<item src="swf/item_16.swf" sound="sound/lg1_u3_g2_12.mp3" name="oval" />
+</set>
+</activity>

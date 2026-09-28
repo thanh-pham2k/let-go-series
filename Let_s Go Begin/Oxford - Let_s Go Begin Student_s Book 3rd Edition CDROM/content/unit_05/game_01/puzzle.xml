@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="5" exercise="1" preserveOrder="0" useItems="3" good="sounds/good.mp3" bad="sounds/bad.mp3" question="" rubricText="Do the puzzle." endText="Sing along." rubricSound="sounds/lb_u5_g1_rubric.mp3" finalText="2" doneSound="sounds/lb_ma_b2.mp3" endSound="sounds/lb_u5_g1_songrubric.mp3">
+	<item id="0" folder="images/train/" name="a train" answer="sounds/lb_u5_g1_1.mp3" answer2="sounds/lb_u5_g1_2.mp3" final="images/train/lb_u5_g1.swf">
+		<row id="0" c0="t_0_0.jpg" c1="t_0_1.jpg" c2="t_0_2.jpg" />
+		<row id="1" c0="t_1_0.jpg" c1="t_1_1.jpg" c2="t_1_2.jpg" />
+	</item>
+	<item id="1" folder="images/car/" name="a car" answer="sounds/lb_u5_g1_5.mp3" answer2="sounds/lb_u5_g1_6.mp3" final="images/car/lb_u5_g1.swf">
+		<row id="0" c0="c_0_0.jpg" c1="c_0_1.jpg" c2="c_0_2.jpg" />
+		<row id="1" c0="c_1_0.jpg" c1="c_1_1.jpg" c2="c_1_2.jpg" />
+	</item>
+	<item id="2" folder="images/bear/" name="a bear" answer="sounds/lb_u5_g1_3.mp3" answer2="sounds/lb_u5_g1_4.mp3" final="images/bear/lb_u5_g1.swf">
+		<row id="0" c0="b_0_0.jpg" c1="b_0_1.jpg" c2="b_0_2.jpg" />
+		<row id="1" c0="b_1_0.jpg" c1="b_1_1.jpg" c2="b_1_2.jpg" />
+	</item>
+</settings>

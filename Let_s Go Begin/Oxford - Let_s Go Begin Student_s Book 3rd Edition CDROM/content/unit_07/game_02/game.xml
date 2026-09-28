@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="7" exercise="2" goodSound="sounds/good.mp3" wrongSound="sounds/bad.mp3" doneSound="sounds/lb_ma_g3.mp3" rubricSound="sounds/lb_u7_g2_rubric.mp3" rubricText="Listen and choose." finalText="3" questionSound="sounds/lb_u7_g2_1.mp3">
+	<image src="images/image.swf" x="24" y="127">
+		<part name="part_00" sound="sounds/lb_u7_g2_2.mp3"/>
+		<part name="part_01" sound="sounds/lb_u7_g2_3.mp3"/>
+		<part name="part_02" sound="sounds/lb_u7_g2_4.mp3"/>
+		<part name="part_03" sound="sounds/lb_u7_g2_5.mp3"/>
+	</image>
+</activity>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="6" exercise="1" rubricSound="lg6_u6_g1_rubric.mp3" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_g7.mp3" timer ="120">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+		
+		
+	</sounds>
+
+	<questions>
+		<quest pic="item_01.swf" qaudio="lg6_u6_g1_1.mp3" aaudio="lg6_u6_g1_2.mp3" typ="0"/>
+		<quest pic="item_02.swf" qaudio="lg6_u6_g1_3.mp3" aaudio="lg6_u6_g1_4.mp3" typ="1"/>
+		<quest pic="item_03.swf" qaudio="lg6_u6_g1_5.mp3" aaudio="lg6_u6_g1_6.mp3" typ="2"/>		
+		<quest pic="item_04.swf" qaudio="lg6_u6_g1_7.mp3" aaudio="lg6_u6_g1_8.mp3" typ="3"/>
+		<quest pic="item_05.swf" qaudio="lg6_u6_g1_9.mp3" aaudio="lg6_u6_g1_10.mp3" typ="4"/>
+		<quest pic="item_06.swf" qaudio="lg6_u6_g1_11.mp3" aaudio="lg6_u6_g1_12.mp3" typ="3"/>
+		<quest pic="item_07.swf" qaudio="lg6_u6_g1_13.mp3" aaudio="lg6_u6_g1_14.mp3" typ="5"/>
+		<quest pic="item_08.swf" qaudio="lg6_u6_g1_15.mp3" aaudio="lg6_u6_g1_16.mp3" typ="0"/>
+		<quest pic="item_09.swf" qaudio="lg6_u6_g1_17.mp3" aaudio="lg6_u6_g1_18.mp3" typ="5"/>
+		<quest pic="item_10.swf" qaudio="lg6_u6_g1_19.mp3" aaudio="lg6_u6_g1_20.mp3" typ="2"/>
+		<quest pic="item_11.swf" qaudio="lg6_u6_g1_21.mp3" aaudio="lg6_u6_g1_22.mp3" typ="1"/>
+		<quest pic="item_12.swf" qaudio="lg6_u6_g1_23.mp3" aaudio="lg6_u6_g1_24.mp3" typ="4"/>
+
+
+
+		<!--
+		0 a long time
+		1 last year
+		2 last summer
+		3 three months
+		4 three days
+		5 yesterday evening
+		6 an hour
+		7 two days
+		-->
+
+	</questions>
+	
+</activity>

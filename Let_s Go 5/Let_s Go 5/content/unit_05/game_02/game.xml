@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="5" exercise="2" rubric="" rubricMc="" timeout="" finalTimeout="1" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u5_g2_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+		<yesShe id="yesShe">sounds/lg5_u5_g2_7.mp3</yesShe>
+		<maybeShe id="maybeShe">sounds/lg5_u5_g2_8.mp3</maybeShe>
+		<noShe id="noShe">sounds/lg5_u5_g2_9.mp3</noShe>
+		<yesHe id="yesHe">sounds/lg5_u5_g2_10.mp3</yesHe>
+		<maybeHe id="maybeHe">sounds/lg5_u5_g2_11.mp3</maybeHe>
+		<noHe id="noHe">sounds/lg5_u5_g2_12.mp3</noHe>
+	</sounds>
+	<sentence>
+		<sentence anim="1" she="true" text ="Will she get wet?" audio="sounds/lg5_u5_g2_1.mp3" probability="100"/>
+		<sentence anim="2" she="false" text ="Will he fall down?" audio="sounds/lg5_u5_g2_2.mp3" probability="30"/>
+		<sentence anim="3" she="true" text ="Will she sing a song?" audio="sounds/lg5_u5_g2_3.mp3" probability="100"/>
+		<sentence anim="4" she="false" text ="Will he score a goal?" audio="sounds/lg5_u5_g2_4.mp3" probability="50"/>
+		<sentence anim="5" she="true" text ="Will she answer the telephone?" audio="sounds/lg5_u5_g2_5.mp3" probability="100"/>
+		<sentence anim="6" she="false" text ="Will he make a basket?" audio="sounds/lg5_u5_g2_6.mp3" probability="50"/>
+	</sentence>
+</activity>

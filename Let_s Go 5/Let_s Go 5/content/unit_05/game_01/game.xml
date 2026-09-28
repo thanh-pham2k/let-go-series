@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="6" exercise="2" rubric="" rubricMc="mcRubric" timeout="50" finalTimeout="1" finalText="2">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u5_g1_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<finalSnd1 id="finalSnd1">sounds/lg5_ma_b2.mp3</finalSnd1>
+		<finalSnd2 id="finalSnd2">sounds/lg5_ma_g7.mp3</finalSnd2>
+		<finalSnd3 id="finalSnd3">sounds/Notryagain.mp3</finalSnd3>
+	</sounds>
+	<sentence>
+		<sentence id="0" _text ="I think you'll be a surgeon." per="she" Audio1="lg5_u5_g1_1.mp3" Audio2="lg5_u5_g1_2.mp3" Audio3="lg5_u5_g1_3.mp3" Audio4="" clip="pictures/pic1.swf" clip2="pictures/picA1.swf"/>
+		<sentence id="1" _text ="I think you'll be a designer." per="she" Audio1="lg5_u5_g1_4.mp3" Audio2="lg5_u5_g1_5.mp3" Audio3="lg5_u5_g1_6.mp3" Audio4="lg5_u5_g1_7.mp3" clip="pictures/pic2.swf" clip2="pictures/picA2.swf"/>
+		<sentence id="2" _text ="I think you'll be a hair stylist." per="she" Audio1="lg5_u5_g1_8.mp3" Audio2="lg5_u5_g1_9.mp3" Audio3="lg5_u5_g1_10.mp3" Audio4="lg5_u5_g1_11.mp3" clip="pictures/pic3.swf" clip2="pictures/picA3.swf"/>
+		<sentence id="3" _text ="I think you'll be a lawyer." per="she" Audio1="lg5_u5_g1_12.mp3" Audio2="lg5_u5_g1_13.mp3" Audio3="lg5_u5_g1_14.mp3" Audio4="" clip="pictures/pic4.swf" clip2="pictures/picA4.swf"/>
+		<sentence id="4" _text ="I think you'll be a flight attendant." per="she" Audio1="lg5_u5_g1_15.mp3" Audio2="lg5_u5_g1_16.mp3" Audio3="lg5_u5_g1_17.mp3" Audio4="lg5_u5_g1_18.mp3" clip="pictures/pic5.swf" clip2="pictures/picA5.swf"/>
+		<sentence id="5" _text ="I think you'll be a tennis player." per="he" Audio1="lg5_u5_g1_19.mp3" Audio2="lg5_u5_g1_20.mp3" Audio3="lg5_u5_g1_21.mp3" Audio4="lg5_u5_g1_22.mp3"clip="pictures/pic6.swf" clip2="pictures/picA6.swf"/>
+		<sentence id="6" _text ="I think you'll be a surgeon." per="he" Audio1="lg5_u5_g1_23.mp3" Audio2="lg5_u5_g1_24.mp3" Audio3="lg5_u5_g1_25.mp3" Audio4="" clip="pictures/pic7.swf" clip2="pictures/picA7.swf"/>
+		<sentence id="7" _text ="Maybe you'll be an animal trainer." per="he" Audio1="lg5_u5_g1_26.mp3" Audio2="lg5_u5_g1_27.mp3" Audio3="lg5_u5_g1_28.mp3" Audio4="" clip="pictures/pic8.swf"clip2="pictures/picA8.swf"/>
+		<sentence id="8" _text ="I think you'll be a movie director." per="he" Audio1="lg5_u5_g1_29.mp3" Audio2="lg5_u5_g1_30.mp3" Audio3="lg5_u5_g1_31.mp3" Audio4="lg5_u5_g1_32.mp3" clip="pictures/pic9.swf" clip2="pictures/picA9.swf"/>
+		<sentence id="9" _text ="I think you'll be a lawyer." per="he" Audio1="lg5_u5_g1_33.mp3" Audio2="lg5_u5_g1_34.mp3" Audio3="lg5_u5_g1_35.mp3" Audio4="lg5_u5_g1_36.mp3" clip="pictures/pic10.swf" clip2="pictures/picA10.swf"/>
+	</sentence>
+</activity>

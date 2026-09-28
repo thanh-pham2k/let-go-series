@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="1"  exercise="1" timer="80" toAsk="8" finalAudio="lg5_ma_b3.mp3" finalAudio2="lg5_ma_g7.mp3" rubricSound="lg6_u1_g1_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+
+	<questions prefix0="Which girl is " prefix1="Which boy is " >
+	<q typ="0" audio="lg6_u1_g1_1.mp3" pic="item_03" qtxt="Tracy"/>
+	<q typ="0" audio="lg6_u1_g1_2.mp3" pic="item_01" qtxt="Amanda"/>
+	<q typ="0" audio="lg6_u1_g1_3.mp3" pic="item_06" qtxt="Stacy"/>
+	<q typ="0" audio="lg6_u1_g1_4.mp3" pic="item_08" qtxt="Leslie"/>
+	<q typ="1" audio="lg6_u1_g1_5.mp3" pic="item_02" qtxt="Rich"/>
+	<q typ="1" audio="lg6_u1_g1_6.mp3" pic="item_04" qtxt="Alex"/>
+	<q typ="1" audio="lg6_u1_g1_7.mp3" pic="item_05" qtxt="Bill"/>
+	<q typ="1" audio="lg6_u1_g1_8.mp3" pic="item_07" qtxt="Jack"/>
+
+
+	</questions>
+	<answers prefix0="She’s the girl " prefix1="He’s the boy ">
+	<a pic="item_09" audio0="lg6_u1_g1_9.mp3" audio1="lg6_u1_g1_17.mp3" ans="who is watering the plants."/>
+	<a pic="item_11" audio0="lg6_u1_g1_10.mp3" audio1="lg6_u1_g1_18.mp3" ans="who is feeding the fish."/>
+	<a pic="item_13" audio0="lg6_u1_g1_11.mp3" audio1="lg6_u1_g1_19.mp3" ans="who is writing on the board."/>
+	<a pic="item_15" audio0="lg6_u1_g1_12.mp3" audio1="lg6_u1_g1_20.mp3" ans="who is talking to the teacher."/>
+	<a pic="item_10" audio0="lg6_u1_g1_13.mp3" audio1="lg6_u1_g1_21.mp3" ans="who is reading a textbook."/> 
+	<a pic="item_12" audio0="lg6_u1_g1_14.mp3" audio1="lg6_u1_g1_22.mp3" ans="who is writing an essay."/>
+	<a pic="item_14" audio0="lg6_u1_g1_15.mp3" audio1="lg6_u1_g1_23.mp3" ans="who is doing some homework."/>
+	<a pic="item_16" audio0="lg6_u1_g1_16.mp3" audio1="lg6_u1_g1_24.mp3" ans="who is looking for something."/>
+
+	
+	
+		
+
+	
+	</answers>
+	
+
+</activity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg5_u4_g4_rubric.mp3">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="finalSound" file="lg5_ma_b6.mp3"/>
+	</sounds>
+
+	<questions>		
+		<quest id="0" audio="lg5_u4_g4_1.mp3" sentenceStart="She played the piano" sentenceEnd="(beautiful)" answer="beautifully" />			
+		<quest id="1" audio="lg5_u4_g4_3.mp3" sentenceStart="She danced" sentenceEnd="(graceful)" answer="gracefully" />			
+		<quest id="2" audio="lg5_u4_g4_5.mp3" sentenceStart="She painted" sentenceEnd="(colorful)" answer="colorfully" />			
+		<quest id="3" audio="lg5_u4_g4_7.mp3" sentenceStart="He cleaned his room" sentenceEnd="(tired)" answer="tiredly" />
+		<quest id="4" audio="lg5_u4_g4_2.mp3" sentenceStart="He wrote" sentenceEnd="(beautiful)" answer="beautifully" />			
+		<quest id="5" audio="lg5_u4_g4_4.mp3" sentenceStart="She skated" sentenceEnd="(graceful)" answer="gracefully" />			
+		<quest id="6" audio="lg5_u4_g4_6.mp3" sentenceStart="He painted" sentenceEnd="(colorful)" answer="colorfully" />			
+		<quest id="7" audio="lg5_u4_g4_8.mp3" sentenceStart="She did her homework" sentenceEnd="(tired)" answer="tiredly" />			
+		<quest id="8" audio="lg5_u4_g4_9.mp3" sentenceStart="He skied" sentenceEnd="(careful)" answer="carefully" />			
+		<quest id="9" audio="lg5_u4_g4_10.mp3" sentenceStart="She skied" sentenceEnd="(careless)" answer="carelessly" />		
+		<quest id="10" audio="lg5_u4_g4_11.mp3" sentenceStart="He played the violin" sentenceEnd="(bad)" answer="badly" />			
+		<quest id="11" audio="lg5_u4_g4_12.mp3" sentenceStart="She played the violin" sentenceEnd="(good)" answer="well" />			
+	</questions>
+	<swf file="lg5_unit04_game04.swf"/>
+	
+</activity>

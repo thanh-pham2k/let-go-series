@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg5_u5_g4_rubric.mp3" finalText="2" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_b7.mp3" >
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOne" file="lb_u5_g3_34.mp3"/>
+		<sound id="soundTwo" file="lb_u5_g3_35.mp3"/>
+		<sound id="soundThree" file="lb_u5_g3_36.mp3"/>
+	</sounds>
+	<questions>
+		<quest id="0" aud0="lg5_u5_g4_2.mp3" type="She" aud1="lg5_u5_g4_1.mp3" ans0="go swimming" ans1="puts on sunscreen" ans_0="put on sunscreen" ans_1="goes swimming" sentence0="before" sentence1="after"/>
+		<quest id="1" aud0="lg5_u5_g4_3.mp3" type="He" aud1="lg5_u5_g4_4.mp3" ans0="do his homework" ans1="watches TV" ans_0="watch TV" ans_1="does his homework" sentence0="before" sentence1="after"/>
+		<quest id="2" aud0="lg5_u5_g4_5.mp3" type="She" aud1="lg5_u5_g4_6.mp3" ans0="turn off the light" ans1="goes to bed" ans_0="go to bed" ans_1="turns off the light" sentence0="before" sentence1="after"/>		
+		<quest id="3" aud0="lg5_u5_g4_8.mp3" type="He" aud1="lg5_u5_g4_7.mp3" ans0="talk on the telephone" ans1="walks the dog" ans_0="walk the dog" ans_1="talks on the telephone" sentence0="before" sentence1="after"/>
+		<quest id="4" aud0="lg5_u5_g4_10.mp3" type="She" aud1="lg5_u5_g4_9.mp3" ans0="eat dinner" ans1="rides her bike" ans_0="ride her bike" ans_1="eats dinner" sentence0="before" sentence1="after"/>
+		<quest id="5" aud0="lg5_u5_g4_11.mp3" type="He" aud1="lg5_u5_g4_12.mp3" ans0="watch a movie" ans1="goes to bed"  ans_0="go to bed" ans_1="watches a movie" sentence0="before" sentence1="after"/>
+		<quest id="6" aud0="lg5_u5_g4_13.mp3" type="She" aud1="lg5_u5_g4_14.mp3" ans0="turn down the music" ans1="does her homework" ans_0="do her homework" ans_1="turns down the music" sentence0="before" sentence1="after"/>
+		<quest id="7" aud0="lg5_u5_g4_15.mp3" type="He" aud1="lg5_u5_g4_16.mp3" ans0="take off his sandals" ans1="cleans up his room" ans_0="clean up his room" ans_1="takes off his sandals" sentence0="before" sentence1="after"/>
+		<quest id="8" aud0="lg5_u5_g4_17.mp3" type="She" aud1="lg5_u5_g4_18.mp3" ans0="clean her desk" ans1="studies English" ans_0="study English" ans_1="cleans her desk" sentence0="before" sentence1="after"/>
+		<quest id="9" aud0="lg5_u5_g4_19.mp3" type="He" aud1="lg5_u5_g4_20.mp3" ans0="go for a walk" ans1="goes bowling" ans_0="go bowling" ans_1="goes for a walk" sentence0="before" sentence1="after"/>
+		<quest id="10" aud0="lg5_u5_g4_21.mp3" type="She" aud1="lg5_u5_g4_22.mp3" ans0="answer the phone" ans1="goes skateboarding" ans_0="go skateboarding" ans_1="answers the phone" sentence0="before" sentence1="after"/>
+		<quest id="11" aud0="lg5_u5_g4_23.mp3" type="He" aud1="lg5_u5_g4_24.mp3" ans0="score a goal" ans1="falls down" ans_0="fall down" ans_1="scores a goal" sentence0="before" sentence1="after"/>
+	</questions>
+</activity>

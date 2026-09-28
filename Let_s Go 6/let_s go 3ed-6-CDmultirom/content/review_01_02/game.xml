@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg6_u2_r1_rubric.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg6_u2_r1_rubric2.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg6_u2_r1_rubric3.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg6_ma_b3.mp3</done>
+		<done2 id="doneSound2">sounds/lg6_ma_b7.mp3</done2>
+	</sounds>
+	<questions>
+		<question id="0" question="" picture1="pictures/item_1a.swf" picture2="pictures/item_1b.swf" audio="sounds/lg6_u2_r1_1.mp3|sounds/lg6_u2_r1_2.mp3"/>
+		<question id="0" question="" picture1="pictures/item_2a.swf" picture2="pictures/item_2b.swf" audio="sounds/lg6_u2_r1_3.mp3|sounds/lg6_u2_r1_4.mp3"/>
+		<question id="1" question="" picture1="pictures/item_3a.swf" picture2="pictures/item_3b.swf" audio="sounds/lg6_u2_r1_5.mp3|sounds/lg6_u2_r1_6.mp3"/>
+		<question id="1" question="" picture1="pictures/item_4a.swf" picture2="pictures/item_4b.swf" audio="sounds/lg6_u2_r1_7.mp3|sounds/lg6_u2_r1_8.mp3"/>
+		<question id="2" question="" picture1="pictures/item_5a.swf" picture2="pictures/item_5b.swf" audio="sounds/lg6_u2_r1_9.mp3"/>
+		<question id="2" question="" picture1="pictures/item_6a.swf" picture2="pictures/item_6b.swf" audio="sounds/lg6_u2_r1_10.mp3"/>
+		<question id="3" question="" picture1="pictures/item_7a.swf" picture2="pictures/item_7b.swf" audio="sounds/lg6_u2_r1_11.mp3"/>
+		<question id="3" question="" picture1="pictures/item_8a.swf" picture2="pictures/item_8b.swf" audio="sounds/lg6_u2_r1_12.mp3"/>
+	</questions>
+	<questions>
+		<question settype="1" texts="" question1="" question2="" answers="When the bell rang, he was talking on his cell phone.|The bell rang he when was talking a nap.|The bell rang, he was talking when on his cell phone.|When the bell rang on his cell phone." picture="pictures/pic_1.swf" audio="sounds/lg6_u2_r1_13.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He was reading a magazine when the bell rang.|The bell rang, when a magazine he was reading.|When the magazine reading, the bell rang.|When reading the magazine, he rang the bell." picture="pictures/pic_2.swf" audio="sounds/lg6_u2_r1_14.mp3"/>
+	<question settype="1" texts="" question1="" question2="" answers="When the bell rang, she was cleaning her room.|She was ringing the bell, when her room was cleaning.|She was cleaning the bell, when her room was ringing.|When the bell rang, she was writing a message." picture="pictures/pic_3.swf" audio="sounds/lg6_u2_r1_15.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She was listening to music when the bell rang.|She was talking on her cell phone when the bell rang.|She was writing a message when the bell rang.|She when the bell rang was listening to the radio." picture="pictures/pic_4.swf" audio="sounds/lg6_u2_r1_16.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="The acrobats were interesting.|They’re amazed.|The acrobats were interested.|The acrobats were bored at the circus." picture="pictures/pic_5.swf" audio="sounds/lg6_u2_r1_17.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She said the clowns were disappointing.|The clowns were disappointed.|She was disappointing at the clowns.|She disappointed the clowns." picture="pictures/pic_6.swf" audio="sounds/lg6_u2_r1_18.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="The circus was frightening.|Frightened at the circus.|He said the circus was frightened.|The dancers are frightening." picture="pictures/pic_7.swf" audio="sounds/lg6_u2_r1_19.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She said they were amazing.|The acrobats were amazed at her.|She said the dancers were graceful.|She said the acrobats were sad." picture="pictures/pic_8.swf" audio="sounds/lg6_u2_r1_20.mp3"/>
+		</questions>
+	<questions>
+		<question settype="2" texts="Which boy is Bill?" question1="" question2="" answers="He’s the boy who is reading the book.|It’s his book.|He’s the boy when reading the book.|He was reading a book." picture="pictures/pic_9.swf" audio="sounds/lg6_u2_r1_21.mp3|sounds/lg6_u2_r1_22.mp3"/>
+		<question settype="2" texts="What was Nick doing when the doorbell rang?" question1="" question2="" answers="Nick was eating spaghetti when the doorbell rang.|It’s his spaghetti.|He’s the boy who is eating spaghetti.|Who is eating spaghetti is Nick." picture="pictures/pic_10.swf" audio="sounds/lg6_u2_r1_23.mp3|sounds/lg6_u2_r1_24.mp3"/>
+		<question settype="2" texts="Which boy is Matt?" question1="" question2="" answers="He’s the boy who is washing his face.|When he was washing his face.|It’s his.|He was washing his face." picture="pictures/pic_11.swf" audio="sounds/lg6_u2_r1_25.mp3|sounds/lg6_u2_r1_26.mp3"/>
+		<question settype="2" texts="What was Tina doing when the doorbell rang?" question1="" question2="" answers="Tina was listening to music when the doorbell rang.|When the doorbell rang, he was washing his face.|She was listen to music.|When she was listen to music." picture="pictures/pic_12.swf" audio="sounds/lg6_u2_r1_27.mp3|sounds/lg6_u2_r1_28.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He said the man was strong.|The man said he was strongly.|The man was difficult to be strong.|He says the man were strong." picture="pictures/pic_13.swf" audio="sounds/lg6_u2_r1_29.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She said the ice cream was delicious.|She say the ice cream is delicious.|She saying she was delicious.|She said the ice cream delicious." picture="pictures/pic_14.swf" audio="sounds/lg6_u2_r1_30.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="I am able to do a handstand.|I able to handstand.|I can know how to do a handstand.|I am amazing to a handstand." picture="pictures/pic_15.swf" audio="sounds/lg6_u2_r1_31.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She was bored at the basketball game.|She was boring at the basketball game.|The basketball game was bored to her.|She bored the basketball game." picture="pictures/pic_16.swf" audio="sounds/lg6_u2_r1_32.mp3"/>
+	</questions>
+</activity>

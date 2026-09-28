@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="16" fontlib="1" lib="f1" wordspace="7" sentencesspace="32" addspace="19" posx="80" posy="165" select="4" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/wrong.mp3"/>
+<sound name="intro" url="sounds/lg6_u5_g1_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg5_ma_b6.mp3"/>
+<sound name="nicetry" url="sounds/lg5_ma_g7.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg6_u5_g1_1_all.mp3">
+		<answer txt="Have you met Kim? She’s the girl who|null|with Sarah’s family." gender="b" name="is staying" dis="stays|staying " good="0"/>
+		<answer txt="|null|. She’s from|null|, isn’t she?" gender="g" name="No, I haven’t_Vietnam" dis="Yes, I have|No, I have_Vietnamese|Thailand" good="1_2"/>
+		<answer txt="Yes, she is.|null| from|null|." gender="b" name="She’s_Vietnam" dis="She has|She was_Vietnamese|Viet " good="2_1"/>
+		<answer txt="What is she|null|?" gender="g" name="like" dis="likes|liking" good="1"/>
+		<answer txt="|null|is really|null|." gender="b" name="She_nice" dis="He|Her_nicer|like" good="1_0"/>
+		<answer txt="Does she|null|null|?" gender="g" name="speak_English" dis="spoke|speaking _Vietnam|Australia" good="0_2"/>
+		<answer txt="Yes, she does. She speaks|null|and a little English." gender="b" name="Vietnamese" dis="Vietnam|Viet" good="1"/>
+		<answer txt="I’d like to meet|null|." gender="g" name="her" dis="she|he" good="0"/>
+		</paragraph>
+		
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg6_u5_g1_2_all.mp3">
+			<answer txt="|null|you met Kylie? She’s the girl who |null|with Rose’s family." gender="g" name="Have_is staying" dis="Has|Haven’t_stays|staying" good="2_1"/>
+			<answer txt="No, I haven’t. She’s from|null|,|null|?" gender="b" name="Australia_isn’t she" dis="Australian|English_is she|isn’t her" good="2_1"/>
+			<answer txt="Yes, she is. She’s from |null|" gender="g" name="Australia" dis="Australian|English" good="1"/>
+			<answer txt="What is she like?" gender="b" name="null" dis="" good=""/>
+			<answer txt="|null|is really|null|." gender="g" name="She_nice" dis="He|Her_nicer|like" good="2_0"/>
+			<answer txt="|null|she|null|null|?" gender="b" name="Does_speak_English" dis="Do|Will_spoke|speaking_England|Australia" good="0_2_2"/>
+			<answer txt="Yes, she does. She speaks|null|." gender="g" name="English" dis="Australia|Mexico" good="1"/>
+			<answer txt="I’d like to meet|null|." gender="b" name="her" dis="she|he" good="0"/>
+		</paragraph>
+		
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg6_u5_g1_3_all.mp3">
+			<answer txt="Have you|null|Mai? She’s the girl|null|is staying with Jessica’s family." gender="b" name="met_who" dis="meet|meeting_that|which" good="1_2"/>
+			<answer txt="|null|. She’s from|null|, isn’t she?" gender="g" name="No, I haven’t_Thailand" dis="Yes, I have|No, I have_Mexican|Thai" good="2_0"/>
+			<answer txt="Yes, she is.|null|from|null|." gender="b" name="She's_Thailand" dis="She has|She was_Thai|Vietnam" good="1_2"/>
+			<answer txt="What is she like?" gender="g" name="null" dis="" good=""/>
+			<answer txt="She is a little|null|." gender="b" name="shy" dis="nicer|loudly" good="1"/>
+			<answer txt="Does she|null|null|?" gender="g" name="speak_English" dis="spoke|speaking_Thailand|Vietnamese" good="0_0"/>
+			<answer txt="Yes, she does. She speaks|null|and a little English." gender="b" name="Thai" dis="Thailand|Spanish" good="1"/>
+			<answer txt="I'd |null|to|null| her." gender="g" name="like_meet" dis="likes|liked_met|speak" good="1_1"/>
+		</paragraph>
+		<paragraph id ="3" anim="swf/anim4.swf" sound="sounds/lg6_u5_g1_4_all.mp3">
+			<answer txt="Have you|null|Pedro? He’s the boy|null|is staying with Tim’s family." gender="b" name="met_who" dis="meet|meeting _whose|which" good="1_2"/>
+			<answer txt="|null|. He’s from|null|, isn’t he?" gender="g" name="No, I haven’t_Mexico" dis="Yes, I have|No, I have_Mexican|Australian" good="1_0"/>
+			<answer txt="Yes, he is. He’s from|null|." gender="b" name="Mexico" dis="Mexican|Spanish" good="2"/>
+			<answer txt="What is he like?" gender="g" name="null" dis="" good=""/>
+			<answer txt="|null|is really|null|" gender="b" name="He_funny" dis="His|She_quietly|tiredly" good="0_2"/>
+			<answer txt="Does he|null|null|?" gender="g" name="speak_English" dis="spoke|speaking_Vietnam|Australian" good="1_1"/>
+			<answer txt="Yes, he does. He|null|null|and a little English." gender="b" name="speaks_Spanish" dis="is speaking|spoke_Mexico|London" good="2_1"/>
+			<answer txt="I’d like to meet|null|." gender="g" name="him" dis="his|he" good="0"/>
+		</paragraph>
+		
+	</paragraphs>
+</activity>

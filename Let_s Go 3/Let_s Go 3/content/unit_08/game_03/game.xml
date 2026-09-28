@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="8" exercise="3" rubric="Make the sentences." finalTimeout="1" finalText="5">
+	<sounds>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/wrong.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_g5.mp3]]></done>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u8_g3_rubric.mp3]]></rubric>
+	</sounds>
+	<questions id="questions" maxQuestions="6">
+	</questions>
+</activity>

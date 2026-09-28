@@ -1,0 +1,49 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="2" exercise="1" rubric="Put the sentences in order." rubricSound="lg4_u6_g1_rubric.mp3" finalText="3" finalAudio="lg4_ma_b3.mp3" toAsk="3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+	<questions>
+		<set id="0">
+		<quest ord="0" audio="lg4_u6_g1_1.mp3" d="Can I help you?" />
+		<quest ord="1" audio="lg4_u6_g1_2.mp3" d="Yes, thanks. I’m looking for someone." />
+		<quest ord="2" audio="lg4_u6_g1_3.mp3" d="Who are you looking for?" />
+		<quest ord="3" audio="lg4_u6_g1_4.mp3" d="I’m looking for my aunt." />
+		<quest ord="4" audio="lg4_u6_g1_5.mp3" d="What does she look like?" />
+		<quest ord="5" audio="lg4_u6_g1_6.mp3" d="She has short red hair and green eyes." />
+		<quest ord="6" audio="lg4_u6_g1_7.mp3" d="Is that her over there?" />
+		<quest ord="7" audio="lg4_u6_g1_8.mp3" d="Yes, it is. Thanks!" />
+		</set>
+		<set id="1">				
+		<quest ord="0" audio="lg4_u6_g1_9.mp3" d="Are you looking for someone?" />
+		<quest ord="1" audio="lg4_u6_g1_10.mp3" d="Yes, thanks. I’m looking for my uncle." />
+		<quest ord="2" audio="lg4_u6_g1_11.mp3" d="What does he look like?" />		
+		<quest ord="3" audio="lg4_u6_g1_12.mp3" d="He has brown hair and brown eyes." />
+		<quest ord="4" audio="lg4_u6_g1_13.mp3" d="Is that him over there?" />
+		<quest ord="5" audio="lg4_u6_g1_14.mp3" d="Yes, it is. Thanks!" />
+		</set>
+		<set id="2">
+		<quest ord="0" audio="lg4_u6_g1_15.mp3" d="Can I help you?" />
+		<quest ord="1" audio="lg4_u6_g1_16.mp3" d="Yes, thanks. I’m looking for my younger sister." />
+		<quest ord="2" audio="lg4_u6_g1_17.mp3" d="What does she look like?" />		
+		<quest ord="3" audio="lg4_u6_g1_18.mp3" d="She has black hair and blue eyes." />
+		<quest ord="4" audio="lg4_u6_g1_19.mp3" d="Is that her over there?" />
+		<quest ord="5" audio="lg4_u6_g1_20.mp3" d="No, it isn’t. Oh! There she is." />
+		</set>
+		<set id="3">
+		<quest ord="0" audio="lg4_u6_g1_21.mp3" d="Can I help you?" />
+		<quest ord="1" audio="lg4_u6_g1_22.mp3" d="No, thanks. I’m OK." />
+		<quest ord="2" audio="lg4_u6_g1_23.mp3" d="Really? Are you looking for someone?" />
+		<quest ord="3" audio="lg4_u6_g1_24.mp3" d="Yes, I am. I’m looking for my cousin." />
+		<quest ord="4" audio="lg4_u6_g1_25.mp3" d="Does he have brown hair and black eyes?" />
+		<quest ord="5" audio="lg4_u6_g1_26.mp3" d="Yes, he does." />
+		<quest ord="6" audio="lg4_u6_g1_27.mp3" d="Is that him over there?" />
+		<quest ord="7" audio="lg4_u6_g1_28.mp3" d="Yes, it is. Thank you!" />
+		</set>		
+	</questions>
+	
+</activity>

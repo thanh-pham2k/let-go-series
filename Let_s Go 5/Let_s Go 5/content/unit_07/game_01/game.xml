@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" exercise="1" rubric="Listen and match." finalText="3" timer="15" finalAudio="lg5_ma_g6.mp3" finalAudio2="lg5_ma_g7.mp3" rubricSound="lg5_u7_g1_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" image="item_01.swf" audio="lg5_u7_g1_1.mp3" />
+		<quest id="1" image="item_02.swf" audio="lg5_u7_g1_2.mp3" />
+		<quest id="2" image="item_03.swf" audio="lg5_u7_g1_3.mp3" />
+		<quest id="3" image="item_04.swf" audio="lg5_u7_g1_5.mp3" feedSound="piano_02.mp3" />
+		<quest id="4" image="item_05.swf" audio="lg5_u7_g1_6.mp3" feedSound="bird.mp3" />
+		<quest id="5" image="item_06.swf" audio="lg5_u7_g1_7.mp3" feedSound="piano_01.mp3" />
+		<quest id="6" image="item_07.swf" audio="lg5_u7_g1_9.mp3" />
+		<quest id="7" image="item_08.swf" audio="lg5_u7_g1_10.mp3" />
+		<quest id="8" image="item_09.swf" audio="lg5_u7_g1_11.mp3" />
+		<quest id="9" image="item_10.swf" audio="lg5_u7_g1_13.mp3" />
+		<quest id="10" image="item_11.swf" audio="lg5_u7_g1_14.mp3" />
+		<quest id="11" image="item_12.swf" audio="lg5_u7_g1_16.mp3" />
+		<quest id="12" image="item_13.swf" audio="lg5_u7_g1_17.mp3" />
+		
+
+		
+
+	
+	</questions>
+</activity>

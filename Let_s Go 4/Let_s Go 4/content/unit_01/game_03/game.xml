@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u1_g3_rubric.mp3" finalText="2" finalAudio="lg4_ma_b2.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+
+	<questions>
+		<quest picId="0" audio="lg4_u1_g3_1.mp3" sentenceFamily="0" sentenceStart="They " answer="ate" sentenceRest=" too much chocolate." hint="ate"/>
+		<quest picId="1" audio="lg4_u1_g3_2.mp3" sentenceFamily="0" sentenceStart="She " answer="broke" sentenceRest=" a window." hint="broke"/>
+		<quest picId="2" audio="lg4_u1_g3_3.mp3" sentenceFamily="0" sentenceStart="They " answer="got" sentenceRest=" a present." hint="got" />
+		<quest picId="3" audio="lg4_u1_g3_4.mp3" sentenceFamily="0" sentenceStart="He " answer="found" sentenceRest=" some money." hint="found"/>
+		<quest picId="4" audio="lg4_u1_g3_5.mp3" sentenceFamily="0" sentenceStart="He " answer="lost" sentenceRest=" his cell phone." hint="lost"/>
+		<quest picId="5" audio="lg4_u1_g3_6.mp3" sentenceFamily="0" sentenceStart="She " answer="won" sentenceRest=" a race." hint="won"/>
+		<quest picId="6" audio="lg4_u1_g3_7.mp3" sentenceFamily="1" sentenceStart="They " answer="didn't eat" sentenceRest=" too much chocolate." hint="didn't eat"/>
+		<quest picId="7" audio="lg4_u1_g3_8.mp3" sentenceFamily="1" sentenceStart="She" answer="didn't break" sentenceRest=" a window." hint="didn't break" />
+		<quest picId="8" audio="lg4_u1_g3_9.mp3" sentenceFamily="1" sentenceStart="They " answer="didn't get" sentenceRest=" a present." hint="didn't get" />
+		<quest picId="9" audio="lg4_u1_g3_10.mp3" sentenceFamily="1" sentenceStart="He " answer="didn't find" sentenceRest=" any money." hint="didn't find" />
+		<quest picId="10" audio="lg4_u1_g3_11.mp3" sentenceFamily="1" sentenceStart="He " answer="didn't lose" sentenceRest=" his cell phone." hint="didn't lose" />
+		<quest picId="11" audio="lg4_u1_g3_12.mp3" sentenceFamily="1" sentenceStart="She " answer="didn't win" sentenceRest=" a race." hint="didn't win"/>
+			
+
+
+
+
+	</questions>
+	
+</activity>

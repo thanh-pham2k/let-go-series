@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" exercise="3" rubric="Answer the questions." finalText="3" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound" sound="sounds/lg5_u7_g3_rubric.mp3"/>
+		<sound id="goodSound" sound="sounds/good.mp3"/>
+		<sound id="badSound" sound="sounds/bad.mp3"/>
+		<sound id="likeSound" sound="sounds/lg5_u7_g3_1.mp3"/>
+	</sounds>
+	<tests>
+		<test id = "0">
+			<item question ="Which one looks more beautiful?" answer1="a gazelle" answer2="a car" points1="1" points2="2"/>
+			<item question ="Which one sounds better?" answer1="quiet music" answer2="loud music" points1="1" points2="2"/>
+			<item question ="Which one smells better?" answer1="rain" answer2="the city" points1="1" points2="2"/>
+			<item question ="Which one feels better?" answer1="a rabbit" answer2="a baseball" points1="1" points2="2"/>
+			<item question ="Which one tastes better?" answer1="cake" answer2="pizza" points1="1" points2="2"/>
+		</test>
+		<test id = "1">
+			<item question ="Which one looks more beautiful?" answer1="a beach" answer2="a kite" points1="1" points2="2"/>
+			<item question ="Which one sounds better?" answer1="a piano" answer2="a rock song" points1="1" points2="2"/>
+			<item question ="Which one smells better?" answer1="an orange" answer2="a new car" points1="1" points2="2"/>
+			<item question ="Which one feels better?" answer1="a pillow" answer2="a baseball" points1="1" points2="2"/>
+			<item question ="Which one tastes better?" answer1="an apple" answer2="a hamburger" points1="1" points2="2"/>
+		</test>		
+	</tests>
+	<answers>
+		<answer id="0" min="0" max="5" sound="sounds/lg5_u7_g3_2.mp3" text  = "You are a mild person. You like quiet evenings at home. You don’t like loud parties. You probably like animals and the outdoors better than the city."/>
+		<answer id="1" min="6" max="9" sound="sounds/lg5_u7_g3_3.mp3" text  = "You are sometimes mild and sometimes wild. Sometimes you like to go hiking, and sometimes you like to listen to loud music. You like both the city and the outdoors. You can have fun anywhere."/>
+		<answer id="2" min="10" max="10" sound="sounds/lg5_u7_g3_4.mp3" text  = "You are a wild person. You like parties more than quiet evenings at home. You like to do everything with your friends. You probably like the city better than the outdoors."/>
+	</answers>
+</activity>
+

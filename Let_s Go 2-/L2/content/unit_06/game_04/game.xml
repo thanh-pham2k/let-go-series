@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="6" exercise="4" rubric="Listen and choose." finalTimeout="1" finalText="4" debug="0">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg2_u6_g4_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg1_ma_b4.mp3]]></sound>
+		
+		<sound id="yesHe"><![CDATA[sounds/lg2_u6_g4_yes_he.mp3]]></sound>
+		<sound id="yesShe"><![CDATA[sounds/lg2_u6_g4_yes_she.mp3]]></sound>
+		<sound id="yesThey"><![CDATA[sounds/lg2_u6_g4_yes_they.mp3]]></sound>
+		
+		<sound id="noHe"><![CDATA[sounds/lg2_u6_g4_no_he.mp3]]></sound>
+		<sound id="noShe"><![CDATA[sounds/lg2_u6_g4_no_she.mp3]]></sound>
+		<sound id="noThey"><![CDATA[sounds/lg2_u6_g4_no_they.mp3]]></sound>
+	</sounds>
+	<scenes id="scenes">
+		<scene>
+			<question text="Is the firefighter at the park?" falseText="Is the firefighter at the school?" prefix="He" clip="park" frame="1" sound="sounds/lg2_u6_g4_ff_pa.mp3" falseSound="sounds/lg2_u6_g4_ff_sc.mp3" />
+			<question text="Are the students in the taxi?" falseText="Are the students at the park?" prefix="They" clip="taxi" frame="2" sound="sounds/lg2_u6_g4_sts_ta.mp3" falseSound="sounds/lg2_u6_g4_sts_pa.mp3" />
+			<question text="Is the farmer in the restaurant?" falseText="Is the farmer in the taxi?" prefix="He" clip="restaurant" frame="1" sound="sounds/lg2_u6_g4_fa_re.mp3" falseSound="sounds/lg2_u6_g4_fa_ta.mp3" />
+			<question text="Are the police officers at the store?" falseText="Are the police officers in the restaurant?" prefix="They" clip="store" frame="2" sound="sounds/lg2_u6_g4_offs_st.mp3" falseSound="sounds/lg2_u6_g4_offs_re.mp3" />
+			<question text="Is the nurse at the school?" falseText="Is the nurse at the store?" prefix="She" clip="school" frame="1" sound="sounds/lg2_u6_g4_nu_sc.mp3" falseSound="sounds/lg2_u6_g4_nu_st.mp3" />
+		</scene>
+		<scene>
+			<question text="Are the firefighters at the park?" falseText="Are the firefighters at the school?" prefix="They" clip="park" frame="2" sound="sounds/lg2_u6_g4_ffs_pa.mp3" falseSound="sounds/lg2_u6_g4_ffs_sc.mp3" />
+			<question text="Is the student in the taxi?" falseText="Is the student at the park?" prefix="He" clip="taxi" frame="1" sound="sounds/lg2_u6_g4_st_ta.mp3" falseSound="sounds/lg2_u6_g4_st_pa.mp3" />
+			<question text="Are the farmers in the restaurant?" falseText="Are the farmers in the taxi?" prefix="They" clip="restaurant" frame="2" sound="sounds/lg2_u6_g4_fas_re.mp3" falseSound="sounds/lg2_u6_g4_fas_ta.mp3" />
+			<question text="Is the police officer at the store?" falseText="Is the police officer in the restaurant?" prefix="He" clip="store" frame="1" sound="sounds/lg2_u6_g4_off_st.mp3" falseSound="sounds/lg2_u6_g4_off_re.mp3" />
+			<question text="Are the nurses at the school?" falseText="Are the nurses at the store?" prefix="They" clip="school" frame="2" sound="sounds/lg2_u6_g4_nus_sc.mp3" falseSound="sounds/lg2_u6_g4_nus_st.mp3" />
+		</scene>
+		<scene>
+			<question text="Are the firefighters at the school?" falseText="Are the firefighters at the park?" prefix="They" clip="school" frame="4" sound="sounds/lg2_u6_g4_ffs_sc.mp3" falseSound="sounds/lg2_u6_g4_ffs_pa.mp3" />
+			<question text="Is the student at the park?" falseText="Is the student in the taxi?" prefix="He" clip="park" frame="3" sound="sounds/lg2_u6_g4_st_pa.mp3" falseSound="sounds/lg2_u6_g4_st_ta.mp3" />
+			<question text="Is the farmer in the taxi?" falseText="Is the farmer in the restaurant?" prefix="He" clip="taxi" frame="3" sound="sounds/lg2_u6_g4_fa_ta.mp3" falseSound="sounds/lg2_u6_g4_fa_re.mp3" />
+			<question text="Are the police officers in the restaurant?" falseText="Are the police officers at the store?" prefix="They" clip="restaurant" frame="4" sound="sounds/lg2_u6_g4_offs_re.mp3" falseSound="sounds/lg2_u6_g4_offs_st.mp3" />
+			<question text="Is the nurse at the store?" falseText="Is the nurse at the school?" prefix="She" clip="store" frame="3" sound="sounds/lg2_u6_g4_nu_st.mp3" falseSound="sounds/lg2_u6_g4_nu_sc.mp3" />
+		</scene>
+		<scene>
+			<question text="Is the firefighter at the school?" falseText="Is the firefighter at the park?" prefix="He" clip="school" frame="3" sound="sounds/lg2_u6_g4_ff_sc.mp3" falseSound="sounds/lg2_u6_g4_ff_pa.mp3" />
+			<question text="Are the students at the park?" falseText="Are the students in the taxi?" prefix="They" clip="park" frame="4" sound="sounds/lg2_u6_g4_sts_pa.mp3" falseSound="sounds/lg2_u6_g4_sts_ta.mp3" />
+			<question text="Are the farmers in the taxi?" falseText="Are the farmers in the restaurant?" prefix="They" clip="taxi" frame="4" sound="sounds/lg2_u6_g4_fas_ta.mp3" falseSound="sounds/lg2_u6_g4_fas_re.mp3" />
+			<question text="Is the police officer in the restaurant?" falseText="Is the police officer at the store?" prefix="He" clip="restaurant" frame="3" sound="sounds/lg2_u6_g4_off_re.mp3" falseSound="sounds/lg2_u6_g4_off_st.mp3" />
+			<question text="Are the nurses at the store?" falseText="Are the nurses at the school?" prefix="They" clip="store" frame="4" sound="sounds/lg2_u6_g4_nus_st.mp3" falseSound="sounds/lg2_u6_g4_nus_sc.mp3" />
+		</scene>
+		<scene>
+			<question text="Is the firefighter at the park?" falseText="Is the firefighter at the school?" prefix="He" clip="park" frame="1" sound="sounds/lg2_u6_g4_ff_pa.mp3" falseSound="sounds/lg2_u6_g4_ff_sc.mp3" />
+			<question text="Is the student in the taxi?" falseText="Is the student at the park?" prefix="He" clip="taxi" frame="1" sound="sounds/lg2_u6_g4_st_ta.mp3" falseSound="sounds/lg2_u6_g4_st_pa.mp3" />
+			<question text="Is the farmer in the restaurant?" falseText="Is the farmer in the taxi?" prefix="He" clip="restaurant" frame="1" sound="sounds/lg2_u6_g4_fa_re.mp3" falseSound="sounds/lg2_u6_g4_fa_ta.mp3" />
+			<question text="Are the police officers at the store?" falseText="Are the police officers in the restaurant?" prefix="They" clip="store" frame="2" sound="sounds/lg2_u6_g4_offs_st.mp3" falseSound="sounds/lg2_u6_g4_offs_re.mp3" />
+			<question text="Is the nurse at the school?" falseText="Is the nurse at the store?" prefix="She" clip="school" frame="1" sound="sounds/lg2_u6_g4_nu_sc.mp3" falseSound="sounds/lg2_u6_g4_nu_st.mp3" />
+		</scene>
+	</scenes>
+</activity>

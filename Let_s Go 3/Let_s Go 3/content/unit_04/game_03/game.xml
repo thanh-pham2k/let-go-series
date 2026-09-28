@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setings unit="4" exercise="3" rubric="Make the sentences." rubricSound="sounds/lg3_u4_g3_rubric.mp3" doneSound="lg3_ma_b2.mp3" finalText="2" wordSpace="12" answers="6" timeSpeed="4"/>
+	<sentences>
+		<sentence text="He's wearing a big, new, green sweater." width="45,70,24,50,50,60,75" audio="lg3_u4_g3_1.mp3" />
+		<sentence text="She's wearing a little, old, pink sweatshirt." width="55,70,24,50,40,45,85" audio="lg3_u4_g3_2.mp3" />
+		<sentence text="He's wearing a big, old, brown t-shirt." width="45,70,24,50,40,60,60"  audio="lg3_u4_g3_3.mp3" />
+		<sentence text="She's wearing a big, new, red jacket." width="55,70,24,50,50,50,60" audio="lg3_u4_g3_4.mp3" />
+		<sentence text="He's wearing big, new, striped shorts." width="45,70,50,50,70,65" audio="lg3_u4_g3_5.mp3" />
+		<sentence text="She's wearing big, new, yellow boots." width="55,70,50,50,60,55" audio="lg3_u4_g3_6.mp3" />
+		<sentence text="He's wearing new, little, blue shoes." width="45,70,50,50,50,60" audio="lg3_u4_g3_7.mp3" />
+		<sentence text="She's wearing little, old, black slippers." width="45,70,60,50,60,70" audio="lg3_u4_g3_8.mp3" />
+		<sentence text="He's wearing big, new, striped pajamas." width="45,70,50,50,65,70" audio="lg3_u4_g3_9.mp3" />
+		<sentence text="She's wearing a new, little, white blouse." width="55,70,20,50,50,50,55" audio="lg3_u4_g3_10.mp3" />
+		<sentence text="He's wearing big, new, blue jeans." width="45,70,50,50,50,55" audio="lg3_u4_g3_11.mp3" />
+		<sentence text="She's wearing a new, little, polka dot dress." width="55,70,24,50,70,60,50,60" audio="lg3_u4_g3_12.mp3" />
+		<sentence text="He's wearing little, old, plaid socks." width="45,70,60,50,60,50" audio="lg3_u4_g3_13.mp3" />
+		<sentence text="She's wearing a big, new, orange shirt." width="55,70,24,50,50,55,45" audio="lg3_u4_g3_14.mp3" />
+		<sentence text="He's wearing new, little, checked pants." width="45,70,50,55,65,50" audio="lg3_u4_g3_15.mp3" />
+		<sentence text="She's wearing a big, old, purple skirt." width="55,70,24,50,50,60,50" audio="lg3_u4_g3_16.mp3" />
+	</sentences>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="4" rubric="Answer the questions." finalTimeout="2" finalText="5">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lb_u3_g4_rubric.mp3]]></rubric>
+		<yes id="yesSound"><![CDATA[sounds/lb_u3_g4_25.mp3]]></yes>
+		<no id="noSound"><![CDATA[sounds/lb_u3_g4_26.mp3]]></no>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_g5.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<items id="items">
+		<item id="0" adjectiveId="0">
+			<text><![CDATA[red circle]]></text>
+			<image><![CDATA[swf/figure_01.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_1.mp3]]></questionSound>
+		</item>
+		<item id="1" adjectiveId="1">
+			<text><![CDATA[green circle]]></text>
+			<image><![CDATA[swf/figure_02.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_2.mp3]]></questionSound>
+		</item>
+		<item id="2" adjectiveId="0">
+			<text><![CDATA[orange circle]]></text>
+			<image><![CDATA[swf/figure_03.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_3.mp3]]></questionSound>
+		</item>
+		<item id="3" adjectiveId="1">
+			<text><![CDATA[little ball]]></text>
+			<image><![CDATA[swf/figure_04.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_4.mp3]]></questionSound>
+		</item>
+		<item id="4" adjectiveId="2">
+			<text><![CDATA[new kite]]></text>
+			<image><![CDATA[swf/figure_05.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_5.mp3]]></questionSound>
+		</item>
+		<item id="5" adjectiveId="3">
+			<text><![CDATA[old kite]]></text>
+			<image><![CDATA[swf/figure_06.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_6.mp3]]></questionSound>
+		</item>
+		<item id="6" adjectiveId="2">
+			<text><![CDATA[new doll]]></text>
+			<image><![CDATA[swf/figure_07.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_7.mp3]]></questionSound>
+		</item>
+		<item id="7" adjectiveId="3">
+			<text><![CDATA[old doll]]></text>
+			<image><![CDATA[swf/figure_08.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_8.mp3]]></questionSound>
+		</item>
+		<item id="8" adjectiveId="4">
+			<text><![CDATA[long car]]></text>
+			<image><![CDATA[swf/figure_09.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_9.mp3]]></questionSound>
+		</item>
+		<item id="9" adjectiveId="5">
+			<text><![CDATA[short car]]></text>
+			<image><![CDATA[swf/figure_10.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_10.mp3]]></questionSound>
+		</item>
+		<item id="10" adjectiveId="5">
+			<text><![CDATA[short robot]]></text>
+			<image><![CDATA[swf/figure_11.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_11.mp3]]></questionSound>
+		</item>
+		<item id="11" adjectiveId="7">
+			<text><![CDATA[square robot]]></text>
+			<image><![CDATA[swf/figure_12.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_12.mp3]]></questionSound>
+		</item>
+		<item id="12" adjectiveId="1">
+			<text><![CDATA[little bicycle]]></text>
+			<image><![CDATA[swf/figure_13.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_13.mp3]]></questionSound>
+		</item>
+		<item id="13" adjectiveId="3">
+			<text><![CDATA[old bicycle]]></text>
+			<image><![CDATA[swf/figure_14.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_14.mp3]]></questionSound>
+		</item>
+		<item id="14" adjectiveId="4">
+			<text><![CDATA[long jump rope]]></text>
+			<image><![CDATA[swf/figure_15.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_15.mp3]]></questionSound>
+		</item>
+		<item id="15" adjectiveId="5">
+			<text><![CDATA[short jump rope]]></text>
+			<image><![CDATA[swf/figure_16.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_16.mp3]]></questionSound>
+		</item>
+		<item id="16" adjectiveId="7">
+			<text><![CDATA[square puzzle]]></text>
+			<image><![CDATA[swf/figure_17.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_17.mp3]]></questionSound>
+		</item>
+		<item id="17" adjectiveId="6">
+			<text><![CDATA[round puzzle]]></text>
+			<image><![CDATA[swf/figure_18.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_18.mp3]]></questionSound>
+		</item>
+		<item id="18" adjectiveId="3">
+			<text><![CDATA[old bat]]></text>
+			<image><![CDATA[swf/figure_19.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_22.mp3]]></questionSound>
+		</item>
+		<item id="19" adjectiveId="2">
+			<text><![CDATA[new bat]]></text>
+			<image><![CDATA[swf/figure_20.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_23.mp3]]></questionSound>
+		</item>
+		<item id="20" adjectiveId="2">
+			<text><![CDATA[new bat2]]></text>
+			<image><![CDATA[swf/figure_21.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u3_g4_24.mp3]]></questionSound>
+		</item>
+	</items>
+</activity>

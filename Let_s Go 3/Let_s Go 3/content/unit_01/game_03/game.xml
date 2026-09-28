@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setings unit="1" exercise="3" rubric="Listen and answer." rubricSound="lg3_u1_g3_rubric.mp3" doneSound="lg3_ma_b2.mp3" finalText="2" answers="8" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3"/>
+<sentences> 
+	<sentence text="Does he have any chalk?" questionSound="lg3_u1_g3_1.mp3" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3" kind="1"/>
+	<sentence text="Does she have any tape?" questionSound="lg3_u1_g3_2.mp3" yesSound="lg3_u1_g3_19.mp3" noSound="lg3_u1_g3_20.mp3" kind="2"/>
+	<sentence text="Do they have any paint?" questionSound="lg3_u1_g3_3.mp3" yesSound="lg3_u1_g3_21.mp3" noSound="lg3_u1_g3_22.mp3" kind="3"/>
+	<sentence text="Does he have any scissors?" questionSound="lg3_u1_g3_4.mp3" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3" kind="1"/>
+	<sentence text="Does she have any glue?" questionSound="lg3_u1_g3_5.mp3" yesSound="lg3_u1_g3_19.mp3" noSound="lg3_u1_g3_20.mp3" kind="2"/>
+	<sentence text="Do they have any paper?" questionSound="lg3_u1_g3_6.mp3" yesSound="lg3_u1_g3_21.mp3" noSound="lg3_u1_g3_22.mp3" kind="3"/>
+	<sentence text="Does he have any string?" questionSound="lg3_u1_g3_7.mp3" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3" kind="1"/>
+	<sentence text="Does she have any ribbon? " questionSound="lg3_u1_g3_8.mp3" yesSound="lg3_u1_g3_19.mp3" noSound="lg3_u1_g3_20.mp3" kind="2"/>
+	<sentence text="Do they have any magnets?" questionSound="lg3_u1_g3_9.mp3" yesSound="lg3_u1_g3_21.mp3" noSound="lg3_u1_g3_22.mp3" kind="3"/>
+	<sentence text="Does he have any calculators?" questionSound="lg3_u1_g3_10.mp3" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3" kind="1"/>
+	<sentence text="Does she have any scissors?" questionSound="lg3_u1_g3_11.mp3" yesSound="lg3_u1_g3_19.mp3" noSound="lg3_u1_g3_20.mp3" kind="2"/>
+	<sentence text="Do they have any colored pencils?" questionSound="lg3_u1_g3_12.mp3" yesSound="lg3_u1_g3_21.mp3" noSound="lg3_u1_g3_22.mp3" kind="3"/>
+	<sentence text="Does he have any rubber bands?" questionSound="lg3_u1_g3_13.mp3" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3" kind="1"/>
+	<sentence text="Does she have any push pins?" questionSound="lg3_u1_g3_14.mp3" yesSound="lg3_u1_g3_19.mp3" noSound="lg3_u1_g3_20.mp3" kind="2"/>
+	<sentence text="Do they have any paint brushes?" questionSound="lg3_u1_g3_15.mp3" yesSound="lg3_u1_g3_21.mp3" noSound="lg3_u1_g3_22.mp3" kind="3"/>
+	<sentence text="Does he have any staplers?" questionSound="lg3_u1_g3_16.mp3" yesSound="lg3_u1_g3_17.mp3" noSound="lg3_u1_g3_18.mp3" kind="1"/>
+</sentences>

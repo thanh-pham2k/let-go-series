@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u8_g4_rubric.mp3" finalText="2" finalAudio="lg4_ma_g2.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="soundOne" file="lb_u5_g3_34.mp3"/>
+		<sound id="soundTwo" file="lb_u5_g3_35.mp3"/>
+		<sound id="soundThree" file="lb_u5_g3_36.mp3"/>
+				
+	</sounds>
+
+	<questions>
+		<quest id="0" aud0="lg4_u8_g4_1.mp3" aud1="lg4_u8_g4_2.mp3" ans0="clean the table" ans1="vacuum the carpet" />
+		<quest id="1" aud0="lg4_u8_g4_3.mp3" aud1="lg4_u8_g4_4.mp3" ans0="wash dishes" ans1="dry the dishes" />
+		<quest id="2" aud0="lg4_u8_g4_5.mp3" aud1="lg4_u8_g4_6.mp3" ans0="take out the trash" ans1="feed the dog" />
+		<quest id="3" aud0="lg4_u8_g4_7.mp3" aud1="lg4_u8_g4_8.mp3" ans0="write e-mail" ans1="paint pictures" />
+		<quest id="4" aud0="lg4_u8_g4_9.mp3" aud1="lg4_u8_g4_10.mp3" ans0="collect baseball cards" ans1="watch sports on TV" />
+		<quest id="5" aud0="lg4_u8_g4_11.mp3" aud1="lg4_u8_g4_12.mp3" ans0="surf the Internet" ans1="play badminton" />
+		<quest id="6" aud0="lg4_u8_g4_13.mp3" aud1="lg4_u8_g4_14.mp3" ans0="mail the letter" ans1="read a novel" />
+		<quest id="7" aud0="lg4_u8_g4_15.mp3" aud1="lg4_u8_g4_16.mp3" ans0="play tennis" ans1="go hiking" />
+		<quest id="8" aud0="lg4_u8_g4_17.mp3" aud1="lg4_u8_g4_18.mp3" ans0="go shopping" ans1="plant flowers" />
+		<quest id="9" aud0="lg4_u8_g4_19.mp3" aud1="lg4_u8_g4_20.mp3" ans0="see a play" ans1="go horseback riding" />
+		<quest id="10" aud0="lg4_u8_g4_21.mp3" aud1="lg4_u8_g4_22.mp3" ans0="play a board game" ans1="visit my grandparents" />
+		<quest id="11" aud0="lg4_u8_g4_23.mp3" aud1="lg4_u8_g4_24.mp3" ans0="download music" ans1="practice the violin" />
+
+
+
+
+		
+
+
+
+
+
+	</questions>
+	
+</activity>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UtF-8"?>
+<setings unit="1" exercise="4" rubric="Make the sentences." rubricSound="sounds/lg2_u1_g4_rubric.mp3" doneSound="lg2_ma_b2.mp3" finalText="2" wordSpace="12" answers="6" timeSpeed="3"/>
+	<sentences> lg2_u1_g4_1.mp3 
+		<sentence text="these are pencil sharpeners" width="70,50,70,110" audio="lg02_u1_g4_1.mp3" />
+		<sentence text="these are pictures" width="70,50,85" audio="lg02_u1_g4_2.mp3" />
+		<sentence text="these are paper clips" width="70,50,70,60"  audio="lg02_u1_g4_3.mp3" />
+		<sentence text="these are windows" width="70,50,100" audio="lg02_u1_g4_4.mp3" />
+		<sentence text="these are clocks" width="70,50,80" audio="lg02_u1_g4_5.mp3" />
+		<sentence text="these are workbooks" width="70,50,110" audio="lg02_u1_g4_6.mp3" />
+		<sentence text="these are calendars" width="70,50,110" audio="lg02_u1_g4_7.mp3" />
+		<sentence text="these are doors" width="70,50,70" audio="lg02_u1_g4_8.mp3" />
+		<sentence text="those are pencil sharpeners" width="70,50,70,110" audio="lg02_u1_g4_9.mp3" />
+		<sentence text="those are pictures" width="70,50,90" audio="lg02_u1_g4_10.mp3" />
+		<sentence text="those are paper clips" width="70,50,70,70" audio="lg02_u1_g4_11.mp3" />
+		<sentence text="those are windows" width="70,50,100" audio="lg02_u1_g4_12.mp3" />
+		<sentence text="those are clocks" width="70,50,80" audio="lg02_u1_g4_13.mp3" />
+		<sentence text="those are workbooks" width="70,50,110" audio="lg02_u1_g4_14.mp3" />
+		<sentence text="those are calendars" width="70,50,110" audio="lg02_u1_g4_15.mp3" />
+		<sentence text="those are doors" width="70,50,90" audio="lg02_u1_g4_16.mp3" />
+	</sentences>

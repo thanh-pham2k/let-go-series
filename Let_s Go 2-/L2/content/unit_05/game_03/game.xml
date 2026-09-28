@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setings unit="5" exercise="3" rubric="Listen and answer." rubricSound="lg2_u5_g3_rubric.mp3" doneSound="lg2_ma_b2.mp3" finalText="2" answers="8" yesSound="lg2_u5_g3_11.mp3" noSound="lg2_u5_g3_12.mp3"/>
+<sentences> 
+	<sentence text="Are they teachers?" questionSound="lg2_u5_g3_1.mp3" keywordSound="lg2_u5_g3_13.mp3"/>
+	<sentence text="Are they police officers?" questionSound="lg2_u5_g3_2.mp3" keywordSound="lg2_u5_g3_14.mp3"/>
+	<sentence text="Are they doctors?" questionSound="lg2_u5_g3_3.mp3" keywordSound="lg2_u5_g3_15.mp3"/>
+	<sentence text="Are they pilots?" questionSound="lg2_u5_g3_4.mp3" keywordSound="lg2_u5_g3_16.mp3"/>
+	<sentence text="Are they engineers?" questionSound="lg2_u5_g3_5.mp3" keywordSound="lg2_u5_g3_17.mp3"/>
+	<sentence text="Are they train conductors?" questionSound="lg2_u5_g3_6.mp3" keywordSound="lg2_u5_g3_18.mp3"/>
+	<sentence text="Are they firefighters?" questionSound="lg2_u5_g3_7.mp3" keywordSound="lg2_u5_g3_19.mp3"/>
+	<sentence text="Are they computer programmers?" questionSound="lg2_u5_g3_8.mp3" keywordSound="lg2_u5_g3_20.mp3"/>
+	<sentence text="Are they students?" questionSound="lg2_u5_g3_9.mp3" keywordSound="lg2_u5_g3_21.mp3"/>
+	<sentence text="Are they dentists?" questionSound="lg2_u5_g3_10.mp3" keywordSound="lg2_u5_g3_22.mp3"/>
+</sentences>

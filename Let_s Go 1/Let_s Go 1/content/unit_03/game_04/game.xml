@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="4" rubric="Listen and match." finalText="4" rubricMc="mcRubric" timeout="60" finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u3_g4_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b4.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/out_of_time.mp3]]></over>
+	</sounds>
+	<words shuffle="true">
+		<word id="0">
+			<text><![CDATA[a CD]]></text>
+			<image><![CDATA[swf/item_01.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_1.mp3]]></sound>
+		</word>
+		<word id="1">
+			<text><![CDATA[a cell phone]]></text>
+			<image><![CDATA[swf/item_02.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_3.mp3]]></sound>
+		</word>
+		<word id="2">
+			<text><![CDATA[a marker]]></text>
+			<image><![CDATA[swf/item_03.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_6.mp3]]></sound>
+		</word>
+		<word id="3">
+			<text><![CDATA[a video game]]></text>
+			<image><![CDATA[swf/item_04.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_2.mp3]]></sound>
+		</word>
+		<word id="4">
+			<text><![CDATA[a notebook]]></text>
+			<image><![CDATA[swf/item_05.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_7.mp3]]></sound>
+		</word>
+		<word id="5">
+			<text><![CDATA[a crayon]]></text>
+			<image><![CDATA[swf/item_06.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_5.mp3]]></sound>
+		</word>
+		<word id="6">
+			<text><![CDATA[a pencil case]]></text>
+			<image><![CDATA[swf/item_07.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_8.mp3]]></sound>
+		</word>
+		<word id="7">
+			<text><![CDATA[a computer]]></text>
+			<image><![CDATA[swf/item_08.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_4.mp3]]></sound>
+		</word>
+		<word id="8">
+			<text><![CDATA[CDs]]></text>
+			<image><![CDATA[swf/item_09.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_9.mp3]]></sound>
+		</word>
+		<word id="9">
+			<text><![CDATA[cell phones]]></text>
+			<image><![CDATA[swf/item_10.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_11.mp3]]></sound>
+		</word>
+		<word id="10">
+			<text><![CDATA[markers]]></text>
+			<image><![CDATA[swf/item_11.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_14.mp3]]></sound>
+		</word>
+		<word id="11">
+			<text><![CDATA[video games]]></text>
+			<image><![CDATA[swf/item_12.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_10.mp3]]></sound>
+		</word>
+		<word id="12">
+			<text><![CDATA[notebooks]]></text>
+			<image><![CDATA[swf/item_13.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_15.mp3]]></sound>
+		</word>
+		<word id="13">
+			<text><![CDATA[crayons]]></text>
+			<image><![CDATA[swf/item_14.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_13.mp3]]></sound>
+		</word>
+		<word id="14">
+			<text><![CDATA[pencil cases]]></text>
+			<image><![CDATA[swf/item_15.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_16.mp3]]></sound>
+		</word>
+		<word id="15">
+			<text><![CDATA[computers]]></text>
+			<image><![CDATA[swf/item_16.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u3_g4_12.mp3]]></sound>
+		</word>
+	</words>
+</activity>
+

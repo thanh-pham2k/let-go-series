@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="2" exercise="1" preserveOrder="0" useItems="1" finalText="1" doneSound="sounds/lb_ma_g1.mp3" good="sounds/good.mp3" bad="sounds/bad.mp3" question="sounds/lb_u1_g3_1.mp3" rubricSound="sounds/lb_u1_g3_rubric.mp3" rubricText="Do the puzzle.">
+	<item id="0" folder="images/car/" name="a car" answer="sounds/lb_u1_g3_3.mp3" final="lb_u1_g3.swf">
+		<row id="0" c0="b_0_0.jpg" c1="b_0_1.jpg" c2="b_0_2.jpg" />
+		<row id="1" c0="b_1_0.jpg" c1="b_1_1.jpg" c2="b_1_2.jpg" />
+	</item>
+</settings>

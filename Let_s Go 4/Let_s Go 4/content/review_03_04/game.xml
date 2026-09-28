@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u4_r2_rubric.mp3" finalAudio="lg4_ma_g5.mp3" finalText="5" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="whatShould" file="lg4_u4_r2_13.mp3"/>
+		
+	</sounds>
+
+	<questions>
+		
+		<quest picId="0" audio="lg4_u4_r2_1.mp3" ans="an engineer" />
+		<quest picId="1" audio="lg4_u4_r2_2.mp3" ans="an architect" />
+		<quest picId="2" audio="lg4_u4_r2_3.mp3" ans="an astronaut" />
+		<quest picId="3" audio="lg4_u4_r2_4.mp3" ans="a scientist" />
+		<quest picId="4" audio="lg4_u4_r2_5.mp3" ans="a news reporter" />		
+		<quest picId="5" audio="lg4_u4_r2_6.mp3" ans="a musician" />
+		<quest picId="6" audio="lg4_u4_r2_7.mp3" ans="a tour guide" />
+		<quest picId="7" audio="lg4_u4_r2_8.mp3" ans="a writer" />
+		<quest picId="8" audio="lg4_u4_r2_9.mp3" ans="a flight attendant" />
+		<quest picId="9" audio="lg4_u4_r2_10.mp3" ans="a delivery person" />
+		<quest picId="10" audio="lg4_u4_r2_11.mp3" ans="a truck driver" />
+		<quest picId="11" audio="lg4_u4_r2_12.mp3" ans="a pop idol" />
+
+
+	</questions>
+	
+</activity>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="18" fontlib="1" lib="f1" wordspace="7" sentencesspace="45" addspace="19" posx="145" posy="185" select="4" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1" todo="4">
+	
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/wrong.mp3"/>
+<sound name="intro" url="sounds/lg4_u2_g3_rubric.mp3"/>
+<sound name="goodjob" url="sounds/lg4_ma_g5.mp3"/>
+</sounds>
+
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg4_u2_g3_1.mp3">
+			<answer txt="He has|null|and a ball. She has|null|." gender="null" name="a mitt_a bat" dis="a ball|a bat_a ball|a mitt" good="1_0"/>
+			<answer txt="They don’t have|null|or|null|." gender="null" name="fishing rods_a bucket" dis="mitts|bats_a bat|a ball" good="1_2"/>
+			<answer txt="They’re probably|null|null|." gender="null" name="going to_play baseball" dis="going|to_baseball|go fishing" good="1_2"/>
+		</paragraph>
+		
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg4_u2_g3_4.mp3">
+			<answer txt="They have|null|and|null|." gender="null" name="tennis rackets_a tennis ball" dis="sunglasses|a tennis racket_a towel|sunglasses" good="2_2"/>
+			<answer txt="They don’t have|null|or|null|." gender="null" name="sunglasses_towels" dis="a tennis ball|tennis rackets_a tennis ball|tennis rackets" good="1_0"/>
+			<answer txt="They’re probably|null|null|." gender="null" name="going to_play tennis" dis="went to|gone_beach|play baseball" good="0_2"/>
+		</paragraph>
+
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg4_u2_g3_10.mp3">
+			<answer txt="They have|null|and|null|." gender="null" name="fishing rods_a bucket" dis="buckets|a fishing rod_buckets|a fishing rod" good="0_1"/>
+			<answer txt="They don’t have|null|or|null|." gender="null" name="mitts_a bat" dis="a bat|a baseball_a mitt|a baseball" good="2_1"/>
+			<answer txt="They’re probably|null|null|." gender="null" name="going to_go fishing" dis="went to|gone_gone fishing|ride a bicycle" good="1_1"/>
+		</paragraph>
+		
+		<paragraph id ="3" anim="swf/anim4.swf" sound="sounds/lg4_u2_g3_7.mp3">
+			<answer txt="He has|null|and|null|." gender="null" name="a helmet_a bicycle" dis="a hat|hats_a tennis racket|a hat" good="1_0"/>
+			<answer txt="He doesn’t have|null|or|null|." gender="null" name="a tennis racket_a tennis ball" dis="tennis balls|tennis rackets_tennis balls|a tennis racket" good="2_1"/>
+			<answer txt="He’s probably|null|null|." gender="null" name="going to_ride a bicycle" dis="went to|gone_play tennis|go hiking" good="0_2"/>
+		</paragraph>
+		
+		<paragraph id ="4" anim="swf/anim5.swf" sound="sounds/lg4_u2_g3_13.mp3">
+			<answer txt="She has|null|and|null|." gender="null" name="boots_a hat" dis="a buckets|a boot_hats|a mitt" good="1_1"/>
+			<answer txt="She doesn’t have|null|or|null|." gender="null" name="a fishing rod _a bucket" dis="fishing rods|a hat_buckets|boots" good="0_1"/>
+			<answer txt="She’s probably|null|null|." gender="null" name="going to_go hiking" dis="to|going_go fishing|hiking" good="1_2"/>
+		</paragraph>
+		
+		<paragraph id ="5" anim="swf/anim6.swf" sound="sounds/lg4_u2_g3_16.mp3">
+			<answer txt="They have|null|and|null|." gender="null" name="sunglasses_sunscreen" dis="sunscreen|a towel_boots|a fishing rod" good="1_2"/>
+			<answer txt="They don’t have|null|and|null|." gender="null" name=" boots_hats" dis="sunglasses|sunscreen_sunglasses|boots" good="2_1"/>
+			<answer txt="They’re probably|null|null|." gender="null" name="going to_go swimming" dis="went to|gone_swimming|go hiking" good="0_2"/>
+		</paragraph>
+		
+		
+	</paragraphs>
+</activity>

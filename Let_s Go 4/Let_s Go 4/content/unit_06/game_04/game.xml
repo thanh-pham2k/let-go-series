@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u6_g4_rubric.mp3" finalAudio="lg4_ma_b5.mp3" pic="lg4_unit06_game04" finalText="5">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+	
+		
+	</sounds>
+
+	<questions>
+		<quest typ="0" personId="2" paragraphAudio="lg4_u6_g4_1.mp3" paragraphText="Olivia is the girl in the blue shorts and white T-shirt. She's the girl with a long, black ponytail and green eyes.">
+		
+			<dropdown id="0" q="Where is Olivia?" ansAudio="lg4_u6_g4_2.mp3">
+				<dd good="1" ans="She's at the restaurant." />
+				<dd good="0" ans="She's at the bakery." />
+				<dd good="0" ans="She's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="What is Olivia doing?" ansAudio="lg4_u6_g4_3.mp3">
+				<dd good="1" ans="She's eating a hot dog." />
+				<dd good="0" ans="She's eating a cookie." />
+				<dd good="0" ans="She's going to the park." />
+		
+			</dropdown>
+		
+		</quest>
+
+		
+		<quest typ="1" personId="3" paragraphAudio="lg4_u6_g4_4.mp3" paragraphText="Ryan is the boy with short brown hair and brown eyes. He's the boy in the yellow sneakers and a green T-shirt.">
+		
+			<dropdown id="0" q="Where's Ryan?" ansAudio="lg4_u6_g4_5.mp3">
+				<dd good="1" ans="He's at the restaurant." />
+				<dd good="0" ans="He's riding a bicycle." />
+				<dd good="0" ans="He's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Who is Ryan with?" ansAudio="lg4_u6_g4_6.mp3">
+				<dd good="0" ans="He's with a woman in a gray suit and pink blouse." />
+				<dd good="1" ans="He's with a girl in blue shorts and a white T-shirt." />
+				<dd good="0" ans="He's with a girl in purple shorts and a white T-shirt." />
+		
+			</dropdown>
+		
+		</quest>
+
+		<quest typ="2" personId="4" paragraphAudio="lg4_u6_g4_7.mp3" paragraphText="Jade is the woman in the gray suit and pink blouse. She's the woman with short blond hair and blue eyes.">
+		
+			<dropdown id="0" q="Where's Jade?" ansAudio="lg4_u6_g4_8.mp3">
+				<dd good="1" ans="She's at the restaurant." />
+				<dd good="0" ans="She's at the bakery." />
+				<dd good="0" ans="She's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="What is Jade eating?" ansAudio="lg4_u6_g4_9.mp3">
+				<dd good="0" ans="She's eating a hot dog." />
+				<dd good="0" ans="She's eating french fries." />
+				<dd good="1" ans="She's eating ice cream." />
+		
+			</dropdown>
+		
+		</quest>
+		
+		<quest typ="3" personId="5" paragraphAudio="lg4_u6_g4_10.mp3" paragraphText="Max is the man in blue jeans and an orange shirt. He's the man with a moustache and beard.">
+		
+			<dropdown id="0" q="Where's Max?" ansAudio="lg4_u6_g4_11.mp3">
+				<dd good="0" ans="He's at the restaurant." />
+				<dd good="1" ans="He's at the bakery." />
+				<dd good="0" ans="He's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Who is Max with?" ansAudio="lg4_u6_g4_12.mp3">
+				<dd good="1" ans="He's with a woman with long, brown hair and a gray suit." />
+				<dd good="0" ans="He's with a woman with blond hair and a gray suit." />
+				<dd good="0" ans="He's with a girl in purple shorts and straight hair." />
+		
+			</dropdown>
+		
+		</quest>
+		
+		<quest typ="0" personId="6" paragraphAudio="lg4_u6_g4_13.mp3" paragraphText="Tina is the girl in the purple shorts and a white T-shirt. She's the girl eating french fries.">
+		
+			<dropdown id="0" q="Where's Tina?" ansAudio="lg4_u6_g4_14.mp3">
+				<dd good="0" ans="She's at the restaurant." />
+				<dd good="0" ans="She's at the bakery." />
+				<dd good="1" ans="She's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Who is Tina with?" ansAudio="lg4_u6_g4_15.mp3">
+				<dd good="1" ans="She's with a woman with short blond hair." />
+				<dd good="0" ans="She's with a man with a moustache." />
+				<dd good="0" ans="She's with a boy in a yellow shirt." />
+		
+			</dropdown>
+		
+		</quest>
+		
+		<quest typ="1" personId="7" paragraphAudio="lg4_u6_g4_16.mp3" paragraphText="Jason is the boy with short, blond hair and brown eyes. He's the boy in yellow sneakers and a green T-shirt.">
+		
+			<dropdown id="0" q="What is Jason doing?" ansAudio="lg4_u6_g4_17.mp3">
+				
+
+
+				<dd good="0" ans="He's eating ice cream." />
+				<dd good="0" ans="He's eating french fries." />
+				<dd good="1" ans="He's riding a bicycle." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Is Jason with someone?" ansAudio="lg4_u6_g4_18.mp3">
+				<dd good="0" ans="Yes. He's with a woman in a gray suit." />
+				<dd good="0" ans="Yes. He's with a woman in gray pants and a white T-shirt." />
+				<dd good="1" ans="No, he isn't." />
+		
+			</dropdown>
+		
+		</quest>
+
+		<quest typ="2" personId="8" paragraphAudio="lg4_u6_g4_19.mp3" paragraphText="Kayla is the woman in gray pants and a white T-shirt. She's the woman with short blond hair and blue eyes.">
+		
+			<dropdown id="0" q="What's Kayla doing?" ansAudio="lg4_u6_g4_20.mp3">
+				
+
+
+				<dd good="0" ans="She's eating ice cream." />
+				<dd good="0" ans="She's eating french fries." />
+				<dd good="1" ans="She's going to the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Is Kayla with someone?" ansAudio="lg4_u6_g4_21.mp3">
+				<dd good="1" ans="Yes. She's with a girl in purple shorts." />
+				<dd good="0" ans="Yes. She's with a man with glasses." />
+				<dd good="0" ans="No, she isn't." />
+		
+			</dropdown>
+		
+		</quest>
+		
+		<quest typ="3" personId="9" paragraphAudio="lg4_u6_g4_22.mp3" paragraphText="Tyler is the man in blue jeans and glasses. He's the man with brown hair and brown eyes.">
+		
+			<dropdown id="0" q="Where's Tyler?" ansAudio="lg4_u6_g4_23.mp3">
+				
+
+
+				<dd good="1" ans="He's at the restaurant." />
+				<dd good="0" ans="He's riding a bicycle." />
+				<dd good="0" ans="He's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Is Tyler with someone?" ansAudio="lg4_u6_g4_24.mp3">
+				<dd good="0" ans="Yes. He's with a woman in a gray suit." />
+				<dd good="1" ans="No, he isn't." />
+				<dd good="0" ans="Yes. He's with a girl in blue shorts." />
+		
+			</dropdown>
+		
+		</quest>
+		
+			<quest typ="3" personId="10" paragraphAudio="lg4_u6_g4_25.mp3" paragraphText="Josh is the man in black pants and a white shirt. He's the man with brown hair and a moustache.">
+		
+			<dropdown id="0" q="Where's Josh?" ansAudio="lg4_u6_g4_26.mp3">
+				
+
+
+				<dd good="0" ans="He's at the bakery." />
+				<dd good="0" ans="He's eating ice cream." />
+				<dd good="1" ans="He's at the park." />
+		
+			</dropdown>
+
+			<dropdown id="1" q="Is Josh with someone?" ansAudio="lg4_u6_g4_27.mp3">
+				<dd good="1" ans="No, he isn't." />
+				<dd good="0" ans="Yes. He's with the boy riding a bicycle." />
+				<dd good="0" ans="Yes. He's with a woman eating french fries." />
+		
+			</dropdown>
+		
+		</quest>
+
+
+
+	</questions>
+	
+</activity>

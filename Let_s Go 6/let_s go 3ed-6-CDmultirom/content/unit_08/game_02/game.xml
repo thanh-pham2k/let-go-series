@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity questions="8" allQuestions="12" fontsize="14" fontlib="1" lib="f1" wordspace="7" sentencesspace="25" addspace="19" posx="95" posy="370" select="8" strokecolor="0xFF0000" strokesize="1" shapecolor="0xFEFAE8" textWidth="1" sourcex="485" sourcey="230" sourcespace="600" wordsSpace="500" timeout="60" finalTimeout="1">
+	
+<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="intro" url="sounds/lg6_u8_g2_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg6_ma_g3.mp3"/>
+<sound name="nicetry" url="sounds/lg6_ma_g7.mp3"/>
+<sound name="tick" url="sounds/tick.mp3"/>
+<sound name="outoftime" url="sounds/out_of_time.mp3"/>
+</sounds>
+
+<paragraphs>		
+		<paragraph id="0" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_1.mp3" answer="sounds/lg6_u8_g2_2.mp3">
+			<answer word="If|could|go|anywhere|where|would|you|go" sentences="null|you|null|null|null|, |null|null|null|null|?"/>
+			<answer word="" sentences="I’d go to Hawaii."/>
+		</paragraph>
+		<paragraph id="1" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_3.mp3" answer="sounds/lg6_u8_g2_4.mp3">
+			<answer word="If|could|do|anything|would" sentences="null|you|null|null|null|,  what|null|you do?"/>
+			<answer word="I’d|go|surfing" sentences="null|null|null|."/>
+		</paragraph>		
+		
+		<paragraph id="2" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_5.mp3" answer="sounds/lg6_u8_g2_6.mp3">
+			<answer word="If|could|meet|anyone|who|would|meet" sentences="null|you|null|null|null|, |null|null|you|null|?"/>
+			<answer word="rock|star" sentences="I’d meet a|null|null|."/>
+		</paragraph>	
+		<paragraph id="3" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_7.mp3" answer="sounds/lg6_u8_g2_8.mp3">
+			<answer word="could|buy|anything|what|would|buy" sentences="If you|null|null|null|, |null|null|you|null|?"/>
+			<answer word="I’d|car" sentences="null|buy a|null|."/>
+		</paragraph>		
+		<paragraph id="4" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_9.mp3" answer="sounds/lg6_u8_g2_10.mp3">
+			<answer word="meet|anyone|who|would" sentences="If you could|null|null|, |null|null|you meet?"/>
+			<answer word="I’d|meet|movie|director" sentences="null|null|a|null|null|."/>
+		</paragraph>	
+		<paragraph id="5" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_11.mp3" answer="sounds/lg6_u8_g2_12.mp3">
+			<answer word="could|go|anywhere|where|would" sentences="If you|null|null|null|, |null|null|you go?"/>
+			<answer word="to|London" sentences="I’d go|null|null|."/>
+		</paragraph>		
+		<paragraph id="6" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_13.mp3" answer="sounds/lg6_u8_g2_14.mp3">
+			<answer word="If|could|go|anywhere" sentences="null|you|null|null|null|,  where would you go?"/>
+			<answer word="I’d|go|to|Mars" sentences="null|null|null|null|."/>
+		</paragraph>		
+		<paragraph id="7" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_15.mp3" answer="sounds/lg6_u8_g2_16.mp3">
+			<answer word="meet|anyone|who|would|you|meet" sentences="If you could|null|null|, |null|null|null|null|?"/>
+			<answer word="sports|star" sentences="I’d meet a|null|null|."/>
+		</paragraph>
+		<paragraph id="8" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_17.mp3" answer="sounds/lg6_u8_g2_18.mp3">
+			<answer word="could|buy|anything|would|you|buy" sentences="If you|null|null|null|,  what|null|null|null|?"/>
+			<answer word="a|pony" sentences="I’d buy|null|null|."/>
+		</paragraph>
+		<paragraph id="9" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_19.mp3" answer="sounds/lg6_u8_g2_20.mp3">
+			<answer word="could|buy|anything|would|you|buy" sentences="If you|null|null|null|,  what|null|null|null|?"/>
+			<answer word="a|motorbike" sentences="I’d buy|null|null|."/>
+		</paragraph>
+		<paragraph id="10" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_21.mp3" answer="sounds/lg6_u8_g2_22.mp3">
+			<answer word="could|do|anything|would|you|do" sentences="If you|null|null|null|,  what|null|null|null|?"/>
+			<answer word="go|kayaking" sentences="I’d|null|null|."/>
+		</paragraph>
+		<paragraph id="11" distracters="does|makes|swimming|leave|always|stay" sound="sounds/lg6_u8_g2_23.mp3" answer="sounds/lg6_u8_g2_24.mp3">
+			<answer word="could|do|anything|would|you|do" sentences="If you|null|null|null|,  what|null|null|null|?"/>
+			<answer word="go|skydiving" sentences="I’d|null|null|."/>
+		</paragraph>
+		
+		
+	</paragraphs>
+</activity>

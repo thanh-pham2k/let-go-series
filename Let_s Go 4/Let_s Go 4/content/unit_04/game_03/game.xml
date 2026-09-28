@@ -1,0 +1,50 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="2" exercise="1" rubric="Put the sentencions in order." rubricSound="lg4_u4_g3_rubric.mp3" finalText="3" timeOut="60" finalAudio="lg4_ma_b3.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOutOfTime" file="out_of_time.mp3" />
+	
+		
+	</sounds>
+	<questions>
+		<set id="0">
+		<quest ord="0" audio="lg4_u4_g3_1.mp3" s0="Kevin is" ans="a good"  s1="swimmer." />
+		<quest ord="1" audio="lg4_u4_g3_2.mp3" s0="Ryan is"  ans="a better"  s1="swimmer." />
+		<quest ord="2" audio="lg4_u4_g3_3.mp3" s0="Ann is"  ans="the best"  s1="swimmer." />
+		</set>
+		
+		<set id="1">
+		<quest ord="0" audio="lg4_u4_g3_4.mp3" s0="Ann is" ans="a good"  s1="dancer." />
+		<quest ord="1" audio="lg4_u4_g3_5.mp3" s0="Kevin is"  ans="a better"  s1="dancer." />
+		<quest ord="2" audio="lg4_u4_g3_6.mp3" s0="Ryan is"  ans="the best"  s1="dancer." />
+		</set>
+		
+		<set id="2">
+		<quest ord="0" audio="lg4_u4_g3_7.mp3" s0="Kevin is" ans="a bad"  s1="singer." />
+		<quest ord="1" audio="lg4_u4_g3_8.mp3" s0="Ann is"  ans="a worse"  s1="singer." />
+		<quest ord="2" audio="lg4_u4_g3_9.mp3" s0="Ryan is"  ans="the worst"  s1="singer." />
+		</set>
+		
+		<set id="3">
+		<quest ord="0" audio="lg4_u4_g3_10.mp3" s0="Ryan is" ans="a good"  s1="runner." />
+		<quest ord="1" audio="lg4_u4_g3_11.mp3" s0="Ann is"  ans="a better"  s1="runner." />
+		<quest ord="2" audio="lg4_u4_g3_12.mp3" s0="Kevin is"  ans="the best"  s1="runner." />
+		</set>
+		
+		<set id="4">
+		<quest ord="0" audio="lg4_u4_g3_13.mp3" s0="Ryan is" ans="a bad"  s1="soccer player." />
+		<quest ord="1" audio="lg4_u4_g3_14.mp3" s0="Ann is"  ans="a worse"  s1="soccer player." />
+		<quest ord="2" audio="lg4_u4_g3_15.mp3" s0="Kevin is"  ans="the worst"  s1="soccer player." />
+		</set>
+		
+		<set id="5">
+		<quest ord="0" audio="lg4_u4_g3_16.mp3" s0="Ryan is" ans="a good"  s1="cook." />
+		<quest ord="1" audio="lg4_u4_g3_17.mp3" s0="Kevin is"  ans="a better"  s1="cook." />
+		<quest ord="2" audio="lg4_u4_g3_18.mp3" s0="Ann is"  ans="the best"  s1="cook." />
+		</set>
+		
+	</questions>
+	
+</activity>

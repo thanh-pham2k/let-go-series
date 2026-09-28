@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="6" exercise="3" rubric="" rubricMc="" timeout="60" finalTimeout="1" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg6_u6_g3_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg6_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg6_ma_g7.mp3</done2>
+		<over id="overSound">sounds/out_of_time.mp3</over>
+		<tik id="tikSound">sounds/tick.mp3</tik>
+		<story id="storySound1">sounds/lg6_u6_g3_1.mp3</story>
+		<story id="storySound2">sounds/lg6_u6_g3_2.mp3</story>
+
+	</sounds>
+	<questions>
+		<question question="How long has Johnny been on a home stay?" 
+				  answer0="He’s been on a home stay for three months." 
+				  answer1="He’s been on a home stay since three months." 
+				  answer2="He’s been on a home stay since last weekend." 
+				  answer="0"/>
+				  
+		<question question="Is Johnny homesick?" 
+				  answer0="Yes, he’s sick at home." 
+				  answer1="No, he’s not homesick anymore." 
+				  answer2="Yes, he’s homesick anymore." 
+				  answer="1"/>
+				  
+		<question question="What has gotten better?" 
+		          answer0="Johnny’s friends have gotten better." 
+				  answer1="Johnny’s cold has gotten better." 
+				  answer2="Johnny’s English has gotten better." 
+				  answer="2"/>
+				  
+		<question question="Who is Johnny’s new friend?" 
+				  answer0="His new friend was his neighbor." 
+				  answer1="His new friend climbs mountains." 
+				  answer2="His new friend is his neighbor, Alex." 
+				  answer="2"/>
+				  
+		<question question="What has Alex done?" 
+		          answer0="He climbs mountains." 
+				  answer1="He has climbed the Seven Summits." 
+				  answer2="He was Johnny’s neighbor." 
+				  answer="1"/>
+				  
+		<question question="What are the Seven Summits?" 
+		          answer0="They are the highest mountains on seven continents." 
+				  answer1="They are Alex’s mountains." 
+				  answer2="They are in Australia." 
+				  answer="0"/>
+				  
+		<question question="What did the boys do last  Saturday night?" 
+		          answer0="They hiked up a mountain and camped." 
+				  answer1="They camped on the Seven Summits." 
+				  answer2="They climbed the Seven Summits." 
+				  answer="0"/>
+				  
+		<question question="When did they hike down?" 
+		          answer0="They hiked down on Saturday." 
+				  answer1="They hiked down on Sunday."  
+				  answer2="They hiked down since Saturday." 
+				  answer="1"/>
+				  
+		<question question="What did Alex say to Johnny?" 
+		          answer0="He said Johnny was a good climber." 
+				  answer1="He said he promised." 
+				  answer2="He said he liked mountain climbing." 
+				  answer="0"/>
+				  
+		<question question="What did Alex promise Johnny?" 
+		          answer0="He promised to him for to take him with next time." 
+				  answer1="He promised to go mountain climbing."
+				  answer2="He promised to take Johnny next time." 
+				  answer="2"/>		
+	</questions>
+
+	<questions>
+
+		<question question="How long has Brenda been on a home stay?" 
+				  answer0="She’s been on a home stay for five months." 
+				  answer1="She’s been on a home stay since five months." 
+				  answer2="She’s been on a home stay for five days." 
+				  answer="0"/>
+				  
+		<question question="How is Brenda’s English?" 
+				  answer0="Her English is getting better." 
+				  answer1="She doesn’t speak English anymore." 
+				  answer2="She has spoken English for five months." 
+				  answer="0"/>
+				  
+		<question question="What has Brenda been doing?" 
+		          answer0="She has made new friends." 
+				  answer1="She has been making new friends." 
+				  answer2="She making new friends." 
+				  answer="1"/>
+				  
+		<question question="Who is Sylvia?" 
+		          answer0="Sylvia is on a home stay." 
+				  answer1="Her new friend has been Sylvia." 
+				  answer2="Sylvia is Brenda’s new friend." 
+				  answer="2"/>
+				  
+		<question question="What does Sylvia do?" 
+		          answer0="She is a neighbor." 
+				  answer1="She is a new friend." 
+				  answer2="She plays soccer." 
+				  answer="2"/>
+				  
+		<question question="How long has Sylvia played soccer?" 
+		          answer0="She has played for ten years." 
+				  answer1="She has played for two hours." 
+				  answer2="She has played since ten years." 
+				  answer="0"/>
+				  
+		<question question="Where did the girls go yesterday?" 
+		          answer0="They went to soccer practice for two hours." 
+				  answer1="They practiced soccer." 
+				  answer2="They went to soccer practice." 
+				  answer="2"/>
+				  
+		<question question="Is Sylvia a good soccer player?" 
+		          answer0="Yes, she played great." 
+				  answer1="Yes, she’s a great soccer player." 
+				  answer2="No, she practiced great." 
+				  answer="1"/>
+				  
+		<question question="When does Sylvia have a game?" 
+		          answer0="She has a game next week." 
+				  answer1="She had a game last week. "
+				  answer2="She had a game for two hours." 
+				  answer="0"/>
+				  
+		<question question="What did Sylvia promise Brenda?" 
+		          answer0="She promised to take her to the game next week." 
+				  answer1="She promised her to take her to the game next week." 
+				  answer2="Her promised to take she to the game for last week." 
+				  answer="0"/>
+
+	</questions>
+
+
+</activity>

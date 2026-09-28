@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u1_g2_rubric.mp3" finalText="2" finalAudio="lg4_ma_b2.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+
+	<questions>
+		<quest picId="3" sentenceFamily="0" person="0" audio="lg4_u1_g2_1.mp3" sentenceStart="She " answer="had" sentenceRest="a party yesterday."/>
+		<quest picId="9" sentenceFamily="0" person="0" audio="lg4_u1_g2_2.mp3" sentenceStart="She " answer="didn't have" sentenceRest="a party yesterday."/>
+		<quest picId="4" sentenceFamily="1" person="0" audio="lg4_u1_g2_3.mp3" sentenceStart="She " answer="went" sentenceRest="to the store yesterday."/>
+		<quest picId="10" sentenceFamily="1" person="0" audio="lg4_u1_g2_4.mp3" sentenceStart="She " answer="didn't go" sentenceRest="to the store yesterday."/>
+		<quest picId="5" sentenceFamily="2" person="0" audio="lg4_u1_g2_5.mp3" sentenceStart="She " answer="drank" sentenceRest="hot chocolate yesterday."/>
+		<quest picId="11" sentenceFamily="2" person="0" audio="lg4_u1_g2_6.mp3" sentenceStart="She " answer="didn't drink" sentenceRest="hot chocolate yesterday."/>
+
+		<quest picId="0" sentenceFamily="0" person="1" audio="lg4_u1_g2_7.mp3" sentenceStart="He " answer="took" sentenceRest="a test yesterday."/>
+		<quest picId="6" sentenceFamily="0" person="1" audio="lg4_u1_g2_8.mp3" sentenceStart="He " answer="didn't take" sentenceRest="a test yesterday."/>
+		<quest picId="1" sentenceFamily="1" person="1" audio="lg4_u1_g2_9.mp3" sentenceStart="He " answer="flew" sentenceRest="a kite yesterday."/>
+		<quest picId="7" sentenceFamily="1" person="1" audio="lg4_u1_g2_10.mp3" sentenceStart="He " answer="didn't fly" sentenceRest="a kite yesterday."/>
+		<quest picId="2" sentenceFamily="2" person="1" audio="lg4_u1_g2_11.mp3" sentenceStart="He " answer="met" sentenceRest="a movie star yesterday."/>
+		<quest picId="8" sentenceFamily="2" person="1" audio="lg4_u1_g2_12.mp3" sentenceStart="He " answer="didn't meet" sentenceRest="a movie star yesterday."/>
+
+
+
+	</questions>
+	
+</activity>

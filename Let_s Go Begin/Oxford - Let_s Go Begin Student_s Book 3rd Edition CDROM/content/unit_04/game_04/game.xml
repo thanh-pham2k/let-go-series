@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="4" exercise="4" rubric="Answer the questions." finalTimeout="2" finalText="5">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lb_u4_g4_rubric.mp3]]></rubric>
+		<yes id="yesSound"><![CDATA[sounds/lb_u4_g4_11.mp3]]></yes>
+		<no id="noSound"><![CDATA[sounds/lb_u4_g4_12.mp3]]></no>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<done id="doneSound"><![CDATA[sounds/lb_ma_b5.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<items id="items">
+		<item id="0" adjectiveId="0">
+			<text><![CDATA[number_01]]></text>
+			<image><![CDATA[swf/number_01.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_1.mp3]]></questionSound>
+		</item>
+		<item id="1" adjectiveId="0">
+			<text><![CDATA[number_02]]></text>
+			<image><![CDATA[swf/number_02.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_2.mp3]]></questionSound>
+		</item>
+		<item id="2" adjectiveId="0">
+			<text><![CDATA[number_03]]></text>
+			<image><![CDATA[swf/number_03.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_3.mp3]]></questionSound>
+		</item>
+		<item id="3" adjectiveId="0">
+			<text><![CDATA[number_04.swf]]></text>
+			<image><![CDATA[swf/number_04.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_4.mp3]]></questionSound>
+		</item>
+		<item id="4" adjectiveId="0">
+			<text><![CDATA[number_05]]></text>
+			<image><![CDATA[swf/number_05.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_5.mp3]]></questionSound>
+		</item>
+		<item id="5" adjectiveId="0">
+			<text><![CDATA[number_06]]></text>
+			<image><![CDATA[swf/number_06.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_6.mp3]]></questionSound>
+		</item>
+		<item id="6" adjectiveId="0">
+			<text><![CDATA[number_07]]></text>
+			<image><![CDATA[swf/number_07.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_7.mp3]]></questionSound>
+		</item>
+		<item id="7" adjectiveId="0">
+			<text><![CDATA[number_08]]></text>
+			<image><![CDATA[swf/number_08.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_8.mp3]]></questionSound>
+		</item>
+		<item id="8" adjectiveId="0">
+			<text><![CDATA[number_09]]></text>
+			<image><![CDATA[swf/number_09.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_9.mp3]]></questionSound>
+		</item>
+		<item id="9" adjectiveId="0">
+			<text><![CDATA[number_10]]></text>
+			<image><![CDATA[swf/number_10.swf]]></image>
+			<questionSound><![CDATA[sounds/lb_u4_g4_10.mp3]]></questionSound>
+		</item>
+	</items>
+</activity>

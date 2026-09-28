@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="8" exercise="2" rubric="Listen and choose." finalText="4" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg2_u8_g2_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg2_ma_b4.mp3]]></sound>
+	</sounds>
+</activity>

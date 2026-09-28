@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3"  exercise="4" toAsk="8" timer="8" finalAudio="lg6_ma_b2.mp3" finalAudio2="lg5_ma_g7.mp3" rubricSound="lg6_u1_g3_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+		<sound id="shouldHe" file="lg6_u3_g4_1.mp3" />
+		<sound id="shouldntHe" file="lg6_u3_g4_5.mp3" />
+		<sound id="shouldShe" file="lg6_u3_g4_9.mp3" />
+		<sound id="shouldntShe" file="lg6_u3_g4_9.mp3" />
+
+	</sounds>
+
+	<questions>
+
+	
+	
+	<quest t="What should he do?" audio="lg6_u3_g4_2.mp3" pic="item_01" qId="shouldHe">He<q t="shouldn't">should</q><q t="get">write</q><q t="her">his</q>aunt a<q t="e-mail">letter</q>.</quest>
+	<quest t="What should he do?" audio="lg6_u3_g4_3.mp3" pic="item_02" qId="shouldHe">He<q t="shouldn't">should</q><q t="buy">read</q><q t="her">his</q>little sister a<q t="DVD">story</q>.</quest>
+	<quest t="What should he do?" audio="lg6_u3_g4_4.mp3" pic="item_03" qId="shouldHe">He<q t="shouldn't">should</q><q t="print">buy</q><q t="her">his</q>mother a<q t="watch">bracelet</q>.</quest>
+	
+	<quest t="What shouldn't he do?" audio="lg6_u3_g4_6.mp3" pic="item_04" qId="shouldntHe">He<q t="should">shouldn't</q><q t="give">send</q><q t="her">his</q>aunt an<q t="letter">e-mail</q>.</quest>
+	<quest t="What shouldn't he do?" audio="lg6_u3_g4_7.mp3" pic="item_05" qId="shouldntHe">He<q t="should">shouldn't</q><q t="gave">give</q><q t="hers">his</q>little sister a<q t="wallet">book</q>.</quest>
+	<quest t="What shouldn't he do?" audio="lg6_u3_g4_8.mp3" pic="item_06" qId="shouldntHe">He<q t="should">shouldn't</q><q t="sell">buy</q><q t="she">his</q>mother a<q t="picture">pan</q>.</quest>
+	
+	<quest t="What should she do?" audio="lg6_u3_g4_10.mp3" pic="item_07" qId="shouldShe">She<q t="shouldn't">should</q><q t="sell">give</q><q t="his">her</q>teacher an<q t="DVD">apple</q>.</quest>
+	<quest t="What should she do?" audio="lg6_u3_g4_11.mp3" pic="item_08" qId="shouldShe">She<q t="shouldn't">should</q><q t="print">give</q><q t="him">her</q>father a<q t="baseball">cake</q>.</quest>
+	<quest t="What should she do?" audio="lg6_u3_g4_12.mp3" pic="item_09" qId="shouldShe">She<q t="shouldn't">should</q><q t="show">send</q><q t="hers">her</q>friend an<q t="DVD">e-mail</q>.</quest>
+	
+	<quest t="What should she do?" audio="lg6_u3_g4_13.mp3" pic="item_10" qId="shouldntShe">She<q t="should">shouldn't</q><q t="print">give</q><q t="his">her</q>teacher a<q t="e-mail">picture</q>.</quest>
+	<quest t="What should she do?" audio="lg6_u3_g4_14.mp3" pic="item_11" qId="shouldntShe">She<q t="should">shouldn't</q><q t="sell">buy</q><q t="him">her</q>father<q t="wallet">socks</q>.</quest>
+	<quest t="What should she do?" audio="lg6_u3_g4_15.mp3" pic="item_12" qId="shouldntShe">She<q t="should">shouldn't</q><q t="get">send</q><q t="her">her</q>friend a<q t="wallet">postcard</q>.</quest>
+
+		
+
+	
+	</questions>
+	
+
+</activity>

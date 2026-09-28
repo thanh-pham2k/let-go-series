@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="5" exercise="1" rubric="Listen and choose. " rubricMc="mcRubric" finalText="2" finalTimeout="2">
+	<sounds>
+		<rubric id="soundRubric"><![CDATA[sounds/lg3_u5_g1_rubric.mp3]]></rubric>
+		<good id="soundGood"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="soundBad"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="soundDone"><![CDATA[sounds/lg1_ma_g2.mp3]]></done>
+		<over id="soundOver"><![CDATA[sounds/out_of_time.mp3]]></over>
+	</sounds>
+	<words shuffle="true">
+		<word id="0">
+			<image><![CDATA[swf/vocab/item_01.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_2.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_1.mp3]]></soundQ>
+		</word>
+		<word id="1">
+			<image><![CDATA[swf/vocab/item_02.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_3.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_1.mp3]]></soundQ>
+		</word>
+		<word id="2">
+			<image><![CDATA[swf/vocab/item_03.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_4.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_1.mp3]]></soundQ>
+		</word>
+		<word id="3">
+			<image><![CDATA[swf/vocab/item_04.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_5.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_1.mp3]]></soundQ>
+		</word>
+		<word id="4">
+			<image><![CDATA[swf/vocab/item_05.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_7.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_6.mp3]]></soundQ>
+		</word>
+		<word id="5">
+			<image><![CDATA[swf/vocab/item_06.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_8.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_6.mp3]]></soundQ>
+		</word>
+		<word id="6">
+			<image><![CDATA[swf/vocab/item_07.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_9.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_6.mp3]]></soundQ>
+		</word>
+		<word id="7">
+			<image><![CDATA[swf/vocab/item_08.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_10.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_6.mp3]]></soundQ>
+		</word>
+		<word id="8">
+			<image><![CDATA[swf/vocab/item_09.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_12.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_11.mp3]]></soundQ>
+		</word>
+		<word id="9">
+			<image><![CDATA[swf/vocab/item_10.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_13.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_11.mp3]]></soundQ>
+		</word>
+		<word id="10">
+			<image><![CDATA[swf/vocab/item_11.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_14.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_11.mp3]]></soundQ>
+		</word>
+		<word id="11">
+			<image><![CDATA[swf/vocab/item_12.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_15.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_11.mp3]]></soundQ>
+		</word>
+		<word id="12">
+			<image><![CDATA[swf/vocab/item_13.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_17.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_16.mp3]]></soundQ>
+		</word>
+		<word id="13">
+			<image><![CDATA[swf/vocab/item_14.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_18.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_16.mp3]]></soundQ>
+		</word>
+		<word id="14">
+			<image><![CDATA[swf/vocab/item_15.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_19.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_16.mp3]]></soundQ>
+		</word>
+		<word id="15">
+			<image><![CDATA[swf/vocab/item_16.swf]]></image>
+			<sound><![CDATA[sounds/vocab/lg3_u5_g1_20.mp3]]></sound>
+			<soundQ><![CDATA[sounds/vocab/lg3_u5_g1_16.mp3]]></soundQ>
+		</word>
+	</words>
+</activity>

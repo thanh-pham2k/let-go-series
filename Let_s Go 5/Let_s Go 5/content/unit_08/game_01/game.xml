@@ -1,0 +1,44 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="3" exercise="1" rubric="Put the sentences in order." rubricSound="lg5_u8_g1_rubric.mp3" finalText="3" finalAudio="lg5_ma_b3.mp3" finalAudio2="lg5_ma_g7.mp3" toAsk="1">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+	<questions>
+		<set id="0">
+		<quest ord="0" audio="lg5_u8_g1_1.mp3" d="I’m hungry. Let’s get something to eat." />
+		<quest ord="1" audio="lg5_u8_g1_2.mp3" d="That’s a good idea. What should we get?" />
+		<quest ord="2" audio="lg5_u8_g1_3.mp3" d="I don’t know. What do you think that is?" />
+		<quest ord="3" audio="lg5_u8_g1_4.mp3" d="I think it’s tofu. It looks good." />
+		<quest ord="4" audio="lg5_u8_g1_5.mp3" d="Really? I think it looks like old cheese." />
+		<quest ord="5" audio="lg5_u8_g1_6.mp3" d="What about crepes?" />
+		<quest ord="6" audio="lg5_u8_g1_7.mp3" d="They look good." />
+		<quest ord="7" audio="lg5_u8_g1_8.mp3" d="Have you ever eaten crepes before?" />
+		<quest ord="8" audio="lg5_u8_g1_9.mp3" d="No, I haven’t, but I’ll try them." />
+		</set>
+		<set id="1">				
+		<quest ord="0" audio="lg5_u8_g1_10.mp3" d="I’m hungry. Let’s get something to eat." />
+		<quest ord="1" audio="lg5_u8_g1_11.mp3" d="That’s a good idea. What should we get?" />
+		<quest ord="2" audio="lg5_u8_g1_12.mp3" d="How about burritos?" />		
+		<quest ord="3" audio="lg5_u8_g1_13.mp3" d="I don’t know. I haven’t eaten them before." />
+		<quest ord="4" audio="lg5_u8_g1_14.mp3" d="They look good." />
+		<quest ord="5" audio="lg5_u8_g1_15.mp3" d="You try them. I’ll get sushi." />
+		<quest ord="6" audio="lg5_u8_g1_16.mp3" d="Have you ever eaten sushi before?" />
+		<quest ord="7" audio="lg5_u8_g1_17.mp3" d="Yes, I have." />
+		</set>
+		<set id="2">
+		<quest ord="0" audio="lg5_u8_g1_18.mp3" d="I’m hungry. Let’s get something to eat." />
+		<quest ord="1" audio="lg5_u8_g1_19.mp3" d="What should we get?" />
+		<quest ord="2" audio="lg5_u8_g1_20.mp3" d="I don’t know, but that looks interesting." />		
+		<quest ord="3" audio="lg5_u8_g1_21.mp3" d="I think it’s kimchi. It looks good." />
+		<quest ord="4" audio="lg5_u8_g1_22.mp3" d="Really? Have you ever eaten kimchi before?" />
+		<quest ord="5" audio="lg5_u8_g1_23.mp3" d="No, I haven’t, but I’ll try it. " />
+		<quest ord="6" audio="lg5_u8_g1_24.mp3" d="I don’t think I’ll like it. I’ll get ravioli." />
+		<quest ord="7" audio="lg5_u8_g1_25.mp3" d="That looks good, too." />
+		</set>
+	</questions>
+	
+</activity>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<activity>
+
+<conf instruction="Listenand match." game="2" unit="2" questions="8" timeout="60" finalTimeout="1" contentWidth="360" startX="113" startY="95" pictureX="633" pictureY="230" sourceWidth="500" sourceX="642" sourceY="330" etap="2" addSpace="10"/>
+
+<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="intro" url="sounds/lg6_u2_g2_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg6_ma_g3.mp3"/>
+<sound name="nicetray" url="sounds/lg6_ma_g7.mp3"/>
+<sound name="tick" url="sounds/tick.mp3"/>
+<sound name="outoftime" url="sounds/out_of_time.mp3"/>
+</sounds>
+
+<question>
+	<quest id="0" txt="What did he say?" sound="sounds/lg6_u2_g2_13.mp3"/>
+	<quest id="1" txt="What did she say?" sound="sounds/lg6_u2_g2_14.mp3"/>
+</question>
+
+<persons>
+	<person id="0" gender="b1" ask="0">
+		<person id="0" sound="sounds/lg6_u2_g2_1.mp3" sentences="The acrobat is beautiful." picture="1" response="sounds/lg6_u2_g2_15.mp3" text="He said the acrobat was beautiful. " gender="g2"/>
+		<person id="1" sound="sounds/lg6_u2_g2_3.mp3" sentences="He said the dancers were graceful." picture="3" response="sounds/lg6_u2_g2_17.mp3" text="He said the dancers were graceful." gender="g2"/>
+		<person id="2" sound="sounds/lg6_u2_g2_5.mp3" sentences="I’m sad." picture="5" response="sounds/lg6_u2_g2_19.mp3" text="He said he was sad." gender="g2"/>
+	</person>
+	
+	<person id="1" gender="b2"  ask="0">
+		<person id="0" sound="sounds/lg6_u2_g2_2.mp3" sentences="The man is strong." picture="2" response="sounds/lg6_u2_g2_16.mp3" text="He said the man was strong." gender="g1"/>
+		<person id="1" sound="sounds/lg6_u2_g2_4.mp3" sentences="It’s delicious." picture="4" response="sounds/lg6_u2_g2_18.mp3" text="He said it was delicious." gender="g1"/>
+		<person id="2" sound="sounds/lg6_u2_g2_6.mp3" sentences="He’s tall." picture="6" response="sounds/lg6_u2_g2_20.mp3" text="He said he was tall." gender="g1"/>
+	</person>
+	
+	<person id="2" gender="g1"  ask="1">
+		<person id="0" sound="sounds/lg6_u2_g2_7.mp3" sentences="The clowns are silly." picture="7" response="sounds/lg6_u2_g2_21.mp3" text="She said the clowns were silly." gender="b2"/>
+		<person id="1" sound="sounds/lg6_u2_g2_9.mp3" sentences="The ice cream is delicious." picture="9" response="sounds/lg6_u2_g2_23.mp3" text="She said the ice cream was delicious." gender="b2"/>
+		<person id="2" sound="sounds/lg6_u2_g2_11.mp3" sentences="She’s graceful." picture="11" response="sounds/lg6_u2_g2_25.mp3" text="She said she was graceful." gender="b2"/>
+	</person>
+	
+	<person id="3" gender="g2"  ask="1">
+		<person id="0" sound="sounds/lg6_u2_g2_8.mp3" sentences="The T-shirt is expensive." picture="8" response="sounds/lg6_u2_g2_22.mp3" text="She said the T-shirt was expensive." gender="b1"/>
+		<person id="1" sound="sounds/lg6_u2_g2_10.mp3" sentences="They’re happy." picture="10" response="sounds/lg6_u2_g2_24.mp3" text="She said they were happy." gender="b1"/>
+		<person id="2" sound="sounds/lg6_u2_g2_12.mp3" sentences="They’re amazing." picture="12" response="sounds/lg6_u2_g2_26.mp3" text="She said they were amazing." gender="b1"/>
+	</person>
+</persons>
+</activity>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="3" rubricSound="lg5_u8_g3_rubric.mp3" finalAudio="lg5_ma_g6.mp3" finalAudio2="lg5_ma_g7.mp3" finalText="5" toAsk="8">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="sentenceAudio" file="lg5_u8_g3_1.mp3"/>
+		
+	</sounds>
+
+	<questions>
+		<sentence>Today<q>was</q>the best day ever! We<q>woke up</q>at dawn and ate breakfast. I<q>ate</q>cereal with honey and drank coconut milk.<q>I’ve never</q>drunk coconut milk<q>before.</q>It was<q>delicious.</q>Then, we went on a safari into the Serengeti National Park. Did you know that safari is a Swahili word? It means journey. It was my<q>first</q>safari. I<q>have seen</q>giraffes and elephants<q>before</q>in the zoo. But,<q>I’ve never seen</q>them in the wild. I<q>took</q>_<q>a lot of</q> photos.<q>Tomorrow</q>we’re<q>going to go</q>to the Grumeti River. We can see a lot of crocodiles there.<q>I’ve never seen</q>crocodiles<q>before</q>, either.</sentence>
+
+	
+	</questions>
+	
+</activity>

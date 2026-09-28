@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="5" exercise="2" rubric="Listen and choose." finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u5_g2_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/lg1_u5_g2_11.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/lg1_u5_g2_12.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b3.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<questions>
+		<question id="0">
+			<text>Can you count to ten?</text>
+			<clip>count_mc</clip>
+		</question>
+		<question id="1">
+			<text>Can you read a book?</text>
+			<clip>book_mc</clip>
+		</question>
+		<question id="2">
+			<text>Can you say the alphabet?</text>
+			<clip>alphabet_mc</clip>
+		</question>
+		<question id="3">
+			<text>Can you ride a bicycle?</text>
+			<clip>bicycle_mc</clip>
+		</question>
+		<question id="4">
+			<text>Can you fly a kite?</text>
+			<clip>kite_mc</clip>
+		</question>
+		<question id="5">
+			<text>Can you jump rope?</text>
+			<clip>rope_mc</clip>
+		</question>
+		<question id="6">
+			<text>Can you play with yo-yo?</text>
+			<clip>yoyo_mc</clip>
+		</question>
+	</questions>
+</activity>

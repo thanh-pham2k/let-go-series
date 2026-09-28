@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<activity unit="2" exercise="4" rubricSound="lg4_u2_g4_rubric.mp3" finalText="4" finalAudio="lg4_ma_b4.mp3">
+
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="outOfTime" file="out_of_time.mp3" />
+		
+	</sounds>
+
+	<questions>
+		<quest picId="0" audio="lg4_u2_g4_1.mp3" bool="1" sentenceFamily="0" sentence="They have a soccer ball. They’re probably going to go to the park." />
+		<quest picId="0" audio="lg4_u2_g4_2.mp3" bool="0" sentenceFamily="0" sentence="They have tennis rackets. They’re probably going to go to the park." />
+		<quest picId="1" audio="lg4_u2_g4_1.mp3" bool="0" sentenceFamily="0" sentence="They have a soccer ball. They’re probably going to go to the park." />
+		<quest picId="1" audio="lg4_u2_g4_2.mp3"  bool="1" sentenceFamily="0" sentence="They have tennis rackets. They’re probably going to go to the park." />
+		<quest picId="2" audio="lg4_u2_g4_3.mp3" bool="1" sentenceFamily="1" sentence="She has a book. She’s probably going to go to the library." />
+		<quest picId="2" audio="lg4_u2_g4_4.mp3" bool="0" sentenceFamily="1" sentence="He has a book. He’s probably going to go to the library." />
+		<quest picId="3" audio="lg4_u2_g4_3.mp3" bool="0" sentenceFamily="1" sentence="She has a book. She’s probably going to go to the library." />
+		<quest picId="3" audio="lg4_u2_g4_4.mp3" bool="1" sentenceFamily="1" sentence="He has a book. He’s probably going to go to the library." />
+		<quest picId="4" audio="lg4_u2_g4_5.mp3" bool="1" sentenceFamily="2" sentence="They have a kite. They’re probably going to go to the park." />
+		<quest picId="4" audio="lg4_u2_g4_6.mp3" bool="0" sentenceFamily="2" sentence="She has a kite. She’s probably going to go to the park." />
+		<quest picId="5" audio="lg4_u2_g4_5.mp3" bool="0" sentenceFamily="2" sentence="They have a kite. They’re probably going to go to the park." />
+		<quest picId="5" audio="lg4_u2_g4_6.mp3" bool="1" sentenceFamily="2" sentence="She has a kite. She’s probably going to go to the park." />
+		<quest picId="6" audio="lg4_u2_g4_7.mp3" bool="1" sentenceFamily="3" sentence="He has a towel. He’s probably going to go to the swimming pool." />
+		<quest picId="6" audio="lg4_u2_g4_8.mp3" bool="0" sentenceFamily="3" sentence="She has a towel. She’s probably going to go to the swimming pool." />
+		<quest picId="7" audio="lg4_u2_g4_7.mp3" bool="0" sentenceFamily="3" sentence="He has a towel. He’s probably going to go to the swimming pool." />
+		<quest picId="7" audio="lg4_u2_g4_8.mp3" bool="1" sentenceFamily="3" sentence="She has a towel. She’s probably going to go to the swimming pool." />			
+		<quest picId="8" audio="lg4_u2_g4_9.mp3" bool="1" sentenceFamily="4" sentence="They want a cookie. They’re probably going to go to the bakery." />
+		<quest picId="8" audio="lg4_u2_g4_10.mp3" bool="0" sentenceFamily="4" sentence="He wants a cookie. He’s probably going to go to the bakery." />
+		<quest picId="9" audio="lg4_u2_g4_9.mp3" bool="0" sentenceFamily="4" sentence="They want a cookie. They’re probably going to go to the bakery." />
+		<quest picId="9" audio="lg4_u2_g4_10.mp3" bool="1" sentenceFamily="4" sentence="He wants a cookie. He’s probably going to go to the bakery." />
+		<quest picId="10" audio="lg4_u2_g4_11.mp3" bool="1" sentenceFamily="5" sentence="He wants pizza. He’s probably going to go to the restaurant." />
+		<quest picId="10" audio="lg4_u2_g4_12.mp3" bool="0" sentenceFamily="5" sentence="She wants spaghetti. She’s probably going to go to the restaurant." />
+		<quest picId="11" audio="lg4_u2_g4_11.mp3" bool="0" sentenceFamily="5" sentence="He wants pizza. He’s probably going to go to the restaurant." />
+		<quest picId="11" audio="lg4_u2_g4_12.mp3" bool="1" sentenceFamily="5" sentence="She wants spaghetti. She’s probably going to go to the restaurant." />
+		<quest picId="12" audio="lg4_u2_g4_13.mp3" bool="1" sentenceFamily="6" sentence="They have sleeping bags. They’re probably going to go to the mountains." />
+		<quest picId="12" audio="lg4_u2_g4_14.mp3" bool="0" sentenceFamily="6" sentence="She has a sleeping bag. She’s probably going to go to the mountains." />
+		<quest picId="13" audio="lg4_u2_g4_13.mp3" bool="0" sentenceFamily="6" sentence="They have sleeping bags. They’re probably going to go to the mountains." />
+		<quest picId="13" audio="lg4_u2_g4_14.mp3" bool="1" sentenceFamily="6" sentence="She has a sleeping bag. She’s probably going to go to the mountains." />
+		
+	</questions>
+	
+</activity>

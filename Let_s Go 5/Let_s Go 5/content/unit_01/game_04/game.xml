@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="3" finalText="3" timer="10" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_b7.mp3" rubricSound="lg5_u1_g4_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" typ="0" subtyp="0" image="pic_01.swf" audio="lg5_u1_g4_1.mp3" sentence="There are a few markers."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_02.swf" audio="lg5_u1_g4_2.mp3" sentence="There are a few crayons."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_03.swf" audio="lg5_u1_g4_3.mp3" sentence="There is a lot of string."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_04.swf" audio="lg5_u1_g4_4.mp3" sentence="There is a little tape."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_05.swf" audio="lg5_u1_g4_5.mp3" sentence="There are a few bottles of glue."/>			
+		<quest id="0" typ="0" subtyp="0" image="pic_06.swf" audio="lg5_u1_g4_6.mp3" sentence="There is a little paint."/>
+		
+		<quest id="0" typ="0" subtyp="1" image="pic_10.swf" audio="lg5_u1_g4_7.mp3" sentence="There are a lot of birds."/>	
+		<quest id="0" typ="0" subtyp="1" image="pic_08.swf" audio="lg5_u1_g4_8.mp3" sentence="There are a few cats."/>
+		<quest id="0" typ="0" subtyp="1" image="pic_09.swf" audio="lg5_u1_g4_9.mp3" sentence="There are a few rabbits."/>
+		<quest id="0" typ="0" subtyp="1" image="pic_07.swf" audio="lg5_u1_g4_10.mp3" sentence="There are a few dogs."/>
+		
+
+		<quest id="0" typ="1" subtyp="0" audio="lg5_u1_g4_11.mp3" sentence="There are a lot of markers."/>
+		<quest id="0" typ="1" subtyp="0" audio="lg5_u1_g4_12.mp3" sentence="There are a lot of crayons."/>
+		<quest id="0" typ="1" subtyp="0" audio="lg5_u1_g4_13.mp3" sentence="There is a little string."/>
+		<quest id="0" typ="1" subtyp="0" audio="lg5_u1_g4_14.mp3" sentence="There is a lot of tape."/>
+		<quest id="0" typ="1" subtyp="0" audio="lg5_u1_g4_15.mp3" sentence="There are a lot of bottles of glue."/>			
+		<quest id="0" typ="1" subtyp="0" audio="lg5_u1_g4_16.mp3" sentence="There is a lot of paint."/>
+		
+		<quest id="0" typ="1" subtyp="1" audio="lg5_u1_g4_17.mp3" sentence="There are a few birds."/>	
+		<quest id="0" typ="1" subtyp="1" audio="lg5_u1_g4_18.mp3" sentence="There are a lot of cats."/>
+		<quest id="0" typ="1" subtyp="1" audio="lg5_u1_g4_19.mp3" sentence="There are a lot of rabbits."/>
+		<quest id="0" typ="1" subtyp="1" audio="lg5_u1_g4_20.mp3" sentence="There are a lot of dogs."/>
+			
+		<quest id="0" typ="2" subtyp="2" image="pic_15.swf" audio="lg5_u1_g4_21.mp3" sentence="There are more cats than dogs."/>
+		<quest id="0" typ="2" subtyp="2" image="pic_16.swf" audio="lg5_u1_g4_22.mp3" sentence="There are more birds than rabbits."/>
+		<quest id="0" typ="2" subtyp="2" image="pic_17.swf" audio="lg5_u1_g4_23.mp3" sentence="There are more birds than cats."/>
+		<quest id="0" typ="2" subtyp="2" image="pic_18.swf" audio="lg5_u1_g4_24.mp3" sentence="There are more birds than dogs."/>
+		<quest id="0" typ="2" subtyp="2" image="pic_19.swf" audio="lg5_u1_g4_25.mp3" sentence="There are more rabbits than dogs."/>			
+		
+		<quest id="0" typ="2" subtyp="3" image="pic_20.swf" audio="lg5_u1_g4_26.mp3" sentence="There is more pizza than cake."/>
+		<quest id="0" typ="2" subtyp="3" image="pic_21.swf" audio="lg5_u1_g4_27.mp3" sentence="There is more chicken than rice."/>	
+
+		<quest id="0" typ="3" subtyp="2" audio="lg5_u1_g4_28.mp3" sentence="There are more dogs than cats."/>
+		<quest id="0" typ="3" subtyp="2" audio="lg5_u1_g4_29.mp3" sentence="There are more rabbits than birds."/>
+		<quest id="0" typ="3" subtyp="2" audio="lg5_u1_g4_30.mp3" sentence="There are more cats than birds."/>
+		<quest id="0" typ="3" subtyp="2" audio="lg5_u1_g4_31.mp3" sentence="There are more dogs than birds."/>
+		<quest id="0" typ="3" subtyp="2" audio="lg5_u1_g4_32.mp3" sentence="There are more dogs than rabbits."/>			
+		
+		<quest id="0" typ="3" subtyp="3" audio="lg5_u1_g4_33.mp3" sentence="There is more cake than pizza."/>
+		<quest id="0" typ="3" subtyp="3" audio="lg5_u1_g4_34.mp3" sentence="There is more rice than chicken."/>	
+
+
+	</questions>
+</activity>

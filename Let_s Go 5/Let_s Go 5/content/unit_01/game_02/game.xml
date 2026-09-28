@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="3" rubric="Make the sentences." finalText="3" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_b7.mp3" rubricSound="lg5_u1_g2_rubric.mp3" >
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" image="item_01.swf" qaudio="lg5_u1_g2_1.mp3" aaudio="lg5_u1_g2_3.mp3" q="How much milk is there?" a="There,is,a little,milk." d="are,a lot of,a few,chicken.,cookies."/>
+		<quest id="1" image="item_02.swf" qaudio="lg5_u1_g2_1.mp3" aaudio="lg5_u1_g2_2.mp3" q="How much milk is there?" a="There,is,a lot,of,milk."  d="are,a little,a few,chicken.,cookies."/>
+
+		<quest id="2" image="item_03.swf" qaudio="lg5_u1_g2_4.mp3" aaudio="lg5_u1_g2_5.mp3" q="How many cookies are there?" a="There,are,a few,cookies."  d="is,a little,a lot,of,chicken.,popcorn." />
+		<quest id="3" image="item_04.swf" qaudio="lg5_u1_g2_4.mp3" aaudio="lg5_u1_g2_6.mp3" q="How many cookies are there?" a="There,are,a lot,of,cookies." d="is,a little,a few,popcorn.,milk." />
+		
+		<quest id="4" image="item_05.swf" qaudio="lg5_u1_g2_7.mp3" aaudio="lg5_u1_g2_8.mp3" q="How much popcorn is there?" a="There,is,a little,popcorn." d="are,a lot,of,a few,cookies.,milk."/>
+		<quest id="5" image="item_06.swf" qaudio="lg5_u1_g2_7.mp3" aaudio="lg5_u1_g2_9.mp3" q="How much popcorn is there?" a="There,is,a lot,of,popcorn." d="are,a little,a few,milk.,chicken."/>
+		
+		<quest id="6" image="item_07.swf" qaudio="lg5_u1_g2_10.mp3" aaudio="lg5_u1_g2_11.mp3" q="How much fried chicken is there?" a="There,is,a lot,of,fried,chicken." d="are,a little,a few,cookies.,milk." />
+		<quest id="7" image="item_08.swf" qaudio="lg5_u1_g2_10.mp3" aaudio="lg5_u1_g2_12.mp3" q="How much fried chicken is there?" a="There,is,a little,fried,chicken." d="are,a lot,of,a few,cookies.,popcorn."/>
+		
+		<quest id="8" image="item_10.swf" qaudio="lg5_u1_g2_13.mp3" aaudio="lg5_u1_g2_14.mp3" q="How many pieces of pizza are there?" a="There,are,a lot,of,pieces,of,pizza." d="are,a few,chicken."/>
+		<quest id="9" image="item_09.swf" qaudio="lg5_u1_g2_13.mp3" aaudio="lg5_u1_g2_15.mp3" q="How many pieces of pizza are there?" a="There,are,a few,pieces,of,pizza." d="are,a little,a lot,popcorn."/>
+		
+		<quest id="10" image="item_11.swf" qaudio="lg5_u1_g2_16.mp3" aaudio="lg5_u1_g2_17.mp3" q="How many oranges are there?" a="There,are,a lot,of,oranges." d="is,a little,a few,popcorn.,chicken."/>
+		<quest id="11" image="item_12.swf" qaudio="lg5_u1_g2_16.mp3" aaudio="lg5_u1_g2_18.mp3" q="How many oranges are there?" a="There,are,a few,oranges." d="is,a little,a lot,milk.,chicken." />
+		
+		<quest id="12" image="item_13.swf" qaudio="lg5_u1_g2_19.mp3" aaudio="lg5_u1_g2_20.mp3" q="How many sandwiches are there?" a="There,are,a few,sandwiches." d="are,a lot,a little,popcorn.,chicken."/>
+		<quest id="13" image="item_14.swf" qaudio="lg5_u1_g2_19.mp3" aaudio="lg5_u1_g2_21.mp3" q="How many sandwiches are there?" a="There,are,a lot,of,sandwiches." d="are,a little,a few,popcorn.,cookies."/>
+		
+		<quest id="14" image="item_15.swf" qaudio="lg5_u1_g2_22.mp3" aaudio="lg5_u1_g2_23.mp3" q="How many bottles of water are there?" a="There,are,a lot,of,bottles,of,water." d="is,a little,popcorn.,milk."/>
+		<quest id="15" image="item_16.swf" qaudio="lg5_u1_g2_22.mp3" aaudio="lg5_u1_g2_24.mp3" q="How many bottles of water are there?" a="There,are,a few,bottles,of,water." d="is,a little,a lot,popcorn.,chicken."/>
+	
+
+
+	</questions>
+</activity>

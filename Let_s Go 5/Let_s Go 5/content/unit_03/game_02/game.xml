@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<activity instruction="Read and choose." game="2" unit="3" questions="8" timeout="15" finalTimeout="1">
+
+<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="done" url="sounds/lg4_ma_g2.mp3"/>
+<sound name="intro" url="sounds/lg5_u3_g2_rubric.mp3"/>
+<sound name="goodwork" url="sounds/lg5_ma_b7.mp3"/>
+<sound name="excellent" url="sounds/lg5_ma_b1.mp3"/>
+<sound name="tick" url="sounds/tick.mp3"/>
+<sound name="outoftime" url="sounds/out_of_time.mp3"/>
+</sounds>
+
+<question>
+	<quest id="0" txt="What was he doing yesterday?" sound="sounds/lg5_u3_g2_1.mp3"/>
+	<quest id="1" txt="What was she doing yesterday?" sound="sounds/lg5_u3_g2_2.mp3"/>
+	<quest id="2" txt="What were they doing yesterday? " sound="sounds/lg5_u3_g2_3.mp3"/>
+</question>
+
+<persons>
+	<person id="0" ask="0" swf="0" frame="1" sound="sounds/lg5_u3_g2_4.mp3" text="He was skateboarding."/>
+	<person id="0" ask="0" swf="1" frame="1" sound="sounds/lg5_u3_g2_5.mp3" text="He was walking the dogs."/>
+	<person id="1" ask="1" swf="2" frame="2" sound="sounds/lg5_u3_g2_6.mp3" text="She was hiking."/>
+	<person id="1" ask="1" swf="3" frame="1" sound="sounds/lg5_u3_g2_7.mp3" text="She was skateboarding."/>
+	<person id="2" ask="2" swf="4" frame="1" sound="sounds/lg5_u3_g2_8.mp3" text="They were taking pictures."/>
+	<person id="2" ask="2" swf="5" frame="1" sound="sounds/lg5_u3_g2_9.mp3" text="They were hiking."/>
+	<person id="3" ask="2" swf="6" frame="2" sound="sounds/lg5_u3_g2_14.mp3" text="They were playing volleyball."/>
+	<person id="3" ask="2" swf="7" frame="1" sound="sounds/lg5_u3_g2_15.mp3" text="They were walking the dogs."/>
+	<person id="4" ask="0" swf="2" frame="1" sound="sounds/lg5_u3_g2_16.mp3" text="He was hiking."/>
+	<person id="4" ask="0" swf="1" frame="2" sound="sounds/lg5_u3_g2_17.mp3" text="He was walking the dogs."/>
+	<person id="5" ask="2" swf="6" frame="1" sound="sounds/lg5_u3_g2_14.mp3" text="They were playing volleyball."/>
+	<person id="5" ask="2" swf="8" frame="1" sound="sounds/lg5_u3_g2_21.mp3" text="They were riding bikes."/>
+</persons>
+
+</activity>

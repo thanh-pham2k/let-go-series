@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="4" exercise="3" timer="60" rubricSound="lg6_u4_g3_rubric.mp3" finalAudio="lg5_ma_g3.mp3" finalAudio2="lg5_ma_g7.mp3" toAsk="8" versions="2">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+			
+	</sounds>
+
+	<questions1 audio="lg6_u4_g3_1.mp3">
+		<sentence>Treasure Hunt | We<q>found</q>it!” Kristen and Nick Johnson<q>shouted</q>. They<q>pulled</q>the treasure box from<q>under</q>the bush and<q>opened</q>it. Kristen and Nick<q>are playing</q>a game with the help of a new machine for maps and<q>directions</q>called a GPS device (Global Positioning System). | The game is to find a geocache, the treasure’s hiding place, using a GPS device. There are<q>more than</q>250,000 geocache locations around the world. Someone<q>fills</q>a box with toys or other “treasure.” They<q>hide</q>the box and<q>put</q>its GPS location on a list on the website. Treasure hunters use the website and the GPS device to<q>look for</q>the box. It may not always be<q>easy</q>to find, but it is fun to try. | “I like<q>finding</q>treasure,” said Kristen. | “I like seeing new places,”<q>said</q>Nick.</sentence>
+	</questions1>
+	
+	<questions2 audio="lg6_u4_g3_2.mp3">
+		<sentence>| Hiding a Geocache | Don<q>likes</q>to play games.  He<q>looks for</q>and<q>hides</q>geocaches. It’s his turn to hide a treasure. He thinks of a good place. He hides it<q>under</q>a bush<q>across from</q>the school. |  | Finding a Geocache | Marta<q>searches</q>for treasures. She<q>looks for</q>and hides geocaches. It’s her turn to<q>find</q>a treasure. She<q>uses</q>her Global Positioning System device (GPS). She<q>finds</q>the GPS location of the treasure on a website<q>about</q>geocaches. She goes to a school. She<q>pulls</q>the treasure from<q>under</q>the bush. “Hurray!” she<q>shouts</q>. Now it’s her turn<q>to hide</q>a treasure.</sentence>
+	</questions2>
+
+</activity>

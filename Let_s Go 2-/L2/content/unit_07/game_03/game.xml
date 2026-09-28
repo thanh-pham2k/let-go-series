@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" exercise="3" rubric="Listen and answer." finalText="3" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg2_u7_g3_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg1_ma_b3.mp3]]></sound>
+		
+		<sound id="yesHe"><![CDATA[sounds/lg2_u7_g3_17.mp3]]></sound>
+		<sound id="yesShe"><![CDATA[sounds/lg2_u7_g3_18.mp3]]></sound>
+		<sound id="yesThey"><![CDATA[sounds/lg2_u7_g3_19.mp3]]></sound>
+		
+		<sound id="noHe"><![CDATA[sounds/lg2_u7_g3_20.mp3]]></sound>
+		<sound id="noShe"><![CDATA[sounds/lg2_u7_g3_21.mp3]]></sound>
+		<sound id="noThey"><![CDATA[sounds/lg2_u7_g3_22.mp3]]></sound>
+		
+	</sounds>
+	<items id="items">
+		<item id="1" sound="sounds/lg2_u7_g3_1.mp3" type="He" text="Is he dancing?"/>
+		<item id="2" sound="sounds/lg2_u7_g3_2.mp3" type="He" text="Is he sleeping?"/>
+		<item id="3" sound="sounds/lg2_u7_g3_3.mp3" type="He" text="Is he singing a song?"/>
+		<item id="4" sound="sounds/lg2_u7_g3_4.mp3" type="He" text="Is he running?"/>
+		<item id="5" sound="sounds/lg2_u7_g3_5.mp3" type="She" text="Is she fishing?"/>
+		<item id="6" sound="sounds/lg2_u7_g3_6.mp3" type="She" text="Is she coloring a picture?"/>
+		<item id="7" sound="sounds/lg2_u7_g3_7.mp3" type="She" text="Is she walking?"/>
+		<item id="8" sound="sounds/lg2_u7_g3_8.mp3" type="She" text="Is she throwing a ball?"/>
+		<item id="9" sound="sounds/lg2_u7_g3_9.mp3" type="They" text="Are they watching TV?"/>
+		<item id="10" sound="sounds/lg2_u7_g3_10.mp3" type="They" text="Are they reading comic books?"/>
+		<item id="11" sound="sounds/lg2_u7_g3_11.mp3" type="They" text="Are they talking on the telephone?"/>
+		<item id="12" sound="sounds/lg2_u7_g3_12.mp3" type="They" text="Are they eating apples?"/>
+		<item id="13" sound="sounds/lg2_u7_g3_13.mp3" type="They" text="Are they playing soccer?"/>
+		<item id="14" sound="sounds/lg2_u7_g3_14.mp3" type="They" text="Are they studying English?"/>
+		<item id="15" sound="sounds/lg2_u7_g3_15.mp3" type="They" text="Are they riding bicycles?"/>
+		<item id="16" sound="sounds/lg2_u7_g3_16.mp3" type="They" text="Are they flying kites?"/>
+	</items>
+</activity>
+

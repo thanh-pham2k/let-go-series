@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setings unit="7" exercise="2" rubric="Make the sentences." rubricSound="lg4_u7_g2_rubric.mp3" wordSpace="10" answers="8" finalText="6" timeSpeed="3" allOkSound="lg4_ma_g6.mp3"/>
+	<sentences>
+	<sentence text="She’s going to rent a DVD tonight. 1borrow 1backpacking 1books 1summer 1July 1afternoon" width="65,65,35,65,35,50,85,75,110,75,75,65,100" audio="lg4_u7_g2_1.mp3" id="1"/>
+	<sentence text="He’s going to borrow some books tomorrow. 1play 1a 1DVD 1tonight 1this 1July" width="55,65,35,75,65,65,95,65,35,50,85,65,65" audio="lg4_u7_g2_2.mp3" id="2"/>
+	<sentence text="She’s going to go backpacking in July. 1mail 1read 1shopping 1Saturday 1summer 1school" width="65,65,35,35,110,35,60,55,65,85,85,75,75" audio="lg4_u7_g2_3.mp3" id="3"/>
+	<sentence text="He’s going to go on vacation next week. 1rent 1DVD 1plant 1tonight 1afternoon 1after" width="55,65,35,35,35,85,65,70,65,50,65,85,95,75" audio="lg4_u7_g2_4.mp3" id="4"/>
+	<sentence text="She’s going to mail a letter this afternoon. 1play 1flowers 1horseback 1July 1on 1in" width="65,65,35,65,35,75,65,105,55,85,105,65,35,35" audio="lg4_u7_g2_5.mp3" id="5"/>
+	<sentence text="He’s going to read a novel this summer. 1play 1book 1DVD 1tonight 1books 1tomorrow" width="55,65,35,65,35,75,65,85,65,55,50,85,70,90" audio="lg4_u7_g2_6.mp3" id="6"/>
+	</sentences>
+	<random>
+	<sentence text="They’re going to go shopping this evening. 1borrow 1backpacking 1books 1summer 1July 1after" width="75,65,40,40,85,55,90,75,110,90,75,65,70" audio="lg4_u7_g2_7.mp3" id="7"/>
+	<sentence text="They’re going to go horseback riding on Saturday. 1borrow 1backpacking 1books 1summer 1July 1after" width="	75,65,40,40,95,85,35,90,75,110,71,72,73,74" audio="lg4_u7_g2_8.mp3" id="8"/>
+	<sentence text="She’s going to plant flowers next May. 1play 1a 1DVD 1tonight 1this 1tomorrow" width="65,65,35,65,70,65,70,55,35,50,85,65,90" audio="lg4_u7_g2_9.mp3" id="9"/>
+	<sentence text="They’re going to play ice hockey next winter. 1borrow 1backpacking 1books 1summer 1July 1after" width="80,65,35,65,45,75,65,80,75,110,70,75,60,65" audio="lg4_u7_g2_10.mp3" id="10"/>
+	<sentence text="She’s going to see a play next weekend. 1rent 1book 1plant 1tonight 1tomorrow 1July" width="65,65,35,55,35,75,75,90,70,65,65,85,90,65" audio="lg4_u7_g2_11.mp3" id="11"/>
+	<sentence text="They’re going to play softball after school. 1rent 1backpacking 1books 1tomorrow 1July 1summer" width="	80,65,35,55,85,75,70,75,110,75,90,65,75" audio="lg4_u7_g2_12.mp3" id="12"/>
+	</random>

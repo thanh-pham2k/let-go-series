@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="4" exercise="4" finalText="3" finalAudio="sounds/lg6_ma_b3.mp3" finalAudio2="sounds/lg6_ma_b7.mp3" rubricSound="sounds/lg6_u4_g4_rubric.mp3" goodSound="sounds/good.mp3" badSound="sounds/bad.mp3">
+	<questions>
+		<set>
+			<question question="What did he do first?" wrong1="He turned left and went to the bank." wrong2="He crossed the street and went to the bookstore." correct1="He went to the library." correct2="He turned right and went to the library." audioQuestion="sounds/lg6_u4_g4_1.mp3" audio1="sounds/lg6_u4_g4_2.mp3" audio2="sounds/lg6_u4_g4_3.mp3"/>
+			<question question="What did he do second?" wrong1="He went to the bakery." wrong2="He went straight two blocks." correct1="He went to the clinic." correct2="He crossed the street." audioQuestion="sounds/lg6_u4_g4_4.mp3" audio1="sounds/lg6_u4_g4_5.mp3" audio2="sounds/lg6_u4_g4_6.mp3"/>
+			<question question="What did he do third?" wrong1="He turned right and went to the school." wrong2="He turned right and went to the library." correct1="He crossed the street and went to the bakery." correct2="He crossed the street and went to the bakery." audioQuestion="sounds/lg6_u4_g4_7.mp3" audio1="sounds/lg6_u4_g4_8.mp3" audio2="sounds/lg6_u4_g4_8.mp3"/>
+			<question question="What did he do last?" wrong1="He turned left and went to the bus station." wrong2="He went one block and turned right." correct1="He crossed the street and went to the bookstore." correct2="He went straight and crossed the street." audioQuestion="sounds/lg6_u4_g4_10.mp3" audio1="sounds/lg6_u4_g4_11.mp3" audio2="sounds/lg6_u4_g4_12.mp3"/>
+		</set>
+		<set>
+			<question question="What did she do first?" wrong1="She turned right and went straight." wrong2="She went to the bank." correct1="She crossed the street and turned left." correct2="She went to the airport." audioQuestion="sounds/lg6_u4_g4_13.mp3" audio1="sounds/lg6_u4_g4_14.mp3" audio2="sounds/lg6_u4_g4_15.mp3"/>
+			<question question="What did she do second?" wrong1="She went to the clinic." wrong2="She went straight and crossed the street." correct1="She turned left." correct2="She went to the restaurant." audioQuestion="sounds/lg6_u4_g4_16.mp3" audio1="sounds/lg6_u4_g4_17.mp3" audio2="sounds/lg6_u4_g4_18.mp3"/>
+			<question question="What did she do third?" wrong1="She went to the park." wrong2="She turned right and went one block." correct1="She turned left and crossed the street." correct2="She went to the bookstore." audioQuestion="sounds/lg6_u4_g4_19.mp3" audio1="sounds/lg6_u4_g4_20.mp3" audio2="sounds/lg6_u4_g4_21.mp3"/>
+			<question question="What did she do last?" wrong1="She turned right and crossed the street." wrong2="She went to the bookstore." correct1="She went to the park." correct2="She went to the park." audioQuestion="sounds/lg6_u4_g4_22.mp3" audio1="sounds/lg6_u4_g4_24.mp3" audio2="sounds/lg6_u4_g4_24.mp3"/>
+		</set>
+		<set>
+			<question question="What did they do first?" wrong1="They turned right and went two blocks." wrong2="They went to the clinic." correct1="They went to the train station." correct2="They went straight and crossed the street." audioQuestion="sounds/lg6_u4_g4_25.mp3" audio1="sounds/lg6_u4_g4_26.mp3" audio2="sounds/lg6_u4_g4_27.mp3"/>
+			<question question="What did they do second?" wrong1="They went to the bookstore." wrong2="They turned left and went one block." correct1="They went to the clinic." correct2="They crossed the street, turned left and went one block." audioQuestion="sounds/lg6_u4_g4_28.mp3" audio1="sounds/lg6_u4_g4_29.mp3" audio2="sounds/lg6_u4_g4_30.mp3"/>
+			<question question="What did they do third?" wrong1="They went straight and crossed the street." wrong2="They went to the bank." correct1="They went to the bakery." correct2="They went to the bakery." audioQuestion="sounds/lg6_u4_g4_31.mp3" audio1="sounds/lg6_u4_g4_32.mp3" audio2="sounds/lg6_u4_g4_33.mp3"/>
+			<question question="What did they do last?" wrong1="They went to the library." wrong2="They turned right and went one block." correct1="They went to the bookstore." correct2="They went straight and crossed the street." audioQuestion="sounds/lg6_u4_g4_34.mp3" audio1="sounds/lg6_u4_g4_35.mp3" audio2="sounds/lg6_u4_g4_36.mp3"/>
+		</set>
+	</questions>
+</activity>

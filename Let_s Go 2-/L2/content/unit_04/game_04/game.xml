@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="4" exercise="4" rubric="Listen and choose." finalTimeout="1" finalText="4">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg2_u4_g4_rubric.mp3]]></sound>
+		<sound id="yesSound"><![CDATA[sounds/lg2_u4_g4_45.mp3]]></sound>
+		<sound id="noSound"><![CDATA[sounds/lg2_u4_g4_46.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg2_ma_b4.mp3]]></sound>
+	</sounds>
+	<items id="items" questions="6" distractors="4">
+		<item frame="1" name="hot chocolate" introSound="sounds/lg2_u4_g4_8.mp3" questionSound="sounds/lg2_u4_g4_22.mp3" />
+		<item frame="2" name="steak" introSound="sounds/lg2_u4_g4_14.mp3" questionSound="sounds/lg2_u4_g4_28.mp3" />
+		<item frame="3" name="hamburgers" introSound="sounds/lg2_u4_g4_10.mp3" questionSound="sounds/lg2_u4_g4_24.mp3" />
+		<item frame="4" name="cheese" introSound="sounds/lg2_u4_g4_12.mp3" questionSound="sounds/lg2_u4_g4_26.mp3" />
+		<item frame="5" name="stew" introSound="sounds/lg2_u4_g4_11.mp3" questionSound="sounds/lg2_u4_g4_25.mp3" />
+		<item frame="6" name="an omelet" introSound="sounds/lg2_u4_g4_1.mp3" questionSound="sounds/lg2_u4_g4_15.mp3" />
+		<item frame="7" name="a pear" introSound="sounds/lg2_u4_g4_3.mp3" questionSound="sounds/lg2_u4_g4_17.mp3" />
+		<item frame="8" name="a pancake" introSound="sounds/lg2_u4_g4_4.mp3" questionSound="sounds/lg2_u4_g4_18.mp3" />
+		<item frame="9" name="pasta" introSound="sounds/lg2_u4_g4_13.mp3" questionSound="sounds/lg2_u4_g4_27.mp3" />
+		<item frame="10" name="grapes" introSound="sounds/lg2_u4_g4_9.mp3" questionSound="sounds/lg2_u4_g4_23.mp3" />
+		<item frame="11" name="tea" introSound="sounds/lg2_u4_g4_7.mp3" questionSound="sounds/lg2_u4_g4_21.mp3" />
+		<item frame="12" name="yogurt" introSound="sounds/lg2_u4_g4_5.mp3" questionSound="sounds/lg2_u4_g4_19.mp3" />
+		<item frame="13" name="cereal" introSound="sounds/lg2_u4_g4_6.mp3" questionSound="sounds/lg2_u4_g4_20.mp3" />
+		<item frame="14" name="a peach" introSound="sounds/lg2_u4_g4_2.mp3" questionSound="sounds/lg2_u4_g4_16.mp3" />
+	</items>
+</activity>

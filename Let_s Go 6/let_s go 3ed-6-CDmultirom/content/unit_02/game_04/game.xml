@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity rubricSound="lg6_u2_g4_rubric.mp3" finalText="1" finalAudio="lg6_ma_g2.mp3" finalAudio2="lg5_ma_g7.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOne" file="lb_u5_g3_34.mp3"/>
+		<sound id="soundTwo" file="lb_u5_g3_35.mp3"/>
+		<sound id="soundThree" file="lb_u5_g3_36.mp3"/>
+	</sounds>
+	<questions>
+		<quest id="1" aud="lg6_u2_g4_1.mp3" a0="He was" q="excited" a1="at the circus!"/>
+		<quest id="1" aud="lg6_u2_g4_2.mp3" a0="The circus was" q="exciting" a1="!" />
+		<quest id="2" aud="lg6_u2_g4_3.mp3" a0="She was" q="bored" a1="at the basketball game." />
+		<quest id="2" aud="lg6_u2_g4_4.mp3" a0="The basketball game was" q="boring" a1="."  />
+		<quest id="3" aud="lg6_u2_g4_5.mp3" a0="He was" q="tired" a1="last night." />
+		<quest id="3" aud="lg6_u2_g4_6.mp3" a0="Hiking was" q="tiring" a1="." />
+		<quest id="4" aud="lg6_u2_g4_7.mp3" a0="They were" q="frightened" a1="at the circus." />
+		<quest id="4" aud="lg6_u2_g4_8.mp3" a0="The circus was" q="frightening" a1="." />
+		<quest id="5" aud="lg6_u2_g4_9.mp3" a0="He said he was" q="interested" a1="." />
+		<quest id="5" aud="lg6_u2_g4_10.mp3" a0="The acrobats were" q="interesting" a1="." />
+		<quest id="6" aud="lg6_u2_g4_11.mp3" a0="They said they were" q="surprised" a1="." />
+		<quest id="6" aud="lg6_u2_g4_12.mp3" a0="They said it was" q="surprising" a1="." />
+		<quest id="7" aud="lg6_u2_g4_13.mp3" a0="She said she was" q="amazed" a1="." />
+		<quest id="7" aud="lg6_u2_g4_14.mp3" a0="She said the acrobats were" q="amazing" a1="." />
+		<quest id="8" aud="lg6_u2_g4_15.mp3" a0="She said she was" q="disappointed" a1="." />
+		<quest id="8" aud="lg6_u2_g4_16.mp3" a0="She said the clowns were" q="disappointing" a1="." />
+
+
+
+	</questions>
+</activity>

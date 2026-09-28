@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="8" exercise="4" rubric="Listen and match." rubricMc="mcRubric" finalText="4" timeout="60" finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u8_g4_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b4.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/out_of_time.mp3]]></over>
+	</sounds>
+	<words shuffle="true" minWords="2">
+		<word id="0">
+			<text><![CDATA[I like dogs.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_1.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_1.mp3]]></sound>
+		</word>
+		<word id="1">
+			<text><![CDATA[I like cats.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_2.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_2.mp3]]></sound>
+		</word>
+		<word id="2">
+			<text><![CDATA[I like birds.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_3.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_3.mp3]]></sound>
+		</word>
+		<word id="3">
+			<text><![CDATA[I like rabbits.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_4.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_4.mp3]]></sound>
+		</word>
+		<word id="4">
+			<text><![CDATA[I like turtles.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_5.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_5.mp3]]></sound>
+		</word>
+		<word id="5">
+			<text><![CDATA[I like frogs.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_6.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_6.mp3]]></sound>
+		</word>
+		<word id="6">
+			<text><![CDATA[I like monkeys.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_7.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_7.mp3]]></sound>
+		</word>
+		<word id="7">
+			<text><![CDATA[I like lions.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_8.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_8.mp3]]></sound>
+		</word>
+		<word id="8">
+			<text><![CDATA[I like tigers.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_9.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_9.mp3]]></sound>
+		</word>
+		<word id="9">
+			<text><![CDATA[I like bears.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_10.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_10.mp3]]></sound>
+		</word>
+		<word id="10">
+			<text><![CDATA[I like giraffes.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_11.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_11.mp3]]></sound>
+		</word>
+		<word id="11">
+			<text><![CDATA[I like elephants.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_12.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_12.mp3]]></sound>
+		</word>
+	</words>
+	<words shuffle="true" minWords="2">
+		<word id="12">
+			<text><![CDATA[I want a dog.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_25.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_25.mp3]]></sound>
+		</word>
+		<word id="13">
+			<text><![CDATA[I want a cat.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_26.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_26.mp3]]></sound>
+		</word>
+		<word id="14">
+			<text><![CDATA[I want a bird.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_27.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_27.mp3]]></sound>
+		</word>
+		<word id="15">
+			<text><![CDATA[I want a rabbit.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_28.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_28.mp3]]></sound>
+		</word>
+		<word id="16">
+			<text><![CDATA[I want a turtle.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_29.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_29.mp3]]></sound>
+		</word>
+		<word id="17">
+			<text><![CDATA[I want a frog.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_30.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_30.mp3]]></sound>
+		</word>
+		<word id="18">
+			<text><![CDATA[I want a monkey.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_31.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_31.mp3]]></sound>
+		</word>
+		<word id="19">
+			<text><![CDATA[I want a lion.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_32.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_32.mp3]]></sound>
+		</word>
+		<word id="20">
+			<text><![CDATA[I want a tiger.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_33.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_33.mp3]]></sound>
+		</word>
+		<word id="21">
+			<text><![CDATA[I want a bear.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_34.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_34.mp3]]></sound>
+		</word>
+		<word id="22">
+			<text><![CDATA[I want a giraffe.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_35.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_35.mp3]]></sound>
+		</word>
+		<word id="23">
+			<text><![CDATA[I want an elephant.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_36.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_36.mp3]]></sound>
+		</word>
+	</words>
+	<words shuffle="true" minWords="2">
+		<word id="24">
+			<text><![CDATA[I don't like dogs.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_13.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_13.mp3]]></sound>
+		</word>
+		<word id="25">
+			<text><![CDATA[I don't like cats.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_14.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_14.mp3]]></sound>
+		</word>
+		<word id="26">
+			<text><![CDATA[I don't like birds.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_15.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_15.mp3]]></sound>
+		</word>
+		<word id="27">
+			<text><![CDATA[I don't like rabbits.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_16.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_16.mp3]]></sound>
+		</word>
+		<word id="28">
+			<text><![CDATA[I don't like turtles.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_17.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_17.mp3]]></sound>
+		</word>
+		<word id="29">
+			<text><![CDATA[I don't like frogs.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_18.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_18.mp3]]></sound>
+		</word>
+		<word id="30">
+			<text><![CDATA[I don't like monkeys.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_19.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_19.mp3]]></sound>
+		</word>
+		<word id="31">
+			<text><![CDATA[I don't like lions.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_20.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_20.mp3]]></sound>
+		</word>
+		<word id="32">
+			<text><![CDATA[I don't like tigers.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_21.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_21.mp3]]></sound>
+		</word>
+		<word id="33">
+			<text><![CDATA[I don't like bears.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_22.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_22.mp3]]></sound>
+		</word>
+		<word id="34">
+			<text><![CDATA[I don't like giraffes.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_23.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_23.mp3]]></sound>
+		</word>
+		<word id="35">
+			<text><![CDATA[I don't like elephants.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_24.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_24.mp3]]></sound>
+		</word>
+	</words>
+	<words shuffle="true" minWords="2">
+		<word id="36">
+			<text><![CDATA[I don't want a dog.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_37.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_37.mp3]]></sound>
+		</word>
+		<word id="37">
+			<text><![CDATA[I don't want a cat.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_38.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_38.mp3]]></sound>
+		</word>
+		<word id="38">
+			<text><![CDATA[I don't want a bird.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_39.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_39.mp3]]></sound>
+		</word>
+		<word id="39">
+			<text><![CDATA[I don't want a rabbit.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_40.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_40.mp3]]></sound>
+		</word>
+		<word id="40">
+			<text><![CDATA[I don't want a turtle.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_41.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_41.mp3]]></sound>
+		</word>
+		<word id="41">
+			<text><![CDATA[I don't want a frog.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_42.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_42.mp3]]></sound>
+		</word>
+		<word id="42">
+			<text><![CDATA[I don't want a monkey.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_43.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_43.mp3]]></sound>
+		</word>
+		<word id="43">
+			<text><![CDATA[I don't want a lion.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_44.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_44.mp3]]></sound>
+		</word>
+		<word id="44">
+			<text><![CDATA[I don't want a tiger.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_45.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_45.mp3]]></sound>
+		</word>
+		<word id="45">
+			<text><![CDATA[I don't want a bear.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_46.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_46.mp3]]></sound>
+		</word>
+		<word id="46">
+			<text><![CDATA[I don't want a giraffe.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_47.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_47.mp3]]></sound>
+		</word>
+		<word id="47">
+			<text><![CDATA[I don't want an elephant.]]></text>
+			<image><![CDATA[swf/lg1_u8_g4_48.swf]]></image>
+			<sound><![CDATA[sounds/match/lg1_u8_g4_48.mp3]]></sound>
+			</word>
+	</words>
+</activity>
+

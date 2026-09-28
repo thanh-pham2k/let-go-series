@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u5_g4_rubric.mp3" finalText="6" finalAudio="lg4_ma_g6.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+	
+		
+	</sounds>
+
+	<questions>
+		<dropdown id="0" questAudio="lg4_u5_g4_6.mp3" questText="Where did you go?" ansStart="I went to " >
+		<dd picId="0" audio="lg4_u5_g4_1.mp3" ans="an amusement park." audioComplete="lg4_u5_g4_7.mp3"/>
+		<dd picId="1" audio="lg4_u5_g4_2.mp3" ans="a museum." audioComplete="lg4_u5_g4_8.mp3"/>
+		<dd picId="2" audio="lg4_u5_g4_3.mp3" ans="the mountains." audioComplete="lg4_u5_g4_9.mp3"/>
+		<dd picId="3" audio="lg4_u5_g4_4.mp3" ans="the beach." audioComplete="lg4_u5_g4_10.mp3"/>
+		<dd picId="4" audio="lg4_u5_g4_5.mp3" ans="a space center." audioComplete="lg4_u5_g4_11.mp3"/>
+		</dropdown>
+		
+		<dropdown id="1" questAudio="lg4_u5_g4_17.mp3" questText="Who did you go?" ansStart="I went with " >
+		<dd picId="5" audio="lg4_u5_g4_12.mp3" ans="my mom." audioComplete="lg4_u5_g4_18.mp3"/>
+		<dd picId="6" audio="lg4_u5_g4_13.mp3" ans="my dad." audioComplete="lg4_u5_g4_19.mp3"/>
+		<dd picId="7" audio="lg4_u5_g4_14.mp3" ans="my brother." audioComplete="lg4_u5_g4_20.mp3"/>
+		<dd picId="8" audio="lg4_u5_g4_15.mp3" ans="my sister." audioComplete="lg4_u5_g4_21.mp3"/>
+		<dd picId="9" audio="lg4_u5_g4_16.mp3" ans="my family." audioComplete="lg4_u5_g4_22.mp3"/>
+		</dropdown>
+
+		<dropdown id="2" questAudio="lg4_u5_g4_28.mp3" questText="What did you do?" ansStart="I ">
+		<dd picId="10" audio="lg4_u5_g4_23.mp3" ans="rode a roller coaster." audioComplete="lg4_u5_g4_29.mp3"/>
+		<dd picId="11" audio="lg4_u5_g4_24.mp3" ans="looked at pictures." audioComplete="lg4_u5_g4_30.mp3"/>
+		<dd picId="12" audio="lg4_u5_g4_25.mp3" ans="went hiking." audioComplete="lg4_u5_g4_31.mp3"/>
+		<dd picId="13" audio="lg4_u5_g4_26.mp3" ans="went swimming." audioComplete="lg4_u5_g4_32.mp3"/>
+		<dd picId="14" audio="lg4_u5_g4_27.mp3" ans="met an astronaut." audioComplete="lg4_u5_g4_33.mp3"/>
+		</dropdown>
+
+		<dropdown id="3" questAudio="lg4_u5_g4_39.mp3" questText="What did you eat?" ansStart="I ate ">
+		<dd picId="15" audio="lg4_u5_g4_34.mp3" ans="french fries." audioComplete="lg4_u5_g4_40.mp3"/>
+		<dd picId="16" audio="lg4_u5_g4_35.mp3" ans="a sandwich." audioComplete="lg4_u5_g4_41.mp3"/>
+		<dd picId="17" audio="lg4_u5_g4_36.mp3" ans="peanuts." audioComplete="lg4_u5_g4_42.mp3"/>
+		<dd picId="18" audio="lg4_u5_g4_37.mp3" ans="ice cream." audioComplete="lg4_u5_g4_43.mp3"/>
+		<dd picId="19" audio="lg4_u5_g4_38.mp3" ans="an orange." audioComplete="lg4_u5_g4_44.mp3"/>
+		</dropdown>
+
+				
+		<dropdown id="4" questAudio="lg4_u5_g4_50.mp3" questText="When did you go?" ansStart="I went " >
+		<dd picId="20" audio="lg4_u5_g4_45.mp3" ans="yesterday." audioComplete="lg4_u5_g4_51.mp3"/>
+		<dd picId="21" audio="lg4_u5_g4_46.mp3" ans="last week." audioComplete="lg4_u5_g4_52.mp3"/>
+		<dd picId="22" audio="lg4_u5_g4_47.mp3" ans="three weeks ago." audioComplete="lg4_u5_g4_53.mp3"/>
+		<dd picId="23" audio="lg4_u5_g4_48.mp3" ans="last month." audioComplete="lg4_u5_g4_54.mp3"/>
+		<dd picId="24" audio="lg4_u5_g4_49.mp3" ans="last year." audioComplete="lg4_u5_g4_55.mp3"/>
+		</dropdown>
+			
+	</questions>
+	
+</activity>

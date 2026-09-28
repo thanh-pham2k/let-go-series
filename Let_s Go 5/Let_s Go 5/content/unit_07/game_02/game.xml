@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" exercise="2" rubric="" rubricMc="" timeout="15" finalTimeout="1" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u7_g2_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+		<over id="overSound">sounds/out_of_time.mp3</over>
+		<tik id="tikSound">sounds/tick.mp3</tik>
+	</sounds>
+	<sentence>
+		<sentence kind="0" picture="pictures/pic1.swf" text ="gazelle" answer="beautiful" audio="sounds/lg5_u7_g2_1.mp3" answerAudio="sounds/lg5_u7_g2_2.mp3"/>
+		<sentence kind="0" picture="pictures/pic2.swf" text ="sunset" answer="beautiful" audio="sounds/lg5_u7_g2_3.mp3" answerAudio="sounds/lg5_u7_g2_4.mp3"/>
+		<sentence kind="1" picture="pictures/pic3.swf" text ="frog" answer="ugly" audio="sounds/lg5_u7_g2_7.mp3" answerAudio="sounds/lg5_u7_g2_8.mp3"/>
+		<sentence kind="2" picture="pictures/pic4.swf" text ="harp" answer="wonderful" audio="sounds/lg5_u7_g2_9.mp3" answerAudio="sounds/lg5_u7_g2_10.mp3"/>
+		<sentence kind="3" picture="pictures/pic5.swf" text ="violin" answer="awful" audio="sounds/lg5_u7_g2_13.mp3" answerAudio="sounds/lg5_u7_g2_14.mp3"/>
+		<sentence kind="3" picture="pictures/pic6.swf" text ="loud music" answer="awful" audio="sounds/lg5_u7_g2_15.mp3" answerAudio="sounds/lg5_u7_g2_16.mp3"/>
+		<sentence kind="4" picture="pictures/pic7.swf" text ="candy" answer="sweet" audio="sounds/lg5_u7_g2_17.mp3" answerAudio="sounds/lg5_u7_g2_18.mp3"/>
+		<sentence kind="5" picture="pictures/pic8.swf" text ="potato chips" answer="salty" audio="sounds/lg5_u7_g2_21.mp3" answerAudio="sounds/lg5_u7_g2_22.mp3"/>
+		<sentence kind="6" picture="pictures/pic9.swf" text ="mirror" answer="smooth" audio="sounds/lg5_u7_g2_25.mp3" answerAudio="sounds/lg5_u7_g2_26.mp3"/>
+		<sentence kind="7" picture="pictures/pic10.swf" text ="tree" answer="rough" audio="sounds/lg5_u7_g2_29.mp3" answerAudio="sounds/lg5_u7_g2_30.mp3"/>
+		<sentence kind="8" picture="pictures/pic11.swf" text ="flower" answer="good" audio="sounds/lg5_u7_g2_33.mp3" answerAudio="sounds/lg5_u7_g2_34.mp3"/>
+		<sentence kind="8" picture="pictures/pic12.swf" text ="rain" answer="good" audio="sounds/lg5_u7_g2_35.mp3" answerAudio="sounds/lg5_u7_g2_36.mp3"/>
+		<sentence kind="9" picture="pictures/pic13.swf" text ="skunk" answer="bad" audio="sounds/lg5_u7_g2_37.mp3" answerAudio="sounds/lg5_u7_g2_38.mp3"/>
+		<sentence kind="9" picture="pictures/pic14.swf" text ="socks" answer="bad" audio="sounds/lg5_u7_g2_39.mp3" answerAudio="sounds/lg5_u7_g2_40.mp3"/>
+	</sentence>
+</activity>

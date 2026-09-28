@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" startspeed="5" speedstep="0.5" maxitems="7" levels="3,3" rubric="sounds/lg1_u2_g2_rubric.mp3" soundDone="sounds/lg1_ma_g6.mp3" finalText="6">
+	<colors id="colors">
+		<color id="yellow" sound="sounds/lg1_u2_g2_1.mp3"/>
+		<color id="blue" sound="sounds/lg1_u2_g2_2.mp3"/>
+		<color id="red" sound="sounds/lg1_u2_g2_3.mp3"/>
+		<color id="green" sound="sounds/lg1_u2_g2_4.mp3"/>
+		<color id="orange" sound="sounds/lg1_u2_g2_5.mp3"/>
+		<color id="pink" sound="sounds/lg1_u2_g2_7.mp3"/>
+		<color id="brown" sound="sounds/lg1_u2_g2_8.mp3"/>
+		<color id="black" sound="sounds/lg1_u2_g2_9.mp3"/>
+		<color id="white" sound="sounds/lg1_u2_g2_10.mp3"/>
+	</colors>
+	<numbers id="numbers">
+		<number id="1" sound="sounds/lg1_u2_g2_19.mp3"/>
+		<number id="2" sound="sounds/lg1_u2_g2_20.mp3"/>
+		<number id="3" sound="sounds/lg1_u2_g2_21.mp3"/>
+		<number id="4" sound="sounds/lg1_u2_g2_22.mp3"/>
+		<number id="5" sound="sounds/lg1_u2_g2_23.mp3"/>
+		<number id="6" sound="sounds/lg1_u2_g2_24.mp3"/>
+	</numbers>
+	<shapes id="shapes">
+		<shape id="triangle" sound1="sounds/lg1_u2_g2_11.mp3" sound2="sounds/lg1_u2_g2_25.mp3"/>
+		<shape id="square" sound1="sounds/lg1_u2_g2_12.mp3" sound2="sounds/lg1_u2_g2_26.mp3"/>
+		<shape id="circle" sound1="sounds/lg1_u2_g2_13.mp3" sound2="sounds/lg1_u2_g2_27.mp3"/>
+		<shape id="star" sound1="sounds/lg1_u2_g2_14.mp3" sound2="sounds/lg1_u2_g2_28.mp3"/>
+		<shape id="heart" sound1="sounds/lg1_u2_g2_15.mp3" sound2="sounds/lg1_u2_g2_29.mp3"/>
+		<shape id="rectangle" sound1="sounds/lg1_u2_g2_16.mp3" sound2="sounds/lg1_u2_g2_30.mp3"/>
+		<shape id="diamond" sound1="sounds/lg1_u2_g2_17.mp3" sound2="sounds/lg1_u2_g2_31.mp3"/>
+		<shape id="oval" sound1="sounds/lg1_u2_g2_18.mp3" sound2="sounds/lg1_u2_g2_32.mp3"/>
+	</shapes>
+	<items id="items">
+		<item id="circle_black" image="images/circle_black.swf" />
+		<item id="circle_blue" image="images/circle_blue.swf" />
+		<item id="circle_brown" image="images/circle_brown.swf" />
+		<item id="circle_green" image="images/circle_green.swf" />
+		<item id="circle_orange" image="images/circle_orange.swf" />
+		<item id="circle_pink" image="images/circle_pink.swf" />
+		<item id="circle_red" image="images/circle_red.swf" />
+		<item id="circle_violet" image="images/circle_violet.swf" />
+		<item id="circle_white" image="images/circle_white.swf" />
+		<item id="circle_yellow" image="images/circle_yellow.swf" />
+ 		<item id="diamond_black" image="images/diamond_black.swf" />
+		<item id="diamond_blue" image="images/diamond_blue.swf" />
+		<item id="diamond_brown" image="images/diamond_brown.swf" />
+		<item id="diamond_green" image="images/diamond_green.swf" />
+		<item id="diamond_orange" image="images/diamond_orange.swf" />
+		<item id="diamond_pink" image="images/diamond_pink.swf" />
+		<item id="diamond_red" image="images/diamond_red.swf" />
+		<item id="diamond_violet" image="images/diamond_violet.swf" />
+		<item id="diamond_white" image="images/diamond_white.swf" />
+		<item id="diamond_yellow" image="images/diamond_yellow.swf" />
+ 		<item id="heart_black" image="images/heart_black.swf" />
+		<item id="heart_blue" image="images/heart_blue.swf" />
+		<item id="heart_brown" image="images/heart_brown.swf" />
+		<item id="heart_green" image="images/heart_green.swf" />
+		<item id="heart_orange" image="images/heart_orange.swf" />
+		<item id="heart_pink" image="images/heart_pink.swf" />
+		<item id="heart_red" image="images/heart_red.swf" />
+		<item id="heart_violet" image="images/heart_violet.swf" />
+		<item id="heart_white" image="images/heart_white.swf" />
+		<item id="heart_yellow" image="images/heart_yellow.swf" />
+ 		<item id="oval_black" image="images/oval_black.swf" />
+		<item id="oval_blue" image="images/oval_blue.swf" />
+		<item id="oval_brown" image="images/oval_brown.swf" />
+		<item id="oval_green" image="images/oval_green.swf" />
+		<item id="oval_orange" image="images/oval_orange.swf" />
+		<item id="oval_pink" image="images/oval_pink.swf" />
+		<item id="oval_red" image="images/oval_red.swf" />
+		<item id="oval_violet" image="images/oval_violet.swf" />
+		<item id="oval_white" image="images/oval_white.swf" />
+		<item id="oval_yellow" image="images/oval_yellow.swf" />
+   		<item id="rectangle_black" image="images/rectangle_black.swf" />
+		<item id="rectangle_blue" image="images/rectangle_blue.swf" />
+		<item id="rectangle_brown" image="images/rectangle_brown.swf" />
+		<item id="rectangle_green" image="images/rectangle_green.swf" />
+		<item id="rectangle_orange" image="images/rectangle_orange.swf" />
+		<item id="rectangle_pink" image="images/rectangle_pink.swf" />
+		<item id="rectangle_red" image="images/rectangle_red.swf" />
+		<item id="rectangle_violet" image="images/rectangle_violet.swf" />
+		<item id="rectangle_white" image="images/rectangle_white.swf" />
+		<item id="rectangle_yellow" image="images/rectangle_yellow.swf" />
+   		<item id="square_black" image="images/square_black.swf" />
+		<item id="square_blue" image="images/square_blue.swf" />
+		<item id="square_brown" image="images/square_brown.swf" />
+		<item id="square_green" image="images/square_green.swf" />
+		<item id="square_orange" image="images/square_orange.swf" />
+		<item id="square_pink" image="images/square_pink.swf" />
+		<item id="square_red" image="images/square_red.swf" />
+		<item id="square_violet" image="images/square_violet.swf" />
+		<item id="square_white" image="images/square_white.swf" />
+		<item id="square_yellow" image="images/square_yellow.swf" />
+   		<item id="star_black" image="images/star_black.swf" />
+		<item id="star_blue" image="images/star_blue.swf" />
+		<item id="star_brown" image="images/star_brown.swf" />
+		<item id="star_green" image="images/star_green.swf" />
+		<item id="star_orange" image="images/star_orange.swf" />
+		<item id="star_pink" image="images/star_pink.swf" />
+		<item id="star_red" image="images/star_red.swf" />
+		<item id="star_violet" image="images/star_violet.swf" />
+		<item id="star_white" image="images/star_white.swf" />
+		<item id="star_yellow" image="images/star_yellow.swf" />
+   		<item id="triangle_black" image="images/triangle_black.swf" />
+		<item id="triangle_blue" image="images/triangle_blue.swf" />
+		<item id="triangle_brown" image="images/triangle_brown.swf" />
+		<item id="triangle_green" image="images/triangle_green.swf" />
+		<item id="triangle_orange" image="images/triangle_orange.swf" />
+		<item id="triangle_pink" image="images/triangle_pink.swf" />
+		<item id="triangle_red" image="images/triangle_red.swf" />
+		<item id="triangle_violet" image="images/triangle_violet.swf" />
+		<item id="triangle_white" image="images/triangle_white.swf" />
+		<item id="triangle_yellow" image="images/triangle_yellow.swf" />
+	</items>
+</settings>

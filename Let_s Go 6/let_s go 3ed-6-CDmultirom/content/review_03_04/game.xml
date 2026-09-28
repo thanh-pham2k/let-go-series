@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg6_u4_r2_rubric1.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg6_u4_r2_rubric2.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg6_u4_r2_rubric3.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg6_ma_b3.mp3</done>
+		<done2 id="doneSound2">sounds/lg6_ma_b7.mp3</done2>
+	</sounds>
+	<questions>
+		<question id="0" question="" picture1="pictures/item_1a.swf" picture2="pictures/item_1b.swf" audio="sounds/lg6_u4_r2_1.mp3|sounds/lg6_u4_r2_2.mp3|sounds/lg6_u4_r2_3.mp3"/>
+		<question id="0" question="" picture1="pictures/item_1b.swf" picture2="pictures/item_1a.swf" audio="sounds/lg6_u4_r2_1.mp3|sounds/lg6_u4_r2_2.mp3|sounds/lg6_u4_r2_4.mp3"/>
+		<question id="1" question="" picture1="pictures/item_2a.swf" picture2="pictures/item_2b.swf" audio="sounds/lg6_u4_r2_5.mp3|sounds/lg6_u4_r2_6.mp3"/>
+		<question id="1" question="" picture1="pictures/item_2b.swf" picture2="pictures/item_2a.swf" audio="sounds/lg6_u4_r2_5.mp3|sounds/lg6_u4_r2_7.mp3"/>
+		<question id="2" question="" picture1="pictures/item_3a.swf" picture2="pictures/item_3b.swf" audio="sounds/lg6_u4_r2_8.mp3|sounds/lg6_u4_r2_9.mp3|sounds/lg6_u4_r2_11.mp3"/>
+		<question id="2" question="" picture1="pictures/item_3b.swf" picture2="pictures/item_3a.swf" audio="sounds/lg6_u4_r2_8.mp3|sounds/lg6_u4_r2_10.mp3|sounds/lg6_u4_r2_11.mp3"/>
+		<question id="3" question="" picture1="pictures/item_4a.swf" picture2="pictures/item_4b.swf" audio="sounds/lg6_u4_r2_12.mp3|sounds/lg6_u4_r2_13.mp3|sounds/lg6_u4_r2_14.mp3"/>
+		<question id="3" question="" picture1="pictures/item_4b.swf" picture2="pictures/item_4a.swf" audio="sounds/lg6_u4_r2_12.mp3|sounds/lg6_u4_r2_13.mp3|sounds/lg6_u4_r2_15.mp3"/>
+		<question id="4" question="" picture1="pictures/item_5a.swf" picture2="pictures/item_5b.swf" audio="sounds/lg6_u4_r2_16.mp3|sounds/lg6_u4_r2_17.mp3|sounds/lg6_u4_r2_18.mp3|sounds/lg6_u4_r2_19.mp3"/>
+		<question id="4" question="" picture1="pictures/item_5b.swf" picture2="pictures/item_5a.swf" audio="sounds/lg6_u4_r2_20.mp3|sounds/lg6_u4_r2_21.mp3|sounds/lg6_u4_r2_22.mp3|sounds/lg6_u4_r2_23.mp3"/>
+		<question id="5" question="" picture1="pictures/item_6a.swf" picture2="pictures/item_6b.swf" audio="sounds/lg6_u4_r2_24.mp3|sounds/lg6_u4_r2_25.mp3|sounds/lg6_u4_r2_27.mp3"/>
+		<question id="5" question="" picture1="pictures/item_6b.swf" picture2="pictures/item_6a.swf" audio="sounds/lg6_u4_r2_24.mp3|sounds/lg6_u4_r2_25.mp3|sounds/lg6_u4_r2_26.mp3"/>
+		<question id="5" question="" picture1="pictures/item_6a.swf" picture2="pictures/item_6b.swf" audio="sounds/lg6_u4_r2_28.mp3|sounds/lg6_u4_r2_30.mp3"/>
+		<question id="5" question="" picture1="pictures/item_6b.swf" picture2="pictures/item_6a.swf" audio="sounds/lg6_u4_r2_28.mp3|sounds/lg6_u4_r2_29.mp3"/>
+	</questions>
+	<questions>
+		<question id="0" settype="1" texts="" question1="" question2="" answers="She gave her a package.|She showed her a package.|She gave to her a package.|She gave a package to him." picture="pictures/pic_1.swf" audio="sounds/lg6_u4_r2_31.mp3"/>
+		<question id="0" settype="1" texts="" question1="" question2="" answers="She gave a package to her.|She showed her a package.|She gave to her a package.|She gave a package to him." picture="pictures/pic_1.swf" audio="sounds/lg6_u4_r2_32.mp3"/>
+		<question id="1" settype="1" texts="" question1="" question2="" answers="He printed her a picture.|He printed she a picture.|She printed a picture for him.|He printed a picture to her." picture="pictures/pic_2.swf" audio="sounds/lg6_u4_r2_33.mp3"/>
+		<question id="1" settype="1" texts="" question1="" question2="" answers="He printed a picture for her.|He printed she a picture.|She printed a picture for him.|He printed a picture to her." picture="pictures/pic_2.swf" audio="sounds/lg6_u4_r2_34.mp3"/>
+		<question id="2" settype="1" texts="" question1="" question2="" answers="She sent him a package.|She sent a package for him.|He sent her a package.|She sent he a package." picture="pictures/pic_3.swf" audio="sounds/lg6_u4_r2_35.mp3"/>
+		<question id="2" settype="1" texts="" question1="" question2="" answers="She sent a package to him.|She sent a package for him.|He sent her a package.|She sent he a package." picture="pictures/pic_3.swf" audio="sounds/lg6_u4_r2_36.mp3"/>
+		<question id="3" settype="1" texts="" question1="" question2="" answers="He bought her a DVD.|He showed her a DVD.|He bought a DVD to her.|He bought a DVD her." picture="pictures/pic_4.swf" audio="sounds/lg6_u4_r2_37.mp3"/>
+		<question id="3" settype="1" texts="" question1="" question2="" answers="He bought a DVD for her.|He showed her a DVD.|He bought a DVD to her.|He bought a DVD her." picture="pictures/pic_4.swf" audio="sounds/lg6_u4_r2_38.mp3"/>
+		<question id="4" settype="6" texts="How do I get to the pet store?" question1="" question2="" answers="Go straight and turn left. + |Turn right and cross the street. + |Go two blocks and turn right. + |Go straight. Turn right +at the corner and cross the street." picture="pictures/pic_6.swf" audio="sounds/lg6_u4_r2_39.mp3|sounds/lg6_u4_r2_40.mp3"/>
+		<question id="4" settype="6" texts="How do I get to the bakery?" question1="" question2="" answers="Go straight and cross +the street.|Go straight. Turn left +at the corner.|Turn right and go to +the corner.|Go to the corner. Turn right +and cross the street." picture="pictures/pic_5.swf" audio="sounds/lg6_u4_r2_41.mp3|sounds/lg6_u4_r2_42.mp3"/>
+		<question id="5" settype="6" texts="How do I get to the pet store?" question1="" question2="" answers="Go to the corner and turn left. +Go straight and cross the street.|Go to the corner, turn left, +and go two blocks.|Go to the corner and cross +the street. Turn left.|Go to the corner. Turn right +and cross the street." picture="pictures/pic_5.swf" audio="sounds/lg6_u4_r2_43.mp3|sounds/lg6_u4_r2_44.mp3"/>
+		<question id="5" settype="6" texts="How do I get to the park?" question1="" question2="" answers="Go to the corner and turn left. +Go straight and cross the street.|Go straight and cross the street. +Turn left and go three blocks.|Go to the corner. Turn left +and go one block. Turn left again.|Go to the corner. Turn left. +Go two blocks and turn right." picture="pictures/pic_6.swf" audio="sounds/lg6_u4_r2_45.mp3|sounds/lg6_u4_g2_18.mp3"/>
+	</questions>
+	<questions>
+		<question settype="2" texts="What should he do?" question1="" question2="" answers="He should write his aunt a letter.|He shouldn’t write his aunt a letter.|He should showed his aunt a letter.|He should get a letter to her." picture="pictures/pic_7.swf" audio="sounds/lg6_u4_r2_47.mp3|sounds/lg6_u4_r2_48.mp3"/>
+		<question settype="2" texts="What should he do?" question1="" question2="" answers="He should read his little sister a story.|He shouldn’t read his little sister a story.|He should give her it.|He should bought his little sister a story." picture="pictures/pic_8.swf" audio="sounds/lg6_u4_r2_47.mp3|sounds/lg6_u4_r2_50.mp3"/>
+		<question settype="2" texts="What shouldn’t he do?" question1="" question2="" answers="He shouldn’t buy his mother a pan.|He shouldn’t bought his mother a pan.|He bought his mother a pan.|He shouldn’t buy for his mother a pan." picture="pictures/pic_9.swf" audio="sounds/lg6_u4_r2_51.mp3|sounds/lg6_u4_r2_52.mp3"/>
+		<question settype="2" texts="What shouldn’t she do?" question1="" question2="" answers="She shouldn’t give her teacher a picture.|She should give her teacher a picture.|She shouldn’t send a picture her teacher.|She shouldn’t to give her a picture." picture="pictures/pic_10.swf" audio="sounds/lg6_u4_r2_53.mp3|sounds/lg6_u4_r2_54.mp3"/>
+		<question id="0" settype="2" texts="What did she do second?" question1="" question2="" answers="She turned left.|She went to the clinic.|She went straight and crossed the street.|She went to the bookstore." picture="pictures/pic_11.swf" audio="sounds/lg6_u4_r2_55.mp3|sounds/lg6_u4_r2_56.mp3"/>
+		<question id="0" settype="2" texts="What did she do second?" question1="" question2="" answers="She went to the restaurant.|She went to the clinic.|She went straight and crossed the street.|She went to the bookstore." picture="pictures/pic_11.swf" audio="sounds/lg6_u4_r2_55.mp3|sounds/lg6_u4_r2_57.mp3"/>
+		<question id="0" settype="6" texts="What did she do last?" question1="" question2="" answers="She went to the park. +|She turned right +and crossed the street.|She went to the bookstore. + |She turned left. + " picture="pictures/pic_11.swf" audio="sounds/lg6_u4_r2_58.mp3|sounds/lg6_u4_r2_60.mp3"/>
+		<question id="0" settype="6" texts="What did she do last?" question1="" question2="" answers="She went to the park. + |She turned right +and crossed the street.|She went to the bookstore. + |She turned left. + " picture="pictures/pic_11.swf" audio="sounds/lg6_u4_r2_58.mp3|sounds/lg6_u4_r2_60.mp3"/>
+		<question id="1" settype="6" texts="What did they do first?" question1="" question2="" answers="They went to the train station. + |They turned right +and went two blocks.|They went to the clinic. + |They crossed the street, +turned left and went one block." picture="pictures/pic_12.swf" audio="sounds/lg6_u4_r2_61.mp3|sounds/lg6_u4_r2_62.mp3"/>
+		<question id="1" settype="2" texts="What did they do third?" question1="" question2="" answers="They went to the bakery.|They went straight and crossed the street.|They went to the bank.|They turned right and went one block." picture="pictures/pic_12.swf" audio="sounds/lg6_u4_r2_64.mp3|sounds/lg6_u4_r2_65.mp3"/>
+		<question id="1" settype="2" texts="What did they do third?" question1="" question2="" answers="They turned left and went to the bakery.|They went straight and crossed the street.|They went to the bank.|They turned right and went one block." picture="pictures/pic_12.swf" audio="sounds/lg6_u4_r2_64.mp3|sounds/lg6_u4_r2_66.mp3"/>
+	</questions>
+</activity>

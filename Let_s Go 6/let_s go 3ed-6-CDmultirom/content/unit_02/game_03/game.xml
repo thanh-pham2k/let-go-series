@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="3" timer="60" rubricSound="lg6_u2_g3_rubric.mp3" finalAudio="lg6_ma_b2.mp3" finalAudio2="lg5_ma_g7.mp3" toAsk="8" versions="2">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+			
+	</sounds>
+
+	<questions1 audio="lg6_u2_g3_1.mp3" pic="pic1">
+		<sentence>I’m having a lot of fun at circus camp. At first, everything was hard. I<q>dropped</q>the balls in juggling class. I wasn’t strong. I didn’t<q>know how to</q>do a somersault. Now, I’m<q>stronger</q>. I<q>can</q>do somersaults on the trampoline! I<q>am able to</q>swing on the trapeze. I<q>am able to</q>do a handstand, but I<q>can’t</q>stay up. I<q>can</q>juggle three balls easily. I’m<q>one of the best</q>students in the acrobatics class. We’re<q>going to</q>have a circus show at the end of camp. It<q>will be</q>next Saturday. I hope you will<q>be able to</q>come!</sentence>
+	</questions1>
+	
+	<questions2 audio="lg6_u2_g3_2.mp3" pic="pic2">
+		<sentence>Do you<q>know how to</q>do a handstand? It’s<q>easy</q>. You stand on your hands.<q>Can</q>you do a somersault? That’s easy, too. You put your head on the floor. Then you turn over. Do you<q>know how to</q>use a trampoline? You jump up and down. Are you<q>able to</q>swing on the trapeze? It’s<q>difficult</q>. Do you<q>want</q>to learn? You<q>can</q>! Take an acrobatics class. Rachel did. She said, “Now I<q>am able to</q>do a handstand and a somersault!” She<q>said</q>she<q>knew how to</q>swing on the trapeze, too! Sign up for a class today. It’s<q>amazing</q>!</sentence>
+	</questions2>
+
+</activity>

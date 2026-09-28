@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="2" exercise="4" rubricSound="lg5_u7_g4_rubric.mp3" finalText="2" finalAudio="welldone.mp3" finalAudio2="lg5_ma_b7.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		
+		<sound id="soundOne" file="lb_u5_g3_34.mp3"/>
+		<sound id="soundTwo" file="lb_u5_g3_35.mp3"/>
+		<sound id="soundThree" file="lb_u5_g3_36.mp3"/>
+				
+	</sounds>
+
+	<questions hints="salty,sweet,loud,quiet,sour,soft,hard,fast,slow,beautiful,ugly,smooth,rough">
+
+		<quest frame="1" aud="lg5_u7_g4_1.mp3" q="Which do you like better, salty food or sweet food?" s0="I like " a0="salty food,sweet food" s1=" better." />
+		<quest frame="2" aud="lg5_u7_g4_2.mp3" q="Which do you like better, loud music or quiet music?" s0="I like " a0="loud music,quiet music" s1=" better."/>
+		<quest frame="3" aud="lg5_u7_g4_3.mp3" q="Which do you like better, sweet food or sour food?" s0="I like " a0="sweet food,sour food" s1=" better."/>
+		<quest frame="4" aud="lg5_u7_g4_4.mp3" q="Which do you like better, a soft pillow or smooth silk?" s0="I like " a0="a soft pillow,smooth silk" s1=" better."/>		
+		<quest frame="5" aud="lg5_u7_g4_5.mp3" q="Which do you like better, a beautiful picture or a rainbow?" s0="I like " a0="a beautiful picture,a rainbow" s1=" better."/>		
+		<quest frame="6" aud="lg5_u7_g4_6.mp3" q="Which do you like better, potato chips or cookies? Why?" s0="I like " a0="potato chips,cookies" s1=" because I like" a1="" s2=" food."/>
+		<quest frame="7" aud="lg5_u7_g4_7.mp3" q="Which do you like better, rock music or classical music? Why?" s0="I like " a0="rock music,classical music" s1=" because I like" a1="" s2=" music."/>
+		<quest frame="8" aud="lg5_u7_g4_8.mp3" q="Which do you like better, cake or grapefruit? Why?" s0="I like " a0="cake,grapefruit" s1=" because I like" a1="" s2=" food."/>
+		<quest frame="9" aud="lg5_u7_g4_9.mp3" q="Which do you like better, rabbits or turtles? Why?" s0="I like " a0="rabbits,turtles" s1=" because they're" a1="" s2="."/>	
+	</questions>
+	
+</activity>

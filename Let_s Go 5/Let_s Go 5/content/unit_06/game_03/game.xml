@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="6" exercise="3" rubric="" rubricMc="" timeout="60" finalTimeout="1" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u6_g3_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+		<over id="overSound">sounds/out_of_time.mp3</over>
+		<tik id="tikSound">sounds/tick.mp3</tik>
+		<story id="storySound">sounds/lg5_u6_g3_1.mp3</story>
+	</sounds>
+	<questions>
+		<question question="Who is going to Costa Rica?" answer0="Kay is going to Costa Rica." answer1="Maria is going to Costa Rica." answer2="It rains in Coast Rica." answer="0"/>
+		<question question="How many seasons are there in Costa Rica?" answer0="There is only one season." answer1="There are two seasons." answer2="There are four seasons." answer="1"/>
+		<question question="What are the two seasons in Costa Rica?" answer0="The two seasons are the beach and the volcano." answer1="The two seasons are rainy and dry." answer2="The two seasons are sunny and enjoy." answer="1"/>
+		<question question="What is the rainy season like?" answer0="The rainy season is often." answer1="It rains often but not every day. " answer2="It rains a lot every day and night. " answer="1"/>
+		<question question="What do people do on sunny days?" answer0="People go to the beach." answer1="People go to the volcano." answer2="People stay indoors." answer="0"/>
+		<question question="What does “enjoy” mean?" answer0="“Enjoy” means during the rainy season." answer1="“Enjoy” means often or usually." answer2="“Enjoy” means to like something." answer="2"/>
+		<question question="What can you do during the dry season?" answer0="You can be glad." answer1="You can go to the beach." answer2="You can see the volcano and the butterfly garden." answer="2"/>
+		<question question="What can’t you do during the rainy season?" answer0="You can’t go to the volcano." answer1="You can’t go to Costa Rica." answer2="You can’t buy an umbrella." answer="0"/>
+		<question question="When do people enjoy going to the butterfly garden?" answer0="People enjoy going to the butterfly garden in the dry season." answer1="People enjoy going to the butterfly garden in the rainy season." answer2="People enjoy going to the butterfly garden in the summer." answer="0"/>
+		<question question="When is Kay going to Costa Rica?" answer0="Kay is going to Costa Rica tomorrow." answer1="Kay is going to Costa Rica during the rainy season." answer2="Kay is going to Costa Rica during the dry season." answer="2"/>
+	</questions>
+</activity>

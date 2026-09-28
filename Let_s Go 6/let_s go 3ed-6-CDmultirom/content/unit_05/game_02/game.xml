@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="5" exercise="2" timer = "30" rubric="Make the sentences." finalText="3" finalAudio="lg6_ma_b3.mp3" finalAudio2="lg6_ma_b7.mp3" rubricSound="lg6_u5_g2_rubric.mp3" >
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" image="item_01.swf" qaudio="lg6_u5_g2_1.mp3" aaudio="lg6_u5_g2_2.mp3" q="What language is spoken in Brazil?" a="Portuguese,is,spoken,in,Brazil." d="black beans,are,eaten"/>
+		<quest id="1" image="item_02.swf" qaudio="lg6_u5_g2_3.mp3" aaudio="lg6_u5_g2_4.mp3" q="What food is eaten in Brazil?" a="Black beans,are,eaten,in,Brazil."  d="Portuguese,is,spoken"/>
+
+		<quest id="2" image="item_03.swf" qaudio="lg6_u5_g2_5.mp3" aaudio="lg6_u5_g2_6.mp3" q="What language is spoken in France?" a="French,is,spoken,in,France."  d="Croissants,are,eaten" />
+		<quest id="3" image="item_04.swf" qaudio="lg6_u5_g2_7.mp3" aaudio="lg6_u5_g2_8.mp3" q="What food is eaten in France?" a="Croissants,are,eaten,in,France." d="French,is,spoken" />
+		
+		<quest id="4" image="item_05.swf" qaudio="lg6_u5_g2_9.mp3" aaudio="lg6_u5_g2_10.mp3" q="What language is spoken in Italy?" a="Italian,is,spoken,in,Italy." d="Spaghetti,is,eaten"/>
+		<quest id="5" image="item_06.swf" qaudio="lg6_u5_g2_11.mp3" aaudio="lg6_u5_g2_12.mp3" q="What food is eaten in Italy?" a="Spaghetti,is,eaten,in,Italy." d="Italian,is,spoken"/>
+		
+		<quest id="6" image="item_07.swf" qaudio="lg6_u5_g2_13.mp3" aaudio="lg6_u5_g2_14.mp3" q="What language is spoken in Vietnam?" a="Vietnamese,is,spoken,in,Vietnam." d="Noodles,and,rice,are,eaten" />
+		<quest id="7" image="item_08.swf" qaudio="lg6_u5_g2_15.mp3" aaudio="lg6_u5_g2_16.mp3" q="What foods are eaten in Vietnam?" a="Noodles,and,rice,are,eaten,in,Vietnam." d="is,spoken"/>
+		
+		<quest id="8" image="item_09.swf" qaudio="lg6_u5_g2_17.mp3" aaudio="lg6_u5_g2_18.mp3" q="What language is spoken in Mexico?" a="Spanish,is,spoken,in,Mexico." d="Tacos,and,buritos,are,eaten"/>
+		<quest id="9" image="item_10.swf" qaudio="lg6_u5_g2_19.mp3" aaudio="lg6_u5_g2_20.mp3" q="What foods are eaten in Mexico?" a="Tacos,and,burritos,are,eaten,in,Mexico." d="Spanish,is,spoken"/>
+		
+		<quest id="10" image="item_11.swf" qaudio="lg6_u5_g2_21.mp3" aaudio="lg6_u5_g2_22.mp3" q="What language is spoken in Australia?" a="English,is,spoken,in,Australia." d="Steak,and,potatoes,are,eaten"/>
+		<quest id="11" image="item_12.swf" qaudio="lg6_u5_g2_23.mp3" aaudio="lg6_u5_g2_24.mp3" q="What foods are eaten in Australia?" a="Steak,and,potatoes,are,eaten,in,Australia." d="English,is,spoken" />
+
+			
+	</questions>
+</activity>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="Review 1-2" exercise="1" rubric="Answer the questions." finalTimeout="1" soundElement1="sounds/element01.mp3" soundElement2="sounds/element02.mp3" soundElement3="sounds/element03.mp3">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg4_u2_r1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[]]></good>
+		<bad id="badSound"><![CDATA[]]></bad>
+		<done id="doneSound"><![CDATA[]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<birthday id="birthday">
+		<birthday id="0" text="January" sound="sounds/lg1_u8_g1_5.mp3" />
+		<birthday id="1" text="February" sound="sounds/lg1_u8_g1_4.mp3" />
+		<birthday id="2" text="March" sound="sounds/lg1_u8_g1_3.mp3" />
+		<birthday id="3" text="April" sound="sounds/lg1_u8_g1_7.mp3" />
+		<birthday id="4" text="May" sound="sounds/lg1_u8_g1_6.mp3" />
+		<birthday id="5" text="June" sound="sounds/lg1_u8_g1_8.mp3" />
+		<birthday id="6" text="July" sound="sounds/lg1_u8_g1_9.mp3" />
+		<birthday id="7" text="August" sound="sounds/lg1_u8_g1_10.mp3" />
+		<birthday id="8" text="September" sound="sounds/lg1_u8_g1_11.mp3" />
+		<birthday id="9" text="October" sound="sounds/lg1_u8_g1_13.mp3" />
+		<birthday id="10" text="Nevember" sound="sounds/lg1_u8_g1_12.mp3" />
+		<birthday id="11" text="December" sound="sounds/lg1_u8_g1_12.mp3" />
+	</birthday>
+	<datet id="datet">
+		<datet id="0" text="January" sound="sounds/lg1_u8_g1_15.mp3" />
+		<datet id="1" text="February" sound="sounds/lg1_u8_g1_16.mp3" />
+		<datet id="2" text="March" sound="sounds/lg1_u8_g1_17.mp3" />
+		<datet id="3" text="April" sound="sounds/lg1_u8_g1_18.mp3" />
+		<datet id="4" text="May" sound="sounds/lg1_u8_g1_19.mp3" />
+		<datet id="5" text="June" sound="sounds/lg1_u8_g1_20.mp3" />
+		<datet id="6" text="July" sound="sounds/lg1_u8_g1_21.mp3" />
+		<datet id="7" text="August" sound="sounds/lg1_u8_g1_22.mp3" />
+		<datet id="8" text="September" sound="sounds/lg1_u8_g1_23.mp3" />
+		<datet id="9" text="October" sound="sounds/lg1_u8_g1_24.mp3" />
+		<datet id="10" text="Nevember" sound="sounds/lg1_u8_g1_25.mp3" />
+		<datet id="11" text="December" sound="sounds/lg1_u8_g1_26.mp3" />
+	</datet>
+	<datey id="datey">
+		<datey id="0" text="January" sound="sounds/lg1_u8_g1_15.mp3" />
+		<datey id="1" text="February" sound="sounds/lg1_u8_g1_16.mp3" />
+		<datey id="2" text="March" sound="sounds/lg1_u8_g1_17.mp3" />
+		<datey id="3" text="April" sound="sounds/lg1_u8_g1_18.mp3" />
+		<datey id="4" text="May" sound="sounds/lg1_u8_g1_19.mp3" />
+		<datey id="5" text="June" sound="sounds/lg1_u8_g1_20.mp3" />
+		<datey id="6" text="July" sound="sounds/lg1_u8_g1_21.mp3" />
+		<datey id="7" text="August" sound="sounds/lg1_u8_g1_22.mp3" />
+		<datey id="8" text="September" sound="sounds/lg1_u8_g1_23.mp3" />
+		<datey id="9" text="October" sound="sounds/lg1_u8_g1_24.mp3" />
+		<datey id="10" text="Nevember" sound="sounds/lg1_u8_g1_25.mp3" />
+		<datey id="11" text="December" sound="sounds/lg1_u8_g1_26.mp3" />
+	</datey>
+	<doy id="doy">
+		<doy id="0" text="took_a_test" sound="sounds/lg1_u8_g1_28.mp3" />
+		<doy id="1" text="had_a_party" sound="sounds/lg1_u8_g1_29.mp3" />
+		<doy id="2" text="went_to_the_store" sound="sounds/lg1_u8_g1_30.mp3" />
+		<doy id="3" text="met_a_move_star" sound="sounds/lg1_u8_g1_31.mp3" />
+		<doy id="4" text="played_baseball" sound="sounds/lg1_u8_g1_32.mp3" />
+		<doy id="5" text="played_tennis" sound="sounds/lg1_u8_g1_33.mp3" />
+	</doy>	
+	<dot id="dot">
+		<dot id="0" text="go_to_the_library" sound="sounds/lg1_u8_g1_28.mp3" />
+		<dot id="1" text="go_to_the_restaurant" sound="sounds/lg1_u8_g1_29.mp3" />
+		<dot id="2" text="go_to_the_park" sound="sounds/lg1_u8_g1_30.mp3" />
+		<dot id="3" text="speak_english" sound="sounds/lg1_u8_g1_31.mp3" />
+		<dot id="4" text="ride_a_bicycle" sound="sounds/lg1_u8_g1_32.mp3" />
+		<dot id="5" text="play_soccer" sound="sounds/lg1_u8_g1_33.mp3" />
+	</dot>	
+	<shouldtake id="shouldtake">
+		<shouldtake id="0" text="a_book" sound="sounds/lg1_u8_g1_28.mp3" />
+		<shouldtake id="1" text="some_money" sound="sounds/lg1_u8_g1_29.mp3" />
+		<shouldtake id="2" text="a_kite" sound="sounds/lg1_u8_g1_30.mp3" />
+		<shouldtake id="3" text="my_friend" sound="sounds/lg1_u8_g1_31.mp3" />
+		<shouldtake id="4" text="a_hamlet" sound="sounds/lg1_u8_g1_32.mp3" />
+		<shouldtake id="5" text="a_soccer_ball" sound="sounds/lg1_u8_g1_33.mp3" />
+	</shouldtake>
+</activity>

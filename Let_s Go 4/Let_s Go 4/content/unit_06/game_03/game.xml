@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u6_g3_rubric.mp3" timeOut="10" finalAudio="lg4_ma_b2.mp3" finalText="2" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+	</sounds>
+
+	<questions>
+		<quest pic0="0" pic1="1" aud0="lg4_u6_g3_1.mp3" aud1="lg4_u6_g3_2.mp3"  word="brother" />
+		<quest pic0="2" pic1="3" aud0="lg4_u6_g3_3.mp3" aud1="lg4_u6_g3_4.mp3"  word="sister" />	
+		<quest pic0="4" pic1="5" aud0="lg4_u6_g3_5.mp3" aud1="lg4_u6_g3_6.mp3"  word="aunt" />
+		<quest pic0="6" pic1="7" aud0="lg4_u6_g3_7.mp3" aud1="lg4_u6_g3_8.mp3"  word="uncle" />
+		<quest pic0="8" pic1="9" aud0="lg4_u6_g3_9.mp3" aud1="lg4_u6_g3_10.mp3"  word="mom" />
+		<quest pic0="10" pic1="11" aud0="lg4_u6_g3_11.mp3" aud1="lg4_u6_g3_12.mp3"  word="dad" />
+		<quest pic0="12" pic1="13" aud0="lg4_u6_g3_13.mp3" aud1="lg4_u6_g3_14.mp3"  word="grandma" />
+		<quest pic0="14" pic1="15" aud0="lg4_u6_g3_15.mp3" aud1="lg4_u6_g3_16.mp3"  word="grandpa" />
+		<quest pic0="16" pic1="17" aud0="lg4_u6_g3_17.mp3" aud1="lg4_u6_g3_18.mp3"  word="cousin" />
+		<quest pic0="18" pic1="19" aud0="lg4_u6_g3_19.mp3" aud1="lg4_u6_g3_20.mp3"  word="friend" />
+		
+		
+	</questions>
+	
+</activity>

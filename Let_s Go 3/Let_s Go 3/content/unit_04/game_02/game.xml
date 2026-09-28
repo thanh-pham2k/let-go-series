@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" unit="4" exercise="2" finalText="4" finalTimeout="2" rubricMc="mcRubric" rubric="Look. Whose is it?">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u4_g2_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_b4.mp3]]></done>
+	</sounds>	
+	<sentences>
+		<texts id = "texts1" audio="lg3_u4_g2_1.mp3" text="Whose blouse is this?" t1="It’s Amy’s blouse." a1="lg3_u4_g2_2.mp3" t2="It’s Wendy’s blouse." a2="lg3_u4_g2_3.mp3" t3="" a3="" t4="" a4=""></texts>
+		<texts id = "texts2" audio="lg3_u4_g2_4.mp3" text="Whose skirt is this?" t1="It’s Amy’s skirt." a1="lg3_u4_g2_5.mp3" t2="It’s Wendy’s skirt." a2="lg3_u4_g2_6.mp3" t3="" a3="" t4="" a4=""></texts>
+		<texts id = "texts3" audio="lg3_u4_g2_7.mp3" text="Whose dress is this?" t1="It’s Amy’s dress." a1="lg3_u4_g2_8.mp3" t2="It’s Wendy’s dress." a2="lg3_u4_g2_9.mp3" t3="" a3="" t4="" a4=""></texts>
+		<texts id = "texts4" audio="lg3_u4_g2_10.mp3" text="Whose shirt is this?" t1="It’s Amy’s shirt." a1="lg3_u4_g2_13.mp3" t2="It’s Wendy’s shirt." a2="lg3_u4_g2_14.mp3" t3="It’s Ken’s shirt." a3="lg3_u4_g2_11.mp3" t4="It’s Jim’s shirt." a4="lg3_u4_g2_12.mp3"></texts>
+		<texts id = "texts5" audio="lg3_u4_g2_15.mp3" text="Whose pants are these?" t1="They’re Amy’s pants." a1="lg3_u4_g2_18.mp3" t2="They’re Wendy’s pants." a2="lg3_u4_g2_19.mp3" t3="They’re Ken’s pants." a3="lg3_u4_g2_16.mp3" t4="They’re Jim’s pants." a4="lg3_u4_g2_17.mp3"></texts>
+		<texts id = "texts6" audio="lg3_u4_g2_20.mp3" text="Whose shorts are these?" t1="They’re Amy’s shorts." a1="lg3_u4_g2_23.mp3" t2="They’re Wendy’s shorts." a2="lg3_u4_g2_24.mp3" t3="They’re Ken’s shorts." a3="lg3_u4_g2_21.mp3" t4="They’re Jim’s shorts." a4="lg3_u4_g2_22.mp3"></texts>	
+		<texts id = "texts7" audio="lg3_u4_g2_25.mp3" text="Whose shoes are these?" t1="They’re Amy’s shoes." a1="lg3_u4_g2_28.mp3" t2="They’re Wendy’s shoes." a2="lg3_u4_g2_29.mp3" t3="They’re Ken’s shoes." a3="lg3_u4_g2_26.mp3" t4="They’re Jim’s shoes." a4="lg3_u4_g2_27.mp3"></texts>
+		<texts id = "texts8" audio="lg3_u4_g2_30.mp3" text="Whose socks are these?" t1="They’re Amy’s socks." a1="lg3_u4_g2_33.mp3" t2="They’re Wendy’s socks." a2="lg3_u4_g2_34.mp3" t3="They’re Ken’s socks." a3="lg3_u4_g2_31.mp3" t4="They’re Jim’s socks." a4="lg3_u4_g2_32.mp3"></texts>
+		<texts id = "texts9" audio="lg3_u4_g2_35.mp3" text="Whose t-shirt is this?" t1="It’s Amy’s t-shirt." a1="lg3_u4_g2_38.mp3" t2="It’s Wendy’s t-shirt." a2="lg3_u4_g2_39.mp3" t3="It’s Ken’s t-shirt." a3="lg3_u4_g2_36.mp3" t4="It’s Jim’s t-shirt." a4="lg3_u4_g2_37.mp3"></texts>
+		<texts id = "texts10" audio="lg3_u4_g2_40.mp3" text="Whose jacket is this?" t1="It’s Amy’s jacket." a1="lg3_u4_g2_43.mp3" t2="It’s Wendy’s jacket." a2="lg3_u4_g2_44.mp3" t3="It’s Ken’s jacket." a3="lg3_u4_g2_41.mp3" t4="It’s Jim’s jacket." a4="lg3_u4_g2_42.mp3"></texts>
+		<texts id = "texts11" audio="lg3_u4_g2_45.mp3" text="Whose sweater is this?" t1="It’s Amy’s sweater." a1="lg3_u4_g2_48.mp3" t2="It’s Wendy’s sweater." a2="lg3_u4_g2_49.mp3" t3="It’s Ken’s sweater." a3="lg3_u4_g2_46.mp3" t4="It’s Jim’s sweater." a4="lg3_u4_g2_47.mp3"></texts>
+		<texts id = "texts12" audio="lg3_u4_g2_50.mp3" text="Whose sweatshirt is this?" t1="It’s Amy’s sweatshirt." a1="lg3_u4_g2_53.mp3" t2="It’s Wendy’s sweatshirt." a2="lg3_u4_g2_54.mp3" t3="It’s Ken’s sweatshirt." a3="lg3_u4_g2_51.mp3" t4="It’s Jim’s sweatshirt." a4="lg3_u4_g2_52.mp3"></texts>	
+		<texts id = "texts13" audio="lg3_u4_g2_55.mp3" text="Whose jeans are these?" t1="They’re Amy’s jeans." a1="lg3_u4_g2_58.mp3" t2="They’re Wendy’s jeans." a2="lg3_u4_g2_59.mp3" t3="They’re Ken’s jeans." a3="lg3_u4_g2_56.mp3" t4="They’re Jim’s jeans." a4="lg3_u4_g2_57.mp3"></texts>
+		<texts id = "texts14" audio="lg3_u4_g2_60.mp3" text="Whose pajamas are these?" t1="They’re Amy’s pajamas." a1="lg3_u4_g2_63.mp3" t2="They’re Wendy’s pajamas." a2="lg3_u4_g2_64.mp3" t3="They’re Ken’s pajamas." a3="lg3_u4_g2_61.mp3" t4="They’re Jim’s pajamas." a4="lg3_u4_g2_62.mp3"></texts>
+		<texts id = "texts15" audio="lg3_u4_g2_65.mp3" text="Whose slippers are these?" t1="They’re Amy’s slippers." a1="lg3_u4_g2_68.mp3" t2="They’re Wendy’s slippers." a2="lg3_u4_g2_69.mp3" t3="They’re Ken’s slippers." a3="lg3_u4_g2_66.mp3" t4="They’re Jim’s slippers." a4="lg3_u4_g2_67.mp3"></texts>
+		<texts id = "texts16" audio="lg3_u4_g2_70.mp3" text="Whose boots are these?" t1="They’re Amy’s boots." a1="lg3_u4_g2_73.mp3" t2="They’re Wendy’s boots." a2="lg3_u4_g2_74.mp3" t3="They’re Ken’s boots." a3="lg3_u4_g2_71.mp3" t4="They’re Jim’s boots." a4="lg3_u4_g2_72.mp3"></texts>
+	</sentences>
+</settings>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

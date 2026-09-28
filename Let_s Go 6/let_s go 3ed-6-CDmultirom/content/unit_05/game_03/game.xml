@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="5" exercise="3" rubric="" rubricMc="" timeout="60" finalTimeout="1" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg6_u5_g3_rubric1.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+		<over id="overSound">sounds/out_of_time.mp3</over>
+		<tik id="tikSound">sounds/tick.mp3</tik>
+		<story id="storySound1">sounds/lg6_u5_g3_1.mp3</story>
+		<story id="storySound2">sounds/lg6_u5_g3_2.mp3</story>
+
+	</sounds>
+	<questions>
+		<question question="Who made a chocolate drink from cacao seeds?" answer0="Ancient Mexicans made a chocolate drink from cacao seeds." answer1="Ancient Spanish made cacao seeds." answer2="A chocolate drink was made from cacao seeds. " answer="0"/>
+		<question question="What was the chocolate drink made from?" answer0="The drink was made from ancient Mexico." answer1="The drink was made from cacao seeds." answer2="The drink was from Mexico." answer="1"/>
+		<question question="What was Mexican chocolate like?" answer0="It spoke Spanish." answer1="It was the most popular." answer2="It was bitter and spicy." answer="2"/>
+		<question question="Who brought cacao seeds to Spain?" answer0="The cacao seeds were brought to Spain by the Mexicans." answer1="Cacao seeds were brought to Spanish by the Spain." answer2="The Spanish brought cacao seeds to Spain." answer="2"/>
+		<question question="What became the most popular drink in Europe?" answer0="A drink made from cacao seeds became the most popular drink." answer1="Sweet chocolate became the most popular drink in Europe." answer2="Bitter chocolate became the most popular drink in Europe." answer="1"/>
+		<question question="What was very expensive?" answer0="Both cacao and sugar were very expensive." answer1="Rich people were very expensive." answer2="Sweet chocolate and sugar were very expensive." answer="0"/>
+		<question question="Why could only rich people drink sweet chocolate?" answer0="Only rich people could drink sweet chocolate so it was expensive." answer1="Only rich people could drink sweet chocolate because it was both. " answer2="Only rich people could drink sweet chocolate because it was expensive." answer="2"/>
+		<question question="What else was chocolate used in?" answer0="Chocolate was used in the 1800s." answer1="Chocolate was used in cakes and pastries."  answer2="Chocolate was used by rich people." answer="1"/>
+		<question question="What was created in the 1800s?" answer0="Cakes and pastries were created in the 1800s." answer1="The chocolate candy bar was created in the 1800s." answer2="Cheaper chocolate was created by rich people." answer="1"/>
+		<question question="Why were more people able to eat and drink chocolate?" answer0="Chocolate became cheaper because more people were able to eat and drink it." answer1="More chocolate candy bars were created because more people were able to eat them." answer2="Chocolate became cheaper so more people were able to eat and drink it." answer="2"/>		
+	</questions>
+
+	<questions>
+
+		<question question="Who is giving a report about chocolate?" answer0="The report is being given by Lucia." answer1="The report is gave by Lucia" answer2="The report is being given about chocolate." answer="0"/>
+		<question question="Who created the chocolate drinks?" answer0="Chocolate drinks were created by the ancient Mexicans." answer1="Chocolate drinks were created by cacao seeds." answer2="Chocolate drinks were created by Lucia." answer="0"/>
+		<question question="What were chocolate drinks made from?" answer0="Chocolate drinks were made from bitter and spicy." answer1="Chocolate drinks were made from cacao seeds." answer2="Chocolate drinks made from cacao seeds." answer="1"/>
+		<question question="What was Mexican chocolate like?" answer0="Mexican chocolate was like Spanish chocolate." answer1="Mexican chocolate was sweet." answer2="Mexican chocolate was bitter and spicy." answer="2"/>
+		<question question="Where were the cacao seeds brought?" answer0="The cacao seeds were brought to Mexico." answer1="The cacao seeds were brought to Spain." answer2="The cacao seeds were brought to rich people." answer="1"/>
+		<question question="What did Spanish people add to chocolate?" answer0="They added sugar to chocolate." answer1="They added expensive to chocolate." answer2="They added chocolate to Spain." answer="0"/>
+		<question question="Why did Spanish people add sugar to chocolate?" answer0="They added sugar to make it sweet." answer1="They added sugar to make it expensive." answer2="Sugar was added to chocolate to make it bitter." answer="0"/>
+		<question question="What was eaten by Spanish people?" answer0="Spanish people were eaten by chocolate cakes and pastries." answer1="Cakes and pastries with chocolate were eaten by Spanish people." answer2="Bitter chocolate was eaten by Spanish people." answer="1"/>
+		<question question="What do people drink today? " answer0="People drink chocolate today. " answer1="Lucia drinks chocolate today." answer2="People drink chocolate in Spain today." answer="0"/>
+		<question question="What did Lucia bring to class?" answer0="She brought some chocolate to drink." answer1="She brought her sister." answer2="She brought chocolate to Spain." answer="0"/>
+
+	</questions>
+
+
+</activity>

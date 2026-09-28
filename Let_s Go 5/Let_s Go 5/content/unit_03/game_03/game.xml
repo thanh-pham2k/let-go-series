@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="3" rubricSound="lg5_u3_g3_rubric.mp3" finalAudio="lg5_ma_g6.mp3" finalAudio2="lg5_ma_g7.mp3" finalText="5" toAsk="8">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="sentenceAudio" file="lg5_u3_g3_1.mp3"/>
+		
+	</sounds>
+
+	<questions>
+		<sentence>I<q ans="had">have</q>a very bad morning! Last night, I<q ans="was studying">study</q>and chewing gum. I<q ans="fell">fall</q>asleep. This morning I<q ans="woke up">wake up</q>late. Then I<q ans="found">find</q>chewing gum in my hair! I<q ans="was cutting">am cutting</q>the gum out of my hair. The phone<q ans="rang">ring.</q>. It<q ans="surprised">surprise</q>me and I<q ans="jumped">jump.</q>. The scissors<q ans="slipped">slip</q>and I cut my hair too short. I<q ans="had">have</q>to go to the beauty salon to fix my hair. Now, I have a new haircut. I like my short hair. What do you think?</sentence>
+
+	
+	</questions>
+	
+</activity>

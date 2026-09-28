@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<activity unit="4" exercise="2" rubricSound="lg5_u4_g2_rubric.mp3" finalAudio="lg5_ma_g6.mp3" finalAudio2="lg5_ma_b7.mp3" finalText="5" toAsk="7">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="yesHeDoes" file="lg5_u4_g2_25.mp3"/>
+		<sound id="yesSheDoes" file="lg5_u4_g2_26.mp3"/>
+		<sound id="noHeDoesnt" file="lg5_u4_g2_27.mp3"/>
+		<sound id="noSheDoesnt" file="lg5_u4_g2_28.mp3"/>
+
+		
+	</sounds>
+	<items id="items">
+		<item id="0" sound="lg5_u4_g2_1.mp3" type="1" sex="0" text="Does he usually walk quickly?"/>
+		<item id="1" sound="lg5_u4_g2_2.mp3" type="1" sex="1" text="Does she usually walk slowly?"/>
+		<item id="2" sound="lg5_u4_g2_3.mp3" type="1" sex="0" text="Does he usually ride a bicycle carelessly?"/>
+		<item id="3" sound="lg5_u4_g2_4.mp3" type="1" sex="1" text="Does she usually ride a bicycle carefully?"/>
+		<item id="4" sound="lg5_u4_g2_5.mp3" type="1" sex="0" text="Does he usually speak loudly?"/>
+		<item id="5" sound="lg5_u4_g2_6.mp3" type="1" sex="1" text="Does she usually speak quietly?"/>
+		<item id="6" sound="lg5_u4_g2_7.mp3" type="1" sex="0" text="Does he usually play the piano well?"/>
+		<item id="7" sound="lg5_u4_g2_8.mp3" type="1" sex="1" text="Does she usually play the piano badly?"/>
+		
+		<item id="0" sound="lg5_u4_g2_13.mp3" type="0" sex="0" text="Does he usually walk slowly?"/>
+		<item id="1" sound="lg5_u4_g2_14.mp3" type="0" sex="1" text="Does she usually walk quickly?"/>
+		<item id="2" sound="lg5_u4_g2_15.mp3" type="0" sex="0" text="Does he usually ride a bicycle carefully?"/>
+		<item id="3" sound="lg5_u4_g2_16.mp3" type="0" sex="1" text="Does she usually ride a bicycle carelessly?"/>
+		<item id="4" sound="lg5_u4_g2_17.mp3" type="0" sex="0" text="Does he usually speak quietly?"/>
+		<item id="5" sound="lg5_u4_g2_18.mp3" type="0" sex="1" text="Does she usually speak loudly?"/>
+		<item id="6" sound="lg5_u4_g2_19.mp3" type="0" sex="0" text="Does he usually play the piano badly?"/>
+		<item id="7" sound="lg5_u4_g2_20.mp3" type="0" sex="1" text="Does she usually play the piano well?"/>
+	
+		
+
+	</items>
+</activity>
+

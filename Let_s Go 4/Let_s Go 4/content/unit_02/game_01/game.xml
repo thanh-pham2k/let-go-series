@@ -1,0 +1,22 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="2" exercise="1" rubric="Put the sentencions in order." rubricSound="lg4_u2_g1_rubric.mp3" finalText="3" finalAudio="lg4_ma_b3.mp3" toAsk="3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+	<questions>
+		<quest picId="0" audio="lg4_u2_g1_0a.mp3" firstSpeakerId="0" dialog0="What’s the weather going to be like tomorrow?" dialog1="It’s going to be cold." dialog2="Should we take our jackets?" dialog3="Yes, we should. It’s going to snow." />
+		<quest picId="1" audio="lg4_u2_g1_1a.mp3" firstSpeakerId="0" dialog0="What’s the weather going to be like tomorrow?" dialog1="It’s going to be cool." dialog2="Should we take our umbrellas?" dialog3="No, I don’t think so. It isn’t going to rain."/>
+		<quest picId="2" audio="lg4_u2_g1_2a.mp3" firstSpeakerId="0" dialog0="What’s the weather going to be like tomorrow?" dialog1="It’s going to be warm." dialog2="Should we take our umbrellas?" dialog3="Yes, we should. It’s going to rain."/>
+		<quest picId="3" audio="lg4_u2_g1_3a.mp3" firstSpeakerId="1" dialog0="What’s the weather going to be like tomorrow?" dialog1="It’s going to be hot." dialog2="Should we take our umbrellas?" dialog3="Yes, we should. It’s going to rain."/>
+		<quest picId="4" audio="lg4_u2_g1_4a.mp3" firstSpeakerId="1" dialog0="What’s the weather going to be like tomorrow?" dialog1="It’s going to be foggy." dialog2="Should we take our umbrellas?" dialog3="No, I don’t think so. It isn’t going to rain."/>
+		<quest picId="5" audio="lg4_u2_g1_5a.mp3" firstSpeakerId="1" dialog0="What’s the weather going to be like tomorrow?" dialog1="It’s going to be humid." dialog2="Should we take our jackets?" dialog3="No, I don’t think so. It’s going to be warm."/>
+		
+		
+
+	</questions>
+	
+</activity>

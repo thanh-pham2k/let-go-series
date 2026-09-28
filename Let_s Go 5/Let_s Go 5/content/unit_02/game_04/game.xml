@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="2" exercise="4" rubricSound="lg5_u2_g4_rubric.mp3" finalText="2" finalAudio="lg5_ma_g6.mp3" finalAudio2="lg5_ma_g7.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		
+		<sound id="soundOne" file="lb_u5_g3_34.mp3"/>
+		<sound id="soundTwo" file="lb_u5_g3_35.mp3"/>
+		<sound id="soundThree" file="lb_u5_g3_36.mp3"/>
+				
+	</sounds>
+
+	<questions>
+		<quest id="0" frame="1" aud="lg5_u2_g4_1.mp3" text0="The car is " ans="heavier" text1=" than the motorcycle." />
+		<quest id="0" frame="1" aud="lg5_u2_g4_2.mp3" text0="The truck is " ans="heavier" text1=" than the car." />
+		<quest id="0" frame="1" aud="lg5_u2_g4_3.mp3" text0="The truck is the " ans="heaviest" text1="." />
+		
+		<quest id="1" frame="1" aud="lg5_u2_g4_4.mp3" text0="The car is " ans="lighter" text1=" than the truck." />
+		<quest id="1" frame="1" aud="lg5_u2_g4_5.mp3" text0="The motorcycle is "  ans="lighter" text1=" than the car." />
+		<quest id="1" frame="1" aud="lg5_u2_g4_6.mp3" text0="The motorcycle is the " ans="lightest" text1=" ." />
+
+		<quest id="2" frame="2" aud="lg5_u2_g4_7.mp3" text0="The T-shirt is " ans="more" text1=" expensive than the bag." />
+		<quest id="2" frame="2" aud="lg5_u2_g4_8.mp3" text0="The jacket is " ans="more" text1=" expensive than the T-shirt." />
+		<quest id="2" frame="2" aud="lg5_u2_g4_9.mp3" text0="The jacket is the " ans="most" text1=" expensive." />
+		
+		<quest id="3" frame="2" aud="lg5_u2_g4_10.mp3" text0="The T-shirt is " ans="less" text1=" expensive than the jacket." />
+		<quest id="3" frame="2" aud="lg5_u2_g4_11.mp3" text0="The bag is " ans="less" text1=" expensive than the T-shirt." />
+		<quest id="3" frame="2" aud="lg5_u2_g4_12.mp3" text0="The bag is the " ans="least" text1=" expensive." />
+		
+		<quest id="4" frame="3" aud="lg5_u2_g4_13.mp3" text0="The ice cream is " ans="more" text1=" delicious than the cookie." />
+		<quest id="4" frame="3" aud="lg5_u2_g4_14.mp3" text0="The cake is " ans="more" text1=" delicious than the cookie." />
+		<quest id="4" frame="3" aud="lg5_u2_g4_15.mp3" text0="The cake is the " ans="most" text1=" delicious." />
+		
+		<quest id="5" frame="4" aud="lg5_u2_g4_16.mp3" text0="The helicopter is " ans="faster" text1=" than the bicycle." />
+		<quest id="5" frame="4" aud="lg5_u2_g4_17.mp3" text0="The airplane is " ans="faster" text1=" than the bicycle." />
+		<quest id="5" frame="4" aud="lg5_u2_g4_18.mp3" text0="The airplane is the " ans="fastest" text1="." />
+
+		<quest id="6" frame="4" aud="lg5_u2_g4_19.mp3" text0="The helicopter is " ans="slower" text1=" than the airplane." />
+		<quest id="6" frame="4" aud="lg5_u2_g4_20.mp3" text0="The bicycle is " ans="slower" text1=" than the helicopter." />
+		<quest id="6" frame="4" aud="lg5_u2_g4_21.mp3" text0="The bicycle is the " ans="slowest" text1="." />
+		
+		<quest id="7" frame="5" aud="lg5_u2_g4_22.mp3" text0="The fish is " ans="more" text1=" delicious than the steak." />
+		<quest id="7" frame="5" aud="lg5_u2_g4_23.mp3" text0="The pizza is " ans="more" text1=" delicious than the fish." />
+		<quest id="7" frame="5" aud="lg5_u2_g4_24.mp3" text0="The pizza is the " ans="most" text1=" delicious." />
+		
+		<quest id="8" frame="6" aud="lg5_u2_g4_25.mp3" text0="The giraffe is " ans="more" text1=" colorful than the lion." />
+		<quest id="8" frame="6" aud="lg5_u2_g4_26.mp3" text0="The dog is " ans="more" text1=" colorful than the giraffe." />
+		<quest id="8" frame="6" aud="lg5_u2_g4_27.mp3" text0="The dog is the " ans="most" text1=" colorful." />
+
+		<quest id="9" frame="7" aud="lg5_u2_g4_28.mp3" text0="The rhinoceros is " ans="heavier" text1=" than the polar bear." />
+		<quest id="9" frame="7" aud="lg5_u2_g4_29.mp3" text0="The elephant is " ans="heavier" text1=" than the rhinoceros." />
+		<quest id="9" frame="7" aud="lg5_u2_g4_30.mp3" text0="The elephant is the " ans="heaviest" text1="." />
+		
+		<quest id="10" frame="7" aud="lg5_u2_g4_31.mp3" text0="The rhinoceros is " ans="lighter" text1=" than the elephant." />
+		<quest id="10" frame="7" aud="lg5_u2_g4_32.mp3" text0="The polar bear is " ans="lighter" text1=" than the rhinoceros." />
+		<quest id="10" frame="7" aud="lg5_u2_g4_33.mp3" text0="The polar bear is the " ans="lightest" text1="." />
+		
+		<quest id="11" frame="8" aud="lg5_u2_g4_34.mp3" text0="The video game is " ans="less" text1=" expensive than the computer." />
+		<quest id="11" frame="8" aud="lg5_u2_g4_35.mp3" text0="The music player is " ans="less" text1=" expensive than the video game." />
+		<quest id="11" frame="8" aud="lg5_u2_g4_36.mp3" text0="The music player is the " ans="least" text1=" expensive." />
+		
+		<quest id="12" frame="9" aud="lg5_u2_g4_37.mp3" text0="The picture is " ans="more"  text1=" beautiful than the trash can." />
+		<quest id="12" frame="9" aud="lg5_u2_g4_38.mp3" text0="The mountains are " ans="more" text1=" beautiful than the picture." />
+		<quest id="12" frame="9" aud="lg5_u2_g4_39.mp3" text0="The mountains are the " ans="most" text1=" beautiful." />
+		
+	
+	</questions>
+	
+</activity>

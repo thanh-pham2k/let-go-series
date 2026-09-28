@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="3" exercise="1" finalText="1" doneSound = "sounds/lb_ma_g1.mp3" rubricSound="sounds/lb_u3_g1_rubric.mp3">
+	<sounds>
+		<good id="goodSound">sounds/good.mp3</good>
+		<wrong id="wrongSound">sounds/bad.mp3</wrong>
+	</sounds>
+	<items onstage="4">
+		<item id="0" text="Stand up" image="images/a1.swf" sound="sounds/lb_u3_g1_5.mp3"/>
+		<item id="1" text="Sit down" image="images/a2.swf" sound="sounds/lb_u3_g1_6.mp3"/>
+		<item id="2" text="Run" image="images/a3.swf" sound="sounds/lb_u3_g1_2.mp3"/>
+		<item id="3" text="Walk" image="images/a4.swf" sound="sounds/lb_u3_g1_1.mp3"/>
+		<item id="4" text="Turn around" image="images/a5.swf" sound="sounds/lb_u3_g1_4.mp3"/>
+		<item id="5" text="Come here" image="images/a6.swf" sound="sounds/lb_u3_g1_3.mp3"/>
+	</items>
+	<positions>
+		<position x="120" y="150"/>
+		<position x="120" y="350"/>
+		<position x="460" y="150"/>
+		<position x="460" y="350"/>
+	</positions>
+</settings>

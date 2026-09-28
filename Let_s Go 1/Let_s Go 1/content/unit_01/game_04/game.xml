@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="1" exercise="4" rubric="Memory game - two stages" rubricMc="mcRubric" finalText="2">
+	<sounds>
+		<good id="goodSound">sound/good.mp3</good>
+		<rubrics id="rubricSound">sound/lg01_u01_g01_rubric.mp3</rubrics>
+		<wrong id="wrongSound">sound/bad.mp3</wrong>
+		<done id="doneSound">sound/lg1_ma_b2.mp3</done>
+		<yes id="yesSound">sound/lg1_u1_g4_26.mp3</yes>
+		<no id="noSound">sound/lg1_u1_g4_27.mp3</no>
+	</sounds>
+	<items id="items">
+		<item src="swf/crayon.swf" mySound="sound/lg1_u1_g4_7.mp3" yourSound="sound/lg1_u1_g4_14.mp3" name="crayon" />
+		<item src="swf/marker.swf" mySound="sound/lg1_u1_g4_8.mp3" yourSound="sound/lg1_u1_g4_2.mp3" name="marker" />
+		<item src="swf/ruler.swf" mySound="sound/lg1_u1_g4_9.mp3" yourSound="sound/lg1_u1_g4_3.mp3" name="ruler" />
+		<item src="swf/eraser.swf" mySound="sound/lg1_u1_g4_10.mp3" yourSound="sound/lg1_u1_g4_4.mp3" name="eraser" />
+		<item src="swf/pen.swf" mySound="sound/lg1_u1_g4_11.mp3" yourSound="sound/lg1_u1_g4_5.mp3" name="pen" />
+		<item src="swf/book.swf" mySound="sound/lg1_u1_g4_12.mp3" yourSound="sound/lg1_u1_g4_6.mp3" name="book" />
+	</items>
+</activity>

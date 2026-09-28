@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="5"  exercise="4" timer="20" toAsk="8" finalAudio="lg6_ma_b5.mp3" finalAudio2="lg5_ma_g7.mp3" rubricSound="lg6_u5_g4_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+		<sound id="whatHappend" file="lg6_u5_g4_1.mp3"/>
+
+	</sounds>
+
+		
+	<answers>
+	
+	<a pic="item_01" audio0="lg6_u5_g4_2.mp3" s0="The money was found by Kelly." audio1="lg6_u5_g4_3.mp3" s1="The_money_was_found. " d="find._had_been_founded._bought._has"/>
+	<a pic="item_02" audio0="lg6_u5_g4_4.mp3" s0="The window was broken by Mark." audio1="lg6_u5_g4_5.mp3" s1="The_window_was_broken." d="broke._lost._rented._wasn't_he_break"/>
+	<a pic="item_03" audio0="lg6_u5_g4_6.mp3" s0="The cell phone was lost by Tina." audio1="lg6_u5_g4_7.mp3" s1="The_cell_phone_was_lost." d="lose._bought_used_broken._been._it"/>
+	<a pic="item_04" audio0="lg6_u5_g4_8.mp3" s0="The picture was drawn by Jodie." audio1="lg6_u5_g4_9.mp3" s1="The_picture_was_drawn." d="drew._had_printed._show_found._her"/>
+	<a pic="item_05" audio0="lg6_u5_g4_10.mp3" s0="The camera was bought by Jason." audio1="lg6_u5_g4_11.mp3" s1="The_camera_was_bought." d="sold._rented._got_seen._had_saw"/>
+	<a pic="item_06" audio0="lg6_u5_g4_12.mp3" s0="The DVD was rented by Sam." audio1="lg6_u5_g4_13.mp3" s1="The_DVD_was_rented." d="buy_found._drawn._him_for_broken."/>
+	<a pic="item_07" audio0="lg6_u5_g4_14.mp3" s0="The cookies were eaten by Mike." audio1="lg6_u5_g4_15.mp3" s1="The_cookies_were_eaten." d="lost._drawn_eat_cake_been._was."/>
+	<a pic="item_08" audio0="lg6_u5_g4_16.mp3" s0="The room was painted by Jill." audio1="lg6_u5_g4_17.mp3" s1="The_room_was_painted." d="broken._drawn_paint._wasn’t_were._house"/>
+
+
+	
+	</answers>
+	
+
+</activity>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wordsearch maxWords="8" columns="19" rows="19" markercolor="0x0000ff" markerheight="1" saveas="wordsearch1" backwardwords="0">
+	<words selectedbackalpha="20" selectedborderalpha="80" selectedborderheight="2">
+		<element frame="1" selectedcolorback="0xff0000" selectedcolorborder="0xff0000" word="FARMER" />
+		<element frame="2" selectedcolorback="0x990099" selectedcolorborder="0x990099" word="TRAINCONDUCTOR" />
+		<element frame="4" selectedcolorback="0x990000" selectedcolorborder="0x990000" word="COOK"/>		
+		<element frame="5" selectedcolorback="0x006600" selectedcolorborder="0x006600" word="NURSE"/>		
+		<element frame="6" selectedcolorback="0x0000ff" selectedcolorborder="0x0000ff" word="SHOPKEEPER"/>
+		<element frame="7" selectedcolorback="0xffff00" selectedcolorborder="0xffff00" word="TAXIDRIVER"/>
+		<element frame="9" selectedcolorback="0xff0000" selectedcolorborder="0xff9933" word="OFFICEWORKER"/>
+		<element frame="10" selectedcolorback="0x990099" selectedcolorborder="0xff9933" word="POLICEOFFICERS"/>
+		<element frame="11" selectedcolorback="0x990000" selectedcolorborder="0xff9933" word="TEACHERS"/>
+		<element frame="12" selectedcolorback="0x006600" selectedcolorborder="0xff9933" word="STUDENTS"/>
+		<element frame="13" selectedcolorback="0x0000ff" selectedcolorborder="0xff9933" word="DOCTORS"/>
+		<element frame="14" selectedcolorback="0xffff00" selectedcolorborder="0xff9933" word="PILOTS"/>
+		<element frame="15" selectedcolorback="0xff0000" selectedcolorborder="0xff9933" word="ENGINEERS"/>
+		<element frame="16" selectedcolorback="0xff9933" selectedcolorborder="0xff9933" word="FIREFIGHTERS"/>
+		<element frame="17" selectedcolorback="0xff9933" selectedcolorborder="0xff9933" word="COMPUTERPROGRAMMER"/>
+		<element frame="18" selectedcolorback="0xff9933" selectedcolorborder="0xff9933" word="DENTISTS"/>
+	</words>
+</wordsearch>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="8" exercise="2" rubric="Listen and choose." rubricMc="mcRubric" finalTimeout="0" finalText="2">
+	<sounds>
+		<rubric id="soundRubric"><![CDATA[sounds/lg1_u8_g2_rubric.mp3]]></rubric>
+		<good id="soundGood"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="soundBad"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="soundDone"><![CDATA[sounds/lg1_ma_b2.mp3]]></done>
+		<over id="soundOver"><![CDATA[sounds/out_of_time.mp3]]></over>
+	</sounds>
+	<words shuffle="true">
+		<word id="0">
+			<image><![CDATA[swf/item_01.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_1.mp3]]></sound>
+		</word>
+		<word id="1">
+			<image><![CDATA[swf/item_02.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_2.mp3]]></sound>
+		</word>
+		<word id="2">
+			<image><![CDATA[swf/item_03.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_3.mp3]]></sound>
+		</word>
+		<word id="3">
+			<image><![CDATA[swf/item_04.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_4.mp3]]></sound>
+		</word>
+		<word id="4">
+			<image><![CDATA[swf/item_05.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_5.mp3]]></sound>
+		</word>
+		<word id="5">
+			<image><![CDATA[swf/item_06.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_6.mp3]]></sound>
+		</word>
+		<word id="6">
+			<image><![CDATA[swf/item_07.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_7.mp3]]></sound>
+		</word>
+		<word id="7">
+			<image><![CDATA[swf/item_08.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_8.mp3]]></sound>
+		</word>
+		<word id="8">
+			<image><![CDATA[swf/item_09.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_9.mp3]]></sound>
+		</word>
+		<word id="9">
+			<image><![CDATA[swf/item_10.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_10.mp3]]></sound>
+		</word>
+		<word id="10">
+			<image><![CDATA[swf/item_11.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_11.mp3]]></sound>
+		</word>
+		<word id="11">
+			<image><![CDATA[swf/item_12.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_12.mp3]]></sound>
+		</word>
+		<word id="12">
+			<image><![CDATA[swf/item_13.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_13.mp3]]></sound>
+		</word>
+		<word id="13">
+			<image><![CDATA[swf/item_14.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_14.mp3]]></sound>
+		</word>
+		<word id="14">
+			<image><![CDATA[swf/item_15.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u8_g2_15.mp3]]></sound>
+		</word>
+	</words>
+</activity>

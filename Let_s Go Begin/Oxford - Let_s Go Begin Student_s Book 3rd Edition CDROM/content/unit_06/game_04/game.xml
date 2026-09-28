@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="6" exercise="4" goodSound="sounds/lb_u6_g4_9.mp3" wrongSound="sounds/lb_u6_g4_10.mp3" doneSound="sounds/Lb_ma_b4.mp3" rubricSound="sounds/lb_u6_g4_rubric.mp3" rubric="Play the game." finalTimeout="4" oneSound="sounds/lb_u5_g3_34.mp3" twoSound="sounds/lb_u5_g3_35.mp3" threeSound="sounds/lb_u5_g3_36.mp3" allOk="sounds/feedback.mp3">
+	<items all="swf/all.swf">
+		<item text="Do you like ice cream?" clip='icecream' link='swf/icecream.swf' snd='sounds/lb_u6_g4_1.mp3'/>
+		<item text="Do you like pizza?" clip='pizza' link='swf/pizza.swf' snd='sounds/lb_u6_g4_2.mp3'/>
+		<item text="Do you like cake?" clip='cake' link='swf/cake.swf' snd='sounds/lb_u6_g4_3.mp3'/>
+		<item text="Do you like chicken?" clip='chicken' link='swf/chicken.swf' snd='sounds/lb_u6_g4_4.mp3'/>
+		<item text="Do you like fish?" clip='fish' link='swf/fish.swf' snd='sounds/lb_u6_g4_5.mp3'/>
+		<item text="Do you like milk?" clip='milk' link='swf/milk.swf' snd='sounds/lb_u6_g4_6.mp3'/>
+		<item text="Do you like bread?" clip='bread' link='swf/bread.swf' snd='sounds/lb_u6_g4_7.mp3'/>
+		<item text="Do you like rice?" clip='rice' link='swf/rice.swf' snd='sounds/lb_u6_g4_8.mp3'/>
+		<item text="Do you like trains?" clip='trains' link='swf/trains.swf' snd='sounds/lb_u6_g4_11.mp3'/>
+		<item text="Do you like cars?" clip='cars' link='swf/cars.swf' snd='sounds/lb_u6_g4_12.mp3'/>
+		<item text="Do you like teddy bears?" link='swf/tedy_bears.swf' clip='tedy_bears' snd='sounds/lb_u6_g4_13.mp3'/>
+		<item text="Do you like bicycles?" link='swf/bicycles.swf' clip='bicycles' snd='sounds/lb_u6_g4_14.mp3'/>
+	</items>
+</activity>

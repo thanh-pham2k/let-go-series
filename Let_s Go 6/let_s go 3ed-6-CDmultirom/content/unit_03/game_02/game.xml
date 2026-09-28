@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" timer="20" exercise="2" toAsk="8" finalAudio="lg6_ma_b2.mp3" finalAudio2="lg6_ma_g7.mp3" rubricSound="lg6_u3_g2_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+		
+	</sounds>
+
+	<questions audio0="lg6_u3_g2_1.mp3" audio1="lg6_u3_g2_2.mp3">
+
+	
+	<quest pic="item_01" typ="0" a0="lg6_u3_g2_3.mp3" a1="lg6_u3_g2_4.mp3" q0="He bought her a DVD." q1="He bought a DVD for her."/>
+	<quest pic="item_02" typ="1" a0="lg6_u3_g2_5.mp3" a1="lg6_u3_g2_6.mp3" q0="She bought him a DVD." q1="She bought a DVD for him."/>
+	<quest pic="item_03" typ="0" a0="lg6_u3_g2_7.mp3" a1="lg6_u3_g2_8.mp3" q0="He gave him a package." q1="He gave a package to him."/>
+	<quest pic="item_04" typ="1" a0="lg6_u3_g2_9.mp3" a1="lg6_u3_g2_10.mp3" q0="She gave her a package." q1="She gave a package to her."/>
+	<quest pic="item_06" typ="1" a0="lg6_u3_g2_11.mp3" a1="lg6_u3_g2_12.mp3" q0="She showed her a picture." q1="She showed a picture to her."/>
+	<quest pic="item_05" typ="0" a0="lg6_u3_g2_13.mp3" a1="lg6_u3_g2_14.mp3" q0="He showed him a picture." q1="He showed a picture to him."/>
+	<quest pic="item_07" typ="0" a0="lg6_u3_g2_15.mp3" a1="lg6_u3_g2_16.mp3" q0="He printed her a picture." q1="He printed a picture for her."/>
+	<quest pic="item_08" typ="1" a0="lg6_u3_g2_17.mp3" a1="lg6_u3_g2_18.mp3" q0="She printed him a picture." q1="She printed a picture for him."/>
+	<quest pic="item_09" typ="1" a0="lg6_u3_g2_19.mp3" a1="lg6_u3_g2_20.mp3" q0="She sold him a bracelet." q1="She sold a bracelet to him."/>
+	<quest pic="item_10" typ="0" a0="lg6_u3_g2_21.mp3" a1="lg6_u3_g2_22.mp3" q0="He sold her a bracelet." q1="He sold a bracelet to her."/>
+	<quest pic="item_11" typ="0" a0="lg6_u3_g2_23.mp3" a1="lg6_u3_g2_24.mp3" q0="He sent her a package." q1="He sent a package to her."/> 
+	<quest pic="item_12" typ="1" a0="lg6_u3_g2_25.mp3" a1="lg6_u3_g2_26.mp3" q0="She sent him a package." q1="She sent a package to him."/>
+
+	
+	</questions>
+	
+
+</activity>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="2" exercise="4" rubric="Listen and match." rubricMc="mcRubric" finalText="4" timeout="60" finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u2_g4_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_b4.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/out_of_time.mp3]]></over>
+	</sounds>
+	<words shuffle="true" minWords="6">
+		<word id="0">
+			<text><![CDATA[It was sunny.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_1.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_2.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_1.mp3]]></soundQ>
+		</word>
+		<word id="1">
+			<text><![CDATA[It was cloudy.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_2.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_3.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_1.mp3]]></soundQ>
+		</word>
+		<word id="2">
+			<text><![CDATA[It was windy.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_3.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_4.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_1.mp3]]></soundQ>
+		</word>
+		<word id="3">
+			<text><![CDATA[It was rainy.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_4.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_5.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_1.mp3]]></soundQ>
+		</word>
+		<word id="4">
+			<text><![CDATA[It’s sunny.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_5.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_7.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_6.mp3]]></soundQ>
+		</word>
+		<word id="5">
+			<text><![CDATA[It’s cloudy.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_6.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_8.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_6.mp3]]></soundQ>
+		</word>
+		<word id="6">
+			<text><![CDATA[It’s rainy.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_7.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_9.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_6.mp3]]></soundQ>
+		</word>
+		<word id="7">
+			<text><![CDATA[It’s snowy.]]></text>
+			<image><![CDATA[swf/lg3_u2_g4_8.swf]]></image>
+			<sound><![CDATA[sounds/match/lg3_u2_g4_10.mp3]]></sound>
+			<soundQ><![CDATA[sounds/match/lg3_u2_g4_6.mp3]]></soundQ>
+		</word>
+	</words>
+</activity>
+

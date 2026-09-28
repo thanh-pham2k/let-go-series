@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="6" exercise="1" finalText="1" doneSound = "sounds/lb_ma_g1.mp3" rubricText="Listen and count." rubricSound="sounds/lb_u6_g1_rubric.mp3" singSound="sounds/lb_u6_g1_song rubric.mp3">
+	<sounds>
+		<good id="goodSound">sounds/good.mp3</good>
+		<wrong id="wrongSound">sounds/bad.mp3</wrong>
+	</sounds>
+	<items onstage="4">
+		<item id="0" text="bicycle" image="images/a4.swf" sound="sounds/lb_u6_g1_2.mp3"/>
+		<item id="1" text="jump rope" image="images/a2.swf" sound="sounds/lb_u6_g1_3.mp3"/>
+		<item id="2" text="yo-yo" image="images/a3.swf" sound="sounds/lb_u6_g1_5.mp3"/>
+		<item id="3" text="ball" image="images/a1.swf" sound="sounds/lb_u6_g1_4.mp3"/>
+		
+	<positions>
+		<position x="125" y="200"/>
+		<position x="125" y="400"/>
+		<position x="445" y="200"/>
+		<position x="445" y="400"/>
+
+	</positions>
+</settings>

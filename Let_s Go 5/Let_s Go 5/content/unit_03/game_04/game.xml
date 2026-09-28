@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="4" finalText="3" timer="10" finalAudio="lg5_ma_g6.mp3" finalAudio2="lg5_ma_g7.mp3" rubricSound="lg5_u3_g4_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" typ="0" subtyp="0" image="pic_01.swf" audio="lg5_u3_g4_22.mp3" questionAudio="lg5_u3_g4_15.mp3" sentence="She was sleeping."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_02.swf" audio="lg5_u3_g4_23.mp3" questionAudio="lg5_u3_g4_16.mp3" sentence="She was waking up."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_03.swf" audio="lg5_u3_g4_24.mp3" questionAudio="lg5_u3_g4_17.mp3" sentence="She was getting dressed."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_04.swf" audio="lg5_u3_g4_25.mp3" questionAudio="lg5_u3_g4_18.mp3" sentence="She was eating breakfast."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_05.swf" audio="lg5_u3_g4_26.mp3" questionAudio="lg5_u3_g4_19.mp3" sentence="She was brushing her teeth."/>			
+		<quest id="0" typ="0" subtyp="0" image="pic_06.swf" audio="lg5_u3_g4_27.mp3" questionAudio="lg5_u3_g4_20.mp3" sentence="She was drinking juice."/>
+		<quest id="0" typ="0" subtyp="0" image="pic_07.swf" audio="lg5_u3_g4_28.mp3" questionAudio="lg5_u3_g4_21.mp3" sentence="She was leaving for school."/>
+	</questions>
+</activity>

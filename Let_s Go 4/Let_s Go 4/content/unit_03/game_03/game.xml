@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="3" rubric="Listen and answer." finalText="3" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg4_u3_g3_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg4_ma_b3.mp3]]></sound>
+		<sound id="YesHe"><![CDATA[sounds/lg4_u3_g3_13.mp3]]></sound>
+		<sound id="YesShe"><![CDATA[sounds/lg4_u3_g3_15.mp3]]></sound>
+		<sound id="NoHe"><![CDATA[sounds/lg4_u3_g3_14.mp3]]></sound>
+		<sound id="NoShe"><![CDATA[sounds/lg4_u3_g3_16.mp3]]></sound>
+	</sounds>
+	<items id="items">
+		<item id="1" sound="sounds/lg4_u3_g3_1.mp3" type="He" text="Does he want to climb a mountain?"/>
+		<item id="2" sound="sounds/lg4_u3_g3_2.mp3" type="He" text="Does he want to build a house?"/>
+		<item id="3" sound="sounds/lg4_u3_g3_3.mp3" type="He" text="Does he want to sail a boat?"/>
+		<item id="4" sound="sounds/lg4_u3_g3_4.mp3" type="He" text="Does he want to travel around the world?"/>
+		<item id="5" sound="sounds/lg4_u3_g3_5.mp3" type="He" text="Does he want to design a video game?"/>
+		<item id="6" sound="sounds/lg4_u3_g3_6.mp3" type="He" text="Does he want to drive a car?"/>
+		<item id="7" sound="sounds/lg4_u3_g3_7.mp3" type="She" text="Does she want to climb a mountain?"/>
+		<item id="8" sound="sounds/lg4_u3_g3_8.mp3" type="She" text="Does she want to build a house?"/>
+		<item id="9" sound="sounds/lg4_u3_g3_9.mp3" type="She" text="Does she want to sail a boat?"/>
+		<item id="10" sound="sounds/lg4_u3_g3_10.mp3" type="She" text="Does she want to travel around the world?"/>
+		<item id="11" sound="sounds/lg4_u3_g3_11.mp3" type="She" text="Does she want to design a video game?"/>
+		<item id="12" sound="sounds/lg4_u3_g3_12.mp3" type="She" text="Does she want to drive a car?"/>
+	</items>
+</activity>
+

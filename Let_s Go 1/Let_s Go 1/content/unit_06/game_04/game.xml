@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="6" exercise="4" rubric="Listen and choose." finalTimeout="2" finalText="4">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u6_g4_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b4.mp3]]></done>
+		<yes id="yesSound"><![CDATA[sounds/lg1_u6_g4_25.mp3]]></yes>
+		<yes2 id="yes2Sound"><![CDATA[sounds/lg1_u6_g4_26.mp3]]></yes2>
+		<no id="noSound"><![CDATA[sounds/lg1_u6_g4_27.mp3]]></no>
+		<no2 id="no2Sound"><![CDATA[sounds/lg1_u6_g4_28.mp3]]></no2>
+		<howmany id="howmany"><![CDATA[sounds/lg1_u6_g4_29.mp3]]></howmany>
+		<tryagain id="tryagain"><![CDATA[sounds/tryagain.mp3]]></tryagain>
+	</sounds>
+	<objects id="objects">
+		<object id="0" positions="0,5,6" clip="bug" amount="1" />
+		<object id="1" positions="0,5,6" clip="bugs" amount="3" />
+		<object id="2" positions="0,1,6" clip="cat" amount="1" />
+		<object id="3" positions="0,1,6" clip="cats" amount="2" />
+		<object id="4" positions="2,3,4" clip="bat" amount="1" />
+		<object id="5" positions="2,3,4" clip="bats" amount="3" />
+		<object id="6" positions="0,1,2" clip="kite" amount="1" />
+		<object id="7" positions="0,1,2" clip="kites" amount="2" />
+	</objects>
+</activity>
+

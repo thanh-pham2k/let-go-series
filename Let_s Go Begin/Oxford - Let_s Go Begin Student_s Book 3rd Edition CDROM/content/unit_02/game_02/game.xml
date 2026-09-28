@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity type="color" unit="2" exercise="2" goodSound="sounds/good.mp3" wrongSound="sounds/bad.mp3" doneSound="sounds/lb_ma_b5.mp3" rubricSound="sounds/lb_u2_g2_rubric.mp3" finalText="5">
+	<images x="30" y="77">
+		<part name="part_00" image="images/part_00.swf" />
+		<part name="part_01" image="images/part_01.swf" />
+		<part name="part_02" image="images/part_02.swf" />
+		<part name="part_03" image="images/part_03.swf" />
+		<part name="part_04" image="images/part_04.swf" />
+		<part name="part_05" image="images/part_05.swf" />
+	</images>
+	<colors question='sounds/lb_u2_g2_1.mp3'>
+		<color name='col1Sound' value="0xFF0000" sound="sounds/lb_u2_g2_2.mp3" />
+		<color name='col2Sound' value="0x0000FF" sound="sounds/lb_u2_g2_3.mp3" />
+		<color name='col3Sound' value="0xFFFF00" sound="sounds/lb_u2_g2_4.mp3" />
+		<color name='col4Sound' value="0x00FF00" sound="sounds/lb_u2_g2_5.mp3" />
+		<color name='col5Sound' value="0x996600" sound="sounds/lb_u2_g2_6.mp3" />
+		<color name='col6Sound' value="0x9900FF" sound="sounds/lb_u2_g2_7.mp3" />
+		<color name='col7Sound' value="0xFF6600" sound="sounds/lb_u2_g2_8.mp3" />		
+		<color name='col8Sound' value="0x000000" sound="sounds/lb_u2_g2_9.mp3" />
+		<color name='col9Sound' value="0xFFFFFF" sound="sounds/lb_u2_g2_10.mp3" />
+		<color name='col10Sound' value="0xFF66CC" sound="sounds/lb_u2_g2_11.mp3" />
+	</colors>
+</activity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" timer="45" exercise="4" rubric="Make the sentences." finalText="3" finalAudio="lg6_ma_b3.mp3" finalAudio2="lg6_ma_b7.mp3" rubricSound="lg6_u7_g4_rubric.mp3" >
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+	</sounds>
+	<questions>
+		<quest id="0" kind="when" image="item_01.swf" qaudio="lg6_u7_g4_1.mp3" aaudio="" q="When did you learn how to ride a bicycle?" a="I+never+learned+how+to+ride a bicycle.+ride a bicycle+when+I+was+four.+five.+six.+seven.+eight.+nine.+ten.+eleven." answer1="I+never+learned+how+to+ride a bicycle." answer2="I+learned+how+to+ride a bicycle+when+I+was+NUMBER."/>
+		<quest id="1" kind="when" image="item_02.swf" qaudio="lg6_u7_g4_2.mp3" aaudio="" q="When did you learn how to speak English?" a="I+never+learned+how+to+speak English.+speak English+when+I+was+three.+four.+five.+six.+seven.+eight.+nine.+ten.+eleven.+twelve."  d=""answer1="I+never+learned+how+to+speak English." answer2="I+learned+how+to+speak English+when+I+was+NUMBER."/>
+
+		<quest id="2" kind="could" image="item_03.swf" qaudio="lg6_u7_g4_3.mp3" aaudio="" q="Could you do a somersault when you were one?" a="Yes,+I+could.+No,+couldn't."  d="" answer1="Yes,+I+could." answer2="No,+I+couldn't."/>
+		<quest id="3" kind="could" image="item_04.swf" qaudio="lg6_u7_g4_4.mp3" aaudio="" q="Could you fly a kite when you were three?" a="Yes,+I+could.+No,+couldn't." d="" answer1="Yes,+I+could." answer2="No,+I+couldn't."/>
+		
+		<quest id="4" kind="when" image="item_05.swf" qaudio="lg6_u7_g4_5.mp3" aaudio="" q="When did you learn how to play the piano?" a="I+never+learned+how+to+play the piano.+play the piano+when+I+was+two.+three.+four.+five.+six.+seven.+eight.+nine.+ten.+eleven.+twelve." d="" answer1="I+never+learned+how+to+play the piano." answer2="I+learned+how+to+play the piano+when+I+was+NUMBER."/>
+		<quest id="5" kind="could" image="item_06.swf" qaudio="lg6_u7_g4_6.mp3" aaudio="" q="Could you ice skate when you were five?" a="Yes,+I+could.+No,+couldn't." d="" answer1="Yes,+I+could." answer2="No,+I+couldn't."/>
+		
+		<quest id="6" kind="when" image="item_07.swf" qaudio="lg6_u7_g4_7.mp3" aaudio="" q="When did you learn how to read a book?" a="I+never+learned+how+to+read a book.+read a book+when+I+was+three.+four.+five.+six.+seven.+eight.+nine.+ten.+eleven.+twelve." d="" answer1="I+never+learned+how+to+read a book." answer2="I+learned+how+to+read a book+when+I+was+NUMBER."/>
+		<quest id="7" kind="could" image="item_08.swf" qaudio="lg6_u7_g4_8.mp3" aaudio="" q="Could you skate when you were seven?" a="Yes,+I+could.+No,+couldn't." d="" answer1="Yes,+I+could." answer2="No,+I+couldn't."/>
+							
+	</questions>
+</activity>

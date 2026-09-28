@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" unit="6" exercise="1" finalTimeout="2" finalText="6" rubricMc="mcRubric" rubric="Read and match.">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u6_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_g6.mp3]]></done>
+		<ping id="pingSound"><![CDATA[sounds/ping.mp3]]></ping>
+	</sounds>
+	<items id="items" questions="8">
+		<item id="1" sound="sounds/lg3_u6_g1_8.mp3" targets="1" text="I’m going to a concert."/>
+		<item id="2" sound="sounds/lg3_u6_g1_1.mp3" targets="1" text="I’m going to a concert."/>
+		<item id="3" sound="sounds/lg3_u6_g1_9.mp3" targets="2" text="I’m going to a movie."/>
+		<item id="4" sound="sounds/lg3_u6_g1_2.mp3" targets="2" text="I’m going to a movie."/>
+		<item id="5" sound="sounds/lg3_u6_g1_10.mp3" targets="3" text="I’m going to an amusement park."/>
+		<item id="6" sound="sounds/lg3_u6_g1_3.mp3" targets="3" text="I’m going to an amusement park."/>
+		<item id="7" sound="sounds/lg3_u6_g1_11.mp3" targets="4" text="I’m going to a water park."/>
+		<item id="8" sound="sounds/lg3_u6_g1_4.mp3" targets="4" text="I’m going to a water park."/>		
+				
+	</items>
+</settings>

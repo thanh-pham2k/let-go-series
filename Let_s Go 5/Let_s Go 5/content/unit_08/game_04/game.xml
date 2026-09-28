@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<activity unit="8" exercise="4" rubricSound="lg5_u8_g4_rubric.mp3" finalAudio="lg5_ma_g6.mp3" finalText="5" toAsk="8">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="yesAudio" file="lg5_u8_g4_19.mp3"/>
+		<sound id="noAudio" file="lg5_u8_g4_20.mp3"/>
+		
+
+		
+	</sounds>
+	<items id="items">
+		<item id="0" sound="lg5_u8_g4_1.mp3" text="Have you ever been to England?"/>
+		<item id="1" sound="lg5_u8_g4_2.mp3" text="Have you ever been to Mexico?"/>
+		<item id="2" sound="lg5_u8_g4_4.mp3" text="Have you ever been to Hawaii?"/>
+		<item id="3" sound="lg5_u8_g4_5.mp3" text="Have you ever eaten kimchi?"/>
+		<item id="4" sound="lg5_u8_g4_6.mp3" text="Have you ever eaten tofu?"/>
+	 	<item id="5" sound="lg5_u8_g4_7.mp3" text="Have you ever eaten a taco?"/>
+		<item id="6" sound="lg5_u8_g4_10.mp3" text="Have you ever seen a rainbow?"/>
+		<item id="7" sound="lg5_u8_g4_11.mp3" text="Have you ever seen a volcano?"/>
+		<item id="8" sound="lg5_u8_g4_12.mp3" text="Have you ever seen an elephant?"/>			
+		<item id="9" sound="lg5_u8_g4_13.mp3" text="Have you ever been on safari?"/>
+		<item id="10" sound="lg5_u8_g4_14.mp3" text="Have you ever been on a sailboat?"/>
+		<item id="11" sound="lg5_u8_g4_15.mp3" text="Have you ever been snowboarding?"/>
+		<item id="12" sound="lg5_u8_g4_16.mp3" text="Have you ever been skateboarding?"/>
+
+	</items>
+</activity>
+

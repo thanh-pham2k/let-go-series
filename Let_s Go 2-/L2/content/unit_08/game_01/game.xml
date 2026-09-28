@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="8" exercise="1" rubric="Listen and match." finalText="6" timeout="45" finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg2_u8_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg2_ma_g6.mp3]]></done>
+	</sounds>
+	<words id="words" shuffle="1">
+		<word text="Monday" clip="swf/dialog1.swf" dragSound="sounds/lg2_u8_g1_9.mp3" dialog="sounds/lg2_u8_g1_7.mp3" />
+		<word text="Tuesday" clip="swf/dialog2.swf" dragSound="sounds/lg2_u8_g1_10.mp3" dialog="sounds/lg2_u8_g1_4.mp3" />
+		<word text="Wednesday" clip="swf/dialog3.swf" dragSound="sounds/lg2_u8_g1_11.mp3" dialog="sounds/lg2_u8_g1_6.mp3" />
+		<word text="Thursday" clip="swf/dialog4.swf" dragSound="sounds/lg2_u8_g1_12.mp3" dialog="sounds/lg2_u8_g1_3.mp3" />
+		<word text="Friday" clip="swf/dialog5.swf" dragSound="sounds/lg2_u8_g1_13.mp3" dialog="sounds/lg2_u8_g1_5.mp3" />
+		<word text="Saturday" clip="swf/dialog6.swf" dragSound="sounds/lg2_u8_g1_14.mp3" dialog="sounds/lg2_u8_g1_2.mp3" />
+		<word text="Sunday" clip="swf/dialog7.swf" dragSound="sounds/lg2_u8_g1_8.mp3" dialog="sounds/lg2_u8_g1_1.mp3" />
+	</words>
+</activity>
+

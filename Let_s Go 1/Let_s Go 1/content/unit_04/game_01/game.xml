@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="4" exercise="1" rubric="Listen and match." finalText="3" finalTimeout="1">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u4_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/lg1_ma_g4.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b3.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/Notryagain.mp3]]></over>
+	</sounds>
+	<words shuffle="true">
+		<word id="0">
+			<text><![CDATA[mother]]></text>
+			<image><![CDATA[swf/mother.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u4_g1_1.mp3]]></sound>
+		</word>
+		<word id="1">
+			<text><![CDATA[father]]></text>
+			<image><![CDATA[swf/father.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u4_g1_2.mp3]]></sound>
+		</word>
+		<word id="2">
+			<text><![CDATA[brother]]></text>
+			<image><![CDATA[swf/brother.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u4_g1_4.mp3]]></sound>
+		</word>
+		<word id="3">
+			<text><![CDATA[sister]]></text>
+			<image><![CDATA[swf/sister.swf]]></image>
+			<sound><![CDATA[sounds/lg1_u4_g1_3.mp3]]></sound>
+		</word>
+	</words>
+</activity>

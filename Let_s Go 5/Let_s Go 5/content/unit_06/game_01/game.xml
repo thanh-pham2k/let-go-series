@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="16" fontlib="1" lib="f1" wordspace="7" sentencesspace="32" addspace="19" posx="170" posy="145" select="3" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/wrong.mp3"/>
+<sound name="intro" url="sounds/lg5_u6_g1_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg5_ma_b6.mp3"/>
+<sound name="nicetry" url="sounds/lg5_ma_g7.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg5_u6_g1_1_all.mp3">
+		<answer txt="Winter is my|null|season!" gender="g" name="favorite" dis="like|best" good="2"/>
+		<answer txt="Why do you like|null|?" gender="b" name="winter" dis="spring|summer" good="0"/>
+		<answer txt="Because I like|null|and snow." gender="g" name="cold weather" dis="hot weather|favorite" good="1"/>
+		<answer txt="I don’t. I|null|warm weather better." gender="b" name="like" dis="likes|liked" good="2"/>
+		<answer txt="Is summer your favorite|null|?" gender="g" name="season" dis="day|month" good="1"/>
+		<answer txt="Not really. Sometimes the|null|is|null|." gender="b" name="weather_too hot" dis="season|day_too cold|too much" good="0_2"/>
+		<answer txt="So, which season do you like|null|?" gender="g" name="best" dis="better|favorite" good="0"/>
+		<answer txt="I like|null|because I like|null|with my dog!" gender="b" name="spring_playing at the park" dis="winter|summer_playing on the park|planting flowers" good="2_1"/>
+		</paragraph>
+		
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg5_u6_g1_2_all.mp3">
+			<answer txt="What’s your|null|season?" gender="g" name="favorite" dis="like|best" good="2"/>
+			<answer txt="I|null|summer." gender="b" name="like" dis="likes|liked" good="1"/>
+			<answer txt="Why do you like|null|?" gender="g" name="summer" dis="spring|winter" good="1"/>
+			<answer txt="Because I|null|hot weather." gender="b" name="like" dis="go|likes" good="2"/>
+			<answer txt="I don’t. I like|null|weather better." gender="g" name="cool" dis="cold|hot" good="2"/>
+			<answer txt="Is winter your favorite|null|?" gender="b" name="season" dis="day|month" good="1"/>
+			<answer txt="Not really. Sometimes the weather is|null|." gender="g" name="too cold" dis="too hot|too much" good="2"/>
+			<answer txt="So, which season do you like|null|?" gender="b" name="best" dis="better|favorite" good="0"/>
+			<answer txt="I like|null|because I like|null|." gender="g" name="fall_hiking" dis="spring|summer _camping|flying kites" good="1_0"/>
+		</paragraph>
+		
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg5_u6_g1_3_all.mp3">
+			<answer txt="Winter is my|null|season!" gender="g" name="favorite" dis="like|best" good="1"/>
+			<answer txt="I don’t like winter. I like hot weather|null|." gender="b" name="best" dis="better|favorite" good="0"/>
+			<answer txt="Is summer your favorite|null|?" gender="g" name="season" dis="day|month" good="2"/>
+			<answer txt="Yes, it is. I like|null|." gender="b" name="going to the beach" dis="going to the mountains|going to the park" good="1"/>
+			<answer txt="Why do you like|null|?" gender="b" name="winter" dis="spring|summer" good="1"/>
+			<answer txt="Because I like|null|and snow." gender="g" name="cold weather" dis="hot weather|cold" good="0"/>
+			<answer txt="Do you|null|ice skating?" gender="b" name="like" dis="likes|liked" good="2"/>
+			<answer txt="Not really. I like|null|null|." gender="g" name="skiing_better" dis="ice skating|waterskiing_best|favorite" good="1_1"/>
+			<answer txt="I like|null|." gender="b" name="waterskiing" dis="skiing|ice skating" good="2"/>
+		</paragraph>
+		
+	</paragraphs>
+</activity>

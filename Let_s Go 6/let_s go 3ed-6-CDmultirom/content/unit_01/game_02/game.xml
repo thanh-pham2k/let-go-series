@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="1"  exercise="2" timer="60" toAsk="8" finalAudio="lg6_ma_b2.mp3" finalAudio2="lg5_ma_g7.mp3" rubricSound="lg6_u1_g2_1_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+
+	<questions>
+		<q typ="0" pic="item_03" qtxt="Tracy"/>
+		<q typ="0" pic="item_01" qtxt="Amanda"/>
+		<q typ="0" pic="item_06" qtxt="Stacy"/>
+		<q typ="0" pic="item_08" qtxt="Leslie"/>
+		<q typ="1" pic="item_02" qtxt="Rich"/>
+		<q typ="1" pic="item_04" qtxt="Alex"/>
+		<q typ="1" pic="item_05" qtxt="Bill"/>
+		<q typ="1" pic="item_07" qtxt="Jack"/>
+	</questions>
+	
+	<answers>
+	
+	<a pic="item_09" id="0" typ="1" audio0="lg6_u1_g2_1.mp3" s0="He_was_talking_on_his_cell_phone_when_the_bell_rang." audio1="lg6_u1_g2_2.mp3" s1="When_the_bell_rang,_he_was_talking_on_his_cell_phone."/>
+	
+	<a pic="item_10" id="1" typ="1" audio0="lg6_u1_g2_3.mp3" s0="He_was_listening_to_music_when_the_bell_rang." audio1="lg6_u1_g2_4.mp3" s1="When_the_bell_rang,_he_was_listening_to_music."/>
+	
+	<a pic="item_11" id="2" typ="1" audio0="lg6_u1_g2_5.mp3" s0="He_was_taking_a_nap_when_the_bell_rang." audio1="lg6_u1_g2_6.mp3" s1="When_the_bell_rang,_he_was_taking_a_nap."/>
+	
+	<a pic="item_12" id="3" typ="1" audio0="lg6_u1_g2_7.mp3" s0="He_was_reading_a_magazine_when_the_bell_rang." audio1="lg6_u1_g2_8.mp3" s1="When_the_bell_rang,_he_was_reading_a_magazine."/>	
+	
+	<a pic="item_13" id="4"	typ="1" audio0="lg6_u1_g2_9.mp3" s0="He_was_cleaning_his_room_when_the_bell_rang." audio1="lg6_u1_g2_10.mp3" s1="When_the_bell_rang,_he_was_cleaning_his_room."/> 
+
+	<a pic="item_14" id="5"	typ="1" audio0="lg6_u1_g2_11.mp3" s0="He_was_writing_a_message_when_the_bell_rang." audio1="lg6_u1_g2_12.mp3" s1="When_the_bell_rang,_he_was_writing_a_message."/>
+	
+	<a pic="item_09" id="6"	typ="0" audio0="lg6_u1_g2_13.mp3" s0="She_was_talking_on_her_cell_phone_when_the_bell_rang." audio1="lg6_u1_g2_14.mp3" s1="When_the_bell_rang,_she_was_talking_on_her_cell_phone."/>
+
+	<a pic="item_10" id="7"	typ="0" audio0="lg6_u1_g2_15.mp3" s0="She_was_listening_to_music_when_the_bell_rang." audio1="lg6_u1_g2_16.mp3" s1="When_the_bell_rang,_she_was_listening_to_music."/> 
+
+	<a pic="item_11" id="8"	typ="0" audio0="lg6_u1_g2_17.mp3" s0="She_was_taking_a_nap_when_the_bell_rang." audio1="lg6_u1_g2_18.mp3" s1="When_the_bell_rang,_she_was_taking_a_nap."/>
+
+	<a pic="item_12" id="9"	typ="0" audio0="lg6_u1_g2_19.mp3" s0="She_was_reading_a_magazine_when_the_bell_rang." audio1="lg6_u1_g2_20.mp3" s1="When_the_bell_rang,_she_was_reading_a_magazine."/>
+
+	<a pic="item_13" id="10" typ="0" audio0="lg6_u1_g2_21.mp3" s0="She_was_cleaning_her_room_when_the_bell_rang." audio1="lg6_u1_g2_22.mp3" s1="When_the_bell_rang,_she_was_cleaning_her_room."/> 
+
+	<a pic="item_14" id="11" typ="0" audio0="lg6_u1_g2_23.mp3" s0="She_was_writing_a_message_when_the_bell_rang." audio1="lg6_u1_g2_24.mp3" s1="When_the_bell_rang,_she_was_writing_a_message."/>
+
+	
+	</answers>
+	
+
+</activity>

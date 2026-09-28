@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="18" fontlib="1" lib="f1" wordspace="7" sentencesspace="35" addspace="19" posx="100" posy="150" select="3" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/wrong.mp3"/>
+<sound name="intro" url="sounds/lg4_u7_g1_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg4_ma_g4.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg4_u7_g1_1.mp3">
+			<answer txt="Are you|null|do anything|null|?" gender="null" name="going to_this weekend" dis="did|going_yesterday|last weekend" good="1_0"/>
+		<answer txt="Yes, I am. I’m going to|null|." gender="null" name="see my cousin" dis="plant flowers|see a play" good="0"/>
+		<answer txt="How|null|is your cousin?" gender="null" name="old" dis="age|many" good="0"/>
+		<answer txt="He’s 14. He’s my|null|cousin." gender="null" name="favorite" dis="best|biggest" good="0"/>
+		<answer txt="What about you? What are you|null|?" gender="null" name="going to do" dis="went to do|saw" good="0"/>
+		<answer txt="I’m going to|null|. I have a game|null|." gender="null" name="play ice hockey_tomorrow" dis="play softball|see a play_yesterday|today" good="0_2"/>
+		<answer txt="Good luck! I hope you win." gender="null" name="null" dis="null" good="null"/>
+		<answer txt="Thanks!" gender="null" name="null" dis="null" good="null"/>
+		</paragraph>
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg4_u7_g1_2.mp3">
+			<answer txt="Are you going to|null|null|?" gender="null" name="do anything_this weekend" dis="go anything|have anything_yesterday|last weekend" good="2_2"/>
+			<answer txt="Yes, I am. I’m|null|null|." gender="null" name="going to_see my aunt" dis="going|seeing_seeing my cousin|go shopping" good="1_2"/>
+			<answer txt="How old is your aunt?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="She’s 25. She’s my|null|aunt." gender="null" name="favorite" dis="best|going to" good="1"/>
+			<answer txt="What about you? What are you|null|?" gender="null" name="going to do" dis="go to see|going to" good="0"/>
+			<answer txt="I’m going to|null|null|." gender="null" name="see a play_tomorrow" dis="go to horseback riding|go shop_yesterday|today" good="1_0"/>
+			<answer txt="Wow. That’s great." gender="null" name="null" dis="null" good="null"/>
+			<answer txt="Yes, I’m really excited. " gender="null" name="null" dis="null" good="null"/>
+		</paragraph>
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg4_u7_g1_3.mp3">
+			<answer txt="Are you|null|do anything|null|?" gender="null" name="going to_this weekend" dis="going|went_last weekend|yesterday" good="0_2"/>
+			<answer txt="Yes, I am. I’m|null|null|." gender="null" name="going to_see my uncle" dis="going|gone_playing softball|to see my aunt" good="0_1"/>
+			<answer txt="How old is your uncle?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="He’s 19. He’s my favorite uncle." gender="null" name="null" dis="null" good="null"/>
+			<answer txt="What about you? What are you|null|?" gender="null" name="going to do" dis="going do|going" good="0"/>
+			<answer txt="I’m|null|null|tomorrow." gender="null" name="going to_go horseback riding" dis="going|going to do_horseback riding|going shopping" good="0_0"/>
+			<answer txt="That’s great!" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="Yes, I’m really|null|." gender="null" name="excited" dis="surprised|worried" good="1"/>
+		</paragraph>
+	</paragraphs>
+</activity>

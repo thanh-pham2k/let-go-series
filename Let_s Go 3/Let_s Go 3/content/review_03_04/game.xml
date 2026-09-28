@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="Review 3-4" exercise="" rubric="Simon" rubricSound="sound/lg3_u4_r2_rubric.mp3" goodSound="sound/good.mp3" wrongSound="sound/bad.mp3" doneSound="sound/lg1_ma_g4.mp3" roundSound="sound/lg3_u4_r2_1.mp3" endRoundSound="sound/good.mp3" finalText="4">
+<placement startx="107" starty="212" itemWidth="101" itemHeight="101" />
+<set>
+	<item sound="sound/lg3_u4_r2_2.mp3" />
+	<item sound="sound/lg3_u4_r2_3.mp3" />
+	<item sound="sound/lg3_u4_r2_4.mp3" />
+	<item sound="sound/lg3_u4_r2_5.mp3" />
+	<item sound="sound/lg3_u4_r2_6.mp3" />
+	<item sound="sound/lg3_u4_r2_7.mp3" />
+	<item sound="sound/lg3_u4_r2_8.mp3" />
+	<item sound="sound/lg3_u4_r2_9.mp3" />
+	<item sound="sound/lg3_u4_r2_10.mp3" />
+	<item sound="sound/lg3_u4_r2_11.mp3" />
+	<item sound="sound/lg3_u4_r2_12.mp3" />
+	<item sound="sound/lg3_u4_r2_13.mp3" />
+	<item sound="sound/lg3_u4_r2_14.mp3" />
+	<item sound="sound/lg3_u4_r2_15.mp3" />
+	<item sound="sound/lg3_u4_r2_16.mp3" />
+</activity>

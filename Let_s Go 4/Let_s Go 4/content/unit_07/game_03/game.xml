@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" exercise="3" rubric="Read and match." rubricMc="mcRubric" timeout="120" finalTimeout="1" finalText="5">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg4_u7_g3_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg4_ma_g5.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/out_of_time.mp3]]></over>
+		<tick id="tickSound"><![CDATA[sounds/tick.mp3]]></tick>
+	</sounds>
+	<ask>
+	<item id="0" txt="Where are they going to go?" sound="sounds/lg4_u7_g3_1.mp3"/>
+	<item id="1" txt="Where’s he going to go?" sound="sounds/lg4_u7_g3_2.mp3"/>
+	<item id="2" txt="Where’s she going to go?" sound="sounds/lg4_u7_g3_3.mp3"/>
+	</ask>
+	<scenes id="scenes">
+		<scene id="0">
+			<item id="0" qId="0" txt="They’re going to go to the department store." sound="sounds/lg4_u7_g3_4.mp3" target="0"/>
+			<item id="1" qId="1" txt="He’s going to go to the barber shop." sound="sounds/lg4_u7_g3_7.mp3" target="1"/>
+			<item id="2" qId="2" txt="She’s going to go to the beauty salon." sound="sounds/lg4_u7_g3_10.mp3" target="2"/>
+			<item id="3" qId="1" txt="He’s going to go to the drug store." sound="sounds/lg4_u7_g3_13.mp3" target="3"/>
+			<item id="4" qId="0" txt="They’re going to go to the supermarket." sound="sounds/lg4_u7_g3_16.mp3" target="4"/>
+			<item id="5" qId="0" txt="They’re going to go to the gift shop." sound="sounds/lg4_u7_g3_19.mp3" target="5"/>
+		</scene>
+		<scene id="1">
+			<item id="0" qId="0" txt="They’re going to go to the beauty salon." sound="sounds/lg4_u7_g3_5.mp3" target="2"/>
+			<item id="1" qId="1" txt="He’s going to go to the drug store." sound="sounds/lg4_u7_g3_8.mp3" target="3"/>
+			<item id="2" qId="2" txt="She’s going to go to the drug store." sound="sounds/lg4_u7_g3_11.mp3" target="3"/>
+			<item id="3" qId="1" txt="He’s going to go to the gift shop." sound="sounds/lg4_u7_g3_14.mp3" target="5"/>
+			<item id="4" qId="0" txt="They’re going to go to the department store." sound="sounds/lg4_u7_g3_17.mp3" target="0"/>
+			<item id="5" qId="0" txt="They’re going to go to the beauty salon." sound="sounds/lg4_u7_g3_20.mp3" target="2"/>
+		</scene>
+		<scene id="2">
+			<item id="0" qId="0" txt="They’re going to go to the drug store." sound="sounds/lg4_u7_g3_6.mp3" target="3"/>
+			<item id="1" qId="1" txt="He’s going to go to the supermarket." sound="sounds/lg4_u7_g3_9.mp3" target="4"/>
+			<item id="2" qId="2" txt="She’s going to go to the gift shop." sound="sounds/lg4_u7_g3_12.mp3" target="5"/>
+			<item id="3" qId="1" txt="He’s going to go to the department store." sound="sounds/lg4_u7_g3_15.mp3" target="0"/>
+			<item id="4" qId="0" txt="They’re going to go to the gift shop." sound="sounds/lg4_u7_g3_18.mp3" target="5"/>
+			<item id="5" qId="0" txt="They’re going to go to the beauty salon." sound="sounds/lg4_u7_g3_20.mp3" target="2"/>
+		</scene>
+	</scenes>
+</activity>
+

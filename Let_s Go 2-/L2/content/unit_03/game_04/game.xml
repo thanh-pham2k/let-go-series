@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="4" rubric="Listen and choose." finalText="5" finalTimeout="1" maxItems="8" leftBorder="200" itemDefaultX="500" itemDefaultY="400">
+	<sounds>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<good id="rubricSound"><![CDATA[sounds/lg2_u3_g4_rubric2.mp3]]></good>
+		<good id="rubricSoundClick"><![CDATA[sounds/lg2_u3_g4_rubric2.mp3]]></good>
+		<good id="yesSound"><![CDATA[sounds/lg2_u3_g4_yes.mp3]]></good>
+		<bad id="noSound"><![CDATA[sounds/lg2_u3_g4_no.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg2_ma_b4.mp3]]></done>
+	</sounds>
+	<texts id="itemTexts">
+		<text>Is there a bed in your room?</text>
+		<text>Is there a bathtub in your room?</text>
+		<text>Is there a sofa in your room?</text>
+		<text>Is there a stove in your room?</text>
+		<text>Is there a lamp in your room?</text>
+		<text>Is there a sink in your room?</text>
+		<text>Is there a TV in your room?</text>
+		<text>Is there a toilet in your room?</text>
+		<text>Is there a refrigerator in your room?</text>
+		<text>Is there a telephone in your room?</text>
+		<text>Is there a picture in your room?</text>
+		<text>Is there a calendar in your room?</text>
+		<text>Is there a clock in your room?</text>
+		<text>Is there a table in your room?</text>
+		<text>Is there a dog in your room?</text>
+		<text>Is there a cat in your room?</text>
+		<text>Is there a bird in your room?</text>
+		<text>Is there a fish in your room?</text>
+	</texts>
+</activity>

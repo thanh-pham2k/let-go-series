@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="6" exercise="2" rubricSound="lg5_u6_g2_rubric.mp3" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_g7.mp3" timer ="90">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+		
+		
+	</sounds>
+
+	<questions>
+		<quest frame="3" audio="lg5_u6_g2_1.mp3" typ="2"/>
+		<quest frame="3" audio="lg5_u6_g2_3.mp3" typ="1"/>
+		<quest frame="2" audio="lg5_u6_g2_4.mp3" typ="5"/>
+		<quest frame="2" audio="lg5_u6_g2_5.mp3" typ="6"/>
+		<quest frame="4" audio="lg5_u6_g2_6.mp3" typ="3"/>
+		<quest frame="4" audio="lg5_u6_g2_7.mp3" typ="4"/>
+		<quest frame="5" audio="lg5_u6_g2_8.mp3" typ="0"/>
+		<quest frame="7" audio="lg5_u6_g2_12.mp3" typ="3"/>		
+		<quest frame="7" audio="lg5_u6_g2_13.mp3" typ="7"/>
+		<quest frame="6" audio="lg5_u6_g2_14.mp3" typ="2"/>
+		<quest frame="6" audio="lg5_u6_g2_16.mp3" typ="0"/>
+		<quest frame="9" audio="lg5_u6_g2_19.mp3" typ="2"/>
+		<quest frame="9" audio="lg5_u6_g2_20.mp3" typ="7"/>
+		<quest frame="8" audio="lg5_u6_g2_21.mp3" typ="4"/>
+		<quest frame="8" audio="lg5_u6_g2_22.mp3" typ="6"/>
+		<quest frame="8" audio="lg5_u6_g2_23.mp3" typ="1"/>
+		<!--
+		0 last year
+		1 next year
+		2 last month
+		3 next month
+		4 last week
+		5 next week
+		6 yesterday
+		7 tomorrow
+		-->
+
+	</questions>
+	
+</activity>

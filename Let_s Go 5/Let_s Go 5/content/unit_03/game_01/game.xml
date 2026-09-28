@@ -1,0 +1,46 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="3" exercise="1" rubric="Put the sentences in order." rubricSound="lg5_u3_g1_rubric.mp3" finalText="3" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_b7.mp3" toAsk="1">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+	<questions>
+		<set id="0">
+		<quest ord="0" audio="lg5_u3_g1_1.mp3" d="How was your weekend?" />
+		<quest ord="1" audio="lg5_u3_g1_2.mp3" d="It was pretty good." />
+		<quest ord="2" audio="lg5_u3_g1_3.mp3" d="My brother and I went for a bike ride." />
+		<quest ord="3" audio="lg5_u3_g1_4.mp3" d="That sounds like fun. Did anyone else go with you?" />
+		<quest ord="4" audio="lg5_u3_g1_5.mp3" d="No. We went by ourselves." />
+		<quest ord="5" audio="lg5_u3_g1_6.mp3" d="What did you do on the weekend?" />
+		<quest ord="6" audio="lg5_u3_g1_7.mp3" d="I went skating." />
+		<quest ord="7" audio="lg5_u3_g1_8.mp3" d="Who did you go with?" />
+		<quest ord="8" audio="lg5_u3_g1_9.mp3" d="No one. I went by myself." />
+		</set>
+		<set id="1">				
+		<quest ord="0" audio="lg5_u3_g1_10.mp3" d="How was your weekend?" />
+		<quest ord="1" audio="lg5_u3_g1_11.mp3" d="It was pretty good. How was yours?" />
+		<quest ord="2" audio="lg5_u3_g1_12.mp3" d="It was okay. I went shopping." />		
+		<quest ord="3" audio="lg5_u3_g1_13.mp3" d="Did anyone else go with you?" />
+		<quest ord="4" audio="lg5_u3_g1_14.mp3" d="Yes, my mom did." />
+		<quest ord="5" audio="lg5_u3_g1_15.mp3" d="What did you do on the weekend?" />
+		<quest ord="6" audio="lg5_u3_g1_16.mp3" d="I went to the library." />
+		<quest ord="7" audio="lg5_u3_g1_17.mp3" d="Who did you go with?" />
+		<quest ord="8" audio="lg5_u3_g1_18.mp3" d="No one. I went by myself." />
+		</set>
+		<set id="2">
+		<quest ord="0" audio="lg5_u3_g1_19.mp3" d="How was your weekend?" />
+		<quest ord="1" audio="lg5_u3_g1_20.mp3" d="It was fun. How was yours?" />
+		<quest ord="2" audio="lg5_u3_g1_21.mp3" d="Great." />		
+		<quest ord="3" audio="lg5_u3_g1_22.mp3" d="What did you do?" />
+		<quest ord="4" audio="lg5_u3_g1_23.mp3" d="I went snowboarding." />
+		<quest ord="5" audio="lg5_u3_g1_24.mp3" d="Who did you go with?" />
+		<quest ord="6" audio="lg5_u3_g1_25.mp3" d="I went with my sister." />
+		<quest ord="7" audio="lg5_u3_g1_26.mp3" d="What did you do on the weekend?" />
+		<quest ord="8" audio="lg5_u3_g1_27.mp3" d="I watched a movie with a friend." />
+		</set>
+	</questions>
+	
+</activity>

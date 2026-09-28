@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setings unit="3" exercise="2" rubric="Listen and answer." finalText="1" rubricSound="lg3_u3_g2_rubric.mp3" answers="8" timeSpeed="0.7" timeAcceleration="0.04" correctSnd1="lg3_u3_g2_18.mp3" correctSnd2="lg3_u3_g2_17.mp3" allOkSnd="lg3_ma_g1.mp3"/>
+<sentence> 
+	<sentence audio="lg3_u3_g2_1.mp3" correctSndId="3" ans0="1" ans1="1" ans2="0" texts="Is there a bedroom in his house?"/>
+	<sentence audio="lg3_u3_g2_2.mp3" correctSndId="1" ans0="1" ans1="1" ans2="1" texts="Is there a bathroom in his house?"/>
+	<sentence audio="lg3_u3_g2_3.mp3" correctSndId="1" ans0="1" ans1="0" ans2="1" texts="Is there a kitchen in his house?"/>
+	<sentence audio="lg3_u3_g2_4.mp3" correctSndId="3" ans0="1" ans1="0" ans2="1" texts="Is there a living room in his house?"/>
+	<sentence audio="lg3_u3_g2_5.mp3" correctSndId="3" ans0="0" ans1="1" ans2="1" texts="Is there a dining room in his house?"/>
+	<sentence audio="lg3_u3_g2_6.mp3" correctSndId="1" ans0="0" ans1="1" ans2="1" texts="Is there a garage in his house?"/>
+	<sentence audio="lg3_u3_g2_7.mp3" correctSndId="3" ans0="1" ans1="0" ans2="0" texts="Is there a basement in his house?"/>
+	<sentence audio="lg3_u3_g2_8.mp3" correctSndId="1" ans0="0" ans1="1" ans2="0" texts="Is there an entry way in his house?"/>
+</sentence>
+<sentence> 
+	<sentence audio="lg3_u3_g2_9.mp3" correctSndId="2" ans0="1" ans1="1" ans2="0" texts="Is there a bedroom in her house?"/>
+	<sentence audio="lg3_u3_g2_10.mp3" correctSndId="4" ans0="1" ans1="1" ans2="1" texts="Is there a bathroom in her house?"/>
+	<sentence audio="lg3_u3_g2_11.mp3" correctSndId="4" ans0="1" ans1="0" ans2="1" texts="Is there a kitchen in her house?"/>
+	<sentence audio="lg3_u3_g2_12.mp3" correctSndId="2" ans0="1" ans1="0" ans2="1" texts="Is there a living room in her house?"/>
+	<sentence audio="lg3_u3_g2_13.mp3" correctSndId="2" ans0="0" ans1="1" ans2="1" texts="Is there a dining room in her house?"/>
+	<sentence audio="lg3_u3_g2_14.mp3" correctSndId="4" ans0="0" ans1="1" ans2="1" texts="Is there a garage in her house?"/>
+	<sentence audio="lg3_u3_g2_15.mp3" correctSndId="2" ans0="1" ans1="0" ans2="0" texts="Is there a basement in her house?"/>
+	<sentence audio="lg3_u3_g2_16.mp3" correctSndId="4" ans0="0" ans1="1" ans2="0" texts="Is there an entry way in her house?"/>
+</sentence>
+<textsetings autoSize = "center" selectable = "0" border= "0" background = "0" backgroundColor = "0xFFFFFF" borderColor = "0x00FF00" textColor = "0x000000"/>
+
+ 
+
+
+

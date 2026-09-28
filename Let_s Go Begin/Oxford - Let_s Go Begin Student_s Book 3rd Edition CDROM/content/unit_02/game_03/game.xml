@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="color" unit="2" exercise="3">
+	<thumbnails>
+		<thumb x="60" y="155" path="color/thumb02.swf" title="apple" sound="color/lb_u2_g3_1.mp3"/>
+		<thumb x="380" y="155" path="color/thumb00.swf" title="bird" sound="color/lb_u2_g3_2.mp3"/>
+		<thumb x="220" y="315" path="color/thumb03.swf" title="cat" sound="color/lb_u2_g3_3.mp3"/>
+		<thumb x="550" y="315" path="color/thumb01.swf" title="dog" sound="color/lb_u2_g3_4.mp3"/>
+		
+	</thumbnails>
+	<images>
+		<image x="305" y="120" path="color/image02.swf" title="apple" sound="color/lb_u2_g3_1.mp3" />
+		<image x="305" y="120" path="color/image00.swf" title="bird" sound="color/lb_u2_g3_2.mp3" />
+		<image x="305" y="120" path="color/image03.swf" title="cat" sound="color/lb_u2_g3_3.mp3" />
+		<image x="305" y="120" path="color/image01.swf" title="dog" sound="color/lb_u2_g3_4.mp3" />
+		
+	</images>
+	<colors>
+		<color x="48" y="135" value="0xF1D301" sound="color/lb_u2_g3_7.mp3" />
+		<color x="138" y="135" value="0x0071E1" sound="color/lb_u2_g3_6.mp3" />
+		<color x="48" y="212" value="0xFF0000" sound="color/lb_u2_g3_5.mp3" />
+		<color x="138" y="212" value="0x00C400" sound="color/lb_u2_g3_8.mp3" />
+		<color x="48" y="289" value="0xFF8000" sound="color/lb_u2_g3_11.mp3" />
+		<color x="138" y="289" value="0x8000FF" sound="color/lb_u2_g3_10.mp3" />
+		<color x="48" y="366" value="0xFF80FF" sound="color/lb_u2_g3_14.mp3" />
+		<color x="138" y="366" value="0x804000" sound="color/lb_u2_g3_9.mp3" />
+		<color x="48" y="443" value="0xFFFFFF" sound="color/lb_u2_g3_13.mp3" />
+		<color x="138" y="443" value="0x00000" sound="color/lb_u2_g3_12.mp3" />
+	</colors>
+		<eraser x="680" y="135" sound="color/lb_u2_g3_15.mp3"/>
+</activity>

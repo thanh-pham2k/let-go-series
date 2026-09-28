@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="activity" type="labirynth" unit="8" rubric="Listen and choose." finalText="6" exercise="1" debug="0">
+	<sounds id="sounds">
+		<rubric id="rubricSound"><![CDATA[sounds/lb_u8_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<wrong id="wrongSound"><![CDATA[sounds/wrong.mp3]]></wrong>
+		<done id="doneSound"><![CDATA[sounds/lb_ma_g6.mp3]]></done>
+	</sounds>
+	<!-- 
+		trzeba uzyc minimum n+1 elementów, gdzie n to dlugosc sciezki 
+		standardowo n=7, ale mozna zmienic w kodzie przez parametr
+		maxSideMoves
+	-->
+	<elements id="elements" autoscale="1">
+		<element id="01" image="images/item_01.swf" sound="sounds/lb_u8_g1_1.mp3" />
+		<element id="02" image="images/item_02.swf" sound="sounds/lb_u8_g1_2.mp3" />
+		<element id="03" image="images/item_03.swf" sound="sounds/lb_u8_g1_3.mp3" />
+		<element id="04" image="images/item_04.swf" sound="sounds/lb_u8_g1_4.mp3" />
+		<element id="05" image="images/item_05.swf" sound="sounds/lb_u8_g1_5.mp3" />
+		<element id="06" image="images/item_06.swf" sound="sounds/lb_u8_g1_6.mp3" />
+		<element id="07" image="images/item_07.swf" sound="sounds/lb_u8_g1_7.mp3" />
+		<element id="08" image="images/item_08.swf" sound="sounds/lb_u8_g1_8.mp3" />
+	</elements>
+</activity>

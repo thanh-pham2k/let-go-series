@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="7" exercise="4" rubric="Listen and match." rubricMc="mcRubric" finalText="4" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="doneSound"><![CDATA[sounds/lg2_ma_g4.mp3]]></sound>
+		<sound id="rubricSound"><![CDATA[sounds/lg2_u7_g2_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+	</sounds>
+	<words shuffle="true" minWords="4">
+		<word id="0">
+			<qHe><![CDATA[sounds/lg2_u8_g4_1.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_8.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_15.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_22.mp3]]></ansShe>
+		</word>
+		<word id="1">
+			<qHe><![CDATA[sounds/lg2_u8_g4_2.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_9.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_16.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_23.mp3]]></ansShe>
+		</word>
+		<word id="2">
+			<qHe><![CDATA[sounds/lg2_u8_g4_3.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_10.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_17.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_24.mp3]]></ansShe>
+		</word>
+		<word id="3">
+			<qHe><![CDATA[sounds/lg2_u8_g4_4.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_11.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_18.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_25.mp3]]></ansShe>
+		</word>		
+		<word id="4">
+			<qHe><![CDATA[sounds/lg2_u8_g4_5.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_12.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_19.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_26.mp3]]></ansShe>
+		</word>
+		<word id="5">
+			<qHe><![CDATA[sounds/lg2_u8_g4_6.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_13.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_20.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_27.mp3]]></ansShe>
+		</word>
+		<word id="6">
+			<qHe><![CDATA[sounds/lg2_u8_g4_7.mp3]]></qHe>
+			<qShe><![CDATA[sounds/lg2_u8_g4_14.mp3]]></qShe>
+			<ansHe><![CDATA[sounds/lg2_u8_g4_21.mp3]]></ansHe>
+			<ansShe><![CDATA[sounds/lg2_u8_g4_28.mp3]]></ansShe>
+		</word>
+	</words>
+</activity>
+

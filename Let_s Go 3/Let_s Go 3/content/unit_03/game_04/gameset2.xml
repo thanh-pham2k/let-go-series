@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setings unit="3" exercise="4" rubric="Make the sentences." rubricSound="lg3_u3_g4_rubric.mp3" wordSpace="9" answers="4" timeSpeed="2" allOkSound="lg3_ma_g6.mp3" spacing_y_list="35" spacing_y_gaps="35"/>
+<sentences>
+	<sentence text="The skateboard|was|on|the desk.|Now|it’s|in|the drawer." breakAt="5" distracters="they’re,the bed.,between,The bag,under" audio="lg3_u3_g4_11.mp3" pictureId="3"/>
+	<sentence text="The CDs|were|under|the desk.|Now|they’re|between|the bed|and|the desk." breakAt="5" distracters="the kite.,The skateboard,on,in,it's" audio="lg3_u3_g4_7.mp3" pictureId="3"/> 
+	<sentence text="The in-line skates|were|in|the drawer.|Now|they’re|on|the desk." breakAt="5" distracters="it's,The bat, the bed.,between,under" audio="lg3_u3_g4_12.mp3" pictureId="3"/>
+	<sentence text="The snowboard|was|next to|the desk.|Now|it’s|on|the bookshelf." breakAt="5" distracters="The skateboard,between,they're,the bed." audio="lg3_u3_g4_9.mp3" pictureId="3"/>
+	<sentence text="The books|were|on|the bed.|Now|they’re|next to|the bed." breakAt="5" distracters="it's,the desk.,The CDs,in" audio="lg3_u3_g4_8.mp3" pictureId="3"/>
+	<sentence text="The bag|was|between|the desk|and|the bed.|Now|it’s|under|the bed." breakAt="7" distracters="next to,the bat., they're,The books" audio="lg3_u3_g4_10.mp3" pictureId="3"/>
+</sentences>   
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="3" rubricSound="lg5_u2_g3_rubric.mp3" finalAudio="lg5_ma_g2.mp3" finalAudio2="lg5_ma_g7.mp3" finalText="5" toAsk="8">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="sentenceAudio" file="lg5_u2_g3_1.mp3"/>
+		
+	</sounds>
+
+	<questions>
+		<sentence>A long time ago, people<q>rode</q>horses. The first<q>trains</q>used horses, too. Horses<q>pulled</q>the train cars. In 1830, Peter Cooper<q>built</q>a steam locomotive. His<q>locomotive</q>and a horse had a race. His locomotive was<q>faster</q>and stronger than the horse. But, the locomotive<q>broke down</q>, and the horse<q>won</q>the race. They had another race. This time the steam locomotive won. Today, trains are<q>faster</q>and<q>stronger</q>than Peter Cooper’s steam locomotive. Some<q>trains</q>can go<q>faster</q>than 430 kilometers per hour. That’s fast!</sentence>
+
+	
+	</questions>
+	
+</activity>

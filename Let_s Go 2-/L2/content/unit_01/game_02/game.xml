@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="1" exercise="2" rubric="Listen and spell." maxQuestions="6" finalText="5" finalTimeout="1">
+	<sounds>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b5.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/lg1_ma_b5.mp3]]></over>
+		<rubric id="rubricSound"><![CDATA[sounds/lg2_u1_g2_1.mp3]]></rubric>
+	</sounds>
+	<words shuffle="true" id="words" dragAreaX="550" dragAreaY="220">
+		<word id="0">
+			<text><![CDATA[pencil sharpener]]></text>
+			<image><![CDATA[swf/match/sharpener.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_2.mp3]]></sound>
+		</word>
+		<word id="1">
+			<text><![CDATA[picture]]></text>
+			<image><![CDATA[swf/match/picture.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_3.mp3]]></sound>
+		</word>
+		<word id="2">
+			<text><![CDATA[workbook]]></text>
+			<image><![CDATA[swf/match/workbook.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_4.mp3]]></sound>
+		</word>
+		<word id="3">
+			<text><![CDATA[paper clip]]></text>
+			<image><![CDATA[swf/match/clip.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_5.mp3]]></sound>
+		</word>
+		<word id="4">
+			<text><![CDATA[clock]]></text>
+			<image><![CDATA[swf/match/clock.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_6.mp3]]></sound>
+		</word>
+		<word id="5">
+			<text><![CDATA[door]]></text>
+			<image><![CDATA[swf/match/door.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_7.mp3]]></sound>
+		</word>
+		<word id="6">
+			<text><![CDATA[window]]></text>
+			<image><![CDATA[swf/match/window.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_8.mp3]]></sound>
+		</word>
+		<word id="7">
+			<text><![CDATA[calendar]]></text>
+			<image><![CDATA[swf/match/calendar.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_9.mp3]]></sound>
+		</word>
+		<word id="8">
+			<text><![CDATA[pencil sharpeners]]></text>
+			<image><![CDATA[swf/match/sharpeners.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_10.mp3]]></sound>
+		</word>
+		<word id="9">
+			<text><![CDATA[pictures]]></text>
+			<image><![CDATA[swf/match/pictures.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_15.mp3]]></sound>
+		</word>
+		<word id="10">
+			<text><![CDATA[workbooks]]></text>
+			<image><![CDATA[swf/match/workbooks.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_13.mp3]]></sound>
+		</word>
+		<word id="11">
+			<text><![CDATA[paper clips]]></text>
+			<image><![CDATA[swf/match/clips.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_11.mp3]]></sound>
+		</word>
+		<word id="12">
+			<text><![CDATA[clocks]]></text>
+			<image><![CDATA[swf/match/clocks.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_12.mp3]]></sound>
+		</word>
+		<word id="5">
+			<text><![CDATA[doors]]></text>
+			<image><![CDATA[swf/match/doors.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_17.mp3]]></sound>
+		</word>
+		<word id="13">
+			<text><![CDATA[windows]]></text>
+			<image><![CDATA[swf/match/windows.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_16.mp3]]></sound>
+		</word>
+		<word id="14">
+			<text><![CDATA[calendars]]></text>
+			<image><![CDATA[swf/match/calendars.swf]]></image>
+			<sound><![CDATA[sounds/match/lg2_u1_g2_14.mp3]]></sound>
+		</word>
+	</words>
+</activity>

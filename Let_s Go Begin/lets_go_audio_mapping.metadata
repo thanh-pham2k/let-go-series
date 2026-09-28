@@ -1,0 +1,2944 @@
+{
+  "schema_version": "1.0",
+  "format": "lets-go-student-book-audio-map",
+  "book": {
+    "title": "Let's Go - Let's Begin Student Book",
+    "edition": "Third Edition",
+    "publisher": "Oxford University Press",
+    "scope": "Units 1-8, review pages, and Let's Learn About pages included in the uploaded PDFs"
+  },
+  "mapping_notes": [
+    "Mappings use the printed CD number and track number shown beside each exercise in the uploaded Student Book pages.",
+    "No audio files were uploaded, so audio_file is null. Use audio.audio_key (for example CD1-02) to bind these records to your actual MP3/M4A filenames.",
+    "Sub-items numbered 1, 2, 3, etc. inside one exercise inherit the exercise track; they are not split into separate tracks.",
+    "Intro/Table of Contents and Syllabus/Word List are reference documents and do not contain per-exercise audio mappings."
+  ],
+  "reference_documents": [
+    {
+      "source_pdf": "Intro & Table of Contents.pdf",
+      "role": "confirms book structure and page ranges"
+    },
+    {
+      "source_pdf": "Syllabus & Word List.pdf",
+      "role": "confirms unit/review topics and learning sections"
+    }
+  ],
+  "validation": {
+    "CD1": {
+      "record_count": 71,
+      "first_track": 2,
+      "last_track": 72,
+      "missing_tracks": [],
+      "duplicate_tracks": [],
+      "is_complete_02_to_72": true
+    },
+    "CD2": {
+      "record_count": 71,
+      "first_track": 2,
+      "last_track": 72,
+      "missing_tracks": [],
+      "duplicate_tracks": [],
+      "is_complete_02_to_72": true
+    }
+  },
+  "summary": {
+    "audio_mapping_count": 142,
+    "non_audio_exercise_count": 10,
+    "cd1_mapping_count": 71,
+    "cd2_mapping_count": 71
+  },
+  "audio_mappings": [
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 1,
+      "book_page": 2,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD1",
+        "track": 2,
+        "audio_key": "CD1-02",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 1,
+      "book_page": 2,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD1",
+        "track": 3,
+        "audio_key": "CD1-03",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 2,
+      "book_page": 3,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 4,
+        "audio_key": "CD1-04",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 2,
+      "book_page": 3,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD1",
+        "track": 5,
+        "audio_key": "CD1-05",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 2,
+      "book_page": 3,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD1",
+        "track": 6,
+        "audio_key": "CD1-06",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 3,
+      "book_page": 4,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 7,
+        "audio_key": "CD1-07",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 3,
+      "book_page": 4,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 8,
+        "audio_key": "CD1-08",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 4,
+      "book_page": 5,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD1",
+        "track": 9,
+        "audio_key": "CD1-09",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 4,
+      "book_page": 5,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 10,
+        "audio_key": "CD1-10",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 5,
+      "book_page": 6,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 11,
+        "audio_key": "CD1-11",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 5,
+      "book_page": 6,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 12,
+        "audio_key": "CD1-12",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 6,
+      "book_page": 7,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 13,
+        "audio_key": "CD1-13",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 6,
+      "book_page": 7,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 14,
+        "audio_key": "CD1-14",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 7,
+      "book_page": 8,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD1",
+        "track": 15,
+        "audio_key": "CD1-15",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 7,
+      "book_page": 8,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters.",
+      "audio": {
+        "disc": "CD1",
+        "track": 16,
+        "audio_key": "CD1-16",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 8,
+      "book_page": 9,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Ask.",
+      "audio": {
+        "disc": "CD1",
+        "track": 17,
+        "audio_key": "CD1-17",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 8,
+      "book_page": 9,
+      "lesson_section": "Let's Build",
+      "exercise": "B",
+      "exercise_title": "Answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 18,
+        "audio_key": "CD1-18",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 1,
+      "book_page": 10,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD1",
+        "track": 19,
+        "audio_key": "CD1-19",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 1,
+      "book_page": 10,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD1",
+        "track": 20,
+        "audio_key": "CD1-20",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 2,
+      "book_page": 11,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 21,
+        "audio_key": "CD1-21",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 2,
+      "book_page": 11,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD1",
+        "track": 22,
+        "audio_key": "CD1-22",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 2,
+      "book_page": 11,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD1",
+        "track": 23,
+        "audio_key": "CD1-23",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 3,
+      "book_page": 12,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 24,
+        "audio_key": "CD1-24",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 3,
+      "book_page": 12,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 25,
+        "audio_key": "CD1-25",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 4,
+      "book_page": 13,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD1",
+        "track": 26,
+        "audio_key": "CD1-26",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 4,
+      "book_page": 13,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 27,
+        "audio_key": "CD1-27",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 5,
+      "book_page": 14,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 28,
+        "audio_key": "CD1-28",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 5,
+      "book_page": 14,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 29,
+        "audio_key": "CD1-29",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 6,
+      "book_page": 15,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 30,
+        "audio_key": "CD1-30",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 6,
+      "book_page": 15,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and chant.",
+      "audio": {
+        "disc": "CD1",
+        "track": 31,
+        "audio_key": "CD1-31",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 7,
+      "book_page": 16,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD1",
+        "track": 32,
+        "audio_key": "CD1-32",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 7,
+      "book_page": 16,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 33,
+        "audio_key": "CD1-33",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 8,
+      "book_page": 17,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD1",
+        "track": 34,
+        "audio_key": "CD1-34",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 8,
+      "book_page": 17,
+      "lesson_section": "Let's Build",
+      "exercise": "B",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 35,
+        "audio_key": "CD1-35",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 1-2.pdf",
+      "content_type": "review",
+      "unit": "1-2",
+      "topic": "Listen and Review",
+      "pdf_page": 1,
+      "book_page": 18,
+      "lesson_section": "Units 1-2 Listen and Review",
+      "exercise": "A",
+      "exercise_title": "Listen and circle.",
+      "audio": {
+        "disc": "CD1",
+        "track": 36,
+        "audio_key": "CD1-36",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 1-2.pdf",
+      "content_type": "review",
+      "unit": "1-2",
+      "topic": "School Supplies",
+      "pdf_page": 2,
+      "book_page": 19,
+      "lesson_section": "Let's Learn About",
+      "exercise": "A",
+      "exercise_title": "Say these.",
+      "audio": {
+        "disc": "CD1",
+        "track": 37,
+        "audio_key": "CD1-37",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 1,
+      "book_page": 20,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD1",
+        "track": 38,
+        "audio_key": "CD1-38",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 1,
+      "book_page": 20,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD1",
+        "track": 39,
+        "audio_key": "CD1-39",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 2,
+      "book_page": 21,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 40,
+        "audio_key": "CD1-40",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 2,
+      "book_page": 21,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD1",
+        "track": 41,
+        "audio_key": "CD1-41",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 2,
+      "book_page": 21,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD1",
+        "track": 42,
+        "audio_key": "CD1-42",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 3,
+      "book_page": 22,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 43,
+        "audio_key": "CD1-43",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 3,
+      "book_page": 22,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 44,
+        "audio_key": "CD1-44",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 4,
+      "book_page": 23,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD1",
+        "track": 45,
+        "audio_key": "CD1-45",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 4,
+      "book_page": 23,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and chant.",
+      "audio": {
+        "disc": "CD1",
+        "track": 46,
+        "audio_key": "CD1-46",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 5,
+      "book_page": 24,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 47,
+        "audio_key": "CD1-47",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 5,
+      "book_page": 24,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 48,
+        "audio_key": "CD1-48",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 6,
+      "book_page": 25,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 49,
+        "audio_key": "CD1-49",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 6,
+      "book_page": 25,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 50,
+        "audio_key": "CD1-50",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 7,
+      "book_page": 26,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD1",
+        "track": 51,
+        "audio_key": "CD1-51",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 7,
+      "book_page": 26,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 52,
+        "audio_key": "CD1-52",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 8,
+      "book_page": 27,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD1",
+        "track": 53,
+        "audio_key": "CD1-53",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 8,
+      "book_page": 27,
+      "lesson_section": "Let's Build",
+      "exercise": "B",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 54,
+        "audio_key": "CD1-54",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 1,
+      "book_page": 28,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD1",
+        "track": 55,
+        "audio_key": "CD1-55",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 1,
+      "book_page": 28,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD1",
+        "track": 56,
+        "audio_key": "CD1-56",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 2,
+      "book_page": 29,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 57,
+        "audio_key": "CD1-57",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 2,
+      "book_page": 29,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD1",
+        "track": 58,
+        "audio_key": "CD1-58",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 2,
+      "book_page": 29,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD1",
+        "track": 59,
+        "audio_key": "CD1-59",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 3,
+      "book_page": 30,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Numbers.",
+      "audio": {
+        "disc": "CD1",
+        "track": 60,
+        "audio_key": "CD1-60",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 3,
+      "book_page": 30,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 61,
+        "audio_key": "CD1-61",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 4,
+      "book_page": 31,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD1",
+        "track": 62,
+        "audio_key": "CD1-62",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 4,
+      "book_page": 31,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 63,
+        "audio_key": "CD1-63",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 5,
+      "book_page": 32,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Numbers.",
+      "audio": {
+        "disc": "CD1",
+        "track": 64,
+        "audio_key": "CD1-64",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 5,
+      "book_page": 32,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD1",
+        "track": 65,
+        "audio_key": "CD1-65",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 6,
+      "book_page": 33,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 66,
+        "audio_key": "CD1-66",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 6,
+      "book_page": 33,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD1",
+        "track": 67,
+        "audio_key": "CD1-67",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 7,
+      "book_page": 34,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD1",
+        "track": 68,
+        "audio_key": "CD1-68",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 7,
+      "book_page": 34,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD1",
+        "track": 69,
+        "audio_key": "CD1-69",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 8,
+      "book_page": 35,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Ask and answer.",
+      "audio": {
+        "disc": "CD1",
+        "track": 70,
+        "audio_key": "CD1-70",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 3-4.pdf",
+      "content_type": "review",
+      "unit": "3-4",
+      "topic": "Listen and Review",
+      "pdf_page": 1,
+      "book_page": 36,
+      "lesson_section": "Units 3-4 Listen and Review",
+      "exercise": "A",
+      "exercise_title": "Listen and circle.",
+      "audio": {
+        "disc": "CD1",
+        "track": 71,
+        "audio_key": "CD1-71",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 3-4.pdf",
+      "content_type": "review",
+      "unit": "3-4",
+      "topic": "Classroom Commands",
+      "pdf_page": 2,
+      "book_page": 37,
+      "lesson_section": "Let's Learn About",
+      "exercise": "A",
+      "exercise_title": "Say these.",
+      "audio": {
+        "disc": "CD1",
+        "track": 72,
+        "audio_key": "CD1-72",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 1,
+      "book_page": 38,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD2",
+        "track": 2,
+        "audio_key": "CD2-02",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 1,
+      "book_page": 38,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD2",
+        "track": 3,
+        "audio_key": "CD2-03",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 2,
+      "book_page": 39,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 4,
+        "audio_key": "CD2-04",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 2,
+      "book_page": 39,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD2",
+        "track": 5,
+        "audio_key": "CD2-05",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 2,
+      "book_page": 39,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD2",
+        "track": 6,
+        "audio_key": "CD2-06",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 3,
+      "book_page": 40,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 7,
+        "audio_key": "CD2-07",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 3,
+      "book_page": 40,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 8,
+        "audio_key": "CD2-08",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 4,
+      "book_page": 41,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD2",
+        "track": 9,
+        "audio_key": "CD2-09",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 4,
+      "book_page": 41,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 10,
+        "audio_key": "CD2-10",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 5,
+      "book_page": 42,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 11,
+        "audio_key": "CD2-11",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 5,
+      "book_page": 42,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 12,
+        "audio_key": "CD2-12",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 6,
+      "book_page": 43,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD2",
+        "track": 13,
+        "audio_key": "CD2-13",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 6,
+      "book_page": 43,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 14,
+        "audio_key": "CD2-14",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 6,
+      "book_page": 43,
+      "lesson_section": "Let's Learn More",
+      "exercise": "E",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 15,
+        "audio_key": "CD2-15",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 7,
+      "book_page": 44,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD2",
+        "track": 16,
+        "audio_key": "CD2-16",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 7,
+      "book_page": 44,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 17,
+        "audio_key": "CD2-17",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 8,
+      "book_page": 45,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Count.",
+      "audio": {
+        "disc": "CD2",
+        "track": 18,
+        "audio_key": "CD2-18",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 8,
+      "book_page": 45,
+      "lesson_section": "Let's Build",
+      "exercise": "B",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD2",
+        "track": 19,
+        "audio_key": "CD2-19",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 1,
+      "book_page": 46,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD2",
+        "track": 20,
+        "audio_key": "CD2-20",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 1,
+      "book_page": 46,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD2",
+        "track": 21,
+        "audio_key": "CD2-21",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 2,
+      "book_page": 47,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 22,
+        "audio_key": "CD2-22",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 2,
+      "book_page": 47,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD2",
+        "track": 23,
+        "audio_key": "CD2-23",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 2,
+      "book_page": 47,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD2",
+        "track": 24,
+        "audio_key": "CD2-24",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 3,
+      "book_page": 48,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 25,
+        "audio_key": "CD2-25",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 3,
+      "book_page": 48,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 26,
+        "audio_key": "CD2-26",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 4,
+      "book_page": 49,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD2",
+        "track": 27,
+        "audio_key": "CD2-27",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 4,
+      "book_page": 49,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 28,
+        "audio_key": "CD2-28",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 5,
+      "book_page": 50,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 29,
+        "audio_key": "CD2-29",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 5,
+      "book_page": 50,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen, point, and chant.",
+      "audio": {
+        "disc": "CD2",
+        "track": 30,
+        "audio_key": "CD2-30",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 6,
+      "book_page": 51,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD2",
+        "track": 31,
+        "audio_key": "CD2-31",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 7,
+      "book_page": 52,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD2",
+        "track": 32,
+        "audio_key": "CD2-32",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 7,
+      "book_page": 52,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 33,
+        "audio_key": "CD2-33",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 8,
+      "book_page": 53,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Play a game.",
+      "audio": {
+        "disc": "CD2",
+        "track": 34,
+        "audio_key": "CD2-34",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 5-6.pdf",
+      "content_type": "review",
+      "unit": "5-6",
+      "topic": "Listen and Review",
+      "pdf_page": 1,
+      "book_page": 54,
+      "lesson_section": "Units 5-6 Listen and Review",
+      "exercise": "A",
+      "exercise_title": "Listen and circle.",
+      "audio": {
+        "disc": "CD2",
+        "track": 35,
+        "audio_key": "CD2-35",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 5-6.pdf",
+      "content_type": "review",
+      "unit": "5-6",
+      "topic": "The Weather",
+      "pdf_page": 2,
+      "book_page": 55,
+      "lesson_section": "Let's Learn About",
+      "exercise": "A",
+      "exercise_title": "Say these.",
+      "audio": {
+        "disc": "CD2",
+        "track": 36,
+        "audio_key": "CD2-36",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 1,
+      "book_page": 56,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD2",
+        "track": 37,
+        "audio_key": "CD2-37",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 1,
+      "book_page": 56,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD2",
+        "track": 38,
+        "audio_key": "CD2-38",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 2,
+      "book_page": 57,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 39,
+        "audio_key": "CD2-39",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 2,
+      "book_page": 57,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD2",
+        "track": 40,
+        "audio_key": "CD2-40",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 2,
+      "book_page": 57,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD2",
+        "track": 41,
+        "audio_key": "CD2-41",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 3,
+      "book_page": 58,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 42,
+        "audio_key": "CD2-42",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 3,
+      "book_page": 58,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 43,
+        "audio_key": "CD2-43",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 4,
+      "book_page": 59,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD2",
+        "track": 44,
+        "audio_key": "CD2-44",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 4,
+      "book_page": 59,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, chant, and do.",
+      "audio": {
+        "disc": "CD2",
+        "track": 45,
+        "audio_key": "CD2-45",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 5,
+      "book_page": 60,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 46,
+        "audio_key": "CD2-46",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 5,
+      "book_page": 60,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 47,
+        "audio_key": "CD2-47",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 6,
+      "book_page": 61,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD2",
+        "track": 48,
+        "audio_key": "CD2-48",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 6,
+      "book_page": 61,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen, sing, and do.",
+      "audio": {
+        "disc": "CD2",
+        "track": 49,
+        "audio_key": "CD2-49",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 7,
+      "book_page": 62,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD2",
+        "track": 50,
+        "audio_key": "CD2-50",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 7,
+      "book_page": 62,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 51,
+        "audio_key": "CD2-51",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 8,
+      "book_page": 63,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD2",
+        "track": 52,
+        "audio_key": "CD2-52",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 8,
+      "book_page": 63,
+      "lesson_section": "Let's Build",
+      "exercise": "B",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD2",
+        "track": 53,
+        "audio_key": "CD2-53",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 1,
+      "book_page": 64,
+      "lesson_section": "Let's Start",
+      "exercise": "A",
+      "exercise_title": "Let's talk.",
+      "audio": {
+        "disc": "CD2",
+        "track": 54,
+        "audio_key": "CD2-54",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 1,
+      "book_page": 64,
+      "lesson_section": "Let's Start",
+      "exercise": "B",
+      "exercise_title": "Say and act.",
+      "audio": {
+        "disc": "CD2",
+        "track": 55,
+        "audio_key": "CD2-55",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 2,
+      "book_page": 65,
+      "lesson_section": "Let's Start",
+      "exercise": "C",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 56,
+        "audio_key": "CD2-56",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 2,
+      "book_page": 65,
+      "lesson_section": "Let's Start",
+      "exercise": "D",
+      "exercise_title": "Let's move.",
+      "audio": {
+        "disc": "CD2",
+        "track": 57,
+        "audio_key": "CD2-57",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 2,
+      "book_page": 65,
+      "lesson_section": "Let's Start",
+      "exercise": "E",
+      "exercise_title": "Listen and do.",
+      "audio": {
+        "disc": "CD2",
+        "track": 58,
+        "audio_key": "CD2-58",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 3,
+      "book_page": 66,
+      "lesson_section": "Let's Learn",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 59,
+        "audio_key": "CD2-59",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 3,
+      "book_page": 66,
+      "lesson_section": "Let's Learn",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 60,
+        "audio_key": "CD2-60",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 4,
+      "book_page": 67,
+      "lesson_section": "Let's Learn",
+      "exercise": "C",
+      "exercise_title": "Sentences.",
+      "audio": {
+        "disc": "CD2",
+        "track": 61,
+        "audio_key": "CD2-61",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 4,
+      "book_page": 67,
+      "lesson_section": "Let's Learn",
+      "exercise": "D",
+      "exercise_title": "Listen, point, and chant.",
+      "audio": {
+        "disc": "CD2",
+        "track": 62,
+        "audio_key": "CD2-62",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 5,
+      "book_page": 68,
+      "lesson_section": "Let's Learn More",
+      "exercise": "A",
+      "exercise_title": "Words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 63,
+        "audio_key": "CD2-63",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 5,
+      "book_page": 68,
+      "lesson_section": "Let's Learn More",
+      "exercise": "B",
+      "exercise_title": "Listen and point.",
+      "audio": {
+        "disc": "CD2",
+        "track": 64,
+        "audio_key": "CD2-64",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 6,
+      "book_page": 69,
+      "lesson_section": "Let's Learn More",
+      "exercise": "C",
+      "exercise_title": "Question and answer.",
+      "audio": {
+        "disc": "CD2",
+        "track": 65,
+        "audio_key": "CD2-65",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 6,
+      "book_page": 69,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Listen and chant.",
+      "audio": {
+        "disc": "CD2",
+        "track": 66,
+        "audio_key": "CD2-66",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 7,
+      "book_page": 70,
+      "lesson_section": "The Alphabet",
+      "exercise": "A",
+      "exercise_title": "Sing and say.",
+      "audio": {
+        "disc": "CD2",
+        "track": 67,
+        "audio_key": "CD2-67",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 7,
+      "book_page": 70,
+      "lesson_section": "The Alphabet",
+      "exercise": "B",
+      "exercise_title": "Letters and words.",
+      "audio": {
+        "disc": "CD2",
+        "track": 68,
+        "audio_key": "CD2-68",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 8,
+      "book_page": 71,
+      "lesson_section": "Let's Build",
+      "exercise": "A",
+      "exercise_title": "Play a game.",
+      "audio": {
+        "disc": "CD2",
+        "track": 69,
+        "audio_key": "CD2-69",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 7-8.pdf",
+      "content_type": "review",
+      "unit": "7-8",
+      "topic": "Listen and Review",
+      "pdf_page": 1,
+      "book_page": 72,
+      "lesson_section": "Units 7-8 Listen and Review",
+      "exercise": "A",
+      "exercise_title": "Listen and circle.",
+      "audio": {
+        "disc": "CD2",
+        "track": 70,
+        "audio_key": "CD2-70",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 7-8.pdf",
+      "content_type": "review",
+      "unit": "7-8",
+      "topic": "Days of the Week",
+      "pdf_page": 2,
+      "book_page": 73,
+      "lesson_section": "Let's Learn About",
+      "exercise": "A",
+      "exercise_title": "Say these.",
+      "audio": {
+        "disc": "CD2",
+        "track": 71,
+        "audio_key": "CD2-71",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 7-8.pdf",
+      "content_type": "review",
+      "unit": "7-8",
+      "topic": "Days of the Week",
+      "pdf_page": 2,
+      "book_page": 73,
+      "lesson_section": "Let's Learn About",
+      "exercise": "B",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 72,
+        "audio_key": "CD2-72",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    }
+  ],
+  "exercises_without_explicit_audio_marker": [
+    {
+      "source_pdf": "Unit 1 - Toys.pdf",
+      "content_type": "unit",
+      "unit": 1,
+      "topic": "Toys",
+      "pdf_page": 7,
+      "book_page": 8,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 2 - Colors.pdf",
+      "content_type": "unit",
+      "unit": 2,
+      "topic": "Colors",
+      "pdf_page": 7,
+      "book_page": 16,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 3 - Shapes.pdf",
+      "content_type": "unit",
+      "unit": 3,
+      "topic": "Shapes",
+      "pdf_page": 7,
+      "book_page": 26,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 7,
+      "book_page": 34,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 4 - Numbers.pdf",
+      "content_type": "unit",
+      "unit": 4,
+      "topic": "Numbers",
+      "pdf_page": 8,
+      "book_page": 35,
+      "lesson_section": "Let's Build",
+      "exercise": "B",
+      "exercise_title": "Find the numbers.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 5 - Animals.pdf",
+      "content_type": "unit",
+      "unit": 5,
+      "topic": "Animals",
+      "pdf_page": 7,
+      "book_page": 44,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 6,
+      "book_page": 51,
+      "lesson_section": "Let's Learn More",
+      "exercise": "D",
+      "exercise_title": "Ask and answer.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 6 - Food.pdf",
+      "content_type": "unit",
+      "unit": 6,
+      "topic": "Food",
+      "pdf_page": 7,
+      "book_page": 52,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 7 - My Body.pdf",
+      "content_type": "unit",
+      "unit": 7,
+      "topic": "My Body",
+      "pdf_page": 7,
+      "book_page": 62,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    },
+    {
+      "source_pdf": "Unit 8 - Abilities.pdf",
+      "content_type": "unit",
+      "unit": 8,
+      "topic": "Abilities",
+      "pdf_page": 7,
+      "book_page": 70,
+      "lesson_section": "The Alphabet",
+      "exercise": "C",
+      "exercise_title": "Find the letters.",
+      "reason": "No explicit CD/track marker printed beside this exercise."
+    }
+  ],
+  "source_files": [
+    {
+      "file": "Intro & Table of Contents.pdf",
+      "sha256": "7cb2495c5255b99da64493cda96d53726e8cc901b954051987ada222ea336ef3",
+      "size_bytes": 2145522
+    },
+    {
+      "file": "Syllabus & Word List.pdf",
+      "sha256": "fcb405d7eb44cf912c2eadb7282153f62c8c740467832d4123dfc896e899ba46",
+      "size_bytes": 2276282
+    },
+    {
+      "file": "Unit 1 - Toys.pdf",
+      "sha256": "134f889caa5c699e529089fc98769c9cda34fb0e234e8ca9294787e11058b181",
+      "size_bytes": 4743508
+    },
+    {
+      "file": "Unit 2 - Colors.pdf",
+      "sha256": "340cbafaeca3120c19e69750b5f79d5a21f71c7908ed9524f1557abd80f4bac0",
+      "size_bytes": 4785025
+    },
+    {
+      "file": "Review 1-2.pdf",
+      "sha256": "950501317164166527f6c181a4d7fa51fbdbf670e78cac85b0223a96f93b10bd",
+      "size_bytes": 995047
+    },
+    {
+      "file": "Unit 3 - Shapes.pdf",
+      "sha256": "773ce7cd050eacacae1c294a46b780a0c00745c9eba9e79cde2a1a7d408840e9",
+      "size_bytes": 4252133
+    },
+    {
+      "file": "Unit 4 - Numbers.pdf",
+      "sha256": "475816eaaff038701b5663925093c072125bcc8db89234ffe322c403ad031b68",
+      "size_bytes": 4365417
+    },
+    {
+      "file": "Review 3-4.pdf",
+      "sha256": "969968aa04bdb2caf01f4603d38e5e2620b9ac48bea5848db838d822a29a828c",
+      "size_bytes": 1040026
+    },
+    {
+      "file": "Unit 5 - Animals.pdf",
+      "sha256": "19d0f35f98fc7db1eec256e164c1a1d7f62825863d50ce687402c88bc8bfa7eb",
+      "size_bytes": 4803061
+    },
+    {
+      "file": "Unit 6 - Food.pdf",
+      "sha256": "8981257174455ca018df0045099c99c18e3a14c8fd0e1ac3540cd1a40b734602",
+      "size_bytes": 4292944
+    },
+    {
+      "file": "Review 5-6.pdf",
+      "sha256": "c50887df007bcf8d932c75ebf5ce8cab3a537b246d1ea6fea53a13beb90edafd",
+      "size_bytes": 1037306
+    },
+    {
+      "file": "Unit 7 - My Body.pdf",
+      "sha256": "1daa79ed2b8cb575e09b3085af3392a7f663f12f14028a1e89d26dadbe109258",
+      "size_bytes": 4579692
+    },
+    {
+      "file": "Unit 8 - Abilities.pdf",
+      "sha256": "08f718f1f6e8677f73a7c92a09a73d0d5628bc66688ac8b3592682bf2db6b6cd",
+      "size_bytes": 4286310
+    },
+    {
+      "file": "Review 7-8.pdf",
+      "sha256": "9e2198ef34bddd3a10b845633e0d66acb9f1903fe49aff392c76b23697dc1004",
+      "size_bytes": 1055041
+    }
+  ]
+}

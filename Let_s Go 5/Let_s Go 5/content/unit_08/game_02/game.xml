@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" unit="8" exercise="2" finalText="1" rubricMc="mcRubric" rubric="Listen and match." finalTimeout="0" nextQuestionTimeout="1.5">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg5_u8_g2_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="finalAud1"><![CDATA[sounds/lg3_ma_g6.mp3]]></done>
+		<done id="finalAud2"><![CDATA[sounds/lg5_ma_g7.mp3]]></done>
+		<ping id="pingSound"><![CDATA[sounds/ok2.mp3]]></ping>
+		<timeUp id="timeUp"><![CDATA[sounds/out_of_time.mp3]]></timeUp>
+
+	</sounds>
+	<items id="items" questions="8">
+		<item id="0" txt1="Has she ever been to Egypt?" txt2="Has he ever been to Egypt?" question1="sounds/lg5_u8_g2_1.mp3" question2="sounds/lg5_u8_g2_11.mp3" pic="pic/pic0.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="1" txt1="Has she ever been to the Amazon jungle?" txt2="Has he ever been to the Amazon jungle?" question1="sounds/lg5_u8_g2_2.mp3" question2="sounds/lg5_u8_g2_12.mp3" pic="pic/pic1.swf" ans11="sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="2" txt1="Has she ever been to Hawaii?" txt2="Has he ever been to Hawaii?" question1="sounds/lg5_u8_g2_3.mp3" question2="sounds/lg5_u8_g2_13.mp3" pic="pic/pic2.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="3" txt1="Has she ever been to Carlsbad Caverns?" txt2="Has he ever been to Carlsbad Caverns?" question1="sounds/lg5_u8_g2_4.mp3" question2="sounds/lg5_u8_g2_14.mp3" pic="pic/pic3.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="4" txt1="Has she ever been to the Grand Canyon?" txt2="Has he ever been to the Grand Canyon?" question1="sounds/lg5_u8_g2_5.mp3" question2="sounds/lg5_u8_g2_15.mp3" pic="pic/pic4.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="5" txt1="Has she ever been to Mt. Everest?" txt2="Has he ever been to Mt. Everest?" question1="sounds/lg5_u8_g2_6.mp3" question2="sounds/lg5_u8_g2_16.mp3" pic="pic/pic5.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="6" txt1="Has she ever been to Buckingham Palace?" txt2="Has he ever been to Buckingham Palace?" question1="sounds/lg5_u8_g2_7.mp3" question2="sounds/lg5_u8_g2_17.mp3" pic="pic/pic6.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="7" txt1="Has she ever been to Costa Rica?" txt2="Has he ever been to Costa Rica?" question1="sounds/lg5_u8_g2_8.mp3" question2="sounds/lg5_u8_g2_18.mp3" pic="pic/pic7.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>
+		<item id="8" txt1="Has she ever been to Paris?" txt2="Has he ever been to Paris?" question1="sounds/lg5_u8_g2_9.mp3" question2="sounds/lg5_u8_g2_19.mp3" pic="pic/pic8.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>		
+		<item id="9" txt1="Has she ever been to London?" txt2="Has he ever been to London?" question1="sounds/lg5_u8_g2_10.mp3" question2="sounds/lg5_u8_g2_20.mp3" pic="pic/pic9.swf" ans11= "sounds/lg5_u8_g2_21.mp3" ans12= "sounds/lg5_u8_g2_22.mp3" ans21= "sounds/lg5_u8_g2_23.mp3" ans22= "sounds/lg5_u8_g2_24.mp3"/>		
+	</items>
+</settings>

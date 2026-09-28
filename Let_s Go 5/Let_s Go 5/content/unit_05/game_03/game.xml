@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="5" exercise="3" rubricSound="lg5_u5_g3_rubric1.mp3" finalSnd1="lg5_ma_g6.mp3" finalSnd2="lg5_ma_g7.mp3" finalSnd3="Notryagain.mp3" endSnd1="lg5_u5_g3_1.mp3"endSnd2="lg5_u5_g3_2.mp3">
+
+	<sounds>
+		
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+	</sounds>
+	<questions1>
+		<quest len="went" picId="0" audio="lg5_u5_r3_1.mp3" varx="142" vary="201" ans="went" opt1="go" opt2="left"/>
+		<quest len="went" picId="1" audio="lg5_u5_r3_2.mp3" varx="144" vary="235" ans="went" opt1="go" opt2="saw"/>
+		<quest len="we'll leave" picId="2" audio="lg5_u5_r3_3.mp3" varx="120" vary="269" ans="we'll leave" opt1="we'll left" opt2="we'll go"/>
+		<quest len="we'll go" picId="3" audio="lg5_u5_r3_4.mp3" varx="295" vary="269" ans="we'll go" opt1="we go" opt2="we were"/>
+		<quest len="beautifully" picId="4" audio="lg5_u5_r3_5.mp3" varx="91" vary="303" ans="excited" opt1="beautiful" opt2="beautifully"/>
+		<quest len="we'll gone" picId="5" audio="lg5_u5_r3_6.mp3" varx="254" vary="303" ans="we'll go" opt1="we'll gone" opt2="went"/>
+		<quest len="we'll met" picId="6" audio="lg5_u5_r3_7.mp3" varx="98" vary="339" ans="we'll see" opt1="we'll met" opt2="we see"/>
+		<quest len="I'll write" picId="7" audio="lg5_u5_r3_8.mp3" varx="48" vary="373" ans="I'll write" opt1="I wrote" opt2="I write"/>
+	</questions1>
+		<questions2>
+		<quest len="went" picId="0" audio="lg5_u5_r3_1.mp3" varx="75" vary="201" ans="went" opt1="go" opt2="gone"/>
+		<quest len="were watching" picId="1" audio="lg5_u5_r3_2.mp3" varx="75" vary="235" ans="watched" opt1="watching" opt2="were watching"/>
+		<quest len="a lot of" picId="2" audio="lg5_u5_r3_3.mp3" varx="545" vary="235" ans="a lot of" opt1="too" opt2="also"/>
+		<quest len="saw" picId="3" audio="lg5_u5_r3_4.mp3" varx="103" vary="303" ans="saw" opt1="see" opt2="ate"/>
+		<quest len="we'll leave" picId="4" audio="lg5_u5_r3_5.mp3" varx="120" vary="339" ans="we'll leave" opt1="we'll left" opt2="we'll go"/>
+		<quest len="we'll go" picId="5" audio="lg5_u5_r3_6.mp3" varx="310" vary="339" ans="we'll go" opt1="we go" opt2="we were"/>
+		<quest len="We'll watch" picId="6" audio="lg5_u5_r3_7.mp3" varx="47" vary="373" ans="We'll go" opt1="We'll watch" opt2="We'll"/>
+		<quest len="we'll watched" picId="7" audio="lg5_u5_r3_8.mp3" varx="93" vary="407" ans="we'll watch" opt1="we watch" opt2="we'll watched"/>
+	</questions2>
+</activity>

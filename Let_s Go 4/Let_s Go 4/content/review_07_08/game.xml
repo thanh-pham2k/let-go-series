@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="12" fontlib="1" lib="f1" wordspace="7" sentencesspace="22" addspace="19" posx="225" posy="163" select="4" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="intro" url="sounds/lg4_u1_g1_rubric.mp3"/>
+<sound name="goodjob" url="sounds/lg5_ma_b1.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg4_u8_r4_1.mp3">
+			<answer txt="What does Alex like to do?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He likes to collect baseball cards." dis="He likes to play baseball.|He likes to play soccer." good="1"/>
+			<answer txt="Does he like to watch sports on TV?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="Yes, he does." dis="No, he doesn’t." good="0"/>
+			<answer txt="Does he like to clear the table?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="No, he doesn’t." dis="Yes, he does." good="1"/>
+			<answer txt="What does he have to do every day?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He has to walk the dog every day." dis="He has to collect baseball cards every day.|He has to feed the turtle every day." good="2"/>
+			<answer txt="Where’s he going this weekend?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He’s going to go to a baseball game." dis="He’s going to go to a museum.|He’s going to go to a supermarket." good="1"/>
+			<answer txt="Where’s he going to go next summer?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He’s going to go hiking next summer." dis="He’s going to go to a baseball game next summer.|He’s going to go to a beauty salon next summer." good="1"/>
+		</paragraph>
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg4_u8_r4_2.mp3">
+			<answer txt="What time does Maya wake up?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="She wakes up at 6:00 a.m." dis="She wakes up at 7:00 a.m.|She wakes up at 6:00 p.m." good="1"/>
+			<answer txt="What does Maya have to do every morning?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="She has to practice the piano." dis="She has to vacuum the carpet.|She has to feed the cat." good="2"/>
+			<answer txt="What does she like to do?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="She likes to listen to music." dis="She likes to swim.|She likes to vacuum the carpet." good="0"/>
+			<answer txt="Does she like to vacuum the carpet?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="No, she doesn’t." dis="Yes, she does." good="1"/>
+			<answer txt="What is she going to do on Saturday?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="She’s going to rent a DVD." dis="She’s going to go to a beauty salon.|She’s going to read a novel." good="0"/>
+			<answer txt="Is she going to go to a beauty salon on Sunday?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="Yes, she is." dis="No, she isn’t." good="0"/>
+		</paragraph>
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg4_u8_r4_3.mp3">
+			<answer txt="Does Ken have an ice hockey game tonight?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="Yes, he does." dis="No, he doesn’t." good="0"/>
+			<answer txt="Is Ken going to go to his ice hockey game?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="No, he isn’t." dis="Yes, he is." good="1"/>
+			<answer txt="What’s wrong with Ken?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He has a fever." dis="He has a stomachache.|He has a hockey game." good="0"/>
+			<answer txt="What does he want to do tonight?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He wants to go to the game." dis="He wants to sleep.|He wants to watch TV." good="2"/>
+			<answer txt="What does Ken like to do?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He likes to play sports." dis="He likes to watch TV.|He likes to surf the Internet." good="1"/>
+			<answer txt="What doesn’t he like?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He doesn’t like to be sick." dis="He doesn’t like to vacuum the carpet.|He doesn’t like to play ice hockey." good="1"/>
+		</paragraph>
+		<paragraph id ="3" anim="swf/anim4.swf" sound="sounds/lg4_u8_r4_4.mp3">
+			<answer txt="What do Roger and Sally like to do?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="They like to play badminton." dis="They like to wash the dishes.|They like to go hiking." good="0"/>
+			<answer txt="Do they like to plant flowers?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="Yes, they do." dis="No, they don’t." good="0"/>
+			<answer txt="What does Roger like to do?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="He likes to feed the dog." dis="He likes to collect baseball cards.|He likes to walk the dog." good="1"/>
+			<answer txt="What does Sally like to do?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="She likes to walk the dog." dis="She likes to feed the dog.|She likes to practice the piano." good="0"/>
+			<answer txt="What do they want to do tonight?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="They want to play a board game." dis="They want to play badminton.|They want to wash the dishes." good="2"/>
+			<answer txt="What do they have to do tonight?" gender="null" name="null" dis="null" good="null"/>
+			<answer txt="null" gender="null" name="They have to wash the dishes." dis="They have to plant flowers.|They have to play a board game." good="1"/>
+		</paragraph>
+	</paragraphs>
+</activity>

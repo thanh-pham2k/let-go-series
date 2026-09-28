@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="16" fontlib="1" lib="f1" wordspace="7" sentencesspace="33" addspace="19" posx="250" posy="135" select="3" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/wrong.mp3"/>
+<sound name="intro" url="sounds/lg4_u4_g1_rubric.mp3"/>
+<sound name="great" url="sounds/lg4_ma_g4.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg4_u8_r4_1.mp3">
+			<answer txt="What’s your favorite|null|?" gender="g" name="subject" dis="English|class" good="1"/>
+			<answer txt="I like|null|." gender="b" name="science" dis="English|literature" good="2"/>
+			<answer txt="Why do you like it? " gender="g" name="null" dis="null"  good="null"/>
+			<answer txt="I think it’s|null|." gender="b" name="easy" dis="hard|favorite" good="2"/>
+			<answer txt="I don’t think so. I think it’s|null|." gender="g" name="hard" dis="easy|favorite" good="1"/>
+			<answer txt="Which|null|do you like best?" gender="b" name="subject" dis="science|English" good="2"/>
+			<answer txt="I like|null|." gender="g" name="English" dis="science|literature" good="0"/>
+			<answer txt="It’s easier than|null|." gender="g" name="science" dis="English|math" good="2"/>
+			<answer txt="I like|null|, too." gender="b" name="English" dis="you|geography" good="0"/>
+		</paragraph>
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg4_u8_r4_2.mp3">
+			<answer txt="What’s your favorite|null|?" gender="g" name="subject" dis="history|class" good="1"/>
+			<answer txt="I like|null|." gender="b" name="history" dis="geography|science" good="2"/>
+			<answer txt="Why do you like it? " gender="g" name="null" dis="null"  good="null"/>
+			<answer txt="I think it’s|null|." gender="b" name="easy" dis="pretty|old" good="2"/>
+			<answer txt="I don’t think so. I think it’s|null|." gender="g" name="hard" dis="easy|good" good="1"/>
+			<answer txt="null|subject do you like best?" gender="b" name="Which" dis="Who|When" good="0"/>
+			<answer txt="I like|null|" gender="g" name="P.E." dis="history|geography" good="1"/>
+			<answer txt="It’s easier than|null|." gender="g" name="history" dis="literature|science" good="0"/>
+			<answer txt="I like|null|, too." gender="b" name="P.E." dis="history|English" good="2"/>
+		</paragraph>
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg4_u8_r4_3.mp3">
+			<answer txt="What’s your favorite subject?" gender="b" name="null" dis="null"  good="null"/>
+			<answer txt="I like|null|." gender="g" name="geography" dis="literature|science" good="2"/>
+			<answer txt="Why do you|null|it?" gender="b" name="like" dis="think|have" good="0"/>
+			<answer txt="I think it’s|null|." gender="g" name="easy" dis="new|old" good="2"/>
+			<answer txt="I don’t think so. I think it’s|null|." gender="b" name="hard" dis="good|favorite" good="0"/>
+			<answer txt="Which|null|do you like best?" gender="g" name="subject" dis="literature|geography" good="1"/>
+			<answer txt="I like|null|." gender="b" name="literature" dis="geography|P.E." good="1"/>
+			<answer txt="It’s easier than|null|." gender="b" name="geography" dis="literature|P.E." good="2"/>
+			<answer txt="I like|null|, too." gender="g" name="literature" dis="P.E.|English" good="0"/>
+		</paragraph>
+	</paragraphs>
+</activity>

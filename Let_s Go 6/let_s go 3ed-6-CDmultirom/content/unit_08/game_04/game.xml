@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="8" exercise="4" rubricSound="lg6_u8_g4_rubric.mp3" finalAudio="lg6_ma_g6.mp3" finalAudio2="lg5_ma_g7.mp3">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+	
+		
+		
+	</sounds>
+
+	<questions>
+		
+		<quest audio="lg6_u8_g4_1.mp3" txt="What did you do yesterday?"/>
+		<quest audio="lg6_u8_g4_2.mp3" txt="Have you ever visited another country?"/>
+		<quest audio="lg6_u8_g4_3.mp3" txt="How long have you been studying English?"/>
+		<quest audio="lg6_u8_g4_4.mp3" txt="When did you learn how to ride a bike?"/>
+		<quest audio="lg6_u8_g4_5.mp3" txt="What are you like?"/>
+		<quest audio="lg6_u8_g4_6.mp3" txt="If you could go anywhere, where would you go?"/>
+		<quest audio="lg6_u8_g4_7.mp3" txt="If you could meet anyone, who would you meet?"/>
+		<quest audio="lg6_u8_g4_8.mp3" txt="What do you want to do someday?"/>
+		<quest audio="lg6_u8_g4_9.mp3" txt="When did you learn how to read?"/> 
+		<quest audio="lg6_u8_g4_10.mp3" txt="If you could buy anything, what would you buy?"/>
+		<quest audio="lg6_u8_g4_11.mp3" txt="If you could do anything, what would you do?"/> 
+		<quest audio="lg6_u8_g4_12.mp3" txt="What do you think would be fun?"/> 
+
+
+
+	</questions>
+	
+</activity>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="1" exercise="4" timer="12" finalAudio="lg6_ma_b2.mp3" finalAudio2="lg6_ma_g7.mp3" rubricSound="lg6_u1_g4_rubric.mp3" pic="lg6_unit01_game04">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		
+	<q typ="0" pic="pic0" a0="lg6_u1_g4_1.mp3" a1="lg6_u1_g4_2.mp3" txt="What was Bill doing when the doorbell rang?" ans="Bill was reading a book when the doorbell rang."/> 
+	<q typ="0" pic="pic0" a0="lg6_u1_g4_3.mp3" a1="lg6_u1_g4_4.mp3" txt="Which boy is Bill?" ans="He’s the boy who is reading a book."/> 
+	<q typ="1" pic="pic1" a0="lg6_u1_g4_5.mp3" a1="lg6_u1_g4_6.mp3" txt="What was Amy doing when the doorbell rang?" ans="Amy was doing homework when the doorbell rang."/> 
+	<q typ="1" pic="pic1" a0="lg6_u1_g4_7.mp3" a1="lg6_u1_g4_8.mp3" txt="Which girl is Amy?" ans="She’s the girl who is doing homework."/>  
+	<q typ="2" pic="pic2" a0="lg6_u1_g4_9.mp3" a1="lg6_u1_g4_10.mp3" txt="What was Nick doing when the doorbell rang?" ans="Nick was eating spaghetti when the doorbell rang."/> 
+	<q typ="2" pic="pic2" a0="lg6_u1_g4_11.mp3" a1="lg6_u1_g4_12.mp3" txt="Which boy is Nick?" ans="He’s the boy who is eating spaghetti."/> 
+	<q typ="3" pic="pic3" a0="lg6_u1_g4_13.mp3" a1="lg6_u1_g4_14.mp3" txt="What was Matt doing when the doorbell rang?" ans="Matt was washing his face when the doorbell rang."/>  
+	<q typ="3" pic="pic3" a0="lg6_u1_g4_15.mp3" a1="lg6_u1_g4_16.mp3" txt="Which boy is Matt?" ans="He’s the boy who is washing his face."/> 
+	<q typ="4" pic="pic4" a0="lg6_u1_g4_17.mp3" a1="lg6_u1_g4_18.mp3" txt="What was Tina doing when the doorbell rang?" ans="Tina was listening to music when the doorbell rang."/>  
+	<q typ="4" pic="pic4" a0="lg6_u1_g4_19.mp3" a1="lg6_u1_g4_20.mp3" txt="Which girl is Tina?" ans="Tina is the girl who is listening to music."/>  
+	<q typ="5" pic="pic5" a0="lg6_u1_g4_21.mp3" a1="lg6_u1_g4_22.mp3" txt="What was Jim doing when the doorbell rang?" ans="Jim was watching TV when the doorbell rang."/>  
+	<q typ="5" pic="pic5" a0="lg6_u1_g4_23.mp3" a1="lg6_u1_g4_24.mp3" txt="Which boy is Jim?" ans="Jim is the boy who is watching TV."/> 
+
+
+
+	</questions>
+</activity>

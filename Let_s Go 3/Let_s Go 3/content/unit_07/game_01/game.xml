@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setings unit="7" exercise="1" rubric="Make the sentences." rubricSound="lg3_u7_g1_rubric.mp3" wordSpace="12" answers="4" finalText="6" timeSpeed="5" allOkSound="lg2_ma_g6.mp3"/>
+	<sentences>
+	<sentence text="What does your father do? He’s a pilot. 1mother 1She's 1did 1brother" width="55,60,50,70,40,70,20,60,70,60,60,70" audio="lg3_u7_g1_1.mp3"/>
+	<sentence text="What does your mother do? She’s a pilot. 1father 1He's 1did 1brother" width="55,60,50,70,40,70,20,60,70,60,60,70" audio="lg3_u7_g1_2.mp3"/>
+	<sentence text="What does your father do? He’s a zookeeper. 1mother 1She's 1did 1his" width="55,60,50,60,40,70,20,100,70,60,60,60" audio="lg3_u7_g1_3.mp3"/>
+	<sentence text="What does your mother do? She’s a zookeeper. 1father 1He's 1her 1brother" width="55,60,50,70,40,70,20,100,70,60,60,70" audio="lg3_u7_g1_4.mp3"/>
+	<sentence text="What does your father do? He’s an astronomer. 1mother 1She's 1did 1done" width="55,60,50,70,40,70,30,110,70,60,60,60" audio="lg3_u7_g1_5.mp3"/>
+	<sentence text="What does your mother do? She’s an astronomer. 1father 1He's 1did 1His" width="55,60,50,70,40,70,30,110,70,60,60,60" audio="lg3_u7_g1_6.mp3"/>
+	<sentence text="What does your father do? He’s a baseball player. 1mother 1She's 1Her 1done" width="55,60,50,70,40,70,20,100,70,60,60,60,60" audio="lg3_u7_g1_7.mp3"/>
+	<sentence text="What does your mother do? She’s an office worker. 1father 1He's 1Her 1done" width="55,60,50,70,40,70,30,80,80,70,60,60,60" audio="lg3_u7_g1_8.mp3"/>
+	</sentences>

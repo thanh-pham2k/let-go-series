@@ -1,0 +1,22 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="4" exercise="3" rubricSound="lg4_u4_g4_rubric.mp3" finalText="1" finalAudio="lg4_ma_b1.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundNewQuest" file="good.mp3" />
+		
+
+		
+	</sounds>
+	<questions>
+
+		<quest id="0" pic0="0" pic1="1" pic2="2" audio0="lg4_u4_g4_1.mp3" audio1="lg4_u4_g4_2.mp3" sentence0="The police car is heavier than the motorcycle." sentence1="The fire engine is the heaviest."/>
+		<quest id="1" pic0="3" pic1="4" pic2="5" audio0="lg4_u4_g4_3.mp3" audio1="lg4_u4_g4_4.mp3" sentence0="The paper clip is lighter than the pencil." sentence1="The paper is the lightest."/>
+		<quest id="2" pic0="6" pic1="7" pic2="8" audio0="lg4_u4_g4_5.mp3" audio1="lg4_u4_g4_6.mp3" sentence0="The key is bigger than the coin." sentence1="The hairbrush is the biggest."/>
+		<quest id="3" pic0="9" pic1="10" pic2="11" audio0="lg4_u4_g4_7.mp3" audio1="lg4_u4_g4_8.mp3" sentence0="The ruler is longer than the ribbon." sentence1="The jump rope is the longest."/>
+		
+		
+	</questions>
+	
+</activity>

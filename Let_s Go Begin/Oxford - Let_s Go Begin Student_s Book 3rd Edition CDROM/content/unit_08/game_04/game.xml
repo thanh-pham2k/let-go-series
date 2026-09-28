@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="8" exercise="4" finalText="1" doneSound="sounds/lg1_ma_b3.mp3" rubricSound="sounds/lb_u8_g4_rubric.mp3" rubricText="Listen and choose.">
+	<sounds>
+		<yes sound="sounds/lb_u8_g4_7.mp3"/>
+		<no sound="sounds/lb_u8_g4_8.mp3"/>
+	</sounds>
+	<items>
+		<item id="0" image="swf/item0.swf" text="Can you sing a song?" sound="sounds/lb_u8_g4_1.mp3"/>
+		<item id="1" image="swf/item1.swf" text="Can you ride a bicycle?" sound="sounds/lb_u8_g4_2.mp3"/>
+		<item id="2" image="swf/item2.swf" text="Can you fly a kite?" sound="sounds/lb_u8_g4_3.mp3"/>
+		<item id="3" image="swf/item3.swf" text="Can you swim?" sound="sounds/lb_u8_g4_4.mp3"/>
+		<item id="4" image="swf/item4.swf" text="Can you wink?" sound="sounds/lb_u8_g4_5.mp3"/>
+		<item id="5" image="swf/item5.swf" text="Can you dance?" sound="sounds/lb_u8_g4_6.mp3"/>
+	</items>
+</settings>

@@ -1,0 +1,82 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<activity toAsk='8' unit='6' rubricSound='lg6_u6_g2_rubric.mp3' timer='20' finalAudio='lg6_ma_b2.mp3' finalAudio2="lg5_ma_g7.mp3" pic="lg6_unit06_game02">
+    <sounds>
+        <sound file='good.mp3' id='soundGood'/>
+        <sound file='wrong.mp3' id='soundWrong'/>
+        <sound file='out_of_time.mp3' id='timeUp'/>
+    </sounds>
+    <questions>
+        <quest audio='lg6_u6_g2_1.mp3' frame="1">
+            <q>He’s been practicing the piano for 30 minutes.</q>
+            <q>He has practicing the piano since 30 minutes.</q>
+            <q>He has practiced the piano for 30 minutes.</q>
+            <q>He’s been practicing the piano before 30 hours.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_2.mp3' frame="2">
+            <q>She’s been practicing the piano for two hours.</q>
+            <q>She’s been practicing the piano from two hours.</q>
+            <q>She’s been practicing the piano since two hours.</q>
+            <q>She’s practicing the piano since two hours.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_3.mp3' frame="3">
+            <q>He’s been doing homework since two o’clock.</q>
+            <q>He has doing homework for two o’clock.</q>
+            <q>He’s been homework since two o’clock.</q>
+            <q>He’s been done homework since two o’clock.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_4.mp3' frame="4">
+            <q>She’s been doing homework for three and a half hours.</q>
+            <q>She’s been homework for three and a half hours.</q>
+            <q>She’s doing homework for three and a half hours.</q>
+            <q>She’s been doing homework since three and a half hours.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_5.mp3' frame="5">
+            <q>He’s been cleaning his room for three hours.</q>
+            <q>He’s clean his room since three hours.</q>
+            <q>He’s cleaned his room from three hours.</q>
+            <q>He’s been cleaning his room before three hours.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_6.mp3' frame="6">
+            <q>She’s been cleaning her room since three o’clock.</q>
+            <q>She’s been clean her room for three o’clock.</q>
+            <q>She’s been cleaned her room for three o’clock.</q>
+            <q>She been cleaning her room since three o’clock.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_7.mp3' frame="7">
+            <q>He’s been talking on the phone since early evening.</q>
+            <q>He’s been talking on the phone for early evening.</q>
+            <q>He’s been talking on the phone before early evening.</q>
+            <q>He’s been talking on the phone since early morning.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_8.mp3' frame="8">
+            <q>She’s been talking on the phone for 15 minutes.</q>
+            <q>She’s been talked on the phone for 15 minutes.</q>
+            <q>She’s been talking on the phone since 15 minutes.</q>
+            <q>She’s on the phone since 15 minutes.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_9.mp3' frame="9">
+            <q>He’s been playing soccer for two and a half hours.</q>
+            <q>He’s been playing soccer since two and a half hours.</q>
+            <q>He’s been playing soccer for three and a half hours.</q>
+            <q>He’s played soccer for two and a half hours.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_10.mp3' frame="10">
+            <q>She’s been playing soccer since noon.</q>
+            <q>She’s been playing soccer for noon.</q>
+            <q>She’s been played soccer before noon.</q>
+            <q>She’s been playing soccer since two.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_11.mp3' frame="11">
+            <q>He’s been visiting Hong Kong for a week.</q>
+            <q>He’s been visiting Hong Kong since a week.</q>
+            <q>He’s been visited Hong Kong for a week.</q>
+            <q>He’s been visiting Hong Kong during the week.</q>
+        </quest>
+        <quest audio='lg6_u6_g2_12.mp3' frame="12">
+            <q>She’s been visiting Hong Kong since last Thursday.</q>
+            <q>She’s been visit Hong Kong for last Thursday.</q>
+            <q>She’s been visiting Hong Kong since this Friday.</q>
+            <q>She been visiting Hong Kong before Thursday.</q>
+        </quest>
+    </questions>
+</activity>

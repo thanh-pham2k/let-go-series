@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u8_g1_rubric.mp3" finalAudio="lg4_ma_g6.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+		
+	</sounds>
+	<cross>
+		<ver0 xpos="42" ypos="135" />
+		<ver1 xpos="52" ypos="155" />
+		<ver2 xpos="52" ypos="135" />
+		<ver3 xpos="82" ypos="135" />
+	</cross>
+	<questions>
+		<quest picId="0" audio="lg4_u8_g1_1.mp3" answer="cold" ver0="0,1,7" ver1="0,1,6" ver2="0,3,5"  />
+		<quest picId="1" audio="lg4_u8_g1_2.mp3" answer="fever" ver0="0,3,7" ver1="0,3,6" ver2="0,1,5"  />
+		<quest picId="2" audio="lg4_u8_g1_3.mp3" answer="headache" ver0="0,11,4" ver1="0,11,3" ver2="1,0,8" />	
+		<quest picId="3" audio="lg4_u8_g1_4.mp3" answer="sorethroat" ver0="1,0,8" ver1="1,0,7" ver2="0,13,0" />
+		<quest picId="4" audio="lg4_u8_g1_5.mp3" answer="earache" ver0="1,3,10" ver1="1,3,9" ver2="0,7,2" />
+		<quest picId="5" audio="lg4_u8_g1_6.mp3" answer="stomachache" ver0="0,8,1" ver1="0,8,0" ver2="1,3,3" />
+		<quest picId="6" audio="lg4_u8_g1_7.mp3" answer="toothache" ver0="1,3,5" ver1="1,3,4" ver2="0,5,2" />
+		<quest picId="7" audio="lg4_u8_g1_8.mp3" answer="cough" ver0="0,5,4" ver1="0,5,3" ver2="1,7,6" />
+		
+		
+
+	</questions>
+	
+</activity>

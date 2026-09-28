@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="5" exercise="2" goodSound="sounds/good.mp3" goodSound1="sounds/pies.mp3" goodSound2="sounds/kot.mp3" goodSound3="sounds/ptak.mp3" wrongSound="sounds/bad.mp3" doneSound="sounds/lb_ma_b1.mp3" rubricSound="sounds/lb_u5_g2_rubric.mp3" rubric="Let's count." finalTimeout="6">
+	<pets maxNumber="4" x='50' y='100'>
+		<item name='dogs' link='swf/dogs.swf' questSnd='sounds/lb_u5_g2_11.mp3'>
+			<answer link='sounds/lb_u5_g2_12.mp3'/>
+			<answer link='sounds/lb_u5_g2_13.mp3'/>
+			<answer link='sounds/lb_u5_g2_14.mp3'/>
+			<answer link='sounds/lb_u5_g2_15.mp3'/>
+		</item>
+		<item name='cats' link='swf/cats.swf' questSnd='sounds/lb_u5_g2_6.mp3'>
+			<answer link='sounds/lb_u5_g2_7.mp3'/>
+			<answer link='sounds/lb_u5_g2_8.mp3'/>
+			<answer link='sounds/lb_u5_g2_9.mp3'/>
+			<answer link='sounds/lb_u5_g2_10.mp3'/>
+		</item>
+		<item name='birds' link='swf/birds.swf' questSnd='sounds/lb_u5_g2_1.mp3'>
+			<answer link='sounds/lb_u5_g2_2.mp3'/>
+			<answer link='sounds/lb_u5_g2_3.mp3'/>
+			<answer link='sounds/lb_u5_g2_4.mp3'/>
+			<answer link='sounds/lb_u5_g2_5.mp3'/>
+		</item>
+	</pets>
+</activity>

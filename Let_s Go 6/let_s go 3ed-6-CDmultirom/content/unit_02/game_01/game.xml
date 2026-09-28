@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity select="3">
+	<sounds>
+		<sound name="good" url="sounds/good.mp3"/>
+		<sound name="bad" url="sounds/wrong.mp3"/>
+		<sound name="intro" url="sounds/lg6_u2_r1_rubric.mp3"/>
+		<sound name="nicetry" url="sounds/lg5_ma_b7.mp3"/>
+		<sound name="goodtry" url="sounds/lg5_ma_b8.mp3"/>
+		<sound name="excellent" url="sounds/lg5_ma_g3.mp3"/>
+		<sound name="goodjob" url="sounds/lg5_ma_b1.mp3"/>
+	</sounds>
+	<paragraphs>
+		
+		<paragraph ask="10" id="0" anim="swf/anim1.swf" sound="sounds/lg6_u2_g1_1.mp3">
+			<ask question="Did Tracy go to the circus last weekend?" answers="Yes, she did.|No, she didn’t.|Didn’t she?" good="0"/>
+			<ask question="How was the circus?" answers="She was funny.|They were funny.|It was funny." good="2"/>
+			<ask question="Did Tracy see jugglers?" answers="No, she didn’t.|Yes, she did.|She didn’t say." good="2"/>
+			<ask question="What did Tracy see?" answers="She saw clowns.|She saw jugglers.|She saw acrobats." good="0"/>
+			<ask question="Were the clowns funny?" answers="Yes, they were.|Yes, Amanda was.|Yes, Tracy was." good="0"/>
+			<ask question="Were the clowns frightened?" answers="No, they weren’t.|Yes, they were.|She didn’t see clowns." good="0"/>
+			<ask question="Who thinks clowns are frightening?" answers="Amanda thinks clowns are frightening.|Tracy thinks clowns are frightening.|Tracy thinks clowns are frightened." good="0"/>
+			<ask question="Was Tracy frightened?" answers="Yes, she was.|No, she wasn’t.|Yes, they were." good="1"/>
+			<ask question="What did the clowns do?" answers="They juggled chairs.|They were frightening.|They fell down a lot." good="2"/>
+			<ask question="How was the show?" answers="It was great.|It was frightening.|It was funny." good="0"/>
+		</paragraph>
+		
+		<paragraph ask="10" id="1" anim="swf/anim2.swf" sound="sounds/lg6_u2_g1_2.mp3">
+			<ask question="Who went to the circus?" answers="Jack went to the circus.|Leslie went to the circus.|Leslie didn’t go to the circus." good="1"/>
+			<ask question="When was the circus?" answers="It was Leslie’s weekend.|It was last weekend.|It went last weekend." good="1"/>
+			<ask question="How was the circus?" answers="It was amazed.|It was amazing.|She was amazing." good="1"/>
+			<ask question="What did Leslie see?" answers="She saw clowns.|She saw jugglers.|She saw acrobats." good="2"/>
+			<ask question="What did Leslie do before the show?" answers="She went backstage.|She was amazing.|She went before the show." good="0"/>
+			<ask question="What did the acrobats do backstage?" answers="They practiced.|They were amazed.|They amazing." good="0"/>
+			<ask question="Why was Leslie amazed?" answers="Because the acrobats were backstage.|Because the acrobats were strong.|Because that acrobats were amazed." good="1"/>
+			<ask question="What did Leslie do backstage?" answers="She stood on her shoulders.|She stood on the shoulders of one of the acrobats.|She was exciting." good="1"/>
+			<ask question="What was exciting?" answers="When Leslie stood on the acrobat’s shoulders.|The acrobats were excited.|Yes, she was." good="0"/>
+			<ask question="Whose shoulders did Leslie stand on?" answers="The clown’s shoulders.|Tracy’s shoulders.|The acrobat’s shoulders." good="2"/>
+			
+		</paragraph>
+		
+		
+		<paragraph ask="10" id="2" anim="swf/anim3.swf" sound="sounds/lg6_u2_g1_3.mp3">
+			<ask question="Who went to the circus?" answers="Alex went to the circus.|Rich went to the circus.|Alex and Rich went to the circus." good="1"/>
+			<ask question="Did Alex go to the circus?" answers="Yes, he did.|No, he didn’t.|Yes, he went with Rich." good="1"/>
+			<ask question="Did Rich see clowns?" answers="No, he didn’t.|Yes, he did.|Maybe he did." good="2"/>
+			<ask question="What does “too bad” mean?" answers="It is funny Rich didn’t go to the circus.|It is disappointing Rich saw acrobats.|It is disappointing Alex didn’t go to the circus." good="2"/>
+			<ask question="What did Rich see at the circus?" answers="He saw acrobats and jugglers.|He was amazed.|He saw clowns." good="0"/>
+			<ask question="How were the jugglers?" answers="They were amazed.|They were disappointed.|They were amazing." good="2"/>
+			<ask question="Did the jugglers juggle acrobats?" answers="Yes, they did.|No, they didn’t.|They were amazed." good="1"/>
+			<ask question="What did the jugglers do?" answers="They were frightening.|They juggled balls, fruit, and chairs.|They practiced backstage." good="1"/>
+			<ask question="What did Rich think?" answers="He was amazed.|He was interested.|He was disappointed." good="0"/>
+			<ask question="Why did Alex say “That’s interesting”?" answers="Because Rich juggled chairs.|Because the jugglers juggled chairs.|Because he went to the circus." good="1"/>
+			
+		</paragraph>
+		
+		
+		
+	</paragraphs>
+</activity>

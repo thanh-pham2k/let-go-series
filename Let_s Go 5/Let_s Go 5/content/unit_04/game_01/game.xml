@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="18" fontlib="1" lib="f1" wordspace="7" sentencesspace="40" addspace="19" posx="200" posy="160" select="2" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/wrong.mp3"/>
+<sound name="intro" url="sounds/lg5_u4_g1_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg5_ma_b6.mp3"/>
+</sounds>
+	<paragraphs>
+		
+		
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg5_u4_g1_1all.mp3">
+	
+		<answer txt="Are you|null|?" gender="b" name="ready" dis="go|gone" good="2"/>
+		<answer txt="Wait a minute. I think I forgot|null|." gender="g" name="to do something" dis="to do anything|to do" good="0"/>
+		<answer txt="Did you|null|to|null|?" gender="b" name="forget_put on sunscreen" dis="forgot|got_turn off the TV|turn on the TV" good="0_2"/>
+		<answer txt="No, I|null|. I put it on." gender="g" name="didn’t forget" dis="forget|didn’t forgot" good="0"/>
+		<answer txt="Did you|null|the radio?" gender="b" name="turn off" dis="turn on|off" good="2"/>
+		<answer txt="Yes, I turned it off." gender="g" name="null" dis="null" good="null"/>
+		<answer txt="You didn’t forget|null|. Let’s go!" gender="b" name="to do anything" dis="to do something|something" good="2"/>
+		<answer txt="Now I|null|." gender="g" name="remember" dis="forgot|didn’t remember" good="2"/>
+		<answer txt="I|null|to|null|." gender="g" name="forgot_take off my watch" dis="forget|took_turn in my homework|clean up the room" good="1_0"/>
+		
+		</paragraph>
+		
+		
+		
+		
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg5_u4_g1_2all.mp3">
+			
+			<answer txt="Did you|null|to do anything?" gender="b" name="forget" dis="forgot|get" good="1"/>
+			<answer txt="No, I didn’t." gender="g" name="null" dis="null" good="null"/>
+			<answer txt="OK. |null|." gender="b" name="Let’s go" dis="Go|Let go." good="0"/>
+			<answer txt="Wait a minute. I think I|null|null|." gender="g" name="forgot_to do something" dis="got|forget_to do anything|anything" good="1_0"/>
+			<answer txt="Did you|null|the TV?" gender="b" name="turn off" dis="turned off|take off" good="1"/>
+			<answer txt="Yes, I|null|it off." gender="g" name="turned" dis="turn|forgot" good="2"/>
+			<answer txt="You didn’t|null|to do anything." gender="b" name="forget" dis="forgot|got" good="0"/>
+			<answer txt="Now I|null|." gender="g" name="remember" dis="forgot|didn’t remember" good="2"/>
+			<answer txt="I|null|to|null|." gender="g" name="forgot_turn off the radio" dis="forget|took_turn on the TV|put on sunscreen" good="2_1"/>
+			
+		</paragraph>
+		
+	</paragraphs>
+</activity>

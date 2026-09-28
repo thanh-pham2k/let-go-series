@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="2" rubric="Simon" rubricSound="sound/lb_u6_r3_rubric.mp3" finalText="2" goodSound="sound/good.mp3" wrongSound="sound/bad.mp3" doneSound="sound/lb_ma_g2.mp3" roundSound="sound/good.mp3" maxQuestions="12">
+<placement startx="110" starty="220" itemWidth="126" itemHeight="140" />
+<set>
+	<item src="swf/item_01.swf" sound="sound/lb_u6_r3_1.mp3" name="triangle" />
+	<item src="swf/item_02.swf" sound="sound/lb_u6_r3_2.mp3" name="square" />
+	<item src="swf/item_03.swf" sound="sound/lb_u6_r3_3.mp3" name="circle" />
+	<item src="swf/item_04.swf" sound="sound/lb_u6_r3_4.mp3" name="star" />
+	<item src="swf/item_05.swf" sound="sound/lb_u6_r3_5.mp3" name="heart" />
+</set>
+</activity>

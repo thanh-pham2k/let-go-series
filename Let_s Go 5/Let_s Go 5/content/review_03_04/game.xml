@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u1_g1_rubric.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg5_u1_g4_rubric.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg5_u1_g4_rubric.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+	</sounds>
+	<questions>
+		<question settype="3" texts="How was your weekend?|It was pretty good." question1="" question2="" answers="My brother and I went for a bike ride.|My mother and I went for a bike ride.|My brother and I go for a bike ride.|My brother and I went a bike ride." picture="pictures/pic_1.swf" audio="sounds/lg5_u3_g1_1.mp3|sounds/lg5_u3_g1_2.mp3|sounds/lg5_u3_g1_3.mp3"/>
+		<question settype="2" texts="How was your weekend?" question1="" question2="How was yours?" answers="It was pretty good.|It was very good.|I was pretty good.|It was pretty." picture="pictures/pic_2.swf" audio="sounds/lg5_u3_g1_10.mp3|sounds/lg5_u3_g1_11.mp3"/>
+		<question settype="2" texts="What did you do on the weekend?" question1="" question2="" answers="I went skating.|I went ice skating.|I went to the library.|I go skating." picture="pictures/pic_3.swf" audio="sounds/lg5_u3_g1_6.mp3|sounds/lg5_u3_g1_7.mp3"/>
+		<question settype="2" texts="What did you do on the weekend?" question1="" question2="" answers="I went to the library.|I went skating.|I went by myself|I watched a movie with a friend." picture="pictures/pic_4.swf" audio="sounds/lg5_u3_g1_15.mp3|sounds/lg5_u3_g1_16.mp3"/>
+		<question settype="2" texts="Are you ready? Let’s go." question1="Wait a minute." question2="" answers="I think I forgot to do something.|I think I forget to do something.|I think I forgot to do anything.|I think I forgot something." picture="pictures/pic_5.swf" audio="sounds/lg5_u4_g1_1.mp3|sounds/lg5_u4_g1_2.mp3"/>
+		<question settype="2" texts="Did you turn off the radio?" question1="" question2="" answers="Yes, I turned it off.|No, I turned it off.|Yes, I turned it on.|Yes, I turn it off." picture="pictures/pic_6.swf" audio="sounds/lg5_u4_g1_5.mp3|sounds/lg5_u4_g1_6.mp3"/>
+		<question settype="1" texts="No, I didn’t.|Wait a minute. I think I forgot to do something.|I forgot to turn off the radio." question1="" question2="" answers="Did you forget to do anything?|Did you forget to do something?|Do you forgot to do anything?|Did you forget to anything?" picture="pictures/pic_7.swf" audio="sounds/lg5_u4_g1_10.mp3|sounds/lg5_u4_g1_11.mp3|sounds/lg5_u4_g1_13.mp3|sounds/lg5_u4_g1_18.mp3"/>
+		<question settype="3" texts="Did you turn off the TV?|Yes, I turned it off." question1="" question2="" answers="You didn’t forget to do anything.|I didn’t forget to do anything.|You didn’t forget to do something.|You didn’t forgot to do something." picture="pictures/pic_8.swf" audio="sounds/lg5_u4_g1_14.mp3|sounds/lg5_u4_g1_15.mp3|sounds/lg5_u4_g1_16.mp3"/>
+	</questions>
+	<questions>
+		<question settype="2" texts="What was he doing yesterday?" question1="" question2="" answers="He was skateboarding.|She was skateboarding.|He was skateboard.|He was walking the dogs." picture="pictures/pic_9.swf" audio="sounds/lg5_u3_g2_1.mp3|sounds/lg5_u3_g2_4.mp3"/>
+		<question settype="2" texts="What was he doing yesterday?" question1="" question2="" answers="He was taking pictures.|He was running.|She was taking pictures.|He was take pictures." picture="pictures/pic_10.swf" audio="sounds/lg5_u3_g2_1.mp3|sounds/lg5_u3_g2_11.mp3"/>
+		<question settype="2" texts="What was she doing yesterday?" question1="" question2="" answers="She was hiking.|She was running.|She was hike.|She was walking the dogs." picture="pictures/pic_11.swf" audio="sounds/lg5_u3_g2_2.mp3|sounds/lg5_u3_g2_6.mp3"/>
+		<question settype="2" texts="What was she doing yesterday?" question1="" question2="" answers="She was skateboarding.|She was running.|She was skateboard.|She was playing volleyball." picture="pictures/pic_12.swf" audio="sounds/lg5_u3_g2_2.mp3|sounds/lg5_u3_g2_7.mp3"/>
+		<question settype="1" texts="Yes, he does." question1="Does he usually walk" question2="?" answers="quickly|slowly|carelessly|carefully" picture="pictures/pic_13.swf" audio="sounds/lg5_u4_g2_1.mp3|sounds/lg5_u4_g2_25.mp3"/>
+		<question settype="1" texts="Yes, he does." question1="Does he usually ride a bicycle" question2="?" answers="carelessly|carefully|quietly|badly" picture="pictures/pic_14.swf" audio="sounds/lg5_u4_g2_3.mp3|sounds/lg5_u4_g2_25.mp3"/>
+		<question settype="1" texts="Yes, she does." question1="Does she usually speak" question2="?" answers="quietly|slowly|carefully|well" picture="pictures/pic_15.swf" audio="sounds/lg5_u4_g2_6.mp3|sounds/lg5_u4_g2_26.mp3"/>
+		<question settype="1" texts="Yes, she does." question1="Does she usually play the piano" question2="?" answers="badly|carefully|carelessly|quietly" picture="pictures/pic_16.swf" audio="sounds/lg5_u4_g2_8.mp3|sounds/lg5_u4_g2_26.mp3"/>
+	</questions>
+	<questions>
+		<question settype="2" texts="What was she doing at 7:25 a.m.?" question1="" question2="" answers="She was sleeping.|She was waking up.|She was sleep.|She was getting dressed." picture="pictures/pic_17.swf" audio="sounds/lg5_u3_g4_16.mp3|sounds/lg5_u3_g4_22.mp3"/>
+		<question settype="4" texts="She was drinking juice.|She was drinked juice." question1="" question2="" answers="What was she doing at 7:50 a.m.?|What was she doing at 7:55 a.m.?|What was she do at 7:50 a.m.?" picture="pictures/pic_18.swf" audio="sounds/lg5_u3_g4_19.mp3|sounds/lg5_u3_g4_27.mp3"/>
+		<question settype="4" texts="She was brushing her teeth.|She was eating breakfast.|She eating breakfast.|She was getting up." question1="" question2="" answers="What was she doing at 7:55 a.m.?|What was she doing at 7:15 a.m.?" picture="pictures/pic_19.swf" audio="sounds/lg5_u3_g4_20.mp3|sounds/lg5_u3_g4_26.mp3"/>
+		<question settype="4" texts="She was leaving for school.|She was leaving school.|She was leaving to school." question1="" question2="" answers="What was she doing at 8:00 a.m.?|What was she at 8:00 a.m.?" picture="pictures/pic_20.swf" audio="sounds/lg5_u3_g4_21.mp3|sounds/lg5_u3_g4_28.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She played the piano beautifully.|She played the violin beautifully.|She played the piano carelessly.|She playing the piano beautifully." picture="pictures/pic_21.swf" audio="sounds/lg5_u4_g4_1.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She danced gracefully.|She danced graceful.|She danced carefully.|She danced quietly." picture="pictures/pic_22.swf" audio="sounds/lg5_u4_g4_3.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He painted colorfully.|He sang colorfully.|He painted carelessly.|He paint colorful." picture="pictures/pic_23.swf" audio="sounds/lg5_u4_g4_6.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He cleaned his room tiredly.|He clean tiredly.|He cleaned his room carefully.|He cleaned his room loudly." picture="pictures/pic_24.swf" audio="sounds/lg5_u4_g4_7.mp3"/>
+	</questions>
+</activity>

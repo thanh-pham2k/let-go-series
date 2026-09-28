@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="2" exercise="2" rubric="Listen and answer." finalText="3" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg5_u2_g2_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="YesHe"><![CDATA[sounds/lg5_u2_g2_17.mp3]]></sound>
+		<sound id="NoHe"><![CDATA[sounds/lg5_u2_g2_18.mp3]]></sound>
+		
+		<sound id="finalAudio"><![CDATA[sounds/lg5_ma_g7.mp3]]></sound>
+		<sound id="finalAudio2"><![CDATA[sounds/lg5_ma_b1.mp3]]></sound>
+
+				
+
+	</sounds>
+	<items id="items">
+		<item id="1" sound="sounds/lg5_u2_g2_1.mp3" a="1" type="He" text="Is the zebra more colorful than the jaguar?"/>
+		<item id="2" sound="sounds/lg5_u2_g2_2.mp3" a="0" type="He" text="Is the zebra less colorful than the jaguar?"/>
+		<item id="3" sound="sounds/lg5_u2_g2_3.mp3" a="1" type="He" text="Is the frog more colorful than the zebra?"/>
+		<item id="4" sound="sounds/lg5_u2_g2_4.mp3" a="0" type="He" text="Is the frog less colorful than the zebra?"/>
+		<item id="5" sound="sounds/lg5_u2_g2_5.mp3" a="1" type="He" text="Is the gazelle more graceful than the rhinoceros?"/>
+		<item id="6" sound="sounds/lg5_u2_g2_6.mp3" a="0" type="He" text="Is the gazelle less graceful than the rhinoceros?"/>
+		<item id="7" sound="sounds/lg5_u2_g2_7.mp3" a="1" type="He" text="Is the squirrel more graceful than the polar bear?"/>
+		<item id="8" sound="sounds/lg5_u2_g2_8.mp3" a="0" type="He" text="Is the squirrel less graceful than the polar bear?"/>
+		<item id="9" sound="sounds/lg5_u2_g2_9.mp3" a="1" type="He" text="Is the cake more delicious than the sandwich?"/>
+		<item id="10" sound="sounds/lg5_u2_g2_10.mp3" a="0" type="He" text="Is the cake less delicious than the sandwich?"/>
+		<item id="11" sound="sounds/lg5_u2_g2_11.mp3" a="1" type="He" text="Is the pizza more delicious than the fish?"/>
+		<item id="12" sound="sounds/lg5_u2_g2_12.mp3" a="0" type="He" text="Is the pizza less delicious than the fish?"/>
+		<item id="13" sound="sounds/lg5_u2_g2_13.mp3" a="1" type="He" text="Is the car more expensive than the motorcycle?"/>
+		<item id="14" sound="sounds/lg5_u2_g2_14.mp3" a="0" type="He" text="Is the car less expensive than the motorcycle?"/>
+		<item id="15" sound="sounds/lg5_u2_g2_15.mp3" a="1" type="He" text="Is the bicycle more expensive than the skateboard?"/>
+		<item id="16" sound="sounds/lg5_u2_g2_16.mp3" a="0" type="He" text="Is the bicycle less expensive than the skateboard?"/>
+	</items>
+</activity>
+

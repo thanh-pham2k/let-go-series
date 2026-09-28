@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg6_u6_r3_rubric1.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg6_u6_r3_rubric2.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg6_u6_r3_rubric3.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg6_ma_b3.mp3</done>
+		<done2 id="doneSound2">sounds/lg6_ma_b7.mp3</done2>
+	</sounds>
+	<questions>
+		<question id="0" settype="7" texts="" question1="" question2="" answers="She’s from Vietnam, isn’t she?+Yes, she is.|She’s from Vietnamese, isn’t she?+Yes, she is." picture="pictures/pic_1.swf" audio="sounds/lg6_u6_r3_1.mp3|sounds/lg6_u6_r3_2.mp3"/>
+		<question id="0" settype="7" texts="" question1="" question2="" answers="She’s Vietnamese, isn’t she?+Yes, she is.|She’s Vietnam, isn’t she?+Yes, she is." picture="pictures/pic_1.swf" audio="sounds/lg6_u6_r3_3.mp3|sounds/lg6_u6_r3_4.mp3"/>
+		<question id="1" settype="7" texts="" question1="" question2="" answers="She’s from Australia, isn’t she?+Yes, she is.|She’s from Mexico, isn’t she?+No, she isn’t." picture="pictures/pic_2.swf" audio="sounds/lg6_u6_r3_5.mp3|sounds/lg6_u6_r3_6.mp3"/>
+		<question id="1" settype="7" texts="" question1="" question2="" answers="She’s Australian, isn’t she?+Yes, she is.|She’s from Mexican, isn’t she?+No, she is." picture="pictures/pic_2.swf" audio="sounds/lg6_u6_r3_7.mp3|sounds/lg6_u6_r3_8.mp3"/>
+		<question id="2" settype="7" texts="" question1="" question2="" answers="She speaks Thai, doesn’t she?+Yes, she does.|She is Thailand, isn’t she?+Yes, she is." picture="pictures/pic_3.swf" audio="sounds/lg6_u6_r3_9.mp3|sounds/lg6_u6_r3_10.mp3"/>
+		<question id="2" settype="7" texts="" question1="" question2="" answers="She speaks Vietnamese, doesn’t she?+No, she doesn’t.|She speaks Vietnamese, isn’t she?+No, she isn’t." picture="pictures/pic_3.swf" audio="sounds/lg6_u6_r3_11.mp3|sounds/lg6_u6_r3_12.mp3"/>
+		<question id="3" settype="7" texts="" question1="" question2="" answers="He speaks Spanish, doesn’t he?+Yes, he does.|He speaks Spanish, isn’t he?+No, he isn’t." picture="pictures/pic_4.swf" audio="sounds/lg6_u6_r3_13.mp3|sounds/lg6_u6_r3_14.mp3"/>
+		<question id="3" settype="7" texts="" question1="" question2="" answers="He’s from Mexico, isn’t he?+Yes, he is.|He speaks Mexico, doesn’t he?+Yes, he does." picture="pictures/pic_4.swf" audio="sounds/lg6_u6_r3_15.mp3|sounds/lg6_u6_r3_16.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="He’s been practicing the piano+for 30 minutes.|He has practicing the piano+since 30 minutes." picture="pictures/pic_5.swf" audio="sounds/lg6_u6_r3_17.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="He’s been doing homework+since two o’clock.|He has doing homework+for two o’clock." picture="pictures/pic_6.swf" audio="sounds/lg6_u6_r3_18.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="She’s been cleaning her room+since three o’clock.|She’s been cleaned her room+for three o’clock." picture="pictures/pic_7.swf" audio="sounds/lg6_u6_r3_19.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="She’s been talking on the phone+for 15 minutes.|She’s been talking on the phone+since 15 minutes." picture="pictures/pic_8.swf" audio="sounds/lg6_u6_r3_20.mp3"/>
+	</questions>
+	<questions>
+		<question settype="2" texts="What language is spoken in Brazil?" question1="" question2="" answers="Portuguese is spoken in Brazil.|Brazilian is spoken in Brazil." picture="pictures/pic_9.swf" audio="sounds/lg6_u6_r3_21.mp3|sounds/lg6_u6_r3_22.mp3"/>
+		<question settype="2" texts="What language is spoken in France?" question1="" question2="" answers="French is spoken in France.|Croissants are spoken in France." picture="pictures/pic_10.swf" audio="sounds/lg6_u6_r3_23.mp3|sounds/lg6_u6_r3_24.mp3"/>
+		<question settype="2" texts="What language is spoken in Vietnam?" question1="" question2="" answers="Vietnamese is spoken in Vietnam.|Vietnam is spoken in Vietnamese." picture="pictures/pic_11.swf" audio="sounds/lg6_u6_r3_25.mp3|sounds/lg6_u6_r3_26.mp3"/>
+		<question settype="2" texts="What language is spoken in Mexico?" question1="" question2="" answers="Spanish is spoken in Mexico.|Mexican is spoken in Spanish." picture="pictures/pic_12.swf" audio="sounds/lg6_u6_r3_27.mp3|sounds/lg6_u6_r3_28.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He’s been practicing the piano for 30 minutes.|He’s been practicing the piano since 30 minutes." picture="pictures/pic_13.swf" audio="sounds/lg6_u6_r3_29.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="She’s been doing homework+for three and a half hours.|She’s doing homework+for three and a half hours." picture="pictures/pic_14.swf" audio="sounds/lg6_u6_r3_30.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She’s been playing soccer since noon.|She’s been playing soccer for noon." picture="pictures/pic_15.swf" audio="sounds/lg6_u6_r3_31.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He’s been visiting Hong Kong for a week.|He’s been visiting Hong Kong since the week." picture="pictures/pic_16.swf" audio="sounds/lg6_u6_r3_32.mp3"/>
+	</questions>
+	<questions>
+		<question settype="2" texts="What happened?" question1="" question2="" answers="The money was found.|The money found." picture="pictures/pic_17.swf" audio="sounds/lg6_u6_r3_33.mp3|sounds/lg6_u6_r3_34.mp3"/>
+		<question settype="2" texts="What happened?" question1="" question2="" answers="The cell phone was lost.|The cell phone was losing." picture="pictures/pic_18.swf" audio="sounds/lg6_u6_r3_35.mp3|sounds/lg6_u6_r3_36.mp3"/>
+		<question settype="2" texts="What happened?" question1="" question2="" answers="The camera was bought by Jason.|The camera was buying by Jason." picture="pictures/pic_19.swf" audio="sounds/lg6_u6_r3_37.mp3|sounds/lg6_u6_r3_38.mp3"/>
+		<question settype="2" texts="What happened?" question1="" question2="" answers="The DVD was rented by Sam.|The DVD was rent by Sam." picture="pictures/pic_20.swf" audio="sounds/lg6_u6_r3_39.mp3|sounds/lg6_u6_r3_40.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He hasn’t walked the dog yet.|He hasn’t walked the dog already." picture="pictures/pic_21.swf" audio="sounds/lg6_u6_r3_41.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She hasn’t cleaned her room yet.|She hasn’t cleaned her room already." picture="pictures/pic_22.swf" audio="sounds/lg6_u6_r3_42.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He has already fed the dog.|He hasn’t fed the dog already." picture="pictures/pic_23.swf" audio="sounds/lg6_u6_r3_43.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She hasn’t gone shopping yet.|She hasn’t gone shopping already." picture="pictures/pic_24.swf" audio="sounds/lg6_u6_r3_44.mp3"/>
+	</questions>
+</activity>

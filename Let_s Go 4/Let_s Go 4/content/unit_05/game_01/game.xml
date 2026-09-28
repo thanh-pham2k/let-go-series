@@ -1,0 +1,36 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="5" exercise="1" rubric="Make the sentences." rubricSound="lg4_u5_g1_rubric.mp3" timeout="60" finalText="1" finalAudio="lg3_ma_b4.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="soundOutOfTime" file="out_of_time.mp3" />
+		
+	</sounds>
+	<questions>
+		<quest picId="0" audio="lg4_u5_g1_1.mp3" sentenceFamily="0" sentence="He’s worried."/>
+		<quest picId="1" audio="lg4_u5_g1_2.mp3" sentenceFamily="1" sentence="He’s surprised."/>
+		<quest picId="2" audio="lg4_u5_g1_3.mp3" sentenceFamily="2" sentence="He’s interested."/>
+		<quest picId="3" audio="lg4_u5_g1_4.mp3" sentenceFamily="3" sentence="He’s excited."/>
+		<quest picId="4" audio="lg4_u5_g1_5.mp3" sentenceFamily="4" sentence="He’s bored."/>
+		<quest picId="5" audio="lg4_u5_g1_6.mp3" sentenceFamily="5" sentence="He’s embarrassed."/>
+
+		<quest picId="6" audio="lg4_u5_g1_7.mp3" sentenceFamily="0" sentence="She’s worried."/>
+		<quest picId="7" audio="lg4_u5_g1_8.mp3" sentenceFamily="1" sentence="She’s surprised."/>
+		<quest picId="8" audio="lg4_u5_g1_9.mp3" sentenceFamily="2" sentence="She’s interested."/>
+		<quest picId="9" audio="lg4_u5_g1_10.mp3" sentenceFamily="3" sentence="She’s excited."/>
+		<quest picId="10" audio="lg4_u5_g1_11.mp3" sentenceFamily="4" sentence="She’s bored."/>
+		<quest picId="11" audio="lg4_u5_g1_12.mp3" sentenceFamily="5" sentence="She’s embarrassed."/>
+		
+		<quest picId="12" audio="lg4_u5_g1_13.mp3" sentenceFamily="0" sentence="They’re worried."/>
+		<quest picId="13" audio="lg4_u5_g1_14.mp3" sentenceFamily="1" sentence="They’re surprised."/>
+		<quest picId="14" audio="lg4_u5_g1_15.mp3" sentenceFamily="2" sentence="They’re interested."/>
+		<quest picId="15" audio="lg4_u5_g1_16.mp3" sentenceFamily="3" sentence="They’re excited."/>
+		<quest picId="16" audio="lg4_u5_g1_17.mp3" sentenceFamily="4" sentence="They’re bored."/>
+		<quest picId="17" audio="lg4_u5_g1_18.mp3" sentenceFamily="5" sentence="They’re embarrassed."/>
+
+
+	</questions>
+	
+</activity>

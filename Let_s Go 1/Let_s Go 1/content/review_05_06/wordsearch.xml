@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wordsearch columns="10" rows="10" markercolor="0x0000ff" markerheight="1" saveas="wordsearch1" backwardwords="0">
+	<words selectedbackalpha="20" selectedborderalpha="80" selectedborderheight="2">
+		<element selectedcolorback="0x0000ff" selectedcolorborder="0x0000ff" word="MONDAY"/>
+		<element selectedcolorback="0x990000" selectedcolorborder="0x990000" word="TUESDAY"/>
+		<element selectedcolorback="0x006600" selectedcolorborder="0x006600" word="WEDNESDAY"/>
+		<element selectedcolorback="0xff0000" selectedcolorborder="0xff0000" word="THURSDAY"/>
+		<element selectedcolorback="0xffff00" selectedcolorborder="0xffff00" word="FRIDAY"/>
+		<element selectedcolorback="0x990099" selectedcolorborder="0x990099" word="SATURDAY"/>
+		<element selectedcolorback="0xff9933" selectedcolorborder="0xff9933" word="SUNDAY"/>
+	</words>
+</wordsearch>

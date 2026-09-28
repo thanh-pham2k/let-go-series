@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="4" exercise="1" rubricSound="lg6_u4_g1_rubric.mp3" toAsk ="6" finalAudio="lg5_ma_g3.mp3" finalAudio2="lg5_ma_g7.mp3" image="lg6_unit04_game01.swf">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		
+	</sounds>
+
+	<questions>
+		
+		<quest audio="lg6_u4_g1_1.mp3" ans="library"/>
+		<quest audio="lg6_u4_g1_2.mp3" ans="clinic"/>		
+		<quest audio="lg6_u4_g1_3.mp3" ans="factory"/>
+		<quest audio="lg6_u4_g1_4.mp3" ans="bank"/>
+		<quest audio="lg6_u4_g1_5.mp3" ans="bus station"/>
+		<quest audio="lg6_u4_g1_6.mp3" ans="bakery"/>
+
+	</questions>
+
+
+	<questions>
+		
+		<quest audio="lg6_u4_g1_7.mp3" ans="train station"/>
+		<quest audio="lg6_u4_g1_8.mp3" ans="bookstore"/>		
+		<quest audio="lg6_u4_g1_9.mp3" ans="school"/>
+		<quest audio="lg6_u4_g1_10.mp3" ans="bank"/>
+		<quest audio="lg6_u4_g1_11.mp3" ans="clinic"/>
+		<quest audio="lg6_u4_g1_12.mp3" ans="bakery"/>
+
+	</questions>
+	
+</activity>

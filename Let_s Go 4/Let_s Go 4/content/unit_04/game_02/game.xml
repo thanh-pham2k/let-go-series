@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg4_u4_g2_rubric.mp3" timeout="30" finalText="2" finalAudio="lg4_ma_g2.mp3" >
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="soundOutOfTime" file="out_of_time.mp3" />
+		
+	</sounds>
+
+	<questions>
+		
+			<quest picId="0_0" family="0" ver="0" audio="lg4_u4_g2_1.mp3" sentenceStart="The purple book bag is " answer="heavy."/>
+			<quest picId="0_1" family="0" ver="0" audio="lg4_u4_g2_2.mp3" sentenceStart="The blue book bag is " answer="heavier."/>
+			<quest picId="0_2" family="0" ver="0" audio="lg4_u4_g2_3.mp3" sentenceStart="The pink book bag is " answer="the heaviest."/>
+	
+			<quest picId="1_0" family="0" ver="1" audio="lg4_u4_g2_4.mp3" sentenceStart="The green book bag is " answer="heavy."/>
+			<quest picId="1_1" family="0" ver="1" audio="lg4_u4_g2_5.mp3" sentenceStart="The yellow book bag is " answer="heavier."/>
+			<quest picId="1_2" family="0" ver="1" audio="lg4_u4_g2_6.mp3" sentenceStart="The orange book bag is " answer="the heaviest."/>
+	
+			<quest picId="2_0" family="1" ver="0" audio="lg4_u4_g2_7.mp3" sentenceStart="The yellow pencil is " answer="long."/>
+			<quest picId="2_1" family="1" ver="0" audio="lg4_u4_g2_8.mp3" sentenceStart="The green pencil is " answer="longer."/>
+			<quest picId="2_2" family="1" ver="0" audio="lg4_u4_g2_9.mp3" sentenceStart="The red pencil is " answer="the longest."/>
+				
+			<quest picId="3_0" family="1" ver="1" audio="lg4_u4_g2_10.mp3" sentenceStart="The orange pencil is " answer="long."/>
+			<quest picId="3_1" family="1" ver="1" audio="lg4_u4_g2_11.mp3" sentenceStart="The pink pencil is " answer="longer."/>
+			<quest picId="3_2" family="1" ver="1" audio="lg4_u4_g2_12.mp3" sentenceStart="The red pencil is " answer="the longest."/>
+
+			<quest picId="4_0" family="2" ver="0" audio="lg4_u4_g2_13.mp3" sentenceStart="The grey eraser is " answer="small."/>
+			<quest picId="4_1" family="2" ver="0" audio="lg4_u4_g2_14.mp3" sentenceStart="The blue eraser is " answer="smaller."/>
+			<quest picId="4_2" family="2" ver="0" audio="lg4_u4_g2_15.mp3" sentenceStart="The pink eraser is " answer="the smallest."/>
+			
+			<quest picId="5_0" family="2" ver="1" audio="lg4_u4_g2_16.mp3" sentenceStart="The white eraser is " answer="small."/>
+			<quest picId="5_1" family="2" ver="1" audio="lg4_u4_g2_17.mp3" sentenceStart="The black eraser is " answer="smaller."/>
+			<quest picId="5_2" family="2" ver="1" audio="lg4_u4_g2_18.mp3" sentenceStart="The brown eraser is " answer="the smallest."/>
+	
+			<quest picId="6_0" family="3" ver="0" audio="lg4_u4_g2_19.mp3" sentenceStart="The red key chain is " answer="light."/>
+			<quest picId="6_1" family="3" ver="0" audio="lg4_u4_g2_20.mp3" sentenceStart="The yellow key chain is " answer="lighter."/>
+			<quest picId="6_2" family="3" ver="0" audio="lg4_u4_g2_21.mp3" sentenceStart="The blue key chain is " answer="the lightest."/>
+
+			<quest picId="7_0" family="3" ver="1" audio="lg4_u4_g2_22.mp3" sentenceStart="The purple key chain is " answer="light."/>
+			<quest picId="7_1" family="3" ver="1" audio="lg4_u4_g2_23.mp3" sentenceStart="The orange key chain is " answer="lighter."/>
+			<quest picId="7_2" family="3" ver="1" audio="lg4_u4_g2_24.mp3" sentenceStart="The green key chain is " answer="the lightest."/>
+			
+			<quest picId="8_2" family="4" ver="0" audio="lg4_u4_g2_25.mp3" sentenceStart="The grey ruler is " answer="short."/>
+			<quest picId="8_1" family="4" ver="0" audio="lg4_u4_g2_26.mp3" sentenceStart="The blue ruler is " answer="shorter."/>
+			<quest picId="8_0" family="4" ver="0" audio="lg4_u4_g2_27.mp3" sentenceStart="The yellow ruler is " answer="the shortest."/>
+			
+			<quest picId="9_0" family="4" ver="1" audio="lg4_u4_g2_28.mp3" sentenceStart="The grey ruler is " answer="short."/>
+			<quest picId="9_1" family="4" ver="1" audio="lg4_u4_g2_29.mp3" sentenceStart="The black ruler is " answer="shorter."/>
+			<quest picId="9_2" family="4" ver="1" audio="lg4_u4_g2_30.mp3" sentenceStart="The blue ruler is " answer="the shortest."/>
+			
+			<quest picId="10_0" family="5" ver="0" audio="lg4_u4_g2_31.mp3" sentenceStart="The red poster is " answer="big."/>
+			<quest picId="10_1" family="5" ver="0" audio="lg4_u4_g2_32.mp3" sentenceStart="The green poster is " answer="bigger."/>
+			<quest picId="10_2" family="5" ver="0" audio="lg4_u4_g2_33.mp3" sentenceStart="The blue poster is " answer="the biggest."/>
+
+			<quest picId="11_0" family="5" ver="1" audio="lg4_u4_g2_34.mp3" sentenceStart="The yellow poster is " answer="big."/>
+			<quest picId="11_1" family="5" ver="1" audio="lg4_u4_g2_35.mp3" sentenceStart="The brown poster is " answer="bigger."/>
+			<quest picId="11_2" family="5" ver="1" audio="lg4_u4_g2_36.mp3" sentenceStart="The grey poster is " answer="the biggest."/>
+
+	</questions>
+	
+</activity>

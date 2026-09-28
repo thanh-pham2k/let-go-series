@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="18" fontlib="1" lib="f1" wordspace="7" sentencesspace="35" addspace="19" posx="100" posy="150" select="3" strokecolor="0xFF0000" strokesize="2" shapecolor="0xFEFAE8" textWidth="1">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="intro" url="sounds/lg4_u1_g1_rubric.mp3"/>
+<sound name="goodjob" url="sounds/lg5_ma_b1.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id ="0" anim="swf/anim1.swf" sound="sounds/lg4_u1_g1_1.mp3">
+			<answer txt="What’s the date|null|?" gender="g" name="today" dis="yesterday|tomorrow" good="1"/>
+			<answer txt="It’s the|null|. " gender="b" name="21st" dis="1st|31st" good="0"/>
+			<answer txt="Oh!|null|my aunt’s birthday. " gender="g" name="Today's" dis="Yesterday's|Tomorrow's" good="2"/>
+			<answer txt="Really? Yesterday was|null|." gender="b" name="my father's birthday" dis="my birthday|my mother's birthday" good="1"/>
+			<answer txt="When's your birthday?" gender="g" name="null" dis="null"  good="null"/>
+			<answer txt="It’s on August 3rd. When is your birthday? " gender="b" name="August 3rd" dis="August 13th|August 30th" good="1"/>
+			<answer txt="My birthday was|null|. " gender="g" name="3 weeks ago" dis="3 days ago|3 months ago" good="2"/>
+			<answer txt="I didn’t know that! Happy birthday!" gender="b" name="null" dis="null" good="null"/>
+		</paragraph>
+		<paragraph id ="1" anim="swf/anim2.swf" sound="sounds/lg4_u1_g1_2.mp3">
+			<answer txt="What’s the date|null|?" gender="g" name="today" dis="yesterday|tomorrow" good="0"/>
+			<answer txt="It’s the|null|. " gender="b" name="10th" dis="1st|11th" good="1"/>
+			<answer txt="Oh!|null|was my cousin’s birthday. " gender="g" name="Yesterday" dis="Last week|Today" good="1"/>
+			<answer txt="Really? Yesterday was|null|." gender="b" name="my mother's birthday" dis="my cousin's birthday|my birthday" good="2"/>
+			<answer txt="When is your birthday?" gender="g" name="null" dis="null" good="null"/>
+			<answer txt="It’s on January|null|. When’s your birthday? " gender="b" name="11th" dis="10th|21st" good="0"/>
+			<answer txt="My birthday was|null|. " gender="g" name="6 months ago" dis="6 days ago|6 weeks ago" good="2"/>
+			<answer txt="I didn’t know that! Happy birthday!" gender="b" name="null" dis="null" good="null"/>
+		</paragraph>
+
+		<paragraph id ="2" anim="swf/anim3.swf" sound="sounds/lg4_u1_g1_3.mp3">
+			<answer txt="What’s the date|null|? " gender="b" name="today" dis="yesterday|tomorrow" good="2"/>
+			<answer txt="It’s the|null|." gender="g" name="17th" dis="7th|27th" good="0"/>			
+			<answer txt="Oh!|null|my sister’s birthday." gender="b" name="Tomorrow's" dis="Yesterday's|Today's" good="1"/>
+			<answer txt="Really? Yesterday was|null|." gender="g" name="my brother's birthday" dis="my sister's birthday|my mother's birthday" good="0"/>
+			<answer txt="When is your birthday?" gender="b" name="null" dis="null" good="null"/>
+			<answer txt="It’s on|null|. When’s your birthday? " gender="g" name="March 25th" dis="March 5th|May 25th" good="1"/>
+			<answer txt="My birthday is|null|." gender="b" name="next week" dis="last week|this week" good="2"/>
+			<answer txt="I didn’t know that! Happy birthday!" gender="g" name="null" dis="null" good="null"/>
+		</paragraph>
+	</paragraphs>
+</activity>

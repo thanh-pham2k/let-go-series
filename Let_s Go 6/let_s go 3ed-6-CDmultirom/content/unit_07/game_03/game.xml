@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="7" exercise="3" rubricSound="lg6_u7_g3_rubric.mp3" pic="lg6_unit07_game03">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="whatAmI" file="lg6_u7_g3_1.mp3"/>
+		
+	</sounds>
+
+	<questions audio0="lg6_u7_g3_2.mp3"  audio1="lg6_u7_g3_3.mp3"  audio2="lg6_u7_g3_4.mp3" ans0="You are generally shy, and like listening to other people" ans1="You are generally outgoing, and like talking to other people." ans2="You are generally athletic, and like doing things with other people." >
+		
+		<quest txt="1. There is a new student in your class. What will you do?" a0="a. Introduce the student to my friends." a1="b. Ask the student to join my sports team." a2="c. Listen to everything the student says."/>
+		<quest txt="2. What do you like to do in your free time?" a0="a. Go out with a lot of friends." a1="b. Be outside and play sports." a2="c. Stay home and read or listen to music."/>
+		<quest txt="3. What’s your idea of a perfect party?" a0="a. A big party at a restaurant." a1="b. A party at a roller skating rink." a2="c. A small party at home with three or four friends."/>
+		<quest txt="4. What do you like best about school?" a0="a. Seeing and talking to my friends." a1="b. Playing sports." a2="c. Learning new things and listening to my classmates."/>
+
+	</questions>
+	
+	<questions  audio0="lg6_u7_g3_5.mp3"  audio1="lg6_u7_g3_6.mp3"  audio2="lg6_u7_g3_7.mp3" ans0="You are generally shy, and like to do things by yourself." ans1="You are generally outgoing, and like talking to other people." ans2="You are generally athletic, and like doing things with other people.">
+
+		<quest txt="1. You have to go to a new school. What will you do?" a0="a. Be quiet. Listen to what everyone has to say." a1="b. Introduce myself. Talk to everyone I can." a2="c. Join a sports team."/> 
+		<quest txt="2. What do you like to do in your free time?" a0="a. Watch movies or surf the Internet." a1="b. Talk on the phone or go to a friend’s house." a2="c. Go to the park with friends."/>
+		<quest txt="3. What’s your idea of a perfect day?" a0="a. Going to a movie or a museum or listening to music." a1="b. Having a big party with a lot of friends." a2="c. Playing sports outside."/>
+		<quest txt="4. What do you like best about school?" a0="a. Learning new things and getting good grades." a1="b. Seeing my friends." a2="c. When our team wins."/>
+
+
+	</questions>
+	
+</activity>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="2" mcrubric="Listen and answer." finalText="3" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lb_u3_g2_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lb_ma_b3.mp3]]></sound>
+		
+		<sound id="yesHe"><![CDATA[sounds/lb_u3_g2_9.mp3]]></sound>
+		<sound id="yesShe"><![CDATA[sounds/lb_u3_g2_9.mp3]]></sound>
+		<sound id="yesThey"><![CDATA[sounds/lb_u3_g2_9.mp3]]></sound>
+		
+		<sound id="noHe"><![CDATA[sounds/lb_u3_g2_10.mp3]]></sound>
+		<sound id="noShe"><![CDATA[sounds/lb_u3_g2_10.mp3]]></sound>
+		<sound id="noThey"><![CDATA[sounds/lb_u3_g2_10.mp3]]></sound>
+		
+	</sounds>
+	<items id="items">
+		<item id="1" sound="sounds/lb_u3_g2_8.mp3" type="He" text="Is it an oval?"/>
+		<item id="2" sound="sounds/lb_u3_g2_5.mp3" type="He" text="Is it a star?"/>
+		<item id="3" sound="sounds/lb_u3_g2_1.mp3" type="He" text="Is it a circle?"/>
+		<item id="4" sound="sounds/lb_u3_g2_7.mp3" type="He" text="Is it a diamond?"/>
+		<item id="5" sound="sounds/lb_u3_g2_3.mp3" type="She" text="Is it a triangle?"/>
+		<item id="6" sound="sounds/lb_u3_g2_6.mp3" type="She" text="Is it a rectangle?"/>
+		<item id="7" sound="sounds/lb_u3_g2_2.mp3" type="She" text="Is it a square?"/>
+		<item id="8" sound="sounds/lb_u3_g2_4.mp3" type="She" text="Is it a heart?"/>
+		
+	</items>
+</activity>
+

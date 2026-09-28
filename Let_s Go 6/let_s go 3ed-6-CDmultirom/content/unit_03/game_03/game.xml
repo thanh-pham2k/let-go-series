@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="3" exercise="3" rubricSound="lg6_u3_g3_rubric.mp3" finalSnd1="lg5_ma_g6.mp3" finalSnd2="lg5_ma_g7.mp3" endSnd1="lg6_u3_g3_1.mp3" endSnd2="lg6_u3_g3_2.mp3">
+
+	<sounds>
+		
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+	</sounds>
+	<questions p="Hi Mark!" sentence="Here’s our plan for Mom’s birthday |. Annie and I | turn off her alarm clock. She will | to sleep late. Then | make her breakfast. Next, | take her |. In the afternoon, we’ll | her to a movie. Finally, we’ll bring her to the restaurant. I’ll call you | we leave the movie. | Mom | into the restaurant, you | stand up and yell, “Surprise!” She | know | coming home from college. See you tomorrow! Beth">
+		<quest len="tomorrowz" picId="0" audio="lg5_u5_r3_1.mp3" varx="142" vary="201" ans="tomorrow" opt1="yesterday" opt2="last week"/>
+		<quest len="won’t" picId="1" audio="lg5_u5_r3_2.mp3" varx="144" vary="235" ans="will" opt1="won’t" opt2="would"/>
+		<quest len="be able" picId="2" audio="lg5_u5_r3_3.mp3" varx="120" vary="269" ans="be able" opt1="able" opt2="won’t"/>
+		<quest len="we’ll" picId="3" audio="lg5_u5_r3_4.mp3" varx="295" vary="269" ans="we'll" opt1="we" opt2="she"/>
+		<quest len="we won’t" picId="4" audio="lg5_u5_r3_5.mp3" varx="91" vary="303" ans="we’ll" opt1="you’ll" opt2="we won’t"/>
+		<quest len="shopping" picId="5" audio="lg5_u5_r3_6.mp3" varx="254" vary="303" ans="shopping" opt1="shop" opt2="movie"/>
+		<quest len="takez" picId="6" audio="lg5_u5_r3_7.mp3" varx="98" vary="339" ans="take" opt1="going" opt2="went"/>
+		<quest len="when" picId="7" audio="lg5_u5_r3_8.mp3" varx="48" vary="373" ans="when" opt1="how" opt2="what"/>
+		<quest len="Whenz" picId="8" audio="lg5_u5_r3_8.mp3" varx="75" vary="373" ans="When" opt1="At" opt2="Would"/>
+		<quest len="walking" picId="9" audio="lg5_u5_r3_8.mp3" varx="99" vary="373" ans="walks" opt1="walked" opt2="walking"/>
+		<quest len="should" picId="10" audio="lg5_u5_r3_8.mp3" varx="109" vary="373" ans="should" opt1="would" opt2="can’t"/>
+		<quest len="doesn’t" picId="11" audio="lg5_u5_r3_8.mp3" varx="122" vary="373" ans="doesn’t" opt1="do not" opt2="do"/>
+		<quest len="you will" picId="12" audio="lg5_u5_r3_8.mp3" varx="144" vary="373" ans="you’re" opt1="you will" opt2="you"/>
+		
+	</questions>
+	<questions p="Hi Katie," sentence="Here’s our plan for Dad’s birthday |. On Saturday, Kevin and I will | his alarm clock. He will | to sleep late. Then, we’ll make breakfast |. Next, | take him to a baseball game. We’ll | a ticket for Mom, too. Finally, we’ll bring |  to his favorite restaurant. I’ll call you | we leave the game. You | be there before us.  | Dad walks into the restaurant, you | stand up and |, “Surprise!” He doesn’t | you’re coming home from college. See you next month! Keith">
+		<quest len="next month" picId="0" audio="lg5_u5_r3_1.mp3" varx="75" vary="201" ans="next month" opt1="yesterday" opt2="last year"/>
+		<quest len="turn off" picId="1" audio="lg5_u5_r3_2.mp3" varx="75" vary="235" ans="turn off" opt1="turn" opt2="turn on"/>
+		<quest len="be able" picId="2" audio="lg5_u5_r3_3.mp3" varx="545" vary="235" ans="be able" opt1="able" opt2="be"/>
+		<quest len="for him" picId="3" audio="lg5_u5_r3_4.mp3" varx="103" vary="303" ans="for him" opt1="to him" opt2="for his"/>
+		<quest len="we wont't" picId="4" audio="lg5_u5_r3_5.mp3" varx="120" vary="339" ans="we’ll" opt1="you’ll" opt2="we won't"/>
+		<quest len="bought" picId="5" audio="lg5_u5_r3_6.mp3" varx="310" vary="339" ans="get" opt1="got" opt2="bought"/>
+		<quest len="him" picId="6" audio="lg5_u5_r3_7.mp3" varx="47" vary="373" ans="him" opt1="his" opt2="us"/>
+		<quest len="when" picId="7" audio="lg5_u5_r3_8.mp3" varx="93" vary="407" ans="when" opt1="how" opt2="what"/>
+		<quest len="should" picId="8" audio="lg5_u5_r3_8.mp3" varx="110" vary="427" ans="should" opt1="could" opt2="couldn't"/>
+		<quest len="When" picId="9" audio="lg5_u5_r3_8.mp3" varx="130" vary="447" ans="When" opt1="At" opt2="Would"/>
+		<quest len="should" picId="10" audio="lg5_u5_r3_8.mp3" varx="150" vary="467" ans="should" opt1="would" opt2="can't"/>
+		<quest len="yell" picId="11" audio="lg5_u5_r3_8.mp3" varx="170" vary="487" ans="yell" opt1="says" opt2="yelling"/>
+		<quest len="be able to" picId="12" audio="lg5_u5_r3_8.mp3" varx="190" vary="507" ans="know" opt1="knew" opt2="be able to"/>
+	</questions>
+</activity>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="Review 3-4" exercise="" rubric="Listen and choose." finalText="5" finalTimeout="1">
+	<sounds>
+		<good id="rubricSound"><![CDATA[sounds/lg1_u4_r2_rubric.mp3]]></good>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_g4.mp3]]></done>
+		<over id="overSound"><![CDATA[sounds/Notryagain.mp3]]></over>
+	</sounds>
+	<target id="target"><![CDATA[swf/alien.swf]]></target>
+	<targets id="targets">
+		<target id="0" name="part_0" order="0" connectedTargetId="2">
+			<part>
+				<image><![CDATA[swf/match/1arm.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_8.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2arms.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_17.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3arms.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_26.mp3]]></sound>
+			</part>
+
+		</target>
+		<target id="1" name="part_1" order="4">
+			<part>
+				<image><![CDATA[swf/match/1eye.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_1.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2eyes.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_10.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3eyes.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_19.mp3]]></sound>
+			</part>
+		</target>
+		<target id="2" name="part_2" order="1">
+			<part>
+				<image><![CDATA[swf/match/1hand.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_5.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2hands.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_14.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3hands.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_23.mp3]]></sound>
+			</part>
+		</target>
+		<target id="3" name="part_3" order="0" connectedTargetId="6">
+			<part>
+				<image><![CDATA[swf/match/1leg.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_9.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2legs.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_18.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3legs.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_27.mp3]]></sound>
+			</part>
+		</target>
+		<target id="4" name="part_4" order="1">
+			<part>
+				<image><![CDATA[swf/match/1mouth.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_3.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2mouths.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_12.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3mouths.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_21.mp3]]></sound>
+			</part>
+		</target>
+		<target id="5" name="part_5" order="3">
+			<part>
+				<image><![CDATA[swf/match/1nose.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_2.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2noses.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_11.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3noses.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_20.mp3]]></sound>
+			</part>
+		</target>
+		<target id="6" name="part_6" order="1">
+			<part>
+				<image><![CDATA[swf/match/1sole.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_6.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2soles.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_15.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3soles.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_24.mp3]]></sound>
+			</part>
+		</target>
+		<target id="7" name="part_7" order="0">
+			<part>
+				<image><![CDATA[swf/match/1head.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_7.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2heads.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_16.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3heads.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_25.mp3]]></sound>
+			</part>
+		</target>
+		<target id="8" name="part_8" order="1">
+			<part>
+				<image><![CDATA[swf/match/1ear.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_4.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/2ears.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_13.mp3]]></sound>
+			</part>
+			<part>
+				<image><![CDATA[swf/match/3ears.swf]]></image>
+				<sound><![CDATA[sounds/match/lg1_u4_r2_22.mp3]]></sound>
+			</part>
+		</target>
+	</targets>
+</activity>

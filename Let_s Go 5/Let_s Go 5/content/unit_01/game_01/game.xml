@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="1" exercise="1" rubric="Listen and choose. " finalText="3" timer="20" finalAudio="lg5_ma_g2.mp3" finalAudio2="lg5_ma_b7.mp3" rubricSound="lg5_u1_g1_rubric.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" image="item_01.swf" audio="lg5_u1_g1_1.mp3" />
+		<quest id="1" image="item_02.swf" audio="lg5_u1_g1_2.mp3" />
+		<quest id="2" image="item_03.swf" audio="lg5_u1_g1_3.mp3" />
+		<quest id="3" image="item_04.swf" audio="lg5_u1_g1_4.mp3" />
+		<quest id="4" image="item_05.swf" audio="lg5_u1_g1_5.mp3" />
+		<quest id="5" image="item_06.swf" audio="lg5_u1_g1_6.mp3" />
+		<quest id="6" image="item_07.swf" audio="lg5_u1_g1_7.mp3" />
+		<quest id="7" image="item_08.swf" audio="lg5_u1_g1_8.mp3" />
+		<quest id="8" image="item_09.swf" audio="lg5_u1_g1_9.mp3" />
+		<quest id="9" image="item_10.swf" audio="lg5_u1_g1_10.mp3" />
+		<quest id="10" image="item_11.swf" audio="lg5_u1_g1_11.mp3" />
+		<quest id="11" image="item_12.swf" audio="lg5_u1_g1_12.mp3" />
+		<quest id="12" image="item_13.swf" audio="lg5_u1_g1_13.mp3" />
+		<quest id="13" image="item_14.swf" audio="lg5_u1_g1_14.mp3" />		
+		<quest id="14" image="item_15.swf" audio="lg5_u1_g1_15.mp3" />
+		<quest id="15" image="item_16.swf" audio="lg5_u1_g1_16.mp3" />	
+		<quest id="16" image="item_17.swf" audio="lg5_u1_g1_17.mp3" />
+		<quest id="17" image="item_18.swf" audio="lg5_u1_g1_18.mp3" />
+		<quest id="18" image="item_19.swf" audio="lg5_u1_g1_19.mp3" />
+		<quest id="19" image="item_20.swf" audio="lg5_u1_g1_20.mp3" />		
+		<quest id="20" image="item_21.swf" audio="lg5_u1_g1_21.mp3" />
+		<quest id="21" image="item_22.swf" audio="lg5_u1_g1_22.mp3" />	
+		<quest id="22" image="item_23.swf" audio="lg5_u1_g1_23.mp3" />		
+		<quest id="23" image="item_24.swf" audio="lg5_u1_g1_24.mp3" />
+		
+
+	
+	</questions>
+</activity>

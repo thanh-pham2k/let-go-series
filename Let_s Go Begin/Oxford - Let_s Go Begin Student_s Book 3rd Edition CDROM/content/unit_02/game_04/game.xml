@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UtF-8"?>
+<game MAX_QUESTIONS = "5" unit="2" exercise="4" rubric="Listen and match." finalText="5" finalTimeout="1" doneSound="sounds/lb_ma_b1.mp3" >
+	<sounds>
+		<rubric id="rubricSound" audio = "lb_u2_g4_rubric.mp3"></rubric>
+	</sounds>
+	<questions>
+		<question text="It's a blue bicycle." audio="lb_u2_g4_2.mp3" answerColor = "blue" answerItem = "bicycle"/>
+		<question text="It's a green bicycle." audio="lb_u2_g4_3.mp3" answerColor = "green" answerItem = "bicycle"/>
+		<question text="It's a red bicycle." audio="lb_u2_g4_4.mp3" answerColor = "red" answerItem = "bicycle"/>
+		<question text="It's a pink jump rope." audio="lb_u2_g4_5.mp3" answerColor = "pink" answerItem = "rope"/>
+		<question text="It's a purple jump rope." audio="lb_u2_g4_6.mp3" answerColor = "purple" answerItem = "rope"/>
+		<question text="It's a yellow jump rope." audio="lb_u2_g4_7.mp3" answerColor = "yellow" answerItem = "rope"/>
+		<question text="It's an orange yo-yo." audio="lb_u2_g4_8.mp3" answerColor = "orange" answerItem = "yo-yo"/>
+		<question text="It's a yellow yo-yo." audio="lb_u2_g4_9.mp3" answerColor = "yellow" answerItem = "yo-yo"/>
+		<question text="It's a purple yo-yo." audio="lb_u2_g4_10.mp3" answerColor = "purple" answerItem = "yo-yo"/>
+		<question text="It's a blue ball." audio="lb_u2_g4_11.mp3" answerColor = "blue" answerItem = "ball"/>
+		<question text="It's a red ball." audio="lb_u2_g4_12.mp3" answerColor = "red" answerItem = "ball"/>
+		<question text="It's a green ball." audio="lb_u2_g4_13.mp3" answerColor = "green" answerItem = "ball"/>
+		<question text="It's a green train." audio="lb_u2_g4_14.mp3" answerColor = "green" answerItem = "train"/>
+		<question text="It's a brown train." audio="lb_u2_g4_15.mp3" answerColor = "brown" answerItem = "train"/>
+		<question text="It's a black train." audio="lb_u2_g4_16.mp3" answerColor = "black" answerItem = "train"/>
+		<question text="It's a black car." audio="lb_u2_g4_17.mp3" answerColor = "black" answerItem = "car"/>
+		<question text="It's a white car." audio="lb_u2_g4_18.mp3" answerColor = "white" answerItem = "car"/>
+		<question text="It's a red car." audio="lb_u2_g4_19.mp3" answerColor = "red" answerItem = "car"/>
+		<question text="It's a pink doll." audio="lb_u2_g4_20.mp3" answerColor = "pink" answerItem = "doll"/>
+		<question text="It's an orange doll." audio="lb_u2_g4_21.mp3" answerColor = "orange" answerItem = "doll"/>
+		<question text="It's a purple doll." audio="lb_u2_g4_22.mp3" answerColor = "purple" answerItem = "doll"/>
+		<question text="It's a brown teddy bear." audio="lb_u2_g4_23.mp3" answerColor = "brown" answerItem = "bear"/>
+		<question text="It's a black teddy bear." audio="lb_u2_g4_24.mp3" answerColor = "black" answerItem = "bear"/>
+		<question text="It's a white teddy bear." audio="lb_u2_g4_25.mp3" answerColor = "white" answerItem = "bear"/>
+	</questions>
+	<audios>
+		<audio text="red" audio="lb_u2_g4_26.mp3"/>
+		<audio text="blue" audio="lb_u2_g4_27.mp3"/>
+		<audio text="yellow" audio="lb_u2_g4_28.mp3"/>
+		<audio text="green" audio="lb_u2_g4_29.mp3"/>
+		<audio text="brown" audio="lb_u2_g4_30.mp3"/>
+		<audio text="purple" audio="lb_u2_g4_31.mp3"/>
+		<audio text="orange" audio="lb_u2_g4_32.mp3"/>
+		<audio text="black" audio="lb_u2_g4_33.mp3"/>
+		<audio text="white" audio="lb_u2_g4_34.mp3"/>
+		<audio text="pink" audio="lb_u2_g4_35.mp3"/>
+		<audio text="bicycle" audio="lb_u2_g4_36.mp3"/>
+		<audio text="rope" audio="lb_u2_g4_37.mp3"/>
+		<audio text="yo-yo" audio="lb_u2_g4_38.mp3"/>
+		<audio text="ball" audio="lb_u2_g4_39.mp3"/>
+		<audio text="train" audio="lb_u2_g4_40.mp3"/>
+		<audio text="car" audio="lb_u2_g4_41.mp3"/>
+		<audio text="doll" audio="lb_u2_g4_42.mp3"/>
+		<audio text="bear" audio="lb_u2_g4_43.mp3"/>
+	</audios>
+</game>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="6" exercise="3" rubric="Listen and choose." rubricMc="mcRubric" timeout="120" finalTimeout="1" finalText="6">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u6_g3_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_g6.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<scenes id="scenes">
+		<scene id="0">
+			<item id="0" sound="sounds/lg2_u3_g3_1.mp3"/>
+			<item id="1" sound="sounds/lg2_u3_g3_2.mp3" />
+			<item id="2" sound="sounds/lg2_u3_g3_3.mp3" />
+			<item id="3" sound="sounds/lg2_u3_g3_4.mp3" />
+			<item id="4" sound="sounds/lg2_u3_g3_5.mp3" />
+			<item id="5" sound="sounds/lg2_u3_g3_6.mp3" />
+			<item id="6" sound="sounds/lg2_u3_g3_6.mp3" />
+			<item id="7" sound="sounds/lg2_u3_g3_6.mp3" />
+			<item id="8" sound="sounds/lg2_u3_g3_6.mp3" />
+		</scene>
+	</scenes>
+</activity>
+

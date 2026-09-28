@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="Unit 2" exercise="1" rubric="Listen and choose." rubricMc="mcRubric" finalText="4" timeout="45" finalTimeout="3">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u2_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_b4.mp3]]></done>
+		<questionsound id="questionsound_0" text="Where’s the art room?"><![CDATA[sounds/lg3_u2_g1_1.mp3]]></questionsound>
+		<questionsound id="questionsound_1" text="Where’s the music room?"><![CDATA[sounds/lg3_u2_g1_2.mp3]]></questionsound>
+		<questionsound id="questionsound_2" text="Where’s the office?"><![CDATA[sounds/lg3_u2_g1_3.mp3]]></questionsound>
+		<questionsound id="questionsound_3" text="Where’s the gym?"><![CDATA[sounds/lg3_u2_g1_4.mp3]]></questionsound>
+		<questionsound id="questionsound_4" text="Where’s the classroom?"><![CDATA[sounds/lg3_u2_g1_5.mp3]]></questionsound>
+		<questionsound id="questionsound_5" text="Where’s the lunchroom?"><![CDATA[sounds/lg3_u2_g1_6.mp3]]></questionsound>
+		<questionsound id="questionsound_6" text="Where’s the science room?"><![CDATA[sounds/lg3_u2_g1_32.mp3]]></questionsound> 
+		<questionsound id="questionsound_7" text="Where’s the library?"><![CDATA[sounds/lg3_u2_g1_33.mp3]]></questionsound>
+		<gameaudio_0_0_0 id="gameaudio_0_0_0"><![CDATA[sounds/lg3_u2_g1_8.mp3]]></gameaudio_0_0_0>
+		<gameaudio_0_0_1 id="gameaudio_0_0_1"><![CDATA[sounds/lg3_u2_g1_16.mp3]]></gameaudio_0_0_1>
+		<gameaudio_0_0_2 id="gameaudio_0_0_2"><![CDATA[sounds/lg3_u2_g1_25.mp3]]></gameaudio_0_0_2>
+		<gameaudio_0_0_3 id="gameaudio_0_0_3"><![CDATA[sounds/lg3_u2_g1_18.mp3]]></gameaudio_0_0_3>
+		<gameaudio_0_0_4 id="gameaudio_0_0_4"><![CDATA[sounds/lg3_u2_g1_17.mp3]]></gameaudio_0_0_4>
+		<gameaudio_0_0_5 id="gameaudio_0_0_5"><![CDATA[sounds/lg3_u2_g1_7.mp3]]></gameaudio_0_0_5>
+		<gameaudio_0_1_0 id="gameaudio_0_1_0"><![CDATA[sounds/lg3_u2_g1_16.mp3]]></gameaudio_0_1_0>
+		<gameaudio_0_1_1 id="gameaudio_0_1_1"><![CDATA[sounds/lg3_u2_g1_18.mp3]]></gameaudio_0_1_1>
+		<gameaudio_0_1_2 id="gameaudio_0_1_2"><![CDATA[sounds/lg3_u2_g1_17.mp3]]></gameaudio_0_1_2>
+		<gameaudio_0_1_3 id="gameaudio_0_1_3"><![CDATA[sounds/lg3_u2_g1_26.mp3]]></gameaudio_0_1_3>
+		<gameaudio_0_1_4 id="gameaudio_0_1_4"><![CDATA[sounds/lg3_u2_g1_19.mp3]]></gameaudio_0_1_4>
+		<gameaudio_0_1_5 id="gameaudio_0_1_5"><![CDATA[sounds/lg3_u2_g1_7.mp3]]></gameaudio_0_1_5>
+		<gameaudio_0_2_0 id="gameaudio_0_2_0"><![CDATA[sounds/lg3_u2_g1_24.mp3]]></gameaudio_0_2_0>
+		<gameaudio_0_2_1 id="gameaudio_0_2_1"><![CDATA[sounds/lg3_u2_g1_19.mp3]]></gameaudio_0_2_1>
+		<gameaudio_0_2_2 id="gameaudio_0_2_2"><![CDATA[sounds/lg3_u2_g1_28.mp3]]></gameaudio_0_2_2>
+		<gameaudio_0_2_3 id="gameaudio_0_2_3"><![CDATA[sounds/lg3_u2_g1_29.mp3]]></gameaudio_0_2_3>
+		<gameaudio_0_2_4 id="gameaudio_0_2_4"><![CDATA[sounds/lg3_u2_g1_30.mp3]]></gameaudio_0_2_4>
+		<gameaudio_0_2_5 id="gameaudio_0_2_5"><![CDATA[sounds/lg3_u2_g1_9.mp3]]></gameaudio_0_2_5>
+		
+		<gameaudio_1_0_0 id="gameaudio_1_0_0"><![CDATA[sounds/lg3_u2_g1_18.mp3]]></gameaudio_1_0_0>
+		<gameaudio_1_0_1 id="gameaudio_1_0_1"><![CDATA[sounds/lg3_u2_g1_31.mp3]]></gameaudio_1_0_1>
+		<gameaudio_1_0_2 id="gameaudio_1_0_2"><![CDATA[sounds/lg3_u2_g1_21.mp3]]></gameaudio_1_0_2>
+		<gameaudio_1_0_3 id="gameaudio_1_0_3"><![CDATA[sounds/lg3_u2_g1_22.mp3]]></gameaudio_1_0_3>
+		<gameaudio_1_0_4 id="gameaudio_1_0_4"><![CDATA[sounds/lg3_u2_g1_23.mp3]]></gameaudio_1_0_4>
+		<gameaudio_1_0_5 id="gameaudio_1_0_5"><![CDATA[sounds/lg3_u2_g1_10.mp3]]></gameaudio_1_0_5>
+		<gameaudio_1_1_0 id="gameaudio_1_1_0"><![CDATA[sounds/lg3_u2_g1_18.mp3]]></gameaudio_1_1_0>
+		<gameaudio_1_1_1 id="gameaudio_1_1_1"><![CDATA[sounds/lg3_u2_g1_23.mp3]]></gameaudio_1_1_1>
+		<gameaudio_1_1_2 id="gameaudio_1_1_2"><![CDATA[sounds/lg3_u2_g1_24.mp3]]></gameaudio_1_1_2>
+		<gameaudio_1_1_3 id="gameaudio_1_1_3"><![CDATA[sounds/lg3_u2_g1_11.mp3]]></gameaudio_1_1_3>
+		<gameaudio_1_1_4 id="gameaudio_1_1_4"><![CDATA[sounds/lg3_u2_g1_25.mp3]]></gameaudio_1_1_4>
+		<gameaudio_1_1_5 id="gameaudio_1_1_5"><![CDATA[sounds/lg3_u2_g1_12.mp3]]></gameaudio_1_1_5>
+		<gameaudio_1_2_0 id="gameaudio_1_2_0"><![CDATA[sounds/lg3_u2_g1_18.mp3]]></gameaudio_1_2_0>
+		<gameaudio_1_2_1 id="gameaudio_1_2_1"><![CDATA[sounds/lg3_u2_g1_31.mp3]]></gameaudio_1_2_1>
+		<gameaudio_1_2_2 id="gameaudio_1_2_2"><![CDATA[sounds/lg3_u2_g1_23.mp3]]></gameaudio_1_2_2>
+		<gameaudio_1_2_3 id="gameaudio_1_2_3"><![CDATA[sounds/lg3_u2_g1_24.mp3]]></gameaudio_1_2_3>
+		<gameaudio_1_2_4 id="gameaudio_1_2_4"><![CDATA[sounds/lg3_u2_g1_25.mp3]]></gameaudio_1_2_4>
+		<gameaudio_1_2_5 id="gameaudio_1_2_5"><![CDATA[sounds/lg3_u2_g1_27.mp3]]></gameaudio_1_2_5>
+		
+		<gameaudio_2_0_0 id="gameaudio_2_0_0"><![CDATA[sounds/lg3_u2_g1_13.mp3]]></gameaudio_2_0_0>
+		<gameaudio_2_0_1 id="gameaudio_2_0_1"><![CDATA[sounds/lg3_u2_g1_26.mp3]]></gameaudio_2_0_1>
+		<gameaudio_2_0_2 id="gameaudio_2_0_2"><![CDATA[sounds/lg3_u2_g1_31.mp3]]></gameaudio_2_0_2>
+		<gameaudio_2_0_3 id="gameaudio_2_0_3"><![CDATA[sounds/lg3_u2_g1_24.mp3]]></gameaudio_2_0_3>
+		<gameaudio_2_0_4 id="gameaudio_2_0_4"><![CDATA[sounds/lg3_u2_g1_21.mp3]]></gameaudio_2_0_4>
+		<gameaudio_2_0_5 id="gameaudio_2_0_5"><![CDATA[sounds/lg3_u2_g1_14.mp3]]></gameaudio_2_0_5>
+		<gameaudio_2_1_0 id="gameaudio_2_1_0"><![CDATA[sounds/lg3_u2_g1_30.mp3]]></gameaudio_2_1_0>
+		<gameaudio_2_1_1 id="gameaudio_2_1_1"><![CDATA[sounds/lg3_u2_g1_25.mp3]]></gameaudio_2_1_1>
+		<gameaudio_2_1_2 id="gameaudio_2_1_2"><![CDATA[sounds/lg3_u2_g1_17.mp3]]></gameaudio_2_1_2>
+		<gameaudio_2_1_3 id="gameaudio_2_1_3"><![CDATA[sounds/lg3_u2_g1_20.mp3]]></gameaudio_2_1_3>
+		<gameaudio_2_1_4 id="gameaudio_2_1_4"><![CDATA[sounds/lg3_u2_g1_15.mp3]]></gameaudio_2_1_4>
+		<gameaudio_2_1_5 id="gameaudio_2_1_5"><![CDATA[sounds/lg3_u2_g1_13.mp3]]></gameaudio_2_1_5>
+		<gameaudio_2_2_0 id="gameaudio_2_2_0"><![CDATA[sounds/lg3_u2_g1_31.mp3]]></gameaudio_2_2_0>
+		<gameaudio_2_2_1 id="gameaudio_2_2_1"><![CDATA[sounds/lg3_u2_g1_24.mp3]]></gameaudio_2_2_1>
+		<gameaudio_2_2_2 id="gameaudio_2_2_2"><![CDATA[sounds/lg3_u2_g1_21.mp3]]></gameaudio_2_2_2>
+		<gameaudio_2_2_3 id="gameaudio_2_2_3"><![CDATA[sounds/lg3_u2_g1_14.mp3]]></gameaudio_2_2_3>
+		<gameaudio_2_2_4 id="gameaudio_2_2_4"><![CDATA[sounds/lg3_u2_g1_13.mp3]]></gameaudio_2_2_4>
+		<gameaudio_2_2_5 id="gameaudio_2_2_5"><![CDATA[sounds/lg3_u2_g1_26.mp3]]></gameaudio_2_2_5>
+		
+	</sounds>
+
+</activity>
+

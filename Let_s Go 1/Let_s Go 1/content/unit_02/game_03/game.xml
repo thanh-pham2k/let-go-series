@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="color" unit="2" exercise="3" goodSound="sounds/good.mp3" wrongSound="sounds/bad.mp3" doneSound="sounds/lg1_ma_b5.mp3" rubricSound="sounds/lg1_u2_g3_rubric.mp3" finalText="5">
+	<image src="images/image.swf" x="30" y="77">
+		<part name="part_00" color="0x41FE02" sound="sounds/lg1_u2_g3_1.mp3" />
+		<part name="part_01" color="0x96DFFE" sound="sounds/lg1_u2_g3_2.mp3" />
+		<part name="part_02" color="0x000000" sound="sounds/lg1_u2_g3_3.mp3" />
+		<part name="part_03" color="0xFFF301" sound="sounds/lg1_u2_g3_4.mp3" />
+		<part name="part_04" color="0xFF011B" sound="sounds/lg1_u2_g3_5.mp3" />
+		<part name="part_05" color="0xFFFFFF" sound="sounds/lg1_u2_g3_9.mp3" />
+	</image>
+	<colors>
+		<color x="140" y="448" value="0xFFFFFF" sound="sounds/lg1_u2_g2_10.mp3" />
+		<color x="224" y="448" value="0x000000" sound="sounds/lg1_u2_g2_9.mp3" />
+		<color x="308" y="448" value="0xFFF301" sound="sounds/lg1_u2_g2_1.mp3" />
+		<color x="392" y="448" value="0xFF011B" sound="sounds/lg1_u2_g2_3.mp3" />
+		<color x="476" y="448" value="0x41FE02" sound="sounds/lg1_u2_g2_4.mp3" />
+		<color x="560" y="448" value="0x96DFFE" sound="sounds/lg1_u2_g2_2.mp3" />
+	</colors>
+</activity>

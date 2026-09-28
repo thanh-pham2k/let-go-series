@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="Unit 5" exercise="2" rubric="" rubricMc="" finalText="6" timeout="45" finalTimeout="1" dragbjects="6">
+	<sounds>
+		<overSound id="overSound"><![CDATA[sounds/out_of_time.mp3]]></overSound>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u5_g2_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_g6.mp3]]></done>
+		<gameaudio_1_0 id="gameaudio_1_0" text="I always take a bus to school."><![CDATA[sounds/lg3_u5_g2_1.mp3]]></gameaudio_1_0>
+		<gameaudio_1_1 id="gameaudio_1_1" text="I always take a train to school."><![CDATA[sounds/lg3_u5_g2_2.mp3]]></gameaudio_1_1>
+		<gameaudio_1_2 id="gameaudio_1_2" text="I always take a taxi to school."><![CDATA[sounds/lg3_u5_g2_3.mp3]]></gameaudio_1_2>
+		<gameaudio_1_3 id="gameaudio_1_3" text="I always take a subway to school."><![CDATA[sounds/lg3_u5_g2_4.mp3]]></gameaudio_1_3>
+		<gameaudio_1_4 id="gameaudio_1_4" text="I always ride a bicycle to school."><![CDATA[sounds/lg3_u5_g2_5.mp3]]></gameaudio_1_4>
+		<gameaudio_1_5 id="gameaudio_1_5" text="I always walk to school."><![CDATA[sounds/lg3_u5_g2_6.mp3]]></gameaudio_1_5>
+		<gameaudio_0_0 id="gameaudio_0_0" text="I never take a bus to school."><![CDATA[sounds/lg3_u5_g2_7.mp3]]></gameaudio_0_0>
+		<gameaudio_0_1 id="gameaudio_0_1" text="I never take a train to school."><![CDATA[sounds/lg3_u5_g2_8.mp3]]></gameaudio_0_1>
+		<gameaudio_0_2 id="gameaudio_0_2" text="I never take a taxi to school."><![CDATA[sounds/lg3_u5_g2_9.mp3]]></gameaudio_0_2>
+		<gameaudio_0_3 id="gameaudio_0_3" text="I never take a subway to school."><![CDATA[sounds/lg3_u5_g2_10.mp3]]></gameaudio_0_3>
+		<gameaudio_0_4 id="gameaudio_0_4" text="I never ride a bicycle to school."><![CDATA[sounds/lg3_u5_g2_11.mp3]]></gameaudio_0_4>
+		<gameaudio_0_5 id="gameaudio_0_5" text="I never walk to school."><![CDATA[sounds/lg3_u5_g2_12.mp3]]></gameaudio_0_5>
+		<textformat id="textformat" autoSize = "center" selectable = "0" border= "0" background = "0" backgroundColor = "0xFFFFFF" borderColor = "0x00FF00" textColor = "0x000000"></textformat>
+	</sounds>
+</activity>
+
+
+
+
+
+
+
+

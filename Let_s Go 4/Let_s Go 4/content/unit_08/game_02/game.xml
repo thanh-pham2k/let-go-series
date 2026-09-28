@@ -1,0 +1,57 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity rubricSound="lg4_u8_g2_rubric.mp3" finalText="2" finalAudio="lg4_ma_g2.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		
+	
+		
+	</sounds>
+	<questions>
+		
+		
+		<set id="0">
+		<quest picId="1" val="1" audio="lg4_u8_g2_3.mp3" s0="They like to" ans="paint pictures"  s1="." />
+		<quest picId="1" val="0" audio="lg4_u8_g2_4.mp3" s0="They" ans="don't like"  s1="to paint pictures." />
+		<quest picId="2" val="1" audio="lg4_u8_g2_5.mp3" s0="They like to" ans="go shopping"  s1="." />
+		<quest picId="2" val="0" audio="lg4_u8_g2_6.mp3" s0="They" ans="don't like"  s1="to go shopping." />
+		
+		</set>
+		
+		<set id="1">
+		<quest picId="3" val="1" audio="lg4_u8_g2_7.mp3" s0="They" ans="like"  s1="to collect baseball cards." />
+		<quest picId="3" val="0" audio="lg4_u8_g2_8.mp3" s0="They" ans="don't like"  s1="to collect baseball cards." />
+		<quest picId="4" val="1" audio="lg4_u8_g2_9.mp3" s0="They like to play" ans="ice hockey"  s1="." />
+		<quest picId="4" val="0" audio="lg4_u8_g2_10.mp3" s0="They" ans="don't like"  s1="to play ice hockey." />
+		
+		</set>
+
+		<set id="2">
+		<quest picId="5" val="1" audio="lg4_u8_g2_11.mp3" s0="She" ans="likes"  s1="to watch sports on TV." />
+		<quest picId="5" val="0" audio="lg4_u8_g2_12.mp3" s0="She doesn't like to" ans="watch sports on TV"  s1="." />
+		<quest picId="6" val="1" audio="lg4_u8_g2_13.mp3" s0="She likes to" ans="surf the Internet"  s1="." />
+		<quest picId="6" val="0" audio="lg4_u8_g2_14.mp3" s0="She" ans="doesn't like"  s1="to surf the Internet." />
+		<quest picId="7" val="1" audio="lg4_u8_g2_15.mp3" s0="She likes to" ans="plant flowers"  s1="." />
+		<quest picId="7" val="0" audio="lg4_u8_g2_16.mp3" s0="She" ans="doesn't like"  s1="to plant flowers." />
+		<quest picId="8" val="1" audio="lg4_u8_g2_17.mp3" s0="She likes to" ans="see plays"  s1="." />
+		<quest picId="8" val="0" audio="lg4_u8_g2_18.mp3" s0="She" ans="doesn't like"  s1="to see plays." />
+		<quest picId="11" val="1" audio="lg4_u8_g2_23.mp3" s0="She likes to" ans="play softball"  s1="." />
+		<quest picId="13" val="0" audio="lg4_u8_g2_24.mp3" s0="She" ans="doesn't like"  s1="to play softball." />
+		
+
+
+		</set>
+
+		<set id="3">
+		<quest picId="9" val="1" audio="lg4_u8_g2_19.mp3" s0="They like to" ans="play badminton"  s1="." />
+		<quest picId="9" val="0" audio="lg4_u8_g2_20.mp3" s0="They" ans="don't like"  s1="to play badminton." />
+		<quest picId="10" val="1" audio="lg4_u8_g2_21.mp3" s0="They" ans="like"  s1="to go horseback riding." />
+		<quest picId="10" val="0" audio="lg4_u8_g2_22.mp3" s0="They don't like to go" ans="horseback riding"  s1="." />
+		
+		</set>
+
+		
+	</questions>
+	
+</activity>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="3" exercise="3" rubric="Make the sentences."  timer="20" finalText="3" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_g7.mp3"finalAudio3="Notryagain.mp3" rubricSound="lg5_u6_g4_rubric.mp3" >
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+
+	</sounds>
+	<questions>
+		<quest id="0" image="item_01.swf" qaudio="" aaudio="" q=""a1="She went surfing." d1="snowboad, She's, sailing" a2="She went snowboarding." d2="surfing, She's, sailing"/>
+		<quest id="1" image="item_02.swf" qaudio="lg5_u6_g4_1.swf" aaudio="" q="" a="He went snowboarding."  d="surfing, He's, sailing"/>
+		<quest id="2" image="item_03.swf" qaudio="" aaudio="" q="" a="She's going to go camping."  d="went, listen, music, She" />
+		<quest id="3" image="item_04.swf" qaudio="" aaudio="" q="" a="He's going to go camping." d="went, listen, music, He" />
+		<quest id="4" image="item_05.swf" qaudio="lg5_u6_g4_6.swf" aaudio="" q="" a="He's backpacking." d="He, sailing, surfing, went"/>
+		<quest id="5" image="item_06.swf" qaudio="" aaudio="" q="" a="She's backpacking." d="She, sailing, surfing, went"/>
+		<quest id="6" image="item_07.swf" qaudio="lg5_u6_g4_1.swf" aaudio="" q="" a="He went sailing." d="surfing, He's, snowboarding" />
+		<quest id="7" image="item_08.swf" qaudio="" aaudio="" q="" a="She went sailing." d="surfing, She's, snowboarding"/>
+		<quest id="8" image="item_09.swf" qaudio="" aaudio="" q="" a="She's going to listen to music." d="go, camping, She, went"/>
+		<quest id="9" image="item_10.swf" qaudio="" aaudio="" q="" a="He's going to listen to music." d="go, camping, He, went"/>
+		<quest id="10" image="item_11.swf" qaudio="lg5_u6_g4_1.swf" aaudio="" q="" a="He went surfing." d="sailing, She's, snowboarding, going, to"/>
+		<quest id="11" image="item_12.swf" qaudio="" aaudio="" q="" a="She went surfing." d="surfing, She's, snowboarding,going, to" />
+	    <quest id="12" image="item_13.swf" qaudio="" aaudio="" q="" a="He went shopping." d="surfing, He's, sailing,going, to" />
+		<quest id="13" image="item_14.swf" qaudio="" aaudio="" q="" a="She went shopping." d="sailing, She's, sailing,going, to" />
+	</questions>
+</activity>

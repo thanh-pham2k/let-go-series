@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<settings unit="Unit 5" exercise="3" rubric_text="Where did the dog go? Watch." rubric_sound="sounds/lg4_u5_g3_rubric1.mp3" rubric_sound2="sounds/lg4_u5_g3_rubric2.mp3" good_sound="sounds/good.mp3" bad_sound="sounds/wrong.mp3" distracters="0" finalSound="sounds/lg4_ma_g4.mp3" finalText="4" soundDing="sounds/ding.mp3"></settings>
+	<sourcelist midle_x="273" midle_y="438" item_spaceing="1"></sourcelist>
+	<paragraphs>
+		<paragraph distracters="null" anim="swf/anim1.swf" sound="sounds/lg4_u5_g3_1.mp3">
+			<answer name="The dog went under a bridge." gap_x="153" gap_y="225" dis="lg4_u5_g3_1.mp3"></answer>
+			<answer name="The dog went into the woods." gap_x="520" gap_y="170" dis="lg4_u5_g3_2.mp3"></answer>
+			<answer name="The dog went around a pond." gap_x="667" gap_y="227" dis="lg4_u5_g3_3.mp3"></answer>
+			<answer name="The dog went out of the woods." gap_x="665" gap_y="320" dis="lg4_u5_g3_4.mp3"></answer>
+			<answer name="The dog went through a tunnel." gap_x="618" gap_y="393" dis="lg4_u5_g3_5.mp3"></answer>
+			<answer name="The dog went up a hill. " gap_x="350" gap_y="392" dis="lg4_u5_g3_6.mp3"></answer>
+			<answer name="The dog went down a hill." gap_x="170" gap_y="310" dis="lg4_u5_g3_7.mp3"></answer>
+			<answer name="The dog went over a bridge." gap_x="220" gap_y="155" dis="lg4_u5_g3_8.mp3"></answer>
+		</paragraph>
+		<paragraph distracters="null" anim="swf/anim2.swf" sound="sounds/lg4_u5_g3_9.mp3">
+			<answer name="The dog went up a hill. " gap_x="140" gap_y="342" dis="lg4_u5_g3_9.mp3"></answer>
+			<answer name="The dog went down a hill." gap_x="375" gap_y="388" dis="lg4_u5_g3_10.mp3"></answer>
+			<answer name="The dog went through a tunnel." gap_x="637" gap_y="358" dis="lg4_u5_g3_11.mp3"></answer>
+			<answer name="The dog went into the woods." gap_x="669" gap_y="308" dis="lg4_u5_g3_12.mp3"></answer>
+			<answer name="The dog went around a pond." gap_x="668" gap_y="210" dis="lg4_u5_g3_13.mp3"></answer>
+			<answer name="The dog went out of the woods." gap_x="486" gap_y="168" dis="lg4_u5_g3_14.mp3"></answer>
+			<answer name="The dog went over a bridge." gap_x="185" gap_y="155" dis="lg4_u5_g3_15.mp3"></answer>
+			<answer name="The dog went under a bridge." gap_x="152" gap_y="225" dis="lg4_u5_g3_16.mp3"></answer>
+		</paragraph>
+		<paragraph distracters="null" anim="swf/anim3.swf" sound="sounds/lg4_u5_g3_17.mp3">
+			<answer name="The dog went through a tunnel." gap_x="160" gap_y="215" dis="lg4_u5_g3_17.mp3"></answer>
+			<answer name="The dog went into the woods." gap_x="340" gap_y="168" dis="lg4_u5_g3_18.mp3"></answer>
+			<answer name="The dog went up a hill. " gap_x="580" gap_y="150" dis="lg4_u5_g3_19.mp3"></answer>
+			<answer name="The dog went down a hill." gap_x="670" gap_y="195" dis="lg4_u5_g3_20.mp3"></answer>
+			<answer name="The dog went out of the woods." gap_x="630" gap_y="300" dis="lg4_u5_g3_21.mp3"></answer>
+			<answer name="The dog went around a pond." gap_x="557" gap_y="384" dis="lg4_u5_g3_22.mp3"></answer>
+			<answer name="The dog went under a bridge." gap_x="168" gap_y="360" dis="lg4_u5_g3_23.mp3"></answer>
+			<answer name="The dog went over a bridge." gap_x="170" gap_y="280" dis="lg4_u5_g3_24.mp3"></answer>
+		</paragraph>
+		<paragraph distracters="null" anim="swf/anim4.swf" sound="sounds/lg4_u5_g3_26.mp3">
+			<answer name="The dog went around a pond." gap_x="590" gap_y="378" dis="lg4_u5_g3_25.mp3"></answer>
+			<answer name="The dog went into the woods." gap_x="664" gap_y="307" dis="lg4_u5_g3_26.mp3"></answer>
+			<answer name="The dog went up a hill. " gap_x="664" gap_y="169" dis="lg4_u5_g3_27.mp3"></answer>
+			<answer name="The dog went down a hill." gap_x="470" gap_y="260" dis="lg4_u5_g3_28.mp3"></answer>
+			<answer name="The dog went out of the woods." gap_x="373" gap_y="176" dis="lg4_u5_g3_29.mp3"></answer>
+			<answer name="The dog went through a tunnel." gap_x="158" gap_y="218" dis="lg4_u5_g3_30.mp3"></answer>
+			<answer name="The dog went under a bridge." gap_x="180" gap_y="365" dis="lg4_u5_g3_31.mp3"></answer>
+			<answer name="The dog went over a bridge." gap_x="180" gap_y="290" dis="lg4_u5_g3_32.mp3"></answer>
+			</paragraph>
+	</paragraphs>
+</game>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="1" exercise="3" rubricSound="lg6_u1_g3_rubric.mp3" finalSnd1="lg6_ma_b6.mp3" finalSnd2="lg6_ma_b7.mp3">
+
+	<sounds>
+		
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+
+	</sounds>
+	<questions1 audio="lg6_u1_g3_1.mp3" pic="swf1">
+		<quest ans="invented" opt="invented|invent|invents"/>
+		<quest ans="was making" opt="was making|make|made" />
+		<quest ans="added" opt="added|add|has added"/>
+		<quest ans="mixed" opt="mixed|mix|was mixing"/>
+		<quest ans="was mixing" opt="was mixing|mix|mixes"/>
+		<quest ans="called" opt="called|call|calls"/>
+		<quest ans="said" opt="said|says|say"/>
+		<quest ans="forgot" opt="forgot|forget|was forgetting"/> 
+		<quest ans="was frozen" opt="was frozen|freeze|freezing"/>
+		<quest ans="pulled" opt="pulled|pull|was pulling"/>
+		<quest ans="looked" opt="looked|look|looks"/> 
+
+
+	</questions1>
+	<questions2  audio="lg6_u1_g3_2.mp3" pic="swf2">
+		<quest ans="went" opt="went|gone|was going "/> 
+		<quest ans="played" opt="played|playing|play "/>
+		<quest ans="invented" opt="invented|inventing|invent "/> 
+		<quest ans="were playing" opt="were playing|playing|play "/> 
+		<quest ans="when" opt="when|at|why "/> 
+		<quest ans="came" opt="came|coming |comes "/> 
+		<quest ans="said" opt="said|say|says"/>
+		<quest ans="want" opt="want|wanting|have "/>
+		<quest ans="can" opt="can|can’t|want "/>
+		<quest ans="ran" opt="ran|were running|run "/>
+		<quest ans="put" opt="put|had|putting "/>
+		<quest ans="mixed" opt="mixed|was mixing|had mixed "/>
+		<quest ans="ate" opt="ate|were eating|eaten "/>
+	
+
+	</questions2>
+	<txt1><![CDATA[Do you like ice pops? Today kids all around the world enjoy ice pops. Did you know that an eleven-year-old boy|them in 1905? One cold winter night, Frank|soda water outside. He|soda powder to water and|it with a stick. He|his drink when his mother|. “Come inside, Frank”, she|. “It’s time for bed”. Frank|to take his drink with him. In the morning, the soda water|. He|the stick out of the cup and|at the first ice pop.]]></txt1>
+	<txt2><![CDATA[On Saturday, Keith and Linda|to the park. It was hot outside. They|with a ball. They|a new game with a ball. They|the new game|their sister|to the park. She|,“Let’s go home.” They didn’t|to go. Finally, their sister said, “We|make ice pops at home.” They|home. Linda|some soda powder in water. Keith|it with a stick. Their sister put the ice pops in the freezer. After dinner, they|them!]]></txt2>
+
+</activity>

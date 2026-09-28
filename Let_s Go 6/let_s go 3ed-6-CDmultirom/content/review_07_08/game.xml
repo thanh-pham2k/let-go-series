@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg6_u8_r4_rubric1.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg6_u8_r4_rubric2.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg6_u8_r4_rubric3.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg6_ma_b3.mp3</done>
+		<done2 id="doneSound2">sounds/lg6_ma_b7.mp3</done2>
+	</sounds>
+	<questions>
+		<question id="0" settype="2" texts="" question1="" question2="" answers="I learned how to walk when I was one year old.|I learned to walk when I was one years old." picture="pictures/pic_1.swf" audio="sounds/lg6_u8_r4_1.mp3"/>
+		<question id="0" settype="2" texts="" question1="" question2="" answers="I learned how to read when I was five years old.|I learned how to write when was five years old." picture="pictures/pic_2.swf" audio="sounds/lg6_u8_r4_2.mp3"/>
+		<question id="1" settype="2" texts="" question1="" question2="" answers="I learned how to swim when I was three years old.|I learned swimming when I was three years old." picture="pictures/pic_3.swf" audio="sounds/lg6_u8_r4_3.mp3"/>
+		<question id="1" settype="7" texts="" question1="" question2="" answers="I learned how to write my name +when I was 5 years old.|I learned how write my name +when I was 5 years old." picture="pictures/pic_4.swf" audio="sounds/lg6_u8_r4_4.mp3"/>
+		<question id="2" settype="2" texts="" question1="" question2="" answers="I think it would be fun to climb Mt. Everest.|I don’t think it would be fun to climb Mt. Everest." picture="pictures/pic_5.swf" audio="sounds/lg6_u8_r4_5.mp3"/>
+		<question id="3" settype="7" texts="" question1="" question2="" answers="I’d like to see the pyramids of Egypt.+Why? I don’t think that would be fun.|What would you like to do in the future?+I’d like to ride an elephant." picture="pictures/pic_6_2.swf" audio="sounds/lg6_u8_r4_6.mp3|sounds/lg6_u8_r4_7.mp3"/>
+		<question id="3" settype="7" texts="" question1="" question2="" answers="What would you like to do in the future?+I’d like to travel to the moon.|What would you like to do in the future?+I like to travel at the moon." picture="pictures/pic_6.swf" audio="sounds/lg6_u8_r4_8.mp3|sounds/lg6_u8_r4_9.mp3"/>
+		<question id="3" settype="2" texts="" question1="" question2="" answers="I’d like to visit the Amazon someday.|I’d like to visit the Amazon last year." picture="pictures/pic_7.swf" audio="sounds/lg6_u8_r4_10.mp3"/>
+	</questions>
+	<questions>
+		<question settype="7" texts="" question1="" question2="" answers="They’re usually outgoing, +but sometimes they’re shy.|They’re usually generous, +but sometimes they’re selfish." picture="pictures/pic_8.swf" audio="sounds/lg6_u8_r4_11.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="They’re usually generous, +but sometimes they’re selfish.|They’re usually generous, +but sometimes they’re lazy." picture="pictures/pic_9.swf" audio="sounds/lg6_u8_r4_12.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="They’re usually studious, +but sometimes they’re lazy.|They’re usually outgoing, +but sometimes they’re studious." picture="pictures/pic_10.swf" audio="sounds/lg6_u8_r4_13.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="They’re usually studious, +but sometimes they’re generous.|They’re usually shy, +but sometimes they’re lazy." picture="pictures/pic_11.swf" audio="sounds/lg6_u8_r4_14.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could go anywhere, where would you go?+I’d go to Hawaii.|If you could go anything, where would you go?+I’d go to Hawaii. " picture="pictures/pic_12.swf" audio="sounds/lg6_u8_r4_15.mp3|sounds/lg6_u8_r4_16.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could do anything, what would you do?+I’d go surfing.|If you could go anything, what would you go?+I’d go surfing." picture="pictures/pic_13.swf" audio="sounds/lg6_u8_r4_17.mp3|sounds/lg6_u8_r4_18.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could meet anyone, who would you meet?+I’d meet a rock star.|If you could meet anyone, what could you meet?+I meet a rock star." picture="pictures/pic_14.swf" audio="sounds/lg6_u8_r4_19.mp3|sounds/lg6_u8_r4_20.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could buy anything, what would you buy?+I’d buy a car.|If you would buy anything, what could you buy?+I buy a car." picture="pictures/pic_15.swf" audio="sounds/lg6_u8_r4_21.mp3|sounds/lg6_u8_r4_22.mp3"/>
+	</questions>
+	<questions>
+		<question settype="7" texts="" question1="" question2="" answers="She learned how to speak English when she was five.+She likes to listen to people.+She’s shy.|She learned English when five.+She like how to listen to people.+She’s generous." picture="pictures/pic_16.swf" audio="sounds/lg6_u8_r4_23.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="She learned how to ice skate when she was six.+She likes to talk to people and go to parties.+She’s outgoing.|She learn how to ice skate when she had six+years old. She like to talk to people and go parties.+She’s generous." picture="pictures/pic_17.swf" audio="sounds/lg6_u8_r4_24.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="He learned how to surf when he was ten.+He likes to play sports and read books.+He is studious, but sometimes he’s lazy. |He learned how to surfs when he was ten.+He like to play sport and reading books.+He is studied, but something he’s lazy." picture="pictures/pic_18.swf" audio="sounds/lg6_u8_r4_25.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="He learned how to speak Vietnamese when+he was eight. He likes to play video games.+He is generous, but sometimes he is selfish.|He learned Vietnamese from he was eight.+He liked to play video games. +He is generous, but since he is selfish." picture="pictures/pic_19.swf" audio="sounds/lg6_u8_r4_26.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could go anywhere, where would you go?+I’d go to the Galapagos Islands.+I’d really like to see the giant tortoises!|If you could go anything, where could you go?+I’d go to Galapagos.+I’ll really like to see the giant tortoises!" picture="pictures/pic_20.swf" audio="sounds/lg6_u8_r4_27.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could do anything, what would you do?+I’d go skiing in Alaska.+I’d like to see the glaciers, too. |If you could do anywhere, what should you do? +I go ski in Alaska.+I like to see the glaciers, too." picture="pictures/pic_21.swf" audio="sounds/lg6_u8_r4_28.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could go anywhere, where would you go?+I’d go to Mexico. I’d love to see the Mayan pyramids.+I’ve already seen the pyramids in Egypt.|If you would do anything, what would you do?+I’m going to Mexico. I’ll love to see the Mayan+pyramids. I’ve already seen the pyramids in Egypt." picture="pictures/pic_22.swf" audio="sounds/lg6_u8_r4_29.mp3"/>
+		<question settype="7" texts="" question1="" question2="" answers="If you could go anywhere, where would you go?+I’d go to India. I’d love to see the Taj Mahal.+I’ve already seen it. But I’d like to go back!|If you could go anywhere, where could you go?+I’d go to India. I love to see the Taj Mahal.+I already seen it. But I like to go back!" picture="pictures/pic_23.swf" audio="sounds/lg6_u8_r4_30.mp3"/>
+	</questions>
+</activity>

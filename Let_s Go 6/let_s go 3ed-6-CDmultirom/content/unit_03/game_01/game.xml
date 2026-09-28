@@ -1,0 +1,49 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="3" exercise="1" rubric="Put the sentences in order." rubricSound="lg6_u3_g1_rubric.mp3" finalText="3" finalAudio="lg5_ma_b6.mp3" finalAudio2="lg5_ma_b7.mp3" toAsk="1">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		
+	</sounds>
+	<questions>
+		<set id="0">
+		<quest ord="0" audio="lg6_u3_g1_1.mp3" d="Hi. I’m buying a birthday present for my grandmother." animFrame="stage1" />
+		<quest ord="1" audio="lg6_u3_g1_2.mp3" d="What should I get for her?" animFrame="stage1"/>
+		<quest ord="2" audio="lg6_u3_g1_3.mp3" d="What did you buy her last year?" animFrame="stage1"/>
+		<quest ord="3" audio="lg6_u3_g1_4.mp3" d="I bought her a scarf." animFrame="stage2"/>
+		<quest ord="4" audio="lg6_u3_g1_5.mp3" d="Should I get her another scarf this year?" animFrame="stage2" />
+		<quest ord="5" audio="lg6_u3_g1_6.mp3" d="I don’t think so. You should get her something different."animFrame="stage2" />
+		<quest ord="6" audio="lg6_u3_g1_7.mp3" d="Do you have any ideas?" animFrame="stage2"/>
+		<quest ord="7" audio="lg6_u3_g1_8.mp3" d="Hmmm. Does she like tea? You could get her a teapot."animFrame="stage3" />
+		<quest ord="8" audio="lg6_u3_g1_9.mp3" d="That’s a good idea!" animFrame="stage3" />
+		<quest ord="9" audio="lg6_u3_g1_10.mp3" d="And they’re on sale! "animFrame="stage3" />
+		</set>
+		<set id="1">				
+		<quest ord="0" audio="lg6_u3_g1_11.mp3"  d="I’m buying a birthday present for my aunt." animFrame="stage1" />
+		<quest ord="1" audio="lg6_u3_g1_12.mp3"  d="What should I get for her?" animFrame="stage1" />
+		<quest ord="2" audio="lg6_u3_g1_13.mp3" d="Does she like to cook? You could get her a cookbook." animFrame="stage2" />
+		<quest ord="3" audio="lg6_u3_g1_14.mp3" d="I don’t think so. She already has a lot of cookbooks." animFrame="stage2"/>		
+		<quest ord="4" audio="lg6_u3_g1_15.mp3" d="These chocolates look delicious." animFrame="stage3" />
+		<quest ord="5" audio="lg6_u3_g1_16.mp3" d="You could get her a box of chocolates." animFrame="stage3" />
+		<quest ord="6" audio="lg6_u3_g1_17.mp3" d="I don’t think so. I got her a box of chocolates last year." animFrame="stage3" />
+		<quest ord="7" audio="lg6_u3_g1_18.mp3" d="Does she like movies? You could get her a DVD." animFrame="stage4" />
+		<quest ord="8" audio="lg6_u3_g1_19.mp3" d="This is her favorite actor." animFrame="stage4" />
+		<quest ord="9" audio="lg6_u3_g1_20.mp3" d="I think you should get her that DVD. She’ll love it!" animFrame="stage4"/>
+		</set>
+		<set id="2">
+		<quest ord="0" audio="lg6_u3_g1_21.mp3" d="I’m buying a birthday present for my uncle." animFrame="stage1" />
+		<quest ord="1" audio="lg6_u3_g1_22.mp3" d="What should I get for him?" animFrame="stage1"/>
+		<quest ord="2" audio="lg6_u3_g1_23.mp3" d="How old is he?" animFrame="stage1" />
+		<quest ord="3" audio="lg6_u3_g1_24.mp3" d="He’s going to be 25." animFrame="stage1" />		
+		<quest ord="4" audio="lg6_u3_g1_25.mp3" d="Does he like skateboards?" animFrame="stage2" />
+		<quest ord="5" audio="lg6_u3_g1_26.mp3" d="I don’t think so." animFrame="stage2" />
+		<quest ord="6" audio="lg6_u3_g1_27.mp3" d="He gave me his skateboard last year." animFrame="stage2"/>
+		<quest ord="7" audio="lg6_u3_g1_28.mp3" d="How about this T-shirt? Or that watch?" animFrame="stage3"/>
+		<quest ord="8" audio="lg6_u3_g1_29.mp3" d="That watch is great. It’s his favorite color." animFrame="stage3"/>
+		<quest ord="9" audio="lg6_u3_g1_30.mp3" d="I think you should get him that watch. He’ll love it." animFrame="stage3"/>
+		</set>
+	</questions>
+	
+</activity>

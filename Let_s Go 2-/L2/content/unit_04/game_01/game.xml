@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setings unit="4" exercise="1" rubric="Listen and answer." finalText="1" rubricSound="lg2_u4_g1_rubric.mp3" answers="8" timeSpeed="0.7" timeAcceleration="0.04" correctSnd1="lg2_u4_g1_17.mp3" correctSnd2="lg2_u4_g1_18.mp3" correctSnd3="lg2_u4_g1_19.mp3" correctSnd4="lg2_u4_g1_20.mp3" allOkSnd="lg2_ma_g1.mp3"/>
+<sentences> 
+	<sentence audio="lg2_u4_g1_1.mp3" correctSndId="3" ans="0"/>
+	<sentence audio="lg2_u4_g1_2.mp3" correctSndId="1" ans="1"/>
+	<sentence audio="lg2_u4_g1_3.mp3" correctSndId="1" ans="1"/>
+	<sentence audio="lg2_u4_g1_4.mp3" correctSndId="3" ans="0"/>
+	<sentence audio="lg2_u4_g1_5.mp3" correctSndId="3" ans="0"/>
+	<sentence audio="lg2_u4_g1_6.mp3" correctSndId="1" ans="1"/>
+	<sentence audio="lg2_u4_g1_7.mp3" correctSndId="3" ans="0"/>
+	<sentence audio="lg2_u4_g1_8.mp3" correctSndId="1" ans="1"/>
+	<sentence audio="lg2_u4_g1_9.mp3" correctSndId="2" ans="1"/>
+	<sentence audio="lg2_u4_g1_10.mp3" correctSndId="4" ans="0"/>
+	<sentence audio="lg2_u4_g1_11.mp3" correctSndId="4" ans="0"/>
+	<sentence audio="lg2_u4_g1_12.mp3" correctSndId="2" ans="1"/>
+	<sentence audio="lg2_u4_g1_13.mp3" correctSndId="2" ans="1"/>
+	<sentence audio="lg2_u4_g1_14.mp3" correctSndId="4" ans="0"/>
+	<sentence audio="lg2_u4_g1_15.mp3" correctSndId="2" ans="1"/>
+	<sentence audio="lg2_u4_g1_16.mp3" correctSndId="4" ans="0"/>
+</sentences>

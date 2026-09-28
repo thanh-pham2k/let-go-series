@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="4" exercise="3" finalText="1" doneSound="sounds/lb_ma_g1.mp3" questionSound = "sounds/lb_u4_g3_1.mp3" rubricSound="sounds/lb_u4_g3_rubric.mp3" rubricText="Connect the letters.">
+	<sounds>
+		<good id="goodSound" sound="sounds/good.mp3"/>
+		<wrong id="wrongSound" sound="sounds/bad.mp3"/>
+		<sound id="0" text="A" sound="sounds/lb_u1_g4_1.mp3" />
+		<sound id="1" text="B" sound="sounds/lb_u1_g4_2.mp3" />
+		<sound id="2" text="C" sound="sounds/lb_u1_g4_3.mp3" />
+		<sound id="3" text="D" sound="sounds/lb_u1_g4_4.mp3" />
+		<sound id="4" text="E" sound="sounds/lb_u1_g4_5.mp3" />
+		<sound id="5" text="F" sound="sounds/lb_u1_g4_6.mp3" />
+		<sound id="6" text="G" sound="sounds/lb_u1_g4_7.mp3" />
+		<sound id="7" text="H" sound="sounds/lb_u1_g4_8.mp3" />
+		<sound id="8" text="I" sound="sounds/lb_u1_g4_9.mp3" />
+		<sound id="9" text="J" sound="sounds/lb_u1_g4_10.mp3" />
+	</sounds>
+	<items>
+		<item id="0" text="igloo" image="" sound="sounds/lb_u4_g3_2.mp3"/>
+		<item id="1" text="jump rope" image="" sound="sounds/lb_u4_g3_3.mp3"/>
+		<item id="2" text="kangaroo" image="" sound="sounds/lb_u4_g3_4.mp3"/>
+		<item id="3" text="lion" image="" sound="sounds/lb_u4_g3_5.mp3"/>
+	</items>
+</settings>

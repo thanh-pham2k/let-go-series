@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<activity>
+
+<conf instruction="Listenand match." game="6" unit="4" questions="5" allQuestions="8" contentWidth="360" pictureX="192" pictureY="490" addSpace="10" obrazekX="395" obrazekY="275"/>
+
+<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="intro" url="sounds/lg6_u6_g4_rubric.mp3"/>
+<sound name="excellent" url="sounds/lg6_ma_g3.mp3"/>
+<sound name="nicetray" url="sounds/lg6_ma_g7.mp3"/>
+</sounds>
+
+<sentences>
+	<sentence id="0">
+		<set id="0" words="He has already walked the dog." sound="sounds/lg6_u6_g4_1.mp3" mcset="0"/>
+		<set id="1" words="He hasn’t walked the dog yet." sound="sounds/lg6_u6_g4_2.mp3" mcset="0"/>
+	</sentence>
+	<sentence id="1">
+		<set id="0" words="She has already washed her hands." sound="sounds/lg6_u6_g4_3.mp3" mcset="1"/>
+		<set id="1" words="She hasn’t washed her hands yet." sound="sounds/lg6_u6_g4_4.mp3" mcset="1"/>
+	</sentence>	
+	<sentence id="2">
+		<set id="0" words="She has already cleaned her room." sound="sounds/lg6_u6_g4_5.mp3" mcset="2"/>
+		<set id="1" words="She hasn’t cleaned her room yet." sound="sounds/lg6_u6_g4_6.mp3" mcset="2"/>
+	</sentence>
+	<sentence id="3">
+		<set id="0" words="He has already done his homework." sound="sounds/lg6_u6_g4_7.mp3" mcset="3"/>
+		<set id="1" words="He hasn’t done his homework yet." sound="sounds/lg6_u6_g4_8.mp3" mcset="3"/>
+	</sentence>
+	<sentence id="4">
+		<set id="0" words="He has already fed the dog." sound="sounds/lg6_u6_g4_9.mp3" mcset="4"/>
+		<set id="1" words="He hasn’t fed the dog yet." sound="sounds/lg6_u6_g4_10.mp3" mcset="4"/>
+	</sentence>
+	<sentence id="5">
+		<set id="0" words="She has already taken a bath." sound="sounds/lg6_u6_g4_11.mp3" mcset="5"/>
+		<set id="1" words="She hasn’t taken a bath yet. " sound="sounds/lg6_u6_g4_12.mp3" mcset="5"/>
+	</sentence>
+	<sentence id="6">
+		<set id="0" words="He has already eaten dinner." sound="sounds/lg6_u6_g4_13.mp3" mcset="6"/>
+		<set id="1" words="He hasn’t eaten dinner yet." sound="sounds/lg6_u6_g4_14.mp3" mcset="6"/>
+	</sentence>
+	<sentence id="7">
+		<set id="0" words="She has already gone shopping." sound="sounds/lg6_u6_g4_15.mp3" mcset="7"/>
+		<set id="1" words="She hasn’t gone shopping yet." sound="sounds/lg6_u6_g4_16.mp3" mcset="7"/>
+	</sentence>
+	
+</sentences>
+</activity>

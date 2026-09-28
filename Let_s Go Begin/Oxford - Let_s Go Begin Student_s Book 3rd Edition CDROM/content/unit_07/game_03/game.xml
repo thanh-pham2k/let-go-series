@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="7" exercise="3" finalText="1" doneSound="sounds/lb_ma_g1.mp3" questionSound = "sounds/lb_u7_g3_1.mp3" rubricSound="sounds/lb_u7_g3_rubric.mp3" rubricText="Connect the numbers.">
+	<sounds>
+		<good id="goodSound" sound="sounds/good.mp3"/>
+		<wrong id="wrongSound" sound="sounds/bad.mp3"/>
+		<sound id="0" text="1" sound="sounds/lb_u5_g3_34.mp3"/>
+		<sound id="1" text="2" sound="sounds/lb_u5_g3_35.mp3"/>
+		<sound id="2" text="3" sound="sounds/lb_u5_g3_36.mp3"/>
+		<sound id="3" text="4" sound="sounds/lb_u5_g3_37.mp3"/>
+		<sound id="4" text="5" sound="sounds/lb_u5_g3_38.mp3"/>
+		<sound id="5" text="6" sound="sounds/lb_u5_g3_39.mp3"/>
+		<sound id="6" text="7" sound="sounds/lb_u5_g3_40.mp3"/>
+		<sound id="7" text="8" sound="sounds/lb_u5_g3_41.mp3"/>
+		<sound id="8" text="9" sound="sounds/lb_u5_g3_42.mp3"/>
+		<sound id="9" text="10" sound="sounds/lb_u5_g3_43.mp3"/>
+	</sounds>
+	<items>
+		<item id="0" text="violin" image="" sound="sounds/lb_u7_g3_3.mp3"/>
+		<item id="1" text="umbrella" image="" sound="sounds/lb_u7_g3_2.mp3"/>
+		<item id="2" text="watch" image="" sound="sounds/lb_u7_g3_4.mp3"/>
+	</items>
+</settings>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setings unit="8" exercise="3" rubric="Make the sentences." rubricSound="lg4_u8_g3_rubric.mp3" wordSpace="12" answers="8" finalText="6" timeSpeed="4" allOkSound="lg4_ma_g6.mp3"/>
+	<sentences>
+	<sentence text="They have to clear the table. 1wash 1carpet 1he 1she" width="  65,65,45,65,55,65,		75,75,45,55" audio="lg4_u8_g3_1.mp3"/>
+	<sentence text="He has to wash the dishes. 1clear 1table 1she 1they" width="   45,55,45,65,55,75,		75,65,55,65" audio="lg4_u8_g3_2.mp3"/>
+	<sentence text="She has to dry the dishes. 1clear 1trash 1he 1they" width="    55,55,45,55,55,75,		55,65,45,65" audio="lg4_u8_g3_3.mp3"/>
+	<sentence text="She has to vacuum the carpet. 1wash 1table 1he 1they" width="  55,55,45,75,55,65,		55,65,45,65" audio="lg4_u8_g3_4.mp3"/>
+	<sentence text="He has to take out the trash. 1dry 1table 1she 1they" width="  45,55,45,65,55,55,65,	55,65,55,65" audio="lg4_u8_g3_5.mp3"/>
+	<sentence text="She has to feed the dog. 1clear 1dishes 1he 1they" width="     55,55,45,90,55,65,		55,65,45,65" audio="lg4_u8_g3_6.mp3"/>
+	<sentence text="She has to clear the table. 1feed 1dishes 1he 1they" width="   55,55,45,65,55,65,		55,65,45,65" audio="lg4_u8_g3_7.mp3"/>
+	<sentence text="She has to wash the dishes. 1vacuum 1table 1he 1they" width="  55,55,45,65,55,75,		75,65,45,65" audio="lg4_u8_g3_8.mp3"/>
+	<sentence text="They have to dry the dishes. 1clear 1dog 1she 1he" width="     65,65,45,55,55,75,	    65,55,55,45" audio="lg4_u8_g3_8.mp3"/>
+	<sentence text="He has to vacuum the carpet. 1dry 1dog 1she 1they" width="     45,55,45,75,55,65,		55,55,55,65" audio="lg4_u8_g3_7.mp3"/>
+	<sentence text="They have to take out the trash. 1dry 1dog 1he 1she" width="   65,65,45,65,55,55,65,	55,55,45,55" audio="lg4_u8_g3_8.mp3"/>
+	<sentence text="They have to feed the dog. 1vacuum 1table 1he 1she" width="    65,65,45,65,55,55,		90,65,45,55" audio="lg4_u8_g3_8.mp3"/>
+	</sentences>
+	
+	
+
+
+
+
+
+
+
+
+
+
+

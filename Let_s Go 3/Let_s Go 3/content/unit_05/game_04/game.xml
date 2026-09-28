@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="5" exercise="4" rubric="Listen and answer." finalText="3" timeout="45" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg3_u5_g4_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg3_ma_b3.mp3]]></sound>
+		
+	
+	</sounds>
+	<items id="items">
+		<item id="1" sound="sounds/lg3_u5_g4_1.mp3" type="He1" text="He usually plays baseball at the park." kind="1"/>
+		<item id="2" sound="sounds/lg3_u5_g4_2.mp3" type="They1" text="They usually play baseball at the park." kind="2"/>
+		<item id="3" sound="sounds/lg3_u5_g4_3.mp3" type="She1" text="She never talks on the telephone at school."/>
+		<item id="4" sound="sounds/lg3_u5_g4_4.mp3" type="He2" text="He sometimes does his homework in the kitchen."/>
+		<item id="5" sound="sounds/lg3_u5_g4_5.mp3" type="They2" text="They usually do their homework in the kitchen."/>
+		<item id="6" sound="sounds/lg3_u5_g4_6.mp3" type="She2" text="She usually sings a song at the zoo."/>
+		<item id="7" sound="sounds/lg3_u5_g4_7.mp3" type="He3" text="He sometimes sings a song at the zoo."/>
+		<item id="8" sound="sounds/lg3_u5_g4_8.mp3" type="They3" text="They always speak English at home."/>
+		<item id="9" sound="sounds/lg3_u5_g4_9.mp3" type="She3" text="She sometimes speaks English at home."/>
+		<item id="10" sound="sounds/lg3_u5_g4_10.mp3" type="They4" text="They never watch TV at the library."/>
+		<item id="11" sound="sounds/lg3_u5_g4_11.mp3" type="He1" text="He always plays baseball at the park." kind="1"/>
+		<item id="12" sound="sounds/lg3_u5_g4_12.mp3" type="They1" text="They never play baseball at the park." kind="2"/>
+		<item id="13" sound="sounds/lg3_u5_g4_13.mp3" type="She1" text="She usually talks on the telephone at school."/>
+		<item id="14" sound="sounds/lg3_u5_g4_14.mp3" type="He2" text="He never does his homework in the kitchen."/>
+		<item id="15" sound="sounds/lg3_u5_g4_15.mp3" type="They2" text="They sometimes do their homework in the kitchen."/>
+		<item id="16" sound="sounds/lg3_u5_g4_16.mp3" type="She2" text="She always sings a song at the zoo."/>
+		<item id="17" sound="sounds/lg3_u5_g4_17.mp3" type="He3" text="He usually sings a song at the zoo."/>
+		<item id="18" sound="sounds/lg3_u5_g4_18.mp3" type="They3" text="They never speak English at home."/>
+		<item id="19" sound="sounds/lg3_u5_g4_19.mp3" type="She3" text="She always speaks English at home."/>
+		<item id="20" sound="sounds/lg3_u5_g4_20.mp3" type="They4" text="They sometimes watch TV at the library."/>
+	</items>
+</activity>
+

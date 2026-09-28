@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="color" unit="1" exercise="2">
+	<thumbnails>
+		<thumb x="65" y="150" path="color/thumb00.swf" title="a pencil" sound="color/lg1_u1_g2_2.mp3"/>
+		<thumb x="245" y="150" path="color/thumb01.swf" title="a pen" sound="color/lg1_u1_g2_3.mp3"/>
+		<thumb x="425" y="150" path="color/thumb02.swf" title="a bag" sound="color/lg1_u1_g2_4.mp3"/>
+		<thumb x="605" y="150" path="color/thumb03.swf" title="a book" sound="color/lg1_u1_g2_5.mp3"/>
+		<thumb x="65" y="350" path="color/thumb04.swf" title="a desk" sound="color/lg1_u1_g2_6.mp3"/>
+		<thumb x="245" y="350" path="color/thumb05.swf" title="a chair" sound="color/lg1_u1_g2_7.mp3"/>
+		<thumb x="425" y="350" path="color/thumb06.swf" title="a ruler" sound="color/lg1_u1_g2_8.mp3"/>
+		<thumb x="605" y="350" path="color/thumb07.swf" title="an eraser" sound="color/lg1_u1_g2_9.mp3"/>
+	</thumbnails>
+	<images>
+		<image x="305" y="120" path="color/image00.swf" title="a pencil" sound="color/lg1_u1_g2_2.mp3" />
+		<image x="305" y="120" path="color/image01.swf" title="a pen" sound="color/lg1_u1_g2_3.mp3" />
+		<image x="305" y="120" path="color/image02.swf" title="a bag" sound="color/lg1_u1_g2_4.mp3" />
+		<image x="305" y="120" path="color/image03.swf" title="a book" sound="color/lg1_u1_g2_5.mp3" />
+		<image x="305" y="120" path="color/image04.swf" title="a desk" sound="color/lg1_u1_g2_6.mp3" />
+		<image x="305" y="120" path="color/image05.swf" title="a chair" sound="color/lg1_u1_g2_7.mp3" />
+		<image x="305" y="120" path="color/image06.swf" title="a ruler" sound="color/lg1_u1_g2_8.mp3" />
+		<image x="305" y="120" path="color/image07.swf" title="an eraser" sound="color/lg1_u1_g2_9.mp3" />
+	</images>
+	<colors>
+		<color x="48" y="135" value="0xF1D301" sound="color/lg1_u1_g2_10.mp3" />
+		<color x="138" y="135" value="0x0071E1" sound="color/lg1_u1_g2_11.mp3" />
+		<color x="48" y="212" value="0xFF0000" sound="color/lg1_u1_g2_12.mp3" />
+		<color x="138" y="212" value="0x00C400" sound="color/lg1_u1_g2_13.mp3" />
+		<color x="48" y="289" value="0xFF8000" sound="color/lg1_u1_g2_14.mp3" />
+		<color x="138" y="289" value="0x8000FF" sound="color/lg1_u1_g2_15.mp3" />
+		<color x="48" y="366" value="0xFF80FF" sound="color/lg1_u1_g2_16.mp3" />
+		<color x="138" y="366" value="0x804000" sound="color/lg1_u1_g2_17.mp3" />
+		<color x="48" y="443" value="0xFFFFFF" sound="color/lg1_u1_g2_19.mp3" />
+		<color x="138" y="443" value="0x00000" sound="color/lg1_u1_g2_18.mp3" />
+	</colors>
+		<eraser x="680" y="135" sound="color/lg1_u1_g2_9_but.mp3"/>
+</activity>

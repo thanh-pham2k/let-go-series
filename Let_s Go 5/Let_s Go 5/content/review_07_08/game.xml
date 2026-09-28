@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u1_g1_rubric.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg5_u1_g4_rubric.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg5_u1_g4_rubric.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+	</sounds>
+	<questions>
+		<question question="I see a sunset. It looks beautiful." picture1="pictures/pic_1.swf" picture2="pictures/pic_2.swf" audio="sounds/lg5_u7_g1_2.mp3"/>
+		<question question="I see a rainbow. It looks beautiful." picture1="pictures/pic_2.swf" picture2="pictures/pic_1.swf" audio="sounds/lg5_u7_g1_1.mp3"/>
+		<question question="I hear music. It sounds wonderful." picture1="pictures/pic_3.swf" picture2="pictures/pic_4.swf" audio="sounds/lg5_u7_g1_8.mp3"/>
+		<question question="I hear a piano. It sounds wonderful." picture1="pictures/pic_4.swf" picture2="pictures/pic_3.swf" audio="sounds/lg5_u7_g1_7.mp3"/>
+		<question question="I smell cookies. They smell good." picture1="pictures/pic_5.swf" picture2="pictures/pic_6.swf" audio="sounds/lg5_u7_g1_10.mp3"/>
+		<question question="I smell pizza. It smells good." picture1="pictures/pic_6.swf" picture2="pictures/pic_5.swf" audio="sounds/lg5_u7_g1_11.mp3"/>
+		<question question="I taste a lemon. It tastes sour." picture1="pictures/pic_7.swf" picture2="pictures/pic_8.swf" audio="sounds/lg5_u7_g1_16.mp3"/>
+		<question question="I taste a grapefruit. It tastes sour." picture1="pictures/pic_8.swf" picture2="pictures/pic_7.swf" audio="sounds/lg5_u7_g1_17.mp3"/>
+		<question question="Have you ever eaten crepes before?" picture1="pictures/pic_9.swf" picture2="pictures/pic_10.swf" audio="sounds/lg5_u8_g1_8.mp3|sounds/lg5_u8_g1_9.mp3"/>
+		<question question="I’m hungry. Let’s get something to eat." picture1="pictures/pic_10.swf" picture2="pictures/pic_9.swf" audio="sounds/lg5_u8_g1_10.mp3|sounds/lg5_u8_g1_12.mp3|sounds/lg5_u8_g1_13.mp3|sounds/lg5_u8_g1_14.mp3"/>
+		<question question="What should we get?" picture1="pictures/pic_11.swf" picture2="pictures/pic_12.swf" audio="sounds/lg5_u8_g1_19.mp3|sounds/lg5_u8_g1_20.mp3|sounds/lg5_u8_g1_21.mp3"/>
+		<question question="Have you ever eaten sushi before?" picture1="pictures/pic_13.swf" picture2="pictures/pic_10.swf" audio="sounds/lg5_u8_g1_16.mp3|sounds/lg5_u8_g1_17.mp3"/>
+	</questions>
+	<questions>
+		<question settype="2" texts="How does a harp sound?" question1="" question2="" answers="It sounds wonderful.|It sounds awful.|It looks wonderful.|It sounds loud. " picture="pictures/pic_14.swf" audio="sounds/lg5_u7_g2_9.mp3|sounds/lg5_u7_g2_10.mp3"/>
+		<question settype="2" texts="How does a frog look?" question1="" question2="" answers="It looks ugly.|It looks wonderful.|It looks beautiful.|It tastes bad." picture="pictures/pic_15.swf" audio="sounds/lg5_u7_g2_7.mp3|sounds/lg5_u7_g2_8.mp3"/>
+		<question settype="2" texts="How does cake taste?" question1="" question2="" answers="It tastes sweet.|It tastes salty.|It taste sweet.|It tastes smooth. " picture="pictures/pic_16.swf" audio="sounds/lg5_u7_g2_19.mp3|sounds/lg5_u7_g2_20.mp3"/>
+		<question settype="2" texts="How does an elephant feel?" question1="" question2="" answers="It feels rough.|It feels sweet.|It feels ugly.|It feels beautiful." picture="pictures/pic_17.swf" audio="sounds/lg5_u7_g2_31.mp3|sounds/lg5_u7_g2_32.mp3"/>
+		<question settype="6" texts="" question1="" question2="" answers="Has she ever been to Egypt?+Yes, she has.|Has she ever been to Egypt?+No, she hasn’t.|Has she ever seen Egypt?+No, she hasn’t.|Has she never been to Egypt?+Yes, she hasn’t." picture="pictures/pic_18.swf" audio="sounds/lg5_u8_g2_1.mp3|sounds/lg5_u8_g2_21.mp3"/>
+		<question settype="6" texts="" question1="" question2="" answers="Has she ever been to Carlsbad Caverns?+No, she hasn’t.|Has she ever been to Carlsbad Caverns?+Yes, she hasn’t.|Has she ever been to the Grand Canyon?+No, she hasn’t.|Has she ever seen on Carlsbad Caverns?+No, she hasn’t." picture="pictures/pic_19.swf" audio="sounds/lg5_u8_g2_4.mp3|sounds/lg5_u8_g2_22.mp3"/>
+		<question settype="6" texts="" question1="" question2="" answers="Has he ever been to Mt. Everest?+No, he hasn’t.|Has he ever been to the Grand Canyon?+No, he hasn’t.|Has he ever been Carlsbad Caverns?+No, he hasn’t.|Hasn’t he ever been to Mt. Everest?+Yes, he hasn’t." picture="pictures/pic_20.swf" audio="sounds/lg5_u8_g2_16.mp3|sounds/lg5_u8_g2_24.mp3"/>
+		<question settype="6" texts="" question1="" question2="" answers="Has he ever been to London?+Yes, he has.|Has he ever been to Paris?+Yes, he has.|Has he ever been to Paris?+No, he hasn’t.|Has he ever been to Egypt?+Yes, he hasn’t." picture="pictures/pic_21.swf" audio="sounds/lg5_u8_g2_20.mp3|sounds/lg5_u8_g2_23.mp3"/>
+	</questions>
+	<questions>
+		<question settype="7" texts="I like sweet food better. " question1="" question2="" answers="Which do you like better,+salty food or sweet food?|Which do you like best,+sour food or salty food?|Which do you like better,+sour food, or salty food?|Which do you like better,+salty food and sweet food?" picture="pictures/pic_22.swf" audio="sounds/lg5_u7_g4_1.mp3"/>
+		<question settype="1" texts="I like smooth silk better. " question1="" question2="" answers="Which do you like better, a soft pillow or smooth silk?|Which do you like best, a soft pillow or smooth silk?|Which do you like better, a hard pillow or rough silk?|Which do you like better, a big pillow or some silk?" picture="pictures/pic_23.swf" audio="sounds/lg5_u7_g4_4.mp3"/>
+		<question settype="7" texts="I like classical music better. It sounds beautiful." question1="" question2="" answers="Which do you like better, +rock music or classical music? Why?|Which do you like better, +soft music or loud music? Why?|Which do you like better, +music or movies? Why?|Which do you like better, +rock music or loud music? Why?" picture="pictures/pic_24.swf" audio="sounds/lg5_u7_g4_7.mp3"/>
+		<question settype="7" texts="I like cake better. It tastes sweet." question1="" question2="" answers="Which do you like better, +cake or grapefruit? Why?|Which do you like better, +sweet food or sour food? Why?|Which do you like better, +cookies or grapefruit? Why?|Which do you, +cake or grapefruit?" picture="pictures/pic_25.swf"  audio="sounds/lg5_u7_g4_8.mp3"/>
+		<question settype="1" texts="No, I haven’t." question1="" question2="" answers="Have you ever been to England?|Have you ever been to Paris?|Have you ever seen to England?|Has you ever been to England? " picture="pictures/pic_26.swf" audio="sounds/lg5_u8_g4_1.mp3|sounds/lg5_u8_g4_20.mp3"/>
+		<question settype="1" texts="Yes, I have." question1="" question2="" answers="Have you ever eaten a taco?|Have you ever eaten a burrito?|Have you ever eat a taco?|Have you ever been a burrito?" picture="pictures/pic_27.swf" audio="sounds/lg5_u8_g4_7.mp3|sounds/lg5_u8_g4_19.mp3"/>
+		<question settype="1" texts="Yes, I have." question1="" question2="" answers="Have you ever seen an elephant?|Have you ever been an elephant?|Have you ever ate an elephant?|Have you ever been to elephant?" picture="pictures/pic_28.swf" audio="sounds/lg5_u8_g4_12.mp3|sounds/lg5_u8_g4_19.mp3"/>
+		<question settype="1" texts="No, I haven’t." question1="" question2="" answers="Have you ever been snowboarding?|Have you ever been to snowboarding?|Have you ever seen snowboarding?|Have you ever been on snowboarding?" picture="pictures/pic_29.swf" audio="sounds/lg5_u8_g4_15.mp3|sounds/lg5_u8_g4_20.mp3"/>
+	</questions>
+</activity>

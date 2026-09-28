@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity fontsize="14" fontlib="1" lib="f1" wordspace="7" sentencesspace="25" addspace="19" posx="100" posy="140" select="3" strokecolor="0xFF0000" strokesize="1" shapecolor="0xFEFAE8" textWidth="1" sourcex="100" sourcey="370" sourcespace="500">
+	<sounds>
+<sound name="good" url="sounds/good.mp3"/>
+<sound name="bad" url="sounds/bad.mp3"/>
+<sound name="done" url="sounds/lg5_ma_b2.mp3"/>
+<sound name="intro" url="sounds/lg5_u2_g1_rubric.mp3"/>
+<sound name="goodwork" url="sounds/lg5_ma_b6.mp3"/>
+<sound name="greatjob" url="sounds/lg5_ma_b5.mp3"/>
+<sound name="great" url="sounds/lg5_ma_b4.mp3"/>
+<sound name="goodjob" url="sounds/lg5_ma_b1.mp3"/>
+<sound name="excellent" url="sounds/lg5_ma_b3.mp3"/>
+<sound name="nicetry" url="sounds/lg5_ma_b7.mp3"/>
+<sound name="goodtry" url="sounds/lg5_ma_b8.mp3"/>
+<sound name="tick" url="sounds/tick.mp3"/>
+<sound name="outoftime" url="sounds/out_of_time.mp3"/>
+</sounds>
+	<paragraphs>
+		<paragraph id="0" distracters="does|makes|swimming|leave|always|stay" anim="swf/anim1.swf" sound="sounds/lg5_u2_g1_1.mp3">
+			<answer gender="g" word="" sentences="This is interesting."/>
+			<answer gender="b" word="" sentences="What is?"/>
+			<answer gender="g" word="as fast as" sentences="People walk|null|elephants."/>
+			<answer gender="g" word="faster" sentences="Which animal is|null|,|a horse or a zebra?"/>
+			<answer gender="b" word="probably" sentences="A zebra is|null|faster."/>
+			<answer gender="g" word="horse" sentences="Wrong! A|null|is faster."/>
+			<answer gender="g" word="polar bear" sentences="OK, is a cat as fast as a|null|?"/>
+			<answer gender="b" word="faster" sentences="No, it isn’t. A polar bear is|null|."/>
+			<answer gender="g" word="cat|as fast as" sentences="You’re wrong. A|null|can run|null| a polar bear."/>
+	</paragraph>
+		
+		<paragraph id="1" distracters="makes|skating|football|never|goes" anim="swf/anim2.swf" sound="sounds/lg5_u2_g1_2.mp3">
+			<answer gender="g" word="" sentences="This is interesting."/>
+			<answer gender="b" word="" sentences="What is?"/>
+			<answer gender="g" word="as fast as" sentences="Is a jaguar|null|a wolf?"/>
+			<answer gender="b" word="jaguar" sentences="Yes, it is. A|null|is faster."/>
+			<answer gender="g" word="wolf|faster" sentences="You’re wrong. A|null|can run|null|than a jaguar."/>
+			<answer gender="b" word="" sentences="Wow! Ask me another question."/>
+			<answer gender="g" word="zebra" sentences="Which animal is faster, a gazelle or a |null|?"/>
+			<answer gender="b" word="not sure|probably" sentences="I’m|null|. A zebra is|null|faster."/>
+			<answer gender="g" word="gazelle" sentences="Wrong! A gazelle is faster."/>
+		</paragraph>
+		
+		<paragraph id="2" distracters="does|plays|walks|never|sometimes|9:00 a.m." anim="swf/anim3.swf" sound="sounds/lg5_u2_g1_3.mp3">
+			<answer gender="g" word="" sentences="This is interesting."/>
+			<answer gender="b" word="" sentences="What is?"/>
+			<answer gender="g" word="as fast as" sentences="People walk|null|elephants."/>
+			<answer gender="g" word="faster" sentences="Which animal is|null|,|a rhinoceros or a polar bear?"/>
+			<answer gender="b" word="probably" sentences="The polar bear is|null|faster."/>
+			<answer gender="g" word="polar bear" sentences="Wrong! A rhinoceros is as fast as a|null|."/>
+			<answer gender="g" word="as fast as" sentences="OK, is a skunk|null|a squirrel?"/>
+			<answer gender="b" word="skunk|faster" sentences="A|null|is probably|null|."/>
+			<answer gender="g" word="wrong" sentences="You’re|null|.|A squirrel is faster."/>
+		</paragraph>
+	</paragraphs>
+</activity>

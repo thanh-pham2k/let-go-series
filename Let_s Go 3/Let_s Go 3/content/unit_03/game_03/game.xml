@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" unit="3" exercise="3" finalText="4" finalTimeout="4" rubricMc="mcRubric" rubric="Look. Where is it?">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u3_g3_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_b4.mp3]]></done>
+		<yesHe id="yesHe"><![CDATA[sounds/lg3_u3_g3_35.mp3]]></yesHe>
+		<yesShe id="yesShe"><![CDATA[sounds/lg3_u3_g3_33.mp3]]></yesShe>
+		<noHe id="noHe"><![CDATA[sounds/lg3_u3_g3_36.mp3]]></noHe>
+		<noShe id="noShe"><![CDATA[sounds/lg3_u3_g3_34.mp3]]></noShe>
+	</sounds>
+	<sentences>
+		<texts id = "texts0_0" audio="lg3_u3_g3_1.mp3" text="Is the skateboard in the garage?"></texts>
+		<texts id = "texts0_1" audio="lg3_u3_g3_2.mp3" text="Is the skateboard in the bedroom?"></texts>
+		<texts id = "texts0_2" audio="lg3_u3_g3_3.mp3" text="Is the skateboard in the kitchen?"></texts>
+		<texts id = "texts0_3" audio="lg3_u3_g3_4.mp3" text="Is the skateboard in the living room?"></texts>
+		<texts id = "texts1_0" audio="lg3_u3_g3_5.mp3" text="Is the scooter in the garage?"></texts>
+		<texts id = "texts1_1" audio="lg3_u3_g3_6.mp3" text="Is the scooter in the bedroom?"></texts>	
+		<texts id = "texts1_2" audio="lg3_u3_g3_7.mp3" text="Is the scooter in the kitchen?"></texts>
+		<texts id = "texts1_3" audio="lg3_u3_g3_8.mp3" text="Is the scooter in the living room?"></texts>
+		<texts id = "texts2_0" audio="lg3_u3_g3_9.mp3" text="Is the unicycle in the garage?"></texts>
+		<texts id = "texts2_1" audio="lg3_u3_g3_10.mp3" text="Is the unicycle in the bedroom?"></texts>
+		<texts id = "texts2_2" audio="lg3_u3_g3_11.mp3" text="Is the unicycle in the kitchen?"></texts>
+		<texts id = "texts2_3" audio="lg3_u3_g3_12.mp3" text="Is the unicycle in the living room?"></texts>	
+		<texts id = "texts3_0" audio="lg3_u3_g3_13.mp3" text="Is the sled in the garage?"></texts>
+		<texts id = "texts3_1" audio="lg3_u3_g3_14.mp3" text="Is the sled in the bedroom?"></texts>
+		<texts id = "texts3_2" audio="lg3_u3_g3_15.mp3" text="Is the sled in the kitchen?"></texts>
+		<texts id = "texts3_3" audio="lg3_u3_g3_16.mp3" text="Is the sled in the living room?"></texts>
+		<texts id = "texts4_0" audio="lg3_u3_g3_17.mp3" text="Are the skis in the garage?"></texts>
+		<texts id = "texts4_1" audio="lg3_u3_g3_18.mp3" text="Are the skis in the bedroom?"></texts>
+		<texts id = "texts4_2" audio="lg3_u3_g3_19.mp3" text="Are the skis in the kitchen?"></texts>
+		<texts id = "texts4_3" audio="lg3_u3_g3_20.mp3" text="Are the skis in the living room?"></texts>
+		<texts id = "texts5_0" audio="lg3_u3_g3_21.mp3" text="Is the snowboard in the garage?"></texts>
+		<texts id = "texts5_1" audio="lg3_u3_g3_22.mp3" text="Is the snowboard in the bedroom?"></texts>		
+		<texts id = "texts5_2" audio="lg3_u3_g3_23.mp3" text="Is the snowboard in the kitchen?"></texts>
+		<texts id = "texts5_3" audio="lg3_u3_g3_24.mp3" text="Is the snowboard in the living room?"></texts>
+		<texts id = "texts6_0" audio="lg3_u3_g3_25.mp3" text="Are the in-line skates in the garage?"></texts>
+		<texts id = "texts6_1" audio="lg3_u3_g3_26.mp3" text="Are the in-line skates in the bedroom?"></texts>
+		<texts id = "texts6_2" audio="lg3_u3_g3_27.mp3" text="Are the in-line skates in the kitchen?"></texts>
+		<texts id = "texts6_3" audio="lg3_u3_g3_28.mp3" text="Are the in-line skates in the living room?"></texts>	
+		<texts id = "texts7_0" audio="lg3_u3_g3_29.mp3" text="Are the ice skates in the garage?"></texts>
+		<texts id = "texts7_1" audio="lg3_u3_g3_30.mp3" text="Are the ice skates in the bedroom?"></texts>
+		<texts id = "texts7_2" audio="lg3_u3_g3_31.mp3" text="Are the ice skates in the kitchen?"></texts>
+		<texts id = "texts7_3" audio="lg3_u3_g3_32.mp3" text="Are the ice skates in the living room?"></texts>
+	</sentences>
+</settings>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

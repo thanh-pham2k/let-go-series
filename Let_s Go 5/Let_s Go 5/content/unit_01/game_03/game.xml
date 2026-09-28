@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="" exercise="" rubricSound="lg5_u1_g3_rubric.mp3" finalSnd1="welldone.mp3" finalSnd2="welldone2.mp3" finalSnd3="Notryagain.mp3" endSnd="lg5_u1_g3_snd.mp3">
+
+	<sounds>
+		
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="whatShould" file="lg5_u1_r3_13.mp3"/>
+	</sounds>
+	<questions sentence="Dinosaurs lived | of years ago. What did they eat? Did they buy | of dinosaur food? No, they didn’t. Millions of years ago, there | | stores. How do scientists study dinosaur food? They | dinosaur teeth. Most dinosaurs | large, flat teeth. They ate |.| dinosaurs had long, sharp teeth. They ate |. We have flat teeth and sharp teeth so we can eat plants and meat. | dinosaurs had flat teeth and sharp teeth, too. These dinosaurs | both plants and meat, just like us!">
+		  <quest len="a couple" picId="0" audio="lg5_u1_r3_1.mp3" varx="203" vary="180" ans="millions" opt1="a couple" opt2="a few" /> 
+  <quest len="ten boxes" picId="1" audio="lg5_u1_r3_2.mp3" varx="256" vary="215" ans="bags" opt1="ten boxes" opt2="a little" /> 
+  <quest len="weren't" picId="2" audio="lg5_u1_r3_3.mp3" varx="324" vary="249" ans="weren't" opt1="was" opt2="wasn't" /> 
+  <quest len="a little of" picId="3" audio="lg5_u1_r3_4.mp3" varx="412" vary="249" ans="any" opt1="a little of" opt2="few" /> 
+  <quest len="studies" picId="4" audio="lg5_u1_r3_5.mp3" varx="85" vary="319" ans="study" opt1="eat" opt2="studies" /> 
+  <quest len="had" picId="5" audio="lg5_u1_r3_6.mp3" varx="370" vary="319" ans="had" opt1="is" opt2="are" /> 
+  <quest len="a plant" picId="6" audio="lg5_u1_r3_7.mp3" varx="110" vary="353" ans="plants" opt1="a plant" opt2="milk" /> 
+  <quest len="Some" picId="7" audio="lg5_u1_r3_8.mp3" varx="206" vary="353" ans="Some" opt1="None" opt2="Any" /> 
+  <quest len="cookies" picId="8" audio="lg5_u1_r3_9.mp3" varx="112" vary="387" ans="meat" opt1="cookies" opt2="pizza" /> 
+  <quest len="Everything" picId="9" audio="lg5_u1_r3_10.mp3" varx="48" vary="457" ans="A few" opt1="Everything" opt2="None" /> 
+  <quest len="had eaten" picId="10" audio="lg5_u1_r3_11.mp3" varx="152" vary="492" ans="ate" opt1="eat" opt2="had eaten" /> 
+</questions>
+</activity>

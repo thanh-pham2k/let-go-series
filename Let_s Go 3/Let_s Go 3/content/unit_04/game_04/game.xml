@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="4" exercise="4" rubric="Answer the questions." finalTimeout="1" soundElement1="sounds/element01.mp3" soundElement2="sounds/element02.mp3" soundElement3="sounds/element03.mp3" soundElement4="sounds/element03.mp3">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u4_g4_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[]]></good>
+		<bad id="badSound"><![CDATA[]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_b1.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<colors id="colors" x="163" y="82">
+		<color id="0" text="yellow" sound="sounds/lg3_u4_g4_6.mp3" />
+		<color id="1" text="blue" sound="sounds/lg3_u4_g4_7.mp3" />
+		<color id="2" text="red" sound="sounds/lg3_u4_g4_8.mp3" />
+		<color id="3" text="green" sound="sounds/lg3_u4_g4_11.mp3" />
+		<color id="4" text="orange" sound="sounds/lg3_u4_g4_10.mp3" />
+		<color id="5" text="purple" sound="sounds/lg3_u4_g4_9.mp3" />
+	</colors>
+	<animals id="animals" x="163" y="152">
+		<animal id="0" text="dogs" sound="sounds/lg3_u4_g4_12.mp3" />
+		<animal id="1" text="cats" sound="sounds/lg3_u4_g4_13.mp3" />
+		<animal id="2" text="birds" sound="sounds/lg3_u4_g4_14.mp3" />
+		<animal id="3" text="rabbits" sound="sounds/lg3_u4_g4_17.mp3" />
+		<animal id="4" text="frogs" sound="sounds/lg3_u4_g4_16.mp3" />
+		<animal id="5" text="turtles" sound="sounds/lg3_u4_g4_15.mp3" />
+	</animals>
+	<food id="food" x="163" y="217.5">
+		<food id="0" text="oranges" sound="sounds/lg3_u4_g4_18.mp3" />
+		<food id="1" text="bananas" sound="sounds/lg3_u4_g4_19.mp3" />
+		<food id="2" text="soda" sound="sounds/lg3_u4_g4_20.mp3" />
+		<food id="3" text="milkshakes" sound="sounds/lg3_u4_g4_21.mp3" />
+		<food id="4" text="cookies" sound="sounds/lg3_u4_g4_23.mp3" />
+		<food id="5" text="sandwiches" sound="sounds/lg3_u4_g4_22.mp3" />
+	</food>
+	<WearingNow id="WearingNow" x="213" y="287">
+		<WearingNow id="0" text="1oranges" sound="sounds/lg3_u4_g4_24.mp3" />
+		<WearingNow id="1" text="1bananas" sound="sounds/lg3_u4_g4_25.mp3" />
+		<WearingNow id="2" text="1soda" sound="sounds/lg3_u4_g4_26.mp3" />
+		<WearingNow id="3" text="1milkshakes" sound="sounds/lg3_u4_g4_27.mp3" />
+		<WearingNow id="4" text="1cookies" sound="sounds/lg3_u4_g4_28.mp3" />
+		<WearingNow id="5" text="1sandwiches" sound="sounds/lg3_u4_g4_29.mp3" />
+	</WearingNow>	
+	
+</activity>

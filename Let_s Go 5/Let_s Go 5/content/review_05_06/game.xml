@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u1_g1_rubric.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg5_u1_g4_rubric.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg5_u1_g4_rubric.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+	</sounds>
+	<questions>
+		<question settype="2" texts="What do you think I’ll be in the future?|I like science. I think you’re right." question1="Hmmm. " question2="" answers="Maybe you’ll be a surgeon.|Maybe you’ll be a scientist.|Maybe you’ll be a hair stylist.|Maybe you’ll be a designer." picture="pictures/pic_1.swf" audio="sounds/lg5_u5_g1_23.mp3|sounds/lg5_u5_g1_24.mp3|sounds/lg5_u5_g1_25.mp3"/>
+		<question settype="5" texts="What do you think I’ll be in the future?|Hmmm. Maybe you’ll be a surgeon.|I don’t think so. I don’t like science.|" question1="I’m just kidding! " question2="" answers="I think you’ll be a designer.|I think you’ll be a scientist.|I think you’ll be a flight attendant.|I think you’ll be an animal trainer" picture="pictures/pic_2.swf" audio="sounds/lg5_u5_g1_4.mp3|sounds/lg5_u5_g1_5.mp3|sounds/lg5_u5_g1_6.mp3|sounds/lg5_u5_g1_7.mp3"/>
+		<question settype="5" texts="What do you think I’ll be in the future?|Hmmm. Maybe you’ll be an animal trainer.|Be serious. What do you think I’ll be?" question1="" question2="" answers="I think you’ll be a movie director.|I think you’ll be a movie star.|You think I’ll be a movie director.|I think you’ll be an animal trainer. " picture="pictures/pic_3.swf" audio="sounds/lg5_u5_g1_29.mp3|sounds/lg5_u5_g1_30.mp3|sounds/lg5_u5_g1_31.mp3|sounds/lg5_u5_g1_32.mp3"/>
+		<question settype="5" texts="What do you think I’ll be in the future?|Hmmm. Maybe you’ll be a hair stylist.|I don’t think so." question1="I’m just kidding! " question2="" answers="I think you’ll be a lawyer.|I think you be a hair stylist.|I think you’ll be a doctor.|I think you’ll be a surgeon. " picture="pictures/pic_4.swf" audio="sounds/lg5_u5_g1_33.mp3|sounds/lg5_u5_g1_34.mp3|sounds/lg5_u5_g1_35.mp3|sounds/lg5_u5_g1_36.mp3"/>
+		<question settype="1" texts="Why do you like winter?|Because I like cold weather and snow." question1="" question2="" answers="Winter is my favorite season!|Fall is my favorite season!|Spring is my favorite season!|Summer is my favorite season!" picture="pictures/pic_5.swf" audio="sounds/lg5_u6_g1_1.mp3|sounds/lg5_u6_g1_2.mp3|sounds/lg5_u6_g1_3.mp3"/>
+		<question settype="1" texts="I like fall because I like hiking." question1="" question2="" answers="So, which season do you like best?|Is fall your favorite season?|What’s your favorite season?|Why do you like fall?" picture="pictures/pic_6.swf" audio="sounds/lg5_u6_g1_16.mp3|sounds/lg5_u6_g1_17.mp3"/>
+		<question settype="2" texts="Why do you like winter?" question1="" question2="" answers="Because I like cold weather and snow.|Because I like skiing.|Because I like hot weather.|Because I like playing at the park with my dog." picture="pictures/pic_7.swf" audio="sounds/lg5_u6_g1_22.mp3|sounds/lg5_u6_g1_23.mp3"/>
+		<question settype="2" texts="What’s your favorite season?|Why do you like summer?|Because I like hot weather." question1="" question2="" answers="I like summer.|I like winter.|I like fall.|I like spring." picture="pictures/pic_8.swf" audio="sounds/lg5_u6_g1_9.mp3|sounds/lg5_u6_g1_10.mp3|sounds/lg5_u6_g1_11.mp3|sounds/lg5_u6_g1_12.mp3"/>
+	</questions>
+	<questions>
+		<question settype="1" texts="" question1="Will she" question2="?" answers="get wet|pick up the phone|make a basket|fall down" picture="pictures/pic_9.swf" audio="sounds/lg5_u5_g2_1.mp3"/>
+		<question settype="1" texts="" question1="Will he" question2="?" answers="fall down|get wet|sing a song|make a basket" picture="pictures/pic_10.swf" audio="sounds/lg5_u5_g2_2.mp3"/>
+		<question settype="1" texts="" question1="Will he" question2="?" answers="score a goal|score a basket|make a goal|make a basket" picture="pictures/pic_11.swf" audio="sounds/lg5_u5_g2_4.mp3"/>
+		<question settype="1" texts="" question1="Will he" question2="?" answers="make a basket|score a basket|make a goal|score a goal" picture="pictures/pic_12.swf" audio="sounds/lg5_u5_g2_6.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="Last year she went to the zoo.|Today she's going to the zoo.|This week she'll go to the zoo.|Next year she went to the zoo." picture="pictures/pic_13.swf" audio="sounds/lg5_u6_g2_16.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="Last week he went to the beach.|Next week he’ll go swimming.|Yesterday he went swimming.|Next month he’ll go to the beach. " picture="pictures/pic_14.swf" audio="sounds/lg5_u6_g2_7.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="Tomorrow they’ll play tennis.|Last month they played tennis.|They're playing tennis.|Yesterday they played tennis." picture="pictures/pic_15.swf" audio="sounds/lg5_u6_g2_20.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="Next year they’ll plant flowers.|Next month they’ll go fishing.|Last month they planted flowers.|Today they planted flowers. " picture="pictures/pic_16.swf" audio="sounds/lg5_u6_g2_23.mp3"/>
+	</questions>
+	<questions>
+		<question settype="1" texts="" question1="" question2="" answers="He’ll watch TV after he does his homework.|He’ll watch TV after he goes bowling.|He’ll go to bed before he watches TV.|He’ll do his homework after he watches TV." picture="pictures/pic_17.swf" audio="sounds/lg5_u5_g4_4.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He’ll talk on the telephone before he walks the dog.|He’ll walk the dog before he talks on the telephone.|She’ll talk on the telephone before she walks the dog.|He’ll go for a walk after he talks on the telephone." picture="pictures/pic_18.swf" audio="sounds/lg5_u5_g4_8.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="She’ll eat dinner before she rides her bike.|She’ll ride her bike before she does the dishes.|She’ll go for a walk after she eats dinner.|She’ll eat dinner after she rides her bike." picture="pictures/pic_19.swf" audio="sounds/lg5_u5_g4_10.mp3"/>
+		<question settype="1" texts="" question1="" question2="" answers="He’ll score a goal before he falls down.|He’ll fall down and he’ll score a goal.|He’ll make a basket before he scores a goal.|He’ll make a basket after he falls down." picture="pictures/pic_20.swf" audio="sounds/lg5_u5_g4_23.mp3"/>
+		<question settype="2" texts="What did she do this morning?" question1="" question2="" answers="She went surfing.|She is surfing.|She will go surfing.|She’ll probably go surfing." picture="pictures/pic_21.swf" audio="sounds/lg5_u6_g4_17.mp3|sounds/lg5_u6_g4_18.mp3"/>
+		<question settype="1" texts="She’s backpacking." question1="" question2="" answers="What is she doing now?|What did she do yesterday?|What will she do tonight?|What will she do next?" picture="pictures/pic_22.swf" audio="sounds/lg5_u6_g4_22.mp3|sounds/lg5_u6_g4_23.mp3"/>
+		<question settype="1" texts="He’ll probably go hiking." question1="" question2="" answers="What will he do next?|What will he do yesterday?|What did he do last week?|What is he doing now?" picture="pictures/pic_23.swf" audio="sounds/lg5_u6_r3_10.mp3|sounds/lg5_u6_r3_11.mp3"/>
+		<question settype="2" texts="Where will he go in the future?" question1="" question2="" answers="I think he'll go to London.|I think he’ll go to Paris.|He’ll go to Paris.|He’ll probably went to London." picture="pictures/pic_24.swf" audio="sounds/lg5_u6_r3_18.mp3|sounds/lg5_u6_r3_20.mp3"/>
+	</questions>
+</activity>

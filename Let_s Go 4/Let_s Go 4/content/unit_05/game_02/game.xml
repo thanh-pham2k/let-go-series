@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setings unit="5" exercise="2" rubric="Make the sentences." rubricSound="lg4_u5_g2_rubric.mp3" wordSpace="12" answers="8" finalText="6" timeSpeed="3" allOkSound="lg4_ma_b6.mp3"/>
+	<sentences>
+	<sentence text="They watched a baseball game. 1watching 1he 1she 1they 1didn't" width="		   60,90,30,80,70,		  100,40,50,60,60" audio="lg4_u5_g2_1.mp3" id="1"/>
+	<sentence text="She practiced the violin. 1practicing 1he 1she 1they 1didn't" width="		   50,90,40,70,		      100,40,50,60,60" audio="lg4_u5_g2_2.mp3" id="2"/>
+	<sentence text="He downloaded music. 1downloading 1he 1she 1they 1didn't" width="			   40,110,70,			  120,40,50,60,60" audio="lg4_u5_g2_3.mp3" id="3"/>
+	<sentence text="She listened to the radio. 1listening 1he 1she 1they 1didn't" width="		   50,90,40,40,70,		  100,40,50,60,60" audio="lg4_u5_g2_4.mp3" id="4"/>
+	<sentence text="They played a board game. 1plays 1he 1she 1they 1didn't" width="			   60,70,30,60,70,		  80,40,50,60,60" audio="lg4_u5_g2_5.mp3" id="5"/>
+	<sentence text="They visited their grandparents. 1visits 1he 1she 1they 1didn't" width="	   60,80,60,130,		  80,40,50,60,60" audio="lg4_u5_g2_6.mp3" id="6"/>
+	<sentence text="He watched a baseball game. 1watching 1he 1she 1they 1didn't" width="		   40,80,30,80,70,	      90,40,50,60,60" audio="lg4_u5_g2_7.mp3" id="7"/>
+	<sentence text="He practiced the violin. 1practice 1he 1she 1they 1didn't" width="			   40,90,40,70,		      80,40,50,60,60" audio="lg4_u5_g2_8.mp3" id="8"/>
+	<sentence text="He listened to the radio. 1listening 1he 1she 1they 1didn't" width="		   40,80,40,40,70,	      100,40,50,60,60" audio="lg4_u5_g2_9.mp3" id="10"/>
+	<sentence text="She downloaded music. 1downloading 1he 1she 1they 1didn't" width="			   50,110,70,		      120,40,50,60,60" audio="lg4_u5_g2_10.mp3" id="9"/>
+
+	</sentences>
+	<random>
+	<sentence text="They didn't watch a baseball game. 1watched 1he 1she 1they 1did" width="    60,60,60,30,80,70,	  80,40,50,60,50" audio="lg4_u5_g2_11.mp3" id="11"/>
+	<sentence text="She didn't practice the violin. 1practiced 1he 1she 1they 1did" width="     50,60,80,40,70,		  90,40,50,60,50" audio="lg4_u5_g2_12.mp3" id="12"/>
+	<sentence text="He didn't download music. 1downloaded 1he 1she 1they 1did" width="	       40,60,110,70,		  120,40,50,60,50" audio="lg4_u5_g2_13.mp3" id="13"/>
+	<sentence text="She didn't listen to the radio. 1listened 1he 1she 1they 1did" width="      50,60,60,40,40,70,	  80,40,50,60,50" audio="lg4_u5_g2_14.mp3" id="14"/>
+	<sentence text="They didn't play a board game. 1played 1he 1she 1they 1did" width="	       60,60,50,30,60,70,	  80,40,50,60,50" audio="lg4_u5_g2_15.mp3" id="15"/>
+	<sentence text="They didn't visit their grandparents. 1visited 1he 1she 1they 1did" width=" 60,60,60,60,130,	  80,40,50,60,50" audio="lg4_u5_g2_16.mp3" id="16"/>
+	<sentence text="He didn't watch a baseball game. 1watched 1he 1she 1they 1did" width="	   40,70,60,30,80,70,	  80,40,50,60,50" audio="lg4_u5_g2_17.mp3" id="17"/>
+	<sentence text="He didn't practice the violin. 1practiced 1he 1she 1they 1did" width="	   40,60,80,40,70,		  90,40,50,60,50" audio="lg4_u5_g2_18.mp3" id="18"/>
+	<sentence text="She didn't download music. 1downloaded 1he 1she 1they 1did" width="		   50,60,105,70,		  120,40,50,60,50" audio="lg4_u5_g2_19.mp3" id="19"/>
+	<sentence text="He didn't listen to the radio. 1listened 1he 1she 1they 1did" width="	   40,60,60,40,40,70,	  80,40,50,60,50" audio="lg4_u5_g2_20.mp3" id="20"/>
+	</random>

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="5" exercise="4" rubric="Answer the questions." finalTimeout="2" finalText="5">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u5_g4_rubric.mp3]]></rubric>
+		<yes id="yesSound"><![CDATA[sounds/lg1_u5_g4_29.mp3]]></yes>
+		<no id="noSound"><![CDATA[sounds/lg1_u5_g4_30.mp3]]></no>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_g5.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<adjectives id="adjectives">
+		<adjective id="0">
+			<text><![CDATA[big]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_2.mp3]]></sound>
+		</adjective>
+		<adjective id="1">
+			<text><![CDATA[little]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_1.mp3]]></sound>
+		</adjective>
+		<adjective id="2">
+			<text><![CDATA[new]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_3.mp3]]></sound>
+		</adjective>
+		<adjective id="3">
+			<text><![CDATA[old]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_4.mp3]]></sound>
+		</adjective>
+		<adjective id="4">
+			<text><![CDATA[long]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_5.mp3]]></sound>
+		</adjective>
+		<adjective id="5">
+			<text><![CDATA[short]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_6.mp3]]></sound>
+		</adjective>
+		<adjective id="6">
+			<text><![CDATA[round]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_7.mp3]]></sound>
+		</adjective>
+		<adjective id="7">
+			<text><![CDATA[square]]></text>
+			<sound><![CDATA[sounds/lg1_u5_g4_8.mp3]]></sound>
+		</adjective>
+	</adjectives>
+	<items id="items">
+		<item id="0" adjectiveId="0">
+			<text><![CDATA[big yo-yo]]></text>
+			<image><![CDATA[swf/big_yoyo.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_9.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_31.mp3]]></sound>
+		</item>
+		<item id="1" adjectiveId="1">
+			<text><![CDATA[little yo-yo]]></text>
+			<image><![CDATA[swf/little_yoyo.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_10.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_32.mp3]]></sound>
+		</item>
+		<item id="2" adjectiveId="0">
+			<text><![CDATA[big ball]]></text>
+			<image><![CDATA[swf/big_ball.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_11.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_33.mp3]]></sound>
+		</item>
+		<item id="3" adjectiveId="1">
+			<text><![CDATA[little ball]]></text>
+			<image><![CDATA[swf/little_ball.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_12.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_34.mp3]]></sound>
+		</item>
+		<item id="4" adjectiveId="2">
+			<text><![CDATA[new kite]]></text>
+			<image><![CDATA[swf/new_kite.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_13.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_35.mp3]]></sound>
+		</item>
+		<item id="5" adjectiveId="3">
+			<text><![CDATA[old kite]]></text>
+			<image><![CDATA[swf/old_kite.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_14.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_36.mp3]]></sound>
+		</item>
+		<item id="6" adjectiveId="2">
+			<text><![CDATA[new doll]]></text>
+			<image><![CDATA[swf/new_doll.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_16.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_37.mp3]]></sound>
+		</item>
+		<item id="7" adjectiveId="3">
+			<text><![CDATA[old doll]]></text>
+			<image><![CDATA[swf/old_doll.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_15.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_38.mp3]]></sound>
+		</item>
+		<item id="8" adjectiveId="4">
+			<text><![CDATA[long car]]></text>
+			<image><![CDATA[swf/long_car.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_17.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_39.mp3]]></sound>
+		</item>
+		<item id="9" adjectiveId="5">
+			<text><![CDATA[short car]]></text>
+			<image><![CDATA[swf/short_car.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_18.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_40.mp3]]></sound>
+		</item>
+		<item id="10" adjectiveId="5">
+			<text><![CDATA[short robot]]></text>
+			<image><![CDATA[swf/short_robot.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_19.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_41.mp3]]></sound>
+		</item>
+		<item id="11" adjectiveId="7">
+			<text><![CDATA[square robot]]></text>
+			<image><![CDATA[swf/square_robot.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_20.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_42.mp3]]></sound>
+		</item>
+		<item id="12" adjectiveId="1">
+			<text><![CDATA[little bicycle]]></text>
+			<image><![CDATA[swf/little_bicycle.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_21.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_43.mp3]]></sound>
+		</item>
+		<item id="13" adjectiveId="3">
+			<text><![CDATA[old bicycle]]></text>
+			<image><![CDATA[swf/old_bicycle.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_22.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_44.mp3]]></sound>
+		</item>
+		<item id="14" adjectiveId="4">
+			<text><![CDATA[long jump rope]]></text>
+			<image><![CDATA[swf/long_jump_rope.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_23.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_45.mp3]]></sound>
+		</item>
+		<item id="15" adjectiveId="5">
+			<text><![CDATA[short jump rope]]></text>
+			<image><![CDATA[swf/short_jump_rope.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_24.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_46.mp3]]></sound>
+		</item>
+		<item id="16" adjectiveId="7">
+			<text><![CDATA[square puzzle]]></text>
+			<image><![CDATA[swf/square_puzzle.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_25.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_47.mp3]]></sound>
+		</item>
+		<item id="17" adjectiveId="6">
+			<text><![CDATA[round puzzle]]></text>
+			<image><![CDATA[swf/round_puzzle.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_26.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_48.mp3]]></sound>
+		</item>
+		<item id="18" adjectiveId="3">
+			<text><![CDATA[old bat]]></text>
+			<image><![CDATA[swf/old_bat.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_27.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_49.mp3]]></sound>
+		</item>
+		<item id="19" adjectiveId="2">
+			<text><![CDATA[new bat]]></text>
+			<image><![CDATA[swf/new_bat.swf]]></image>
+			<questionSound><![CDATA[sounds/lg1_u5_g4_28.mp3]]></questionSound>
+			<sound><![CDATA[sounds/lg1_u5_g4_50.mp3]]></sound>
+		</item>
+	</items>
+</activity>

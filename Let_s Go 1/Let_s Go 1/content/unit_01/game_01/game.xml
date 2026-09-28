@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings unit="1" exercise="1" exercise="1" finalText="1" doneSound="sounds/lg1_ma_b1.mp3">
+	<sounds>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b1.mp3]]></done>
+	</sounds>	
+	<items onstage="4">
+		<item id="0" text="Sit down." image="images/a1.swf" sound="sounds/lg1_u1_g1_2.mp3"/>
+		<item id="1" text="Make a line." image="images/a2.swf" sound="sounds/lg1_u1_g1_4.mp3"/>
+		<item id="2" text="Stand up." image="images/a3.swf" sound="sounds/lg1_u1_g1_1.mp3"/>
+		<item id="3" text="Make a circle." image="images/a4.swf" sound="sounds/lg1_u1_g1_3.mp3"/>
+	</items>
+	<positions>
+		<position x="120" y="150"/>
+		<position x="120" y="354"/>
+		<position x="430" y="150"/>
+		<position x="430" y="354"/>
+	</positions>
+</settings>

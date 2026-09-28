@@ -1,0 +1,62 @@
+﻿
+<?xml version="1.0" encoding="UTF-8"?> 
+<activity unit="4" exercise="3" rubric="Make the sentences." rubricSound="lg4_u2_g2_rubric.mp3" timeout="60" finalText="1" finalAudio="lg4_ma_g1.mp3">
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="soundOutOfTime" file="out_of_time.mp3" />
+		<sound id="yes0" file="lg4_u2_g2_11.mp3" />
+		<sound id="yes1" file="lg4_u2_g2_23.mp3" />
+		<sound id="yes2" file="lg4_u2_g2_35.mp3" />				
+		<sound id="no0" file="lg4_u2_g2_12.mp3" />
+		<sound id="no1" file="lg4_u2_g2_24.mp3" />
+		<sound id="no2" file="lg4_u2_g2_36.mp3" />
+
+		
+	</sounds>
+	<questions>
+		<quest picId="0" location="0" who="0" audio="lg4_u2_g2_1.mp3" sentence="Should she take a towel?" />
+		<quest picId="1" location="0" who="0" audio="lg4_u2_g2_2.mp3" sentence="Should she take a hat?"/>
+		<quest picId="2" location="0" who="0" audio="lg4_u2_g2_3.mp3" sentence="Should she take a swimsuit?" />
+		<quest picId="3" location="0" who="0" audio="lg4_u2_g2_4.mp3" sentence="Should she take sunglasses?" />
+		<quest picId="4" location="0" who="0" audio="lg4_u2_g2_5.mp3" sentence="Should she take sunscreen?" />
+		<quest picId="5" location="0" who="0" audio="lg4_u2_g2_6.mp3" sentence="Should she take a camera?" />
+
+		<quest picId="6" location="1" who="0" audio="lg4_u2_g2_7.mp3" sentence="Should she take a tent?" />
+		<quest picId="7" location="1" who="0" audio="lg4_u2_g2_8.mp3" sentence="Should she take a flashlight?"/>
+		<quest picId="8" location="1" who="0" audio="lg4_u2_g2_9.mp3" sentence="Should she take a sleeping bag?" />
+		<quest picId="5" location="1" who="0" audio="lg4_u2_g2_10.mp3" sentence="Should she take a camera?" />
+		
+		<quest picId="0" location="0" who="1" audio="lg4_u2_g2_13.mp3" sentence="Should he take a towel?" />
+		<quest picId="1" location="0" who="1" audio="lg4_u2_g2_14.mp3" sentence="Should he take a hat?"/>
+		<quest picId="9" location="0" who="1" audio="lg4_u2_g2_15.mp3" sentence="Should he take a swimsuit?" />
+		<quest picId="3" location="0" who="1" audio="lg4_u2_g2_16.mp3" sentence="Should he take sunglasses?" />
+		<quest picId="4" location="0" who="1" audio="lg4_u2_g2_17.mp3" sentence="Should he take sunscreen?" />
+		<quest picId="5" location="0" who="1" audio="lg4_u2_g2_18.mp3" sentence="Should he take a camera?" />
+
+		<quest picId="6" location="1" who="1" audio="lg4_u2_g2_19.mp3" sentence="Should he take a tent?" />
+		<quest picId="7" location="1" who="1" audio="lg4_u2_g2_20.mp3" sentence="Should he take a flashlight?"/>
+		<quest picId="8" location="1" who="1" audio="lg4_u2_g2_21.mp3" sentence="Should he take a sleeping bag?" />
+		<quest picId="5" location="1" who="1" audio="lg4_u2_g2_22.mp3" sentence="Should he take a camera?" />
+
+		<quest picId="10" location="0" who="2" audio="lg4_u2_g2_25.mp3" sentence="Should they take towels?" />
+		<quest picId="11" location="0" who="2" audio="lg4_u2_g2_26.mp3" sentence="Should they take hats?"/>
+		<quest picId="12" location="0" who="2" audio="lg4_u2_g2_27.mp3" sentence="Should they take swimsuits?" />
+		<quest picId="13" location="0" who="2" audio="lg4_u2_g2_28.mp3" sentence="Should they take sunglassess?" />
+		<quest picId="14" location="0" who="2" audio="lg4_u2_g2_29.mp3" sentence="Should they take sunscreen?" />
+		<quest picId="15" location="0" who="2" audio="lg4_u2_g2_30.mp3" sentence="Should they take cameras?" />
+
+		<quest picId="16" location="1" who="2" audio="lg4_u2_g2_31.mp3" sentence="Should they take tents?" />
+		<quest picId="17" location="1" who="2" audio="lg4_u2_g2_32.mp3" sentence="Should they take flashlights?"/>
+		<quest picId="18" location="1" who="2" audio="lg4_u2_g2_33.mp3" sentence="Should they take sleeping bags?" />
+		<quest picId="19" location="1" who="2" audio="lg4_u2_g2_34.mp3" sentence="Should they take cameras?" />
+
+
+
+
+
+
+	</questions>
+	
+</activity>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="8" exercise="1" rubricSound="lg6_u8_g1_rubric.mp3" finalAudio="lg6_ma_g2.mp3" finalAudio2="lg5_ma_g7.mp3" timer ="90">
+
+	<sounds>
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="wrong.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3" />
+		<sound id="newQuest" file="good.mp3"/>
+		
+		
+	</sounds>
+
+	<questions>
+		<quest desc="visit the Amazon jungle" fr="2" typ="0" dialog="lg6_u8_g1_1.mp3" qaudio="lg6_u8_g1_2.mp3" ansaudio="lg6_u8_g1_3.mp3" negaudio="lg6_u8_g1_4.mp3" />
+		<quest desc="climb Mt. Everest" fr="3" typ="1" dialog="lg6_u8_g1_5.mp3" qaudio="lg6_u8_g1_6.mp3" ansaudio="lg6_u8_g1_7.mp3" negaudio="lg6_u8_g1_8.mp3" />
+		<quest desc="dive to the bottom of the ocean" fr="4" typ="0" dialog="lg6_u8_g1_9.mp3" qaudio="lg6_u8_g1_10.mp3" ansaudio="lg6_u8_g1_11.mp3" negaudio="lg6_u8_g1_12.mp3" />
+		<quest desc="see the Pyramids of Egypt" fr="5" typ="1" dialog="lg6_u8_g1_13.mp3" qaudio="lg6_u8_g1_14.mp3" ansaudio="lg6_u8_g1_15.mp3" negaudio="lg6_u8_g1_16.mp3" />
+		<quest desc="ride an elephant" fr="6" typ="0" dialog="lg6_u8_g1_17.mp3" qaudio="lg6_u8_g1_18.mp3" ansaudio="lg6_u8_g1_19.mp3" negaudio="lg6_u8_g1_20.mp3" />
+		<quest desc="travel to the moon" fr="7" typ="1" dialog="lg6_u8_g1_21.mp3" qaudio="lg6_u8_g1_22.mp3" ansaudio="lg6_u8_g1_23.mp3" negaudio="lg6_u8_g1_24.mp3" />
+		<quest desc="eat burritos in Mexico" fr="8" typ="1" dialog="lg6_u8_g1_25.mp3" qaudio="lg6_u8_g1_26.mp3" ansaudio="lg6_u8_g1_27.mp3" negaudio="lg6_u8_g1_28.mp3" />
+		<quest desc="take photos in Thailand" fr="9" typ="0" dialog="lg6_u8_g1_29.mp3" qaudio="lg6_u8_g1_30.mp3" ansaudio="lg6_u8_g1_31.mp3" negaudio="lg6_u8_g1_32.mp3" />
+		<quest desc="eat spaghetti in Italy" fr="10" typ="1" dialog="lg6_u8_g1_33.mp3" qaudio="lg6_u8_g1_34.mp3" ansaudio="lg6_u8_g1_35.mp3" negaudio="lg6_u8_g1_36.mp3" />
+
+	</questions>
+	
+</activity>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="5" exercise="3" rubric="Listen and choose." finalText="4" finalTimeout="1">
+	<sounds>
+		<sound id="rubricSound"><![CDATA[sounds/lg3_u5_g3_rubric.mp3]]></sound>
+		<sound id="goodSound"><![CDATA[sounds/good.mp3]]></sound>
+		<sound id="badSound"><![CDATA[sounds/bad.mp3]]></sound>
+		<sound id="doneSound"><![CDATA[sounds/lg2_ma_b4.mp3]]></sound>
+		<gameaudio id="gameaudio_0_1_0" nrp="8"><![CDATA[sounds/lg3_u5_g3_1.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_0_1_1" nrp="1"><![CDATA[sounds/lg3_u5_g3_2.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_0_0_0" nrp="4"><![CDATA[sounds/lg3_u5_g3_3.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_0_0_1" nrp="2"><![CDATA[sounds/lg3_u5_g3_4.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_3_1_0" nrp="5"><![CDATA[sounds/lg3_u5_g3_5.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_3_1_1" nrp="3"><![CDATA[sounds/lg3_u5_g3_6.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_3_0_0" nrp="1"><![CDATA[sounds/lg3_u5_g3_7.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_3_0_1" nrp="4"><![CDATA[sounds/lg3_u5_g3_8.mp3]]></gameaudio>	
+		<gameaudio id="gameaudio_2_1_0" nrp="7"><![CDATA[sounds/lg3_u5_g3_9.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_2_1_1" nrp="9"><![CDATA[sounds/lg3_u5_g3_10.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_2_0_0" nrp="2"><![CDATA[sounds/lg3_u5_g3_11.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_2_0_1" nrp="4"><![CDATA[sounds/lg3_u5_g3_12.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_1_1_0" nrp="6"><![CDATA[sounds/lg3_u5_g3_13.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_1_1_1" nrp="1"><![CDATA[sounds/lg3_u5_g3_14.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_1_0_0" nrp="3"><![CDATA[sounds/lg3_u5_g3_15.mp3]]></gameaudio>
+		<gameaudio id="gameaudio_1_0_1" nrp="2"><![CDATA[sounds/lg3_u5_g3_16.mp3]]></gameaudio>	
+	</sounds>
+</activity>

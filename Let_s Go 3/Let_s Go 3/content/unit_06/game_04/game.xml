@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<settings unit="Unit 6" exercise="4" rubric_text="Listen and choose." rubric_sound="sounds/lg3_u6_g4_rubric.mp3" finalText="4" done_sound="sounds/lg3_ma_g4.mp3" good_sound="sounds/good.mp3" bad_sound="sounds/wrong.mp3" distracters="2"></settings>
+	<sourcelist midle_x="480" midle_y="380" item_spaceing="1"></sourcelist>
+	<paragraphs>
+		<paragraph distracters="does,makes,swimming,leave,always,stay" anim="swf/anim1.swf" sound="sounds/lg3_u6_g4_1.mp3">
+			<answer name="leaves" gap_x="330" gap_y="209"></answer>
+			<answer name="morning" gap_x="509" gap_y="209"></answer>
+			<answer name="Before" gap_x="166" gap_y="244"></answer>
+			<answer name="goes" gap_x="302" gap_y="244"></answer>
+			<answer name="studies" gap_x="568" gap_y="244"></answer>
+			<answer name="Saturdays" gap_x="218" gap_y="278"></answer>
+			<answer name="Usually" gap_x="408" gap_y="278"></answer>
+			<answer name="karate" gap_x="554" gap_y="278"></answer>
+		</paragraph>
+		<paragraph distracters="makes,skating,football,never,goes" anim="swf/anim2.swf" sound="sounds/lg3_u6_g4_2.mp3">
+			<answer name="gets up" gap_x="375" gap_y="212"></answer>
+			<answer name="practices" gap_x="341" gap_y="246"></answer>
+			<answer name="piano" gap_x="441" gap_y="246"></answer>
+			<answer name="After" gap_x="512" gap_y="246"></answer>
+			<answer name="does" gap_x="244" gap_y="281"></answer>
+			<answer name="Sundays" gap_x="435" gap_y="281"></answer>
+			<answer name="Usually" gap_x="219" gap_y="315"></answer>
+			<answer name="plays" gap_x="323" gap_y="315"></answer>
+		</paragraph>
+		<paragraph distracters="does,plays,walks,never,sometimes,9:00 a.m." anim="swf/anim3.swf" sound="sounds/lg3_u6_g4_3.mp3">
+			<answer name="goes" gap_x="344" gap_y="212"></answer>
+			<answer name="7:45 a.m." gap_x="592" gap_y="212"></answer>
+			<answer name="always" gap_x="315" gap_y="246"></answer>
+			<answer name="before" gap_x="355" gap_y="281"></answer>
+			<answer name="bed" gap_x="480" gap_y="280"></answer>
+			<answer name="Sundays" gap_x="232" gap_y="315"></answer>
+			<answer name="watches" gap_x="456" gap_y="315"></answer>
+		</paragraph>
+		<paragraph distracters="sometimes,always,7:30 a.m.,walks,Mondays,stay" anim="swf/anim4.swf" sound="sounds/lg3_u6_g4_4.mp3">
+			<answer name="usually" gap_x="275" gap_y="212"></answer>
+			<answer name="Before" gap_x="214" gap_y="246"></answer>
+			<answer name="goes" gap_x="416" gap_y="246"></answer>
+			<answer name="practice" gap_x="566" gap_y="246"></answer>
+			<answer name="homework" gap_x="309" gap_y="281"></answer>
+			<answer name="TV" gap_x="535" gap_y="281"></answer>
+			<answer name="Saturdays" gap_x="255" gap_y="315"></answer>
+			<answer name="sleeps" gap_x="476" gap_y="315"></answer>
+		</paragraph>
+	</paragraphs>
+</game>

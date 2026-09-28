@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings id="top" unit="1" exercise="4" finalText="1" rubricMc="mcRubric" rubric="Read and match." finalTimeout="0" nextQuestionTimeout="1.5">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg3_u1_g4_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg3_ma_g6.mp3]]></done>
+		<ping id="pingSound"><![CDATA[sounds/ok2.mp3]]></ping>
+	</sounds>
+	<items id="items" questions="8">
+		
+		<item id="1" sound1="sounds/lg3_u1_g4_1.mp3" sound2="sounds/lg3_u1_g4_2.mp3" sound3="sounds/lg3_u1_g4_17.mp3" sound4="sounds/lg3_u1_g4_18.mp3" />
+		<item id="2" sound1="sounds/lg3_u1_g4_3.mp3" sound2="sounds/lg3_u1_g4_4.mp3" sound3="sounds/lg3_u1_g4_19.mp3" sound4="sounds/lg3_u1_g4_20.mp3"/>
+		<item id="3" sound1="sounds/lg3_u1_g4_5.mp3" sound2="sounds/lg3_u1_g4_6.mp3" sound3="sounds/lg3_u1_g4_21.mp3" sound4="sounds/lg3_u1_g4_22.mp3"/>
+		<item id="4" sound1="sounds/lg3_u1_g4_7.mp3" sound2="sounds/lg3_u1_g4_8.mp3" sound3="sounds/lg3_u1_g4_23.mp3" sound4="sounds/lg3_u1_g4_24.mp3"/>
+		<item id="5" sound1="sounds/lg3_u1_g4_9.mp3" sound2="sounds/lg3_u1_g4_10.mp3" sound3="sounds/lg3_u1_g4_25.mp3" sound4="sounds/lg3_u1_g4_26.mp3" />
+		<item id="6" sound1="sounds/lg3_u1_g4_11.mp3" sound2="sounds/lg3_u1_g4_12.mp3" sound3="sounds/lg3_u1_g4_27.mp3" sound4="sounds/lg3_u1_g4_28.mp3" />
+		<item id="7" sound1="sounds/lg3_u1_g4_13.mp3" sound2="sounds/lg3_u1_g4_14.mp3" sound3="sounds/lg3_u1_g4_29.mp3" sound4="sounds/lg3_u1_g4_30.mp3"/>
+		<item id="8" sound1="sounds/lg3_u1_g4_15.mp3" sound2="sounds/lg3_u1_g4_16.mp3" sound3="sounds/lg3_u1_g4_31.mp3" sound4="sounds/lg3_u1_g4_32.mp3"/>		
+				
+	</items>
+</settings>

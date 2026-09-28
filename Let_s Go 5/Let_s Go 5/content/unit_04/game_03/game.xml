@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<settings unit="Unit 4" exercise="3" rubric_text="Read and match." rubric_sound="sounds/lg5_u4_g3_rubric.mp3" endSnd="" finalText="3" done_sound="sounds/lg5_ma_g3.mp3" good_sound="sounds/good.mp3" bad_sound="sounds/wrong.mp3" distracters="0" good_work="sounds/lg5_ma_b6.mp3" nice_try="sounds/lg5_ma_b7.mp3"></settings>
+	<sourcelist midle_x="452" midle_y="485" item_spaceing="1"></sourcelist>
+	<paragraphs>
+		<paragraph anim="swf/anim1.swf" sound="sounds/lg5_u4_g3_1.mp3">
+			<answer name="well" gap_x="473" gap_y="331"></answer>
+			<answer name="a lot of" gap_x="198" gap_y="366"></answer>
+			<answer name="slowly" gap_x="495" gap_y="366"></answer>
+			<answer name="carefully" gap_x="593" gap_y="366"></answer>
+			<answer name="quickly" gap_x="357" gap_y="400"></answer>
+			<answer name="never" gap_x="440" gap_y="400"></answer>
+			<answer name="messy" gap_x="235" gap_y="435"></answer>
+			<answer name="always" gap_x="330" gap_y="435"></answer>
+		</paragraph>
+		<paragraph anim="swf/anim2.swf" sound="sounds/lg5_u4_g3_2.mp3">
+			<answer name="a lot of" gap_x="415" gap_y="321"></answer>
+			<answer name="well" gap_x="229" gap_y="356"></answer>
+			<answer name="carefully" gap_x="472" gap_y="356"></answer>
+			<answer name="messy" gap_x="270" gap_y="390"></answer>
+			<answer name="sometimes" gap_x="479" gap_y="390"></answer>
+			<answer name="quickly" gap_x="595" gap_y="390"></answer>
+			<answer name="mistakes" gap_x="320" gap_y="425"></answer>
+			<answer name="don't" gap_x="428" gap_y="425"></answer>
+		</paragraph>
+		<paragraph anim="swf/anim3.swf" sound="sounds/lg5_u4_g3_3.mp3">
+			<answer name="many" gap_x="393" gap_y="321"></answer>
+			<answer name="a lot of" gap_x="553" gap_y="321"></answer>
+			<answer name="always" gap_x="336" gap_y="356"></answer>
+			<answer name="never" gap_x="477" gap_y="356"></answer>
+			<answer name="quickly" gap_x="386" gap_y="390"></answer>
+			<answer name="quickly" gap_x="490" gap_y="390"></answer>
+			<answer name="quickly" gap_x="239" gap_y="425"></answer>
+			<answer name="careless" gap_x="350" gap_y="425"></answer>
+		</paragraph>
+	</paragraphs>
+</game>
+

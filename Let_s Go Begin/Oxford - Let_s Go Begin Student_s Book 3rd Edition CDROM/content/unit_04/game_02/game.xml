@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity type="pelmanism" unit="4" exercise="2" columns="4" back1="swf/back1.swf" back2="swf/back2.swf" cardWidth="160" cardHeight="132" goodSound="sound/good.mp3" wrongSound="sound/bad.mp3" soundDone="sound/lb_ma_g4.mp3" soundRubric="sound/lb_u4_g2_rubric.mp3" finalText="4" startx="95" starty="145" gridMargin="0">
+	<set id="0" pairs="6">
+		<pair card1="swf/card1.swf" card2="swf/card1_lit.swf" sound1="sound/lb_u4_g2_1.mp3" sound2="sound/lb_u4_g2_1.mp3"/>
+		<pair card1="swf/card2.swf" card2="swf/card2_lit.swf" sound1="sound/lb_u4_g2_2.mp3" sound2="sound/lb_u4_g2_2.mp3"/>
+		<pair card1="swf/card3.swf" card2="swf/card3_lit.swf" sound1="sound/lb_u4_g2_3.mp3" sound2="sound/lb_u4_g2_3.mp3"/>
+		<pair card1="swf/card4.swf" card2="swf/card4_lit.swf" sound1="sound/lb_u4_g2_4.mp3" sound2="sound/lb_u4_g2_4.mp3"/>
+		<pair card1="swf/card5.swf" card2="swf/card5_lit.swf" sound1="sound/lb_u4_g2_5.mp3" sound2="sound/lb_u4_g2_5.mp3"/>
+		<pair card1="swf/card6.swf" card2="swf/card6_lit.swf" sound1="sound/lb_u4_g2_6.mp3" sound2="sound/lb_u4_g2_6.mp3"/>
+		<pair card1="swf/card7.swf" card2="swf/card7_lit.swf" sound1="sound/lb_u4_g2_7.mp3" sound2="sound/lb_u4_g2_7.mp3"/>
+		<pair card1="swf/card8.swf" card2="swf/card8_lit.swf" sound1="sound/lb_u4_g2_8.mp3" sound2="sound/lb_u4_g2_8.mp3"/>
+		<pair card1="swf/card9.swf" card2="swf/card9_lit.swf" sound1="sound/lb_u4_g2_9.mp3" sound2="sound/lb_u4_g2_9.mp3"/>
+		<pair card1="swf/card10.swf" card2="swf/card10_lit.swf" sound1="sound/lb_u4_g2_10.mp3" sound2="sound/lb_u4_g2_10.mp3"/>
+		</set>
+</activity>

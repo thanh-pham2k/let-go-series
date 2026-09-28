@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="" exercise="" rubric="Listen and choose." rubric2="Read and choose." rubric3="Read and choose." timeout="" finalTimeout="" finalText="3">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg5_u1_g1_rubric.mp3</rubric>
+		<rubric2 id="rubricSound2">sounds/lg5_u1_g4_rubric.mp3</rubric2>
+		<rubric3 id="rubricSound3">sounds/lg5_u1_g4_rubric.mp3</rubric3>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<done id="doneSound">sounds/lg5_ma_g3.mp3</done>
+		<done2 id="doneSound2">sounds/lg5_ma_g7.mp3</done2>
+	</sounds>
+	<questions>
+		<question question="There are five bottles of water." picture1="pictures/item_1a.swf" picture2="pictures/item_1b.swf" audio="sounds/lg5_u1_g1_17.mp3"/>
+		<question question="There isn’t any juice." picture1="pictures/item_2a.swf" picture2="pictures/item_2b.swf" audio="sounds/lg5_u1_g1_15.mp3"/>
+		<question question="There are three bowls of rice." picture1="pictures/item_3a.swf" picture2="pictures/item_3b.swf" audio="sounds/lg5_u1_g1_20.mp3"/>
+		<question question="There is one cup of tea." picture1="pictures/item_4a.swf" picture2="pictures/item_4b.swf" audio="sounds/lg5_u1_g1_22.mp3"/>
+		<question question="The polar bear is lighter than the rhinoceros." picture1="pictures/item_5a.swf" picture2="pictures/item_5b.swf" audio="sounds/lg5_u2_g4_32.mp3"/>
+		<question question="The helicopter is faster than the bicycle." picture1="pictures/item_6a.swf" picture2="pictures/item_6b.swf" audio="sounds/lg5_u2_g4_16.mp3"/>
+		<question question="The cake is more delicious than the cookie." picture1="pictures/item_7a.swf" picture2="pictures/item_7b.swf" audio="sounds/lg5_u2_g4_14.mp3"/>
+		<question question="The gazelle is faster than the jaguar." picture1="pictures/item_8a.swf" picture2="pictures/item_8b.swf" audio="sounds/lg5_u2_r1_7.mp3"/>
+	</questions>
+	<questions>
+		<question question1="There is " question2="" answer1="one box of cookies." answer2="two boxes of cookies." answer3="one bag of cookies." answer4="one carton of cookies." picture="pictures/pic_1.swf" audio="sounds/lg5_u1_g1_4.mp3"/>
+		<question question1="There are " question2="" answer1="two boxes of cookies." answer2="two box of cookies." answer3="two bags of cookies." answer4="two pieces of cookies." picture="pictures/pic_2.swf" audio="sounds/lg5_u1_g1_5.mp3"/>
+		<question question1="There are " question2="" answer1="six pieces of pizza." answer2="six of pizza." answer3="six pizzas." answer4="isn’t any pizza." picture="pictures/pic_3.swf" audio="sounds/lg5_u1_g1_11.mp3"/>
+		<question question1="There are " question2="" answer1="three bags of pretzels." answer2="three pretzels." answer3="two bags pretzel." answer4="three pieces of pretzels." picture="pictures/pic_4.swf" audio="sounds/lg5_u1_g1_8.mp3"/>
+		<question question1="The " question2=" is the lightest." answer1="polar bear" answer2="wolf" answer3="jaguar" answer4="bear" picture="pictures/pic_5.swf" audio="sounds/lg5_u2_g4_33.mp3"/>
+		<question question1="The " question2=" is heavier than the skunk." answer1="wolf" answer2="jaguar" answer3="dog" answer4="lion" picture="pictures/pic_6.swf" audio="sounds/lg5_u2_r1_5.mp3"/>
+		<question question1="The " question2=" is lighter than the rhinoceros." answer1="squirrel" answer2="gazelle" answer3="elephant" answer4="jaguar" picture="pictures/pic_7.swf" audio="sounds/lg5_u2_r1_2.mp3"/>
+		<question question1="The " question2=" is faster than the jaguar." answer1="gazelle" answer2="wolf" answer3="giraffe" answer4="squirrel" picture="pictures/pic_8.swf" audio="sounds/lg5_u2_r1_7.mp3"/>
+	</questions>
+	<questions>
+		<question question1="" question2="" answer1="There is a little tape." answer2="There is a lot of tape." answer3="There is a few tape." answer4="There is a little glue." picture="pictures/pic_9.swf" audio="sounds/lg5_u1_g4_4.mp3"/>
+		<question question1="" question2="" answer1="There is a little paint." answer2="There is a lot of paint." answer3="There are many paint." answer4="There is a little markers." picture="pictures/pic_10.swf" audio="sounds/lg5_u1_g4_6.mp3"/>
+		<question question1="" question2="" answer1="There are a lot of birds." answer2="There is a lot of birds." answer3="There are a few birds." answer4="There is many birds." picture="pictures/pic_11.swf" audio="sounds/lg5_u1_g4_7.mp3"/>
+		<question question1="" question2="" answer1="There are a few cats." answer2="There is cats." answer3="There are a lot of cats." answer4="There are many cats." picture="pictures/pic_12.swf" audio="sounds/lg5_u1_g4_8.mp3"/>
+		<question question1="" question2="" answer1="The cake is the most delicious." answer2="The ice cream is less delicious than the cookie." answer3="The cake is less delicious than the cookie." answer4="The cake is the least delicious." picture="pictures/pic_13.swf" audio="sounds/lg5_u2_g4_15.mp3"/>
+		<question question1="" question2="" answer1="The music player is less expensive than the video game." answer2="The video game is more expensive than the computer." answer3="The video game is the least expensive." answer4="The music player is the most expensive." picture="pictures/pic_14.swf" audio="sounds/lg5_u2_g4_35.mp3"/>
+		<question question1="" question2="" answer1="The bicycle is slower than the helicopter." answer2="The bicycle is faster than the helicopter." answer3="The bicycle is slowest than the helicopter." answer4="The bicycle is slowly than the helicopter." picture="pictures/pic_15.swf" audio="sounds/lg5_u2_g4_20.mp3"/>
+		<question question1="" question2="" answer1="The truck is the heaviest." answer2="The truck is the heavier." answer3="The truck is the more heaviest." answer4="The truck is the least lighter." picture="pictures/pic_16.swf" audio="sounds/lg5_u2_g4_3.mp3"/>
+	</questions>
+</activity>

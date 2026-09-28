@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="8" exercise="3" timer="60" rubricSound="lg6_u8_g3_rubric.mp3" finalAudio="lg6_ma_b6.mp3" finalAudio2="lg6_ma_b7.mp3" pic="lg6_unit08_game03.swf">
+
+	<sounds>
+		
+		<sound id="soundGood" file="good.mp3"/>
+		<sound id="soundWrong" file="bad.mp3" />
+		<sound id="soundOver" file="over.mp3" />
+		<sound id="timeUp" file="out_of_time.mp3"/>
+		<sound id="questionSound" file="lg6_u8_g2_1.mp3"/>
+
+	</sounds>
+	<questions1 audio="lg6_u8_g3_1.mp3" fr="2">
+		<quest opt="I’d|She’d|I’ll"/>
+		<quest opt="go|do|buy"/>
+		<quest opt="Galapagos Islands|Costa Rica|jungle"/>
+		<quest opt="I’ve|I’d|I’ll"/>
+		<quest opt="heard|hear|seen"/>
+		<quest opt="penguins|tigers|lions"/>
+		<quest opt="I’d like|really|have"/>
+		<quest opt="see|go|do"/>
+		
+	</questions1>
+
+	<questions2 audio="lg6_u8_g3_2.mp3" fr="4">
+
+		<quest opt="I’d|I’ll|I’ve"/>
+		<quest opt="go|do|buy"/>
+		<quest opt="Alaska|Kenya|London"/>
+		<quest opt="Alaska|Kenya|India"/>
+		<quest opt="Alaska|India|Mexico"/>
+		<quest opt="I’ve|I’d|I’ll"/>
+		<quest opt="never|have|ever"/>
+		<quest opt="seen|saw|bought"/>
+	
+		
+	</questions2>
+
+	<questions3 audio="lg6_u8_g3_3.mp3" fr="5">
+		<quest opt="I’d|I’ll|I’ve"/>
+		<quest opt="go|do|buy"/>
+		<quest opt="India|Kenya|Alaska"/>
+		<quest opt="food|places|anything"/>
+		<quest opt="like|liked|bought"/>
+		<quest opt="I’d|He’d|I’ll"/>
+		<quest opt="see|visited|rent"/>
+		<quest opt="Taj Mahal|Mexican pyramids|glaciers"/>
+		
+	
+	</questions3>
+
+	<questions4 audio="lg6_u8_g3_4.mp3" fr="1">
+		<quest opt="go|buy|get"/>
+		<quest opt="Mexico|Kenya|India"/>
+		<quest opt="pyramids|Egyptian pyramids|Mexican pyramids"/>
+		<quest opt="I’ve|I’ll|I’d"/>
+		<quest opt="seen|been|saw"/>
+		<quest opt="pyramids |glaciers|penguins"/>
+		<quest opt="Egypt|Alaska|Galapagos Islands"/>
+		<quest opt="see|seen|seeing"/>
+
+			
+	</questions4>
+	
+	<questions5 audio="lg6_u8_g3_5.mp3" fr="3">
+		<quest opt="I’d|I’ll|I’m"/>
+		<quest opt="Kenya|India|the zoo"/>
+		<quest opt="take pictures|took pictures|print pictures"/>
+		<quest opt="I’ve|I’ll|I’d"/>	
+		<quest opt="seen|been|saw"/>	
+		<quest opt="I’d|I’ll|I’m"/>	
+		<quest opt="like|liked|liking"/>	
+		<quest opt="see|buy|go"/>	
+
+		
+	</questions5>
+
+
+	<questions6 audio="lg6_u8_g3_6.mp3" fr="6">
+		<quest opt="I’ve|I’d|I’ll"/>
+		<quest opt="heard|hear|see"/>
+		<quest opt="India|Mexico|Kenya"/>
+		<quest opt="amazing|amazed|interested"/>
+		<quest opt="went|wasn’t|saw"/>
+		<quest opt="saw|went|visit"/>
+		<quest opt="Taj Mahal|India|pyramids"/>
+		<quest opt="visit|seen|saw"/>
+		
+	</questions6>
+
+	<questions7 audio="lg6_u8_g3_7.mp3" fr="1">
+		<quest opt="Mexico|Kenya|Alaska"/>
+		<quest opt="last|next|since"/>
+		<quest opt="already|since|yet"/>
+		<quest opt="been|saw|visit"/>
+		<quest opt="could|would|should"/>
+		<quest opt="anywhere|anything|anyone"/>
+		<quest opt="next|last|for"/>
+		<quest opt="go|see|visiting"/>
+
+
+	</questions7>
+
+	<questions8 audio="lg6_u8_g3_8.mp3" fr="3">
+		<quest opt="have|had|can"/>
+		<quest opt="been|seen|was"/>
+		<quest opt="working|work|worked"/>
+		<quest opt="for|since|already"/>
+		<quest opt="could|would|should"/>
+		<quest opt="anywhere|anyone|anything"/>
+		<quest opt="next|last|already"/>
+		<quest opt="to go|to went|to visiting"/>
+
+
+	</questions8>	
+
+
+	<questions9 audio="lg6_u8_g3_9.mp3" fr="4">
+		<quest opt="have been|had being|had gone"/>
+		<quest opt="studying|study|studied"/>
+		<quest opt="since|for|yet"/>
+		<quest opt="went|gone|going"/>
+		<quest opt="see|saw|watched"/>
+		<quest opt="hadn’t|haven’t|hasn’t"/>
+		<quest opt="seen|saw|seeing"/>
+		<quest opt="exciting|excited|amazed"/>
+	
+	</questions9>	
+
+
+	<txt1><![CDATA[| | to the |. | | they have | and giant tortoises there. | to | those!]]></txt1>
+	<txt2><![CDATA[| like to | to |. I'd love to ski in |. There are also a lot of glaciers in |. | | | one before, but I’d like to.]]></txt2> 
+	<txt3><![CDATA[| | to |. I love hot, spicy |, and I | Indian music. | also like to | the |.]]></txt3>
+	<txt4><![CDATA[I’d | to | and see the Mayan |. | | the | in |, but I’d like to | Mexico, too.]]></txt4>
+	<txt5><![CDATA[| go to | and see wild animals and | of them. | | animals in a zoo, but | | to | wild animals in their homes.]]></txt5>
+	<txt6><![CDATA[| | | is |. I | there last summer, and I | the |. It was beautiful! There are so many things to do. I’d like to | India again!]]></txt6> 
+	<txt7><![CDATA[My parents took me to | again | June. We have | | to the Mayan pyramids, but it was still fun. If I | go | | summer, I’d | to Egypt!]]></txt7>
+	<txt8><![CDATA[I | | | with animals on the farm | two years. Last week, I went to Kenya and saw wild animals. If I | go | | year, I’d like | to the beach!]]></txt8>
+	<txt9><![CDATA[I | | in Alaska | 2006. I finally | on a vacation. I went to | a glacier. I | | one before. It was |, but it was very cold outside!]]></txt9>
+
+
+
+
+</activity>
+	
+
+
+

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="8" exercise="1" rubric="Answer the questions." finalTimeout="1" soundElement1="sounds/element01.mp3" soundElement2="sounds/element02.mp3" soundElement3="sounds/element03.mp3">
+	<sounds>
+		<rubric id="rubricSound"><![CDATA[sounds/lg1_u8_g1_rubric.mp3]]></rubric>
+		<good id="goodSound"><![CDATA[]]></good>
+		<bad id="badSound"><![CDATA[]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_b1.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+	<colors id="colors" x="175" y="83">
+		<color id="0" text="yellow" sound="sounds/lg1_u8_g1_5.mp3" />
+		<color id="1" text="blue" sound="sounds/lg1_u8_g1_4.mp3" />
+		<color id="2" text="red" sound="sounds/lg1_u8_g1_3.mp3" />
+		<color id="3" text="green" sound="sounds/lg1_u8_g1_7.mp3" />
+		<color id="4" text="orange" sound="sounds/lg1_u8_g1_6.mp3" />
+		<color id="5" text="purple" sound="sounds/lg1_u8_g1_8.mp3" />
+		<color id="6" text="pink" sound="sounds/lg1_u8_g1_9.mp3" />
+		<color id="7" text="brown" sound="sounds/lg1_u8_g1_10.mp3" />
+		<color id="8" text="black" sound="sounds/lg1_u8_g1_11.mp3" />
+		<color id="9" text="gray" sound="sounds/lg1_u8_g1_13.mp3" />
+		<color id="10" text="white" sound="sounds/lg1_u8_g1_12.mp3" />
+	</colors>
+	<animals id="animals" x="47" y="150">
+		<animal id="0" text="dogs" sound="sounds/lg1_u8_g1_15.mp3" />
+		<animal id="1" text="cats" sound="sounds/lg1_u8_g1_16.mp3" />
+		<animal id="2" text="birds" sound="sounds/lg1_u8_g1_17.mp3" />
+		<animal id="3" text="rabbits" sound="sounds/lg1_u8_g1_18.mp3" />
+		<animal id="4" text="frogs" sound="sounds/lg1_u8_g1_19.mp3" />
+		<animal id="5" text="turtles" sound="sounds/lg1_u8_g1_20.mp3" />
+		<animal id="6" text="monkeys" sound="sounds/lg1_u8_g1_21.mp3" />
+		<animal id="7" text="lions" sound="sounds/lg1_u8_g1_22.mp3" />
+		<animal id="8" text="tigers" sound="sounds/lg1_u8_g1_23.mp3" />
+		<animal id="9" text="bears" sound="sounds/lg1_u8_g1_24.mp3" />
+		<animal id="10" text="giraffes" sound="sounds/lg1_u8_g1_25.mp3" />
+		<animal id="11" text="elephants" sound="sounds/lg1_u8_g1_26.mp3" />
+	</animals>
+	<food id="food" x="66" y="242.5">
+		<food id="0" text="oranges" sound="sounds/lg1_u8_g1_28.mp3" />
+		<food id="1" text="bananas" sound="sounds/lg1_u8_g1_29.mp3" />
+		<food id="2" text="soda" sound="sounds/lg1_u8_g1_30.mp3" />
+		<food id="3" text="milkshakes" sound="sounds/lg1_u8_g1_31.mp3" />
+		<food id="4" text="cookies" sound="sounds/lg1_u8_g1_32.mp3" />
+		<food id="5" text="sandwiches" sound="sounds/lg1_u8_g1_33.mp3" />
+		<food id="6" text="eggs" sound="sounds/lg1_u8_g1_34.mp3" />
+		<food id="7" text="salads" sound="sounds/lg1_u8_g1_35.mp3" />
+		<food id="8" text="chicken" sound="sounds/lg1_u8_g1_36.mp3" />
+		<food id="9" text="fish" sound="sounds/lg1_u8_g1_37.mp3" />
+		<food id="10" text="pizza" sound="sounds/lg1_u8_g1_38.mp3" />
+		<food id="11" text="bread" sound="sounds/lg1_u8_g1_39.mp3" />
+		<food id="12" text="rice" sound="sounds/lg1_u8_g1_40.mp3" />
+		<food id="13" text="milk" sound="sounds/lg1_u8_g1_41.mp3" />
+		<food id="14" text="cake" sound="sounds/lg1_u8_g1_42.mp3" />
+		<food id="15" text="ice cream" sound="sounds/lg1_u8_g1_43.mp3" />
+	</food>
+</activity>

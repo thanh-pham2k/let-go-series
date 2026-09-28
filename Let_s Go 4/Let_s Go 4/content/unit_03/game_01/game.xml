@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity type="g1" unit="6" exercise="2" rubric="" rubricMc="mcRubric" timeout="50" finalTimeout="1" finalText="2">
+	<sounds>
+		<rubric id="rubricSound">sounds/lg4_u3_g1_rubric.mp3</rubric>
+		<good id="goodSound">sounds/good.mp3</good>
+		<bad id="badSound">sounds/bad.mp3</bad>
+		<over id="overSound">sounds/out_of_time.mp3</over>
+		<done id="doneSound">sounds/lg4_ma_b2.mp3</done>
+		<tik id="tikSound">sounds/tick.mp3</tik>
+		<cards id="cardsSound">sounds/cards.mp3</cards>
+	</sounds>
+	<sentence>
+		<sentence id="1" child="1" _text ="astronaut" Audio="lg4_u3_g1_1.mp3" clip="pictures/job1.swf" clip2="pictures/pic1.swf"/>
+		<sentence id="2" child="2" _text ="astronaut" Audio="lg4_u3_g1_9.mp3" clip="pictures/job2.swf" clip2="pictures/pic2.swf"/>
+		<sentence id="3" child="3" _text ="singer" Audio="lg4_u3_g1_2.mp3" clip="pictures/job3.swf" clip2="pictures/pic3.swf"/>
+		<sentence id="4" child="4" _text ="singer" Audio="lg4_u3_g1_10.mp3" clip="pictures/job4.swf" clip2="pictures/pic4.swf"/>
+		<sentence id="5" child="5" _text ="musician" Audio="lg4_u3_g1_3.mp3" clip="pictures/job5.swf" clip2="pictures/pic5.swf"/>
+		<sentence id="6" child="6" _text ="musician" Audio="lg4_u3_g1_11.mp3" clip="pictures/job6.swf" clip2="pictures/pic6.swf"/>
+		<sentence id="7" child="3" _text ="news reporter" Audio="lg4_u3_g1_4.mp3" clip="pictures/job7.swf" clip2="pictures/pic7.swf"/>
+		<sentence id="8" child="2" _text ="news reporter" Audio="lg4_u3_g1_12.mp3" clip="pictures/job8.swf" clip2="pictures/pic8.swf"/>
+		<sentence id="9" child="7" _text ="writer" Audio="lg4_u3_g1_5.mp3" clip="pictures/job9.swf" clip2="pictures/pic9.swf"/>
+		<sentence id="10" child="8" _text ="writer" Audio="lg4_u3_g1_13.mp3" clip="pictures/job10.swf" clip2="pictures/pic10.swf"/>
+		<sentence id="11" child="5" _text ="scientist" Audio="lg4_u3_g1_6.mp3" clip="pictures/job11.swf" clip2="pictures/pic11.swf"/>
+		<sentence id="12" child="8" _text ="scientist" Audio="lg4_u3_g1_14.mp3" clip="pictures/job12.swf" clip2="pictures/pic12.swf"/>
+		<sentence id="13" child="1" _text ="salesclerk" Audio="lg4_u3_g1_7.mp3" clip="pictures/job13.swf" clip2="pictures/pic13.swf"/>
+		<sentence id="14" child="6" _text ="veterinarian" Audio="lg4_u3_g1_15.mp3" clip="pictures/job14.swf" clip2="pictures/pic14.swf"/>
+		<sentence id="15" child="7" _text ="photographer" Audio="lg4_u3_g1_8.mp3" clip="pictures/job15.swf" clip2="pictures/pic15.swf"/>
+		<sentence id="16" child="4" _text ="dancer" Audio="lg4_u3_g1_16.mp3" clip="pictures/job16.swf" clip2="pictures/pic16.swf"/>
+	</sentence>
+</activity>

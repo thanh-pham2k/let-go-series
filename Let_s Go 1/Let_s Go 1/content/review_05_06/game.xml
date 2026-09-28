@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<activity unit="Review 5-6" exercise="" rubric="Find the words." finalText="6" finalTimeout="1" xWord="100" yWord="20">
+	<sounds>
+		<good id="rubricSound"><![CDATA[sounds/lg1_u6_r3_rubric.mp3]]></good>
+		<good id="goodSound"><![CDATA[sounds/good.mp3]]></good>
+		<bad id="badSound"><![CDATA[sounds/bad.mp3]]></bad>
+		<done id="doneSound"><![CDATA[sounds/lg1_ma_g6.mp3]]></done>
+		<over id="overSound"><![CDATA[]]></over>
+	</sounds>
+</activity>

@@ -1,0 +1,614 @@
+{
+  "format_version": "1.0",
+  "unit": "Unit 1 - Toys",
+  "source_archive": "Unit_1_Toys_audio_mapping.zip",
+  "item_count": 17,
+  "image_role": "lesson page, not answer choice icon",
+  "layout_file": "manifest.json",
+  "items": [
+    {
+      "track": "CD1_02",
+      "audio_name_in_book": "CD1 02",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 2,
+      "image": "pages/webp/CD1_02.webp",
+      "audio_file": "audio/Track02.mp3",
+      "source_image": "images/CD1_02_A_Lets_talk.jpg",
+      "size": [
+        1200,
+        1080
+      ],
+      "question": {
+        "id": "U1-CD1_02",
+        "prompt": "Bạn gái trong hình trả lời tên mình bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm Kate."
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "Sit down."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_02"
+    },
+    {
+      "track": "CD1_03",
+      "audio_name_in_book": "CD1 03",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 2,
+      "image": "pages/webp/CD1_03.webp",
+      "audio_file": "audio/Track03.mp3",
+      "source_image": "images/CD1_03_B_Say_and_act.jpg",
+      "size": [
+        1200,
+        660
+      ],
+      "question": {
+        "id": "U1-CD1_03",
+        "prompt": "Ở tình huống số 2, Ginger giới thiệu tên mình bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It's a yo-yo."
+          },
+          {
+            "id": "B",
+            "text": "I'm Ginger."
+          },
+          {
+            "id": "C",
+            "text": "Stand up."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_03"
+    },
+    {
+      "track": "CD1_04",
+      "audio_name_in_book": "CD1 04",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 3,
+      "image": "pages/webp/CD1_04.webp",
+      "audio_file": "audio/Track04.mp3",
+      "source_image": "images/CD1_04_C_Lets_sing.jpg",
+      "size": [
+        1200,
+        1060
+      ],
+      "question": {
+        "id": "U1-CD1_04",
+        "prompt": "Trong bài hát chào hỏi, câu nào dùng để hỏi tên một bạn?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "What is it?"
+          },
+          {
+            "id": "B",
+            "text": "Sit down."
+          },
+          {
+            "id": "C",
+            "text": "Hi, what's your name?"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_04"
+    },
+    {
+      "track": "CD1_05",
+      "audio_name_in_book": "CD1 05",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 3,
+      "image": "pages/webp/CD1_05.webp",
+      "audio_file": "audio/Track05.mp3",
+      "source_image": "images/CD1_05_D_Lets_move.jpg",
+      "size": [
+        1200,
+        740
+      ],
+      "question": {
+        "id": "U1-CD1_05",
+        "prompt": "Khi nghe “Stand up”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ngồi xuống."
+          },
+          {
+            "id": "B",
+            "text": "Đứng lên."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_05"
+    },
+    {
+      "track": "CD1_06",
+      "audio_name_in_book": "CD1 06",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 3,
+      "image": "pages/webp/CD1_06.webp",
+      "audio_file": "audio/Track06.mp3",
+      "source_image": "images/CD1_06_E_Listen_and_do.jpg",
+      "size": [
+        1200,
+        740
+      ],
+      "question": {
+        "id": "U1-CD1_06",
+        "prompt": "Sau khi nghe bài luyện hành động, “Sit down” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ngồi xuống."
+          },
+          {
+            "id": "B",
+            "text": "Đứng lên."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_06"
+    },
+    {
+      "track": "CD1_07",
+      "audio_name_in_book": "CD1 07",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 4,
+      "image": "pages/webp/CD1_07.webp",
+      "audio_file": "audio/Track07.mp3",
+      "source_image": "images/CD1_07_A_Words.jpg",
+      "size": [
+        1200,
+        1320
+      ],
+      "question": {
+        "id": "U1-CD1_07",
+        "prompt": "Từ “a jump rope” chỉ hình số mấy?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hình 1 – quả bóng."
+          },
+          {
+            "id": "B",
+            "text": "Hình 2 – dây nhảy."
+          },
+          {
+            "id": "C",
+            "text": "Hình 3 – yo-yo."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_07"
+    },
+    {
+      "track": "CD1_08",
+      "audio_name_in_book": "CD1 08",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 4,
+      "image": "pages/webp/CD1_08.webp",
+      "audio_file": "audio/Track08.mp3",
+      "source_image": "images/CD1_08_B_Listen_and_point.jpg",
+      "size": [
+        1200,
+        1320
+      ],
+      "question": {
+        "id": "U1-CD1_08",
+        "prompt": "Sau khi nghe và luyện chỉ hình, bé chọn hình nào ứng với “a bicycle”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hình 1 – quả bóng."
+          },
+          {
+            "id": "B",
+            "text": "Hình 3 – yo-yo."
+          },
+          {
+            "id": "C",
+            "text": "Hình 4 – xe đạp."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_08"
+    },
+    {
+      "track": "CD1_09",
+      "audio_name_in_book": "CD1 09",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 5,
+      "image": "pages/webp/CD1_09.webp",
+      "audio_file": "audio/Track09.mp3",
+      "source_image": "images/CD1_09_C_Sentences.jpg",
+      "size": [
+        1200,
+        1320
+      ],
+      "question": {
+        "id": "U1-CD1_09",
+        "prompt": "Câu “It's a yo-yo” nói về đồ chơi nào trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yo-yo."
+          },
+          {
+            "id": "B",
+            "text": "Quả bóng."
+          },
+          {
+            "id": "C",
+            "text": "Xe đạp."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_09"
+    },
+    {
+      "track": "CD1_10",
+      "audio_name_in_book": "CD1 10",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 4,
+      "book_page": 5,
+      "image": "pages/webp/CD1_10.webp",
+      "audio_file": "audio/Track10.mp3",
+      "source_image": "images/CD1_10_D_Listen_point_and_sing.jpg",
+      "size": [
+        1200,
+        440
+      ],
+      "question": {
+        "id": "U1-CD1_10",
+        "prompt": "Sau khi nghe bài hát và nhìn dãy đồ chơi, hình dây nhảy ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a bicycle"
+          },
+          {
+            "id": "B",
+            "text": "a jump rope"
+          },
+          {
+            "id": "C",
+            "text": "a ball"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_10"
+    },
+    {
+      "track": "CD1_11",
+      "audio_name_in_book": "CD1 11",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 6,
+      "image": "pages/webp/CD1_11.webp",
+      "audio_file": "audio/Track11.mp3",
+      "source_image": "images/CD1_11_A_Words.jpg",
+      "size": [
+        1200,
+        1320
+      ],
+      "question": {
+        "id": "U1-CD1_11",
+        "prompt": "Từ “a teddy bear” chỉ hình số mấy?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hình 2 – ô tô."
+          },
+          {
+            "id": "B",
+            "text": "Hình 3 – búp bê."
+          },
+          {
+            "id": "C",
+            "text": "Hình 4 – gấu bông."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_11"
+    },
+    {
+      "track": "CD1_12",
+      "audio_name_in_book": "CD1 12",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 6,
+      "image": "pages/webp/CD1_12.webp",
+      "audio_file": "audio/Track12.mp3",
+      "source_image": "images/CD1_12_B_Listen_and_point.jpg",
+      "size": [
+        1200,
+        1320
+      ],
+      "question": {
+        "id": "U1-CD1_12",
+        "prompt": "Sau khi nghe và luyện chỉ hình, bé chọn hình nào ứng với “a car”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hình 2 – ô tô."
+          },
+          {
+            "id": "B",
+            "text": "Hình 1 – tàu hỏa."
+          },
+          {
+            "id": "C",
+            "text": "Hình 3 – búp bê."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_12"
+    },
+    {
+      "track": "CD1_13",
+      "audio_name_in_book": "CD1 13",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 7,
+      "image": "pages/webp/CD1_13.webp",
+      "audio_file": "audio/Track13.mp3",
+      "source_image": "images/CD1_13_C_Question_and_answer.jpg",
+      "size": [
+        1200,
+        1320
+      ],
+      "question": {
+        "id": "U1-CD1_13",
+        "prompt": "Bạn gái cầm gấu bông trả lời “What is it?” bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm Kate."
+          },
+          {
+            "id": "B",
+            "text": "It's a teddy bear."
+          },
+          {
+            "id": "C",
+            "text": "Stand up."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_13"
+    },
+    {
+      "track": "CD1_14",
+      "audio_name_in_book": "CD1 14",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 6,
+      "book_page": 7,
+      "image": "pages/webp/CD1_14.webp",
+      "audio_file": "audio/Track14.mp3",
+      "source_image": "images/CD1_14_D_Listen_point_and_sing.jpg",
+      "size": [
+        1200,
+        440
+      ],
+      "question": {
+        "id": "U1-CD1_14",
+        "prompt": "Sau khi nghe bài hát và nhìn dãy đồ chơi, hình tàu hỏa ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a doll"
+          },
+          {
+            "id": "B",
+            "text": "a bicycle"
+          },
+          {
+            "id": "C",
+            "text": "a train"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_14"
+    },
+    {
+      "track": "CD1_15",
+      "audio_name_in_book": "CD1 15",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 8,
+      "image": "pages/webp/CD1_15.webp",
+      "audio_file": "audio/Track15.mp3",
+      "source_image": "images/CD1_15_A_Sing_and_say.jpg",
+      "size": [
+        1200,
+        1310
+      ],
+      "question": {
+        "id": "U1-CD1_15",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau B?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "C"
+          },
+          {
+            "id": "B",
+            "text": "A"
+          },
+          {
+            "id": "C",
+            "text": "D"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_15"
+    },
+    {
+      "track": "CD1_16",
+      "audio_name_in_book": "CD1 16",
+      "exercise": "B. Letters.",
+      "page": 7,
+      "book_page": 8,
+      "image": "pages/webp/CD1_16.webp",
+      "audio_file": "audio/Track16.mp3",
+      "source_image": "images/CD1_16_B_Letters.jpg",
+      "size": [
+        1200,
+        1310
+      ],
+      "question": {
+        "id": "U1-CD1_16",
+        "prompt": "Sau khi nghe đọc chữ cái, bé chọn cặp chữ hoa và chữ thường tương ứng với D.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "D b"
+          },
+          {
+            "id": "B",
+            "text": "D d"
+          },
+          {
+            "id": "C",
+            "text": "D a"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_16"
+    },
+    {
+      "track": "CD1_17",
+      "audio_name_in_book": "CD1 17",
+      "exercise": "A. Ask.",
+      "page": 8,
+      "book_page": 9,
+      "image": "pages/webp/CD1_17.webp",
+      "audio_file": "audio/Track17.mp3",
+      "source_image": "images/CD1_17_A_Ask.jpg",
+      "size": [
+        1200,
+        1020
+      ],
+      "question": {
+        "id": "U1-CD1_17",
+        "prompt": "Bạn số 2 trong hình giới thiệu tên mình bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm Matt."
+          },
+          {
+            "id": "B",
+            "text": "I'm Pete."
+          },
+          {
+            "id": "C",
+            "text": "I'm Beth."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_17"
+    },
+    {
+      "track": "CD1_18",
+      "audio_name_in_book": "CD1 18",
+      "exercise": "B. Answer.",
+      "page": 8,
+      "book_page": 9,
+      "image": "pages/webp/CD1_18.webp",
+      "audio_file": "audio/Track18.mp3",
+      "source_image": "images/CD1_18_B_Answer.jpg",
+      "size": [
+        1200,
+        1100
+      ],
+      "question": {
+        "id": "U1-CD1_18",
+        "prompt": "Nhìn đồ chơi Beth đang cầm ở hình số 2, bé chọn câu trả lời cho “What is it?”.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It's a teddy bear."
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "It's a bicycle."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "layout_manifest_track": "CD1_18"
+    }
+  ]
+}

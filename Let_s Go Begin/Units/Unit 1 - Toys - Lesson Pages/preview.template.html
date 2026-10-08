@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="vi">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Unit 1 · Toys · 17 bài nghe</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#edf3f8;color:#25334a;font:16px Arial,sans-serif}main{max-width:1100px;margin:24px auto;padding:0 20px}h1{font-size:26px}header{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}select,button{font:inherit;border:1px solid #c5d5e5;border-radius:12px;padding:12px;background:white;color:inherit}select{max-width:100%}.lesson{background:white;border-radius:20px;padding:16px;margin:20px 0}img{display:block;width:100%;height:auto;max-height:75vh;object-fit:contain}audio{width:100%;margin-top:16px}#practice{display:none;background:white;padding:24px;border-radius:20px}#choices{display:grid;gap:10px}#choices button{text-align:left;cursor:pointer}#choices button:hover{background:#edf6ff}#result{min-height:28px;font-weight:bold}.note{color:#607184;font-size:14px}nav{display:flex;gap:12px;margin:16px 0}button:disabled{opacity:.45;cursor:default}
+</style>
+<main>
+<header><h1>Unit 1 · Toys</h1><select id="tracks" aria-label="Chọn bài nghe"></select></header>
+<p id="caption" class="note"></p>
+<section class="lesson"><img id="lesson-image" alt=""><audio id="audio" controls preload="metadata"></audio></section>
+<nav><button id="previous">← Bài trước</button><button id="next">Bài tiếp →</button><button id="review">Ôn tập sau khi nghe</button></nav>
+<section id="practice"><h2 id="prompt"></h2><div id="choices"></div><p id="result" aria-live="polite"></p></section>
+</main>
+<script>
+const manifest=/*MANIFEST_JSON*/;
+const pages=manifest.items,select=document.getElementById('tracks'),audio=document.getElementById('audio');
+for(const [i,p] of pages.entries()){const o=document.createElement('option');o.value=i;o.textContent=p.track+' · '+p.exercise;select.append(o)}
+let current=0;
+function show(index){current=index;select.value=index;const p=pages[index];audio.pause();audio.src=p.audio_file;const im=document.getElementById('lesson-image');im.src=p.output.webp;im.alt=p.exercise+' · '+p.track;document.getElementById('caption').textContent=p.track+' · Trang sách '+p.book_page;document.getElementById('practice').style.display='none';document.getElementById('result').textContent='';document.getElementById('previous').disabled=index===0;document.getElementById('next').disabled=index===pages.length-1;document.getElementById('prompt').textContent=p.question.prompt;const choices=document.getElementById('choices');choices.replaceChildren();for(const choice of p.question.choices){const b=document.createElement('button');b.textContent=choice.id+'. '+choice.text;b.onclick=()=>{const correct=choice.id===p.question.correct_choice_id;document.getElementById('result').textContent=correct?'Đúng rồi!':'Chưa đúng, bé thử lại nhé.';document.getElementById('result').style.color=correct?'#167648':'#9b4928'};choices.append(b)}}
+function review(){document.getElementById('practice').style.display='block'}
+select.onchange=()=>show(Number(select.value));document.getElementById('previous').onclick=()=>show(current-1);document.getElementById('next').onclick=()=>show(current+1);document.getElementById('review').onclick=review;audio.addEventListener('ended',review);show(0);
+</script>
+</html>

@@ -1,0 +1,62 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "name": "ball",
+      "subject": "One round toy ball with orange upper area, light blue curved stripe, purple lower area.",
+      "ref": "CD1_07_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-1ce233d0-9bad-4843-9404-29f3f53dac57.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One round toy ball with orange upper area, light blue curved stripe, purple lower area."
+    },
+    {
+      "name": "jump-rope",
+      "subject": "One jump rope: a single continuous pale cord attached to exactly two orange cylindrical handles with green end caps. Cord loosely looped, both handles clearly visible.",
+      "ref": "CD1_07_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-05e3856b-f46d-4b61-84c6-57f2b350a803.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One jump rope: a single continuous pale cord attached to exactly two orange cylindrical handles with green end caps. Cord loosely looped, both handles clearly visible."
+    },
+    {
+      "name": "yo-yo",
+      "subject": "One purple yo-yo with yellow spiral decoration on its face and one clearly visible thin string attached to its axle. Clearly a two-disc yo-yo, not a ball.",
+      "ref": "CD1_07_A_Words.jpg",
+      "source": "C:/Users/PC73/.codex/generated_images/01a11ab8-f928-7650-9745-e48277e63716/exec-ed5a20e5-ad70-42d5-8d6c-0ee2795799c3.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One purple yo-yo with yellow spiral decoration on its face and one clearly visible thin string attached to its axle. Clearly a two-disc yo-yo, not a ball.",
+      "revision_prompt": "Keep the purple yo-yo with yellow spiral and its entire attached cream string inside the square with blank padding on all sides."
+    },
+    {
+      "name": "bicycle",
+      "subject": "One red children's bicycle, exactly two main black wheels, handlebars, seat and pedals clearly visible; no rider. Preserve recognizable bicycle structure.",
+      "ref": "CD1_07_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-ed70a1cd-1636-414e-a630-ef23718ab17b.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One red children's bicycle, exactly two main black wheels, handlebars, seat and pedals clearly visible; no rider. Preserve recognizable bicycle structure."
+    },
+    {
+      "name": "train",
+      "subject": "One toy steam locomotive, dark purple boiler, orange cabin, red wheels, visible chimney. No separate train cars, track scenery or smoke.",
+      "ref": "CD1_11_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-a0dfe082-c7be-4429-854b-e3c858ffa92e.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One toy steam locomotive, dark purple boiler, orange cabin, red wheels, visible chimney. No separate train cars, track scenery or smoke."
+    },
+    {
+      "name": "car",
+      "subject": "One orange toy car with red accent, black tires, purple wheel hubs and pale windows, three-quarter view. No driver.",
+      "ref": "CD1_11_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-aa46d79d-3fb6-4fdc-8422-f384bcbf0d02.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One orange toy car with red accent, black tires, purple wheel hubs and pale windows, three-quarter view. No driver."
+    },
+    {
+      "name": "doll",
+      "subject": "One clearly recognizable cloth toy doll with curly brown hair, red bow, pink dress, pale apron, striped stockings and black shoes, visible fabric seams, friendly face. No human child.",
+      "ref": "CD1_11_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-4c93c3a7-04be-4c72-937f-17fab600c207.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One clearly recognizable cloth toy doll with curly brown hair, red bow, pink dress, pale apron, striped stockings and black shoes, visible fabric seams, friendly face. No human child."
+    },
+    {
+      "name": "teddy-bear",
+      "subject": "One warm brown stuffed teddy bear with round ears, black nose and blue bow at neck, seated pose, visible stuffed-toy character. No other toys.",
+      "ref": "CD1_11_A_Words.jpg",
+      "source": "C:\\Users\\PC73\\.codex\\generated_images\\01a11ab8-f928-7650-9745-e48277e63716\\exec-c72bf086-3f47-4a2b-9594-5c46acf2140b.png",
+      "prompt": "Use case: scientific-educational. Generate ONE individual 1024x1024 square vocabulary illustration for Unit 1 of a young children's English learning app. Style across the set: clean polished children's book 2D illustration, gently rounded shapes, subtle smooth shading, crisp outlines, bright soft colors, plain warm white background. Main toy centered and entirely visible, approximately 70 percent of frame with generous padding. No text, letters, numbers, labels, borders, watermark, people or extra objects. The reference page is subject guidance only; redraw only the specified single toy, never the entire page or a collage. Preserve the original toy identity and main colors.\nSubject: One warm brown stuffed teddy bear with round ears, black nose and blue bow at neck, seated pose, visible stuffed-toy character. No other toys."
+    }
+  ]
+}

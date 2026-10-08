@@ -1,0 +1,111 @@
+{
+  "result": "pass",
+  "item_count": 17,
+  "webp_total_bytes": 1533212,
+  "checks": [
+    {
+      "track": "CD1_02",
+      "status": "pass",
+      "webp_bytes": 117344,
+      "png_sha256": "1ca5c075deb186aa602ad19ec0a1fcdb4ad8e60cc81a8d0ab3e22d543b812271"
+    },
+    {
+      "track": "CD1_03",
+      "status": "pass",
+      "webp_bytes": 44134,
+      "png_sha256": "309d674d81222dfcd45aa5421496a5948f9900a06d09d74ff127cb090ec8dbc5"
+    },
+    {
+      "track": "CD1_04",
+      "status": "pass",
+      "webp_bytes": 108988,
+      "png_sha256": "9328073f16981be06549597fa17bad945fefaa59f3666343e874e6cada6d7466"
+    },
+    {
+      "track": "CD1_05",
+      "status": "pass",
+      "webp_bytes": 65830,
+      "png_sha256": "014deb26f2be1ab462656f37714dfec6199dcb61955e316acadc6915be752e7f"
+    },
+    {
+      "track": "CD1_06",
+      "status": "pass",
+      "webp_bytes": 66364,
+      "png_sha256": "6d9936ebfbd79a33f3ed205597d91687d3d69db32cce9ab30429e3dc0efbbe54"
+    },
+    {
+      "track": "CD1_07",
+      "status": "pass",
+      "webp_bytes": 84022,
+      "png_sha256": "545355df8239ecefabb8638ef09b387ef2184a7c7321177f9ba49a28e005771f"
+    },
+    {
+      "track": "CD1_08",
+      "status": "pass",
+      "webp_bytes": 85544,
+      "png_sha256": "587cfee6a3a492645432c95ac7e8c9345efb61284d92aac48aec2eb20df6fd58"
+    },
+    {
+      "track": "CD1_09",
+      "status": "pass",
+      "webp_bytes": 178384,
+      "png_sha256": "c3d70fe53b5040262920b38d0ea652b235e1d2f457b736afe827b10b06fa37f9"
+    },
+    {
+      "track": "CD1_10",
+      "status": "pass",
+      "webp_bytes": 40110,
+      "png_sha256": "bda708f672db3d7f770dac8095a475a84c54a999951cdc9f8b18bea4537888ea"
+    },
+    {
+      "track": "CD1_11",
+      "status": "pass",
+      "webp_bytes": 102160,
+      "png_sha256": "6d09bd2b3b36dde6c497a9e82717a136e0ee05845f134edb9ae47cd83b5292f4"
+    },
+    {
+      "track": "CD1_12",
+      "status": "pass",
+      "webp_bytes": 103742,
+      "png_sha256": "1c0f627c20e8124255b8eb78589f0b3f1d0ae5dc19e69251577d301169b62d63"
+    },
+    {
+      "track": "CD1_13",
+      "status": "pass",
+      "webp_bytes": 184708,
+      "png_sha256": "a5bc710807d166927b98fa48798eec05216f5419f0293b92d4ea14ffcb405c3f"
+    },
+    {
+      "track": "CD1_14",
+      "status": "pass",
+      "webp_bytes": 45176,
+      "png_sha256": "75a46229e8736197fd27f7ae79ae87654e333bdf5cf4ba19436a6fac49fa5ff3"
+    },
+    {
+      "track": "CD1_15",
+      "status": "pass",
+      "webp_bytes": 34568,
+      "png_sha256": "5bab8d967b2dcd0b5af4fa6ad9ae920cd86351d124442c401c566a66a6d3471e"
+    },
+    {
+      "track": "CD1_16",
+      "status": "pass",
+      "webp_bytes": 33374,
+      "png_sha256": "2c045effb0a91c167f8793fdd59aebbe170f6f65c3b3edc7c8899128d41d60c3"
+    },
+    {
+      "track": "CD1_17",
+      "status": "pass",
+      "webp_bytes": 106756,
+      "png_sha256": "9278c4166169cd66e5a69ae72337f4771f22d916ee0cd411ed8e6ef65f066c13"
+    },
+    {
+      "track": "CD1_18",
+      "status": "pass",
+      "webp_bytes": 132008,
+      "png_sha256": "844bf27c2c87b84b2aaad7d56dfd26a12eb47146a9dd90c23c7a739be153ad91"
+    }
+  ],
+  "visual_review": "All 17 exported pages reviewed as contact sheet; lyrics, numbered toy scenes and four-child answer scene reviewed at full size. Car marker corrected after review.",
+  "audio_validation": "File identity and existence checked against source CD1 tracks; spoken content not transcribed or independently audited."
+}

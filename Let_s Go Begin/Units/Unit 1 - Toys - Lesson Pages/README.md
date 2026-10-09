@@ -1,43 +1,31 @@
-# Unit 1 – 17 ảnh bài học theo audio
+# Unit 1 – 17 trang bài học, V2
 
-Bộ đầu ra thay thế hình hiển thị theo track: **CD1_02–CD1_18**, đúng 17 mục của `Unit_1_Toys_audio_mapping.zip`. Mỗi audio có một ảnh WebP riêng. Đây là hình bài học có lời thoại/nhãn cần thiết; câu hỏi sau nghe được lưu riêng trong metadata, không in đáp án lên ảnh.
+Đã regenerate theo nhóm CD1_02–05, 06–09, 10–13, 14–17; CD1_18 tạo riêng. Mỗi track có một ảnh, một audio và một câu trắc nghiệm.
 
-## Dùng ngay
+- [preview.html](preview.html): xem hình/chữ, nghe audio, trả lời câu hỏi khi audio kết thúc hoặc bấm ôn tập.
+- [preview.jpg](preview.jpg): xem cả bộ 17 trang.
+- [unit1_toys.regenerated.metadata](unit1_toys.regenerated.metadata): mapping track → image → audio_file → question.
+- [questions.md](questions.md): một câu cho mỗi track.
+- [generation-v2.md](generation-v2.md): bộ yêu cầu prompt và nguồn ảnh.
+- [validation.json](validation.json): kết quả kiểm tra V2.
 
-- Mở [preview.html](preview.html) trong trình duyệt để chọn từng bài, xem ảnh, nghe audio và làm câu hỏi. Trang chạy từ file cục bộ, không cần server hoặc mạng. Câu hỏi hiện khi audio kết thúc hoặc khi chọn ôn tập.
-- Dùng [unit1_toys.regenerated.metadata](unit1_toys.regenerated.metadata) để nối **track → image → audio_file → question**. Các đường dẫn đều tương đối với thư mục này.
-- [preview.jpg](preview.jpg) là bản xem cả bộ 17 trang.
-- `pages/webp/`: ảnh dùng cho UI; `pages/png/`: bản PNG tương ứng. Hiển thị bằng `object-fit: contain`, giữ nguyên tỷ lệ và cho phép cuộn; không ép ảnh thành hình vuông.
+Giữ câu thoại, từ vựng, toàn bộ lời hát trang 04, tên nhân vật, số chỉ đồ chơi và dòng trả lời trống của nguồn. Trang 03 giữ ba tình huống khác nhau. Trang 05/06 có mũi tên đứng/ngồi. Trang 13 đặt số sát đồ chơi. Beth mặc quần short tím ở cả 17 và 18; tên nằm trên áo như nguồn.
 
-## Dựng lại từ metadata
+Trang 10/14 gốc không in lời hát; V2 bổ sung nhãn từ vựng dưới đồ chơi, không thêm lời hát chưa xác minh. Trang 06 gốc chỉ có tiêu đề nên bổ sung minh họa đứng/ngồi. Trang 08/12 dùng nội dung Words tương ứng. Trang 15/16 dựng đủ 26 cặp chữ bằng Arial để bảo đảm chính xác.
 
-[manifest.json](manifest.json) chứa từng lớp hình/chữ, vị trí và kích thước. `canvas.size` là kích thước trang. Mỗi `layers[].box` có dạng **[x, y, width, height]**, đơn vị pixel, gốc ở góc trên trái. Vẽ các lớp theo thứ tự mảng; ảnh dùng `contain` và căn giữa trong box. Lớp chữ có nội dung, cỡ chữ, màu, căn lề và độ đậm. Font mặc định Arial; Linux dùng DejaVu Sans nếu có.
+Chữ bài học nằm trong ảnh; câu hỏi trắc nghiệm nằm riêng trong metadata. PNG ở pages/png, WebP dùng cho ứng dụng ở pages/webp. Giữ tỷ lệ với object-fit: contain, nên hỗ trợ phóng to để đọc lời hát trên điện thoại.
+
+Dựng lại bằng Python và Pillow:
 
 ```sh
 python render.py
 python export.py
 ```
 
-Cần Python và Pillow. `render.py` xuất lại 17 PNG/WebP từ manifest đã chỉnh. `export.py` kiểm tra toàn bộ mapping, kích thước, chữ không tràn và PNG khớp metadata, rồi xuất metadata đơn giản, preview HTML, báo cáo và ZIP. `build_manifest.py` dùng để xây lại manifest ban đầu từ mapping/câu hỏi trong repo; không chạy script đó sau khi tự chỉnh bố cục vì nó sẽ dựng lại manifest mặc định.
+Bộ chuẩn: pages/webp/CD1_02.webp đến CD1_18.webp (17 ảnh). pages/png là bản PNG tương ứng. assets/batches-v2 chỉ giữ 17 lớp ảnh cần để dựng lại; references là ảnh sách gốc để đối chiếu. Ảnh ghép trung gian và bộ Visuals cũ đã bỏ. Manifest hiện tại chứa lớp ảnh và lớp font bảng chữ cái. Export kiểm tra 17 mapping, 17 câu hỏi, audio, kích thước, chữ bảng chữ cái, PNG khớp manifest; xuất preview, metadata và Unit_1_Toys_regenerated.zip ở thư mục cha.
 
-Ví dụ ứng dụng dùng `items[...].audio_file` làm nguồn audio và `items[...].image` làm nguồn ảnh. Mục `question` có `prompt`, `choices` và `correct_choice_id`; chỉ hiển thị phản hồi sau khi bé chọn. Metadata chứa đáp án để kiểm tra phía ứng dụng, không dùng như cơ chế bảo mật đáp án.
+Đã đối chiếu 17 reference và xem ảnh sau khi cắt. ZIP nguồn không có trong checkout này; reference được kiểm tra từng byte với Git HEAD. Audio khớp CD1 nguồn; chưa nghe/transcribe độc lập. Repo chưa có ứng dụng sản phẩm; đây là tài nguyên và preview cục bộ.
 
-## Nội dung được giữ và điều chỉnh
+## Kích thước đồng nhất
 
-- CD1_07/08: bóng, dây nhảy, yo-yo, xe đạp theo lưới 2×2; giữ số 1–4 và từ vựng.
-- CD1_11/12: tàu hỏa, ô tô, búp bê, gấu bông theo lưới 2×2; giữ số 1–4.
-- CD1_10: hàng yo-yo → bóng → dây nhảy → xe đạp. CD1_14: hàng bóng → gấu bông → búp bê → tàu hỏa → xe đạp.
-- CD1_02/03/04/05/09/13/17/18: cảnh mới bám nhân vật, hành động, đồ vật và quan hệ bố cục của crop gốc. Lời thoại, tên, số và lời bài hát được dựng riêng bằng font. Trang 17 giữ Pete/Beth/Ann/Matt theo thứ tự; trang 18 giữ đồ chơi từng bạn và các dòng trả lời còn trống.
-- CD1_06: crop gốc chỉ có tiêu đề/biểu tượng, nên bổ sung cảnh đứng/ngồi cùng trang từ CD1_05. CD1_08/12 dùng hình Words cùng trang thay vì chỉ có tiêu đề.
-- CD1_15/16: dựng đủ 26 cặp chữ hoa/thường bằng font, dùng chung bảng chữ cái.
-- Bố cục được chuẩn hóa để rõ trên UI, không phải bản sao từng pixel. Chi tiết trang trí không phục vụ bài học được giản lược; phần trống trả lời ở tình huống thứ 3 của CD1_03 được bổ sung vì crop gốc cắt mất khu vực này.
-
-## Nguồn và kiểm tra
-
-`references/` giữ đủ 17 crop gốc. `source.metadata.json` giữ nguyên mapping gốc. `assets/toys/` dùng lại 8 asset đã tạo; `assets/scenes/` chứa các cảnh tạo bằng **image_gen tích hợp**. Prompt đầy đủ và nguồn kết quả nằm trong `generation.json` và `answer-generation.json`.
-
-[validation.json](validation.json) ghi kết quả kiểm tra mapping, file, kích thước và sự khớp giữa ảnh PNG với metadata. Đã kiểm tra trực quan cả bộ, kiểm tra chi tiết lời bài hát, các số chỉ đồ chơi và cảnh Answer. Audio được sao chép từ CD1 trong repo, không đổi nội dung; chưa nghe/transcribe để kiểm chứng lời nói từng track.
-
-[browser-validation.json](browser-validation.json) ghi kiểm tra bằng trình duyệt Edge: tải đủ 17 ảnh và metadata audio, 34 lựa chọn đúng/sai, reset khi đổi bài, không có lỗi JavaScript và không tràn ngang ở chiều rộng 390px. Sự kiện kết thúc audio được mô phỏng để kiểm tra chuyển sang câu hỏi; không phải kiểm tra nghe toàn bộ audio.
-
-Bộ này là tài nguyên và bản xem thử; repo chưa có source ứng dụng để tích hợp vào UI sản phẩm. ZIP/crop gốc và bộ câu hỏi Markdown hiện có được giữ nguyên.
+Toàn bộ17 PNG/WebP được xuất1200×1200, giống Unit2–8 và4 Review. Giữ tỷ lệ bằng contain, căn giữa trên nền trắng, không cắt chữ/đồ vật. native_layout_size trong manifest giữ kích thước bố cục và các lớp font gốc để dựng lại chính xác. [normalization-validation.json](normalization-validation.json) ghi box nội dung từng trang và kiểm tra toàn bộ nội dung gốc được giữ sau khi scale.

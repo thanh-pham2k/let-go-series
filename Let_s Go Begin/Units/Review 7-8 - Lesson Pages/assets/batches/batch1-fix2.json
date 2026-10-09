@@ -1,0 +1,17 @@
+{
+  "tracks": [
+    "CD2_70",
+    "CD2_71",
+    "CD2_72"
+  ],
+  "prompt": "Correct ONLY bottom-left CD2_72 calendar on this sheet. The added8 is WRONG: it currently sits in the same first data row as1. REMOVE that misplaced8. Put8 in SUNDAY SECOND DATA ROW, directly below1 and BELOW the horizontal line separating rows, aligned horizontally with9 10 11 12 13 14. Exactly7 first-row cells have1 2 3 4 5 6 7; exactly7 second-row cells have8 9 10 11 12 13 14. Make child slightly smaller and place him at lower-left of page partly outside purple calendar so he cannot obscure8. Keep him fully inside his page. Keep pointer toWednesday header. Preserve all day spelling, fourteen numbers exactly once, red header/purple background. Change nothing in top two pages. Keep blank lower-right. Inspect8 row placement critically before output.",
+  "refs": [
+    "assets/batches/batch1-fix1.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "source_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-a04d40d9-2a83-4f77-a013-16d01f2b4e81.png",
+  "issue": "First repair put Sunday8 in first row; require second row below separating line",
+  "status": "reviewed",
+  "selected_asset": "assets/batches/batch1-fix2.png",
+  "visual_review": "All1-14 visible exactlyonce in correct2 rows;8 below row separator, child reduced; top two cells remain faithful to source."
+}

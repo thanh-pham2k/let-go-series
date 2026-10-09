@@ -1,0 +1,186 @@
+{
+  "result": "pass",
+  "review": "7-8",
+  "item_count": 3,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD2_70",
+      "result": "pass",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "3b7aa108a4d6e122884a70341aacf8b4dbe812b39788fc0662ed55cc34c14832",
+      "audio_sha256": "fa218faa63dfbbb6e9f599612a25cd5757b2b572e69c9e8fcb004e09ac7e55d2",
+      "visual_review": "Compared final1200x1200 PNG with source PDFp1/book72. Six groups numbered1-6, each exactlytwo choices a left/b right.1a one eye shut/one open wink;1b knees bent/hands on knees.2a fingertips reach shoe toes;2b visible gap above shoes.3a green bicycle/two wheels;3b red diamond kite.4a swimming in pool/ladder;4b dancing beside pool/red shorts.5a stamps feet;5b claps hands.6a seated pointing to green board;6b upright armsdown. All12 labels/pictures preserved, no circled source answers, title/track readable, no gutter/cut text or extra limbs observed."
+    },
+    {
+      "track": "CD2_71",
+      "result": "pass",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "3ed16f13559bf9eac0c531001e2c240754c7e1044c4625f6c0ca7b0d7094e2b7",
+      "audio_sha256": "54e7a1f95098d085ffd1a7b9fac58cbb5fa376a3cdd7822d89fa6d585b44e4de",
+      "visual_review": "Compared final1200x1200 PNG with source PDFp2/book73 upper section. All7 names correct inSunday-Monday-Tuesday-Wednesday-Thursday-Friday-Saturday order, cards1-7 and number colors blue/green/yellow/orange-red/lavender/pink/teal-green. Printed It's Monday. speaker is child pointing to Monday calendar column. Month calendar begins blankSunday thenMonday1 throughSaturday6; following rows7-13,14-20,21-27,28-30, with source-style character overlap. Visible numbers consistent; dates behind arm not independently readable, as overlapping source scene. Source includes this model calendar; retained not discarded. Title and complete cards not cropped."
+    },
+    {
+      "track": "CD2_72",
+      "result": "pass",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "ac503828e2c1ee857e00d77e6d8d22e5a61f1738117894fca9a27ad7bb75c884",
+      "audio_sha256": "3b8685f9f434456c954ebb784e82545e00435c395b8e0efad7700fd554e7f183",
+      "visual_review": "Compared final1200x1200 PNG with source PDFp2/book73 lower section. Correct Let's sing title/track; red seven-column header spells SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY. Exactlytwo data rows:1 2 3 4 5 6 7 then8 9 10 11 12 13 14; every number visible exactlyonce under correct day. Source8 is insecond row, fixed after first repair misplaced it. Green-shirt child resized/repositioned atlower-left so numbers unobstructed; yellow pointer hitsWednesday. Purple backing retained. No lyrics printed inPDF; none invented. No gutter/text/character cut."
+    }
+  ],
+  "visual_content_review": {
+    "result": "pass",
+    "source_pages_viewed": 2,
+    "contact_sheet_viewed": true,
+    "independent_audio_audit": false,
+    "pages": {
+      "CD2_70": {
+        "result": "pass",
+        "final_png_viewed": true,
+        "notes": "Compared final1200x1200 PNG with source PDFp1/book72. Six groups numbered1-6, each exactlytwo choices a left/b right.1a one eye shut/one open wink;1b knees bent/hands on knees.2a fingertips reach shoe toes;2b visible gap above shoes.3a green bicycle/two wheels;3b red diamond kite.4a swimming in pool/ladder;4b dancing beside pool/red shorts.5a stamps feet;5b claps hands.6a seated pointing to green board;6b upright armsdown. All12 labels/pictures preserved, no circled source answers, title/track readable, no gutter/cut text or extra limbs observed."
+      },
+      "CD2_71": {
+        "result": "pass",
+        "final_png_viewed": true,
+        "notes": "Compared final1200x1200 PNG with source PDFp2/book73 upper section. All7 names correct inSunday-Monday-Tuesday-Wednesday-Thursday-Friday-Saturday order, cards1-7 and number colors blue/green/yellow/orange-red/lavender/pink/teal-green. Printed It's Monday. speaker is child pointing to Monday calendar column. Month calendar begins blankSunday thenMonday1 throughSaturday6; following rows7-13,14-20,21-27,28-30, with source-style character overlap. Visible numbers consistent; dates behind arm not independently readable, as overlapping source scene. Source includes this model calendar; retained not discarded. Title and complete cards not cropped."
+      },
+      "CD2_72": {
+        "result": "pass",
+        "final_png_viewed": true,
+        "notes": "Compared final1200x1200 PNG with source PDFp2/book73 lower section. Correct Let's sing title/track; red seven-column header spells SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY. Exactlytwo data rows:1 2 3 4 5 6 7 then8 9 10 11 12 13 14; every number visible exactlyonce under correct day. Source8 is insecond row, fixed after first repair misplaced it. Green-shirt child resized/repositioned atlower-left so numbers unobstructed; yellow pointer hitsWednesday. Purple backing retained. No lyrics printed inPDF; none invented. No gutter/text/character cut."
+      }
+    }
+  },
+  "source_pdf_pages": 2,
+  "audio_validation": "Byte-for-byte comparison with CD2 source MP3s; not independently listened/transcribed.",
+  "challenge_exercises_preserved": true,
+  "package_checks": [
+    {
+      "track": "CD2_70",
+      "png_matches_manifest": true,
+      "webp_png_rms": 3.2773,
+      "audio_byte_identical": true,
+      "question_valid": true,
+      "source_mapping_matches": true
+    },
+    {
+      "track": "CD2_71",
+      "png_matches_manifest": true,
+      "webp_png_rms": 2.247,
+      "audio_byte_identical": true,
+      "question_valid": true,
+      "source_mapping_matches": true
+    },
+    {
+      "track": "CD2_72",
+      "png_matches_manifest": true,
+      "webp_png_rms": 2.0681,
+      "audio_byte_identical": true,
+      "question_valid": true,
+      "source_mapping_matches": true
+    }
+  ],
+  "preview_validation": {
+    "result": "pass",
+    "item_count": 3,
+    "checks": [
+      "All image/audio paths exist",
+      "All3 track selections",
+      "Practice initially hidden/reset per track",
+      "Manual review reveals practice",
+      "Audio ended reveals practice",
+      "One question with3 choices per track",
+      "Correct/wrong feedback",
+      "Previous/next navigation and bounds"
+    ],
+    "limitation": "Node VM DOM harness; does not claim audio listened/transcribed or browser rendering."
+  },
+  "http_resource_validation": {
+    "result": "pass",
+    "checks": [
+      {
+        "path": "preview.html",
+        "status": 200,
+        "content_type": "text/html",
+        "bytes": 12443
+      },
+      {
+        "path": "review.regenerated.metadata",
+        "status": 200,
+        "content_type": "application/octet-stream",
+        "bytes": 3330
+      },
+      {
+        "path": "pages/webp/CD2_70.webp",
+        "status": 200,
+        "content_type": "application/octet-stream",
+        "bytes": 180296
+      },
+      {
+        "path": "audio/Track70.mp3",
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 912403
+      },
+      {
+        "path": "pages/webp/CD2_71.webp",
+        "status": 200,
+        "content_type": "application/octet-stream",
+        "bytes": 131834
+      },
+      {
+        "path": "audio/Track71.mp3",
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 736443
+      },
+      {
+        "path": "pages/webp/CD2_72.webp",
+        "status": 200,
+        "content_type": "application/octet-stream",
+        "bytes": 129170
+      },
+      {
+        "path": "audio/Track72.mp3",
+        "status": 200,
+        "content_type": "audio/mpeg",
+        "bytes": 1113860
+      }
+    ],
+    "scope": "Direct HTTP serving and byte identity; no browser rendering/playback claim."
+  },
+  "browser_validation": {
+    "result": "not_run",
+    "reason": "In-app CUA failed to initialize kernel assets (os error3). Edge headless Start-Process launch rejected by automatic approval review: blocked by policy.",
+    "verified_alternatives": [
+      "preview-validation.json: executable Node DOM harness for all3 tracks, manual review, simulated ended event, navigation, feedback",
+      "resource-validation.json: HTTP200 and exact servedbytes for preview/metadata/all3 WebP/all3 MP3",
+      "visual-review.json: all3 final PNGs and contact sheet compared with source"
+    ],
+    "limitation": "No real browser screenshot/render or audio playback audit claimed."
+  },
+  "source_and_link_validation": "Source PDF copy,3 filtered mapping records, all metadata joins, all Markdown links checked.",
+  "temporary_preview_server": {
+    "url": "http://127.0.0.1:60333/preview.html",
+    "status": "running; process/session rechecked",
+    "cleanup": "Automatic approval review rejected the Stop-Process/private-cache cleanup command with blocked by policy; no cleanup claimed."
+  },
+  "limitations": [
+    "MP3 speech and original listening answers not independently audited.",
+    "Additional Challenge short clips not created; checklist marks all pending.",
+    "Real browser rendering/playback not run; Node DOM behavior and direct HTTP serving tested."
+  ]
+}

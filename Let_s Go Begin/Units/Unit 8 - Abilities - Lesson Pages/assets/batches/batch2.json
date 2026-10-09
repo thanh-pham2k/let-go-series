@@ -1,0 +1,51 @@
+{
+  "tracks": [
+    "CD2_58",
+    "CD2_59",
+    "CD2_60",
+    "CD2_61"
+  ],
+  "prompt": "Generate square 2x2 sheet FOUR independent English lesson pages with straight center white gutters. Bright clean textbook cartoon soft shading, white background, readable exact labels, no quiz. Redraw from references.\nTOP LEFT CD2_58 E. Listen and do. Only title in source; reuse SAME page's classroom actions: blonde glasses girl red dress pointing to board \"1. Point to the board.\"; red-haired boy green-white shirt walking toward board \"2. Go to the board.\" Small pointing cat mascot. No invented commands.\nTOP RIGHT CD2_59 A. Words. Include small gray cat riding blue bicycle saying \"I can ride a bicycle.\" Four numbered illustrations matching source: 1 helmeted ponytail girl red hoodie riding pink bicycle \"1. ride a bicycle\"; 2 brown-haired boy blue striped shirt orange trousers singing with microphone and speaker \"2. sing a song\"; 3 black-haired boy red shirt flying orange-yellow kite \"3. fly a kite\"; 4 red-haired ponytail girl yellow shirt blue skirt bouncing basketball with bounce motion \"4. bounce a ball\".\nBOTTOM LEFT CD2_60 B. Listen and point. Title-only source adapted using all SAME four numbered illustrations and exact labels from source page 66: \"1. ride a bicycle\", \"2. sing a song\", \"3. fly a kite\", \"4. bounce a ball\". Keep genders clothes and objects as in source. Small orange cat pointing. \nBOTTOM RIGHT CD2_61 C. Sentences. Top two scenes: blonde girl red shirt purple trousers successfully flies ORANGE kite saying \"I can fly a kite.\"; red-haired boy blue shirt green trousers tangled in string holds YELLOW kite NOT airborne saying \"I can't fly a kite.\" Bubble tails correct. Below four numbered thought groups: 1 black-haired boy yellow shirt imagines successfully flying orange kite AND bouncing orange ball. 2 curly blonde girl pink shirt imagines singing AND tangled unable to fly green kite. 3 dark-skinned curly boy turquoise shirt imagines bouncing ball AND falling off yellow bicycle (unable). 4 brunette ponytail girl orange shirt imagines riding purple bicycle AND trying unsuccessfully to sing into mic. Keep all 4 numbers and all 8 thought vignettes. No extra speech words or invented chant lyrics. Titles/track labels in each quadrant.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-02.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-03.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-04.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_58": {
+      "box": [
+        1,
+        1,
+        626,
+        621
+      ],
+      "visual_review": "Source heading only: reused two classroom commands from D on same PDF page; no new commands."
+    },
+    "CD2_59": {
+      "box": [
+        631,
+        1,
+        1253,
+        621
+      ],
+      "visual_review": "All four numbered actions correct; pink bicycle helmeted girl, singing boy, orange kite boy, basketball bouncing girl; cat bicycle sentence retained."
+    },
+    "CD2_60": {
+      "box": [
+        1,
+        626,
+        626,
+        1253
+      ],
+      "visual_review": "Source heading only: reused four labeled action pictures from A on same PDF page."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "8a78ebfef31ebb8cf999cdd28074f666b1e3aeea48e24616f8f2fe4d84d0fd3d",
+  "result_file": "batch2.png"
+}

@@ -1,0 +1,50 @@
+{
+  "tool_policy": "built-in image_gen only",
+  "jobs": [
+    {
+      "tracks": [
+        "CD1_71",
+        "CD1_72"
+      ],
+      "prompt": "Precise edit ONLY illustration of panel4 '4. Close your book.' on RIGHT page of this two-page sheet. Make closing action unambiguous: orange-haired boy green shirt moving red book's front cover over page stack so book is nearly CLOSED, front red cover at shallow angle about to meet pages, with short motion lines showing cover coming down. Keep original RIGHT-pointing black arrow and caption. Do not depict opening or an upright spread-open page. Preserve all other panels, texts, shapes/counts/choice labels, teacher speech and whole left page exactly. Left circle/square,4green triangles5orange circles6cyan diamonds7purple ovals must remain unchanged.",
+      "refs": [
+        "assets/batches/batch1-initial.png"
+      ],
+      "tool": "built-in image_gen",
+      "source_output": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-c81f9c9f-4efd-4f2b-8fc4-62bf68c0175f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output": "assets/batches/batch1.png",
+      "status": "visually_reviewed",
+      "review": "Close panel made unambiguous; all choices,counts and captions rechecked after edit."
+    },
+    {
+      "tracks": [
+        "CD1_71",
+        "CD1_72"
+      ],
+      "prompt": "Use case: scientific-educational. Generate TWO independent English textbook cartoon lesson pages side-by-side, straight vertical white gutter. Each page complete, ample margins, bright clear outlines soft shading like Let's Go Begin textbook. Reference1 LEFT page CD1_71, reference2 RIGHT CD1_72. Regenerate drawings, retain original printed learning text and choice order; do not circle or mark any correct choices, no extra quiz. LEFT: header 'Units 3-4 Listen and Review', 'A. Listen and circle.', badge 'CD1 71'. SIX numbered exercises in 2columns3rows. Each has exactly two choices a then b. 1a brown-haired girl pink shirt drawing a CIRCLE on paper;1b same girl drawing a SQUARE (equal sides, not rectangle).2a yellow five-point STAR;2b pink HEART.3a EXACTLY FOUR green triangles2x2 with white numbers1,2,3,4 in reading order;3b EXACTLY FIVE orange/red circles in2-1-2 arrangement labeled white1,2,3,4,5.4a EXACTLY SIX cyan diamonds3x2;4b EXACTLY SEVEN purple horizontal OVALS in2-2-2-1 arrangement (elongated ovals not circles).5a boy red top teal shorts WALKING relaxed stride;5b same boy RUNNING, obvious bent elbows and flying stride/motion lines.6a girl green shirt orange trousers crossing under GREEN walking figure traffic signal;6b same girl STOPPED at curb under RED hand stop signal. All twelve choice labels a,b and exercise numbers1–6 intact. No invented words or answers. RIGHT: title 'Classroom Commands', 'A. Say these.', badge 'CD1 72'. Four numbered panels2x2 then separate bottom teacher scene.1 curly orange-haired girl turquoise shirt lifting pencil OUT of lavender pencil box, clear UP arrow; caption exact '1. Take out your pencil.' 2 brown-haired boy blue shirt lowering pencil INTO green pencil box, clear DOWN arrow; caption '2. Put away your pencil.' 3 dark-skinned girl pigtails pinkshirt OPENING book, right page lifted outward and right-pointing arrow; caption '3. Open your book.' 4 orange-haired boy greenshirt CLOSING book, cover coming down and pages coming together, right arrow as source; caption '4. Close your book.' Bottom teacher blonde/orange shirt holds pencil and says 'Please take out your pencil.' speech tail to teacher; long curly brown-haired girl yellowshirt takes pencil out green box. Retain all exact sentences, actions and colors. No extra song, no answer key, no supplemental multiple choice on images.",
+      "refs": [
+        "references/CD1_71.png",
+        "references/CD1_72.png"
+      ],
+      "tool": "built-in image_gen",
+      "status": "reviewed_batch",
+      "visual_review": "Full source pages36–37 compared: six a/b pairs retained in exact order; group3a four triangles numbered1–4,3b five circles1–5,4a six diamonds,4b seven elongated ovals; walking/running and green-go/red-stop distinct. Four command captions and directional actions correct; built-in edit makes panel4 red book closed; Please sentence points to teacher. No original answers marked.",
+      "split_x": 765,
+      "sheet_size": [
+        1536,
+        1024
+      ],
+      "sha256": "a5cc63341f3b43662fe63d24fb9f3b75bfb3a66cb2d37db365bc861a9eb55d4c",
+      "source_output": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-1b5a3b59-5b15-4acd-a430-ca412ceeaeb5.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "initial_output": "assets/batches/batch1-initial.png",
+      "final_source_output": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-c81f9c9f-4efd-4f2b-8fc4-62bf68c0175f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+      "output": "assets/batches/batch1.png"
+    }
+  ],
+  "source_pdf": "references/source.pdf",
+  "visual_source_pages": [
+    "source-pages/page-1.png",
+    "source-pages/page-2.png"
+  ],
+  "original_answer_key": "Not inferred; listening not independently audited."
+}

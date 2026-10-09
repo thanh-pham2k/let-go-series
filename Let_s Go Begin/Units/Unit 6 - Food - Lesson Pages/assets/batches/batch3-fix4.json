@@ -1,0 +1,16 @@
+{
+  "tracks": [
+    "CD2_28",
+    "CD2_29",
+    "CD2_30",
+    "CD2_31"
+  ],
+  "prompt": "Change ONLY small gray pointing instruction mascot in bottom-left CD2_30. Move it 25 pixels LEFT so pointing fingertip is safely inside panel with at least 20 pixels white margin from right gutter. Scale mascot 90% if needed. Keep everything else precisely unchanged: foods labels, dialogs, full bottom-right D cat, all panels. No clipping fingers.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch3-fix3.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-00d0de90-e6a4-40f2-a1a4-a6d2091a238e.png",
+  "status": "rejected_label_overlap",
+  "local_result": "assets/batches/batch3-fix4.png"
+}

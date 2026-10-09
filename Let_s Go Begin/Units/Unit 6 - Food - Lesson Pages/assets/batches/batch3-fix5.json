@@ -1,0 +1,17 @@
+{
+  "tracks": [
+    "CD2_28",
+    "CD2_29",
+    "CD2_30",
+    "CD2_31"
+  ],
+  "prompt": "Move only tiny gray instruction cat in bottom-left panel DOWN 20 pixels and LEFT 15 pixels, scale to 80% of current size. Its ears now overlap label '4. rice'. Ensure clear white space under fully visible '4. rice', no contact with text, full cat inside all boundaries. Make index finger point UP as source mascot. All other content unchanged.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch3-fix4.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-72d7c05a-fd7d-418d-a6f9-5abe5a42b650.png",
+  "status": "reviewed_selected",
+  "review": "Cat fully inside white margin, index points up, rice label fully readable.",
+  "local_result": "assets/batches/batch3.png"
+}

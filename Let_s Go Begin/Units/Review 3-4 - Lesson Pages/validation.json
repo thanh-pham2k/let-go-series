@@ -1,0 +1,130 @@
+{
+  "result": "pass",
+  "review": "3-4",
+  "item_count": 2,
+  "checks": [
+    {
+      "track": "CD1_71",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "f984f8c001117a1115f00114890e171ff052925b6742c302847e9d721ec80746",
+      "audio_sha256": "75b562fbe601802e71766d40fbe7baea21d6b4100e23e29ae3a4455b8ad4853a",
+      "source_reference": "references/CD1_71.png",
+      "visual_review": "Full source pages36–37 compared: six a/b pairs retained in exact order; group3a four triangles numbered1–4,3b five circles1–5,4a six diamonds,4b seven elongated ovals; walking/running and green-go/red-stop distinct. Four command captions and directional actions correct; built-in edit makes panel4 red book closed; Please sentence points to teacher. No original answers marked.",
+      "final_crop_review": "Final1200x1200 PNG and contact sheet visually inspected against full source: all text, captions, choices, counts, colors and action semantics preserved; no clipping; contain without distortion.",
+      "result": "pass"
+    },
+    {
+      "track": "CD1_72",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "4422b9caaeddc7144d161413f57dbabcb5dcc08d20fa3258ae140da00b849145",
+      "audio_sha256": "d9e3508d39d7800f094cd58ef82a3ba3a85b612f1e432c9369836c56eb271f7c",
+      "source_reference": "references/CD1_72.png",
+      "visual_review": "Full source pages36–37 compared: six a/b pairs retained in exact order; group3a four triangles numbered1–4,3b five circles1–5,4a six diamonds,4b seven elongated ovals; walking/running and green-go/red-stop distinct. Four command captions and directional actions correct; built-in edit makes panel4 red book closed; Please sentence points to teacher. No original answers marked.",
+      "final_crop_review": "Final1200x1200 PNG and contact sheet visually inspected against full source: all text, captions, choices, counts, colors and action semantics preserved; no clipping; contain without distortion.",
+      "result": "pass"
+    }
+  ],
+  "audio_validation": "Byte-for-byte source identity; not independently listened/transcribed.",
+  "challenge_audio": "Missing; owner to provide. Required/optional/shared clips documented.",
+  "challenge_exercise_sha256_unchanged": "acb25ff0fbe7b79ec1e3bb038dfbbbf2f123887101507c7b00a6b1782bec25af",
+  "original_listening_answers": "Not inferred or marked.",
+  "source_coverage": "Both full pages; all six a/b pairs and four commands plus bottom Please scene visually inspected.",
+  "preview_validation": {
+    "browser-validation.json": {
+      "result": "pass",
+      "browser": "Headless Microsoft Edge",
+      "checks": [
+        {
+          "track": "CD1_71",
+          "imageWidth": 1200,
+          "imageHeight": 1200,
+          "imageLoaded": true,
+          "audioReady": 4,
+          "audioDuration": 62.906667,
+          "practice": "none",
+          "choices": 3,
+          "result": "pass"
+        },
+        {
+          "track": "CD1_72",
+          "imageWidth": 1200,
+          "imageHeight": 1200,
+          "imageLoaded": true,
+          "audioReady": 4,
+          "audioDuration": 66.8,
+          "practice": "none",
+          "choices": 3,
+          "result": "pass"
+        }
+      ],
+      "navigation": "pass",
+      "manual_review": "pass",
+      "limitation": "Audio decode/duration checked; audio not independently listened/transcribed. ended event simulated for UI test."
+    },
+    "preview-validation.json": {
+      "result": "pass",
+      "tracks": [
+        "CD1_71",
+        "CD1_72"
+      ],
+      "checks": [
+        "Actual preview JS executed",
+        "Initial quiz hidden",
+        "Audio-ended and manual review reveal one quiz",
+        "Correct/incorrect feedback",
+        "Navigation/select logic",
+        "Local image/audio paths exist"
+      ],
+      "limitation": "DOM harness, not independent audio listening or browser layout audit"
+    },
+    "http-validation.json": {
+      "result": "pass",
+      "checks": [
+        {
+          "path": "preview.html",
+          "status": 200,
+          "content_type": "text/html",
+          "byte_count": 8067
+        },
+        {
+          "path": "review.regenerated.metadata",
+          "status": 200,
+          "content_type": "application/octet-stream",
+          "byte_count": 2852
+        },
+        {
+          "path": "pages/webp/CD1_71.webp",
+          "status": 200,
+          "content_type": "application/octet-stream",
+          "byte_count": 136736
+        },
+        {
+          "path": "audio/Track71.mp3",
+          "status": 200,
+          "content_type": "audio/mpeg",
+          "byte_count": 1007698
+        },
+        {
+          "path": "pages/webp/CD1_72.webp",
+          "status": 200,
+          "content_type": "application/octet-stream",
+          "byte_count": 164020
+        },
+        {
+          "path": "audio/Track72.mp3",
+          "status": 200,
+          "content_type": "audio/mpeg",
+          "byte_count": 1069974
+        }
+      ],
+      "limitation": "This report covers HTTP delivery. Browser UI was subsequently tested separately; see browser-validation.json. Audio not independently listened."
+    }
+  },
+  "browser_screenshot_review": "Both screenshots visually inspected: complete page imagery, readable text, controls and quiz feedback; no clipping."
+}

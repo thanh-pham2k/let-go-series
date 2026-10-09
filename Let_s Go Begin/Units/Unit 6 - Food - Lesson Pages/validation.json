@@ -1,0 +1,186 @@
+{
+  "result": "pass",
+  "unit": 6,
+  "item_count": 15,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD2_20",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "e3616a9a65605544e9688cef2f6ae0726040700068e63adc075f89b86bed999b",
+      "visual_review": "Reviewed corrected sheet against PDF pages 46-47: six individual candles on both cakes, correct age speakers, both roleplay blanks retained, all printed song lines and counting sequences, four children in both movement scenes. No independent speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_21",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "997cae3f8caefa3e557cac709aca8f97d0c5182837902b5148e4130a83c3caa6",
+      "visual_review": "Reviewed corrected sheet against PDF pages 46-47: six individual candles on both cakes, correct age speakers, both roleplay blanks retained, all printed song lines and counting sequences, four children in both movement scenes. No independent speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_22",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a10dfbb96ccf02d044776ce96beead5d72fe8a1849e6b1fd86a71a7f087b056f",
+      "visual_review": "Reviewed corrected sheet against PDF pages 46-47: six individual candles on both cakes, correct age speakers, both roleplay blanks retained, all printed song lines and counting sequences, four children in both movement scenes. No independent speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_23",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a76704392f100aac6581dbcff5a40f85f645850b6fcd903a7c0058d9a96ddbb6",
+      "visual_review": "Reviewed corrected sheet against PDF pages 46-47: six individual candles on both cakes, correct age speakers, both roleplay blanks retained, all printed song lines and counting sequences, four children in both movement scenes. No independent speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_24",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "232a2d2d7e0fda84d7949bc8939a9869609262103a563c3df752c9ff44930dde",
+      "visual_review": "All four food labels correct; orange pointing mascot restored below fully visible chicken label; correct I like ice cream and I like cake speakers, four children both actions, party badges checked. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_25",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "f58c801fc13d67f21865f6118ba4d86a896eed0a69ea3e4a78416452cf24d8bc",
+      "visual_review": "All four food labels correct; orange pointing mascot restored below fully visible chicken label; correct I like ice cream and I like cake speakers, four children both actions, party badges checked. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_26",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "abf14175e105ca8539091f544156e62360eeaa4c48b4f321eb66dfca53b75855",
+      "visual_review": "All four food labels correct; orange pointing mascot restored below fully visible chicken label; correct I like ice cream and I like cake speakers, four children both actions, party badges checked. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_27",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "6780d7495bf3bbe79091a885bef49279a73099081ca9f163d5599660905cbcbf",
+      "visual_review": "All four food labels correct; orange pointing mascot restored below fully visible chicken label; correct I like ice cream and I like cake speakers, four children both actions, party badges checked. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_28",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "67715827911fd42a8152fb8a75e7dcfdd4d44a3f03a7b400f9ad28a80d224abf",
+      "visual_review": "Complete food labels/order, milk question/Yes cats, instruction mascot with clear margin, cafeteria correct question speaker and Yes/No ownership, six happy/unhappy milk bread rice examples, complete D Ask and answer with full gray cat/four foods. All source text retained; no independent audio speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_29",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "be9af07504fa3808c61c8e4facaf00963c9b9dc592370033d3ff57687fca54a7",
+      "visual_review": "Complete food labels/order, milk question/Yes cats, instruction mascot with clear margin, cafeteria correct question speaker and Yes/No ownership, six happy/unhappy milk bread rice examples, complete D Ask and answer with full gray cat/four foods. All source text retained; no independent audio speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_30",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "937bf58d3dad563645f3eab1b697bea92d55a86170559f7208e5e508f135d3dc",
+      "visual_review": "Complete food labels/order, milk question/Yes cats, instruction mascot with clear margin, cafeteria correct question speaker and Yes/No ownership, six happy/unhappy milk bread rice examples, complete D Ask and answer with full gray cat/four foods. All source text retained; no independent audio speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_31",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "bedd361e956b91f3f0db4c5d22a0a80a3fe4e01d07b7155fb19426935f6c1e69",
+      "visual_review": "Complete food labels/order, milk question/Yes cats, instruction mascot with clear margin, cafeteria correct question speaker and Yes/No ownership, six happy/unhappy milk bread rice examples, complete D Ask and answer with full gray cat/four foods. All source text retained; no independent audio speech audit. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_32",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "cf2b000afecb12fa4b1533e93bd9bf2dbb50a99725df620639f71d41580f2c2d",
+      "visual_review": "Source page52 reviewed: complete A-Z/a-z, pink Q-T, Qq queen Rr rabbit Ss sun Tt tiger; Find the letters scene retained with subtle S/s/tree/robe/bench scrolls and natural tiger stripes. Source page53 game speaker ownership, cell order/color and counts all checked. CD1 misprints normalized CD2; speech not audited. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_33",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "f330a6e6edcfd009705822c18e2ee77a0f83e1f1a3114ec20c4801e6ad478e82",
+      "visual_review": "Source page52 reviewed: complete A-Z/a-z, pink Q-T, Qq queen Rr rabbit Ss sun Tt tiger; Find the letters scene retained with subtle S/s/tree/robe/bench scrolls and natural tiger stripes. Source page53 game speaker ownership, cell order/color and counts all checked. CD1 misprints normalized CD2; speech not audited. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    },
+    {
+      "track": "CD2_34",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "b8d35ec63e0683e3e8d60ab9c8e0240c003566f364d755206c2ce147ca55c17d",
+      "visual_review": "Source page52 reviewed: complete A-Z/a-z, pink Q-T, Qq queen Rr rabbit Ss sun Tt tiger; Find the letters scene retained with subtle S/s/tree/robe/bench scrolls and natural tiger stripes. Source page53 game speaker ownership, cell order/color and counts all checked. CD1 misprints normalized CD2; speech not audited. Final crop independently inspected on 1200x1200 contain canvas; gutters/outer frame removed."
+    }
+  ],
+  "audio_validation": "Byte-for-byte identity with source CD MP3; speech not independently audited.",
+  "visual_audit": {
+    "source_pages": 8,
+    "final_pages": 15,
+    "basis": "Model visual comparison of all source and final images, plus contact sheet; technical checks alone do not prove art accuracy.",
+    "adjustments": [
+      "CD1 misprints normalized to CD2",
+      "Alphabet wrapped into rows",
+      "Find-the-letters ornaments redrawn"
+    ]
+  },
+  "challenge_audio": "No generated or completed audio clips; mandatory vs optional checklist in Unit 6 - Food(2).md.",
+  "preview_checks": "Node VM with DOM/event stubs: all 15 track/image/audio/question mappings, hidden until synthetic ended, feedback, navigation/reset. Not a real listening audit.",
+  "generation_audit": {
+    "tool": "built-in image_gen only",
+    "batches": 4,
+    "tracks_per_batch": [
+      4,
+      4,
+      4,
+      3
+    ],
+    "repair_logs_retained": true,
+    "prompt_files": "assets/batches/batch*.json"
+  }
+}

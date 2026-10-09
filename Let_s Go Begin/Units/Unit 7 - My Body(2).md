@@ -1,5 +1,17 @@
 # Unit 7 - My Body
 
+<!-- lesson-package-status -->
+## Bộ bài học chính và tài nguyên luyện thêm
+
+Đã có đủ **17 trang học chính**, mỗi trang gồm ảnh có chữ → audio → một câu trắc nghiệm. PNG/WebP đều **1200 × 1200**.
+
+- [Preview học và làm bài](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ ảnh](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata tích hợp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- [Unit 7 - My Body – Câu hỏi theo trang](Unit%207%20-%20My%20Body%20-%20Cau%20hoi%20theo%20trang.md).
+
+Các Challenge bên dưới là bài luyện thêm, giữ nguyên nội dung. Ký hiệu 🖼️ là hướng dẫn chọn hình, chưa phải asset riêng gắn cho từng câu. Người lớn có thể đọc phần nghe; để chạy tự động cần audio clip riêng. Chủ dự án sẽ tự bổ sung audio theo checklist cuối file. Audio CD nguồn đã kiểm tra file, chưa nghe/transcribe độc lập.
+<!-- /lesson-package-status -->
+
 > Chỉ sử dụng nội dung xuất hiện trong PDF **Unit 7 - My Body**.
 >
 > Lộ trình: **Recognition → Recall → Comprehension → Production**.
@@ -229,16 +241,18 @@ Bé thực hiện đúng hành động.
 # Challenge 3 — Fill & Recall
 ## Recall
 
-## 1. Xáo chữ → ghép từ
+## 1. Điền chữ cái còn thiếu vào từ
 
-1. `h / e / a / d` → __________
-2. `s / h / o / u / l / d / e / r / s` → __________
-3. `k / n / e / e / s` → __________
-4. `t / o / e / s` → __________
-5. `e / y / e / s` → __________
-6. `e / a / r / s` → __________
-7. `m / o / u / t / h` → __________
-8. `n / o / s / e` → __________
+> Điền chữ cái còn thiếu để hoàn thành tên bộ phận cơ thể đúng.
+
+1. h _ a d *(head)* 👤
+2. s h _ u l d e r s *(shoulders)* 🧍
+3. k n _ e s *(knees)* 🦵
+4. t _ e s *(toes)* 🦶
+5. e y _ s *(eyes)* 👀
+6. e _ r s *(ears)* 👂
+7. m _ u t h *(mouth)* 👄
+8. n _ s e *(nose)* 👃
 
 ## 2. Chọn từ → điền vào chỗ trống
 
@@ -308,131 +322,72 @@ B: I can touch my ____________________.
 
 ---
 
-# Challenge 4 — Translate & Build
+# Challenge 4 — Build & Match
 ## Comprehension
 
-## 1. Dịch Anh → Việt
+## 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. Oops! I'm sorry.  
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
+
+1. `[ sorry. / I'm / Oops! ]`  
    → ______________________________
 
-2. That's OK.  
+2. `[ OK. / That's ]`  
    → ______________________________
 
-3. Stamp your feet.  
+3. `[ feet. / Stamp / your ]`  
    → ______________________________
 
-4. Clap your hands.  
+4. `[ hands. / Clap / your ]`  
    → ______________________________
 
-5. I can touch my head.  
+5. `[ can / I / head. / my / touch ]`  
    → ______________________________
 
-6. What can you do?  
+6. `[ do? / can / What / you ]`  
    → ______________________________
 
-7. I can touch my nose.  
+7. `[ touch / can / nose. / I / my ]`  
    → ______________________________
 
-8. I can touch my eyes.  
+8. `[ eyes. / my / touch / I / can ]`  
    → ______________________________
 
-9. I can touch the red circle.  
+9. `[ circle. / touch / red / can / the / I ]`  
    → ______________________________
 
-## 2. Dịch Việt → Anh
-
-1. Ôi! Mình xin lỗi.  
-   → ______________________________
-
-2. Không sao.  
-   → ______________________________
-
-3. Dậm chân.  
-   → ______________________________
-
-4. Vỗ tay.  
-   → ______________________________
-
-5. Tôi có thể chạm vào đầu.  
-   → ______________________________
-
-6. Bạn có thể làm gì?  
-   → ______________________________
-
-7. Tôi có thể chạm vào mũi.  
-   → ______________________________
-
-8. Tôi có thể chạm vào mắt.  
-   → ______________________________
-
-9. Tôi có thể chạm vào hình tròn màu đỏ.  
-   → ______________________________
-
-## 3. Sắp xếp từ → tạo câu
-
-1. `sorry / I'm / Oops`  
-   → ______________________________
-
-2. `OK / That's`  
-   → ______________________________
-
-3. `feet / your / Stamp`  
-   → ______________________________
-
-4. `hands / your / Clap`  
-   → ______________________________
-
-5. `touch / I / head / my / can`  
-   → ______________________________
-
-6. `can / What / do / you`  
-   → ______________________________
-
-7. `nose / touch / my / can / I`  
-   → ______________________________
-
-8. `eyes / my / touch / can / I`  
-   → ______________________________
-
-9. `red / touch / the / circle / can / I`  
-   → ______________________________
-
-## 4. Ghép câu → phản hồi
+## 2. Ghép câu → phản hồi phù hợp
 
 | Câu | Phản hồi |
 |---|---|
-| Oops! I'm sorry. | A. I can touch my eyes. |
-| What can you do? | B. That's OK. |
+| 1. Oops! I'm sorry. | A. I can touch my eyes. |
+| 2. What can you do? | B. That's OK. |
 
-## 5. Body word matching
+## 3. Ghép từ với bộ phận cơ thể
 
-Ghép:
-
-| Nhóm 1 | Nhóm 2 |
+| Từ vựng | Hình minh họa |
 |---|---|
-| head | 👤 |
-| shoulders | 🧍 |
-| knees | 🦵 |
-| toes | 🦶 |
-| eyes | 👀 |
-| ears | 👂 |
-| mouth | 👄 |
-| nose | 👃 |
+| 1. head | A. 👤 (đầu) |
+| 2. shoulders | B. 🧍 (hai vai) |
+| 3. knees | C. 🦵 (đầu gối) |
+| 4. toes | D. 🦶 (ngón chân) |
+| 5. eyes | E. 👀 (mắt) |
+| 6. ears | F. 👂 (tai) |
+| 7. mouth | G. 👄 (miệng) |
+| 8. nose | H. 👃 (mũi) |
 
-## 6. Letters & words
+## 4. Letters & words (Phonics U–W)
 
-Sắp xếp:
+Điền chữ cái còn thiếu:
 
-1. `u / m / b / r / e / l / l / a` → __________
-2. `v / i / o / l / i / n` → __________
-3. `w / a / t / c / h` → __________
+- u m b r _ l l a *(umbrella)* ☂️
+- v _ o l i n *(violin)* 🎻
+- w _ t c h *(watch)* ⌚
 
-Ghép:
-
-- U u → __________
-- V v → __________
-- W w → __________
+Nối chữ với từ đúng:
+- U u → `[ umbrella / violin / watch ]`
+- V v → `[ violin / umbrella / watch ]`
+- W w → `[ watch / violin / umbrella ]`
 
 ---
 
@@ -530,48 +485,46 @@ Người lớn nói ngẫu nhiên:
 
 Bé thực hiện, sau đó tự nói lại câu lệnh.
 
-## 8. U–W Production
+## 8. U–W Phonics Production
 
-Nhìn chữ → tự nói từ:
+Nhìn chữ → tự nói to từ tương ứng:
 
-- U u → ____________________
-- V v → ____________________
-- W w → ____________________
+- U u → **umbrella** ☂️
+- V v → **violin** 🎻
+- W w → **watch** ⌚
 
-## 9. Alphabet Final Check
+## 9. Mini Conversation — Thực hành nói theo mẫu
 
-Đọc/ghép:
+### Tình huống 1 — Tình huống xin lỗi khi va chạm
+*Mẫu gợi ý:*
+- Bé A vô tình va vào bạn: *"Oops! I'm sorry."*
+- Bé B mỉm cười đáp: *"That's OK."*
 
-`A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`
+A: Oops! I'm sorry.  
+B: __________________________________ *(That's OK.)*
 
-với:
-
-`a b c d e f g h i j k l m n o p q r s t u v w x y z`
-
-## 10. Final Boss — không hint
-
-### Tình huống 1
-
-Bạn vô tình va vào bạn khác.
-
-A: __________________________________  
-B: __________________________________
-
-### Tình huống 2
-
-A: __________________________________ *(hỏi bạn có thể làm gì)*  
-B: __________________________________ *(chạm vào đầu)*
-
-### Tình huống 3
+### Tình huống 2 — Hỏi và nói về khả năng vận động (chạm vào đầu)
+*Mẫu gợi ý:*
+- Người lớn hỏi: *"What can you do?"*
+- Bé chạm vào đầu và nói: *"I can touch my head."*
 
 A: What can you do?  
-B: __________________________________ *(chạm vào mắt)*
+B: __________________________________ *(I can touch my head.)*
 
-### Tình huống 4
+### Tình huống 3 — Hỏi và nói về khả năng vận động (chạm vào mắt)
+*Mẫu gợi ý:*
+- Người lớn hỏi: *"What can you do?"*
+- Bé chỉ vào mắt và nói: *"I can touch my eyes."*
 
-Nhìn hình tròn màu đỏ.
+A: What can you do?  
+B: __________________________________ *(I can touch my eyes.)*
 
-Bé nói: __________________________________
+### Tình huống 4 — Chạm vào hình màu đỏ
+*Mẫu gợi ý:*
+- Người lớn chỉ vào hình tròn đỏ và hỏi khả năng của bé.
+- Bé nói: *"I can touch the red circle."*
+
+Bé: __________________________________ *(I can touch the red circle.)*
 
 ---
 
@@ -599,6 +552,74 @@ Bé nói: __________________________________
 | U u — umbrella | ✓ |
 | V v — violin | ✓ |
 | W w — watch | ✓ |
-| A–Z / a–z | ✓ |
 
-**Coverage: 100% từ vựng và mẫu câu thể hiện trong Unit 7 - My Body đã được kiểm tra ít nhất một lần.**
+**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.
+
+---
+
+<!-- challenge-audio-notes -->
+# Ghi chú audio cần bổ sung cho Challenge – Unit 7
+
+**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.
+
+Đây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.
+
+| Đã có | Tên file gợi ý | Nội dung cần đọc |
+|---|---|---|
+| ☐ | `u7_head.mp3` | head |
+| ☐ | `u7_shoulders.mp3` | shoulders |
+| ☐ | `u7_knees.mp3` | knees |
+| ☐ | `u7_toes.mp3` | toes |
+| ☐ | `u7_eyes.mp3` | eyes |
+| ☐ | `u7_ears.mp3` | ears |
+| ☐ | `u7_mouth.mp3` | mouth |
+| ☐ | `u7_nose.mp3` | nose |
+| ☐ | `u7_oops_i_m_sorry.mp3` | Oops! I'm sorry. |
+| ☐ | `u7_that_s_ok.mp3` | That's OK. |
+| ☐ | `u7_i_can_touch_my_head.mp3` | I can touch my head. |
+| ☐ | `u7_what_can_you_do.mp3` | What can you do? |
+| ☐ | `u7_i_can_touch_my_nose.mp3` | I can touch my nose. |
+| ☐ | `u7_i_can_touch_my_eyes.mp3` | I can touch my eyes. |
+| ☐ | `u7_i_can_touch_the_red_circle.mp3` | I can touch the red circle. |
+| ☐ | `u7_stamp_your_feet.mp3` | Stamp your feet. |
+| ☐ | `u7_clap_your_hands.mp3` | Clap your hands. |
+| ☐ | `u7_u_u_umbrella.mp3` | U u — umbrella |
+| ☐ | `u7_v_v_violin.mp3` | V v — violin |
+| ☐ | `u7_w_w_watch.mp3` | W w — watch |
+
+Nếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.
+<!-- /challenge-audio-notes -->
+
+<!-- unit7-audio-audit -->
+## Phân loại clip và đối chiếu bài nghe Challenge
+
+Tất cả clip bổ sung dưới đây **chưa có**. Một bản thu dùng chung cho các mục được liệt kê; bắt buộc chỉ khi chạy bài nghe tự động. Người lớn đọc trực tiếp vẫn dùng được. Không dùng nguyên track CD để thay clip ngắn mà chưa chọn đúng đoạn.
+
+| Đã có | Ưu tiên | Clip dùng chung | Nội dung | Nơi dùng |
+|---|---|---|---|---|
+| ☐ | Bắt buộc cho nghe tự động | `u7_head.mp3` | head | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_shoulders.mp3` | shoulders | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_knees.mp3` | knees | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_toes.mp3` | toes | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_eyes.mp3` | eyes | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_ears.mp3` | ears | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_mouth.mp3` | mouth | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_nose.mp3` | nose | C1 §2 chọn từ ngẫu nhiên trong lựa chọn; C2 §2 dùng head/eyes/ears/nose |
+| ☐ | Bắt buộc cho nghe tự động | `u7_oops_i_m_sorry.mp3` | Oops! I'm sorry. | C2 §1, §3; C5 §9 tình huống 1 nếu phát mẫu |
+| ☐ | Bắt buộc cho nghe tự động | `u7_that_s_ok.mp3` | That's OK. | C2 §1, §3; C5 §9 tình huống 1 nếu phát mẫu |
+| ☐ | Bắt buộc cho nghe tự động | `u7_i_can_touch_my_head.mp3` | I can touch my head. | C2 §1; C3 §4; C5 §9 nếu phát mẫu |
+| ☐ | Bắt buộc cho nghe tự động | `u7_what_can_you_do.mp3` | What can you do? | C2 §1, §3 (dùng chung hai lần); C5 §9 nếu phát mẫu |
+| ☐ | Bắt buộc cho nghe tự động | `u7_i_can_touch_my_nose.mp3` | I can touch my nose. | C2 §1; C3 §4; C5 §9 nếu phát mẫu |
+| ☐ | Bắt buộc cho nghe tự động | `u7_i_can_touch_my_eyes.mp3` | I can touch my eyes. | C2 §1; C3 §4; C5 §9 nếu phát mẫu |
+| ☐ | Bắt buộc cho nghe tự động | `u7_stamp_your_feet.mp3` | Stamp your feet. | C2 §1, §4; C5 §7 |
+| ☐ | Bắt buộc cho nghe tự động | `u7_clap_your_hands.mp3` | Clap your hands. | C2 §1, §4; C5 §7 |
+| ☐ | Bắt buộc cho nghe tự động | `u7_i_can_touch_the_red_circle.mp3` | I can touch the red circle. | C2 §1.9; C5 §9 tình huống 4 nếu phát mẫu |
+| ☐ | Tùy chọn | `u7_umbrella.mp3` | umbrella | C1 §4, C4 §4, C5 §8: bài nhìn/đọc/nói, không bắt buộc phát mẫu |
+| ☐ | Tùy chọn | `u7_violin.mp3` | violin | C1 §4, C4 §4, C5 §8: bài nhìn/đọc/nói, không bắt buộc phát mẫu |
+| ☐ | Tùy chọn | `u7_watch.mp3` | watch | C1 §4, C4 §4, C5 §8: bài nhìn/đọc/nói, không bắt buộc phát mẫu |
+| ☐ | Tùy chọn | `u7_a_to_z_a_to_z.mp3` | A to Z / a to z | C1 §4, C4 §4, C5 §8: bài nhìn/đọc/nói, không bắt buộc phát mẫu |
+
+**Hội thoại hai lượt tùy chọn:** có thể ghép các clip dùng chung hoặc thu nguyên cặp Oops!/That’s OK.; What can you do?/I can touch my head.; What can you do?/I can touch my eyes.; What can you do?/I can touch my nose. Không bỏ clip câu hỏi dùng chung. Giọng Boss khác là tùy chọn.
+
+Kho tự động ở trên là danh sách ứng viên; bảng phân loại này xác định yêu cầu thực tế. Không đánh dấu hoàn thành khi chỉ có tên gợi ý.
+<!-- /unit7-audio-audit -->

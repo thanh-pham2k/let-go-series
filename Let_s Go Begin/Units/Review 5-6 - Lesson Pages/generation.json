@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "batch_count": 1,
+  "tracks": [
+    "CD2_35",
+    "CD2_36"
+  ],
+  "source_pdf_sha256": "c50887df007bcf8d932c75ebf5ce8cab3a537b246d1ea6fea53a13beb90edafd",
+  "jobs": [
+    {
+      "tracks": [
+        "CD2_35",
+        "CD2_36"
+      ],
+      "prompt": "Use case: scientific-educational. Create ONE wide 2:1 sheet containing TWO independent SQUARE textbook lesson pages side by side, with a straight white vertical gutter and generous outer safe margins. Bright clean children's textbook cartoon, crisp outlines, soft shading, matching regenerated Let's Go Begin Units 1–3. Redraw every illustration; reference scans are CONTENT guidance, never paste scans. All exact printed content below must fit and remain legible. NO quiz questions, no answers circled, no checkmarks, no inferred audio answers.\nLEFT PANEL track CD2_35. Header \"Units 5-6  Listen and Review\", small gray cat wearing blue headphones and holding an orange pencil as source icon. Title \"A. Listen and circle.\" and clear \"CD2 35\" badge. Six numbered choice PAIRS in 2-column x3-row layout, arranged like reference page54. Each pair shows label lowercase \"a\" under LEFT option and \"b\" under RIGHT option, all unmarked:\n1: a EXACTLY THREE separate orange/yellow striped cats with white paws, b EXACTLY FOUR separate orange/yellow striped cats with white paws. Cat faces/bodies must be individually countable, do not merge heads.\n2: a EXACTLY TWO brown rabbits white fluffy tails, b EXACTLY FIVE brown rabbits white fluffy tails, all individually countable. Do not change to one rabbit.\n3: a ONE white soft-serve ice cream in tan waffle cone; b ONE slice of yellow layered cake chocolate frosting on light blue plate.\n4: a ONE slice of pale bread with brown crust; b ONE pink bowl with yellow patterned band blue rim filled white rice.\n5: a ONE brown-haired boy orange/red sweater green horizontal stripe blue pants green shoes doing SKIP: one foot on ground stepping forward opposite knee lifted, alternating step, movement ticks. b SAME boy JUMP: BOTH feet together fully off ground, knees bent and upward motion ticks. No word labels skip/jump in original, keep drawings only.\n6: a EXACTLY THREE children standing in a LINE one behind another: back red-haired girl teal sweater purple skirt; middle orange-haired child white top blue pants; front black-haired braided girl BLACK GLASSES red cardigan yellow skirt black shoes. b SAME EXACTLY THREE children holding hands in a CIRCLE, braided girl seen from behind in front; no fourth person. Source options order and pair numbers1–6 strictly unchanged.\nFooter \"54  Units 5-6  Listen and Review\". Do not add food or animal word labels absent from source. No circled selections.\nRIGHT PANEL track CD2_36. Header \"The Weather\", orange teacher cat blue mortarboard holding pointer icon. Title \"A. Say these.\" clear \"CD2 36\" badge. Five weather illustrations of the same black-haired ponytail girl looking out window of yellow house with blue shutters and pink curtains, retain original numbering and distinct colors:\n\"1. sunny\": orange top with white sleeves, bright blue sky visible orange sun, upright green trees, no rain/snow/wind marks.\n\"2. cloudy\": green shirt, gray/purple clouds fill sky, upright trees, NO wind lines, NO falling rain/snow.\n\"3. windy\": orange shirt with pink scarf blowing sideways, hair moving, visible flying yellow leaves and wind strokes, bending green trees, NO raindrops or snow.\n\"4. rainy\": red top, visible diagonal raindrops and wet scene, green trees, no snow.\n\"5. snowy\": purple sweater girl arms crossed shivering, white snowflakes falling and white snow piled on trees/ground/window ledge, no raindrops.\nKeep five image labels exact and in numbering order with source layout: sunny upper-left, cloudy center, windy upper-right, rainy lower-left, snowy lower-right, or compactly arranged readable grid maintaining numbers. Bottom large sunny scene: orange-shirt white sleeves ponytail girl leaning at blue-shuttered window, orange sun/green bushes/two upright trees, speech bubble from girl's mouth exact \"It's sunny.\" No other sentences invented. Footer \"The Weather  55\". Both panels fully contain all source activities and text; no lyrics invented.",
+      "refs": [
+        "E:/let-go-series/Let_s Go Begin/Units/Review 5-6 - Lesson Pages/source-pages/page-1.png",
+        "E:/let-go-series/Let_s Go Begin/Units/Review 5-6 - Lesson Pages/source-pages/page-2.png"
+      ],
+      "tool": "built-in image_gen",
+      "status": "reviewed",
+      "source_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-66df-7b20-a8b5-b27270be3a5b\\exec-74d7803b-fe0e-49ed-ba8d-8e6fc4acb6c2.png",
+      "local_output": "assets/batches/batch1.png",
+      "sheet_size": [
+        1774,
+        887
+      ],
+      "crop_boxes": [
+        [
+          1,
+          1,
+          885,
+          886
+        ],
+        [
+          890,
+          1,
+          1773,
+          886
+        ]
+      ],
+      "visual_review": "Compared both complete source pages with generated sheet: pairs 1a/1b have 3/4 cats, 2a/2b have 2/5 rabbits; pairs3-4 ice cream/cake and bread/rice in original order;5 skip/jump distinguish one grounded stepping foot vs both airborne;6 same three children in line/circle. All six pair numbers/a-b labels unmarked. Weather1 sunny2 cloudy3 windy4 rainy5 snowy retain clothing/visual distinctions and exact printed sentence Its sunny with apostrophe. No audio answer inference or independent listening audit.",
+      "sha256": "c4e19d35fb57f1be594b20345af642b1062957c62032d44133f513f805a58c01"
+    }
+  ],
+  "final_images": {
+    "CD2_35": {
+      "png": "pages/png/CD2_35.png",
+      "webp": "pages/webp/CD2_35.webp"
+    },
+    "CD2_36": {
+      "png": "pages/png/CD2_36.png",
+      "webp": "pages/webp/CD2_36.webp"
+    }
+  },
+  "visual_evidence": [
+    "Visually compared PDF page1/book54 with final 1200x1200 PNG and contact sheet: 1a three individually countable cats;1b four;2a two rabbits;2b five. 3a white cone/3b yellow layered cake blue plate;4a bread/4b pink yellow blue rice bowl.5a boy skipping one grounded foot/5b jumping both feet airborne.6a exactly3 children diagonally one behind another/6b same3 holding hands in circle, original clothing/glasses. Complete header/instruction/CD2_35, pair numbers1-6, twelve a/b labels/footer54 readable. Choices unmarked, no supplementary quiz printed, no gutter or clipped text/objects.",
+    "Visually compared PDF page2/book55 with final 1200x1200 PNG and contact sheet: numbered labels1 sunny2 cloudy3 windy4 rainy5 snowy exact; original yellow house, blue shutters, pink curtains, ponytail girl/clothing retained. Sunny sun/upright trees, cloudy gray clouds/no wind or precipitation, windy moving scarf/hair/leaves/wind strokes and bent tree outlines, rainy visible raindrops, snowy white flakes/accumulation/purple shivering girl. Complete large sunny window scene and It's sunny. bubble retained; header/instruction/CD2_36/footer55 readable. No invented weather sentences, no supplementary quiz printed, no gutter or clipping. Slight decorative white clouds in large sunny sky; still clearly sunny, source scene composition compacted."
+  ]
+}

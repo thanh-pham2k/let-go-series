@@ -1,0 +1,34 @@
+{
+  "tracks": [
+    "CD2_41",
+    "CD2_42",
+    "CD2_43",
+    "CD2_44"
+  ],
+  "prompt": "Generate FOUR independent square textbook pages in 2x2 sheet with straight white gutters. Modern bright children's cartoon, clear outlines soft shading. Unit 7 · My Body title and track in each cell, no quizzes. Anatomically natural children, precisely correct body locations.\nTOP LEFT CD2_41 \"E. Listen and do.\" Two separate scenes adapted from source D on same page: children stamping feet labeled \"1. Stamp your feet.\" and children clapping hands labeled \"2. Clap your hands.\" \nTOP RIGHT CD2_42 \"A. Words.\" Small top mascot touching head with speech \"I can touch my head.\" Four numbered vocabulary cards: \"1. head\" boy head arrow to TOP of head; \"2. shoulders\" child's upper torso two arrows precisely to shoulder joints; \"3. knees\" two bent legs with arrows to KNEECAPS, shoes below; \"4. toes\" two feet in red open sandals, five natural toes each, arrows to toes.\nBOTTOM LEFT CD2_43 \"B. Listen and point.\" Same four numbered vocabulary cards as source A adapted for listening: \"1. head\" arrow to head, \"2. shoulders\" two arrows to shoulders, \"3. knees\" arrows to both knees, \"4. toes\" arrows to both toes. Include source header model \"I can touch my head.\" No inventing dialogue.\nBOTTOM RIGHT CD2_44 \"C. Sentences.\" Gym with red mats; four distinct numbered pupils in yellow T-shirts navy shorts: 1 standing BOTH hands touching TOP of head, speech tail to him \"I can touch my head.\" 2 leaning with hands touching own shoulders. 3 seated knees bent hands touching both knees. 4 balancing with one hand touching toes of raised shoe. Background fifth unnumbered girl bends down touches toes. Clearly preserve numbers 1 2 3 4; two arms/two legs each, no extra limbs. Source pages 2,3,4 are content references, reconstruct new artwork, not screenshot.",
+  "refs": [
+    "source-pages/page-02.png",
+    "source-pages/page-03.png",
+    "source-pages/page-04.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-810a1ec7-7870-423b-b073-75e5e666278c.png"
+  },
+  "status": "reviewed",
+  "visual_review": "Source pp57-59 compared: stamping/clapping distinct, body numbering head1 shoulders2 knees3 toes4 correct; arrows hit body parts and five toes visible per foot; header model retained; CD2_43 title overlap fixed by built-in edit; numbered gym pupils perform correct actions.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    624
+  ],
+  "sha256": "21c30f666f7aeefb53b9142572e684e7ced9489a1271ff15d17579963a5d627e",
+  "selected_asset": "assets/batches/batch2.png",
+  "fix_logs": [
+    "batch2-fix1.json"
+  ],
+  "final_sha256": "21c30f666f7aeefb53b9142572e684e7ced9489a1271ff15d17579963a5d627e"
+}

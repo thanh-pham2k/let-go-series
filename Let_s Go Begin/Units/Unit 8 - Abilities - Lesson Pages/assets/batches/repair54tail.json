@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    "CD2_54"
+  ],
+  "prompt": "Change ONLY speech balloon tail in BOTTOM MIDDLE panel \"OK. Let's play tag.\" The speaker is the DARK-SKINNED CURLY-HAIRED BOY ON LEFT wearing navy-white shirt. Remove the existing tail on right pointing toward red-haired boy and put tail at LEFT edge of SAME balloon pointing DOWN LEFT to curly-haired boy's head. Red-haired boy on right is NOT speaking this reply. Preserve the two running/tag children, all four exact sentences, every other bubble, all art colors layout. Do not alter any character.",
+  "refs": [
+    "assets/batches/repair54final.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_54": {
+      "box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "visual_review": "Four exact invitations/replies; speaker tails now identify striped boy, yellow-shirt girl, navy-shirt boy, red-dress girl. Rearranged as separate comic panels."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "b750187e52ad42a5a972a8b6a7e0a5293d11e0f3b82dc2d7eb67d21b8f27ccdd",
+  "result_file": "repair54tail.png"
+}

@@ -1,0 +1,20 @@
+{
+  "tracks": [
+    "CD2_49",
+    "CD2_50",
+    "CD2_51",
+    "CD2_52"
+  ],
+  "prompt": "Edit this sheet ONLY in bottom-left CD2_51 toy-shop Find the letters illustration: bottom blue square beneath the yellow square marked uppercase V must contain lowercase \"v\", visibly smaller x-height than uppercase V above. Currently it resembles a second uppercase V. Keep the upper uppercase V unchanged; change lower shelf glyph to a clearly lowercase v. Keep U and u, W and w, basket UuVvWw, all clock digits, words, other panels and every other element unchanged.",
+  "refs": [
+    "assets/batches/batch4-fix1.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-64cd00f9-c369-4cda-887d-c1650ad99ec8.png"
+  },
+  "issue": "Lowercase v in toy shop must be distinct in height from uppercase V",
+  "status": "reviewed",
+  "visual_review": "Lowercasev smaller than uppercaseV; all six search glyphs preserved.",
+  "selected_asset": "assets/batches/batch4.png"
+}

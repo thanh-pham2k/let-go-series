@@ -1,0 +1,27 @@
+{
+  "tool": "image_gen__imagegen",
+  "status": "visually_reviewed",
+  "batches": [
+    "assets/batches/batch1.json"
+  ],
+  "source_pages": [
+    "source-pages/page-1.png",
+    "source-pages/page-2.png"
+  ],
+  "independent_audio_audit": false,
+  "repairs": [
+    "assets/batches/batch1-fix1.json",
+    "assets/batches/batch1-fix2.json"
+  ],
+  "selected_sheet": "assets/batches/batch1.png",
+  "sheet_size": [
+    1086,
+    1448
+  ],
+  "split": [
+    552,
+    881
+  ],
+  "font_overlays_used": false,
+  "fallback_used": false
+}

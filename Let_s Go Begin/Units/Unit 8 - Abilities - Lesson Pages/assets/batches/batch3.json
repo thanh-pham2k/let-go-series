@@ -1,0 +1,42 @@
+{
+  "tracks": [
+    "CD2_62",
+    "CD2_63",
+    "CD2_64",
+    "CD2_65"
+  ],
+  "prompt": "Create high resolution square 2x2 independent textbook lesson sheet, straight center gutters, bright cartoon clear outlines soft shading white background. No quiz or invented chant words.\nTOP LEFT CD2_62 D. Listen, point, and chant. Source is heading only; reuse source page 67 content: blonde girl red shirt purple pants flying ORANGE kite says \"I can fly a kite.\"; red-haired boy blue shirt green pants tangled unable to fly YELLOW kite says \"I can't fly a kite.\" Below four numbered thought groups (all eight vignettes): 1 black-haired boy YELLOW shirt can fly kite and bounce ball; 2 curly blonde girl PINK shirt can sing and cannot fly green kite (tangled); 3 dark-skinned curly boy TURQUOISE shirt can bounce ball and cannot ride yellow bicycle (fallen); 4 brunette ponytail girl ORANGE shirt can ride purple bicycle and cannot sing (awkward distressed with microphone). Each thought shows SAME child as its main portrait, same clothing. No words in thought bubbles.\nTOP RIGHT CD2_63 A. Words. Small gray cat asks orange cat holding yellow rubber duck \"Can you swim?\" orange cat answers \"No, I can't.\" Four numbered scenes: 1 curly blond boy swimming in blue water \"1. swim\"; 2 red-haired boy green shirt big smile both eyes open \"2. smile\"; 3 dark-skinned curly-haired girl green-red shirt WINKING exactly one eye closed \"3. wink\"; 4 black-haired boy red shirt purple pants dancing \"4. dance\".\nBOTTOM LEFT CD2_64 B. Listen and point. Source heading only, reuse SAME page's four numbered images and exact labels \"1. swim\", \"2. smile\", \"3. wink\", \"4. dance\" with same gender clothes and expressions. Small gray pointing cat. Do not replace wink with two closed eyes.\nBOTTOM RIGHT CD2_65 C. Question and answer. Top left conversation brown-haired boy YELLOW shirt asks \"Can you dance?\" black-haired braided girl PINK shirt dancing replies \"Yes, I can.\" Top right SAME girl asks \"Can you dance?\" SAME boy says \"No, I can't.\" boy hesitant NOT dancing. Bubble tails correct. Below eight numbered thought scenes in four pairs: dark-skinned braided girl green shirt: 1 can swim using yellow cap, 2 cannot dance hesitant pose; curly brown-haired boy orange shirt: 3 can smile, 4 cannot sing hesitant micless mouth; brown bobbed glasses girl green striped vest yellow sleeves: 5 cannot wink touches eye, 6 cannot smile neutral mouth; brown-haired boy purple sweater: 7 can dance, 8 cannot swim stands on pool edge with red-purple swim ring. Same child within each pair. Preserve all numbers 1–8, no text answers added to vignettes.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-04.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-05.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-06.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_63": {
+      "box": [
+        630,
+        2,
+        1252,
+        663
+      ],
+      "visual_review": "All four numbered actions; swim, smile both eyes open, wink exactly one eye shut, dance; gray/orange cat swim question and negative reply retained."
+    },
+    "CD2_64": {
+      "box": [
+        2,
+        668,
+        625,
+        1252
+      ],
+      "visual_review": "Source heading only: reused four labeled pictures from A same page; wink single eye; swim/smile/dance distinct."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "55076648630516a9795c0b6af983a158311052efdbaff787930a027ae37c88ad",
+  "result_file": "batch3.png"
+}

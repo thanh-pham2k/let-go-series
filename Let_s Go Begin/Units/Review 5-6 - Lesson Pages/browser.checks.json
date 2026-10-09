@@ -1,0 +1,38 @@
+{
+  "result": "pass",
+  "browser": "Headless installed Google Chrome via bundled Playwright",
+  "item_count": 2,
+  "checks": [
+    {
+      "track": "CD2_35",
+      "image": "pages/webp/CD2_35.webp",
+      "audio": "audio/Track35.mp3",
+      "duration": 64.04,
+      "image_size": [
+        1200,
+        1200
+      ],
+      "manual_review": "pass",
+      "synthetic_ended": "pass",
+      "answer_feedback": "pass",
+      "http_assets": "200"
+    },
+    {
+      "track": "CD2_36",
+      "image": "pages/webp/CD2_36.webp",
+      "audio": "audio/Track36.mp3",
+      "duration": 53.266667,
+      "image_size": [
+        1200,
+        1200
+      ],
+      "manual_review": "pass",
+      "synthetic_ended": "pass",
+      "answer_feedback": "pass",
+      "http_assets": "200"
+    }
+  ],
+  "navigation": "pass",
+  "page_errors": [],
+  "limitation": "MP3 metadata loaded; audio ended event simulated for UI check. No independent listening/transcription."
+}

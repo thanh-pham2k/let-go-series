@@ -1,0 +1,23 @@
+{
+  "unit": 3,
+  "id": "batch5",
+  "tracks": [
+    "CD1_54"
+  ],
+  "prompt": "Regenerate ONE complete square children's English textbook page, high resolution. Polished colorful friendly cartoon crisp outlines soft shading consistent with earlier Unit3 batches. Accurate plain 2D geometric shapes, all numbered shape row colors and words faithful. Correct title and CD1 54 badge. No quiz choices or extra wording.\nB. Question and answer. Two model exchanges: boy asks girl holding green square 'Is it a green square?' girl 'Yes, it is.' Then boy asks girl holding pink heart 'Is it a red square?' girl 'No, it isn't. It's a pink heart.' Beneath numbered shape row source order 1 green square, 2 brown triangle, 3 white oval, 4 blue heart, 5 pink heart, 6 yellow rectangle, 7 purple oval, 8 orange star. All shapes present, numbers correct, accurate geometry.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_54.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: both exact yes/no exchanges, eight numbered colored shapes, square/oval distinctions and pink heart retained.",
+  "sheet_size": [
+    1513,
+    1040
+  ],
+  "split": [
+    756,
+    520
+  ],
+  "sha256": "27140686bc62ef92b8d334dc12a46843a53be6debd4570f3f9a106001d884c62"
+}

@@ -1,0 +1,54 @@
+{
+  "result": "pass",
+  "checks": [
+    {
+      "path": "preview.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 12443
+    },
+    {
+      "path": "review.regenerated.metadata",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 3330
+    },
+    {
+      "path": "pages/webp/CD2_70.webp",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 180296
+    },
+    {
+      "path": "audio/Track70.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 912403
+    },
+    {
+      "path": "pages/webp/CD2_71.webp",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 131834
+    },
+    {
+      "path": "audio/Track71.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 736443
+    },
+    {
+      "path": "pages/webp/CD2_72.webp",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "bytes": 129170
+    },
+    {
+      "path": "audio/Track72.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 1113860
+    }
+  ],
+  "scope": "Direct HTTP serving and byte identity; no browser rendering/playback claim."
+}

@@ -1,5 +1,17 @@
 # Unit 3 - Shapes
 
+<!-- lesson-package-status -->
+## Bộ bài học chính và tài nguyên luyện thêm
+
+Đã có đủ **17 trang học chính**, mỗi trang gồm ảnh có chữ → audio → một câu trắc nghiệm. PNG/WebP đều **1200 × 1200**.
+
+- [Preview học và làm bài](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ ảnh](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata tích hợp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- [Unit 3 - Shapes – Câu hỏi theo trang](Unit%203%20-%20Shapes%20-%20Cau%20hoi%20theo%20trang.md).
+
+Các Challenge bên dưới là bài luyện thêm, giữ nguyên nội dung. Ký hiệu 🖼️ là hướng dẫn chọn hình, chưa phải asset riêng gắn cho từng câu. Người lớn có thể đọc phần nghe; để chạy tự động cần audio clip riêng. Chủ dự án sẽ tự bổ sung audio theo checklist cuối file. Audio CD nguồn đã kiểm tra file, chưa nghe/transcribe độc lập.
+<!-- /lesson-package-status -->
+
 > Chỉ sử dụng nội dung xuất hiện trong PDF **Unit 3 - Shapes**.
 >
 > Lộ trình: **Recognition → Recall → Comprehension → Production**.
@@ -270,16 +282,18 @@ Bé thực hiện đúng hành động.
 # Challenge 3 — Fill & Recall
 ## Recall
 
-## 1. Xáo chữ → ghép từ
+## 1. Điền chữ cái còn thiếu vào từ
 
-1. `c / i / r / c / l / e` → __________
-2. `s / q / u / a / r / e` → __________
-3. `t / r / i / a / n / g / l / e` → __________
-4. `h / e / a / r / t` → __________
-5. `s / t / a / r` → __________
-6. `r / e / c / t / a / n / g / l / e` → __________
-7. `d / i / a / m / o / n / d` → __________
-8. `o / v / a / l` → __________
+> Điền chữ cái còn thiếu để hoàn thành từ chỉ hình dạng đúng.
+
+1. c _ r c l e *(circle)* ⭕
+2. s q u _ r e *(square)* ⬜
+3. t r _ a n g l e *(triangle)* 🔺
+4. h _ a r t *(heart)* ❤️
+5. s t _ r *(star)* ⭐
+6. r _ c t a n g l e *(rectangle)* ▭
+7. d _ a m o n d *(diamond)* ◆
+8. o v _ l *(oval)* ⬭
 
 ## 2. Chọn từ → điền vào chỗ trống
 
@@ -351,155 +365,72 @@ B: I'm __________, thank you.
 
 ---
 
-# Challenge 4 — Translate & Build
+# Challenge 4 — Build & Match
 ## Comprehension
 
-## 1. Dịch Anh → Việt
+## 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. How are you today?  
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
+
+1. `[ are / How / today? / you ]`  
    → ______________________________
 
-2. I'm fine, thank you.  
+2. `[ fine, / I'm / you. / thank ]`  
    → ______________________________
 
-3. How are you?  
+3. `[ circle. / a / Draw ]`  
    → ______________________________
 
-4. I'm fine.  
+4. `[ square. / a / Draw ]`  
    → ______________________________
 
-5. Walk.  
+5. `[ it / Is / a / star? ]`  
    → ______________________________
 
-6. Run.  
+6. `[ is. / Yes, / it ]`  
    → ______________________________
 
-7. Draw a circle.  
+7. `[ rectangle? / Is / a / it ]`  
    → ______________________________
 
-8. Draw a square.  
+8. `[ diamond. / a / It's / No, / isn't. / it ]`  
    → ______________________________
 
-9. Is it a star?  
+9. `[ blue / a / It's / square. ]`  
    → ______________________________
 
-10. Yes, it is.  
+10. `[ green / Is / a / it / square? ]`  
     → ______________________________
 
-11. Is it a rectangle?  
+11. `[ Walk. ]`  
     → ______________________________
 
-12. No, it isn't. It's a diamond.  
+12. `[ Run. ]`  
     → ______________________________
 
-13. It's a blue square.  
-    → ______________________________
-
-14. Is it a green square?  
-    → ______________________________
-
-15. Is it a red square?  
-    → ______________________________
-
-16. No, it isn't. It's a pink heart.  
-    → ______________________________
-
-## 2. Dịch Việt → Anh
-
-1. Hôm nay bạn thế nào?  
-   → ______________________________
-
-2. Tôi khỏe, cảm ơn bạn.  
-   → ______________________________
-
-3. Đi bộ.  
-   → ______________________________
-
-4. Chạy.  
-   → ______________________________
-
-5. Vẽ một hình tròn.  
-   → ______________________________
-
-6. Vẽ một hình vuông.  
-   → ______________________________
-
-7. Nó có phải là một ngôi sao không?  
-   → ______________________________
-
-8. Vâng, đúng vậy.  
-   → ______________________________
-
-9. Nó có phải là một hình chữ nhật không?  
-   → ______________________________
-
-10. Không, không phải. Nó là một hình thoi.  
-    → ______________________________
-
-11. Nó là một hình vuông màu xanh dương.  
-    → ______________________________
-
-12. Nó có phải là một hình vuông màu xanh lá không?  
-    → ______________________________
-
-13. Không, không phải. Nó là một trái tim màu hồng.  
-    → ______________________________
-
-## 3. Sắp xếp từ → tạo câu
-
-1. `are / How / today / you`  
-   → ______________________________
-
-2. `fine / I'm / thank / you`  
-   → ______________________________
-
-3. `a / Draw / circle`  
-   → ______________________________
-
-4. `a / Draw / square`  
-   → ______________________________
-
-5. `it / Is / a / star`  
-   → ______________________________
-
-6. `it / Yes / is`  
-   → ______________________________
-
-7. `a / rectangle / Is / it`  
-   → ______________________________
-
-8. `a / diamond / It's`  
-   → ______________________________
-
-9. `a / blue / square / It's`  
-   → ______________________________
-
-10. `a / green / square / Is / it`  
-    → ______________________________
-
-## 4. Ghép câu hỏi → câu trả lời
+## 2. Ghép câu hỏi → câu trả lời
 
 | Question | Answer |
 |---|---|
-| How are you today? | A. Yes, it is. |
-| Is it a star? ⭐ | B. I'm fine, thank you. |
-| Is it a rectangle? ◆ | C. No, it isn't. It's a diamond. |
+| 1. How are you today? | A. Yes, it is. |
+| 2. Is it a star? ⭐ | B. I'm fine, thank you. |
+| 3. Is it a rectangle? ◆ | C. No, it isn't. It's a diamond. |
+| 4. Is it a red square? 🩷❤️ | D. No, it isn't. It's a pink heart. |
 
-## 5. Letters & words
+## 3. Letters & words (Phonics E–H)
 
-Sắp xếp:
+Điền chữ cái còn thiếu:
 
-1. `e / g / g` → __________
-2. `f / i / s / h` → __________
-3. `g / o / r / i / l / l / a` → __________
-4. `h / e / a / r / t` → __________
+- e g _ *(egg)* 🥚
+- f _ s h *(fish)* 🐟
+- g o r _ l l a *(gorilla)* 🦍
+- h _ a r t *(heart)* ❤️
 
-Ghép:
-
-- E e → __________
-- F f → __________
-- G g → __________
-- H h → __________
+Nối chữ với từ đúng:
+- E e → `[ egg / fish / gorilla / heart ]`
+- F f → `[ fish / egg / heart / gorilla ]`
+- G g → `[ gorilla / heart / egg / fish ]`
+- H h → `[ heart / fish / gorilla / egg ]`
 
 ---
 
@@ -612,54 +543,48 @@ Sau đó bé tự nói lại từng câu.
 
 → ______________________________
 
-## 8. E–H Production
+## 8. E–H Phonics Production
 
-Nhìn chữ và nói từ tương ứng:
+Nhìn chữ và nói to từ tương ứng:
 
-- E e → ____________________
-- F f → ____________________
-- G g → ____________________
-- H h → ____________________
+- E e → **egg** 🥚
+- F f → **fish** 🐟
+- G g → **gorilla** 🦍
+- H h → **heart** ❤️
 
-## 9. Alphabet Final Check
+## 9. Mini Conversation — Thực hành nói theo mẫu
 
-Đọc/ghép:
+### Tình huống 1 — Hỏi thăm sức khỏe
+*Mẫu gợi ý:*
+- Người lớn: *"How are you today?"* (hoặc *"How are you?"*)
+- Bé trả lời: *"I'm fine, thank you."* (hoặc *"I'm fine."*)
 
-`A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`
+A: How are you today?  
+B: __________________________________ *(I'm fine, thank you.)*
 
-với:
+### Tình huống 2 — Đoán hình đúng (⭐)
+*Mẫu gợi ý:*
+- Người lớn: *"Is it a star?"*
+- Bé trả lời: *"Yes, it is."*
 
-`a b c d e f g h i j k l m n o p q r s t u v w x y z`
+A: Is it a star? ⭐  
+B: __________________________________ *(Yes, it is.)*
 
-## 10. Final Boss Conversation
+### Tình huống 3 — Đoán hình sai (◆)
+*Mẫu gợi ý:*
+- Người lớn: *"Is it a rectangle?"*
+- Bé trả lời: *"No, it isn't. It's a diamond."*
 
-Không nhìn mẫu.
+A: Is it a rectangle? ◆  
+B: __________________________________ *(No, it isn't. It's a diamond.)*
 
-### Tình huống 1 — hỏi thăm
+### Tình huống 4 — Đoán hình kết hợp màu sắc (🩷❤️)
+*Mẫu gợi ý:*
+- Người lớn: *"Is it a red square?"*
+- Bé trả lời: *"No, it isn't. It's a pink heart."*
 
-A: __________________________________  
-B: __________________________________
-
-### Tình huống 2 — đoán hình đúng
-
-⭐
-
-A: __________________________________  
-B: __________________________________
-
-### Tình huống 3 — đoán hình sai
-
-◆
-
-A: __________________________________ *(hỏi có phải rectangle không)*  
-B: __________________________________
-
-### Tình huống 4 — hình + màu
-
-🩷 ❤️
-
-A: __________________________________ *(hỏi có phải red square không)*  
-B: __________________________________
+A: Is it a red square? 🩷❤️  
+B: __________________________________ *(No, it isn't. It's a pink heart.)*
 
 ---
 
@@ -701,6 +626,55 @@ B: __________________________________
 | F f — fish | ✓ |
 | G g — gorilla | ✓ |
 | H h — heart | ✓ |
-| A–Z / a–z | ✓ |
 
-**Coverage: 100% từ vựng và mẫu câu thể hiện trong Unit 3 - Shapes đã được kiểm tra ít nhất một lần.**
+**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.
+
+---
+
+<!-- challenge-audio-notes -->
+# Ghi chú audio cần bổ sung cho Challenge – Unit 3
+
+**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.
+
+Đây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.
+
+| Đã có | Tên file gợi ý | Nội dung cần đọc |
+|---|---|---|
+| ☐ | `u3_a_circle.mp3` | a circle |
+| ☐ | `u3_a_square.mp3` | a square |
+| ☐ | `u3_a_triangle.mp3` | a triangle |
+| ☐ | `u3_a_heart.mp3` | a heart |
+| ☐ | `u3_a_star.mp3` | a star |
+| ☐ | `u3_a_rectangle.mp3` | a rectangle |
+| ☐ | `u3_a_diamond.mp3` | a diamond |
+| ☐ | `u3_an_oval.mp3` | an oval |
+| ☐ | `u3_how_are_you_today.mp3` | How are you today? |
+| ☐ | `u3_i_m_fine_thank_you.mp3` | I'm fine, thank you. |
+| ☐ | `u3_how_are_you.mp3` | How are you? |
+| ☐ | `u3_i_m_fine.mp3` | I'm fine. |
+| ☐ | `u3_walk.mp3` | Walk. |
+| ☐ | `u3_run.mp3` | Run. |
+| ☐ | `u3_draw_a_circle.mp3` | Draw a circle. |
+| ☐ | `u3_draw_a_square.mp3` | Draw a square. |
+| ☐ | `u3_is_it_a_star.mp3` | Is it a star? |
+| ☐ | `u3_yes_it_is.mp3` | Yes, it is. |
+| ☐ | `u3_is_it_a_rectangle.mp3` | Is it a rectangle? |
+| ☐ | `u3_no_it_isn_t_it_s_a_diamond.mp3` | No, it isn't. It's a diamond. |
+| ☐ | `u3_is_it_a_green_square.mp3` | Is it a green square? |
+| ☐ | `u3_is_it_a_red_square.mp3` | Is it a red square? |
+| ☐ | `u3_no_it_isn_t_it_s_a_pink_heart.mp3` | No, it isn't. It's a pink heart. |
+| ☐ | `u3_a_blue_square.mp3` | a blue square |
+| ☐ | `u3_a_purple_heart.mp3` | a purple heart |
+| ☐ | `u3_an_orange_triangle.mp3` | an orange triangle |
+| ☐ | `u3_a_yellow_circle.mp3` | a yellow circle |
+| ☐ | `u3_a_green_square.mp3` | a green square |
+| ☐ | `u3_a_pink_heart.mp3` | a pink heart |
+| ☐ | `u3_it_s_a_blue_square.mp3` | It's a blue square. |
+| ☐ | `u3_e_e_egg.mp3` | E e — egg |
+| ☐ | `u3_f_f_fish.mp3` | F f — fish |
+| ☐ | `u3_g_g_gorilla.mp3` | G g — gorilla |
+| ☐ | `u3_h_h_heart.mp3` | H h — heart |
+| ☐ | `u3_it_s_a_diamond.mp3` | It's a diamond. |
+
+Nếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.
+<!-- /challenge-audio-notes -->

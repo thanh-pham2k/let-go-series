@@ -1,0 +1,195 @@
+{
+  "result": "pass",
+  "unit": 5,
+  "item_count": 18,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD2_02",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "68d303158a6a78f7051452e5be831255aab61266604aa07e1ef36a1826369728",
+      "visual_review": "Compared source pages 38–39: cashier/girl dialogue, both unanswered speech blanks, eight repeated song lines, birdhouse/feed/tools and separate Jump/Skip actions retained; inspect final crops separately."
+    },
+    {
+      "track": "CD2_03",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "d0b2274c63383af89a32c83deea144696c2cb6e1ddef49f51548c38550070be6",
+      "visual_review": "Compared source pages 38–39: cashier/girl dialogue, both unanswered speech blanks, eight repeated song lines, birdhouse/feed/tools and separate Jump/Skip actions retained; inspect final crops separately."
+    },
+    {
+      "track": "CD2_04",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "232ce4b5c0e81ec9371081a0dbdbb13e1546009d8ddd7069cd03543b04a3f04d",
+      "visual_review": "Compared source pages 38–39: cashier/girl dialogue, both unanswered speech blanks, eight repeated song lines, birdhouse/feed/tools and separate Jump/Skip actions retained; inspect final crops separately."
+    },
+    {
+      "track": "CD2_05",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "01ae6e1772ec6f118fdc0ff258dc7078cb570ad965312aba6c82cd61cf847b5e",
+      "visual_review": "Compared source pages 38–39: cashier/girl dialogue, both unanswered speech blanks, eight repeated song lines, birdhouse/feed/tools and separate Jump/Skip actions retained; inspect final crops separately."
+    },
+    {
+      "track": "CD2_06",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "8fc442c3bd8375b8cc06c152947fe1a53dab17d22fd463d30c1a471379d83546",
+      "visual_review": "Source reviewed counts07/08=1,3,1,2,1,5;09 cats2 dogs3 birds5; correct dialogue and Jump/Skip. Actual divider x626 y622 overrides whitespace detector."
+    },
+    {
+      "track": "CD2_07",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "7a39539ad733db4eb0742e5e9b7190c943b18109bdb519e132d77ee3b1cf916c",
+      "visual_review": "Source reviewed counts07/08=1,3,1,2,1,5;09 cats2 dogs3 birds5; correct dialogue and Jump/Skip. Actual divider x626 y622 overrides whitespace detector."
+    },
+    {
+      "track": "CD2_08",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a56cc1bdc2d86d1dadb193473147e8ac67ce04ebaca57f54de9b10612b48f907",
+      "visual_review": "Source reviewed counts07/08=1,3,1,2,1,5;09 cats2 dogs3 birds5; correct dialogue and Jump/Skip. Actual divider x626 y622 overrides whitespace detector."
+    },
+    {
+      "track": "CD2_09",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "919ad7aeb92baef53f75d176985eb0a9e182f622285342babb6e34ba65edd8d4",
+      "visual_review": "Source reviewed counts07/08=1,3,1,2,1,5;09 cats2 dogs3 birds5; correct dialogue and Jump/Skip. Actual divider x626 y622 overrides whitespace detector."
+    },
+    {
+      "track": "CD2_10",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "cc8cc4a264496f424221057797eb9ebf897795d70dd7076d3a2af4310b1414e4",
+      "visual_review": "Source41–43 counted:10 birds2 dogs3 cats2;11/12 cow1 cows3 rabbit1 rabbits6 duck1 ducks4, header3 ducks separate;13 cows8 plus separate1, pond6 white ducks plus shore1, running rabbits3 seated1; all labels/dialogues correct."
+    },
+    {
+      "track": "CD2_11",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "d595da3e94ddf30e5a9afce47532e680fe92ba9dd13462faa08e393fd07a62e8",
+      "visual_review": "Source41–43 counted:10 birds2 dogs3 cats2;11/12 cow1 cows3 rabbit1 rabbits6 duck1 ducks4, header3 ducks separate;13 cows8 plus separate1, pond6 white ducks plus shore1, running rabbits3 seated1; all labels/dialogues correct."
+    },
+    {
+      "track": "CD2_12",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "663eaa473fcbce3deaebde2f935262f03387c91557663a540a2f7b947e8dda28",
+      "visual_review": "Source41–43 counted:10 birds2 dogs3 cats2;11/12 cow1 cows3 rabbit1 rabbits6 duck1 ducks4, header3 ducks separate;13 cows8 plus separate1, pond6 white ducks plus shore1, running rabbits3 seated1; all labels/dialogues correct."
+    },
+    {
+      "track": "CD2_13",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a4b1aee1e532593e1b930262849196cb64027150f4f4ba54cf9ea3e8affa6386",
+      "visual_review": "Source41–43 counted:10 birds2 dogs3 cats2;11/12 cow1 cows3 rabbit1 rabbits6 duck1 ducks4, header3 ducks separate;13 cows8 plus separate1, pond6 white ducks plus shore1, running rabbits3 seated1; all labels/dialogues correct."
+    },
+    {
+      "track": "CD2_14",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "fc2839e724ba4386acc38c00fe6d21f15c9dd4898d16017e07c88810144fcc75",
+      "visual_review": "Source43 final check: eight cows group1 plus one cow4; six swimming ducks3 plus single standing duck2 clearly on green shore; three running rabbits5 plus seated rabbit6, both dialogue speakers correct. Final standalone square inspected."
+    },
+    {
+      "track": "CD2_15",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "e0e6dfc6f9909f486a74d9d043d7391c42301c44f9e110a3c57e955e9a5f4288",
+      "visual_review": "Source43 counted ducks2 cows3 rabbits5 dogs7 birds10. Source colors retained with2 brown/cream cows and1 black/white cow, varied rabbit fur, yellow ducks rust-red birds. No invented song lyrics; plural labels correct."
+    },
+    {
+      "track": "CD2_16",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "7d02ffa18f968d88c1785b899de582676abf1d3e447580c2873002afbb9015b3",
+      "visual_review": "All26 pairs Aa–Zz visually checked in sequential reading order; MmNnOoPp highlighted."
+    },
+    {
+      "track": "CD2_17",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "8be66e4ab226b57a30684cc789d6ad527b4b146b42a91e380102149272a5c1a4",
+      "visual_review": "Mm moon, Nn nest, Oo octopus, Pp peach; Find the letters retains eight glyphs M m N n O o P p and source octopus/moon/nest/peach scene."
+    },
+    {
+      "track": "CD2_18",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "b5f63ca8a528579e76050a605bdcac25c2e2fc35a25b7699962d79db0279bcc4",
+      "visual_review": "Exactly3 locomotives distinguished from carriages,1 ball,6 bears3+3,9 yo-yos3x3; both original counting utterances retained."
+    },
+    {
+      "track": "CD2_19",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "61926d6d671e06fd88f4baa8616c2eb2dd0557f87094f5c2c5c7115545808f54",
+      "visual_review": "Source45 checked:8 cars,10 blue rectangular cards5+5,4 complete ropes8 handles,2 rabbits,5 balls,1 red bicycle. Dialogue How many cars?/8 cars. correct speakers."
+    }
+  ],
+  "audio_validation": "Byte-for-byte identity with source CD MP3; speech not independently audited.",
+  "visual_validation": "All 18 final cropped PNG pages inspected against source; detailed per-track reviews in manifest.",
+  "challenge_audio": "Missing; owner to supply mandatory listening clips. Optional and shared clips documented.",
+  "preview_validation": "Node VM executed actual preview JS across18 tracks: asset selection, audio-ended reveals quiz, correct/wrong feedback and navigation pass. Browser/audio playback not independently audited."
+}

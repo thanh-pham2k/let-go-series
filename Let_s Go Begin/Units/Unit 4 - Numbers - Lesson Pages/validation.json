@@ -1,0 +1,179 @@
+{
+  "result": "pass",
+  "unit": 4,
+  "item_count": 16,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD1_55",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "9834cecdf998b60553e1ae84fb2c88505aab3411b097c9e229d1482f0f1cc193",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes."
+    },
+    {
+      "track": "CD1_56",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "cc12f1eadb0dbc9d24e3744dcfd010c463f18aeb93ddb1e39083502e80d8aa18",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes."
+    },
+    {
+      "track": "CD1_57",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a5b2cee6306afe2d70e47bab647b220dbc895c34dae28ac3a5172f6b72ea4e07",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes."
+    },
+    {
+      "track": "CD1_58",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "542b7560a8138a5af9214637f5d6ffb1900b71dbf98b2c7469d1c0fe69583f97",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes."
+    },
+    {
+      "track": "CD1_59",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "7690376f58408059c5e44a8e880d29867f348b0901244a95e19a01bbb52b8dc6",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct."
+    },
+    {
+      "track": "CD1_60",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "17eea415b1430362d6d411be3e02acd85dd29a6292dfbf4a1e73fdadb5319988",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct. Source header model restored with font layer."
+    },
+    {
+      "track": "CD1_61",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a6a251de36adc610cfbe37a2c1d00618d90bba04fcad08c62bafff7576273575",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct."
+    },
+    {
+      "track": "CD1_62",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "e0bd05838230fd651f9704c4b86f285736d8e35e2909dd8bc2ca63e869ac5fde",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct."
+    },
+    {
+      "track": "CD1_63",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "10128ff7ee391bc6c433a7722ce13af59199a94f6c53bbbd722d699c6f166bf8",
+      "visual_review": "Visual count CD1_64/65: 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares; model How many? / 6. retained. CD1_63 numerals 1-5 and words correct."
+    },
+    {
+      "track": "CD1_64",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "2a75284c9db6c2301163b652665967ded3a18ba9693e6015da4ef52a012ea8e8",
+      "visual_review": "Visual count CD1_64/65: 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares; model How many? / 6. retained. CD1_63 numerals 1-5 and words correct."
+    },
+    {
+      "track": "CD1_65",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "8d117bd4762d684a50499826d0f15f7e7cc85d7f26fe0e317ab31b82708aa5d8",
+      "visual_review": "Visual count CD1_64/65: 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares; model How many? / 6. retained. CD1_63 numerals 1-5 and words correct."
+    },
+    {
+      "track": "CD1_66",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "ebfdc9419e03586cb0bdb813a7439bc3affb81f29e63777bb51f145c8810c1fc",
+      "visual_review": "Visually counted 9 cats in 3x3, 8 dogs in 2x4, 7 apples in 4+3, 6 wall hearts, 5 board stars. Correct group badges and How many? / 7.; girl shows 2+5 fingers. Layout rearranged for clear counts."
+    },
+    {
+      "track": "CD1_67",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "604af1eb16e1a508f8b015d3e24f4d6be3b5b9ed72497fcc9fe16dc6496a7823",
+      "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed."
+    },
+    {
+      "track": "CD1_68",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "3369d2e5ad2e7d13dad91c80e0db0cef25faff4014b8854671fd0de18738c0d0",
+      "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed."
+    },
+    {
+      "track": "CD1_69",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a5ba8309eb8203440ba92b4afeabdf31b5fd9cdf2f5623b6c1d0cac7e04967ef",
+      "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed."
+    },
+    {
+      "track": "CD1_70",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "f69a996d371a389e4847c57fc361d426e55008c32aa81481a5632c5e0ca0026c",
+      "visual_review": "All ten balloon pairs confirmed 1:5 2:3 3:2 4:7 5:1 6:6 7:4 8:8 9:10 10:9. Both dialogues correct with speech tails, upright 6 and Find the numbers 1-5 retained. Track badge added using font layer."
+    }
+  ],
+  "audio_validation": "Byte-for-byte identity with source CD MP3; speech not independently audited.",
+  "visual_validation": "All 16 final PNG pages and contact sheet inspected against source PDF renders; counts, colors, dialogues, alphabet and crop boundaries checked.",
+  "adjustments": [
+    "CD1_60 source model font restored",
+    "CD1_66 exact count repair",
+    "CD1_67 answer B=5",
+    "CD1_70 ten balloon pairs and dialogues repaired"
+  ]
+}

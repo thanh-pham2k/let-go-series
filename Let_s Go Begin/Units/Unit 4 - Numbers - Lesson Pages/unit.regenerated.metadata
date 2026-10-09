@@ -1,0 +1,540 @@
+{
+  "format_version": "2.0",
+  "unit": 4,
+  "topic": "Numbers",
+  "item_count": 16,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD1_55",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 28,
+      "image": "pages/webp/CD1_55.webp",
+      "audio_file": "audio/Track55.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_55",
+        "prompt": "Khi nghe “May I come in?”, câu trả lời trong hình là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sure! Please come in!"
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "Good-bye."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_56",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 28,
+      "image": "pages/webp/CD1_56.webp",
+      "audio_file": "audio/Track56.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_56",
+        "prompt": "Ở tình huống số 1, bé chọn câu đáp lại “May I come in?”.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm Kate."
+          },
+          {
+            "id": "B",
+            "text": "Sure! Please come in!"
+          },
+          {
+            "id": "C",
+            "text": "Stand up."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_57",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 29,
+      "image": "pages/webp/CD1_57.webp",
+      "audio_file": "audio/Track57.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_57",
+        "prompt": "Câu “May I come in?” trong bài hát dùng để làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hỏi tên."
+          },
+          {
+            "id": "B",
+            "text": "Hỏi màu."
+          },
+          {
+            "id": "C",
+            "text": "Xin phép vào."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_58",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 29,
+      "image": "pages/webp/CD1_58.webp",
+      "audio_file": "audio/Track58.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_58",
+        "prompt": "Khi nghe “Stop”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dừng lại."
+          },
+          {
+            "id": "B",
+            "text": "Tiếp tục đi."
+          },
+          {
+            "id": "C",
+            "text": "Chạy nhanh hơn."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_59",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 29,
+      "image": "pages/webp/CD1_59.webp",
+      "audio_file": "audio/Track59.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_59",
+        "prompt": "Sau bài luyện hành động, “Go” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ngồi xuống."
+          },
+          {
+            "id": "B",
+            "text": "Đi."
+          },
+          {
+            "id": "C",
+            "text": "Dừng lại."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_60",
+      "exercise": "A. Numbers.",
+      "page": 3,
+      "book_page": 30,
+      "image": "pages/webp/CD1_60.webp",
+      "audio_file": "audio/Track60.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_60",
+        "prompt": "Nhóm 3 chiếc ô tô ứng với số nào trong bài nghe?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "two"
+          },
+          {
+            "id": "B",
+            "text": "five"
+          },
+          {
+            "id": "C",
+            "text": "three"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_61",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 30,
+      "image": "pages/webp/CD1_61.webp",
+      "audio_file": "audio/Track61.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_61",
+        "prompt": "Sau khi luyện nghe, nhóm 2 búp bê ứng với số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "two"
+          },
+          {
+            "id": "B",
+            "text": "one"
+          },
+          {
+            "id": "C",
+            "text": "four"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_62",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 31,
+      "image": "pages/webp/CD1_62.webp",
+      "audio_file": "audio/Track62.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_62",
+        "prompt": "Trong câu “Let's count. 1, 2, 3, 4…”, các bạn đang làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hỏi màu."
+          },
+          {
+            "id": "B",
+            "text": "Đếm."
+          },
+          {
+            "id": "C",
+            "text": "Hỏi tên."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_63",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 4,
+      "book_page": 31,
+      "image": "pages/webp/CD1_63.webp",
+      "audio_file": "audio/Track63.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_63",
+        "prompt": "Trong dãy số vừa hát, số nào đứng ngay sau four?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "three"
+          },
+          {
+            "id": "B",
+            "text": "one"
+          },
+          {
+            "id": "C",
+            "text": "five"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_64",
+      "exercise": "A. Numbers.",
+      "page": 5,
+      "book_page": 32,
+      "image": "pages/webp/CD1_64.webp",
+      "audio_file": "audio/Track64.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_64",
+        "prompt": "Nhóm 7 ngôi sao ứng với số nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "seven"
+          },
+          {
+            "id": "B",
+            "text": "six"
+          },
+          {
+            "id": "C",
+            "text": "eight"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_65",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 32,
+      "image": "pages/webp/CD1_65.webp",
+      "audio_file": "audio/Track65.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_65",
+        "prompt": "Sau khi luyện nghe, nhóm 10 hình vuông ứng với số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "six"
+          },
+          {
+            "id": "B",
+            "text": "ten"
+          },
+          {
+            "id": "C",
+            "text": "nine"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_66",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 33,
+      "image": "pages/webp/CD1_66.webp",
+      "audio_file": "audio/Track66.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_66",
+        "prompt": "Trong hình, câu trả lời cho “How many?” là số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "5."
+          },
+          {
+            "id": "B",
+            "text": "9."
+          },
+          {
+            "id": "C",
+            "text": "7."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_67",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 6,
+      "book_page": 33,
+      "image": "pages/webp/CD1_67.webp",
+      "audio_file": "audio/Track67.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_67",
+        "prompt": "Sau bài hát, nhóm trái tim bên trái có bao nhiêu hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "4."
+          },
+          {
+            "id": "B",
+            "text": "5."
+          },
+          {
+            "id": "C",
+            "text": "8."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_68",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 34,
+      "image": "pages/webp/CD1_68.webp",
+      "audio_file": "audio/Track68.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_68",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau J?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "L"
+          },
+          {
+            "id": "B",
+            "text": "K"
+          },
+          {
+            "id": "C",
+            "text": "I"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_69",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 34,
+      "image": "pages/webp/CD1_69.webp",
+      "audio_file": "audio/Track69.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_69",
+        "prompt": "Từ nào đi với chữ L l trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "igloo"
+          },
+          {
+            "id": "B",
+            "text": "kangaroo"
+          },
+          {
+            "id": "C",
+            "text": "lion"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_70",
+      "exercise": "A. Ask and answer.",
+      "page": 8,
+      "book_page": 35,
+      "image": "pages/webp/CD1_70.webp",
+      "audio_file": "audio/Track70.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U4-CD1_70",
+        "prompt": "Trong hội thoại bên phải, câu trả lời cho “Is it a 9?” là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, it isn't. It's a 6."
+          },
+          {
+            "id": "B",
+            "text": "Yes, it is."
+          },
+          {
+            "id": "C",
+            "text": "It's a 5."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

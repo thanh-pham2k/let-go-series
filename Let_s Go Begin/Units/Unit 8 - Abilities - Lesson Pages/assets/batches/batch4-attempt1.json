@@ -1,0 +1,18 @@
+{
+  "tracks": [
+    "CD2_66",
+    "CD2_67",
+    "CD2_68",
+    "CD2_69"
+  ],
+  "prompt": "Create a square high resolution 2x2 sheet of four independent bright textbook cartoon lesson pages, crisp outlines soft shading clear exact text, straight white center gutters. Redraw references; no quiz.\nTOP LEFT CD2_66 D. Listen and chant. Heading-only original uses page69 content. Two conversations at top: brown-haired boy yellow shirt asks black braided girl pink shirt \"Can you dance?\" dancing girl replies \"Yes, I can.\" Then same girl asks same boy \"Can you dance?\" hesitant boy replies \"No, I can't.\" Correct tails. Below eight numbered scenes grouped into same four children: 1 dark-skinned braided girl green shirt swimming yellow cap; 2 SAME girl hesitant unable to dance; 3 curly brown boy orange shirt smiling; 4 SAME boy hesitant unable to sing; 5 brown bobbed girl glasses green-striped vest yellow sleeves touching eye unable to wink; 6 SAME girl neutral mouth unable to smile; 7 brown boy purple sweater dancing; 8 SAME boy with red-purple swim ring standing dry at pool edge unable to swim. Keep all eight numbers and action meanings, no invented lyrics.\nTOP RIGHT CD2_67 A. Sing and say. \"The Alphabet\". ALL uppercase and lowercase 26 glyphs in exact order, use multiple aligned rows for readability: \"A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\" and \"a b c d e f g h i j k l m n o p q r s t u v w x y z\". Highlight X Y Z and x y z red, others purple, green panel. NO invented alphabet song lyrics. Minimal music icon.\nBOTTOM LEFT CD2_68 B. Letters and words. Three labeled illustrations: \"1. X x\" orange fox \"fox\"; \"2. Y y\" BLUE ball of yarn loose string \"yarn\"; \"3. Z z\" black-white zebra \"zebra\". Below retain \"C. Find the letters.\" zoo activity: red-shirt boy leaning over left fox enclosure, orange fox and GREEN ball yarn on ground; two children (black-haired boy blue shirt orange trousers and dark-skinned girl pink shirt purple skirt) beside right zebra enclosure. Hide recognizable X x Y y around fox/yarn ropes; Z z on zebra sign/fence. Do not pre-circle answers. Preserve letter glyphs.\nBOTTOM RIGHT CD2_69 A. Play a game. \"Let's Build\". Black-haired girl purple shirt left asks red-haired boy yellow shirt right \"Can you jump?\" boy replies \"Yes, I can.\" They sit at table with board and tokens. Below large clear S-shaped board continuous ordered tiles exactly: \"GO\" -> \"Jump\" -> \"Stand up\" -> \"Make a circle\" -> \"Sit down\" -> \"Walk\" -> \"Move ahead 2 spaces\" -> \"Go to the board\" -> \"Skip\" -> \"Point to the board\" -> \"Make a line\" -> \"Move back 3 spaces\" -> \"Run\" -> \"STOP\". Every action tile has matching miniature cartoon action (jump airborne, stand from chair, 5 children circle, seated, walking, board walking, skipping, pointing, 4 children line, running). GO and STOP yellow outlined green; other tiles alternating red purple blue yellow as source. The ahead number is TWO 2, back THREE 3. All labels legible inside own quadrant.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-06.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-07.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-08.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "superseded_not_used",
+  "result_file": "batch4-attempt1.png",
+  "reason": "Mixed CD2_67/68 and game spanned bottom row."
+}

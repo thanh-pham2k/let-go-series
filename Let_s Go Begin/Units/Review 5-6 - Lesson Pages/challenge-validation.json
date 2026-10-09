@@ -1,0 +1,20 @@
+{
+  "result": "pass",
+  "review": "5-6",
+  "scope": "Challenge content only; existing image/audio validation unchanged",
+  "chapter_count": 5,
+  "fixed_question_count": 88,
+  "checks": [
+    "unique IDs",
+    "answer for every fixed question",
+    "distinct choices with a valid key",
+    "five requested challenge stages",
+    "all document links resolve",
+    "audio notes remain unfulfilled"
+  ],
+  "source_review": "Both source PDF page renders inspected visually; new labels and counting variants explicitly marked.",
+  "limitations": [
+    "CD speech not independently audited",
+    "Challenge UI not implemented; current preview is the track lesson preview"
+  ]
+}

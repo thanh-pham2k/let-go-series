@@ -1,0 +1,29 @@
+<!doctype html><meta charset="utf-8"><title>Review7-8 browser checks</title><style>body{font:16px Arial;margin:12px}iframe{width:100%;height:1000px;border:0}pre{white-space:pre-wrap}</style><pre id="report">running</pre><iframe id="preview" src="preview.html"></iframe><script>
+const report=document.getElementById('report'),frame=document.getElementById('preview');
+const delay=ms=>new Promise(r=>setTimeout(r,ms));
+function check(v,m){if(!v)throw Error(m)}
+frame.onload=async()=>{try{
+ const w=frame.contentWindow,d=frame.contentDocument,sel=d.getElementById('tracks'),audio=d.getElementById('audio'),img=d.getElementById('lesson-image');
+ check(sel.options.length===3,'3tracks');
+ const records=[];
+ for(let i=0;i<3;i++){
+  sel.value=String(i);sel.dispatchEvent(new Event('change'));
+  check(d.getElementById('practice').style.display==='none','question initially hidden');
+  for(let n=0;n<200 && !(img.complete && img.naturalWidth===1200 && audio.readyState>=1 && audio.currentSrc.endsWith('Track'+(70+i)+'.mp3'));n++)await delay(25);
+  check(img.complete && img.naturalWidth===1200 && img.naturalHeight===1200,'image loaded1200');
+  check(audio.readyState>=1 && Number.isFinite(audio.duration) && audio.duration>0,'MP3 metadata loaded');
+  check(!audio.error,'no media error');
+  d.getElementById('review').click();check(d.getElementById('practice').style.display==='block','manual review');
+  sel.dispatchEvent(new Event('change'));check(d.getElementById('practice').style.display==='none','reset');
+  audio.dispatchEvent(new Event('ended'));check(d.getElementById('practice').style.display==='block','ended event');
+  const buttons=[...d.getElementById('choices').querySelectorAll('button')];check(buttons.length===3,'exactly3choices');
+  buttons[(i+1)%3].click();check(d.getElementById('result').textContent.startsWith('Chưa đúng'),'wrongfeedback');
+  buttons[i].click();check(d.getElementById('result').textContent==='Đúng rồi!','correctfeedback');
+  records.push({track:'CD2_'+(70+i),image:[img.naturalWidth,img.naturalHeight],audio_duration:audio.duration,media_error:audio.error});
+ }
+ check(d.getElementById('next').disabled,'lastnextdisabled');
+ d.getElementById('previous').click();check(sel.value==='1','prev');
+ d.getElementById('next').click();check(sel.value==='2','next');
+ report.textContent=JSON.stringify({result:'pass',browser:'Microsoft Edge headless',items:records,checks:['Actual3 image decodes','Actual3 MP3 metadata loads','Track selection and navigation','Manual review and simulated ended event','Correct and wrong choice feedback'],limitation:'No independent listening/transcription; ended event simulated, not actual playback.'});
+ }catch(e){report.textContent=JSON.stringify({result:'fail',error:String(e)})}}
+</script>

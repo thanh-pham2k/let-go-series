@@ -1,0 +1,63 @@
+{
+  "tracks": [
+    "CD2_28",
+    "CD2_29",
+    "CD2_30",
+    "CD2_31"
+  ],
+  "prompt": "Create 2x2 sheet FOUR independent bright textbook cartoon panels with wide straight white gutters and clear headings/track codes, generous margins, accurate legible exact English. TL CD2_28 'D. Listen, point, and sing.' source page4 lower: four foods LEFT TO RIGHT cake slice yellow layers orange frosting, bowl ice cream three pink scoops, pizza slice, chicken drumstick. No lyrics in source so no invented song words. TR CD2_29 'A. Words.' source page5: header two cats gray asks 'Do you like milk?' orange holding milk says 'Yes, I do.' Grid '1. milk' white milk in blue glass; '2. fish' pink cooked fillet on white plate green garnish; '3. bread' orange loaf with three pale cuts; '4. rice' white rice heap in blue bowl yellow zigzag. BL CD2_30 'B. Listen, point, and chant.' same four illustrated foods with labels 1 milk 2 fish 3 bread 4 rice, same header two cats milk dialogue, gray cat pointing. No chant words printed in source, do not invent any. BR CD2_31 'C. Question and answer.' Source page6 all activities: upper cafeteria scene: center orange-haired girl blue pink heart shirt asks 'Do you like fish?'; left light-brown-haired red-shirt boy says 'Yes, I do.'; right dark-haired dark-skin orange-shirt boy says 'No, I don't.' bubble tails point exactly to respective speakers. Below six numbered small illustrations in 3x2: 1 smiling brown-haired girl red clothes with milk tray; 2 smiling dark boy blue yellow top bread tray; 3 smiling orange-haired girl blue pink heart rice tray;4 unhappy dark boy cyan top milk tray;5 unhappy blonde girl pink blue top bread tray;6 unhappy light-brown-haired boy blue shirt rice tray. Bottom section 'D. Ask and answer.' numbered fish1, ice cream cone2, pizza slice3, milk carton4, gray cat asking 'Do you like milk?' Keep all six practice cases and D section even though no separate audio. No quiz questions. Regenerate drawings, maintain source colors and food identities.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-04.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-05.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-06.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-d53ad83c-7c5e-453c-91ff-ddefe9f064b8.png",
+  "status": "reviewed",
+  "visual_review": "Complete food labels/order, milk question/Yes cats, instruction mascot with clear margin, cafeteria correct question speaker and Yes/No ownership, six happy/unhappy milk bread rice examples, complete D Ask and answer with full gray cat/four foods. All source text retained; no independent audio speech audit.",
+  "sheet_size": [
+    1536,
+    1024
+  ],
+  "split": [
+    768,
+    512
+  ],
+  "sha256": "2f2e9b9e9dbb537dc27352efb8679205893d1ae52f25c96938c3720840244c82",
+  "selected_result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-72d7c05a-fd7d-418d-a6f9-5abe5a42b650.png",
+  "repair_logs": [
+    "batch3-fix1",
+    "batch3-fix2",
+    "batch3-fix3",
+    "batch3-fix4",
+    "batch3-fix5"
+  ],
+  "final_crop_boxes": [
+    [
+      3,
+      3,
+      766,
+      510
+    ],
+    [
+      771,
+      3,
+      1533,
+      510
+    ],
+    [
+      3,
+      515,
+      766,
+      1021
+    ],
+    [
+      771,
+      515,
+      1533,
+      1021
+    ]
+  ],
+  "original_local_result": "assets/batches/batch3-original.png",
+  "selected_local_result": "assets/batches/batch3.png"
+}

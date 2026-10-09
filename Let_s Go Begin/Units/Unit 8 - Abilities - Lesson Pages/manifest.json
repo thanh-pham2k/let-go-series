@@ -1,0 +1,1187 @@
+{
+  "schema_version": "2.0",
+  "unit": 8,
+  "topic": "Abilities",
+  "source_pdf": "Unit 8 - Abilities.pdf",
+  "source_item_count": 16,
+  "image_count": 16,
+  "coordinate_system": "pixel boxes [x,y,width,height], top-left origin",
+  "image_fit": "contain",
+  "text_font": "Arial",
+  "items": [
+    {
+      "track": "CD2_54",
+      "audio_key": "CD2-54",
+      "exercise": "A. Let's talk.",
+      "unit_pdf_page": 1,
+      "book_page": 64,
+      "source_reference": "references/CD2_54.png",
+      "audio_file": "audio/Track54.mp3",
+      "output": {
+        "png": "pages/png/CD2_54.png",
+        "webp": "pages/webp/CD2_54.webp"
+      },
+      "question": {
+        "id": "U8-CD2_54",
+        "prompt": "Trong hình, câu “Let's play” dùng để làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Rủ bạn cùng chơi."
+          },
+          {
+            "id": "B",
+            "text": "Xin lỗi."
+          },
+          {
+            "id": "C",
+            "text": "Hỏi tuổi."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_54-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Four exact invitations/replies; speaker tails now identify striped boy, yellow-shirt girl, navy-shirt boy, red-dress girl. Rearranged as separate comic panels.",
+      "generation_batch": "repair54tail",
+      "source_crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "Let's play.",
+          "OK. Let's play ball.",
+          "OK. Let's play tag.",
+          "OK. Let's jump rope."
+        ],
+        "source_page": 1,
+        "adjustment": "Four exact invitations/replies; speaker tails now identify striped boy, yellow-shirt girl, navy-shirt boy, red-dress girl. Rearranged as separate comic panels."
+      }
+    },
+    {
+      "track": "CD2_55",
+      "audio_key": "CD2-55",
+      "exercise": "B. Say and act.",
+      "unit_pdf_page": 1,
+      "book_page": 64,
+      "source_reference": "references/CD2_55.png",
+      "audio_file": "audio/Track55.mp3",
+      "output": {
+        "png": "pages/png/CD2_55.png",
+        "webp": "pages/webp/CD2_55.webp"
+      },
+      "question": {
+        "id": "U8-CD2_55",
+        "prompt": "Ở tình huống số 2, câu “OK. Let's jump rope” rủ chơi gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Đuổi bắt."
+          },
+          {
+            "id": "B",
+            "text": "Nhảy dây."
+          },
+          {
+            "id": "C",
+            "text": "Đá bóng."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_55-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Two numbered situations; original reply/prompt blanks retained without scanned handwritten answers; periods restored; soccer ball and jump rope, correct speakers.",
+      "generation_batch": "batch1-fix1",
+      "source_crop_box": [
+        630,
+        1,
+        1253,
+        624
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "1. Let's play.",
+          "________________.",
+          "2. ________________.",
+          "OK. Let's jump rope."
+        ],
+        "source_page": 1,
+        "adjustment": "Two numbered situations; original reply/prompt blanks retained without scanned handwritten answers; periods restored; soccer ball and jump rope, correct speakers."
+      }
+    },
+    {
+      "track": "CD2_56",
+      "audio_key": "CD2-56",
+      "exercise": "C. Let's sing.",
+      "unit_pdf_page": 2,
+      "book_page": 65,
+      "source_reference": "references/CD2_56.png",
+      "audio_file": "audio/Track56.mp3",
+      "output": {
+        "png": "pages/png/CD2_56.png",
+        "webp": "pages/webp/CD2_56.webp"
+      },
+      "question": {
+        "id": "U8-CD2_56",
+        "prompt": "Trong bài hát, câu nào dùng để rủ bạn chơi?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm sorry."
+          },
+          {
+            "id": "B",
+            "text": "How old are you?"
+          },
+          {
+            "id": "C",
+            "text": "Let's play."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_56-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "All 14 printed lyric lines checked word by word; title retained; curly-haired boy playing tag with blonde glasses girl red dress.",
+      "generation_batch": "batch1-fix1",
+      "source_crop_box": [
+        1,
+        631,
+        624,
+        1253
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "Let's Play",
+          "Let's play.",
+          "OK!",
+          "Let's play.",
+          "OK, OK!",
+          "Let's play, let's play.",
+          "OK, let's play!",
+          "Let's play tag.",
+          "OK, let's play, let's play!",
+          "Let's jump rope.",
+          "OK, OK, let's play!",
+          "Let's play ball.",
+          "OK, let's play, let's play!",
+          "Hey, let's play, let's play!",
+          "OK!"
+        ],
+        "source_page": 2,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_57",
+      "audio_key": "CD2-57",
+      "exercise": "D. Let's move.",
+      "unit_pdf_page": 2,
+      "book_page": 65,
+      "source_reference": "references/CD2_57.png",
+      "audio_file": "audio/Track57.mp3",
+      "output": {
+        "png": "pages/png/CD2_57.png",
+        "webp": "pages/webp/CD2_57.webp"
+      },
+      "question": {
+        "id": "U8-CD2_57",
+        "prompt": "Khi nghe “Point to the board”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Chỉ vào bảng."
+          },
+          {
+            "id": "B",
+            "text": "Đi đến bảng."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_57-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Pointing girl and walking striped boy distinguished; both numbered board commands retained.",
+      "generation_batch": "batch1-fix1",
+      "source_crop_box": [
+        630,
+        631,
+        1253,
+        1253
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "1. Point to the board.",
+          "2. Go to the board."
+        ],
+        "source_page": 2,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_58",
+      "audio_key": "CD2-58",
+      "exercise": "E. Listen and do.",
+      "unit_pdf_page": 2,
+      "book_page": 65,
+      "source_reference": "references/CD2_58.png",
+      "audio_file": "audio/Track58.mp3",
+      "output": {
+        "png": "pages/png/CD2_58.png",
+        "webp": "pages/webp/CD2_58.webp"
+      },
+      "question": {
+        "id": "U8-CD2_58",
+        "prompt": "Sau bài luyện hành động, “Go to the board” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Quay người lại."
+          },
+          {
+            "id": "B",
+            "text": "Đi đến bảng."
+          },
+          {
+            "id": "C",
+            "text": "Chỉ vào bảng."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_58-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source heading only: reused two classroom commands from D on same PDF page; no new commands.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        1,
+        1,
+        626,
+        621
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "1. Point to the board.",
+          "2. Go to the board."
+        ],
+        "source_page": 2,
+        "adjustment": "Source heading only: reused two classroom commands from D on same PDF page; no new commands."
+      }
+    },
+    {
+      "track": "CD2_59",
+      "audio_key": "CD2-59",
+      "exercise": "A. Words.",
+      "unit_pdf_page": 3,
+      "book_page": 66,
+      "source_reference": "references/CD2_59.png",
+      "audio_file": "audio/Track59.mp3",
+      "output": {
+        "png": "pages/png/CD2_59.png",
+        "webp": "pages/webp/CD2_59.webp"
+      },
+      "question": {
+        "id": "U8-CD2_59",
+        "prompt": "Hình số 3 ứng với hoạt động nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "sing a song"
+          },
+          {
+            "id": "B",
+            "text": "ride a bicycle"
+          },
+          {
+            "id": "C",
+            "text": "fly a kite"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_59-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "All four numbered actions correct; pink bicycle helmeted girl, singing boy, orange kite boy, basketball bouncing girl; cat bicycle sentence retained.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        631,
+        1,
+        1253,
+        621
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "I can ride a bicycle.",
+          "1. ride a bicycle",
+          "2. sing a song",
+          "3. fly a kite",
+          "4. bounce a ball"
+        ],
+        "source_page": 3,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_60",
+      "audio_key": "CD2-60",
+      "exercise": "B. Listen and point.",
+      "unit_pdf_page": 3,
+      "book_page": 66,
+      "source_reference": "references/CD2_60.png",
+      "audio_file": "audio/Track60.mp3",
+      "output": {
+        "png": "pages/png/CD2_60.png",
+        "webp": "pages/webp/CD2_60.webp"
+      },
+      "question": {
+        "id": "U8-CD2_60",
+        "prompt": "Sau khi luyện nghe, bé chọn cụm từ chỉ hoạt động ở hình số 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "bounce a ball"
+          },
+          {
+            "id": "B",
+            "text": "fly a kite"
+          },
+          {
+            "id": "C",
+            "text": "sing a song"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_60-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source heading only: reused four labeled action pictures from A on same PDF page.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        1,
+        626,
+        626,
+        1253
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "1. ride a bicycle",
+          "2. sing a song",
+          "3. fly a kite",
+          "4. bounce a ball"
+        ],
+        "source_page": 3,
+        "adjustment": "Source heading only: reused four labeled action pictures from A on same PDF page."
+      }
+    },
+    {
+      "track": "CD2_61",
+      "audio_key": "CD2-61",
+      "exercise": "C. Sentences.",
+      "unit_pdf_page": 4,
+      "book_page": 67,
+      "source_reference": "references/CD2_61.png",
+      "audio_file": "audio/Track61.mp3",
+      "output": {
+        "png": "pages/png/CD2_61.png",
+        "webp": "pages/webp/CD2_61.webp"
+      },
+      "question": {
+        "id": "U8-CD2_61",
+        "prompt": "Bạn trai nói “I can't fly a kite”; bạn ấy cho biết điều gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bạn ấy biết hát."
+          },
+          {
+            "id": "B",
+            "text": "Bạn ấy không biết thả diều."
+          },
+          {
+            "id": "C",
+            "text": "Bạn ấy biết thả diều."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_61-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Both can/cannot kite examples; four numbered same-child thought pairs, eight activities checked; tangled kite and fallen bicycle negative; same orange-shirt girl bicycle and unsuccessful singing.",
+      "generation_batch": "repair6162",
+      "source_crop_box": [
+        1,
+        1,
+        885,
+        886
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "I can fly a kite.",
+          "I can't fly a kite."
+        ],
+        "source_page": 4,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_62",
+      "audio_key": "CD2-62",
+      "exercise": "D. Listen, point, and chant.",
+      "unit_pdf_page": 4,
+      "book_page": 67,
+      "source_reference": "references/CD2_62.png",
+      "audio_file": "audio/Track62.mp3",
+      "output": {
+        "png": "pages/png/CD2_62.png",
+        "webp": "pages/webp/CD2_62.webp"
+      },
+      "question": {
+        "id": "U8-CD2_62",
+        "prompt": "Sau bài chant, cụm “ride a bicycle” chỉ hoạt động nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Thả diều."
+          },
+          {
+            "id": "B",
+            "text": "Hát một bài hát."
+          },
+          {
+            "id": "C",
+            "text": "Đi xe đạp."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_62-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source heading only: reused page67 sentences and eight thought scenes; no invented chant words.",
+      "generation_batch": "repair6162",
+      "source_crop_box": [
+        889,
+        1,
+        1773,
+        886
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "I can fly a kite.",
+          "I can't fly a kite."
+        ],
+        "source_page": 4,
+        "adjustment": "Source heading only: reused page67 sentences and eight thought scenes; no invented chant words."
+      }
+    },
+    {
+      "track": "CD2_63",
+      "audio_key": "CD2-63",
+      "exercise": "A. Words.",
+      "unit_pdf_page": 5,
+      "book_page": 68,
+      "source_reference": "references/CD2_63.png",
+      "audio_file": "audio/Track63.mp3",
+      "output": {
+        "png": "pages/png/CD2_63.png",
+        "webp": "pages/webp/CD2_63.webp"
+      },
+      "question": {
+        "id": "U8-CD2_63",
+        "prompt": "Hình số 3 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "wink"
+          },
+          {
+            "id": "B",
+            "text": "swim"
+          },
+          {
+            "id": "C",
+            "text": "dance"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_63-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "All four numbered actions; swim, smile both eyes open, wink exactly one eye shut, dance; gray/orange cat swim question and negative reply retained.",
+      "generation_batch": "batch3",
+      "source_crop_box": [
+        630,
+        2,
+        1252,
+        663
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "Can you swim?",
+          "No, I can't.",
+          "1. swim",
+          "2. smile",
+          "3. wink",
+          "4. dance"
+        ],
+        "source_page": 5,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_64",
+      "audio_key": "CD2-64",
+      "exercise": "B. Listen and point.",
+      "unit_pdf_page": 5,
+      "book_page": 68,
+      "source_reference": "references/CD2_64.png",
+      "audio_file": "audio/Track64.mp3",
+      "output": {
+        "png": "pages/png/CD2_64.png",
+        "webp": "pages/webp/CD2_64.webp"
+      },
+      "question": {
+        "id": "U8-CD2_64",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ hoạt động ở hình số 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "swim"
+          },
+          {
+            "id": "B",
+            "text": "dance"
+          },
+          {
+            "id": "C",
+            "text": "smile"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_64-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source heading only: reused four labeled pictures from A same page; wink single eye; swim/smile/dance distinct.",
+      "generation_batch": "batch3",
+      "source_crop_box": [
+        2,
+        668,
+        625,
+        1252
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "1. swim",
+          "2. smile",
+          "3. wink",
+          "4. dance"
+        ],
+        "source_page": 5,
+        "adjustment": "Source heading only: reused four labeled pictures from A same page; wink single eye; swim/smile/dance distinct."
+      }
+    },
+    {
+      "track": "CD2_65",
+      "audio_key": "CD2-65",
+      "exercise": "C. Question and answer.",
+      "unit_pdf_page": 6,
+      "book_page": 69,
+      "source_reference": "references/CD2_65.png",
+      "audio_file": "audio/Track65.mp3",
+      "output": {
+        "png": "pages/png/CD2_65.png",
+        "webp": "pages/webp/CD2_65.webp"
+      },
+      "question": {
+        "id": "U8-CD2_65",
+        "prompt": "Trong hội thoại bên trái, bé chọn câu trả lời cho “Can you dance?” khi biết nhảy.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, I can't."
+          },
+          {
+            "id": "B",
+            "text": "I'm 6."
+          },
+          {
+            "id": "C",
+            "text": "Yes, I can."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_65-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Both dance exchanges correct speaker and positive/negative; all eight numbered thought scenes and four portraits; unable-to-swim child on dry pool edge with ring.",
+      "generation_batch": "repair6566",
+      "source_crop_box": [
+        1,
+        1,
+        885,
+        886
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "Can you dance?",
+          "Yes, I can.",
+          "Can you dance?",
+          "No, I can't."
+        ],
+        "source_page": 6,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_66",
+      "audio_key": "CD2-66",
+      "exercise": "D. Listen and chant.",
+      "unit_pdf_page": 6,
+      "book_page": 69,
+      "source_reference": "references/CD2_66.png",
+      "audio_file": "audio/Track66.mp3",
+      "output": {
+        "png": "pages/png/CD2_66.png",
+        "webp": "pages/webp/CD2_66.webp"
+      },
+      "question": {
+        "id": "U8-CD2_66",
+        "prompt": "Sau bài chant, bé chọn câu trả lời cho “Can you dance?” khi không biết nhảy.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, I can't."
+          },
+          {
+            "id": "B",
+            "text": "Yes, I can."
+          },
+          {
+            "id": "C",
+            "text": "It's a ball."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_66-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source heading only: reused same page69 question/answer scenes and eight numbered activities; no invented chant.",
+      "generation_batch": "repair6566",
+      "source_crop_box": [
+        889,
+        1,
+        1773,
+        886
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "Can you dance?",
+          "Yes, I can.",
+          "Can you dance?",
+          "No, I can't."
+        ],
+        "source_page": 6,
+        "adjustment": "Source heading only: reused same page69 question/answer scenes and eight numbered activities; no invented chant."
+      }
+    },
+    {
+      "track": "CD2_67",
+      "audio_key": "CD2-67",
+      "exercise": "A. Sing and say.",
+      "unit_pdf_page": 7,
+      "book_page": 70,
+      "source_reference": "references/CD2_67.png",
+      "audio_file": "audio/Track67.mp3",
+      "output": {
+        "png": "pages/png/CD2_67.png",
+        "webp": "pages/webp/CD2_67.webp"
+      },
+      "question": {
+        "id": "U8-CD2_67",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau Y?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "W"
+          },
+          {
+            "id": "B",
+            "text": "Z"
+          },
+          {
+            "id": "C",
+            "text": "X"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_67-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "All 26 uppercase and 26 lowercase glyphs checked in order; X Y Z and x y z red; no invented song lyrics.",
+      "generation_batch": "batch4",
+      "source_crop_box": [
+        630,
+        1,
+        1253,
+        625
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+          "a b c d e f g h i j k l m n o p q r s t u v w x y z"
+        ],
+        "source_page": 7,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_68",
+      "audio_key": "CD2-68",
+      "exercise": "B. Letters and words.",
+      "unit_pdf_page": 7,
+      "book_page": 70,
+      "source_reference": "references/CD2_68.png",
+      "audio_file": "audio/Track68.mp3",
+      "output": {
+        "png": "pages/png/CD2_68.png",
+        "webp": "pages/webp/CD2_68.webp"
+      },
+      "question": {
+        "id": "U8-CD2_68",
+        "prompt": "Từ nào đi với chữ Z z trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "fox"
+          },
+          {
+            "id": "B",
+            "text": "yarn"
+          },
+          {
+            "id": "C",
+            "text": "zebra"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_68-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "X x fox, Y y blue yarn, Z z zebra; 1-3 labels; Find the letters zoo scene fox/green yarn and zebra/children retained; answers unmarked. Lowercase y added by built-in repair and final PNG rechecked; all six X/x Y/y Z/z glyphs present.",
+      "generation_batch": "repair68",
+      "source_crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "1. X x",
+          "fox",
+          "2. Y y",
+          "yarn",
+          "3. Z z",
+          "zebra",
+          "C. Find the letters."
+        ],
+        "source_page": 7,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    },
+    {
+      "track": "CD2_69",
+      "audio_key": "CD2-69",
+      "exercise": "A. Play a game.",
+      "unit_pdf_page": 8,
+      "book_page": 71,
+      "source_reference": "references/CD2_69.png",
+      "audio_file": "audio/Track69.mp3",
+      "output": {
+        "png": "pages/png/CD2_69.png",
+        "webp": "pages/webp/CD2_69.webp"
+      },
+      "question": {
+        "id": "U8-CD2_69",
+        "prompt": "Trong hình trò chơi, bạn trai trả lời “Can you jump?” bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yes, I can."
+          },
+          {
+            "id": "B",
+            "text": "No, I can't."
+          },
+          {
+            "id": "C",
+            "text": "Yes, I do."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_69-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Both dialogue speakers checked; all14 board spaces and sequence retained, circle5 children, line4 children; ahead2 and back3 match PDF; full continuous board, stopping distinct from running.",
+      "generation_batch": "repair69",
+      "source_crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "lesson_specs": {
+        "printed_text": [
+          "Can you jump?",
+          "Yes, I can.",
+          "GO",
+          "Jump",
+          "Stand up",
+          "Make a circle",
+          "Sit down",
+          "Walk",
+          "Move ahead 2 spaces",
+          "Go to the board",
+          "Skip",
+          "Point to the board",
+          "Make a line",
+          "Move back 3 spaces",
+          "Run",
+          "STOP"
+        ],
+        "source_page": 8,
+        "adjustment": "Redrawn illustrations; retained printed content."
+      }
+    }
+  ],
+  "generation_policy": "Built-in image_gen only; group about four pages; split then contain on identical 1200x1200 canvases without distortion.",
+  "assembly_helper": "assemble_unit8.py",
+  "visual_review_scope": "All16 final1200x1200 PNGs and contact sheet viewed against source pages; CD2_68 rechecked after lowercase-y repair."
+}

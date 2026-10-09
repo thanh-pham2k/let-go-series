@@ -1,0 +1,16 @@
+{
+  "result": "pass",
+  "tracks": [
+    "CD1_71",
+    "CD1_72"
+  ],
+  "checks": [
+    "Actual preview JS executed",
+    "Initial quiz hidden",
+    "Audio-ended and manual review reveal one quiz",
+    "Correct/incorrect feedback",
+    "Navigation/select logic",
+    "Local image/audio paths exist"
+  ],
+  "limitation": "DOM harness, not independent audio listening or browser layout audit"
+}

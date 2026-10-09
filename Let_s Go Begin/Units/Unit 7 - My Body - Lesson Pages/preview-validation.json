@@ -1,0 +1,11 @@
+{
+  "result": "pass",
+  "tracks": 17,
+  "checks": [
+    "All image/audio paths exist",
+    "Practice hidden until audio ended",
+    "Track changes reset practice",
+    "Three choices and valid correct/wrong feedback"
+  ],
+  "limitation": "DOM harness; does not decode/play audio or visually render browser."
+}

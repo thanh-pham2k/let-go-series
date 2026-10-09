@@ -1,8 +1,27 @@
 # Unit 8 - Abilities
 
+<!-- lesson-package-status -->
+## Bộ bài học chính và tài nguyên luyện thêm
+
+Đã có đủ **16 trang học chính**, mỗi trang gồm ảnh có chữ → audio → một câu trắc nghiệm. PNG/WebP đều **1200 × 1200**.
+
+- [Preview học và làm bài](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ ảnh](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata tích hợp](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- [Unit 8 - Abilities – Câu hỏi theo trang](Unit%208%20-%20Abilities%20-%20Cau%20hoi%20theo%20trang.md).
+
+Các Challenge bên dưới là bài luyện thêm, giữ nguyên nội dung. Ký hiệu 🖼️ là hướng dẫn chọn hình, chưa phải asset riêng gắn cho từng câu. Người lớn có thể đọc phần nghe; để chạy tự động cần audio clip riêng. Chủ dự án sẽ tự bổ sung audio theo checklist cuối file. Audio CD nguồn đã kiểm tra file, chưa nghe/transcribe độc lập.
+<!-- /lesson-package-status -->
+
 > Chỉ sử dụng nội dung xuất hiện trong PDF **Unit 8 - Abilities**.
 >
 > Lộ trình: **Recognition → Recall → Comprehension → Production**.
+
+<!-- source-discrepancies -->
+### Lưu ý đối chiếu PDF
+
+PDF trang 71 in **Move ahead 2 spaces**; một số bài luyện cũ bên dưới dùng **Move ahead 3 spaces**. Giữ nội dung người dùng đã sửa như biến thể luyện thêm, không xem số 3 là trích nguyên nguồn. Bảng trò chơi chuẩn CD2_69 dùng số 2.
+Câu **What can you do?** có trong bài luyện cũ nhưng không thấy in trên 8 trang PDF này; giữ như phần mở rộng, không khẳng định là câu nguồn.
+<!-- /source-discrepancies -->
 
 # Nội dung cần nắm
 
@@ -267,20 +286,18 @@ Bé thực hiện đúng hành động.
 # Challenge 3 — Fill & Recall
 ## Recall
 
-## 1. Xáo chữ → ghép từ
+## 1. Điền chữ cái còn thiếu vào từ
 
-1. `r / i / d / e` → __________
-2. `b / i / c / y / c / l / e` → __________
-3. `s / i / n / g` → __________
-4. `s / o / n / g` → __________
-5. `f / l / y` → __________
-6. `k / i / t / e` → __________
-7. `b / o / u / n / c / e` → __________
-8. `b / a / l / l` → __________
-9. `s / w / i / m` → __________
-10. `s / m / i / l / e` → __________
-11. `w / i / n / k` → __________
-12. `d / a / n / c / e` → __________
+> Điền chữ cái còn thiếu để hoàn thành từ chỉ hành động đúng.
+
+1. r _ d e   a   b _ c y c l e *(ride a bicycle)* 🚲
+2. s _ n g   a   s _ n g *(sing a song)* 🎵
+3. f l _   a   k _ t e *(fly a kite)* 🪁
+4. b _ u n c e   a   b _ l l *(bounce a ball)* 🏀
+5. s w _ m *(swim)* 🏊
+6. s m _ l e *(smile)* 😊
+7. w _ n k *(wink)* 😉
+8. d _ n c e *(dance)* 💃
 
 ## 2. Chọn từ → điền vào chỗ trống
 
@@ -377,186 +394,94 @@ B: ______________________________.
 
 ---
 
-# Challenge 4 — Translate & Build
+# Challenge 4 — Build & Match
 ## Comprehension
 
-## 1. Dịch Anh → Việt
+## 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. Let's play.  
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
+
+1. `[ play. / Let's ]`  
    → ______________________________
 
-2. OK. Let's play ball.  
+2. `[ OK. / play / Let's / ball. ]`  
    → ______________________________
 
-3. OK. Let's play tag.  
+3. `[ tag. / Let's / play / OK. ]`  
    → ______________________________
 
-4. OK. Let's jump rope.  
+4. `[ rope. / jump / Let's / OK. ]`  
    → ______________________________
 
-5. Point to the board.  
+5. `[ bicycle. / a / ride / can / I ]`  
    → ______________________________
 
-6. Go to the board.  
+6. `[ kite. / a / fly / can / I ]`  
    → ______________________________
 
-7. I can ride a bicycle.  
+7. `[ fly / can't / kite. / a / I ]`  
    → ______________________________
 
-8. I can fly a kite.  
+8. `[ swim? / you / Can ]`  
    → ______________________________
 
-9. I can't fly a kite.  
+9. `[ can't. / No, / I ]`  
    → ______________________________
 
-10. Can you swim?  
+10. `[ dance? / you / Can ]`  
     → ______________________________
 
-11. No, I can't.  
+11. `[ can. / Yes, / I ]`  
     → ______________________________
 
-12. Can you dance?  
+12. `[ do? / can / What / you ]`  
     → ______________________________
 
-13. Yes, I can.  
+13. `[ board. / to / Point / the ]`  
     → ______________________________
 
-14. Can you jump?  
+14. `[ board. / the / Go / to ]`  
     → ______________________________
 
-15. What can you do?  
+15. `[ spaces. / 3 / ahead / Move ]`  
     → ______________________________
 
-16. Move ahead 3 spaces.  
+16. `[ spaces. / 3 / back / Move ]`  
     → ______________________________
 
-17. Move back 3 spaces.  
-    → ______________________________
-
-## 2. Dịch Việt → Anh
-
-1. Hãy chơi nào.  
-   → ______________________________
-
-2. Được. Hãy chơi bóng.  
-   → ______________________________
-
-3. Được. Hãy chơi đuổi bắt.  
-   → ______________________________
-
-4. Được. Hãy nhảy dây.  
-   → ______________________________
-
-5. Chỉ vào bảng.  
-   → ______________________________
-
-6. Đi đến bảng.  
-   → ______________________________
-
-7. Tôi có thể đi xe đạp.  
-   → ______________________________
-
-8. Tôi có thể thả diều.  
-   → ______________________________
-
-9. Tôi không thể thả diều.  
-   → ______________________________
-
-10. Bạn có thể bơi không?  
-    → ______________________________
-
-11. Không, tôi không thể.  
-    → ______________________________
-
-12. Bạn có thể nhảy múa không?  
-    → ______________________________
-
-13. Có, tôi có thể.  
-    → ______________________________
-
-14. Bạn có thể nhảy không?  
-    → ______________________________
-
-15. Bạn có thể làm gì?  
-    → ______________________________
-
-## 3. Sắp xếp từ → tạo câu
-
-1. `play / Let's`  
-   → ______________________________
-
-2. `ball / Let's / play`  
-   → ______________________________
-
-3. `tag / play / Let's`  
-   → ______________________________
-
-4. `rope / Let's / jump`  
-   → ______________________________
-
-5. `board / Point / the / to`  
-   → ______________________________
-
-6. `board / Go / the / to`  
-   → ______________________________
-
-7. `bicycle / ride / can / a / I`  
-   → ______________________________
-
-8. `kite / fly / can / a / I`  
-   → ______________________________
-
-9. `kite / can't / a / I / fly`  
-   → ______________________________
-
-10. `swim / you / Can`  
-    → ______________________________
-
-11. `can't / No / I`  
-    → ______________________________
-
-12. `dance / Can / you`  
-    → ______________________________
-
-13. `can / Yes / I`  
-    → ______________________________
-
-14. `jump / you / Can`  
-    → ______________________________
-
-## 4. Ghép câu hỏi → câu trả lời
+## 2. Ghép câu hỏi → câu trả lời
 
 | Question | Answer |
 |---|---|
-| Can you dance? | A. No, I can't. |
-| Can you swim? | B. Yes, I can. |
+| 1. Can you dance? | A. No, I can't. |
+| 2. Can you swim? | B. Yes, I can. |
+| 3. Let's play. | C. OK. Let's play ball. |
 
-## 5. Ghép ability
+## 3. Ghép hành động với cụm từ
 
-| Hành động | Cụm từ |
+| Ký hiệu | Cụm từ khả năng |
 |---|---|
-| 🚲 | ride a bicycle |
-| 🎤 | sing a song |
-| 🪁 | fly a kite |
-| 🏀 | bounce a ball |
-| 🏊 | swim |
-| 😊 | smile |
-| 😉 | wink |
-| 💃 | dance |
+| 1. 🚲 | A. sing a song |
+| 2. 🎤 | B. ride a bicycle |
+| 3. 🪁 | C. bounce a ball |
+| 4. 🏀 | D. fly a kite |
+| 5. 🏊 | E. wink |
+| 6. 😊 | F. swim |
+| 7. 😉 | G. dance |
+| 8. 💃 | H. smile |
 
-## 6. Letters & words
+## 4. Letters & words (Phonics X–Z)
 
-Sắp xếp:
+Điền chữ cái còn thiếu:
 
-1. `f / o / x` → __________
-2. `y / a / r / n` → __________
-3. `z / e / b / r / a` → __________
+- f _ x *(fox)* 🦊
+- y _ r n *(yarn)* 🧶
+- z _ b r a *(zebra)* 🦓
 
-Ghép:
-
-- X x → __________
-- Y y → __________
-- Z z → __________
+Nối chữ với từ đúng:
+- X x → `[ fox / yarn / zebra ]`
+- Y y → `[ yarn / fox / zebra ]`
+- Z z → `[ zebra / yarn / fox ]`
 
 ---
 
@@ -685,45 +610,47 @@ Người lớn chọn ngẫu nhiên một câu trong PDF. Bé thực hiện:
 
 Sau đó bé tự nói lại câu lệnh.
 
-## 8. X–Z Production
+## 8. X–Z Phonics Production
 
-Nhìn chữ → tự nói từ:
+Nhìn chữ → tự nói to từ tương ứng:
 
-- X x → ____________________
-- Y y → ____________________
-- Z z → ____________________
+- X x → **fox** 🦊
+- Y y → **yarn** 🧶
+- Z z → **zebra** 🦓
 
-## 9. Alphabet Final Check
+## 9. Mini Conversation — Thực hành nói theo mẫu
 
-Đọc/ghép:
+### Tình huống 1 — Đề nghị cùng chơi bóng
+*Mẫu gợi ý:*
+- Bé rủ: *"Let's play."* (hoặc *"Hey, let's play, let's play!"*)
+- Bạn đáp: *"OK. Let's play ball."* (hoặc *"OK, OK!"*)
 
-`A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`
+A: Let's play.  
+B: __________________________________ *(OK. Let's play ball.)*
 
-với:
+### Tình huống 2 — Hỏi và trả lời về khả năng (múa / nhảy - dance)
+*Mẫu gợi ý:*
+- Người lớn: *"Can you dance?"*
+- Bé trả lời: *"Yes, I can."*
 
-`a b c d e f g h i j k l m n o p q r s t u v w x y z`
+A: Can you dance?  
+B: __________________________________ *(Yes, I can.)*
 
-## 10. Final Boss Conversation
+### Tình huống 3 — Hỏi và trả lời về khả năng (bơi - swim)
+*Mẫu gợi ý:*
+- Người lớn: *"Can you swim?"*
+- Bé trả lời: *"No, I can't."*
 
-### Tình huống 1 — đề nghị chơi
+A: Can you swim?  
+B: __________________________________ *(No, I can't.)*
 
-A: __________________________________  
-B: __________________________________ *(play ball)*
+### Tình huống 4 — Hỏi và trả lời về khả năng vận động (nhảy - jump)
+*Mẫu gợi ý:*
+- Người lớn: *"Can you jump?"*
+- Bé trả lời: *"Yes, I can."*
 
-### Tình huống 2 — hỏi khả năng
-
-A: __________________________________ *(dance)*  
-B: __________________________________ *(yes)*
-
-### Tình huống 3 — hỏi khả năng
-
-A: __________________________________ *(swim)*  
-B: __________________________________ *(no)*
-
-### Tình huống 4 — game
-
-A: __________________________________ *(jump)*  
-B: __________________________________ *(yes)*
+A: Can you jump?  
+B: __________________________________ *(Yes, I can.)*
 
 ---
 
@@ -740,8 +667,7 @@ B: __________________________________ *(yes)*
 | wink | ✓ |
 | dance | ✓ |
 | Let's play. | ✓ |
-| OK. | ✓ |
-| OK, OK! | ✓ |
+| OK. / OK, OK! | ✓ |
 | OK. Let's play ball. | ✓ |
 | OK. Let's play tag. | ✓ |
 | OK. Let's jump rope. | ✓ |
@@ -760,20 +686,88 @@ B: __________________________________ *(yes)*
 | Yes, I can. | ✓ |
 | Can you jump? | ✓ |
 | What can you do? | ✓ |
-| Jump. | ✓ |
-| Stand up. | ✓ |
-| Make a circle. | ✓ |
-| Sit down. | ✓ |
-| Walk. | ✓ |
-| Move ahead 3 spaces. | ✓ |
-| Skip. | ✓ |
-| Make a line. | ✓ |
-| Move back 3 spaces. | ✓ |
-| Run. | ✓ |
-| Stop. | ✓ |
+| Jump. / Stand up. / Sit down. / Walk. / Run. / Stop. / Skip. | ✓ |
+| Make a circle. / Make a line. | ✓ |
+| Move ahead 3 spaces. / Move back 3 spaces. | ✓ |
 | X x — fox | ✓ |
 | Y y — yarn | ✓ |
 | Z z — zebra | ✓ |
-| A–Z / a–z | ✓ |
 
-**Coverage: 100% từ vựng và mẫu câu thể hiện trong Unit 8 - Abilities đã được đưa vào bộ bài tập ít nhất một lần.**
+**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.
+
+---
+
+<!-- challenge-audio-notes -->
+# Ghi chú audio cần bổ sung cho Challenge – Unit 8
+
+**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.
+
+Đây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.
+
+| Đã có | Tên file gợi ý | Nội dung cần đọc | Mức cần | Dùng chung cho | Mức cần | Dùng chung cho | Mức cần | Dùng chung cho |
+|---|---|---|---|---|---|---|---|---|
+| ☐ | `u8_ride_a_bicycle.mp3` | ride a bicycle | Bắt buộc khi chạy nghe tự động | Challenge1§2,2§2; chọn ngẫu nhiên trong nhóm |
+| ☐ | `u8_sing_a_song.mp3` | sing a song | Bắt buộc khi chạy nghe tự động | Challenge1§2; chọn ngẫu nhiên trong nhóm |
+| ☐ | `u8_fly_a_kite.mp3` | fly a kite | Bắt buộc khi chạy nghe tự động | Challenge1§2,2§2 |
+| ☐ | `u8_bounce_a_ball.mp3` | bounce a ball | Bắt buộc khi chạy nghe tự động | Challenge1§2 |
+| ☐ | `u8_swim.mp3` | swim | Bắt buộc khi chạy nghe tự động | Challenge1§2,2§2 |
+| ☐ | `u8_smile.mp3` | smile | Bắt buộc khi chạy nghe tự động | Challenge1§2 |
+| ☐ | `u8_wink.mp3` | wink | Bắt buộc khi chạy nghe tự động | Challenge1§2 |
+| ☐ | `u8_dance.mp3` | dance | Bắt buộc khi chạy nghe tự động | Challenge1§2,2§2 |
+| ☐ | `u8_let_s_play.mp3` | Let's play. | Bắt buộc khi chạy nghe tự động | Challenge2§1.1 |
+| ☐ | `u8_ok.mp3` | OK. | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_ok_ok.mp3` | OK, OK! | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_ok_let_s_play_ball.mp3` | OK. Let's play ball. | Bắt buộc khi chạy nghe tự động | Challenge2§1.2 |
+| ☐ | `u8_ok_let_s_play_tag.mp3` | OK. Let's play tag. | Bắt buộc khi chạy nghe tự động | Challenge2§1.3 |
+| ☐ | `u8_ok_let_s_jump_rope.mp3` | OK. Let's jump rope. | Bắt buộc khi chạy nghe tự động | Challenge2§1.4 |
+| ☐ | `u8_let_s_play_tag.mp3` | Let's play tag. | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_let_s_jump_rope.mp3` | Let's jump rope. | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_let_s_play_ball.mp3` | Let's play ball. | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_hey_let_s_play_let_s_play.mp3` | Hey, let's play, let's play! | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_i_can_ride_a_bicycle.mp3` | I can ride a bicycle. | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_i_can_fly_a_kite.mp3` | I can fly a kite. | Bắt buộc khi chạy nghe tự động | Challenge3§4 |
+| ☐ | `u8_i_can_t_fly_a_kite.mp3` | I can't fly a kite. | Bắt buộc khi chạy nghe tự động | Challenge3§4 |
+| ☐ | `u8_can_you_swim.mp3` | Can you swim? | Bắt buộc khi chạy nghe tự động | Challenge2§1.7,§3.2;3§4 |
+| ☐ | `u8_no_i_can_t.mp3` | No, I can't. | Bắt buộc khi chạy nghe tự động | Challenge2§1.10 |
+| ☐ | `u8_can_you_dance.mp3` | Can you dance? | Bắt buộc khi chạy nghe tự động | Challenge2§1.8,§3.1;3§4 |
+| ☐ | `u8_yes_i_can.mp3` | Yes, I can. | Bắt buộc khi chạy nghe tự động | Challenge2§1.9 |
+| ☐ | `u8_can_you_jump.mp3` | Can you jump? | Bắt buộc khi chạy nghe tự động | Challenge2§3.3 |
+| ☐ | `u8_what_can_you_do.mp3` | What can you do? | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_point_to_the_board.mp3` | Point to the board. | Bắt buộc khi chạy nghe tự động | Challenge2§1.5,§4;5§7 |
+| ☐ | `u8_go_to_the_board.mp3` | Go to the board. | Bắt buộc khi chạy nghe tự động | Challenge2§1.6,§4;5§7 |
+| ☐ | `u8_jump.mp3` | Jump. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_stand_up.mp3` | Stand up. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_make_a_circle.mp3` | Make a circle. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_sit_down.mp3` | Sit down. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_walk.mp3` | Walk. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_move_ahead_3_spaces.mp3` | Move ahead 3 spaces. | Bắt buộc khi chạy nghe tự động | Challenge5§7 biến thể luyện thêm số 3; không phải số PDF |
+| ☐ | `u8_skip.mp3` | Skip. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_make_a_line.mp3` | Make a line. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_move_back_3_spaces.mp3` | Move back 3 spaces. | Bắt buộc khi chạy nghe tự động | Challenge5§7 |
+| ☐ | `u8_run.mp3` | Run. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_stop.mp3` | Stop. | Bắt buộc khi chạy nghe tự động | Challenge2§4;5§7 |
+| ☐ | `u8_x_x_fox.mp3` | X x — fox | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_y_y_yarn.mp3` | Y y — yarn | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+| ☐ | `u8_z_z_zebra.mp3` | Z z — zebra | Tùy chọn | Luyện nói/đọc; không có yêu cầu nghe riêng |
+
+Nếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.
+
+## Bổ sung sau rà checklist tự động
+
+Bảng trên phân loại32 clip bắt buộc cho các bài nghe hiện có và11 clip tùy chọn. Một câu trùng giữa nhiều bài dùng cùng file; nhóm nghe từ ngẫu nhiên phải chọn clip thuộc đúng bốn lựa chọn của từng câu. Không lấy đoạn CD dài làm clip ngắn mặc định. Tất cả vẫn chưa có file.
+
+| Đã có | File gợi ý | Nội dung | Mức cần / phạm vi |
+|---|---|---|---|---|---|---|---|
+| ☐ | `u8_move_ahead_2_spaces.mp3` | Move ahead 2 spaces. | Bắt buộc nếu tự động đọc ô trò chơi chuẩn; số 2 theo PDF |
+| ☐ | `u8_fox.mp3` | fox | Tùy chọn; phonics tự nói/ghép từ |
+| ☐ | `u8_yarn.mp3` | yarn | Tùy chọn; phonics tự nói/ghép từ |
+| ☐ | `u8_zebra.mp3` | zebra | Tùy chọn; phonics tự nói/ghép từ |
+| ☐ | `u8_alphabet_upper_lower.mp3` | A–Z rồi a–z | Tùy chọn; đọc chữ, không tự thêm lời hát |
+| ☐ | `u8_dialogue_play_ball.mp3` | Let's play. / OK. Let's play ball. | Tùy chọn; hai lượt cho Challenge5§9.1 |
+| ☐ | `u8_dialogue_dance_yes.mp3` | Can you dance? / Yes, I can. | Tùy chọn; hai lượt cho Challenge5§9.2 |
+| ☐ | `u8_dialogue_swim_no.mp3` | Can you swim? / No, I can't. | Tùy chọn; hai lượt cho Challenge5§9.3 |
+| ☐ | `u8_dialogue_jump_yes.mp3` | Can you jump? / Yes, I can. | Tùy chọn; hai lượt cho Challenge5§9.4 |
+
+Các bài điền, nhìn hình, sắp xếp chữ và tự nói không bắt buộc bản thu nếu giao diện không thêm chức năng nghe. Giọng Boss riêng là tùy chọn. Checklist này rà theo yêu cầu nghe trong Markdown; chưa có xác nhận nội dung bản thu.
+
+<!-- /challenge-audio-notes -->

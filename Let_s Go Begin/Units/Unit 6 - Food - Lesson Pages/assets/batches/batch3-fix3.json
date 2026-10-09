@@ -1,0 +1,16 @@
+{
+  "tracks": [
+    "CD2_28",
+    "CD2_29",
+    "CD2_30",
+    "CD2_31"
+  ],
+  "prompt": "Edit ONLY bottom-left CD2_30 panel: add the small gray-and-white cat instruction mascot pointing one finger upward in blank lower-right margin below food labels, matching source page5 bottom. Preserve all four foods/numbered labels, cats milk dialogue, and all other three panels unchanged. Full icon within page margin, no overlap text, no new text.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch3-fix2.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-4727d5f3-7c50-43c4-8380-7b20bb4adbce.png",
+  "status": "superseded",
+  "local_result": "assets/batches/batch3-fix3.png"
+}

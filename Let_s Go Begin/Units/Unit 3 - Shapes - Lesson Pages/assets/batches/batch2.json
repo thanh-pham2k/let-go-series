@@ -1,0 +1,29 @@
+{
+  "unit": 3,
+  "id": "batch2",
+  "tracks": [
+    "CD1_42",
+    "CD1_43",
+    "CD1_44",
+    "CD1_45"
+  ],
+  "prompt": "Generate FOUR independent square children's English pages as a high-resolution square 2x2 sheet, exactly equal quadrants, straight midpoint white gutters, aim 3072x3072. Reference order top-left/top-right/bottom-left/bottom-right. Polished colorful textbook illustration crisp outlines soft shading, faithful source educational content. Shape pages use clean exact 2D geometric outlines. Every specified English word and numbered object correct, correct title and track badge. Ignore neighboring headings at reference crop edges. No quiz text/options, no missing shapes, no mixing pages.\nQuadrant 1 CD1_42: E. Listen and do. Same walking/running scenes and labels '1. Walk.' '2. Run.' from same source page, correct title only.\nQuadrant 2 CD1_43: A. Words. Four plain outline geometric shapes numbered and labeled 1. a circle (orange), 2. a square (green), 3. a triangle (purple), 4. a heart (red). Circle perfectly circular, square four equal sides and right angles. Source header example 'Draw a circle.' Keep all shapes large and clear.\nQuadrant 3 CD1_44: B. Listen and point. Same numbered outline shapes/labels 1. a circle orange, 2. a square green, 3. a triangle purple, 4. a heart red. Correct title only.\nQuadrant 4 CD1_45: C. Sentences. Boy orange shirt instructs kneeling girl pink shirt drawing shapes with chalk on pavement 'Draw a square.' Numbered chalk shapes 1 white square, 2 yellow heart, 3 yellow circle, 4 blue triangle. Preserve numbers and actual geometry, no trapezoid instead of square.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_42.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_43.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_44.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_45.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: walk/run, four outline shapes with numbered labels, Draw-a-square scene and numbers. Source Draw-a-circle example restored with font.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    636,
+    625
+  ],
+  "sha256": "1fb0040bd057bb2bf3bc03b206dbc7b4586a0ae3138f01927e394e81aa47eddf"
+}

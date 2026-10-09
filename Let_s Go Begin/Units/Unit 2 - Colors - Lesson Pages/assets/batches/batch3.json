@@ -1,0 +1,29 @@
+{
+  "unit": 2,
+  "id": "batch3",
+  "tracks": [
+    "CD1_27",
+    "CD1_28",
+    "CD1_29",
+    "CD1_30"
+  ],
+  "prompt": "Create high-resolution SQUARE 2x2 sheet FOUR complete independent square English textbook lesson pages, aim 3072x3072. Equal quadrants split exactly halfway by straight white gutters. Reference order top-left/top-right/bottom-left/bottom-right. Polished colorful children's textbook cartoons, crisp outlines soft shading. Keep faithful words, numbered colors and object relationships. Large readable English, title and correct track badge on each page. Ignore other exercise titles at reference crop edge. No quiz text or answer choices, no invented sentences, no mixing panels. \nQuadrant 1 CD1_27: D. Listen and point. Same five-color numbered parachute scene as 26 and example 'It's blue.' Distinct correct title.\nQuadrant 2 CD1_28: A. Words. Five toy cars numbered labeled exact colors 1. purple; 2. orange; 3. black; 4. white; 5. pink. Source example dialogue 'What color is it?' / 'It's purple.'\nQuadrant 3 CD1_29: B. Listen and point. Same five cars labels 1. purple; 2. orange; 3. black; 4. white; 5. pink. Correct title only.\nQuadrant 4 CD1_30: C. Question and answer. Girl pink top asks 'What color is it?' boy blue top answers 'It's purple.' Numbered toy train cars: 1 purple near boy, 2 pink lower left, 3 blue upper left, 4 yellow center, 5 orange right. Red engine on oval track is unnumbered. Preserve source relationships and colored cars.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_27.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_28.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_29.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_30.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: parachute colors/numbers, five car color labels, train-car color numbers and dialogue retained.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    634,
+    619
+  ],
+  "sha256": "429cc677ffd0a421f0f2c19cc187e998a470c247e470a0fd9d6c97ec7f167bca"
+}

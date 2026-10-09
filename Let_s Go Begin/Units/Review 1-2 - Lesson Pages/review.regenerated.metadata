@@ -1,0 +1,85 @@
+{
+  "format_version": "2.0",
+  "review": "1-2",
+  "item_count": 2,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD1_36",
+      "exercise": "A. Listen and circle.",
+      "pdf_page": 1,
+      "book_page": 18,
+      "image": "pages/webp/CD1_36.webp",
+      "audio_file": "audio/Track36.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "prompt": "Ở cặp 3, mảng màu bên trái (a) là màu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "green"
+          },
+          {
+            "id": "B",
+            "text": "red"
+          },
+          {
+            "id": "C",
+            "text": "purple"
+          }
+        ],
+        "correct_choice_id": "A",
+        "id": "R1-2-CD1_36",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": [
+        "Six source pairs retained without selecting answers; no separate tracks per pair.",
+        "Pair6 depicts Come here / Turn around; Go corrected in Challenge document."
+      ]
+    },
+    {
+      "track": "CD1_37",
+      "exercise": "A. Say these.",
+      "pdf_page": 2,
+      "book_page": 19,
+      "image": "pages/webp/CD1_37.webp",
+      "audio_file": "audio/Track37.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "prompt": "Cô giáo cầm tờ giấy và nói câu nào trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I have glue."
+          },
+          {
+            "id": "B",
+            "text": "I have paper."
+          },
+          {
+            "id": "C",
+            "text": "I have tape."
+          }
+        ],
+        "correct_choice_id": "B",
+        "id": "R1-2-CD1_37",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": [
+        "Five school supplies and teacher model I have paper. retained.",
+        "Bottom model scene has no separate audio marker; included with CD1_37, independent MP3 speech coverage not audited."
+      ]
+    }
+  ]
+}

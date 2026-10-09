@@ -1,0 +1,29 @@
+{
+  "unit": 3,
+  "id": "batch3",
+  "tracks": [
+    "CD1_46",
+    "CD1_47",
+    "CD1_48",
+    "CD1_49"
+  ],
+  "prompt": "Regenerate FOUR independent square children's English textbook pages into high-resolution SQUARE 2x2 sheet, exactly equal quadrants divided at middle with narrow straight white gutters, aim 3072x3072. References top-left/top-right/bottom-left/bottom-right. Polished colorful textbook cartoons and faithful geometric shapes. Retain all specified source words, numbered objects, blanks if any. English accurate and large. Correct title and CD1 badge each page. Ignore neighboring headings at reference crop edges. No quiz text/options. Shapes must be unmistakable true geometries, no rectangle mistaken as square, no oval mistaken as circle.\nQuadrant 1 CD1_46: D. Listen, point, and chant. Four large dashed outline shapes in reading order triangle red, square orange, circle purple, heart green. Add clear labels 'a triangle', 'a square', 'a circle', 'a heart' under each. No invented chant lyrics.\nQuadrant 2 CD1_47: A. Words. Four colored flat shapes labeled 1. a star yellow, 2. a rectangle green, 3. a diamond purple, 4. an oval blue. Rectangle clearly unequal adjacent sides; diamond rhombus. Source example dialogue 'Is it a star?' / 'Yes, it is.'\nQuadrant 3 CD1_48: B. Listen and point. Same four numbered colored shapes/labels as47, correct title only.\nQuadrant 4 CD1_49: C. Question and answer. Two model exchanges top: boy blue shirt asks girl pink shirt holding yellow star 'Is it a star?' / 'Yes, it is.' Girl asks boy holding blue diamond 'Is it a rectangle?' / 'No, it isn't. It's a diamond.' Below children making paper shapes numbered 1 yellow star, 2 blue diamond, 3 blue oval, 4 yellow rectangle. Show all relevant objects and accurate geometry.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_46.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_47.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_48.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_49.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: four dashed shapes, four numbered shape vocabulary labels and both yes/no model exchanges with four paper-craft group IDs.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    635,
+    625
+  ],
+  "sha256": "12adc5f3df94a2cf1b71c34eee1ca7b42481f447175213096e311cba4afba35d"
+}

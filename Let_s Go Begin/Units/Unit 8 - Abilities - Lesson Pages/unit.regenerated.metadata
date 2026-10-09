@@ -1,0 +1,540 @@
+{
+  "format_version": "2.0",
+  "unit": 8,
+  "topic": "Abilities",
+  "item_count": 16,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD2_54",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 64,
+      "image": "pages/webp/CD2_54.webp",
+      "audio_file": "audio/Track54.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_54",
+        "prompt": "Trong hình, câu “Let's play” dùng để làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Rủ bạn cùng chơi."
+          },
+          {
+            "id": "B",
+            "text": "Xin lỗi."
+          },
+          {
+            "id": "C",
+            "text": "Hỏi tuổi."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_55",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 64,
+      "image": "pages/webp/CD2_55.webp",
+      "audio_file": "audio/Track55.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_55",
+        "prompt": "Ở tình huống số 2, câu “OK. Let's jump rope” rủ chơi gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Đuổi bắt."
+          },
+          {
+            "id": "B",
+            "text": "Nhảy dây."
+          },
+          {
+            "id": "C",
+            "text": "Đá bóng."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_56",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 65,
+      "image": "pages/webp/CD2_56.webp",
+      "audio_file": "audio/Track56.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_56",
+        "prompt": "Trong bài hát, câu nào dùng để rủ bạn chơi?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm sorry."
+          },
+          {
+            "id": "B",
+            "text": "How old are you?"
+          },
+          {
+            "id": "C",
+            "text": "Let's play."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_57",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 65,
+      "image": "pages/webp/CD2_57.webp",
+      "audio_file": "audio/Track57.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_57",
+        "prompt": "Khi nghe “Point to the board”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Chỉ vào bảng."
+          },
+          {
+            "id": "B",
+            "text": "Đi đến bảng."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_58",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 65,
+      "image": "pages/webp/CD2_58.webp",
+      "audio_file": "audio/Track58.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_58",
+        "prompt": "Sau bài luyện hành động, “Go to the board” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Quay người lại."
+          },
+          {
+            "id": "B",
+            "text": "Đi đến bảng."
+          },
+          {
+            "id": "C",
+            "text": "Chỉ vào bảng."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_59",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 66,
+      "image": "pages/webp/CD2_59.webp",
+      "audio_file": "audio/Track59.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_59",
+        "prompt": "Hình số 3 ứng với hoạt động nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "sing a song"
+          },
+          {
+            "id": "B",
+            "text": "ride a bicycle"
+          },
+          {
+            "id": "C",
+            "text": "fly a kite"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_60",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 66,
+      "image": "pages/webp/CD2_60.webp",
+      "audio_file": "audio/Track60.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_60",
+        "prompt": "Sau khi luyện nghe, bé chọn cụm từ chỉ hoạt động ở hình số 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "bounce a ball"
+          },
+          {
+            "id": "B",
+            "text": "fly a kite"
+          },
+          {
+            "id": "C",
+            "text": "sing a song"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_61",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 67,
+      "image": "pages/webp/CD2_61.webp",
+      "audio_file": "audio/Track61.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_61",
+        "prompt": "Bạn trai nói “I can't fly a kite”; bạn ấy cho biết điều gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bạn ấy biết hát."
+          },
+          {
+            "id": "B",
+            "text": "Bạn ấy không biết thả diều."
+          },
+          {
+            "id": "C",
+            "text": "Bạn ấy biết thả diều."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_62",
+      "exercise": "D. Listen, point, and chant.",
+      "page": 4,
+      "book_page": 67,
+      "image": "pages/webp/CD2_62.webp",
+      "audio_file": "audio/Track62.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_62",
+        "prompt": "Sau bài chant, cụm “ride a bicycle” chỉ hoạt động nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Thả diều."
+          },
+          {
+            "id": "B",
+            "text": "Hát một bài hát."
+          },
+          {
+            "id": "C",
+            "text": "Đi xe đạp."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_63",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 68,
+      "image": "pages/webp/CD2_63.webp",
+      "audio_file": "audio/Track63.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_63",
+        "prompt": "Hình số 3 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "wink"
+          },
+          {
+            "id": "B",
+            "text": "swim"
+          },
+          {
+            "id": "C",
+            "text": "dance"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_64",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 68,
+      "image": "pages/webp/CD2_64.webp",
+      "audio_file": "audio/Track64.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_64",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ hoạt động ở hình số 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "swim"
+          },
+          {
+            "id": "B",
+            "text": "dance"
+          },
+          {
+            "id": "C",
+            "text": "smile"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_65",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 69,
+      "image": "pages/webp/CD2_65.webp",
+      "audio_file": "audio/Track65.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_65",
+        "prompt": "Trong hội thoại bên trái, bé chọn câu trả lời cho “Can you dance?” khi biết nhảy.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, I can't."
+          },
+          {
+            "id": "B",
+            "text": "I'm 6."
+          },
+          {
+            "id": "C",
+            "text": "Yes, I can."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_66",
+      "exercise": "D. Listen and chant.",
+      "page": 6,
+      "book_page": 69,
+      "image": "pages/webp/CD2_66.webp",
+      "audio_file": "audio/Track66.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_66",
+        "prompt": "Sau bài chant, bé chọn câu trả lời cho “Can you dance?” khi không biết nhảy.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, I can't."
+          },
+          {
+            "id": "B",
+            "text": "Yes, I can."
+          },
+          {
+            "id": "C",
+            "text": "It's a ball."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_67",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 70,
+      "image": "pages/webp/CD2_67.webp",
+      "audio_file": "audio/Track67.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_67",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau Y?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "W"
+          },
+          {
+            "id": "B",
+            "text": "Z"
+          },
+          {
+            "id": "C",
+            "text": "X"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_68",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 70,
+      "image": "pages/webp/CD2_68.webp",
+      "audio_file": "audio/Track68.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_68",
+        "prompt": "Từ nào đi với chữ Z z trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "fox"
+          },
+          {
+            "id": "B",
+            "text": "yarn"
+          },
+          {
+            "id": "C",
+            "text": "zebra"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_69",
+      "exercise": "A. Play a game.",
+      "page": 8,
+      "book_page": 71,
+      "image": "pages/webp/CD2_69.webp",
+      "audio_file": "audio/Track69.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U8-CD2_69",
+        "prompt": "Trong hình trò chơi, bạn trai trả lời “Can you jump?” bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yes, I can."
+          },
+          {
+            "id": "B",
+            "text": "No, I can't."
+          },
+          {
+            "id": "C",
+            "text": "Yes, I do."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

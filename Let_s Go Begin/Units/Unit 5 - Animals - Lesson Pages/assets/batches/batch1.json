@@ -1,0 +1,29 @@
+{
+  "unit": 5,
+  "id": "batch1",
+  "tracks": [
+    "CD2_02",
+    "CD2_03",
+    "CD2_04",
+    "CD2_05"
+  ],
+  "prompt": "Regenerate FOUR independent square English textbook lesson pages into high-resolution square 2x2 sheet, equal quadrants at true midpoint with narrow white gutters, aim 3072x3072. Reference order top-left/top-right/bottom-left/bottom-right. Polished colorful children's textbook cartoon, crisp outlines soft shading consistent Unit1. Retain all instructional words, blanks, gestures, correct speaker roles, song repeated lines and child identities. Correct title and CD2 badge for each track. No quiz or answer options. Ignore adjacent exercise headings at crop edges. Text big and readable.\nQuadrant 1 CD2_02: A. Let's talk. Pet shop cashier man mustache green shirt navy apron hands change to Jenny black bob yellow shirt, girl holding dogfood bag. Man says 'Here you are.' Girl 'Thank you.' Correct speech tails, parrots/rabbits/fish in source background.\nQuadrant 2 CD2_03: B. Say and act. Two numbered exchanges1 adult woman red shirt hands ice cream to Andy navy-striped shirt says 'Here you are.' boy blank answer. 2 Scott green stripes seated bench hands soccer ball to Kate blonde glasses red dress, Scott blank speech line, Kate says 'Thank you.' Preserve blanks.\nQuadrant 3 CD2_04: C. Let's sing. Title 'Here You Are. Thank You.' Jenny holds birdhouse on pole, Scott hands her small tray of birdfood outdoors, source tools nearby. Full exact lyrics: Here you are. / Thank you, thank you! / Here you are. / Thank you! / Here you are. / Thank you, thank you! / Here you are. / Thank you! Keep eight lines and repeats readable.\nQuadrant 4 CD2_05: D. Let's move. Andy navy-striped shirt JUMP with both feet off ground and upward motion lines; Kate blonde glasses red dress SKIP with alternating raised knee, clear different actions. Labels '1. Jump.' '2. Skip.' Outdoors.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_02.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_03.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_04.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_05.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Compared source pages 38–39: cashier/girl dialogue, both unanswered speech blanks, eight repeated song lines, birdhouse/feed/tools and separate Jump/Skip actions retained; inspect final crops separately.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    628,
+    628
+  ],
+  "sha256": "40fd7852b7a594f9cf6727f786420216d380ebc006a4892e93e94e3baf050015"
+}

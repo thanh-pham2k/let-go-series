@@ -1,5 +1,17 @@
 # Unit 2 - Colors
 
+<!-- lesson-package-status -->
+## Bộ bài học chính và tài nguyên luyện thêm
+
+Đã có đủ **17 trang học chính**, mỗi trang gồm ảnh có chữ → audio → một câu trắc nghiệm. PNG/WebP đều **1200 × 1200**.
+
+- [Preview học và làm bài](Unit%202%20-%20Colors%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ ảnh](Unit%202%20-%20Colors%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata tích hợp](Unit%202%20-%20Colors%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- [Unit 2 - Colors – Câu hỏi theo trang](Unit%202%20-%20Colors%20-%20Cau%20hoi%20theo%20trang.md).
+
+Các Challenge bên dưới là bài luyện thêm, giữ nguyên nội dung. Ký hiệu 🖼️ là hướng dẫn chọn hình, chưa phải asset riêng gắn cho từng câu. Người lớn có thể đọc phần nghe; để chạy tự động cần audio clip riêng. Chủ dự án sẽ tự bổ sung audio theo checklist cuối file. Audio CD nguồn đã kiểm tra file, chưa nghe/transcribe độc lập.
+<!-- /lesson-package-status -->
+
 > Chỉ sử dụng nội dung xuất hiện trong PDF Unit 2 - Colors.
 > Lộ trình: **Recognition → Recall → Comprehension → Production**.
 
@@ -171,18 +183,20 @@ Bé thực hiện đúng hành động.
 # Challenge 3 — Fill & Recall
 ## Recall
 
-### 1. Xáo chữ → ghép từ màu
+### 1. Điền chữ cái còn thiếu vào từ
 
-1. `d / r / e` → ________
-2. `e / u / l / b` → ________
-3. `w / l / y / e / l / o` → ________
-4. `n / g / e / r / e` → ________
-5. `n / w / o / r / b` → ________
-6. `p / l / p / u / r / e` → ________
-7. `g / n / o / a / r / e` → ________
-8. `k / c / a / l / b` → ________
-9. `e / t / i / h / w` → ________
-10. `k / n / i / p` → ________
+> Điền chữ cái còn thiếu để hoàn thành từ chỉ màu sắc đúng.
+
+1. r _ d *(red)* 🟥
+2. b l _ _ *(blue)* 🟦
+3. y _ l l _ w *(yellow)* 🟨
+4. g r _ _ n *(green)* 🟩
+5. b r _ w n *(brown)* 🟫
+6. p _ r p l e *(purple)* 🟪
+7. o r _ n g e *(orange)* 🟧
+8. b l _ c k *(black)* ⬛
+9. w h _ t e *(white)* ⬜
+10. p _ n k *(pink)* 🩷
 
 ### 2. Chọn từ → điền vào câu
 
@@ -259,89 +273,72 @@ B: It's a ________ car. 🟩🚗
 
 ---
 
-# Challenge 4 — Translate & Build
+# Challenge 4 — Build & Match
 ## Comprehension
 
-### 1. Dịch Anh → Việt
+### 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. Hi, boys and girls. → ____________________
-2. Hello, Miss Jones. → ____________________
-3. Good-bye. → ____________________
-4. See you later. → ____________________
-5. Come here. → ____________________
-6. Turn around. → ____________________
-7. What color is it? → ____________________
-8. It's purple. → ____________________
-9. What is it? → ____________________
-10. It's a green car. → ____________________
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
 
-### 2. Dịch Việt → Anh
-
-1. Chào các bạn nam và nữ. → ____________________
-2. Xin chào cô Jones. → ____________________
-3. Tạm biệt. → ____________________
-4. Hẹn gặp lại. → ____________________
-5. Lại đây. → ____________________
-6. Quay lại. → ____________________
-7. Nó màu gì? → ____________________
-8. Nó màu xanh dương. → ____________________
-9. Nó là gì? → ____________________
-10. Đó là một chiếc ô tô màu xanh lá. → ____________________
-
-### 3. Sắp xếp từ → tạo câu
-
-1. `color / What / is / it`  
+1. `[ color / What / is / it? ]`  
    → ____________________
 
-2. `purple / It's`  
+2. `[ It's / purple. ]`  
    → ____________________
 
-3. `a / red / It's / train`  
+3. `[ a / red / It's / train. ]`  
    → ____________________
 
-4. `a / blue / ball`  
+4. `[ a / blue / ball ]`  
    → ____________________
 
-5. `a / brown / teddy bear`  
+5. `[ a / brown / teddy bear ]`  
    → ____________________
 
-6. `a / green / yo-yo`  
+6. `[ a / green / yo-yo ]`  
    → ____________________
 
-7. `is / What / it`  
+7. `[ What / is / it? ]`  
    → ____________________
 
-8. `a / green / car / It's`  
+8. `[ a / green / car. / It's ]`  
    → ____________________
 
-9. `you / See / later`  
+9. `[ See / later. / you ]`  
    → ____________________
 
-10. `around / Turn`  
+10. `[ around. / Turn ]`  
     → ____________________
 
-### 4. Ghép câu hỏi → câu trả lời
+11. `[ here. / Come ]`  
+    → ____________________
+
+12. `[ boys / Hi, / and / girls. ]`  
+    → ____________________
+
+### 2. Ghép câu hỏi → câu trả lời
 
 | Question | Answer |
 |---|---|
-| What color is it? 🟪 | A. It's a green car. |
-| What is it? 🟩🚗 | B. It's purple. |
+| 1. What color is it? 🟪 | A. It's a green car. |
+| 2. What is it? 🟩🚗 | B. It's purple. |
+| 3. Hi, boys and girls. | C. See you later. |
+| 4. Good-bye, Kate. | D. Hello, Miss Jones. |
 
-### 5. Letters & words
+### 3. Letters & words (Phonics A–D)
 
-Sắp xếp:
+Điền chữ cái còn thiếu:
 
-- `p / p / a / l / e` → ________
-- `r / i / b / d` → ________
-- `t / a / c` → ________
-- `g / o / d` → ________
+- a p p l _ *(apple)* 🍎
+- b _ r d *(bird)* 🐦
+- c _ t *(cat)* 🐱
+- d _ g *(dog)* 🐶
 
-Ghép:
-
-- A a → ________
-- B b → ________
-- C c → ________
-- D d → ________
+Nối chữ với từ đúng:
+- A a → `[ apple / bird / cat / dog ]`
+- B b → `[ bird / cat / dog / apple ]`
+- C c → `[ cat / apple / bird / dog ]`
+- D d → `[ dog / bird / apple / cat ]`
 
 ---
 
@@ -418,53 +415,49 @@ Sắp xếp:
 
 → ______________________________
 
-### 6. Greetings — tự nói
+### 6. Greetings — Thực hành nói theo mẫu
 
-Tình huống: Miss Jones chào lớp.
+*Mẫu gợi ý:*
+- Khi cô giáo chào: *"Hi, boys and girls."* → Bé đáp: *"Hello, Miss Jones."*
+- Khi bạn chào tạm biệt: *"Good-bye."* → Bé đáp: *"See you later."* hoặc *"Bye-bye."*
 
+Tình huống 1: Miss Jones chào lớp.  
 Miss Jones: **Hi, boys and girls.**  
-Bé: ______________________________
+Bé: ______________________________ *(Hello, Miss Jones.)*
 
-Tình huống: Kate ra về.
-
+Tình huống 2: Kate ra về.  
 Kate: **Good-bye.**  
-Bé: ______________________________
+Bé: ______________________________ *(See you later. / Bye-bye.)*
 
 ### 7. Commands — nghe và làm
 
-Không nhìn chữ. Người lớn chọn ngẫu nhiên:
+Người lớn đọc ngẫu nhiên, bé thực hiện hành động:
 
 - Come here.
 - Turn around.
 
-### 8. A–D Production
+### 8. A–D Phonics Production
 
-Nhìn chữ và nói từ tương ứng:
+Nhìn chữ và nói to từ tương ứng:
 
-- A a → ____________________
-- B b → ____________________
-- C c → ____________________
-- D d → ____________________
+- A a → **apple** 🍎
+- B b → **bird** 🐦
+- C c → **cat** 🐱
+- D d → **dog** 🐶
 
-### 9. Alphabet Final Check
+### 9. Mini Conversation — Nói theo mẫu
 
-Đọc hoặc ghép toàn bộ:
+*Mẫu gợi ý:*
+- Hỏi màu sắc: *"What color is it?"* → *"It's [màu sắc]."* (Ví dụ: *It's purple.* / *It's red.*)
+- Hỏi đồ vật kèm màu: *"What is it?"* → *"It's a [màu] [đồ vật]."* (Ví dụ: *It's a green car.* / *It's a red train.*)
 
-`A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`
+**Tình huống A (Hỏi màu):** 🟪  
+A: What color is it?  
+B: ______________________________ *(It's purple.)*
 
-với:
-
-`a b c d e f g h i j k l m n o p q r s t u v w x y z`
-
-### 10. Final Conversation
-
-Không dùng hint.
-
-A: ______________________________? *(hỏi màu)*  
-B: ______________________________. *(trả lời màu)*
-
-A: ______________________________? *(hỏi đồ vật)*  
-B: ______________________________. *(trả lời bằng mẫu câu trong bài)*
+**Tình huống B (Hỏi đồ vật có màu):** 🟩🚗  
+A: What is it?  
+B: ______________________________ *(It's a green car.)*
 
 ---
 
@@ -510,6 +503,58 @@ B: ______________________________. *(trả lời bằng mẫu câu trong bài)*
 | B b — bird | ✓ |
 | C c — cat | ✓ |
 | D d — dog | ✓ |
-| A–Z / a–z | ✓ |
 
-**Coverage: 100% nội dung từ vựng và mẫu câu được thể hiện trong Unit 2.**
+**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.
+
+---
+
+<!-- challenge-audio-notes -->
+# Ghi chú audio cần bổ sung cho Challenge – Unit 2
+
+**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.
+
+Đây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.
+
+| Đã có | Tên file gợi ý | Nội dung cần đọc |
+|---|---|---|
+| ☐ | `u2_red.mp3` | red |
+| ☐ | `u2_blue.mp3` | blue |
+| ☐ | `u2_yellow.mp3` | yellow |
+| ☐ | `u2_green.mp3` | green |
+| ☐ | `u2_brown.mp3` | brown |
+| ☐ | `u2_purple.mp3` | purple |
+| ☐ | `u2_orange.mp3` | orange |
+| ☐ | `u2_black.mp3` | black |
+| ☐ | `u2_white.mp3` | white |
+| ☐ | `u2_pink.mp3` | pink |
+| ☐ | `u2_hi_boys_and_girls.mp3` | Hi, boys and girls. |
+| ☐ | `u2_hello_miss_jones.mp3` | Hello, Miss Jones. |
+| ☐ | `u2_hi_andy.mp3` | Hi, Andy. |
+| ☐ | `u2_hello_jenny.mp3` | Hello, Jenny. |
+| ☐ | `u2_good_bye.mp3` | Good-bye. |
+| ☐ | `u2_good_bye_kate.mp3` | Good-bye, Kate. |
+| ☐ | `u2_good_bye_jenny.mp3` | Good-bye, Jenny. |
+| ☐ | `u2_see_you_later.mp3` | See you later. |
+| ☐ | `u2_bye_bye.mp3` | Bye-bye. |
+| ☐ | `u2_bye_bye_see_you_later.mp3` | Bye-bye, see you later. |
+| ☐ | `u2_bye_andy.mp3` | Bye, Andy. |
+| ☐ | `u2_come_here.mp3` | Come here. |
+| ☐ | `u2_turn_around.mp3` | Turn around. |
+| ☐ | `u2_it_s_red.mp3` | It's red. |
+| ☐ | `u2_it_s_blue.mp3` | It's blue. |
+| ☐ | `u2_what_color_is_it.mp3` | What color is it? |
+| ☐ | `u2_it_s_purple.mp3` | It's purple. |
+| ☐ | `u2_it_s_a_red_train.mp3` | It's a red train. |
+| ☐ | `u2_a_red_train.mp3` | a red train |
+| ☐ | `u2_a_blue_ball.mp3` | a blue ball |
+| ☐ | `u2_a_brown_teddy_bear.mp3` | a brown teddy bear |
+| ☐ | `u2_a_green_yo_yo.mp3` | a green yo-yo |
+| ☐ | `u2_what_is_it.mp3` | What is it? |
+| ☐ | `u2_it_s_a_green_car.mp3` | It's a green car. |
+| ☐ | `u2_a_a_apple.mp3` | A a — apple |
+| ☐ | `u2_b_b_bird.mp3` | B b — bird |
+| ☐ | `u2_c_c_cat.mp3` | C c — cat |
+| ☐ | `u2_d_d_dog.mp3` | D d — dog |
+
+Nếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.
+<!-- /challenge-audio-notes -->

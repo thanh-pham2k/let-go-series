@@ -1,0 +1,26 @@
+{
+  "tracks": [
+    "CD1_36",
+    "CD1_37"
+  ],
+  "prompt": "Generate a landscape sheet with TWO independent complete SQUARE English textbook lesson pages side by side, straight white vertical gutter at center, no content crossing. Use reference1 exact left page source, reference2 exact right page source, reference3 STYLE ONLY bright colorful textbook cartoon crisp outlines soft shading. Keep full page content and exact text, margins generous. No quizzes, no selected/circled answers.\nLEFT square: header \"Units 1–2 · Listen and Review\", title \"A. Listen and circle.\", badge \"CD1 36\". Six numbered exercises arranged TWO columns THREE rows, exact source order and TWO options a/b per exercise (12 illustrations total). 1 top left: a red toy car LEFT, b colorful connected toy train RIGHT (green/red engine, yellow cars blue roofs). 2 top right: a red bicycle LEFT, b multicolored striped ball RIGHT (pink top, yellow with green dots, pink stripe, green stripe, red stripe). 3 middle left: a GREEN paint splash LEFT, b RED paint splash RIGHT. 4 middle right: a PURPLE paint splash LEFT, b YELLOW paint splash RIGHT. 5 bottom left: a brown-haired boy RED shirt BLUE pants STANDING UP beside chair with UP arrow LEFT, b same boy SITTING DOWN onto chair with DOWN arrow RIGHT. 6 bottom right: a ponytailed girl LIGHT BLUE blouse YELLOW skirt walking TOWARD seated female teacher at desk with straight arrow TOWARD TEACHER LEFT; b same girl TURNING AROUND AWAY from teacher with curved turning arrow RIGHT. Do not depict Go/Stop. Each exercise has exact number1–6 and option labels a under left b under right, none marked as answer. Footer book page18.\nRIGHT square: header \"School Supplies\", title \"A. Say these.\", badge \"CD1 37\". Source arrangement five labeled school supplies: upper LEFT white paper sheet on pink ground label \"1. paper\"; CENTER red scissors on yellow ground label \"2. scissors\"; upper RIGHT white glue bottle with blue band/yellow label and orange nozzle on green ground label \"3. glue\"; lower LEFT paint jar with RED paint and label on jar \"Red\", paintbrush with BLUE handle and red painted tip on yellow ground, label \"4. paint\"; lower RIGHT GREEN tape dispenser with white tape on blue ground, label \"5. tape\". Bottom full-width scene blue classroom door left, brown-haired boy RED shirt, female teacher orange bob hair green headband green patterned blouse holding WHITE PAPER, speech tail to teacher, exact bubble \"I have paper.\" No other dialogue. Footer book page19.\nKeep all nouns and labels exactly spelled and source colors/order. Scale content to fit each square without cropped titles/feet/labels.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Review 1-2 - Lesson Pages/references/CD1_36.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Review 1-2 - Lesson Pages/references/CD1_37.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 3 - Shapes - Lesson Pages/pages/png/CD1_38.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "sheet_size": [
+    1774,
+    887
+  ],
+  "split_x": 887,
+  "sha256": "91b4373ef1bda7586ef05e3adbbcf7d6400f921166fd18fef0fc5799e625ef56",
+  "source_output": "C:/Users/Admin/.codex/generated_images/01a11c4f-ee9b-7361-afa2-895ea54407a2/exec-e76540a2-3e36-4b21-84fb-8a49327d5839.png",
+  "repair_job": "assets/batches/batch1-repair.json",
+  "visual_review": [
+    "Final 1200 PNG checked against PDF page1: six pairs in order car/train bicycle/ball green/red purple/yellow stand-up/sit-down come-here/turn-around, 12 a/b labels, arrows and source colors; no answers circled; full headings and footer retained.",
+    "Final 1200 PNG checked against PDF page2: numbered paper scissors glue paint tape, source colors including Red paint jar/blue brush/green tape, teacher holding paper and speech I have paper., full heading/footer; scene retained without inventing separate audio."
+  ]
+}

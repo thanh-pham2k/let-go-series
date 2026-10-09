@@ -1,0 +1,31 @@
+{
+  "result": "pass",
+  "browser": "Headless Microsoft Edge",
+  "checks": [
+    {
+      "track": "CD1_71",
+      "imageWidth": 1200,
+      "imageHeight": 1200,
+      "imageLoaded": true,
+      "audioReady": 4,
+      "audioDuration": 62.906667,
+      "practice": "none",
+      "choices": 3,
+      "result": "pass"
+    },
+    {
+      "track": "CD1_72",
+      "imageWidth": 1200,
+      "imageHeight": 1200,
+      "imageLoaded": true,
+      "audioReady": 4,
+      "audioDuration": 66.8,
+      "practice": "none",
+      "choices": 3,
+      "result": "pass"
+    }
+  ],
+  "navigation": "pass",
+  "manual_review": "pass",
+  "limitation": "Audio decode/duration checked; audio not independently listened/transcribed. ended event simulated for UI test."
+}

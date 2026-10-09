@@ -4,6 +4,19 @@
 >
 > Mục tiêu: đi từ **Recognition → Recall → Comprehension → Production**, đồng thời kiểm tra toàn bộ từ vựng và mẫu câu chính trong bài.
 
+## Bộ tài nguyên và trạng thái sử dụng
+
+Phần học chính **xem hình có chữ → nghe audio → làm một câu trắc nghiệm mỗi trang** đã có đủ 17 mục CD1_02–CD1_18. PNG/WebP của17 trang đều1200×1200, giữ tỷ lệ nội dung.
+
+- [Câu hỏi theo 17 trang](Unit%201%20-%20Toys%20-%20Cau%20hoi%20theo%20trang.md).
+- [Preview học và làm bài](Unit%201%20-%20Toys%20-%20Lesson%20Pages/preview.html).
+- [Metadata tích hợp ảnh/audio/câu hỏi](Unit%201%20-%20Toys%20-%20Lesson%20Pages/unit1_toys.regenerated.metadata).
+- Ảnh chuẩn: `Unit 1 - Toys - Lesson Pages/pages/webp/CD1_02.webp` đến `CD1_18.webp`; audio tương ứng nằm trong `Lesson Pages/audio/`.
+
+Năm Challenge bên dưới là bài luyện thêm. Có thể dùng ngay khi người lớn đọc hướng dẫn và câu nghe; chưa đủ audio riêng để tất cả bài nghe Challenge chạy tự động. Danh sách cuối file là yêu cầu bổ sung, không phải các file đã có. Các ký hiệu 🖼️ là chỉ dẫn chọn đồ chơi trên ảnh bài học, không phải asset riêng đã được gắn cho từng câu.
+
+Hình từ vựng: [ball / jump rope / yo-yo / bicycle](Unit%201%20-%20Toys%20-%20Lesson%20Pages/pages/webp/CD1_07.webp) và [train / car / doll / teddy bear](Unit%201%20-%20Toys%20-%20Lesson%20Pages/pages/webp/CD1_11.webp).
+
 ## Nội dung cần nắm
 
 ### Vocabulary
@@ -50,7 +63,7 @@
 
 ## 1. Nhìn hình → chọn từ
 
-> Giáo viên/phụ huynh dùng đúng hình đồ chơi trong PDF và cho bé chọn đáp án.
+> Giáo viên/phụ huynh dùng đúng hình đồ chơi trong bộ ảnh bài học chuẩn và cho bé chọn đáp án.
 
 ### 1.1
 🖼️ Hình quả bóng
@@ -142,44 +155,6 @@
 - [ ] a jump rope
 - [ ] a teddy bear
 - [ ] a bicycle
-- [ ] a yo-yo
-
-## 3. Nhìn chữ → nhận diện alphabet
-
-Ghép chữ hoa với chữ thường.
-
-| Chữ hoa | Chữ thường |
-|---|---|
-| A | ___ |
-| B | ___ |
-| C | ___ |
-| D | ___ |
-| E | ___ |
-| F | ___ |
-| G | ___ |
-| H | ___ |
-| I | ___ |
-| J | ___ |
-| K | ___ |
-| L | ___ |
-| M | ___ |
-| N | ___ |
-| O | ___ |
-| P | ___ |
-| Q | ___ |
-| R | ___ |
-| S | ___ |
-| T | ___ |
-| U | ___ |
-| V | ___ |
-| W | ___ |
-| X | ___ |
-| Y | ___ |
-| Z | ___ |
-
-**Kho chữ:**  
-`q, a, z, m, b, y, c, x, d, w, e, v, f, u, g, t, h, s, i, r, j, p, k, o, l, n`
-
 ---
 
 # Challenge 2 - Listen & Understand
@@ -215,7 +190,7 @@ Ghép chữ hoa với chữ thường.
 
 ## 2. Nghe câu → chọn đồ vật
 
-> Người lớn chọn và đọc một câu dưới đây. Bé chỉ/chọn đúng hình trong PDF.
+> Người lớn chọn và đọc một câu dưới đây. Bé chỉ/chọn đúng hình trong bộ ảnh bài học chuẩn.
 
 - It's a ball.
 - It's a jump rope.
@@ -251,18 +226,18 @@ Ghép chữ hoa với chữ thường.
 # Challenge 3 - Fill & Recall
 **Level: Recall**
 
-## 1. Xáo chữ → ghép từ đúng
+## 1. Điền chữ cái còn thiếu vào từ
 
-> Kéo/thả hoặc sắp xếp chữ.
+> Điền 1 hoặc vài chữ cái còn thiếu để hoàn thành từ đúng.
 
-1. `l / l / a / b` → __________
-2. `r / a / c` → __________
-3. `l / l / o / d` → __________
-4. `n / i / a / r / t` → __________
-5. `o / y / - / o / y` → __________
-6. `e / l / c / y / c / i / b` → __________
-7. `p / m / u / j   e / p / o / r` → __________
-8. `d / d / y / e / t   r / a / e / b` → __________
+1. b _ l l *(ball)*
+2. c _ r *(car)*
+3. d _ l l *(doll)*
+4. t r _ _ n *(train)*
+5. y _ - y _ *(yo-yo)*
+6. b _ c y c l _ *(bicycle)*
+7. j _ m p   r _ p e *(jump rope)*
+8. t _ d d y   b _ a r *(teddy bear)*
 
 ## 2. Chọn từ → điền vào chỗ trống
 
@@ -340,100 +315,67 @@ Hi, what's your ________?
 
 ---
 
-# Challenge 4 - Translate & Build
+# Challenge 4 - Build & Match
 **Level: Comprehension**
 
-## 1. Dịch Anh → Việt
+## 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. Hi, what's your name?  
-   → __________________________________
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
 
-2. I'm Kate.  
-   → __________________________________
+### 1.1 Câu chào hỏi tên
+Các từ: `[ your / what's / name / Hi, ]`  
+→ __________________________________
 
-3. What is it?  
-   → __________________________________
+### 1.2 Câu giới thiệu tên
+Các từ: `[ Kate. / I'm ]`  
+→ __________________________________
 
-4. It's a ball.  
-   → __________________________________
+### 1.3 Câu hỏi đồ vật
+Các từ: `[ What / it? / is ]`  
+→ __________________________________
 
-5. It's a teddy bear.  
-   → __________________________________
+### 1.4 Câu trả lời đồ vật (quả bóng)
+Các từ: `[ a / It's / ball. ]`  
+→ __________________________________
 
-6. Stand up.  
-   → __________________________________
+### 1.5 Câu trả lời đồ vật (gấu bông)
+Các từ: `[ a / teddy bear. / It's ]`  
+→ __________________________________
 
-7. Sit down.  
-   → __________________________________
+### 1.6 Câu trả lời đồ vật (xe đạp)
+Các từ: `[ bicycle. / a / It's ]`  
+→ __________________________________
 
-## 2. Dịch Việt → Anh
+### 1.7 Câu mệnh lệnh
+Các từ: `[ up. / Stand ]`  
+→ __________________________________
 
-1. Chào, bạn tên gì?  
-   → __________________________________
+### 1.8 Câu mệnh lệnh
+Các từ: `[ down. / Sit ]`  
+→ __________________________________
 
-2. Tôi là Pete.  
-   → __________________________________
-
-3. Đây là gì?  
-   → __________________________________
-
-4. Đó là một chiếc xe đạp.  
-   → __________________________________
-
-5. Đó là một chiếc ô tô.  
-   → __________________________________
-
-6. Đó là một búp bê.  
-   → __________________________________
-
-7. Đứng lên.  
-   → __________________________________
-
-8. Ngồi xuống.  
-   → __________________________________
-
-## 3. Sắp xếp từ → tạo câu
-
-1. `your / what's / name / Hi`  
-   → __________________________________
-
-2. `Kate / I'm`  
-   → __________________________________
-
-3. `it / What / is`  
-   → __________________________________
-
-4. `a / It's / yo-yo`  
-   → __________________________________
-
-5. `a / train / It's`  
-   → __________________________________
-
-6. `a / jump rope / It's`  
-   → __________________________________
-
-## 4. Ghép câu hỏi với câu trả lời
+## 2. Ghép câu hỏi với câu trả lời phù hợp
 
 | Câu hỏi | Câu trả lời |
 |---|---|
-| Hi, what's your name? | A. It's a car. |
-| What is it? 🖼️ car | B. I'm Jenny. |
+| 1. Hi, what's your name? | A. It's a car. |
+| 2. What is it? 🖼️ car | B. I'm Jenny. |
 
-## 5. Xây dựng hội thoại
+## 3. Xây dựng hội thoại
 
-Sắp xếp các thẻ:
+Sắp xếp các thẻ câu để tạo thành đoạn hội thoại đúng:
 
-`I'm Ann.` · `Hi, what's your name?`
+**Hội thoại 1:**  
+Thẻ: `[ I'm Ann. ]` · `[ Hi, what's your name? ]`
 
-A: ______________________________  
-B: ______________________________
+- A: ______________________________  
+- B: ______________________________
 
-Sắp xếp các thẻ:
+**Hội thoại 2:**  
+Thẻ: `[ It's a teddy bear. ]` · `[ What is it? ]`
 
-`It's a teddy bear.` · `What is it?`
-
-A: ______________________________  
-B: ______________________________
+- A: ______________________________  
+- B: ______________________________
 
 ---
 
@@ -474,25 +416,15 @@ Sắp xếp:
 
 → ______________________________
 
-## 3. Context
+## 3. Context & Nói theo mẫu
 
-A: What is it?  
-B: ______________________________ 🖼️ train
+1. A: What is it?  
+   B: ______________________________ 🖼️ train *(Mẫu: It's a train.)*
 
-A: Hi, what's your name?  
-B: ______________________________ *(Matt)*
+2. A: Hi, what's your name?  
+   B: ______________________________ *(Matt)* *(Mẫu: I'm Matt.)*
 
-## 4. Translate
-
-“It's a bicycle.”
-
-→ ______________________________
-
-“Đó là một quả bóng.”
-
-→ ______________________________
-
-## 5. Build
+## 4. Build (Sắp xếp từ thành câu)
 
 Sắp xếp thành câu hoàn chỉnh:
 
@@ -504,9 +436,9 @@ Sắp xếp thành câu hoàn chỉnh:
 
 → ______________________________
 
-## 6. Speak - không hint
+## 5. Speak - không hint
 
-Nhìn lần lượt 8 hình đồ chơi trong PDF và nói một câu cho **mỗi hình**:
+Nhìn lần lượt 8 hình đồ chơi trong hai trang từ vựng CD1_07 và CD1_11 và nói một câu cho **mỗi hình**:
 
 1. 🖼️ ball → ______________________________
 2. 🖼️ jump rope → ______________________________
@@ -517,21 +449,29 @@ Nhìn lần lượt 8 hình đồ chơi trong PDF và nói một câu cho **mỗ
 7. 🖼️ doll → ______________________________
 8. 🖼️ teddy bear → ______________________________
 
-## 7. Mini Conversation - tự nói
+## 6. Mini Conversation - Thực hành nói theo mẫu
 
 ### Tình huống A
 Một người hỏi tên bé.
+
+*Mẫu gợi ý:*
+- Người lớn: *"Hi, what's your name?"*
+- Bé trả lời theo tên mình hoặc mẫu: *"I'm [tên bé]."* (Ví dụ: *I'm Jenny.* / *I'm Kate.*)
 
 A: __________________________________  
 B: __________________________________
 
 ### Tình huống B
-Một người chỉ vào một món đồ chơi và hỏi đó là gì.
+Một người chỉ vào một món đồ chơi (ví dụ 🖼️ teddy bear / ball) và hỏi đó là gì.
+
+*Mẫu gợi ý:*
+- Người lớn hỏi: *"What is it?"*
+- Bé trả lời: *"It's a [món đồ chơi]."* (Ví dụ: *It's a teddy bear.* / *It's a ball.*)
 
 A: __________________________________  
 B: __________________________________
 
-## 8. Action Challenge
+## 7. Action Challenge
 
 Người lớn nói ngẫu nhiên:
 
@@ -539,23 +479,6 @@ Người lớn nói ngẫu nhiên:
 - Sit down.
 
 Bé thực hiện đúng hành động, không cần dịch.
-
-## 9. Alphabet Final Check
-
-Không nhìn mẫu, đọc hoặc viết theo thứ tự:
-
-`A a → ______________________________________________ → Z z`
-
-Sau đó ghép nhanh:
-
-- A → ___
-- D → ___
-- H → ___
-- M → ___
-- Q → ___
-- T → ___
-- W → ___
-- Z → ___
 
 ---
 
@@ -577,6 +500,92 @@ Sau đó ghép nhanh:
 | It's a + toy. | 2, 3, 4, 5 |
 | Stand up. | 2, 4, 5 |
 | Sit down. | 2, 4, 5 |
-| A-Z / a-z | 1, 5 |
 
-**Hoàn thành:** tất cả từ vựng, mẫu câu, classroom commands và alphabet xuất hiện trong Unit 1 đều đã được kiểm tra ít nhất một lần.
+**Phạm vi bài luyện:** các từ vựng, mẫu câu và classroom commands chính có bài tập bên trên. Bảng chữ cái A–Z được học ở CD1_15/16; năm Challenge này chưa có bài kiểm tra riêng cho toàn bộ 26 cặp chữ.
+
+---
+
+# Danh sách Audio cần bổ sung cho Unit 1
+
+**Trạng thái: chưa có bộ audio riêng dưới đây; tên file là tên gợi ý.** Audio Track02–Track18 phục vụ 17 trang học chính, không mặc định thay thế các clip ngắn cho từng câu Challenge.
+
+**Người bổ sung:** chủ dự án sẽ tự chuẩn bị audio. Giữ checklist này để đánh dấu khi đã có file; chưa đánh dấu hoàn thành trước khi file được cung cấp.
+
+Danh sách hiện có **29 tên file**, tương ứng **19 nội dung thu khác nhau** nếu dùng chung các câu trùng. Có thể thu mỗi nội dung một lần và nối nhiều bài tập tới cùng file. Bốn từ vựng mở rộng bên dưới là tùy chọn, nâng tổng lên 23 nội dung nếu thu đủ.
+
+### Các audio có thể dùng chung
+
+| File bản thu dùng chung | Những mục dùng cùng nội dung |
+|---|---|
+| `c2_audio_stand_up.mp3` — Stand up. | `c5_audio_action_stand_up.mp3` |
+| `c2_audio_sit_down.mp3` — Sit down. | `c5_audio_action_sit_down.mp3` |
+| `c2_audio_what_is_it.mp3` — What is it? | `c2_audio_q_train.mp3`, `c2_audio_q_doll.mp3`, `c5_audio_boss_train.mp3` |
+| `c2_audio_whats_your_name.mp3` — Hi, what's your name? | `c2_audio_q_name.mp3`, `c3_audio_fill_name.mp3`, `c5_audio_boss_name.mp3` |
+| `c2_audio_its_a_ball.mp3` — It's a ball. | `c3_audio_fill_ball.mp3` |
+| `c2_audio_its_a_train.mp3` — It's a train. | `c3_audio_fill_train.mp3` |
+
+Các tên ở cột phải là tên gợi ý cho từng bài, không bắt buộc phải tạo bản sao MP3. Nếu muốn giọng Boss riêng thì thu thêm các câu Boss. Hai audio hội thoại Challenge 4 cần đọc đủ hai lượt nói; không dùng một câu hỏi đơn thay cho cả hội thoại.
+
+Dưới đây là tổng hợp các file audio cần thu âm/cung cấp riêng cho từng bài tập và thử thách (Challenge 1 → Challenge 5), chuẩn hóa theo tên gợi ý để dễ tích hợp vào mini-app:
+
+### 1. Challenge 1: Nghe → Chọn từ vựng (Level: Recognition)
+> Mỗi file đọc rõ ràng, tự nhiên 1 từ vựng tương ứng:
+
+- [ ] `c1_audio_ball.mp3` - Đọc: *"a ball"*
+- [ ] `c1_audio_yo_yo.mp3` - Đọc: *"a yo-yo"*
+- [ ] `c1_audio_train.mp3` - Đọc: *"a train"*
+- [ ] `c1_audio_jump_rope.mp3` - Đọc: *"a jump rope"*
+*(Có thể mở rộng thêm 4 từ còn lại: `a bicycle`, `a car`, `a doll`, `a teddy bear`)*
+
+**Tùy chọn — thu thêm từ vựng:**
+
+- [ ] `c1_audio_bicycle.mp3` — Đọc: *"a bicycle"*.
+- [ ] `c1_audio_car.mp3` — Đọc: *"a car"*.
+- [ ] `c1_audio_doll.mp3` — Đọc: *"a doll"*.
+- [ ] `c1_audio_teddy_bear.mp3` — Đọc: *"a teddy bear"*.
+
+### 2. Challenge 2: Nghe hiểu & Phản xạ (Level: Recognition)
+> File đọc câu khẩu lệnh, câu hỏi hoặc câu khẳng định ngắn:
+
+**Mục 1: Nghe → Chọn nghĩa**
+- [ ] `c2_audio_stand_up.mp3` - Đọc: *"Stand up."*
+- [ ] `c2_audio_sit_down.mp3` - Đọc: *"Sit down."*
+- [ ] `c2_audio_what_is_it.mp3` - Đọc: *"What is it?"*
+- [ ] `c2_audio_whats_your_name.mp3` - Đọc: *"Hi, what's your name?"*
+- [ ] `c2_audio_its_a_teddy_bear.mp3` - Đọc: *"It's a teddy bear."*
+
+**Mục 2: Nghe câu → Chọn đồ vật**
+- [ ] `c2_audio_its_a_ball.mp3` - Đọc: *"It's a ball."*
+- [ ] `c2_audio_its_a_jump_rope.mp3` - Đọc: *"It's a jump rope."*
+- [ ] `c2_audio_its_a_yo_yo.mp3` - Đọc: *"It's a yo-yo."*
+- [ ] `c2_audio_its_a_bicycle.mp3` - Đọc: *"It's a bicycle."*
+- [ ] `c2_audio_its_a_train.mp3` - Đọc: *"It's a train."*
+- [ ] `c2_audio_its_a_car.mp3` - Đọc: *"It's a car."*
+- [ ] `c2_audio_its_a_doll.mp3` - Đọc: *"It's a doll."*
+
+**Mục 3: Nghe câu hỏi đối thoại**
+- [ ] `c2_audio_q_name.mp3` - Giọng A hỏi: *"Hi, what's your name?"*
+- [ ] `c2_audio_q_train.mp3` - Giọng A hỏi: *"What is it?"*
+- [ ] `c2_audio_q_doll.mp3` - Giọng A hỏi: *"What is it?"*
+
+### 3. Challenge 3: Nghe → Điền từ vào chỗ trống (Level: Recall)
+> Bé nghe cả câu và chọn từ còn thiếu trong câu:
+
+- [ ] `c3_audio_fill_ball.mp3` - Đọc: *"It's a ball."* (Chọn: ball)
+- [ ] `c3_audio_fill_train.mp3` - Đọc: *"It's a train."* (Chọn: train)
+- [ ] `c3_audio_fill_matt.mp3` - Đọc: *"I'm Matt."* (Chọn: Matt)
+- [ ] `c3_audio_fill_name.mp3` - Đọc: *"Hi, what's your name?"* (Chọn: name)
+
+### 4. Challenge 4: Hội thoại & Mẫu câu (Level: Comprehension)
+> Audio hỗ trợ bé nghe lại sau khi ghép câu hoàn chỉnh:
+
+- [ ] `c4_audio_dialogue_name.mp3` - Đọc cặp câu: *"Hi, what's your name? - I'm Ann."*
+- [ ] `c4_audio_dialogue_toy.mp3` - Đọc cặp câu: *"What is it? - It's a teddy bear."*
+
+### 5. Challenge 5: Final Boss (Level: Production & Action)
+> Audio phản xạ chiến đấu với Boss:
+
+- [ ] `c5_audio_boss_train.mp3` - Boss hỏi: *"What is it?"*
+- [ ] `c5_audio_boss_name.mp3` - Boss hỏi: *"Hi, what's your name?"*
+- [ ] `c5_audio_action_stand_up.mp3` - Khẩu lệnh: *"Stand up."*
+- [ ] `c5_audio_action_sit_down.mp3` - Khẩu lệnh: *"Sit down."*

@@ -25,13 +25,15 @@
       "canvas": {
         "size": [
           1200,
-          1080
+          1200
         ],
         "background": "#FFFFFF"
       },
       "shared_visual_tracks": [],
       "learning_targets": [],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_02",
         "prompt": "Bạn gái trong hình trả lời tên mình bằng câu nào?",
@@ -55,126 +57,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "A. Let's talk.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 02",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            45,
-            125,
-            640,
-            75
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Hi, what's your name?",
-          "box": [
-            57,
-            137,
-            616,
-            51
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            815,
-            125,
-            330,
-            75
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "I'm Kate.",
-          "box": [
-            827,
-            137,
-            306,
-            51
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/talk.png",
+          "asset": "assets/batches-v2/CD1_02-page.png",
           "box": [
-            40,
-            220,
-            1120,
-            820
-          ],
-          "fit": "contain",
-          "semantic": {
-            "characters": [
-              "Scott",
-              "Kate"
-            ]
-          }
+            0,
+            0,
+            766,
+            510
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        510
       ]
     },
     {
@@ -193,14 +88,15 @@
       "canvas": {
         "size": [
           1200,
-          660
+          1200
         ],
         "background": "#FFFFFF"
       },
       "shared_visual_tracks": [],
       "learning_targets": [],
       "adaptation_notes": [
-        "Third response blank is supplied to complete the practice panel whose source crop cuts off the response area. Blanks remain blank."
+        "Third response blank is supplied to complete the practice panel whose source crop cuts off the response area. Blanks remain blank.",
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
       ],
       "question": {
         "id": "U1-CD1_03",
@@ -225,345 +121,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_03-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "B. Say and act.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 03",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            125,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "1",
-          "box": [
-            40,
-            132,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            190,
-            350,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "What's your name?",
-          "box": [
-            52,
-            202,
-            326,
-            41
-          ],
-          "font_size": 26,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "image",
-          "asset": "assets/scenes/pets.png",
-          "box": [
-            40,
-            275,
-            350,
-            180
-          ],
-          "fit": "contain",
-          "semantic": {
-            "panel": 1,
-            "characters": [
-              "Ginger",
-              "gray cat"
-            ]
-          }
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            495,
-            350,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "________________.",
-          "box": [
-            52,
-            507,
-            326,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            430,
-            125,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "2",
-          "box": [
-            430,
-            132,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            430,
-            190,
-            350,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "________________?",
-          "box": [
-            442,
-            202,
-            326,
-            41
-          ],
-          "font_size": 26,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "image",
-          "asset": "assets/scenes/pets.png",
-          "box": [
-            430,
-            275,
-            350,
-            180
-          ],
-          "fit": "contain",
-          "semantic": {
-            "panel": 2,
-            "characters": [
-              "Ginger",
-              "gray cat"
-            ]
-          }
-        },
-        {
-          "type": "rect",
-          "box": [
-            430,
-            495,
-            350,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "I'm Ginger.",
-          "box": [
-            442,
-            507,
-            326,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            820,
-            125,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "3",
-          "box": [
-            820,
-            132,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            820,
-            190,
-            350,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "What's your name?",
-          "box": [
-            832,
-            202,
-            326,
-            41
-          ],
-          "font_size": 26,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "image",
-          "asset": "assets/scenes/pets.png",
-          "box": [
-            820,
-            275,
-            350,
-            180
-          ],
-          "fit": "contain",
-          "semantic": {
-            "panel": 3,
-            "characters": [
-              "Ginger",
-              "gray cat"
-            ]
-          }
-        },
-        {
-          "type": "rect",
-          "box": [
-            820,
-            495,
-            350,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "________________.",
-          "box": [
-            832,
-            507,
-            326,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            766,
+            510
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        510
       ]
     },
     {
@@ -582,13 +152,15 @@
       "canvas": {
         "size": [
           1200,
-          1060
+          1200
         ],
         "background": "#FFFFFF"
       },
       "shared_visual_tracks": [],
       "learning_targets": [],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_04",
         "prompt": "Trong bài hát chào hỏi, câu nào dùng để hỏi tên một bạn?",
@@ -612,220 +184,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "C. Let's sing.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 04",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/song.png",
+          "asset": "assets/batches-v2/CD1_04-page.png",
           "box": [
-            20,
-            115,
-            1160,
-            820
-          ],
-          "fit": "contain",
-          "semantic": {
-            "characters": [
-              "Kate",
-              "Jenny",
-              "Scott",
-              "Andy"
-            ]
-          }
-        },
-        {
-          "type": "text",
-          "text": "Hi, What's Your Name?",
-          "box": [
-            330,
-            220,
-            550,
-            50
-          ],
-          "font_size": 34,
-          "align": "center",
-          "bold": true,
-          "color": "#B1426E"
-        },
-        {
-          "type": "rect",
-          "box": [
-            335,
-            280,
-            530,
-            555
-          ],
-          "fill": "#EEF9FB",
-          "stroke": null,
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Hi, what's your name?\nI'm Kate.\nHi, what's your name?\nI'm Jenny.\nHi, what's your name?\nI'm Scott.\nHi, what's your name?\nI'm Andy.\n\nKate, Jenny, Scott, Andy—\nKate, Jenny, Scott, Andy—\nJenny, Andy, Jenny, Andy—\nKate, Jenny, Scott!",
-          "box": [
-            350,
-            295,
-            500,
-            525
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            45,
-            155,
-            245,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Kate",
-          "box": [
-            57,
-            167,
-            221,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            45,
-            890,
-            245,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Jenny",
-          "box": [
-            57,
-            902,
-            221,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            920,
-            155,
-            245,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Scott",
-          "box": [
-            932,
-            167,
-            221,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            920,
-            890,
-            245,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Andy",
-          "box": [
-            932,
-            902,
-            221,
-            41
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            0,
+            0,
+            766,
+            510
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        510
       ]
     },
     {
@@ -844,13 +215,15 @@
       "canvas": {
         "size": [
           1200,
-          740
+          1200
         ],
         "background": "#FFFFFF"
       },
       "shared_visual_tracks": [],
       "learning_targets": [],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_05",
         "prompt": "Khi nghe “Stand up”, bé cần làm gì?",
@@ -870,124 +243,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "D. Let's move.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 05",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/move.png",
+          "asset": "assets/batches-v2/CD1_05-page.png",
           "box": [
-            40,
-            155,
-            1120,
-            465
-          ],
-          "fit": "contain",
-          "semantic": {
-            "left_action": "stand up",
-            "right_action": "sit down"
-          }
-        },
-        {
-          "type": "rect",
-          "box": [
-            45,
-            635,
-            530,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "1. Stand up.",
-          "box": [
-            57,
-            647,
-            506,
-            41
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            625,
-            635,
-            530,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "2. Sit down.",
-          "box": [
-            637,
-            647,
-            506,
-            41
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            0,
+            0,
+            766,
+            510
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        510
       ]
     },
     {
@@ -1006,7 +274,7 @@
       "canvas": {
         "size": [
           1200,
-          740
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -1015,7 +283,8 @@
       ],
       "learning_targets": [],
       "adaptation_notes": [
-        "Source E crop has only the instruction/icon; standing/sitting visuals from D on the same page are included for audio practice."
+        "Source E crop has only the instruction/icon; standing/sitting visuals from D on the same page are included for audio practice.",
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
       ],
       "question": {
         "id": "U1-CD1_06",
@@ -1036,124 +305,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "E. Listen and do.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 06",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/move.png",
+          "asset": "assets/batches-v2/CD1_06-page.png",
           "box": [
-            40,
-            155,
-            1120,
-            465
-          ],
-          "fit": "contain",
-          "semantic": {
-            "left_action": "stand up",
-            "right_action": "sit down"
-          }
-        },
-        {
-          "type": "rect",
-          "box": [
-            45,
-            635,
-            530,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "1. Stand up.",
-          "box": [
-            57,
-            647,
-            506,
-            41
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            625,
-            635,
-            530,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "2. Sit down.",
-          "box": [
-            637,
-            647,
-            506,
-            41
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            0,
+            0,
+            766,
+            499
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        499
       ]
     },
     {
@@ -1172,7 +336,7 @@
       "canvas": {
         "size": [
           1200,
-          1320
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -1195,7 +359,9 @@
           "object": "bicycle"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_07",
         "prompt": "Từ “a jump rope” chỉ hình số mấy?",
@@ -1219,221 +385,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_07-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "A. Words.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 07",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/ball.png",
-          "box": [
-            65,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "ball",
-            "number": 1
-          }
-        },
-        {
-          "type": "text",
-          "text": "1. a ball",
-          "box": [
-            55,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/jump-rope.png",
-          "box": [
-            655,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "jump-rope",
-            "number": 2
-          }
-        },
-        {
-          "type": "text",
-          "text": "2. a jump rope",
-          "box": [
-            645,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/yo-yo.png",
-          "box": [
-            65,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "yo-yo",
-            "number": 3
-          }
-        },
-        {
-          "type": "text",
-          "text": "3. a yo-yo",
-          "box": [
-            55,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/bicycle.png",
-          "box": [
-            655,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "bicycle",
-            "number": 4
-          }
-        },
-        {
-          "type": "text",
-          "text": "4. a bicycle",
-          "box": [
-            645,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            766,
+            499
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        499
       ]
     },
     {
@@ -1452,7 +416,7 @@
       "canvas": {
         "size": [
           1200,
-          1320
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -1477,7 +441,9 @@
           "object": "bicycle"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_08",
         "prompt": "Sau khi nghe và luyện chỉ hình, bé chọn hình nào ứng với “a bicycle”?",
@@ -1501,221 +467,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_08-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "B. Listen and point.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 08",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/ball.png",
-          "box": [
-            65,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "ball",
-            "number": 1
-          }
-        },
-        {
-          "type": "text",
-          "text": "1. a ball",
-          "box": [
-            55,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/jump-rope.png",
-          "box": [
-            655,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "jump-rope",
-            "number": 2
-          }
-        },
-        {
-          "type": "text",
-          "text": "2. a jump rope",
-          "box": [
-            645,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/yo-yo.png",
-          "box": [
-            65,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "yo-yo",
-            "number": 3
-          }
-        },
-        {
-          "type": "text",
-          "text": "3. a yo-yo",
-          "box": [
-            55,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/bicycle.png",
-          "box": [
-            655,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "bicycle",
-            "number": 4
-          }
-        },
-        {
-          "type": "text",
-          "text": "4. a bicycle",
-          "box": [
-            645,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            766,
+            521
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        521
       ]
     },
     {
@@ -1734,7 +498,7 @@
       "canvas": {
         "size": [
           1200,
-          1320
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -1773,7 +537,9 @@
           ]
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_09",
         "prompt": "Câu “It's a yo-yo” nói về đồ chơi nào trong hình?",
@@ -1797,198 +563,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "C. Sentences.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 09",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            410,
-            125,
-            380,
-            75
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "It's a yo-yo.",
-          "box": [
-            422,
-            137,
-            356,
-            51
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/playground.png",
+          "asset": "assets/batches-v2/CD1_09-page.png",
           "box": [
-            40,
-            225,
-            1120,
-            1050
-          ],
-          "fit": "contain"
-        },
-        {
-          "type": "rect",
-          "box": [
-            633,
-            729,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "1",
-          "box": [
-            633,
-            736,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            465,
-            1001,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "2",
-          "box": [
-            465,
-            1008,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            174,
-            928,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "3",
-          "box": [
-            174,
-            935,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            936,
-            886,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "4",
-          "box": [
-            936,
-            893,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
+            0,
+            0,
+            766,
+            521
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        521
       ]
     },
     {
@@ -2007,7 +594,7 @@
       "canvas": {
         "size": [
           1200,
-          440
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -2030,7 +617,9 @@
           "object": "bicycle"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_10",
         "prompt": "Sau khi nghe bài hát và nhìn dãy đồ chơi, hình dây nhảy ứng với từ nào?",
@@ -2054,117 +643,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_10-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "D. Listen, point, and sing.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 10",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/yo-yo.png",
-          "box": [
-            40,
-            130,
-            270,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "yo-yo",
-            "order": 1
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/ball.png",
-          "box": [
-            320,
-            130,
-            270,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "ball",
-            "order": 2
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/jump-rope.png",
-          "box": [
-            600,
-            130,
-            270,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "jump-rope",
-            "order": 3
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/bicycle.png",
-          "box": [
-            880,
-            130,
-            270,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "bicycle",
-            "order": 4
-          }
+            634,
+            616
+          ]
         }
+      ],
+      "native_layout_size": [
+        634,
+        616
       ]
     },
     {
@@ -2183,7 +674,7 @@
       "canvas": {
         "size": [
           1200,
-          1320
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -2206,7 +697,9 @@
           "object": "teddy-bear"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_11",
         "prompt": "Từ “a teddy bear” chỉ hình số mấy?",
@@ -2230,221 +723,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_11-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "A. Words.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 11",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/train.png",
-          "box": [
-            65,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "train",
-            "number": 1
-          }
-        },
-        {
-          "type": "text",
-          "text": "1. a train",
-          "box": [
-            55,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/car.png",
-          "box": [
-            655,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "car",
-            "number": 2
-          }
-        },
-        {
-          "type": "text",
-          "text": "2. a car",
-          "box": [
-            645,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/doll.png",
-          "box": [
-            65,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "doll",
-            "number": 3
-          }
-        },
-        {
-          "type": "text",
-          "text": "3. a doll",
-          "box": [
-            55,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/teddy-bear.png",
-          "box": [
-            655,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "teddy-bear",
-            "number": 4
-          }
-        },
-        {
-          "type": "text",
-          "text": "4. a teddy bear",
-          "box": [
-            645,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            634,
+            616
+          ]
         }
+      ],
+      "native_layout_size": [
+        634,
+        616
       ]
     },
     {
@@ -2463,7 +754,7 @@
       "canvas": {
         "size": [
           1200,
-          1320
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -2488,7 +779,9 @@
           "object": "teddy-bear"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_12",
         "prompt": "Sau khi nghe và luyện chỉ hình, bé chọn hình nào ứng với “a car”?",
@@ -2512,221 +805,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_12-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "B. Listen and point.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 12",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/train.png",
-          "box": [
-            65,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "train",
-            "number": 1
-          }
-        },
-        {
-          "type": "text",
-          "text": "1. a train",
-          "box": [
-            55,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            140,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/car.png",
-          "box": [
-            655,
-            160,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "car",
-            "number": 2
-          }
-        },
-        {
-          "type": "text",
-          "text": "2. a car",
-          "box": [
-            645,
-            630,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/doll.png",
-          "box": [
-            65,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "doll",
-            "number": 3
-          }
-        },
-        {
-          "type": "text",
-          "text": "3. a doll",
-          "box": [
-            55,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            630,
-            720,
-            530,
-            550
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#DFE8F0",
-          "radius": 18
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/teddy-bear.png",
-          "box": [
-            655,
-            740,
-            480,
-            450
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "teddy-bear",
-            "number": 4
-          }
-        },
-        {
-          "type": "text",
-          "text": "4. a teddy bear",
-          "box": [
-            645,
-            1210,
-            500,
-            45
-          ],
-          "font_size": 33,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            634,
+            617
+          ]
         }
+      ],
+      "native_layout_size": [
+        634,
+        617
       ]
     },
     {
@@ -2745,7 +836,7 @@
       "canvas": {
         "size": [
           1200,
-          1320
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -2785,7 +876,8 @@
         }
       ],
       "adaptation_notes": [
-        "Decorative shop details are simplified; target teddy bear, train, doll and car retain original numbered associations."
+        "Decorative shop details are simplified; target teddy bear, train, doll and car retain original numbered associations.",
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
       ],
       "question": {
         "id": "U1-CD1_13",
@@ -2810,224 +902,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "C. Question and answer.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 13",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            45,
-            125,
-            370,
-            75
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "What is it?",
-          "box": [
-            57,
-            137,
-            346,
-            51
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            645,
-            125,
-            510,
-            75
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "It's a teddy bear.",
-          "box": [
-            657,
-            137,
-            486,
-            51
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/shop.png",
+          "asset": "assets/batches-v2/CD1_13-page.png",
           "box": [
-            40,
-            225,
-            1120,
-            1050
-          ],
-          "fit": "contain"
-        },
-        {
-          "type": "rect",
-          "box": [
-            600,
-            435,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "1",
-          "box": [
-            600,
-            442,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            369,
-            970,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "2",
-          "box": [
-            369,
-            977,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1039,
-            865,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "3",
-          "box": [
-            1039,
-            872,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
-        },
-        {
-          "type": "rect",
-          "box": [
-            786,
-            1023,
-            48,
-            48
-          ],
-          "fill": "#315AA6",
-          "stroke": null,
-          "radius": 24
-        },
-        {
-          "type": "text",
-          "text": "4",
-          "box": [
-            786,
-            1030,
-            48,
-            34
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#FFFFFF"
+            0,
+            0,
+            634,
+            617
+          ]
         }
+      ],
+      "native_layout_size": [
+        634,
+        617
       ]
     },
     {
@@ -3046,7 +933,7 @@
       "canvas": {
         "size": [
           1200,
-          440
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -3073,7 +960,9 @@
           "object": "bicycle"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_14",
         "prompt": "Sau khi nghe bài hát và nhìn dãy đồ chơi, hình tàu hỏa ứng với từ nào?",
@@ -3097,132 +986,19 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_14-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "D. Listen, point, and sing.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 14",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/ball.png",
-          "box": [
-            40,
-            130,
-            214,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "ball",
-            "order": 1
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/teddy-bear.png",
-          "box": [
-            264,
-            130,
-            214,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "teddy-bear",
-            "order": 2
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/doll.png",
-          "box": [
-            488,
-            130,
-            214,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "doll",
-            "order": 3
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/train.png",
-          "box": [
-            712,
-            130,
-            214,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "train",
-            "order": 4
-          }
-        },
-        {
-          "type": "image",
-          "asset": "assets/toys/bicycle.png",
-          "box": [
-            936,
-            130,
-            214,
-            260
-          ],
-          "fit": "contain",
-          "semantic": {
-            "object": "bicycle",
-            "order": 5
-          }
+            766,
+            533
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        533
       ]
     },
     {
@@ -3241,7 +1017,7 @@
       "canvas": {
         "size": [
           1200,
-          1310
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -3353,7 +1129,9 @@
         }
       ],
       "adaptation_notes": [
-        "Full A–Z shared alphabet is retained; letters are rendered using fonts, not generated lettering."
+        "Full A–Z shared alphabet is retained; letters are rendered using fonts, not generated lettering.",
+        "Alphabet pairs rendered with Arial for exact legibility.",
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
       ],
       "question": {
         "id": "U1-CD1_15",
@@ -3378,733 +1156,393 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_15-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "A. Sing and say.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
+            766,
+            533
+          ]
         },
         {
           "type": "rect",
           "box": [
-            1000,
-            25,
-            165,
-            55
+            12,
+            68,
+            742,
+            465
           ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 15",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "fill": "#FFFFFF"
         },
         {
           "type": "text",
           "text": "A a",
           "box": [
-            45,
-            179,
-            240,
-            105
+            20,
+            68,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "B b",
           "box": [
-            335,
-            179,
-            240,
-            105
+            201,
+            68,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#D77D13"
         },
         {
           "type": "text",
           "text": "C c",
           "box": [
-            625,
-            179,
-            240,
-            105
+            382,
+            68,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#279CD0"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#168AB1"
         },
         {
           "type": "text",
           "text": "D d",
           "box": [
-            915,
-            179,
-            240,
-            105
+            563,
+            68,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CF5642"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#C74242"
         },
         {
           "type": "text",
           "text": "E e",
           "box": [
-            45,
-            334,
-            240,
-            105
+            20,
+            133,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#956CAC"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#825399"
         },
         {
           "type": "text",
           "text": "F f",
           "box": [
-            335,
-            334,
-            240,
-            105
+            201,
+            133,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E8B844"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#B78D15"
         },
         {
           "type": "text",
           "text": "G g",
           "box": [
-            625,
-            334,
-            240,
-            105
+            382,
+            133,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#D7699A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#CC5585"
         },
         {
           "type": "text",
           "text": "H h",
           "box": [
-            915,
-            334,
-            240,
-            105
+            563,
+            133,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CD585D"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#385B94"
         },
         {
           "type": "text",
           "text": "I i",
           "box": [
-            45,
-            489,
-            240,
-            105
+            20,
+            198,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "J j",
           "box": [
-            335,
-            489,
-            240,
-            105
+            201,
+            198,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#D77D13"
         },
         {
           "type": "text",
           "text": "K k",
           "box": [
-            625,
-            489,
-            240,
-            105
+            382,
+            198,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#279CD0"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#168AB1"
         },
         {
           "type": "text",
           "text": "L l",
           "box": [
-            915,
-            489,
-            240,
-            105
+            563,
+            198,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CF5642"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#C74242"
         },
         {
           "type": "text",
           "text": "M m",
           "box": [
-            45,
-            644,
-            240,
-            105
+            20,
+            263,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#956CAC"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#825399"
         },
         {
           "type": "text",
           "text": "N n",
           "box": [
-            335,
-            644,
-            240,
-            105
+            201,
+            263,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E8B844"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#B78D15"
         },
         {
           "type": "text",
           "text": "O o",
           "box": [
-            625,
-            644,
-            240,
-            105
+            382,
+            263,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#D7699A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#CC5585"
         },
         {
           "type": "text",
           "text": "P p",
           "box": [
-            915,
-            644,
-            240,
-            105
+            563,
+            263,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CD585D"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#385B94"
         },
         {
           "type": "text",
           "text": "Q q",
           "box": [
-            45,
-            799,
-            240,
-            105
+            20,
+            328,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "R r",
           "box": [
-            335,
-            799,
-            240,
-            105
+            201,
+            328,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#D77D13"
         },
         {
           "type": "text",
           "text": "S s",
           "box": [
-            625,
-            799,
-            240,
-            105
+            382,
+            328,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#279CD0"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#168AB1"
         },
         {
           "type": "text",
           "text": "T t",
           "box": [
-            915,
-            799,
-            240,
-            105
+            563,
+            328,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CF5642"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#C74242"
         },
         {
           "type": "text",
           "text": "U u",
           "box": [
-            45,
-            954,
-            240,
-            105
+            20,
+            393,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#956CAC"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#825399"
         },
         {
           "type": "text",
           "text": "V v",
           "box": [
-            335,
-            954,
-            240,
-            105
+            201,
+            393,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E8B844"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#B78D15"
         },
         {
           "type": "text",
           "text": "W w",
           "box": [
-            625,
-            954,
-            240,
-            105
+            382,
+            393,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#D7699A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#CC5585"
         },
         {
           "type": "text",
           "text": "X x",
           "box": [
-            915,
-            954,
-            240,
-            105
+            563,
+            393,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CD585D"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            1085,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#385B94"
         },
         {
           "type": "text",
           "text": "Y y",
           "box": [
-            45,
-            1109,
-            240,
-            105
+            20,
+            458,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            1085,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "Z z",
           "box": [
-            335,
-            1109,
-            240,
-            105
+            201,
+            458,
+            181,
+            65
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
+          "align": "center",
+          "color": "#D77D13"
         }
+      ],
+      "native_layout_size": [
+        766,
+        533
       ]
     },
     {
@@ -4123,7 +1561,7 @@
       "canvas": {
         "size": [
           1200,
-          1310
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -4236,7 +1674,10 @@
           "lower": "z"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "Alphabet pairs rendered with Arial for exact legibility.",
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_16",
         "prompt": "Sau khi nghe đọc chữ cái, bé chọn cặp chữ hoa và chữ thường tương ứng với D.",
@@ -4260,733 +1701,393 @@
       },
       "layers": [
         {
-          "type": "rect",
+          "type": "image",
+          "asset": "assets/batches-v2/CD1_16-page.png",
           "box": [
             0,
             0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "B. Letters.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
+            766,
+            487
+          ]
         },
         {
           "type": "rect",
           "box": [
-            1000,
-            25,
-            165,
-            55
+            12,
+            68,
+            742,
+            419
           ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 16",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "fill": "#FFFFFF"
         },
         {
           "type": "text",
           "text": "A a",
           "box": [
-            45,
-            179,
-            240,
-            105
+            20,
+            68,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "B b",
           "box": [
-            335,
-            179,
-            240,
-            105
+            201,
+            68,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#D77D13"
         },
         {
           "type": "text",
           "text": "C c",
           "box": [
-            625,
-            179,
-            240,
-            105
+            382,
+            68,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#279CD0"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            155,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#168AB1"
         },
         {
           "type": "text",
           "text": "D d",
           "box": [
-            915,
-            179,
-            240,
-            105
+            563,
+            68,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CF5642"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#C74242"
         },
         {
           "type": "text",
           "text": "E e",
           "box": [
-            45,
-            334,
-            240,
-            105
+            20,
+            126,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#956CAC"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#825399"
         },
         {
           "type": "text",
           "text": "F f",
           "box": [
-            335,
-            334,
-            240,
-            105
+            201,
+            126,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E8B844"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#B78D15"
         },
         {
           "type": "text",
           "text": "G g",
           "box": [
-            625,
-            334,
-            240,
-            105
+            382,
+            126,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#D7699A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            310,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#CC5585"
         },
         {
           "type": "text",
           "text": "H h",
           "box": [
-            915,
-            334,
-            240,
-            105
+            563,
+            126,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CD585D"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#385B94"
         },
         {
           "type": "text",
           "text": "I i",
           "box": [
-            45,
-            489,
-            240,
-            105
+            20,
+            184,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "J j",
           "box": [
-            335,
-            489,
-            240,
-            105
+            201,
+            184,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#D77D13"
         },
         {
           "type": "text",
           "text": "K k",
           "box": [
-            625,
-            489,
-            240,
-            105
+            382,
+            184,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#279CD0"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            465,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#168AB1"
         },
         {
           "type": "text",
           "text": "L l",
           "box": [
-            915,
-            489,
-            240,
-            105
+            563,
+            184,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CF5642"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#C74242"
         },
         {
           "type": "text",
           "text": "M m",
           "box": [
-            45,
-            644,
-            240,
-            105
+            20,
+            242,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#956CAC"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#825399"
         },
         {
           "type": "text",
           "text": "N n",
           "box": [
-            335,
-            644,
-            240,
-            105
+            201,
+            242,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E8B844"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#B78D15"
         },
         {
           "type": "text",
           "text": "O o",
           "box": [
-            625,
-            644,
-            240,
-            105
+            382,
+            242,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#D7699A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            620,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#CC5585"
         },
         {
           "type": "text",
           "text": "P p",
           "box": [
-            915,
-            644,
-            240,
-            105
+            563,
+            242,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CD585D"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#385B94"
         },
         {
           "type": "text",
           "text": "Q q",
           "box": [
-            45,
-            799,
-            240,
-            105
+            20,
+            300,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "R r",
           "box": [
-            335,
-            799,
-            240,
-            105
+            201,
+            300,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#D77D13"
         },
         {
           "type": "text",
           "text": "S s",
           "box": [
-            625,
-            799,
-            240,
-            105
+            382,
+            300,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#279CD0"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            775,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#168AB1"
         },
         {
           "type": "text",
           "text": "T t",
           "box": [
-            915,
-            799,
-            240,
-            105
+            563,
+            300,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CF5642"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#C74242"
         },
         {
           "type": "text",
           "text": "U u",
           "box": [
-            45,
-            954,
-            240,
-            105
+            20,
+            358,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#956CAC"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#825399"
         },
         {
           "type": "text",
           "text": "V v",
           "box": [
-            335,
-            954,
-            240,
-            105
+            201,
+            358,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E8B844"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#B78D15"
         },
         {
           "type": "text",
           "text": "W w",
           "box": [
-            625,
-            954,
-            240,
-            105
+            382,
+            358,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#D7699A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            930,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#CC5585"
         },
         {
           "type": "text",
           "text": "X x",
           "box": [
-            915,
-            954,
-            240,
-            105
+            563,
+            358,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#CD585D"
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            1085,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#385B94"
         },
         {
           "type": "text",
           "text": "Y y",
           "box": [
-            45,
-            1109,
-            240,
-            105
+            20,
+            416,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#88B82A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            1085,
-            250,
-            135
-          ],
-          "fill": "#F7FAFD",
-          "stroke": null,
-          "radius": 18
+          "align": "center",
+          "color": "#54952B"
         },
         {
           "type": "text",
           "text": "Z z",
           "box": [
-            335,
-            1109,
-            240,
-            105
+            201,
+            416,
+            181,
+            58
           ],
-          "font_size": 74,
-          "align": "center",
+          "font_size": 46,
           "bold": true,
-          "color": "#E99735"
+          "align": "center",
+          "color": "#D77D13"
         }
+      ],
+      "native_layout_size": [
+        766,
+        487
       ]
     },
     {
@@ -5005,7 +2106,7 @@
       "canvas": {
         "size": [
           1200,
-          1020
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -5028,7 +2129,9 @@
           "character": "Matt"
         }
       ],
-      "adaptation_notes": [],
+      "adaptation_notes": [
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
+      ],
       "question": {
         "id": "U1-CD1_17",
         "prompt": "Bạn số 2 trong hình giới thiệu tên mình bằng câu nào?",
@@ -5052,206 +2155,19 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "A. Ask.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 17",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            280,
-            125,
-            640,
-            75
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "Hi, what's your name?",
-          "box": [
-            292,
-            137,
-            616,
-            51
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/names.png",
+          "asset": "assets/batches-v2/CD1_17-page.png",
           "box": [
-            40,
-            230,
-            1120,
-            650
-          ],
-          "fit": "contain",
-          "semantic": {
-            "left_to_right": [
-              "Pete",
-              "Beth",
-              "Ann",
-              "Matt"
-            ]
-          }
-        },
-        {
-          "type": "rect",
-          "box": [
-            40,
-            910,
-            250,
-            70
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "1. I'm Pete.",
-          "box": [
-            52,
-            922,
-            226,
-            46
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            330,
-            910,
-            250,
-            70
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "2. I'm Beth.",
-          "box": [
-            342,
-            922,
-            226,
-            46
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            620,
-            910,
-            250,
-            70
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "3. I'm Ann.",
-          "box": [
-            632,
-            922,
-            226,
-            46
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            910,
-            910,
-            250,
-            70
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "4. I'm Matt.",
-          "box": [
-            922,
-            922,
-            226,
-            46
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            0,
+            0,
+            766,
+            487
+          ]
         }
+      ],
+      "native_layout_size": [
+        766,
+        487
       ]
     },
     {
@@ -5270,7 +2186,7 @@
       "canvas": {
         "size": [
           1200,
-          1100
+          1200
         ],
         "background": "#FFFFFF"
       },
@@ -5298,7 +2214,8 @@
         }
       ],
       "adaptation_notes": [
-        "Only the ball response is filled, as in the source. Remaining response lines stay blank."
+        "Only the ball response is filled, as in the source. Remaining response lines stay blank.",
+        "V2: regenerated with source text in a grouped sheet, exported as one page per audio track."
       ],
       "question": {
         "id": "U1-CD1_18",
@@ -5323,221 +2240,26 @@
       },
       "layers": [
         {
-          "type": "rect",
-          "box": [
-            0,
-            0,
-            1200,
-            105
-          ],
-          "fill": "#EAF3FB",
-          "stroke": null,
-          "radius": 0
-        },
-        {
-          "type": "text",
-          "text": "B. Answer.",
-          "box": [
-            40,
-            30,
-            920,
-            55
-          ],
-          "font_size": 40,
-          "align": "left",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            1000,
-            25,
-            165,
-            55
-          ],
-          "fill": "#FFFFFF",
-          "stroke": null,
-          "radius": 20
-        },
-        {
-          "type": "text",
-          "text": "CD1 18",
-          "box": [
-            1007,
-            38,
-            150,
-            40
-          ],
-          "font_size": 27,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "rect",
-          "box": [
-            390,
-            125,
-            420,
-            65
-          ],
-          "fill": "#FFFFFF",
-          "stroke": "#B8CDDE",
-          "radius": 18
-        },
-        {
-          "type": "text",
-          "text": "What is it?",
-          "box": [
-            402,
-            137,
-            396,
-            41
-          ],
-          "font_size": 36,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
           "type": "image",
-          "asset": "assets/scenes/answer.png",
+          "asset": "assets/batches-v2/CD1_18-page.png",
           "box": [
-            40,
-            205,
-            1120,
-            740
-          ],
-          "fit": "contain",
-          "semantic": {
-            "left_to_right": [
-              "Pete",
-              "Beth",
-              "Ann",
-              "Matt"
-            ],
-            "held_objects": [
-              "ball",
-              "teddy-bear",
-              "doll",
-              "bicycle"
-            ]
-          }
-        },
-        {
-          "type": "text",
-          "text": "1. Pete",
-          "box": [
-            40,
-            960,
-            250,
-            45
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "It's a ball.",
-          "box": [
-            40,
-            1020,
-            250,
-            45
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "2. Beth",
-          "box": [
-            330,
-            960,
-            250,
-            45
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "______________.",
-          "box": [
-            330,
-            1020,
-            250,
-            45
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "3. Ann",
-          "box": [
-            620,
-            960,
-            250,
-            45
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "______________.",
-          "box": [
-            620,
-            1020,
-            250,
-            45
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "4. Matt",
-          "box": [
-            910,
-            960,
-            250,
-            45
-          ],
-          "font_size": 30,
-          "align": "center",
-          "bold": true,
-          "color": "#25334A"
-        },
-        {
-          "type": "text",
-          "text": "______________.",
-          "box": [
-            910,
-            1020,
-            250,
-            45
-          ],
-          "font_size": 28,
-          "align": "center",
-          "bold": false,
-          "color": "#25334A"
+            0,
+            0,
+            1543,
+            1019
+          ]
         }
+      ],
+      "native_layout_size": [
+        1543,
+        1019
       ]
     }
-  ]
+  ],
+  "generation_method": "Built-in image_gen; grouped reference pages; individual track crops.",
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "canvas_policy": "Render native_layout_size with original image/font layer geometry, then scale uniformly with contain and center the complete page on1200x1200 white canvas."
 }

@@ -1,0 +1,17 @@
+{
+  "tracks": [
+    "CD2_24",
+    "CD2_25",
+    "CD2_26",
+    "CD2_27"
+  ],
+  "prompt": "Fix ONLY bottom-left CD2_26 panel: orange pointing icon currently overlaps '4. chicken' label. Move ALL four food drawings and their label row upward about 50 pixels to create a separate white bottom margin. In bottom margin place small orange pointing icon at right below the labels. Entire exact '4. chicken' must be fully visible with white space between label and mascot. Keep label font size and other three panels unchanged.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch2-fix1.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-3641506b-f633-4776-abae-32422431e226.png",
+  "status": "reviewed_selected",
+  "review": "All labels fully visible and orange pointing mascot separated in bottom margin.",
+  "local_result": "assets/batches/batch2.png"
+}

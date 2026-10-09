@@ -1,0 +1,23 @@
+{
+  "unit": 2,
+  "id": "batch5",
+  "tracks": [
+    "CD1_35"
+  ],
+  "prompt": "Regenerate ONE complete square English textbook lesson page, high resolution. Polished children's textbook cartoon crisp outlines soft shading, all source instructional content, big clear accurate English, full objects, no cropped parts. Correct title B. Question and answer. Track badge CD1 35. No quiz text or answer choices.\nB. Question and answer. Girl curly orange hair/yellow shirt/red pants asks 'What is it?' boy brown hair/white green-striped shirt/blue pants holds green toy car over shopping bag and replies 'It's a green car.' Room scene. Numbered objects exact source: 1 green car, 2 white teddy bear, 3 red yo-yo, 4 purple bicycle, 5 yellow jump rope, 6 orange toy car, 7 brown dog, 8 blue ball. White cat sleeping on purple sofa and small pink ball are background unnumbered. Numbers immediately beside correct toy. Preserve all objects and colors.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_35.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: exact eight numbered toy/animal colors, dialogue, unnumbered cat and pink ball retained.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "5ec2ee62c32f8a601963efa83e02c1712dac3fa77a24e39f6f86ed13b8d418af"
+}

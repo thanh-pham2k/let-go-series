@@ -1,111 +1,185 @@
 {
   "result": "pass",
   "item_count": 17,
-  "webp_total_bytes": 1533212,
+  "webp_total_bytes": 1976904,
   "checks": [
     {
       "track": "CD1_02",
       "status": "pass",
-      "webp_bytes": 117344,
-      "png_sha256": "1ca5c075deb186aa602ad19ec0a1fcdb4ad8e60cc81a8d0ab3e22d543b812271"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 134236,
+      "png_sha256": "b1733a8d26f75ebf58bef0fb84e4abd8f75e163f300f2b814f8b90d672d0377e"
     },
     {
       "track": "CD1_03",
       "status": "pass",
-      "webp_bytes": 44134,
-      "png_sha256": "309d674d81222dfcd45aa5421496a5948f9900a06d09d74ff127cb090ec8dbc5"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 84952,
+      "png_sha256": "a92a8aa6c039d0290b0b7ff82e05935a816aa2f21550f4580be88cb7bfdd9618"
     },
     {
       "track": "CD1_04",
       "status": "pass",
-      "webp_bytes": 108988,
-      "png_sha256": "9328073f16981be06549597fa17bad945fefaa59f3666343e874e6cada6d7466"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 128146,
+      "png_sha256": "e877a70cd36f4cc4790c1130db45ec758da00b28d8972c7d6335cec1c284d7e3"
     },
     {
       "track": "CD1_05",
       "status": "pass",
-      "webp_bytes": 65830,
-      "png_sha256": "014deb26f2be1ab462656f37714dfec6199dcb61955e316acadc6915be752e7f"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 88600,
+      "png_sha256": "875a70b439ed7040c7d7b53a65ddf064c313939fa4d3d9696b4990b9bc4eae5d"
     },
     {
       "track": "CD1_06",
       "status": "pass",
-      "webp_bytes": 66364,
-      "png_sha256": "6d9936ebfbd79a33f3ed205597d91687d3d69db32cce9ab30429e3dc0efbbe54"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 92428,
+      "png_sha256": "65835af690181fdc34fc3496c7b3e909a17c97e96ca6107eef6910363e956c99"
     },
     {
       "track": "CD1_07",
       "status": "pass",
-      "webp_bytes": 84022,
-      "png_sha256": "545355df8239ecefabb8638ef09b387ef2184a7c7321177f9ba49a28e005771f"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 136506,
+      "png_sha256": "deb233da85c81a11ebe3e7b82d5de8ff74c541f6c40d02fd738dd77937044d69"
     },
     {
       "track": "CD1_08",
       "status": "pass",
-      "webp_bytes": 85544,
-      "png_sha256": "587cfee6a3a492645432c95ac7e8c9345efb61284d92aac48aec2eb20df6fd58"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 137814,
+      "png_sha256": "5f65d231455402e5657a030ff24fc3604c6fb98991b54b33f2ac7d641b529680"
     },
     {
       "track": "CD1_09",
       "status": "pass",
-      "webp_bytes": 178384,
-      "png_sha256": "c3d70fe53b5040262920b38d0ea652b235e1d2f457b736afe827b10b06fa37f9"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 157474,
+      "png_sha256": "9457b76a5be1559c036b878094e30d55c035784788d4cb3941ea5a36e3c1d95d"
     },
     {
       "track": "CD1_10",
       "status": "pass",
-      "webp_bytes": 40110,
-      "png_sha256": "bda708f672db3d7f770dac8095a475a84c54a999951cdc9f8b18bea4537888ea"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 98364,
+      "png_sha256": "ed31d9c4bfc3b8ea0b70cf65b6cae48b2cd76638dc746c3630114e504ca66534"
     },
     {
       "track": "CD1_11",
       "status": "pass",
-      "webp_bytes": 102160,
-      "png_sha256": "6d09bd2b3b36dde6c497a9e82717a136e0ee05845f134edb9ae47cd83b5292f4"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 105590,
+      "png_sha256": "c47a2b5a8be9f68b4a2d362a605de97b3c8f248b44e016553ffbc2384a3f995f"
     },
     {
       "track": "CD1_12",
       "status": "pass",
-      "webp_bytes": 103742,
-      "png_sha256": "1c0f627c20e8124255b8eb78589f0b3f1d0ae5dc19e69251577d301169b62d63"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 105028,
+      "png_sha256": "88714ea938f7660542c457a37567d8c691b8067d53c491134f08726f395f9bb8"
     },
     {
       "track": "CD1_13",
       "status": "pass",
-      "webp_bytes": 184708,
-      "png_sha256": "a5bc710807d166927b98fa48798eec05216f5419f0293b92d4ea14ffcb405c3f"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 220142,
+      "png_sha256": "87a2317a41a7aea93c040a5b7ef07634750a165c2190a42752d74f341febc17f"
     },
     {
       "track": "CD1_14",
       "status": "pass",
-      "webp_bytes": 45176,
-      "png_sha256": "75a46229e8736197fd27f7ae79ae87654e333bdf5cf4ba19436a6fac49fa5ff3"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 129784,
+      "png_sha256": "ff39f5fadbfa67e6b18c9bfc196827c1daf381d130efe0eea33c5939aa2cf26c"
     },
     {
       "track": "CD1_15",
       "status": "pass",
-      "webp_bytes": 34568,
-      "png_sha256": "5bab8d967b2dcd0b5af4fa6ad9ae920cd86351d124442c401c566a66a6d3471e"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 35044,
+      "png_sha256": "d7cee8b8d0360cf321f7a26fe285d71ae55457c1d647130becd116f682c57316"
     },
     {
       "track": "CD1_16",
       "status": "pass",
-      "webp_bytes": 33374,
-      "png_sha256": "2c045effb0a91c167f8793fdd59aebbe170f6f65c3b3edc7c8899128d41d60c3"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 33278,
+      "png_sha256": "d8fe8177b3c2e51a8fe61b66a5a20e5b35d917ca62929d985a3954f08678f8bf"
     },
     {
       "track": "CD1_17",
       "status": "pass",
-      "webp_bytes": 106756,
-      "png_sha256": "9278c4166169cd66e5a69ae72337f4771f22d916ee0cd411ed8e6ef65f066c13"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 143334,
+      "png_sha256": "686a3804397204046f6715601125fa289ba18fde7e3cbeb708ce1d7bd0f28ada"
     },
     {
       "track": "CD1_18",
       "status": "pass",
-      "webp_bytes": 132008,
-      "png_sha256": "844bf27c2c87b84b2aaad7d56dfd26a12eb47146a9dd90c23c7a739be153ad91"
+      "size": [
+        1200,
+        1200
+      ],
+      "webp_bytes": 146184,
+      "png_sha256": "b8fedc0abf143276ca4eb8eef1b91beaf86d241fe001d572b0e099ca881a90f3"
     }
   ],
-  "visual_review": "All 17 exported pages reviewed as contact sheet; lyrics, numbered toy scenes and four-child answer scene reviewed at full size. Car marker corrected after review.",
-  "audio_validation": "File identity and existence checked against source CD1 tracks; spoken content not transcribed or independently audited."
+  "source_validation": "References verified byte-for-byte against Git HEAD; original ZIP absent in this checkout.",
+  "visual_review": "V2 grouped sheets reviewed against all 17 source references; exported crops reviewed in preview. Source dialogue, vocabulary, song lyrics, object numbers, names and blank answers retained. Added vocabulary labels on CD1_10/14. Alphabet typography rendered and checked deterministically.",
+  "audio_validation": "File identity and existence checked against source CD1 tracks; spoken content not transcribed or independently audited.",
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "normalization": "Native editable layers rendered at original layout size; complete page uniformly scaled and centered on white1200x1200 canvas. No clipping or nonuniform stretching."
 }

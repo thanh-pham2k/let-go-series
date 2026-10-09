@@ -1,0 +1,1391 @@
+{
+  "review": "1-2",
+  "source_pdf": "Review 1-2.pdf",
+  "tracks": [
+    "CD1_36",
+    "CD1_37"
+  ],
+  "pattern": [
+    "Vocabulary Master",
+    "Listen & Understand",
+    "Fill & Recall",
+    "Build & Match",
+    "Final Boss"
+  ],
+  "questions": [
+    {
+      "id": "R12-C1-01",
+      "challenge": 1,
+      "prompt": "🖼️ô tô ở cặp1a. Chọn từ/cụm từ đúng.",
+      "answer": "car",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ball"
+        },
+        {
+          "id": "B",
+          "text": "car"
+        },
+        {
+          "id": "C",
+          "text": "bicycle"
+        },
+        {
+          "id": "D",
+          "text": "train"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R12-C1-02",
+      "challenge": 1,
+      "prompt": "🖼️đoàn tàu ở cặp1b. Chọn từ/cụm từ đúng.",
+      "answer": "train",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "train"
+        },
+        {
+          "id": "B",
+          "text": "car"
+        },
+        {
+          "id": "C",
+          "text": "ball"
+        },
+        {
+          "id": "D",
+          "text": "bicycle"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C1-03",
+      "challenge": 1,
+      "prompt": "🖼️xe đạp ở cặp2a. Chọn từ/cụm từ đúng.",
+      "answer": "bicycle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ball"
+        },
+        {
+          "id": "B",
+          "text": "bicycle"
+        },
+        {
+          "id": "C",
+          "text": "train"
+        },
+        {
+          "id": "D",
+          "text": "car"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R12-C1-04",
+      "challenge": 1,
+      "prompt": "🖼️quả bóng ở cặp2b. Chọn từ/cụm từ đúng.",
+      "answer": "ball",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "car"
+        },
+        {
+          "id": "B",
+          "text": "train"
+        },
+        {
+          "id": "C",
+          "text": "ball"
+        },
+        {
+          "id": "D",
+          "text": "bicycle"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C1-05",
+      "challenge": 1,
+      "prompt": "🖼️ô màu xanh lá ở cặp3a. Chọn từ/cụm từ đúng.",
+      "answer": "green",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "green"
+        },
+        {
+          "id": "B",
+          "text": "purple"
+        },
+        {
+          "id": "C",
+          "text": "yellow"
+        },
+        {
+          "id": "D",
+          "text": "red"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C1-06",
+      "challenge": 1,
+      "prompt": "🖼️ô màu đỏ ở cặp3b. Chọn từ/cụm từ đúng.",
+      "answer": "red",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yellow"
+        },
+        {
+          "id": "B",
+          "text": "purple"
+        },
+        {
+          "id": "C",
+          "text": "red"
+        },
+        {
+          "id": "D",
+          "text": "green"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C1-07",
+      "challenge": 1,
+      "prompt": "🖼️ô màu tím ở cặp4a. Chọn từ/cụm từ đúng.",
+      "answer": "purple",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "green"
+        },
+        {
+          "id": "B",
+          "text": "red"
+        },
+        {
+          "id": "C",
+          "text": "purple"
+        },
+        {
+          "id": "D",
+          "text": "yellow"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C1-08",
+      "challenge": 1,
+      "prompt": "🖼️ô màu vàng ở cặp4b. Chọn từ/cụm từ đúng.",
+      "answer": "yellow",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "yellow"
+        },
+        {
+          "id": "B",
+          "text": "purple"
+        },
+        {
+          "id": "C",
+          "text": "green"
+        },
+        {
+          "id": "D",
+          "text": "red"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C1-09",
+      "challenge": 1,
+      "prompt": "🖼️tờ giấy, hình1 trang School Supplies. Chọn từ/cụm từ đúng.",
+      "answer": "paper",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "paper"
+        },
+        {
+          "id": "B",
+          "text": "paint"
+        },
+        {
+          "id": "C",
+          "text": "scissors"
+        },
+        {
+          "id": "D",
+          "text": "tape"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C1-10",
+      "challenge": 1,
+      "prompt": "🖼️chiếc kéo, hình2. Chọn từ/cụm từ đúng.",
+      "answer": "scissors",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "tape"
+        },
+        {
+          "id": "B",
+          "text": "glue"
+        },
+        {
+          "id": "C",
+          "text": "paint"
+        },
+        {
+          "id": "D",
+          "text": "scissors"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R12-C1-11",
+      "challenge": 1,
+      "prompt": "🖼️lọ keo có đầu nhọn, hình3. Chọn từ/cụm từ đúng.",
+      "answer": "glue",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "scissors"
+        },
+        {
+          "id": "B",
+          "text": "tape"
+        },
+        {
+          "id": "C",
+          "text": "paper"
+        },
+        {
+          "id": "D",
+          "text": "glue"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R12-C1-12",
+      "challenge": 1,
+      "prompt": "🖼️lọ màu vẽ và cọ, hình4. Chọn từ/cụm từ đúng.",
+      "answer": "paint",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "glue"
+        },
+        {
+          "id": "B",
+          "text": "scissors"
+        },
+        {
+          "id": "C",
+          "text": "paint"
+        },
+        {
+          "id": "D",
+          "text": "tape"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C1-13",
+      "challenge": 1,
+      "prompt": "🖼️hộp băng keo, hình5. Chọn từ/cụm từ đúng.",
+      "answer": "tape",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "scissors"
+        },
+        {
+          "id": "B",
+          "text": "paper"
+        },
+        {
+          "id": "C",
+          "text": "tape"
+        },
+        {
+          "id": "D",
+          "text": "glue"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C1-14",
+      "challenge": 1,
+      "prompt": "🖼️bé đứng dậy ở cặp5a. Chọn từ/cụm từ đúng.",
+      "answer": "stand up",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "turn around"
+        },
+        {
+          "id": "B",
+          "text": "stand up"
+        },
+        {
+          "id": "C",
+          "text": "come here"
+        },
+        {
+          "id": "D",
+          "text": "sit down"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R12-C1-15",
+      "challenge": 1,
+      "prompt": "🖼️bé ngồi xuống ở cặp5b. Chọn từ/cụm từ đúng.",
+      "answer": "sit down",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "stand up"
+        },
+        {
+          "id": "B",
+          "text": "come here"
+        },
+        {
+          "id": "C",
+          "text": "turn around"
+        },
+        {
+          "id": "D",
+          "text": "sit down"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R12-C1-16",
+      "challenge": 1,
+      "prompt": "🖼️bé đi về phía cô giáo ở cặp6a. Chọn từ/cụm từ đúng.",
+      "answer": "come here",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "turn around"
+        },
+        {
+          "id": "B",
+          "text": "stand up"
+        },
+        {
+          "id": "C",
+          "text": "sit down"
+        },
+        {
+          "id": "D",
+          "text": "come here"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R12-C1-17",
+      "challenge": 1,
+      "prompt": "🖼️bé quay người lại ở cặp6b. Chọn từ/cụm từ đúng.",
+      "answer": "turn around",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "stand up"
+        },
+        {
+          "id": "B",
+          "text": "come here"
+        },
+        {
+          "id": "C",
+          "text": "turn around"
+        },
+        {
+          "id": "D",
+          "text": "sit down"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C2-01",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "car",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "car"
+        },
+        {
+          "id": "B",
+          "text": "ball"
+        },
+        {
+          "id": "C",
+          "text": "train"
+        },
+        {
+          "id": "D",
+          "text": "bicycle"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "car"
+    },
+    {
+      "id": "R12-C2-02",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "train",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "bicycle"
+        },
+        {
+          "id": "B",
+          "text": "ball"
+        },
+        {
+          "id": "C",
+          "text": "car"
+        },
+        {
+          "id": "D",
+          "text": "train"
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "train"
+    },
+    {
+      "id": "R12-C2-03",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "green",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "green"
+        },
+        {
+          "id": "B",
+          "text": "red"
+        },
+        {
+          "id": "C",
+          "text": "purple"
+        },
+        {
+          "id": "D",
+          "text": "yellow"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "green"
+    },
+    {
+      "id": "R12-C2-04",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "red",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "red"
+        },
+        {
+          "id": "B",
+          "text": "purple"
+        },
+        {
+          "id": "C",
+          "text": "green"
+        },
+        {
+          "id": "D",
+          "text": "yellow"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "red"
+    },
+    {
+      "id": "R12-C2-05",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "paper",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "paint"
+        },
+        {
+          "id": "B",
+          "text": "tape"
+        },
+        {
+          "id": "C",
+          "text": "paper"
+        },
+        {
+          "id": "D",
+          "text": "scissors"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "paper"
+    },
+    {
+      "id": "R12-C2-06",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "scissors",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "paper"
+        },
+        {
+          "id": "B",
+          "text": "glue"
+        },
+        {
+          "id": "C",
+          "text": "tape"
+        },
+        {
+          "id": "D",
+          "text": "scissors"
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "scissors"
+    },
+    {
+      "id": "R12-C2-07",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "stand up",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "come here"
+        },
+        {
+          "id": "B",
+          "text": "turn around"
+        },
+        {
+          "id": "C",
+          "text": "sit down"
+        },
+        {
+          "id": "D",
+          "text": "stand up"
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "stand up"
+    },
+    {
+      "id": "R12-C2-08",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "sit down",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "sit down"
+        },
+        {
+          "id": "B",
+          "text": "come here"
+        },
+        {
+          "id": "C",
+          "text": "turn around"
+        },
+        {
+          "id": "D",
+          "text": "stand up"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "sit down"
+    },
+    {
+      "id": "R12-C2-09",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "đứng lên",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "lại đây"
+        },
+        {
+          "id": "B",
+          "text": "đứng lên"
+        },
+        {
+          "id": "C",
+          "text": "ngồi xuống"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "stand up"
+    },
+    {
+      "id": "R12-C2-10",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "ngồi xuống",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "lại đây"
+        },
+        {
+          "id": "B",
+          "text": "đứng lên"
+        },
+        {
+          "id": "C",
+          "text": "ngồi xuống"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "sit down"
+    },
+    {
+      "id": "R12-C2-11",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "lại đây",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "lại đây"
+        },
+        {
+          "id": "B",
+          "text": "ngồi xuống"
+        },
+        {
+          "id": "C",
+          "text": "đứng lên"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "come here"
+    },
+    {
+      "id": "R12-C2-12",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "quay người lại",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "quay người lại"
+        },
+        {
+          "id": "B",
+          "text": "ngồi xuống"
+        },
+        {
+          "id": "C",
+          "text": "đứng lên"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "turn around"
+    },
+    {
+      "id": "R12-C2-13",
+      "challenge": 2,
+      "prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "answer": "Tôi có giấy.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tôi có kéo."
+        },
+        {
+          "id": "B",
+          "text": "Tôi có giấy."
+        },
+        {
+          "id": "C",
+          "text": "Tôi có băng keo."
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "I have paper."
+    },
+    {
+      "id": "R12-C3-01",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `c_r`.",
+      "answer": "car",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-02",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `tr_in`.",
+      "answer": "train",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-03",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `b_cycle`.",
+      "answer": "bicycle",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-04",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `b_ll`.",
+      "answer": "ball",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-05",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `gr_en`.",
+      "answer": "green",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-06",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `r_d`.",
+      "answer": "red",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-07",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `p_rple`.",
+      "answer": "purple",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-08",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `y_llow`.",
+      "answer": "yellow",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-09",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `p_per`.",
+      "answer": "paper",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-10",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `sc_ssors`.",
+      "answer": "scissors",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-11",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `gl_e`.",
+      "answer": "glue",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-12",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `p_int`.",
+      "answer": "paint",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-13",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `t_pe`.",
+      "answer": "tape",
+      "type": "spelling"
+    },
+    {
+      "id": "R12-C3-14",
+      "challenge": 3,
+      "prompt": "🖼️tờ giấy. Điền: `I have ________.`.",
+      "answer": "paper",
+      "type": "short"
+    },
+    {
+      "id": "R12-C3-15",
+      "challenge": 3,
+      "prompt": "🖼️đứng lên. Điền: `________ up.`.",
+      "answer": "Stand",
+      "type": "short"
+    },
+    {
+      "id": "R12-C3-16",
+      "challenge": 3,
+      "prompt": "🖼️ngồi xuống. Điền: `Sit ________.`.",
+      "answer": "down",
+      "type": "short"
+    },
+    {
+      "id": "R12-C3-17",
+      "challenge": 3,
+      "prompt": "🖼️đi về phía người gọi. Điền: `Come ________.`.",
+      "answer": "here",
+      "type": "short"
+    },
+    {
+      "id": "R12-C3-18",
+      "challenge": 3,
+      "prompt": "🖼️quay người. Điền: `Turn ________.`.",
+      "answer": "around",
+      "type": "short"
+    },
+    {
+      "id": "R12-C3-19",
+      "challenge": 3,
+      "prompt": "Nghe câu mẫu và điền: `I have ________.`",
+      "answer": "paper",
+      "type": "short",
+      "audio_script": "I have paper."
+    },
+    {
+      "id": "R12-C4-01",
+      "challenge": 4,
+      "prompt": "Các thẻ: `have / I / paper.`.",
+      "answer": "I have paper.",
+      "type": "order"
+    },
+    {
+      "id": "R12-C4-02",
+      "challenge": 4,
+      "prompt": "Các thẻ: `up. / Stand`.",
+      "answer": "Stand up.",
+      "type": "order"
+    },
+    {
+      "id": "R12-C4-03",
+      "challenge": 4,
+      "prompt": "Các thẻ: `down. / Sit`.",
+      "answer": "Sit down.",
+      "type": "order"
+    },
+    {
+      "id": "R12-C4-04",
+      "challenge": 4,
+      "prompt": "Các thẻ: `here. / Come`.",
+      "answer": "Come here.",
+      "type": "order"
+    },
+    {
+      "id": "R12-C4-05",
+      "challenge": 4,
+      "prompt": "Các thẻ: `around. / Turn`.",
+      "answer": "Turn around.",
+      "type": "order"
+    },
+    {
+      "id": "R12-C4-06",
+      "challenge": 4,
+      "prompt": "🖼️ô tô ở cặp1a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "B — car",
+      "type": "match",
+      "accepted_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": "R12-C4-07",
+      "challenge": 4,
+      "prompt": "🖼️ô màu xanh lá ở cặp3a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "D — green",
+      "type": "match",
+      "accepted_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": "R12-C4-08",
+      "challenge": 4,
+      "prompt": "🖼️tờ giấy, hình1 trang School Supplies. Điền chữ cái của thẻ phù hợp.",
+      "answer": "A — paper",
+      "type": "match",
+      "accepted_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": "R12-C4-09",
+      "challenge": 4,
+      "prompt": "🖼️bé đứng dậy ở cặp5a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "C — stand up",
+      "type": "match",
+      "accepted_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": "R12-C4-10",
+      "challenge": 4,
+      "prompt": "Nhìn cặp1a và ô màu3a. Chọn cặp từ gọi đúng hai hình.",
+      "answer": "car / green",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "car / red"
+        },
+        {
+          "id": "B",
+          "text": "car / green"
+        },
+        {
+          "id": "C",
+          "text": "train / green"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R12-C4-11",
+      "challenge": 4,
+      "prompt": "Nhìn cặp2b và ô màu4b. Chọn cặp từ đúng.",
+      "answer": "ball / yellow",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ball / purple"
+        },
+        {
+          "id": "B",
+          "text": "ball / yellow"
+        },
+        {
+          "id": "C",
+          "text": "bicycle / yellow"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R12-C4-12",
+      "challenge": 4,
+      "prompt": "Nhìn hình3 School Supplies và bé ở cặp5b. Chọn cặp từ đúng.",
+      "answer": "glue / sit down",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "glue / sit down"
+        },
+        {
+          "id": "B",
+          "text": "paint / sit down"
+        },
+        {
+          "id": "C",
+          "text": "glue / stand up"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C4-13",
+      "challenge": 4,
+      "prompt": "Nhìn hộp băng keo và hình6b. Chọn cặp đúng.",
+      "answer": "tape / turn around",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "paper / turn around"
+        },
+        {
+          "id": "B",
+          "text": "tape / turn around"
+        },
+        {
+          "id": "C",
+          "text": "tape / come here"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R12-C5-01",
+      "challenge": 5,
+      "prompt": "Nhìn cặp1a và ô màu3a. Chọn cặp từ gọi đúng hai hình.",
+      "answer": "car / green",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "car / red"
+        },
+        {
+          "id": "B",
+          "text": "train / green"
+        },
+        {
+          "id": "C",
+          "text": "car / green"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R12-C5-02",
+      "challenge": 5,
+      "prompt": "Nhìn cặp2b và ô màu4b. Chọn cặp từ đúng.",
+      "answer": "ball / yellow",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ball / yellow"
+        },
+        {
+          "id": "B",
+          "text": "bicycle / yellow"
+        },
+        {
+          "id": "C",
+          "text": "ball / purple"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C5-03",
+      "challenge": 5,
+      "prompt": "Nhìn hình3 School Supplies và bé ở cặp5b. Chọn cặp từ đúng.",
+      "answer": "glue / sit down",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "glue / sit down"
+        },
+        {
+          "id": "B",
+          "text": "glue / stand up"
+        },
+        {
+          "id": "C",
+          "text": "paint / sit down"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R12-C5-04",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: ô tô ở cặp1a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "car",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-05",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: đoàn tàu ở cặp1b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "train",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-06",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: xe đạp ở cặp2a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "bicycle",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-07",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: quả bóng ở cặp2b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "ball",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-08",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: ô màu xanh lá ở cặp3a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "green",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-09",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: ô màu đỏ ở cặp3b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "red",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-10",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: ô màu tím ở cặp4a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "purple",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-11",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: ô màu vàng ở cặp4b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "yellow",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-12",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: tờ giấy, hình1 trang School Supplies. Bé tự nói từ/cụm phù hợp.",
+      "answer": "paper",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-13",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: chiếc kéo, hình2. Bé tự nói từ/cụm phù hợp.",
+      "answer": "scissors",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-14",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: lọ keo có đầu nhọn, hình3. Bé tự nói từ/cụm phù hợp.",
+      "answer": "glue",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-15",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: lọ màu vẽ và cọ, hình4. Bé tự nói từ/cụm phù hợp.",
+      "answer": "paint",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-16",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: hộp băng keo, hình5. Bé tự nói từ/cụm phù hợp.",
+      "answer": "tape",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-17",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đứng dậy ở cặp5a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "stand up",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-18",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé ngồi xuống ở cặp5b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "sit down",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-19",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đi về phía cô giáo ở cặp6a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "come here",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-20",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé quay người lại ở cặp6b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "turn around",
+      "type": "production"
+    },
+    {
+      "id": "R12-C5-21",
+      "challenge": 5,
+      "prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Người lớn đưa tờ giấy cho bé và ra hiệu giới thiệu món mình có.",
+      "answer": "I have paper.",
+      "type": "production"
+    }
+  ],
+  "audio_notes": [
+    {
+      "filename": "r12_car.mp3",
+      "script": "car",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_train.mp3",
+      "script": "train",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_bicycle.mp3",
+      "script": "bicycle",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_ball.mp3",
+      "script": "ball",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_green.mp3",
+      "script": "green",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_red.mp3",
+      "script": "red",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_purple.mp3",
+      "script": "purple",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_yellow.mp3",
+      "script": "yellow",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_paper.mp3",
+      "script": "paper",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_scissors.mp3",
+      "script": "scissors",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_glue.mp3",
+      "script": "glue",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_paint.mp3",
+      "script": "paint",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_tape.mp3",
+      "script": "tape",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_stand_up.mp3",
+      "script": "stand up",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_sit_down.mp3",
+      "script": "sit down",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_come_here.mp3",
+      "script": "come here",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_turn_around.mp3",
+      "script": "turn around",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r12_i_have_paper.mp3",
+      "script": "I have paper.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    }
+  ],
+  "audio_status": "not independently transcribed",
+  "source_audit": "Giữ come here ở hình6a, không đổi thành go. Lọ keo/hộp băng keo dùng hình nguồn, không dùng emoji chai mỹ phẩm/giấy vệ sinh. Cặp đồ chơi–màu là ghép hai hình riêng; không khẳng định ô tô nguồn có màu xanh lá. Câu nguồn chỉ có I have paper.; không ghi I have scissors/glue/paint/tape là câu đã in trong PDF."
+}

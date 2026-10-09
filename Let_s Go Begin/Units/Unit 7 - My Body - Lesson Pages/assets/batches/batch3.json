@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    "CD2_45",
+    "CD2_46",
+    "CD2_47",
+    "CD2_48"
+  ],
+  "prompt": "Four independent square textbook lesson pages 2x2 sheet, straight white gutters, bright clear cartoon soft shading. Title Unit 7 · My Body each, separate track. New artwork based on sources, retain content precisely. No quizzes/ invented lyrics.\nTL CD2_45 \"D. Listen, chant, and do.\" Four large body detail panels from source in order: head boy with arrow at head; shoulders green-shirt torso arrows BOTH shoulders; knees blue shorts socks white shoes arrows precisely both kneecaps; toes barefoot closeup arrow at toes. Small printed labels head / shoulders / knees / toes are educational adaptations, not lyrics. Do not print any chant lyrics.\nTR CD2_46 \"A. Words.\" Header two friendly cat mascots: gray cat asks \"What can you do?\" orange cat touches nose says \"I can touch my nose.\" Four numbered portraits: \"1. eyes\" brown-haired girl points to outer corners of both eyes; \"2. ears\" red-haired boy blue shirt glasses cap points finger directly to ear; \"3. mouth\" blonde girl blue sweater orange scarf points directly to mouth; \"4. nose\" dark-skinned curly-haired boy yellow jacket points directly to NOSE, not eye.\nBL CD2_47 \"B. Listen and point.\" Same FOUR numbered portraits and labels adapted from same page A: 1. eyes girl points to both eyes; 2. ears boy points directly to ear; 3. mouth girl points directly to mouth; 4. nose boy points directly to nose. Include source header dialogue \"What can you do?\" \"I can touch my nose.\" No confusion eye/ear/nose.\nBR CD2_48 \"C. Question and answer.\" Stage piano red curtain: woman teacher pink skirt left asks \"What can you do?\" Speech tail to teacher. Four pupils numbered 1 2 3 4: 1 blonde boy green sweater touches both eyes with hands near eyes, replies \"I can touch my eyes.\" tail to boy 1; 2 brown-haired girl red shirt yellow skirt touches both ears; 3 boy blue sweater beige trousers touches mouth; 4 dark-skinned girl orange shirt blue shorts touches nose. Natural five-finger hands, no extra limbs.",
+  "refs": [
+    "source-pages/page-04.png",
+    "source-pages/page-05.png",
+    "source-pages/page-06.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-2b970358-1b5a-49e4-9136-f593af820946.png"
+  },
+  "status": "reviewed",
+  "visual_review": "Compared with source pp59-61: four body arrows and labels, numbered eyes/ears/mouth/nose correct, mascot model dialogue retained, teacher asks and boy1 answers, pupils1-4 touch corresponding parts. No invented chant lyrics.",
+  "sheet_size": [
+    1448,
+    1086
+  ],
+  "split": [
+    725,
+    555
+  ],
+  "sha256": "f5a5e40785747d4f27b84800571f21ece7c422359880bf269562ba63f73fc73f",
+  "selected_asset": "assets/batches/batch3.png",
+  "fix_logs": [],
+  "final_sha256": "f5a5e40785747d4f27b84800571f21ece7c422359880bf269562ba63f73fc73f"
+}

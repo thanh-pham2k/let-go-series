@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    "CD2_68"
+  ],
+  "prompt": "Edit only the lower zoo \"C. Find the letters.\" scene on this CD2_68 page. Add a clear small lowercase y beside the large uppercase Y near the green yarn ball at bottom of fox enclosure. Ensure hidden letters include BOTH X x, Y y, Z z, with lowercase x already present and lowercase z visible on small zebra sign near fence. Do not circle letters or add answers. Preserve ALL top labels X x fox Y y yarn Z z zebra, images, children, colors, page title and number exactly.",
+  "refs": [
+    "pages/png/CD2_68.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_68": {
+      "box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "visual_review": "X x fox, Y y blue yarn, Z z zebra; 1-3 labels; Find the letters zoo scene fox/green yarn and zebra/children retained; answers unmarked."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "38ce91a468453841c2d24a252432436306f37214d81c70c9773b333490f2e7ae",
+  "result_file": "repair68.png"
+}

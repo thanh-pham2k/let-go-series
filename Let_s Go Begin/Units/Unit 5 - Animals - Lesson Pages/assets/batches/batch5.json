@@ -1,0 +1,23 @@
+{
+  "unit": 5,
+  "id": "batch5",
+  "tracks": [
+    "CD2_18",
+    "CD2_19"
+  ],
+  "prompt": "Generate TWO independent square textbook lesson pages side by side with straight vertical white gutter. Bright textbook cartoon, crisp outlines, soft shading. Accurate titles and CD2 badges. Exact counts; group IDs are NOT counts. No quiz. \nPanel 1 CD2_18: A. Count. Toyshop two children looking at trains. Speech 'Let's count.' / '1 train, 2 trains, 3 trains.' EXACTLY THREE locomotives each with carriages along one track, not count carriages as trains. GroupIDs1trains3,2ball1,3teddy bears6 on two shelves3+3,4yo-yos9 in3x3display. All objects distinct, no added counted toys.\nPanel 2 CD2_19: B. Question and answer. Girl pinkshirt/turquoise apron asks boy purple white-striped shirt 'How many cars?' boy '8 cars.' EXACTLY EIGHT toy cars clearly separated on floor. Other groupIDs source:1cars8,2blue rectangular paper cards10 on desk(5+5),3jump ropes4 on wall,4rabbit toys2 on counter,5balls5 on shelves,6one red bicycle foreground. Accurate counts, groupIDs not quantities.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_18.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_19.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "partially_used",
+  "final_tracks": [
+    "CD2_18"
+  ],
+  "superseded_tracks": [
+    "CD2_19"
+  ],
+  "visual_review": "Only final_tracks retained; incorrect count panels replaced with single-page built-in jobs. Actual crop boxes in manifest.",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-81ca9c76-66a7-49a8-bd79-8d810953d34f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

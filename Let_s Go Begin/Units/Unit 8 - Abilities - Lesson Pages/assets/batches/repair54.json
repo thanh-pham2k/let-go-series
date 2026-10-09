@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    "CD2_54"
+  ],
+  "prompt": "Redraw this single CD2_54 A. Let's talk lesson page with identical children and all four exact sentences, but clear separate comic panels and correct speakers. Top scene red-haired green-white striped boy invites three friends with bubble \"Let's play.\" Below three panels: black-haired yellow-shirt girl holds soccer ball and says \"OK. Let's play ball.\"; curly brown-haired navy-white shirt boy playing tag says \"OK. Let's play tag.\"; blonde glasses girl red dress holding rope says \"OK. Let's jump rope.\" EACH bubble tail points to the speaker in the same panel. Place bubble ABOVE own speaker, no overlap between panels. Keep original character clothing colors, four children, exact sentences, clean bright cartoon soft shading. Single square page with CD2 54 badge, title A. Let's talk.",
+  "refs": [
+    "assets/batches/CD2_54-edit-target.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_54": {
+      "box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "visual_review": "Four exact invitations/replies; speaker tails now identify striped boy, yellow-shirt girl, navy-shirt boy, red-dress girl. Rearranged as separate comic panels."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "767f684db2cc9213ec29c7341c98c331eedd89289a1b6e796b6c2ce3f7d25e07",
+  "result_file": "repair54.png"
+}

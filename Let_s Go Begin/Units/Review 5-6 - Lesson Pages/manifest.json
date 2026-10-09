@@ -1,0 +1,224 @@
+{
+  "schema_version": "2.0",
+  "review": "5-6",
+  "topic": "Listen and Review / The Weather",
+  "source_pdf": "../Review 5-6.pdf",
+  "source_item_count": 2,
+  "image_count": 2,
+  "image_fit": "contain",
+  "coordinate_system": "pixel boxes [x,y,width,height], top-left origin; crop boxes [left,top,right,bottom]",
+  "items": [
+    {
+      "track": "CD2_35",
+      "audio_key": "CD2-35",
+      "exercise": "A. Listen and circle.",
+      "pdf_page": 1,
+      "book_page": 54,
+      "source_pdf": "../Review 5-6.pdf",
+      "source_reference": "references/CD2_35.png",
+      "source_page": "source-pages/page-1.png",
+      "audio_file": "audio/Track35.mp3",
+      "output": {
+        "png": "pages/png/CD2_35.png",
+        "webp": "pages/webp/CD2_35.webp"
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_35-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "question": {
+        "id": "R5-6-CD2_35",
+        "prompt": "Ở lựa chọn 1a của hình Listen and circle, có bao nhiêu con mèo?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "2"
+          },
+          {
+            "id": "B",
+            "text": "3"
+          },
+          {
+            "id": "C",
+            "text": "4"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "lesson_specs": {
+        "pairs": [
+          {
+            "number": 1,
+            "a": "3 orange/yellow striped cats",
+            "b": "4 orange/yellow striped cats"
+          },
+          {
+            "number": 2,
+            "a": "2 brown rabbits",
+            "b": "5 brown rabbits"
+          },
+          {
+            "number": 3,
+            "a": "one white ice cream cone",
+            "b": "one yellow layered chocolate cake slice on blue plate"
+          },
+          {
+            "number": 4,
+            "a": "one bread slice",
+            "b": "one pink/yellow/blue bowl of white rice"
+          },
+          {
+            "number": 5,
+            "a": "one boy skipping",
+            "b": "same boy jumping with both feet off ground"
+          },
+          {
+            "number": 6,
+            "a": "3 children in a line",
+            "b": "same 3 children in a circle"
+          }
+        ],
+        "printed_text": [
+          "Units 5-6 Listen and Review",
+          "A. Listen and circle.",
+          "CD2 35",
+          "1.",
+          "2.",
+          "3.",
+          "4.",
+          "5.",
+          "6.",
+          "a",
+          "b",
+          "54"
+        ],
+        "source_answers": "Unknown; no original listening selections inferred or circled."
+      },
+      "adaptation_notes": [
+        "One full source page per audio item; no new sub-tracks.",
+        "Original choices remain unmarked. Quiz is supplementary visual recognition, not an answer key to original MP3.",
+        "Layout may be compacted to fit a square canvas; original order and semantic counts retained."
+      ],
+      "status": "reviewed",
+      "source_crop_box": [
+        1,
+        1,
+        885,
+        886
+      ],
+      "generation_batch": "batch1",
+      "visual_review": "Visually compared PDF page1/book54 with final 1200x1200 PNG and contact sheet: 1a three individually countable cats;1b four;2a two rabbits;2b five. 3a white cone/3b yellow layered cake blue plate;4a bread/4b pink yellow blue rice bowl.5a boy skipping one grounded foot/5b jumping both feet airborne.6a exactly3 children diagonally one behind another/6b same3 holding hands in circle, original clothing/glasses. Complete header/instruction/CD2_35, pair numbers1-6, twelve a/b labels/footer54 readable. Choices unmarked, no supplementary quiz printed, no gutter or clipped text/objects.",
+      "final_crop_review": "Inspected final PNG and full contact sheet after actual gutter crop and contain."
+    },
+    {
+      "track": "CD2_36",
+      "audio_key": "CD2-36",
+      "exercise": "A. Say these.",
+      "pdf_page": 2,
+      "book_page": 55,
+      "source_pdf": "../Review 5-6.pdf",
+      "source_reference": "references/CD2_36.png",
+      "source_page": "source-pages/page-2.png",
+      "audio_file": "audio/Track36.mp3",
+      "output": {
+        "png": "pages/png/CD2_36.png",
+        "webp": "pages/webp/CD2_36.webp"
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD2_36-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "question": {
+        "id": "R5-6-CD2_36",
+        "prompt": "Từ nào chỉ hình thời tiết có lá bay, khăn bay và cây nghiêng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "cloudy"
+          },
+          {
+            "id": "B",
+            "text": "windy"
+          },
+          {
+            "id": "C",
+            "text": "rainy"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "lesson_specs": {
+        "printed_text": [
+          "The Weather",
+          "A. Say these.",
+          "CD2 36",
+          "1. sunny",
+          "2. cloudy",
+          "3. windy",
+          "4. rainy",
+          "5. snowy",
+          "It's sunny.",
+          "55"
+        ],
+        "weather_semantics": {
+          "sunny": "orange sun blue sky upright green trees",
+          "cloudy": "gray/purple clouds; no wind or precipitation",
+          "windy": "flying leaves, scarf/hair in wind, bending trees; no rain or snow",
+          "rainy": "visible diagonal raindrops",
+          "snowy": "falling snow, snow piled on trees/ground/ledge; purple sweater girl shivering"
+        },
+        "same_page_activity": "Large sunny window scene and printed sentence retained using CD2_36 page audio context; no additional audio marker or invented track."
+      },
+      "adaptation_notes": [
+        "One full source page per audio item; no new sub-tracks.",
+        "Original choices remain unmarked. Quiz is supplementary visual recognition, not an answer key to original MP3.",
+        "Layout may be compacted to fit a square canvas; original order and semantic counts retained.",
+        "Large sunny background includes faint decorative white cloud shading; sunshine and lesson meaning unchanged."
+      ],
+      "status": "reviewed",
+      "source_crop_box": [
+        890,
+        1,
+        1773,
+        886
+      ],
+      "generation_batch": "batch1",
+      "visual_review": "Visually compared PDF page2/book55 with final 1200x1200 PNG and contact sheet: numbered labels1 sunny2 cloudy3 windy4 rainy5 snowy exact; original yellow house, blue shutters, pink curtains, ponytail girl/clothing retained. Sunny sun/upright trees, cloudy gray clouds/no wind or precipitation, windy moving scarf/hair/leaves/wind strokes and bent tree outlines, rainy visible raindrops, snowy white flakes/accumulation/purple shivering girl. Complete large sunny window scene and It's sunny. bubble retained; header/instruction/CD2_36/footer55 readable. No invented weather sentences, no supplementary quiz printed, no gutter or clipping. Slight decorative white clouds in large sunny sky; still clearly sunny, source scene composition compacted.",
+      "final_crop_review": "Inspected final PNG and full contact sheet after actual gutter crop and contain."
+    }
+  ]
+}

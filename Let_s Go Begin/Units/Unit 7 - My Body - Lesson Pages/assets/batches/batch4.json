@@ -1,0 +1,35 @@
+{
+  "tracks": [
+    "CD2_49",
+    "CD2_50",
+    "CD2_51",
+    "CD2_52"
+  ],
+  "prompt": "Create FOUR independent square textbook lesson pages in straight white-gutter 2x2 sheet. Bright clear children's textbook cartoon with soft shading. Unit 7 · My Body each cell plus own track. No quizzes, no invented lyrics.\nTL CD2_49 \"D. Listen, sing, and do.\" Exactly FOUR depictions of same boy orange shirt green trousers from source: standing touching NOSE; standing both hands touching SHOULDERS; bending down hands touching TOES; squatting hands touching KNEES. No printed lyrics because source has none. Also a clearly separated small practice inset adapted from source C same page: child both hands at EARS, label \"ears\" to support listening question. No new sung words.\nTR CD2_50 \"A. Sing and say.\" Full complete alphabet upper and lower case A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z. Reformat into four columns with seven/six entries, every pair exactly once in reading order; letters purple, Uu Vv Ww highlighted red. Large unobstructed typography.\nBL CD2_51 \"B. Letters and words.\" Upper half THREE cards: \"1. U u\" multicolor beach umbrella red yellow green blue canopy with sea sun shells, word \"umbrella\"; \"2. V v\" brown violin and bow, word \"violin\"; \"3. W w\" colorful blue strap analog wristwatch, word \"watch\". Lower half \"C. Find the letters.\" Toy shop girl purple coat green hat holding magnifying glass and basket; umbrella shelf marked uppercase U and lowercase u; violin shelf marked V and v; watch carousel marked W and w; basket printed \"Uu Vv Ww\". Six glyphs U u V v W w clearly visible, do not circle solutions, no filled answers.\nBR CD2_52 \"A. Sentences.\" Girl pink top navy trousers balancing on white play mat, hand flat touching red circle marked 1, says \"I can touch the red circle.\" Numbered source objects: 1 red circle directly under hand; 2 yellow toy train; 3 purple jump rope; 4 green crayon. Additional unnumbered yellow train, purple jump rope and blue teddy bear as source. No color changes. Natural arms/legs with hand actually contacting circle.",
+  "refs": [
+    "source-pages/page-06.png",
+    "source-pages/page-07.png",
+    "source-pages/page-08.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-7f16410d-0234-429f-ae29-10e744f0b3e1.png"
+  },
+  "status": "reviewed",
+  "visual_review": "Source pp61-63 checked: four correct body actions plus documented ears inset;26 complete alphabet pairs with redUuVvWw; umbrella/violin/watch numbering and labels; clock1-12 fixed and search lowercasev made smaller thanV via built-in edits; all six search glyphs present; red circle1 yellow train2 purple rope3 green crayon4, hand contacts circle.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "496050ee1e5c97c4d819752a1fdca9d2b527f34b4fffb1e2e3b9ff57087564e4",
+  "selected_asset": "assets/batches/batch4.png",
+  "fix_logs": [
+    "batch4-fix1.json",
+    "batch4-fix2.json"
+  ],
+  "final_sha256": "496050ee1e5c97c4d819752a1fdca9d2b527f34b4fffb1e2e3b9ff57087564e4"
+}

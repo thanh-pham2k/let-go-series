@@ -1,0 +1,147 @@
+{
+  "schema_version": "2.0",
+  "review": "1-2",
+  "topic": "Listen and Review / School Supplies",
+  "source_pdf": "Review 1-2.pdf",
+  "source_pdf_sha256": "950501317164166527f6c181a4d7fa51fbdbf670e78cac85b0223a96f93b10bd",
+  "source_item_count": 2,
+  "image_count": 2,
+  "image_fit": "contain",
+  "coordinate_system": "pixel boxes [x,y,width,height]",
+  "items": [
+    {
+      "track": "CD1_36",
+      "audio_key": "CD1-36",
+      "exercise": "A. Listen and circle.",
+      "pdf_page": 1,
+      "unit_pdf_page": 1,
+      "book_page": 18,
+      "source_reference": "references/CD1_36.png",
+      "source_page": "source-pages/page-1.png",
+      "audio_file": "audio/Track36.mp3",
+      "output": {
+        "png": "pages/png/CD1_36.png",
+        "webp": "pages/webp/CD1_36.webp"
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_36-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source_crop_box": [
+        0,
+        0,
+        887,
+        887
+      ],
+      "question": {
+        "prompt": "Ở cặp 3, mảng màu bên trái (a) là màu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "green"
+          },
+          {
+            "id": "B",
+            "text": "red"
+          },
+          {
+            "id": "C",
+            "text": "purple"
+          }
+        ],
+        "correct_choice_id": "A",
+        "id": "R1-2-CD1_36",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "status": "reviewed",
+      "adaptation_notes": [
+        "Six source pairs retained without selecting answers; no separate tracks per pair.",
+        "Pair6 depicts Come here / Turn around; Go corrected in Challenge document."
+      ],
+      "visual_review": "Final 1200 PNG checked against PDF page1: six pairs in order car/train bicycle/ball green/red purple/yellow stand-up/sit-down come-here/turn-around, 12 a/b labels, arrows and source colors; no answers circled; full headings and footer retained."
+    },
+    {
+      "track": "CD1_37",
+      "audio_key": "CD1-37",
+      "exercise": "A. Say these.",
+      "pdf_page": 2,
+      "unit_pdf_page": 2,
+      "book_page": 19,
+      "source_reference": "references/CD1_37.png",
+      "source_page": "source-pages/page-2.png",
+      "audio_file": "audio/Track37.mp3",
+      "output": {
+        "png": "pages/png/CD1_37.png",
+        "webp": "pages/webp/CD1_37.webp"
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_37-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "source_crop_box": [
+        887,
+        0,
+        1774,
+        887
+      ],
+      "question": {
+        "prompt": "Cô giáo cầm tờ giấy và nói câu nào trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I have glue."
+          },
+          {
+            "id": "B",
+            "text": "I have paper."
+          },
+          {
+            "id": "C",
+            "text": "I have tape."
+          }
+        ],
+        "correct_choice_id": "B",
+        "id": "R1-2-CD1_37",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "status": "reviewed",
+      "adaptation_notes": [
+        "Five school supplies and teacher model I have paper. retained.",
+        "Bottom model scene has no separate audio marker; included with CD1_37, independent MP3 speech coverage not audited."
+      ],
+      "visual_review": "Final 1200 PNG checked against PDF page2: numbered paper scissors glue paint tape, source colors including Red paint jar/blue brush/green tape, teacher holding paper and speech I have paper., full heading/footer; scene retained without inventing separate audio."
+    }
+  ]
+}

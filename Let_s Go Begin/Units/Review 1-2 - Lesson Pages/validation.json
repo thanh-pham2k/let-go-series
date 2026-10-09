@@ -1,0 +1,29 @@
+{
+  "result": "pass",
+  "item_count": 2,
+  "checks": [
+    {
+      "track": "CD1_36",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "a2f2de2f6dee839936208b10abc10ece2747cd4538160ad77914efc1e7343d9f",
+      "audio_sha256": "c5cd0b07bc6ebc9785553cd409f77bbdcb74a14be9faaa383062d74f9d39d24b",
+      "visual_review": "Final 1200 PNG checked against PDF page1: six pairs in order car/train bicycle/ball green/red purple/yellow stand-up/sit-down come-here/turn-around, 12 a/b labels, arrows and source colors; no answers circled; full headings and footer retained."
+    },
+    {
+      "track": "CD1_37",
+      "size": [
+        1200,
+        1200
+      ],
+      "png_sha256": "e1f07dea21be188446ad1fe9524863615f58ffaa0f69d104144f2713ea53e86b",
+      "audio_sha256": "673192e661c6cff1f05d4f22637d2a96ade187f131815a3bb4511a27e43ffb21",
+      "visual_review": "Final 1200 PNG checked against PDF page2: numbered paper scissors glue paint tape, source colors including Red paint jar/blue brush/green tape, teacher holding paper and speech I have paper., full heading/footer; scene retained without inventing separate audio."
+    }
+  ],
+  "audio_validation": "Byte identity only; not independently listened/transcribed. Original listening answers not inferred.",
+  "preview_validation": "See runtime-check.json",
+  "source_coverage": "Both complete PDF pages adapted, including unmarked teacher sentence scene."
+}

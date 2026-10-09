@@ -1,0 +1,40 @@
+[
+  {
+    "source_pdf": "Review 5-6.pdf",
+    "content_type": "review",
+    "unit": "5-6",
+    "topic": "Listen and Review",
+    "pdf_page": 1,
+    "book_page": 54,
+    "lesson_section": "Units 5-6 Listen and Review",
+    "exercise": "A",
+    "exercise_title": "Listen and circle.",
+    "audio": {
+      "disc": "CD2",
+      "track": 35,
+      "audio_key": "CD2-35",
+      "audio_file": null
+    },
+    "mapping_basis": "printed CD/track marker beside exercise",
+    "verified": true
+  },
+  {
+    "source_pdf": "Review 5-6.pdf",
+    "content_type": "review",
+    "unit": "5-6",
+    "topic": "The Weather",
+    "pdf_page": 2,
+    "book_page": 55,
+    "lesson_section": "Let's Learn About",
+    "exercise": "A",
+    "exercise_title": "Say these.",
+    "audio": {
+      "disc": "CD2",
+      "track": 36,
+      "audio_key": "CD2-36",
+      "audio_file": null
+    },
+    "mapping_basis": "printed CD/track marker beside exercise",
+    "verified": true
+  }
+]

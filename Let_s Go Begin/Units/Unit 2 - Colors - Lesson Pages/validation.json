@@ -1,0 +1,182 @@
+{
+  "result": "pass",
+  "unit": 2,
+  "item_count": 17,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD1_19",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "3c19ff5ea8805b8bd978fa22adcb62f12d5ec667c1e13767ce8b3c933b7cc8b8",
+      "visual_review": "Source reviewed: both greetings, blank replies, all 14 song lines, come-here and turning arrows retained."
+    },
+    {
+      "track": "CD1_20",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "4cc712082e16f2ad7f5bff5a1c2125bb0a6049f161acd7299afb4aa432d4ae88",
+      "visual_review": "Source reviewed: both greetings, blank replies, all 14 song lines, come-here and turning arrows retained."
+    },
+    {
+      "track": "CD1_21",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "bdc2e7d2759a37763b8d020ee2d21bce708c0173e8c2bcb27b0086009c5e1013",
+      "visual_review": "Source reviewed: both greetings, blank replies, all 14 song lines, come-here and turning arrows retained."
+    },
+    {
+      "track": "CD1_22",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "9887395a93f46c1c17e49228ef6b1208d0aa5e16cd29c2b8029654cb91d41657",
+      "visual_review": "Source reviewed: both greetings, blank replies, all 14 song lines, come-here and turning arrows retained."
+    },
+    {
+      "track": "CD1_23",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "5a21a0301fc711a34b750d7fa74d39c39ec0e1787f739a6a6aad2048ba504626",
+      "visual_review": "Source reviewed: action labels, five correctly numbered colored bears, five parachute panels and sentence retained."
+    },
+    {
+      "track": "CD1_24",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "7b121fc00ee068a0e6ae6c0b9d051b6efc8090cf37e640914e488bf1fc23d027",
+      "visual_review": "Source reviewed: action labels, five correctly numbered colored bears, five parachute panels and sentence retained."
+    },
+    {
+      "track": "CD1_25",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "1ba3db8d0adbe35fefe95069e954cb29a69f2f648ade1c99e131f55b9c16a08e",
+      "visual_review": "Source reviewed: action labels, five correctly numbered colored bears, five parachute panels and sentence retained."
+    },
+    {
+      "track": "CD1_26",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "da63c8e1f022c0841ab0105ede28eb0364373ef2e4ae50e6445e456e28fab8fa",
+      "visual_review": "Source reviewed: action labels, five correctly numbered colored bears, five parachute panels and sentence retained."
+    },
+    {
+      "track": "CD1_27",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "84b6753e6c4bb06c493854d7139f3398ab357c7404c16ff96958d9b974d4ec0e",
+      "visual_review": "Source reviewed: parachute colors/numbers, five car color labels, train-car color numbers and dialogue retained."
+    },
+    {
+      "track": "CD1_28",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "ee6713d663d0ac51e70b43b2f799ccb600e0a143592a4186fbfca3db0a5c4b25",
+      "visual_review": "Source reviewed: parachute colors/numbers, five car color labels, train-car color numbers and dialogue retained."
+    },
+    {
+      "track": "CD1_29",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "ee625ecfeee832e9941573b3460882bbe8bc7ceb7aa06401a27847488330484a",
+      "visual_review": "Source reviewed: parachute colors/numbers, five car color labels, train-car color numbers and dialogue retained."
+    },
+    {
+      "track": "CD1_30",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "ebdf457670a54c7717f4ab203401366f1fd2a7fae0e7f1506bf27ff52901e803",
+      "visual_review": "Source reviewed: parachute colors/numbers, five car color labels, train-car color numbers and dialogue retained."
+    },
+    {
+      "track": "CD1_31",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a939148281a025f2865afb3e2ec1a36cf960a67900831392fbdd19c6f671464c",
+      "visual_review": "Source reviewed: blue/red/purple toys; all 26 alphabet pairs in column reading order; Aa-Dd words and Find-the-letters scene; four color-toy phrases retained."
+    },
+    {
+      "track": "CD1_32",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "079f8ce3843eca41c924991fdef0783b90cfb26a3e1318e8013e010b174ee36c",
+      "visual_review": "Source reviewed: blue/red/purple toys; all 26 alphabet pairs in column reading order; Aa-Dd words and Find-the-letters scene; four color-toy phrases retained."
+    },
+    {
+      "track": "CD1_33",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "eb94f941c82af482b15f2ea18a3652425d1e1197e47b03eb21b1e6b747bbba36",
+      "visual_review": "Source reviewed: blue/red/purple toys; all 26 alphabet pairs in column reading order; Aa-Dd words and Find-the-letters scene; four color-toy phrases retained."
+    },
+    {
+      "track": "CD1_34",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "43c94b2915be8b3c3d2fc6276695f69170a8da72173279fa67e1dd228bcde369",
+      "visual_review": "Source reviewed: blue/red/purple toys; all 26 alphabet pairs in column reading order; Aa-Dd words and Find-the-letters scene; four color-toy phrases retained."
+    },
+    {
+      "track": "CD1_35",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "fab794aa8f499a03b30d6b2798cd0e35bb8a08dbe05a93019dcc705d5558e590",
+      "visual_review": "Source reviewed: exact eight numbered toy/animal colors, dialogue, unnumbered cat and pink ball retained."
+    }
+  ],
+  "audio_validation": "Byte-for-byte identity with source CD MP3; speech not independently audited."
+}

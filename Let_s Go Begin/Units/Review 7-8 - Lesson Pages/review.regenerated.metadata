@@ -1,0 +1,113 @@
+{
+  "format_version": "2.0",
+  "review": "7-8",
+  "item_count": 3,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD2_70",
+      "exercise": "A. Listen and circle.",
+      "pdf_page": 1,
+      "book_page": 72,
+      "image": "pages/webp/CD2_70.webp",
+      "audio_file": "audio/Track70.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "R7-8-CD2_70",
+        "prompt": "Ở cặp hình số 3, hình a minh họa hành động nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "ride a bicycle"
+          },
+          {
+            "id": "B",
+            "text": "fly a kite"
+          },
+          {
+            "id": "C",
+            "text": "swim"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Recompose the twelve source options into six numbered a/b pairs with identical order. No source answer circles added; pair2 retains can/cannot reach toes. Additional quiz asks visible picture recognition, not unverified MP3 order."
+    },
+    {
+      "track": "CD2_71",
+      "exercise": "A. Say these.",
+      "pdf_page": 2,
+      "book_page": 73,
+      "image": "pages/webp/CD2_71.webp",
+      "audio_file": "audio/Track71.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "R7-8-CD2_71",
+        "prompt": "Trong các thẻ ngày của mục Say these, Wednesday được ghi số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "3"
+          },
+          {
+            "id": "B",
+            "text": "4"
+          },
+          {
+            "id": "C",
+            "text": "5"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Retain seven day cards Sunday1 throughSaturday7, the printed model sentence, and the monthly calendar. The calendar dates and card numbers are separate source numbering systems; character may overlap dates as in source."
+    },
+    {
+      "track": "CD2_72",
+      "exercise": "B. Let's sing.",
+      "pdf_page": 2,
+      "book_page": 73,
+      "image": "pages/webp/CD2_72.webp",
+      "audio_file": "audio/Track72.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "R7-8-CD2_72",
+        "prompt": "Trong lịch của mục Let's sing, ô số 14 nằm dưới tên ngày nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Thursday"
+          },
+          {
+            "id": "B",
+            "text": "Friday"
+          },
+          {
+            "id": "C",
+            "text": "Saturday"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Retain the source two-row calendar Sunday1 throughSaturday7 and Sunday8 throughSaturday14, plus child and pointer. No lyrics are printed in the PDF; none added or transcribed. Same source page as71, separate image and audio."
+    }
+  ]
+}

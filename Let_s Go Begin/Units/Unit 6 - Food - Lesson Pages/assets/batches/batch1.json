@@ -1,0 +1,58 @@
+{
+  "tracks": [
+    "CD2_20",
+    "CD2_21",
+    "CD2_22",
+    "CD2_23"
+  ],
+  "prompt": "Create a 2x2 sheet of FOUR independent square textbook lesson pages, straight wide white gutters, bright clean cartoon soft shading. No quiz answers or added lyrics. Top left CD2_20 A. Let's talk: birthday scene matching reference page 1 upper section: dark-haired boy striped navy white shirt asks 'How old are you?', blonde girl red glasses gold crown red dress replies 'I'm 6.', black bob girl yellow shirt seated right; HAPPY BIRTHDAY banner, pizza, chicken, ice cream tub, pink cake with exactly SIX candles. Top right CD2_21 B. Say and act: only reference page1 lower section, two numbered scenes: 1 elderly lady asks 'How old are you?' of black bob girl yellow outfit, mother behind; girl's bubble is blank line followed period. 2 red-haired boy green white stripes on climbing frame asks blank line followed question mark, boy red cap blue shirt replies 'I'm 10.' Keep blanks unfilled. Bottom left CD2_22 C. Let's sing: blonde red glasses crown girl and birthday cake exactly SIX candles, balloons; title 'How Old Are You?' and exact complete printed lyrics: 'How old are you?\\nI'm 6.\\nHow old are you?\\nI'm 7.\\n1, 2, 3, 4, 5, 6, 7!\\n\\nHow old are you?\\nI'm 5.\\nHow old are you?\\nI'm 10.\\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10!' Bottom right CD2_23 D. Let's move: four children matching reference page2 bottom, numbered two illustrations: '1. Make a line.' four kids in a straight queue (red-haired boy green stripes, dark boy navy stripes, black bob girl yellow, blonde red glasses girl red); '2. Make a circle.' same four children holding hands in circle. All panel titles and track IDs clear, generous margin, complete legible exact text. References are content sources only; redraw all art.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-01.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-02.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-00b35d4d-37fd-499a-9e40-c38d669426d7.png",
+  "status": "reviewed",
+  "visual_review": "Reviewed corrected sheet against PDF pages 46-47: six individual candles on both cakes, correct age speakers, both roleplay blanks retained, all printed song lines and counting sequences, four children in both movement scenes. No independent speech audit.",
+  "sheet_size": [
+    1448,
+    1086
+  ],
+  "split": [
+    724,
+    550
+  ],
+  "sha256": "1090e327947ef05f58d32a1bb611781991dac9955a0d71ad12352dce7f8e3c81",
+  "selected_result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-4e18398d-3c95-47ee-a219-f77d5dd1ad6c.png",
+  "repair_logs": [
+    "batch1-fix1"
+  ],
+  "final_crop_boxes": [
+    [
+      2,
+      2,
+      709,
+      539
+    ],
+    [
+      739,
+      2,
+      1446,
+      539
+    ],
+    [
+      2,
+      561,
+      709,
+      1084
+    ],
+    [
+      739,
+      561,
+      1446,
+      1084
+    ]
+  ],
+  "original_local_result": "assets/batches/batch1-original.png",
+  "selected_local_result": "assets/batches/batch1.png"
+}

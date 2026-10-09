@@ -1,0 +1,29 @@
+{
+  "unit": 2,
+  "id": "batch1",
+  "tracks": [
+    "CD1_19",
+    "CD1_20",
+    "CD1_21",
+    "CD1_22"
+  ],
+  "prompt": "Create a high-resolution square 2x2 sheet of FOUR complete independent English lesson pages, equal quadrants, straight narrow white gutters exactly halfway horizontally and vertically. Aim for 3072x3072 pixels, each page square with balanced layout and large readable text. Reference 1 top-left, 2 top-right, 3 bottom-left, 4 bottom-right. Regenerate illustrations into polished colorful children's textbook cartoons, crisp outlines, soft shading consistent with Let's Go Begin Unit 1. Preserve source instructional content and every specified word. Include title and track badge. No quiz text or answer choices. Keep blank answers blank. No mixing across quadrants, no cut text, no extra exercises from visible crop edge. \nQUADRANT 1, CD1_19: A. Let's talk. Two scenes: teacher Miss Jones greets seated students 'Hi, boys and girls.' children reply 'Hello, Miss Jones.' Then students leaving classroom: Andy (curly hair/navy stripes) says 'Good-bye.' Scott (red hair/green stripes) replies 'See you later.' Preserve speaker roles with speech bubble tails.\n\nQUADRANT 2, CD1_20: B. Say and act. Two numbered exchanges as source. 1 teacher says 'Hi, boys and girls.' children have blank answer bubble ending period. 2 girl says 'Good-bye.' friend has blank answer bubble ending period. Keep blanks, do not fill answers.\n\nQUADRANT 3, CD1_21: C. Let's sing. Title 'Hi, Hello, Good-bye'. Miss Jones waves, yellow school bus children waving. Full lyrics, in readable unobstructed area: Hi, boys and girls. / Hello, Miss Jones. / Hi, boys and girls. / Hello, Miss Jones. / Hi, Andy. / Hello, Jenny. / Good-bye, Kate. / See you later. / Bye-bye, see you later. / Bye-bye, see you later. / Bye, Andy, / Good-bye, Jenny. / Good-bye, Kate. / Bye-bye! Do not omit repeated lines.\n\nQUADRANT 4, CD1_22: D. Let's move. Two numbered action scenes teacher green shirt blue skirt with children. 1 teacher beckons children toward her, arrow toward teacher, label '1. Come here.' 2 children turning around, curved arrow, label '2. Turn around.'",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_19.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_20.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_21.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_22.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: both greetings, blank replies, all 14 song lines, come-here and turning arrows retained.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    625,
+    627
+  ],
+  "sha256": "bda62dad62794067315f0d8e384b2168b1a3544955002655820b7613cdb7e022"
+}

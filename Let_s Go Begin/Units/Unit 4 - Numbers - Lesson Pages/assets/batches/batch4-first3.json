@@ -1,0 +1,27 @@
+{
+  "tracks": [
+    "CD1_67",
+    "CD1_68",
+    "CD1_69"
+  ],
+  "prompt": "Generate FOUR independent square children's English lesson pages in high-resolution square 2x2 sheet, exactly equal quadrants split at midpoint with straight white gutters, aim 3072x3072. Reference order top-left/top-right/bottom-left/bottom-right. Polished colorful textbook cartoons with crisp outlines soft shading. COUNTING must be exact; every alphabet glyph and sentence retained accurately. Correct title and CD1 track badge per page. No quiz text/options. Ignore neighboring exercise titles at crop edge. Use distinct large numerals vs small exercise ID badges.\nQuadrant 1 CD1_67: D. Listen, point, and sing. Three counting groups EXACTLY FIVE red hearts, SEVEN yellow stars, TEN purple diamonds. Clear separated countable shapes, add words/numerals '5 / five', '7 / seven', '10 / ten'. No invented lyrics.\nQuadrant 2 CD1_68: A. Sing and say. All26 upper/lowercase alphabet pairs A a to Z z in correct sequential reading order. Emphasize I i J j K k L l in different color as source. Large legible glyphs, complete alphabet.\nQuadrant 3 CD1_69: B. Letters and words. Four source labeled pictures 1. I i — igloo, 2. J j — jump rope (child using rope), 3. K k — kangaroo, 4. L l — lion. Below C. Find the letters. snowy source scene with child holding jump rope by igloo/kangaroo/lion and embedded I i J j K k L l. Keep all eight glyphs readable.\nQuadrant 4 CD1_70: A. Ask and answer. Classroom numeral balloons learning scene as source. Two model exchanges 'Is it a 5?' / 'Yes, it is.' and 'Is it a 9?' / 'No, it isn't. It's a 6.' Child holds clearly upright numeral6, never9. Balloons exercise IDs map 1→5,2→3,3→2,4→7,5→1,6→6,7→4,8→8,9→10,10→9. Preserve distinct small group IDs and big numeral shapes. Below supporting B. Find the numbers. classroom shelf/desks with 1 in fishbowl,2 pencil holder,3 backpack,4 wall picture,5 book. No omissions.\nPage67 count shapes: hearts5, stars7, diamonds10, never add/remove one. Page70 keep both dialogues readable and the Find-the-numbers supporting activity, include all ten numeral balloons and source group ID mapping. Upright6 differs from9.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_67.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_68.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_69.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_70.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "First three quadrants from batch4.png; fourth superseded by standalone repair.",
+  "status": "reviewed",
+  "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    580
+  ],
+  "sha256": "c718a4211d5c435214c5323165881cf6dde233f32a1298fab1c32015bbc342ea"
+}

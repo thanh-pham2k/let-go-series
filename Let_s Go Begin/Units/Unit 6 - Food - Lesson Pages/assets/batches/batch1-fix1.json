@@ -1,0 +1,16 @@
+{
+  "tracks": [
+    "CD2_20",
+    "CD2_21",
+    "CD2_22",
+    "CD2_23"
+  ],
+  "prompt": "Edit this sheet ONLY the birthday cake in TOP LEFT CD2_20. It currently has FIVE candle sticks. Add exactly ONE more separate visible lit candle so total EXACTLY SIX distinct candle sticks each with a flame, matching girl 'I'm 6.' Make them countable, no merged candles. Preserve all other drawings/text/layout unchanged. Bottom-left song cake already has six; leave it unchanged. Keep blanks in top-right unchanged, complete lyrics unchanged.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch1-original.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-4e18398d-3c95-47ee-a219-f77d5dd1ad6c.png",
+  "status": "reviewed_selected",
+  "local_result": "assets/batches/batch1.png"
+}

@@ -1,0 +1,23 @@
+{
+  "result": "pass",
+  "source_pages_viewed": 2,
+  "contact_sheet_viewed": true,
+  "independent_audio_audit": false,
+  "pages": {
+    "CD2_70": {
+      "result": "pass",
+      "final_png_viewed": true,
+      "notes": "Compared final1200x1200 PNG with source PDFp1/book72. Six groups numbered1-6, each exactlytwo choices a left/b right.1a one eye shut/one open wink;1b knees bent/hands on knees.2a fingertips reach shoe toes;2b visible gap above shoes.3a green bicycle/two wheels;3b red diamond kite.4a swimming in pool/ladder;4b dancing beside pool/red shorts.5a stamps feet;5b claps hands.6a seated pointing to green board;6b upright armsdown. All12 labels/pictures preserved, no circled source answers, title/track readable, no gutter/cut text or extra limbs observed."
+    },
+    "CD2_71": {
+      "result": "pass",
+      "final_png_viewed": true,
+      "notes": "Compared final1200x1200 PNG with source PDFp2/book73 upper section. All7 names correct inSunday-Monday-Tuesday-Wednesday-Thursday-Friday-Saturday order, cards1-7 and number colors blue/green/yellow/orange-red/lavender/pink/teal-green. Printed It's Monday. speaker is child pointing to Monday calendar column. Month calendar begins blankSunday thenMonday1 throughSaturday6; following rows7-13,14-20,21-27,28-30, with source-style character overlap. Visible numbers consistent; dates behind arm not independently readable, as overlapping source scene. Source includes this model calendar; retained not discarded. Title and complete cards not cropped."
+    },
+    "CD2_72": {
+      "result": "pass",
+      "final_png_viewed": true,
+      "notes": "Compared final1200x1200 PNG with source PDFp2/book73 lower section. Correct Let's sing title/track; red seven-column header spells SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY. Exactlytwo data rows:1 2 3 4 5 6 7 then8 9 10 11 12 13 14; every number visible exactlyonce under correct day. Source8 is insecond row, fixed after first repair misplaced it. Green-shirt child resized/repositioned atlower-left so numbers unobstructed; yellow pointer hitsWednesday. Purple backing retained. No lyrics printed inPDF; none invented. No gutter/text/character cut."
+    }
+  }
+}

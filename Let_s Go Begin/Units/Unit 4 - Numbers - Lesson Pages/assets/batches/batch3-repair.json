@@ -1,0 +1,8 @@
+{
+  "tool": "built-in image_gen",
+  "prompt": "Edit this 2x2 lesson sheet. TOP LEFT63, TOP RIGHT64, BOTTOM LEFT65 are correct: preserve those three pages exactly. Change ONLY BOTTOM RIGHT CD1_66 counts. Keep title C. Question and answer., CD1 66, two children, speech 'How many?' / '7.', right girl's fingers2+5, group markers and all styling. Correct background quantities: EXACTLY SEVEN distinct red apples around boy (currently6); EXACTLY NINE cat toys in left crate with all nine faces visible in 3 rows of3 (currently too few); EXACTLY SIX pink hearts along wall string (currently5). Keep EXACTLY EIGHT dog toys on right, FIVE white stars on chalkboard. Badge1 apples,2dogs,3cats,4hearts,5stars. Do not add counted objects elsewhere. Three page64/65 number grids already correct6triangles7stars8circles9hearts10squares; do not modify them. Preserve exact sheet geometry and gutters.",
+  "reference": "batch3.png",
+  "corrections": [
+    "CD1_66: apples7, cats9, hearts6"
+  ]
+}

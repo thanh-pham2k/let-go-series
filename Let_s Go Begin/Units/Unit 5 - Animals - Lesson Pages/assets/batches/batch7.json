@@ -1,0 +1,24 @@
+{
+  "unit": 5,
+  "id": "batch7",
+  "tracks": [
+    "CD2_14"
+  ],
+  "prompt": "Edit this page ONLY by adding ONE small white duck floating in pond in upper-right. Pond currently FIVE ducks; needs EXACTLY SIX ducks swimming in water. Keep single standing duck on shore next to badge2 unchanged. Keep all8 grouped cows plus separate single cow, rabbits, bicycles, text, layout unchanged. Add duck in open water below upper duck, count actual heads: six in water plus one on shore.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\cd14-edit-target.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source43 final check: eight cows group1 plus one cow4; six swimming ducks3 plus single standing duck2 clearly on green shore; three running rabbits5 plus seated rabbit6, both dialogue speakers correct. Final standalone square inspected.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "ec106d01e78145b752b6e54d91c58b2236c319372635b054fabfe0efc5029278",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-74df7890-315d-4d07-a748-dee3fc4afb45.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

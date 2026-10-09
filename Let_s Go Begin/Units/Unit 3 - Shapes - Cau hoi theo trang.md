@@ -1,24 +1,18 @@
-# Unit 3 - Shapes: Câu hỏi theo từng mục hình–audio
+# Unit 3 – Shapes: Câu hỏi theo trang
 
-## Phạm vi và cách dùng
+Bộ chuẩn gồm 17 trang, mỗi trang có ảnh có chữ, audio và đúng một câu trắc nghiệm. Ảnh đều 1200 × 1200, giữ tỷ lệ nội dung.
 
-Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zip), gồm `unit_3_shapes.metadata` và **17 mục hình–audio**. Mỗi mục học/hình trong ZIP có **đúng 1 câu hỏi** sau khi nghe; không gộp các mục trên cùng trang sách.
-
-- Mở hình theo trường `image` trong ZIP, phát audio tương ứng, rồi cho bé trả lời câu hỏi của mục đó.
-- Bé có thể chỉ lựa chọn hoặc nói đáp án. Người lớn đọc hướng dẫn tiếng Việt nếu bé chưa đọc được.
-- `page` là số trang PDF Unit theo metadata. Số trang in trong sách được ghi riêng ở mỗi mục.
-- Đường dẫn hình là đường dẫn **bên trong ZIP**, không phải file đã giải nén trong repo. Link MP3 trỏ đến thư mục CD hiện có trong repo.
-- Câu hỏi bổ sung bám nội dung hình và tên bài. Chưa đối chiếu lời nói hoặc mốc thời gian trong MP3; không yêu cầu nhớ thứ tự đồ vật xuất hiện trong audio.
-- Một số crop “Listen and point/do” chỉ có tiêu đề. Các mục đó dùng hình Words/Numbers/Sentences hoặc lệnh Let's move trên cùng trang; mục **Hình tham chiếu thêm** ghi rõ hình cần mở kèm.
-- Ẩn bảng đáp án khi bé làm bài; xem đáp án sau khi bé trả lời.
+- [Preview học và làm bài](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata nối ảnh/audio/câu hỏi](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- Hiện câu hỏi sau khi nghe, phản hồi đáp án sau khi bé chọn.
+- Audio khớp file CD nguồn; chưa nghe/transcribe đối chiếu độc lập.
 
 ## CD1_38 – A. Let's talk.
 
 - **Mã câu hỏi:** U3-CD1_38.
-- **Trang trong metadata:** 1 (trang sách 20).
-- **Hình trong ZIP:** `images/38_a_let_s_talk.png`.
-- **Nhãn audio trong ZIP:** CD1 38.
-- **Audio sử dụng:** [CD1 38 – Track38.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track38.mp3).
+- **Trang PDF:** 1 (trang sách 20).
+- **Ảnh chuẩn:** [CD1_38.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_38.webp).
+- **Audio:** [Track38.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track38.mp3).
 
 **Câu hỏi:** Khi nghe “How are you today?”, câu trả lời trong hình là gì?
 
@@ -29,10 +23,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_39 – B. Say and act.
 
 - **Mã câu hỏi:** U3-CD1_39.
-- **Trang trong metadata:** 1 (trang sách 20).
-- **Hình trong ZIP:** `images/39_b_say_and_act.png`.
-- **Nhãn audio trong ZIP:** CD1 39.
-- **Audio sử dụng:** [CD1 39 – Track39.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track39.mp3).
+- **Trang PDF:** 1 (trang sách 20).
+- **Ảnh chuẩn:** [CD1_39.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_39.webp).
+- **Audio:** [Track39.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track39.mp3).
 
 **Câu hỏi:** Ở tình huống số 1, bé chọn câu đáp lại “How are you today?”.
 
@@ -43,10 +36,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_40 – C. Let's sing.
 
 - **Mã câu hỏi:** U3-CD1_40.
-- **Trang trong metadata:** 2 (trang sách 21).
-- **Hình trong ZIP:** `images/40_c_let_s_sing.png`.
-- **Nhãn audio trong ZIP:** CD1 40.
-- **Audio sử dụng:** [CD1 40 – Track40.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track40.mp3).
+- **Trang PDF:** 2 (trang sách 21).
+- **Ảnh chuẩn:** [CD1_40.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_40.webp).
+- **Audio:** [Track40.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track40.mp3).
 
 **Câu hỏi:** Câu “How are you today?” trong bài hát hỏi điều gì?
 
@@ -57,10 +49,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_41 – D. Let's move.
 
 - **Mã câu hỏi:** U3-CD1_41.
-- **Trang trong metadata:** 2 (trang sách 21).
-- **Hình trong ZIP:** `images/41_d_let_s_move.png`.
-- **Nhãn audio trong ZIP:** CD1 41.
-- **Audio sử dụng:** [CD1 41 – Track41.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track41.mp3).
+- **Trang PDF:** 2 (trang sách 21).
+- **Ảnh chuẩn:** [CD1_41.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_41.webp).
+- **Audio:** [Track41.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track41.mp3).
 
 **Câu hỏi:** Khi nghe “Walk”, bé cần làm gì?
 
@@ -71,11 +62,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_42 – E. Listen and do.
 
 - **Mã câu hỏi:** U3-CD1_42.
-- **Trang trong metadata:** 2 (trang sách 21).
-- **Hình trong ZIP:** `images/42_e_listen_and_do.png`.
-- **Nhãn audio trong ZIP:** CD1 42.
-- **Audio sử dụng:** [CD1 42 – Track42.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track42.mp3).
-- **Hình tham chiếu thêm:** `images/41_d_let_s_move.png` (D. Let's move., cùng trang).
+- **Trang PDF:** 2 (trang sách 21).
+- **Ảnh chuẩn:** [CD1_42.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_42.webp).
+- **Audio:** [Track42.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track42.mp3).
 
 **Câu hỏi:** Sau bài luyện hành động, “Run” yêu cầu bé làm gì?
 
@@ -86,10 +75,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_43 – A. Words.
 
 - **Mã câu hỏi:** U3-CD1_43.
-- **Trang trong metadata:** 3 (trang sách 22).
-- **Hình trong ZIP:** `images/43_a_words.png`.
-- **Nhãn audio trong ZIP:** CD1 43.
-- **Audio sử dụng:** [CD1 43 – Track43.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track43.mp3).
+- **Trang PDF:** 3 (trang sách 22).
+- **Ảnh chuẩn:** [CD1_43.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_43.webp).
+- **Audio:** [Track43.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track43.mp3).
 
 **Câu hỏi:** Hình số 3 ứng với từ nào trong bài từ vựng?
 
@@ -100,11 +88,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_44 – B. Listen and point.
 
 - **Mã câu hỏi:** U3-CD1_44.
-- **Trang trong metadata:** 3 (trang sách 22).
-- **Hình trong ZIP:** `images/44_b_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD1 44.
-- **Audio sử dụng:** [CD1 44 – Track44.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track44.mp3).
-- **Hình tham chiếu thêm:** `images/43_a_words.png` (A. Words., cùng trang).
+- **Trang PDF:** 3 (trang sách 22).
+- **Ảnh chuẩn:** [CD1_44.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_44.webp).
+- **Audio:** [Track44.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track44.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, bé chọn từ chỉ hình số 2.
 
@@ -115,10 +101,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_45 – C. Sentences.
 
 - **Mã câu hỏi:** U3-CD1_45.
-- **Trang trong metadata:** 4 (trang sách 23).
-- **Hình trong ZIP:** `images/45_c_sentences.png`.
-- **Nhãn audio trong ZIP:** CD1 45.
-- **Audio sử dụng:** [CD1 45 – Track45.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track45.mp3).
+- **Trang PDF:** 4 (trang sách 23).
+- **Ảnh chuẩn:** [CD1_45.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_45.webp).
+- **Audio:** [Track45.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track45.mp3).
 
 **Câu hỏi:** Câu “Draw a square” yêu cầu bé vẽ hình gì?
 
@@ -129,10 +114,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_46 – D. Listen, point, and chant.
 
 - **Mã câu hỏi:** U3-CD1_46.
-- **Trang trong metadata:** 4 (trang sách 23).
-- **Hình trong ZIP:** `images/46_d_listen_point_and_chant.png`.
-- **Nhãn audio trong ZIP:** CD1 46.
-- **Audio sử dụng:** [CD1 46 – Track46.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track46.mp3).
+- **Trang PDF:** 4 (trang sách 23).
+- **Ảnh chuẩn:** [CD1_46.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_46.webp).
+- **Audio:** [Track46.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track46.mp3).
 
 **Câu hỏi:** Sau bài chant, hình trái tim trong dãy ứng với từ nào?
 
@@ -143,10 +127,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_47 – A. Words.
 
 - **Mã câu hỏi:** U3-CD1_47.
-- **Trang trong metadata:** 5 (trang sách 24).
-- **Hình trong ZIP:** `images/47_a_words.png`.
-- **Nhãn audio trong ZIP:** CD1 47.
-- **Audio sử dụng:** [CD1 47 – Track47.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track47.mp3).
+- **Trang PDF:** 5 (trang sách 24).
+- **Ảnh chuẩn:** [CD1_47.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_47.webp).
+- **Audio:** [Track47.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track47.mp3).
 
 **Câu hỏi:** Hình số 2 ứng với từ nào?
 
@@ -157,11 +140,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_48 – B. Listen and point.
 
 - **Mã câu hỏi:** U3-CD1_48.
-- **Trang trong metadata:** 5 (trang sách 24).
-- **Hình trong ZIP:** `images/48_b_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD1 48.
-- **Audio sử dụng:** [CD1 48 – Track48.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track48.mp3).
-- **Hình tham chiếu thêm:** `images/47_a_words.png` (A. Words., cùng trang).
+- **Trang PDF:** 5 (trang sách 24).
+- **Ảnh chuẩn:** [CD1_48.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_48.webp).
+- **Audio:** [Track48.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track48.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, bé chọn từ chỉ hình số 3.
 
@@ -172,10 +153,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_49 – C. Question and answer.
 
 - **Mã câu hỏi:** U3-CD1_49.
-- **Trang trong metadata:** 6 (trang sách 25).
-- **Hình trong ZIP:** `images/49_c_question_and_answer.png`.
-- **Nhãn audio trong ZIP:** CD1 49.
-- **Audio sử dụng:** [CD1 49 – Track49.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track49.mp3).
+- **Trang PDF:** 6 (trang sách 25).
+- **Ảnh chuẩn:** [CD1_49.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_49.webp).
+- **Audio:** [Track49.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track49.mp3).
 
 **Câu hỏi:** Trong hội thoại bên phải, khi hỏi “Is it a rectangle?”, câu trả lời nào đúng?
 
@@ -186,10 +166,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_50 – D. Listen, point, and sing.
 
 - **Mã câu hỏi:** U3-CD1_50.
-- **Trang trong metadata:** 6 (trang sách 25).
-- **Hình trong ZIP:** `images/50_d_listen_point_and_sing.png`.
-- **Nhãn audio trong ZIP:** CD1 50.
-- **Audio sử dụng:** [CD1 50 – Track50.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track50.mp3).
+- **Trang PDF:** 6 (trang sách 25).
+- **Ảnh chuẩn:** [CD1_50.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_50.webp).
+- **Audio:** [Track50.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track50.mp3).
 
 **Câu hỏi:** Sau bài hát, hình màu xanh dương trong dãy là hình gì?
 
@@ -200,10 +179,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_51 – A. Sing and say.
 
 - **Mã câu hỏi:** U3-CD1_51.
-- **Trang trong metadata:** 7 (trang sách 26).
-- **Hình trong ZIP:** `images/51_a_sing_and_say.png`.
-- **Nhãn audio trong ZIP:** CD1 51.
-- **Audio sử dụng:** [CD1 51 – Track51.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track51.mp3).
+- **Trang PDF:** 7 (trang sách 26).
+- **Ảnh chuẩn:** [CD1_51.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_51.webp).
+- **Audio:** [Track51.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track51.mp3).
 
 **Câu hỏi:** Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau F?
 
@@ -214,10 +192,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_52 – B. Letters and words.
 
 - **Mã câu hỏi:** U3-CD1_52.
-- **Trang trong metadata:** 7 (trang sách 26).
-- **Hình trong ZIP:** `images/52_b_letters_and_words.png`.
-- **Nhãn audio trong ZIP:** CD1 52.
-- **Audio sử dụng:** [CD1 52 – Track52.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track52.mp3).
+- **Trang PDF:** 7 (trang sách 26).
+- **Ảnh chuẩn:** [CD1_52.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_52.webp).
+- **Audio:** [Track52.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track52.mp3).
 
 **Câu hỏi:** Từ nào đi với chữ G g trong hình?
 
@@ -228,10 +205,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_53 – A. Sentences.
 
 - **Mã câu hỏi:** U3-CD1_53.
-- **Trang trong metadata:** 8 (trang sách 27).
-- **Hình trong ZIP:** `images/53_a_sentences.png`.
-- **Nhãn audio trong ZIP:** CD1 53.
-- **Audio sử dụng:** [CD1 53 – Track53.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track53.mp3).
+- **Trang PDF:** 8 (trang sách 27).
+- **Ảnh chuẩn:** [CD1_53.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_53.webp).
+- **Audio:** [Track53.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track53.mp3).
 
 **Câu hỏi:** Bạn trai chỉ hình vuông màu xanh dương và nói câu nào?
 
@@ -242,10 +218,9 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 ## CD1_54 – B. Question and answer.
 
 - **Mã câu hỏi:** U3-CD1_54.
-- **Trang trong metadata:** 8 (trang sách 27).
-- **Hình trong ZIP:** `images/54_b_question_and_answer.png`.
-- **Nhãn audio trong ZIP:** CD1 54.
-- **Audio sử dụng:** [CD1 54 – Track54.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD1/Track54.mp3).
+- **Trang PDF:** 8 (trang sách 27).
+- **Ảnh chuẩn:** [CD1_54.webp](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/pages/webp/CD1_54.webp).
+- **Audio:** [Track54.mp3](Unit%203%20-%20Shapes%20-%20Lesson%20Pages/audio/Track54.mp3).
 
 **Câu hỏi:** Trong hội thoại bên phải, hình được hỏi “Is it a red square?” thực ra là gì?
 
@@ -253,24 +228,24 @@ Nguồn chính: [Unit_3_Shapes_audio_mapping.zip](Unit_3_Shapes_audio_mapping.zi
 - B. a pink heart
 - C. a red square
 
-## Đáp án và mapping hình → audio → câu hỏi
+## Đáp án
 
-| Mã câu hỏi | Hình trong ZIP | Audio sử dụng | Đáp án đúng |
-|---|---|---|---|
-| U3-CD1_38 | images/38_a_let_s_talk.png | CD1 38 | A. I'm fine, thank you. |
-| U3-CD1_39 | images/39_b_say_and_act.png | CD1 39 | B. I'm fine, thank you. |
-| U3-CD1_40 | images/40_c_let_s_sing.png | CD1 40 | C. Hôm nay bạn thế nào? |
-| U3-CD1_41 | images/41_d_let_s_move.png | CD1 41 | A. Đi bộ. |
-| U3-CD1_42 | images/42_e_listen_and_do.png | CD1 42 | B. Chạy. |
-| U3-CD1_43 | images/43_a_words.png | CD1 43 | C. a triangle |
-| U3-CD1_44 | images/44_b_listen_and_point.png | CD1 44 | A. a square |
-| U3-CD1_45 | images/45_c_sentences.png | CD1 45 | B. Hình vuông. |
-| U3-CD1_46 | images/46_d_listen_point_and_chant.png | CD1 46 | C. a heart |
-| U3-CD1_47 | images/47_a_words.png | CD1 47 | A. a rectangle |
-| U3-CD1_48 | images/48_b_listen_and_point.png | CD1 48 | B. a diamond |
-| U3-CD1_49 | images/49_c_question_and_answer.png | CD1 49 | C. No, it isn't. It's a diamond. |
-| U3-CD1_50 | images/50_d_listen_point_and_sing.png | CD1 50 | A. a square |
-| U3-CD1_51 | images/51_a_sing_and_say.png | CD1 51 | B. G |
-| U3-CD1_52 | images/52_b_letters_and_words.png | CD1 52 | C. gorilla |
-| U3-CD1_53 | images/53_a_sentences.png | CD1 53 | A. It's a blue square. |
-| U3-CD1_54 | images/54_b_question_and_answer.png | CD1 54 | B. a pink heart |
+| Track | Đáp án |
+|---|---|
+| CD1_38 | A. I'm fine, thank you. |
+| CD1_39 | B. I'm fine, thank you. |
+| CD1_40 | C. Hôm nay bạn thế nào? |
+| CD1_41 | A. Đi bộ. |
+| CD1_42 | B. Chạy. |
+| CD1_43 | C. a triangle |
+| CD1_44 | A. a square |
+| CD1_45 | B. Hình vuông. |
+| CD1_46 | C. a heart |
+| CD1_47 | A. a rectangle |
+| CD1_48 | B. a diamond |
+| CD1_49 | C. No, it isn't. It's a diamond. |
+| CD1_50 | A. a square |
+| CD1_51 | B. G |
+| CD1_52 | C. gorilla |
+| CD1_53 | A. It's a blue square. |
+| CD1_54 | B. a pink heart |

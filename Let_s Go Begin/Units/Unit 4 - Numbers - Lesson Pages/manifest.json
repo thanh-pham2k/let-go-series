@@ -1,0 +1,1103 @@
+{
+  "schema_version": "2.0",
+  "unit": 4,
+  "topic": "Numbers",
+  "source_pdf": "Unit 4 - Numbers.pdf",
+  "source_item_count": 16,
+  "image_count": 16,
+  "coordinate_system": "pixel boxes [x,y,width,height], top-left origin",
+  "image_fit": "contain",
+  "text_font": "Arial",
+  "items": [
+    {
+      "track": "CD1_55",
+      "audio_key": "CD1-55",
+      "exercise": "A. Let's talk.",
+      "unit_pdf_page": 1,
+      "book_page": 28,
+      "source_reference": "references/CD1_55.png",
+      "audio_file": "audio/Track55.mp3",
+      "output": {
+        "png": "pages/png/CD1_55.png",
+        "webp": "pages/webp/CD1_55.webp"
+      },
+      "question": {
+        "id": "U4-CD1_55",
+        "prompt": "Khi nghe “May I come in?”, câu trả lời trong hình là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Sure! Please come in!"
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "Good-bye."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_55-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes.",
+      "generation_batch": "batch1",
+      "source_crop_box": [
+        1,
+        1,
+        632,
+        620
+      ]
+    },
+    {
+      "track": "CD1_56",
+      "audio_key": "CD1-56",
+      "exercise": "B. Say and act.",
+      "unit_pdf_page": 1,
+      "book_page": 28,
+      "source_reference": "references/CD1_56.png",
+      "audio_file": "audio/Track56.mp3",
+      "output": {
+        "png": "pages/png/CD1_56.png",
+        "webp": "pages/webp/CD1_56.webp"
+      },
+      "question": {
+        "id": "U4-CD1_56",
+        "prompt": "Ở tình huống số 1, bé chọn câu đáp lại “May I come in?”.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm Kate."
+          },
+          {
+            "id": "B",
+            "text": "Sure! Please come in!"
+          },
+          {
+            "id": "C",
+            "text": "Stand up."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_56-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes.",
+      "generation_batch": "batch1",
+      "source_crop_box": [
+        634,
+        1,
+        1253,
+        620
+      ]
+    },
+    {
+      "track": "CD1_57",
+      "audio_key": "CD1-57",
+      "exercise": "C. Let's sing.",
+      "unit_pdf_page": 2,
+      "book_page": 29,
+      "source_reference": "references/CD1_57.png",
+      "audio_file": "audio/Track57.mp3",
+      "output": {
+        "png": "pages/png/CD1_57.png",
+        "webp": "pages/webp/CD1_57.webp"
+      },
+      "question": {
+        "id": "U4-CD1_57",
+        "prompt": "Câu “May I come in?” trong bài hát dùng để làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hỏi tên."
+          },
+          {
+            "id": "B",
+            "text": "Hỏi màu."
+          },
+          {
+            "id": "C",
+            "text": "Xin phép vào."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_57-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes.",
+      "generation_batch": "batch1",
+      "source_crop_box": [
+        1,
+        622,
+        632,
+        1253
+      ]
+    },
+    {
+      "track": "CD1_58",
+      "audio_key": "CD1-58",
+      "exercise": "D. Let's move.",
+      "unit_pdf_page": 2,
+      "book_page": 29,
+      "source_reference": "references/CD1_58.png",
+      "audio_file": "audio/Track58.mp3",
+      "output": {
+        "png": "pages/png/CD1_58.png",
+        "webp": "pages/webp/CD1_58.webp"
+      },
+      "question": {
+        "id": "U4-CD1_58",
+        "prompt": "Khi nghe “Stop”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Dừng lại."
+          },
+          {
+            "id": "B",
+            "text": "Tiếp tục đi."
+          },
+          {
+            "id": "C",
+            "text": "Chạy nhanh hơn."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_58-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes.",
+      "generation_batch": "batch1",
+      "source_crop_box": [
+        634,
+        622,
+        1253,
+        1253
+      ]
+    },
+    {
+      "track": "CD1_59",
+      "audio_key": "CD1-59",
+      "exercise": "E. Listen and do.",
+      "unit_pdf_page": 2,
+      "book_page": 29,
+      "source_reference": "references/CD1_59.png",
+      "audio_file": "audio/Track59.mp3",
+      "output": {
+        "png": "pages/png/CD1_59.png",
+        "webp": "pages/webp/CD1_59.webp"
+      },
+      "question": {
+        "id": "U4-CD1_59",
+        "prompt": "Sau bài luyện hành động, “Go” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ngồi xuống."
+          },
+          {
+            "id": "B",
+            "text": "Đi."
+          },
+          {
+            "id": "C",
+            "text": "Dừng lại."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_59-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        1,
+        1,
+        626,
+        626
+      ]
+    },
+    {
+      "track": "CD1_60",
+      "audio_key": "CD1-60",
+      "exercise": "A. Numbers.",
+      "unit_pdf_page": 3,
+      "book_page": 30,
+      "source_reference": "references/CD1_60.png",
+      "audio_file": "audio/Track60.mp3",
+      "output": {
+        "png": "pages/png/CD1_60.png",
+        "webp": "pages/webp/CD1_60.webp"
+      },
+      "question": {
+        "id": "U4-CD1_60",
+        "prompt": "Nhóm 3 chiếc ô tô ứng với số nào trong bài nghe?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "two"
+          },
+          {
+            "id": "B",
+            "text": "five"
+          },
+          {
+            "id": "C",
+            "text": "three"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_60-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1120
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Let's count. 1, 2, 3.",
+          "box": [
+            120,
+            1140,
+            960,
+            50
+          ],
+          "font_size": 38,
+          "align": "center"
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct. Source header model restored with font layer.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        628,
+        1,
+        1253,
+        626
+      ]
+    },
+    {
+      "track": "CD1_61",
+      "audio_key": "CD1-61",
+      "exercise": "B. Listen and point.",
+      "unit_pdf_page": 3,
+      "book_page": 30,
+      "source_reference": "references/CD1_61.png",
+      "audio_file": "audio/Track61.mp3",
+      "output": {
+        "png": "pages/png/CD1_61.png",
+        "webp": "pages/webp/CD1_61.webp"
+      },
+      "question": {
+        "id": "U4-CD1_61",
+        "prompt": "Sau khi luyện nghe, nhóm 2 búp bê ứng với số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "two"
+          },
+          {
+            "id": "B",
+            "text": "one"
+          },
+          {
+            "id": "C",
+            "text": "four"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_61-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        1,
+        628,
+        626,
+        1253
+      ]
+    },
+    {
+      "track": "CD1_62",
+      "audio_key": "CD1-62",
+      "exercise": "C. Sentences.",
+      "unit_pdf_page": 4,
+      "book_page": 31,
+      "source_reference": "references/CD1_62.png",
+      "audio_file": "audio/Track62.mp3",
+      "output": {
+        "png": "pages/png/CD1_62.png",
+        "webp": "pages/webp/CD1_62.webp"
+      },
+      "question": {
+        "id": "U4-CD1_62",
+        "prompt": "Trong câu “Let's count. 1, 2, 3, 4…”, các bạn đang làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hỏi màu."
+          },
+          {
+            "id": "B",
+            "text": "Đếm."
+          },
+          {
+            "id": "C",
+            "text": "Hỏi tên."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_62-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct.",
+      "generation_batch": "batch2",
+      "source_crop_box": [
+        628,
+        628,
+        1253,
+        1253
+      ]
+    },
+    {
+      "track": "CD1_63",
+      "audio_key": "CD1-63",
+      "exercise": "D. Listen, point, and sing.",
+      "unit_pdf_page": 4,
+      "book_page": 31,
+      "source_reference": "references/CD1_63.png",
+      "audio_file": "audio/Track63.mp3",
+      "output": {
+        "png": "pages/png/CD1_63.png",
+        "webp": "pages/webp/CD1_63.webp"
+      },
+      "question": {
+        "id": "U4-CD1_63",
+        "prompt": "Trong dãy số vừa hát, số nào đứng ngay sau four?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "three"
+          },
+          {
+            "id": "B",
+            "text": "one"
+          },
+          {
+            "id": "C",
+            "text": "five"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_63-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visual count CD1_64/65: 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares; model How many? / 6. retained. CD1_63 numerals 1-5 and words correct.",
+      "generation_batch": "batch3-first3",
+      "source_crop_box": [
+        1,
+        1,
+        622,
+        622
+      ]
+    },
+    {
+      "track": "CD1_64",
+      "audio_key": "CD1-64",
+      "exercise": "A. Numbers.",
+      "unit_pdf_page": 5,
+      "book_page": 32,
+      "source_reference": "references/CD1_64.png",
+      "audio_file": "audio/Track64.mp3",
+      "output": {
+        "png": "pages/png/CD1_64.png",
+        "webp": "pages/webp/CD1_64.webp"
+      },
+      "question": {
+        "id": "U4-CD1_64",
+        "prompt": "Nhóm 7 ngôi sao ứng với số nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "seven"
+          },
+          {
+            "id": "B",
+            "text": "six"
+          },
+          {
+            "id": "C",
+            "text": "eight"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_64-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visual count CD1_64/65: 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares; model How many? / 6. retained. CD1_63 numerals 1-5 and words correct.",
+      "generation_batch": "batch3-first3",
+      "source_crop_box": [
+        624,
+        1,
+        1253,
+        622
+      ]
+    },
+    {
+      "track": "CD1_65",
+      "audio_key": "CD1-65",
+      "exercise": "B. Listen and point.",
+      "unit_pdf_page": 5,
+      "book_page": 32,
+      "source_reference": "references/CD1_65.png",
+      "audio_file": "audio/Track65.mp3",
+      "output": {
+        "png": "pages/png/CD1_65.png",
+        "webp": "pages/webp/CD1_65.webp"
+      },
+      "question": {
+        "id": "U4-CD1_65",
+        "prompt": "Sau khi luyện nghe, nhóm 10 hình vuông ứng với số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "six"
+          },
+          {
+            "id": "B",
+            "text": "ten"
+          },
+          {
+            "id": "C",
+            "text": "nine"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_65-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visual count CD1_64/65: 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares; model How many? / 6. retained. CD1_63 numerals 1-5 and words correct.",
+      "generation_batch": "batch3-first3",
+      "source_crop_box": [
+        1,
+        624,
+        622,
+        1253
+      ]
+    },
+    {
+      "track": "CD1_66",
+      "audio_key": "CD1-66",
+      "exercise": "C. Question and answer.",
+      "unit_pdf_page": 6,
+      "book_page": 33,
+      "source_reference": "references/CD1_66.png",
+      "audio_file": "audio/Track66.mp3",
+      "output": {
+        "png": "pages/png/CD1_66.png",
+        "webp": "pages/webp/CD1_66.webp"
+      },
+      "question": {
+        "id": "U4-CD1_66",
+        "prompt": "Trong hình, câu trả lời cho “How many?” là số nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "5."
+          },
+          {
+            "id": "B",
+            "text": "9."
+          },
+          {
+            "id": "C",
+            "text": "7."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_66-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Visually counted 9 cats in 3x3, 8 dogs in 2x4, 7 apples in 4+3, 6 wall hearts, 5 board stars. Correct group badges and How many? / 7.; girl shows 2+5 fingers. Layout rearranged for clear counts.",
+      "generation_batch": "page66-repair",
+      "source_crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ]
+    },
+    {
+      "track": "CD1_67",
+      "audio_key": "CD1-67",
+      "exercise": "D. Listen, point, and sing.",
+      "unit_pdf_page": 6,
+      "book_page": 33,
+      "source_reference": "references/CD1_67.png",
+      "audio_file": "audio/Track67.mp3",
+      "output": {
+        "png": "pages/png/CD1_67.png",
+        "webp": "pages/webp/CD1_67.webp"
+      },
+      "question": {
+        "id": "U4-CD1_67",
+        "prompt": "Sau bài hát, nhóm trái tim bên trái có bao nhiêu hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "4."
+          },
+          {
+            "id": "B",
+            "text": "5."
+          },
+          {
+            "id": "C",
+            "text": "8."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_67-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed.",
+      "generation_batch": "batch4-first3",
+      "source_crop_box": [
+        1,
+        1,
+        626,
+        579
+      ]
+    },
+    {
+      "track": "CD1_68",
+      "audio_key": "CD1-68",
+      "exercise": "A. Sing and say.",
+      "unit_pdf_page": 7,
+      "book_page": 34,
+      "source_reference": "references/CD1_68.png",
+      "audio_file": "audio/Track68.mp3",
+      "output": {
+        "png": "pages/png/CD1_68.png",
+        "webp": "pages/webp/CD1_68.webp"
+      },
+      "question": {
+        "id": "U4-CD1_68",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau J?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "L"
+          },
+          {
+            "id": "B",
+            "text": "K"
+          },
+          {
+            "id": "C",
+            "text": "I"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_68-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed.",
+      "generation_batch": "batch4-first3",
+      "source_crop_box": [
+        628,
+        1,
+        1253,
+        579
+      ]
+    },
+    {
+      "track": "CD1_69",
+      "audio_key": "CD1-69",
+      "exercise": "B. Letters and words.",
+      "unit_pdf_page": 7,
+      "book_page": 34,
+      "source_reference": "references/CD1_69.png",
+      "audio_file": "audio/Track69.mp3",
+      "output": {
+        "png": "pages/png/CD1_69.png",
+        "webp": "pages/webp/CD1_69.webp"
+      },
+      "question": {
+        "id": "U4-CD1_69",
+        "prompt": "Từ nào đi với chữ L l trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "igloo"
+          },
+          {
+            "id": "B",
+            "text": "kangaroo"
+          },
+          {
+            "id": "C",
+            "text": "lion"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_69-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "Counted CD1_67: 5 red hearts, 7 yellow stars, 10 purple diamonds. CD1_68 all 26 upper/lower pairs in order, Ii Jj Kk Ll emphasized. CD1_69 four labeled words and all eight find-letter glyphs confirmed.",
+      "generation_batch": "batch4-first3",
+      "source_crop_box": [
+        1,
+        581,
+        626,
+        1253
+      ]
+    },
+    {
+      "track": "CD1_70",
+      "audio_key": "CD1-70",
+      "exercise": "A. Ask and answer.",
+      "unit_pdf_page": 8,
+      "book_page": 35,
+      "source_reference": "references/CD1_70.png",
+      "audio_file": "audio/Track70.mp3",
+      "output": {
+        "png": "pages/png/CD1_70.png",
+        "webp": "pages/webp/CD1_70.webp"
+      },
+      "question": {
+        "id": "U4-CD1_70",
+        "prompt": "Trong hội thoại bên phải, câu trả lời cho “Is it a 9?” là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, it isn't. It's a 6."
+          },
+          {
+            "id": "B",
+            "text": "Yes, it is."
+          },
+          {
+            "id": "C",
+            "text": "It's a 5."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "canvas": {
+        "size": [
+          1200,
+          1200
+        ],
+        "background": "#FFFFFF"
+      },
+      "layers": [
+        {
+          "type": "image",
+          "asset": "assets/CD1_70-lesson.png",
+          "box": [
+            0,
+            0,
+            1200,
+            1200
+          ]
+        },
+        {
+          "type": "rect",
+          "box": [
+            1035,
+            0,
+            155,
+            74
+          ],
+          "fill": "#FFFFFF"
+        },
+        {
+          "type": "text",
+          "text": "CD1 70",
+          "box": [
+            1040,
+            20,
+            145,
+            42
+          ],
+          "font_size": 32,
+          "bold": true,
+          "align": "center"
+        }
+      ],
+      "status": "reviewed",
+      "visual_review": "All ten balloon pairs confirmed 1:5 2:3 3:2 4:7 5:1 6:6 7:4 8:8 9:10 10:9. Both dialogues correct with speech tails, upright 6 and Find the numbers 1-5 retained. Track badge added using font layer.",
+      "generation_batch": "page70-repair",
+      "source_crop_box": [
+        0,
+        0,
+        1254,
+        1254
+      ]
+    }
+  ],
+  "generation_policy": "Built-in image_gen only; group about four pages; split then contain on identical 1200x1200 canvases without distortion.",
+  "lesson_specs": {
+    "CD1_55": "A. Let's talk. Andy curly hair navy-striped shirt at doorway asks 'May I come in?' Jenny black bob yellow shirt blue floral shorts in kitchen replies 'Sure! Please come in!' Refrigerator displays numerals 1,2,3,4,5 as source. Correct speech tails.",
+    "CD1_56": "B. Say and act. Two numbered exchanges: 1 Kate blonde glasses red dress at classroom doorway asks Miss Jones teacher 'May I come in?' Teacher has blank answer line ending period. 2 Scott red hair green-striped shirt at room doorway has blank question ending ?; Kate/Jenny seated with number cards, reply 'Sure! Please come in!' Keep blank question/answer.",
+    "CD1_57": "C. Let's sing. Title 'May I Come In?' Kate blonde glasses red dress at doorway; Scott green-striped shirt seated reading at desk, toy truck and turtle poster. Full lyrics exactly: May I come in? / Sure! Please come in! / Please come in! / May I come in? / May I come in? / Sure! Please come in! Retain repeats and punctuation.",
+    "CD1_58": "D. Let's move. Two clear scenes: Jenny shows green GO paddle to Scott and Andy running; then Jenny shows red STOP paddle and boys halt. Labels '1. Go.' '2. Stop.' Preserve source girl/children identities.",
+    "CD1_59": "E. Listen and do. Same go/stop scenes from58, labels '1. Go.' '2. Stop.', correct title only.",
+    "CD1_60": "A. Numbers. Five distinct counting groups: EXACTLY 1 ball labeled 1; EXACTLY 2 dolls labeled 2; EXACTLY 3 toy cars labeled 3; EXACTLY 4 teddy bears (including panda) labeled 4; EXACTLY 5 yo-yos labeled 5. Clear separated countable objects, no duplicates/background extra toys. Source example 'Let's count. 1, 2, 3.'",
+    "CD1_61": "B. Listen and point. Same exact groups 1 ball, 2 dolls, 3 toy cars, 4 teddy bears including panda, 5 yo-yos, numeral labels1–5. Quantity accuracy essential. Correct title only.",
+    "CD1_62": "C. Sentences. Source two children seated among toys counting. Speech 'Let's count. 1, 2, 3, 4…' and response '5!' EXACT quantities: five red spotted balls in total (one held by left child, three between children, one held behind right child), two dolls, four yo-yos, three bicycles, one train with attached carriages. Blue exercise GROUP markers 1 by ball group, 2 dolls, 3 yo-yos, 4 bicycles, 5 train are group IDs, NOT quantities. Keep source learning quantities correct and separate from group markers.",
+    "CD1_63": "D. Listen, point, and sing. Five large colorful numerals in reading order 1 2 3 4 5. Add corresponding words one two three four five below numerals. No invented lyrics.",
+    "CD1_64": "A. Numbers. Five counting groups exact source quantities: SIX green outline triangles (2x3), SEVEN orange outline stars (3+3+1), EIGHT red outline circles (3+3+2), NINE purple outline hearts (3x3), TEN blue outline squares (2+3+3+2). Labels 6,7,8,9,10 adjacent matching group. Source header model 'How many?' / '6.' Quantity MUST match labels; no extra shapes.",
+    "CD1_65": "B. Listen and point. Same exact groups 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares. Each isolated group clearly labeled numeral. Quantity accuracy essential.",
+    "CD1_66": "C. Question and answer. Boy blue shirt asks curly-haired girl yellow star shirt 'How many?' girl shows two fingers on one hand and five on other, answers '7.' Background exact counting groups: SEVEN red apples, EIGHT dog toys, NINE cat toys, SIX pink hearts on wall string, FIVE white stars on chalkboard. Blue exercise GROUP IDs 1 apples,2 dogs,3 cats,4 hearts,5 stars NOT quantity labels. Arrange repeated cats3x3 and dogs2x4 if needed for count clarity, preserve source scene and colors. All counts exact.",
+    "CD1_67": "D. Listen, point, and sing. Three counting groups EXACTLY FIVE red hearts, SEVEN yellow stars, TEN purple diamonds. Clear separated countable shapes, add words/numerals '5 / five', '7 / seven', '10 / ten'. No invented lyrics.",
+    "CD1_68": "A. Sing and say. All26 upper/lowercase alphabet pairs A a to Z z in correct sequential reading order. Emphasize I i J j K k L l in different color as source. Large legible glyphs, complete alphabet.",
+    "CD1_69": "B. Letters and words. Four source labeled pictures 1. I i — igloo, 2. J j — jump rope (child using rope), 3. K k — kangaroo, 4. L l — lion. Below C. Find the letters. snowy source scene with child holding jump rope by igloo/kangaroo/lion and embedded I i J j K k L l. Keep all eight glyphs readable.",
+    "CD1_70": "A. Ask and answer. Classroom numeral balloons learning scene as source. Two model exchanges 'Is it a 5?' / 'Yes, it is.' and 'Is it a 9?' / 'No, it isn't. It's a 6.' Child holds clearly upright numeral6, never9. Balloons exercise IDs map 1→5,2→3,3→2,4→7,5→1,6→6,7→4,8→8,9→10,10→9. Preserve distinct small group IDs and big numeral shapes. Below supporting B. Find the numbers. classroom shelf/desks with 1 in fishbowl,2 pencil holder,3 backpack,4 wall picture,5 book. No omissions."
+  },
+  "batches": [
+    {
+      "id": "unit4-batch1",
+      "tracks": [
+        "CD1_55",
+        "CD1_56",
+        "CD1_57",
+        "CD1_58"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "id": "unit4-batch2",
+      "tracks": [
+        "CD1_59",
+        "CD1_60",
+        "CD1_61",
+        "CD1_62"
+      ],
+      "status": "reviewed"
+    },
+    {
+      "id": "unit4-batch3",
+      "tracks": [
+        "CD1_63",
+        "CD1_64",
+        "CD1_65",
+        "CD1_66"
+      ],
+      "status": "reviewed",
+      "note": "First three quadrants approved; CD1_66 superseded by page66-repair."
+    },
+    {
+      "id": "unit4-batch4",
+      "tracks": [
+        "CD1_67",
+        "CD1_68",
+        "CD1_69",
+        "CD1_70"
+      ],
+      "status": "reviewed",
+      "note": "First three quadrants approved; CD1_70 superseded by page70-repair."
+    }
+  ]
+}

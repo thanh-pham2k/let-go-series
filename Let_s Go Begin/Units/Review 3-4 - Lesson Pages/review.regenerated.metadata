@@ -1,0 +1,95 @@
+{
+  "format_version": "2.0",
+  "review": "3-4",
+  "item_count": 2,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD1_71",
+      "exercise": "A. Listen and circle.",
+      "pdf_page": 1,
+      "book_page": 36,
+      "image": "pages/webp/CD1_71.webp",
+      "audio_file": "audio/Track71.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "R34-CD1_71",
+        "prompt": "Nhóm hình 3a có bao nhiêu tam giác xanh?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "4 tam giác."
+          },
+          {
+            "id": "B",
+            "text": "5 tam giác."
+          },
+          {
+            "id": "C",
+            "text": "6 tam giác."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": [
+        "Full page36 adapted into a contained square canvas; all six numbered pairs and a/b ordering retained.",
+        "Original circle choices left unmarked; audio answers not inferred. Supplemental question asks visible triangle count.",
+        "Numbers4/5/6/7 verified by counting actual shapes, not merely labels; circle/square and circle/oval distinguished."
+      ]
+    },
+    {
+      "track": "CD1_72",
+      "exercise": "A. Say these.",
+      "pdf_page": 2,
+      "book_page": 37,
+      "image": "pages/webp/CD1_72.webp",
+      "audio_file": "audio/Track72.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "R34-CD1_72",
+        "prompt": "Câu nào yêu cầu cất bút chì đi?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Take out your pencil."
+          },
+          {
+            "id": "B",
+            "text": "Put away your pencil."
+          },
+          {
+            "id": "C",
+            "text": "Open your book."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": [
+        "Four numbered captions and original Please sentence retained.",
+        "Panel4 book red cover is visibly closed with motion lines, clarifying source closing gesture; panel3 remains visibly open.",
+        "Bottom teacher scene included visually, no separate printed audio marker and no assertion of MP3 spoken contents."
+      ]
+    }
+  ],
+  "non_audio_activities": [
+    {
+      "pdf_page": 2,
+      "activity": "Teacher model: Please take out your pencil.",
+      "included_in": "CD1_72 image",
+      "audio_status": "No separate printed audio marker; included visually with page72, no invented track or assertion of spoken inclusion."
+    }
+  ]
+}

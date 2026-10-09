@@ -1,0 +1,49 @@
+{
+  "tracks": [
+    "CD2_54",
+    "CD2_55",
+    "CD2_56",
+    "CD2_57"
+  ],
+  "prompt": "Edit this 2x2 textbook sheet only the speech balloon tails and blank punctuation. TOP LEFT: \"OK. Let's play ball.\" balloon tail must point to black-haired girl yellow shirt, not red-haired boy. \"OK. Let's play tag.\" tail must point to curly-haired boy navy-white shirt. \"OK. Let's jump rope.\" tail must point to blonde girl red dress. TOP RIGHT scene 2 empty underline balloon: replace question mark with period, keep blank UNFILLED. TOP RIGHT scene 1 empty reply tail must point to curly-haired boy. Preserve every other element, ALL 14 song lyric lines, all track titles, colors, children, layout and straight gutters exactly.",
+  "refs": [
+    "assets/batches/batch1.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_55": {
+      "box": [
+        630,
+        1,
+        1253,
+        624
+      ],
+      "visual_review": "Two numbered situations; original reply/prompt blanks retained without scanned handwritten answers; periods restored; soccer ball and jump rope, correct speakers."
+    },
+    "CD2_56": {
+      "box": [
+        1,
+        631,
+        624,
+        1253
+      ],
+      "visual_review": "All 14 printed lyric lines checked word by word; title retained; curly-haired boy playing tag with blonde glasses girl red dress."
+    },
+    "CD2_57": {
+      "box": [
+        630,
+        631,
+        1253,
+        1253
+      ],
+      "visual_review": "Pointing girl and walking striped boy distinguished; both numbered board commands retained."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "be60e8c38ec1d4e7f50c4c8597af1680bad47f3c957f9c8dc5f018c236680a0e",
+  "result_file": "batch1-fix1.png"
+}

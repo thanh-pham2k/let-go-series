@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    "CD1_36",
+    "CD1_37"
+  ],
+  "prompt": "Edit this two-page sheet. Change ONLY left page exercise6 option b (bottom right of left square): the girl must visibly TURN AROUND to face AWAY FROM teacher, toward viewer, face fully visible, body rotated, one arm extended sideways, front of yellow skirt and blue blouse visible, curved turning arrow above. Keep teacher behind at desk. Source PDF option6b shows girl front-facing away from teacher, not back-facing walking toward her. Option6a remains walking TOWARD teacher with back/side visible and straight arrow. Preserve every other illustration, all option labels and numbers, words, colors, both headings, CD1 36/37 badges, entire School Supplies right page and I have paper. sentence unchanged. Do not circle answers. Straight central gutter unchanged.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Review 1-2 - Lesson Pages/assets/batches/batch1-original.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Review 1-2 - Lesson Pages/references/CD1_36.png"
+  ],
+  "tool": "built-in image_gen",
+  "source_output": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c4f-ee9b-7361-afa2-895ea54407a2 as C:\\Users\\Admin\\.codex\\generated_images\\01a11c4f-ee9b-7361-afa2-895ea54407a2\\exec-77565323-e9cb-4c7b-95c5-cf583e6ac51f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "status": "visually_checked_batch",
+  "visual_review": "6b now front-facing turning away from teacher, curved arrow; 6a walks toward teacher. All six pairs a/b, colors, labels, supplies and sentence retained."
+}

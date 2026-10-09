@@ -1,0 +1,573 @@
+{
+  "format_version": "2.0",
+  "unit": 2,
+  "topic": "Colors",
+  "item_count": 17,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD1_19",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 10,
+      "image": "pages/webp/CD1_19.webp",
+      "audio_file": "audio/Track19.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_19",
+        "prompt": "Khi cô nói “Hi, boys and girls”, các bạn trả lời thế nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hello, Miss Jones."
+          },
+          {
+            "id": "B",
+            "text": "It's red."
+          },
+          {
+            "id": "C",
+            "text": "Come here."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_20",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 10,
+      "image": "pages/webp/CD1_20.webp",
+      "audio_file": "audio/Track20.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_20",
+        "prompt": "Ở tình huống số 2, câu nào phù hợp để đáp lại “Good-bye”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Turn around."
+          },
+          {
+            "id": "B",
+            "text": "See you later."
+          },
+          {
+            "id": "C",
+            "text": "It's blue."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_21",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 11,
+      "image": "pages/webp/CD1_21.webp",
+      "audio_file": "audio/Track21.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_21",
+        "prompt": "Trong bài hát, “Good-bye” dùng khi nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Khi hỏi màu."
+          },
+          {
+            "id": "B",
+            "text": "Khi gọi bạn lại gần."
+          },
+          {
+            "id": "C",
+            "text": "Khi chào tạm biệt."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_22",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 11,
+      "image": "pages/webp/CD1_22.webp",
+      "audio_file": "audio/Track22.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_22",
+        "prompt": "Khi nghe “Come here”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Lại đây."
+          },
+          {
+            "id": "B",
+            "text": "Quay một vòng."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_23",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 11,
+      "image": "pages/webp/CD1_23.webp",
+      "audio_file": "audio/Track23.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_23",
+        "prompt": "Sau bài luyện hành động, “Turn around” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Lại gần."
+          },
+          {
+            "id": "B",
+            "text": "Quay người lại."
+          },
+          {
+            "id": "C",
+            "text": "Đứng yên."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_24",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 12,
+      "image": "pages/webp/CD1_24.webp",
+      "audio_file": "audio/Track24.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_24",
+        "prompt": "Gấu màu xanh dương ở hình 2 ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "red"
+          },
+          {
+            "id": "B",
+            "text": "yellow"
+          },
+          {
+            "id": "C",
+            "text": "blue"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_25",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 12,
+      "image": "pages/webp/CD1_25.webp",
+      "audio_file": "audio/Track25.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_25",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ màu của gấu ở hình 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "green"
+          },
+          {
+            "id": "B",
+            "text": "brown"
+          },
+          {
+            "id": "C",
+            "text": "blue"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_26",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 13,
+      "image": "pages/webp/CD1_26.webp",
+      "audio_file": "audio/Track26.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_26",
+        "prompt": "Câu “It's blue” nói về màu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Vàng."
+          },
+          {
+            "id": "B",
+            "text": "Xanh dương."
+          },
+          {
+            "id": "C",
+            "text": "Đỏ."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_27",
+      "exercise": "D. Listen and point.",
+      "page": 4,
+      "book_page": 13,
+      "image": "pages/webp/CD1_27.webp",
+      "audio_file": "audio/Track27.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_27",
+        "prompt": "Sau khi luyện nghe, bé chọn câu mô tả mảng màu số 4 trên tấm vải.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It's brown."
+          },
+          {
+            "id": "B",
+            "text": "It's red."
+          },
+          {
+            "id": "C",
+            "text": "It's yellow."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_28",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 14,
+      "image": "pages/webp/CD1_28.webp",
+      "audio_file": "audio/Track28.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_28",
+        "prompt": "Ô tô ở hình 1 có màu gì trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "purple"
+          },
+          {
+            "id": "B",
+            "text": "black"
+          },
+          {
+            "id": "C",
+            "text": "pink"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_29",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 14,
+      "image": "pages/webp/CD1_29.webp",
+      "audio_file": "audio/Track29.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_29",
+        "prompt": "Sau khi luyện nghe, từ nào chỉ màu của ô tô ở hình 4?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "purple"
+          },
+          {
+            "id": "B",
+            "text": "white"
+          },
+          {
+            "id": "C",
+            "text": "orange"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_30",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 15,
+      "image": "pages/webp/CD1_30.webp",
+      "audio_file": "audio/Track30.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_30",
+        "prompt": "Bạn trai trả lời “What color is it?” bằng câu nào trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm Kate."
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "It's purple."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_31",
+      "exercise": "D. Listen, point, and chant.",
+      "page": 6,
+      "book_page": 15,
+      "image": "pages/webp/CD1_31.webp",
+      "audio_file": "audio/Track31.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_31",
+        "prompt": "Sau bài chant, quả bóng trong hình có màu gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "blue"
+          },
+          {
+            "id": "B",
+            "text": "red"
+          },
+          {
+            "id": "C",
+            "text": "purple"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_32",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 16,
+      "image": "pages/webp/CD1_32.webp",
+      "audio_file": "audio/Track32.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_32",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau C?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "A"
+          },
+          {
+            "id": "B",
+            "text": "D"
+          },
+          {
+            "id": "C",
+            "text": "B"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_33",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 16,
+      "image": "pages/webp/CD1_33.webp",
+      "audio_file": "audio/Track33.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_33",
+        "prompt": "Từ nào đi với chữ B b trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "apple"
+          },
+          {
+            "id": "B",
+            "text": "dog"
+          },
+          {
+            "id": "C",
+            "text": "bird"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_34",
+      "exercise": "A. Sentences.",
+      "page": 8,
+      "book_page": 17,
+      "image": "pages/webp/CD1_34.webp",
+      "audio_file": "audio/Track34.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_34",
+        "prompt": "Bạn trai cầm tàu hỏa trả lời bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It's a red train."
+          },
+          {
+            "id": "B",
+            "text": "It's a blue ball."
+          },
+          {
+            "id": "C",
+            "text": "It's a green yo-yo."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_35",
+      "exercise": "B. Question and answer.",
+      "page": 8,
+      "book_page": 17,
+      "image": "pages/webp/CD1_35.webp",
+      "audio_file": "audio/Track35.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U2-CD1_35",
+        "prompt": "Bạn trai trả lời “What is it?” bằng câu nào trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It's a blue ball."
+          },
+          {
+            "id": "B",
+            "text": "It's a green car."
+          },
+          {
+            "id": "C",
+            "text": "It's a red train."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

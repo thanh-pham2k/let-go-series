@@ -1,5 +1,17 @@
 # Unit 4 - Numbers
 
+<!-- lesson-package-status -->
+## Bộ bài học chính và tài nguyên luyện thêm
+
+Đã có đủ **16 trang học chính**, mỗi trang gồm ảnh có chữ → audio → một câu trắc nghiệm. PNG/WebP đều **1200 × 1200**.
+
+- [Preview học và làm bài](Unit%204%20-%20Numbers%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ ảnh](Unit%204%20-%20Numbers%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata tích hợp](Unit%204%20-%20Numbers%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- [Unit 4 - Numbers – Câu hỏi theo trang](Unit%204%20-%20Numbers%20-%20Cau%20hoi%20theo%20trang.md).
+
+Các Challenge bên dưới là bài luyện thêm, giữ nguyên nội dung. Ký hiệu 🖼️ là hướng dẫn chọn hình, chưa phải asset riêng gắn cho từng câu. Người lớn có thể đọc phần nghe; để chạy tự động cần audio clip riêng. Chủ dự án sẽ tự bổ sung audio theo checklist cuối file. Audio CD nguồn đã kiểm tra file, chưa nghe/transcribe độc lập.
+<!-- /lesson-package-status -->
+
 > Chỉ sử dụng nội dung xuất hiện trong PDF **Unit 4 - Numbers**.
 >
 > Lộ trình: **Recognition → Recall → Comprehension → Production**.
@@ -252,134 +264,71 @@ Sau đó tự đếm:
 
 ---
 
-# Challenge 4 — Translate & Build
+# Challenge 4 — Build & Match
 ## Comprehension
 
-## 1. Dịch Anh → Việt
+## 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. May I come in?  
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
+
+1. `[ come / I / May / in? ]`  
    → ______________________________
 
-2. Sure! Please come in!  
+2. `[ come / Please / Sure! / in! ]`  
    → ______________________________
 
-3. Please come in!  
+3. `[ come / Please / in! ]`  
    → ______________________________
 
-4. Go.  
+4. `[ count. / Let's ]`  
    → ______________________________
 
-5. Stop.  
+5. `[ count. / Let's / 1, / 3. / 2, ]`  
    → ______________________________
 
-6. Let's count.  
+6. `[ many? / How ]`  
    → ______________________________
 
-7. Let's count. 1, 2, 3.  
+7. `[ 5? / Is / a / it ]`  
    → ______________________________
 
-8. How many?  
+8. `[ is. / Yes, / it ]`  
    → ______________________________
 
-9. Is it a 5?  
+9. `[ a / Is / 9? / it ]`  
    → ______________________________
 
-10. Yes, it is.  
+10. `[ isn't. / a / No, / 6. / It's / it ]`  
     → ______________________________
 
-11. Is it a 9?  
+11. `[ Go. ]`  
     → ______________________________
 
-12. No, it isn't. It's a 6.  
+12. `[ Stop. ]`  
     → ______________________________
 
-## 2. Dịch Việt → Anh
-
-1. Em có thể vào không?  
-   → ______________________________
-
-2. Được! Mời vào!  
-   → ______________________________
-
-3. Mời vào!  
-   → ______________________________
-
-4. Đi.  
-   → ______________________________
-
-5. Dừng lại.  
-   → ______________________________
-
-6. Hãy đếm.  
-   → ______________________________
-
-7. Có bao nhiêu?  
-   → ______________________________
-
-8. Đây có phải số 5 không?  
-   → ______________________________
-
-9. Vâng, đúng vậy.  
-   → ______________________________
-
-10. Đây có phải số 9 không?  
-    → ______________________________
-
-11. Không, không phải. Đó là số 6.  
-    → ______________________________
-
-## 3. Sắp xếp từ → tạo câu
-
-1. `I / May / come / in`  
-   → ______________________________
-
-2. `Please / come / in`  
-   → ______________________________
-
-3. `count / Let's`  
-   → ______________________________
-
-4. `many / How`  
-   → ______________________________
-
-5. `a / Is / 5 / it`  
-   → ______________________________
-
-6. `is / Yes / it`  
-   → ______________________________
-
-7. `a / Is / 9 / it`  
-   → ______________________________
-
-8. `isn't / No / it`  
-   → ______________________________
-
-9. `a / It's / 6`  
-   → ______________________________
-
-## 4. Ghép câu hỏi → câu trả lời
+## 2. Ghép câu hỏi → câu trả lời
 
 | Question | Answer |
 |---|---|
-| May I come in? | A. Yes, it is. |
-| Is it a 5? → 5 | B. Sure! Please come in! |
-| Is it a 9? → 6 | C. No, it isn't. It's a 6. |
+| 1. May I come in? | A. Yes, it is. |
+| 2. Is it a 5? → 5 | B. Sure! Please come in! |
+| 3. Is it a 9? → 6 | C. No, it isn't. It's a 6. |
 
-## 5. Letters & words
+## 3. Letters & words (Phonics I–L)
 
-Sắp xếp:
+Điền chữ cái còn thiếu:
 
-1. `i / g / l / o / o` → __________
-2. `j / u / m / p / r / o / p / e` → __________
-3. `k / a / n / g / a / r / o / o` → __________
-4. `l / i / o / n` → __________
+- i g l _ _ *(igloo)* 🛖
+- j _ m p   r o p e *(jump rope)* 🪢
+- k _ n g a r o o *(kangaroo)* 🦘
+- l _ o n *(lion)* 🦁
 
-Ghép:
-
-- I i → __________
-- J j → __________
-- K k → __________
-- L l → __________
+Nối chữ với từ đúng:
+- I i → `[ igloo / jump rope / kangaroo / lion ]`
+- J j → `[ jump rope / igloo / lion / kangaroo ]`
+- K k → `[ kangaroo / lion / igloo / jump rope ]`
+- L l → `[ lion / kangaroo / jump rope / igloo ]`
 
 ---
 
@@ -440,89 +389,74 @@ Sau đó nói toàn bộ **1–10** mà không nhìn mẫu.
 
 ### Tình huống 1
 
-A: ______________________________?  
-B: Sure! ______________________________!
+### Tình huống 1 (Xin phép vào)
+*Mẫu gợi ý:*
+- Bé gõ cửa: *"May I come in?"*
+- Người lớn: *"Sure! Please come in!"* (hoặc *"Please come in!"*)
 
-### Tình huống 2
+A: May I come in?  
+B: ______________________________ *(Sure! Please come in!)*
+
+### Tình huống 2 (Đếm số lượng đồ vật 🚗)
+*Mẫu gợi ý:*
+- Người lớn: *"How many?"*
+- Bé trả lời: *"7 cars."* (hoặc *"7."*)
 
 A: How many?  
-B: ______________________________. *(7)*
+B: ______________________________. *(7 cars.)*
 
-### Tình huống 3
+### Tình huống 3 (Đoán số đúng 5)
+*Mẫu gợi ý:*
+- Người lớn: *"Is it a 5?"*
+- Bé trả lời: *"Yes, it is."*
 
-A: ______________________________? *(hỏi có phải 5 không)*  
-B: ______________________________. *(đúng)*
+A: Is it a 5?  
+B: ______________________________. *(Yes, it is.)*
 
-### Tình huống 4
+### Tình huống 4 (Đoán số sai 6 và 9)
+*Mẫu gợi ý:*
+- Người lớn: *"Is it a 9?"*
+- Bé trả lời: *"No, it isn't. It's a 6."*
 
-A: ______________________________? *(hỏi có phải 9 không)*  
-B: ______________________________. *(thực tế là 6)*
+A: Is it a 9?  
+B: ______________________________. *(No, it isn't. It's a 6.)*
 
 ## 5. Build without hint
 
-`come / May / I / in`
-
+`come / May / I / in`  
 → ______________________________
 
-`many / How`
-
+`many / How`  
 → ______________________________
 
-`it / a / Is / 9`
-
+`it / a / Is / 9`  
 → ______________________________
 
-`6 / a / It's`
-
+`6 / a / It's`  
 → ______________________________
 
-## 6. Commands
+## 6. Commands — Nghe và làm
 
 Người lớn nói ngẫu nhiên:
 
-- Go.
-- Stop.
+- Go. *(Bé bước đi)*
+- Stop. *(Bé đứng lại)*
 
-Bé thực hiện, sau đó tự nói lại câu lệnh.
+Sau đó bé tự nói lại câu lệnh.
 
-## 7. I–L Production
+## 7. I–L Phonics Production
 
-Nhìn chữ → tự nói từ:
+Nhìn chữ → tự nói to từ tương ứng:
 
-- I i → ____________________
-- J j → ____________________
-- K k → ____________________
-- L l → ____________________
+- I i → **igloo** 🛖
+- J j → **jump rope** 🪢
+- K k → **kangaroo** 🦘
+- L l → **lion** 🦁
 
-## 8. Alphabet Final Check
+## 8. Final Boss — Count & Ask
 
-Ghép/đọc:
-
-`A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`
-
-với:
-
-`a b c d e f g h i j k l m n o p q r s t u v w x y z`
-
-## 9. Final Boss — Count & Ask
-
-Người lớn dùng một nhóm hình trong bài có số lượng từ **1–10**.
-
-Bé phải:
-
-1. Đếm.
-2. Trả lời câu hỏi **How many?**
-3. Nói số đúng mà không dùng hint.
-
-## 10. Final Conversation
-
-Không nhìn mẫu:
-
-A: __________________________________ *(xin phép vào)*  
-B: __________________________________ *(đồng ý và mời vào)*
-
-A: __________________________________ *(hỏi số)*  
-B: __________________________________ *(trả lời đúng/sai theo mẫu trong bài)*
+Người lớn chỉ nhóm hình và hỏi: **"How many?"**  
+Bé chỉ tay đếm to: **"1, 2, 3..."** và nói tổng số.
 
 ---
 
@@ -530,16 +464,8 @@ B: __________________________________ *(trả lời đúng/sai theo mẫu trong 
 
 | Nội dung PDF | Đã kiểm tra |
 |---|---|
-| 1 | ✓ |
-| 2 | ✓ |
-| 3 | ✓ |
-| 4 | ✓ |
-| 5 | ✓ |
-| 6 | ✓ |
-| 7 | ✓ |
-| 8 | ✓ |
-| 9 | ✓ |
-| 10 | ✓ |
+| 1, 2, 3, 4, 5 | ✓ |
+| 6, 7, 8, 9, 10 | ✓ |
 | May I come in? | ✓ |
 | Sure! Please come in! | ✓ |
 | Please come in! | ✓ |
@@ -557,6 +483,60 @@ B: __________________________________ *(trả lời đúng/sai theo mẫu trong 
 | J j — jump rope | ✓ |
 | K k — kangaroo | ✓ |
 | L l — lion | ✓ |
-| A–Z / a–z | ✓ |
 
-**Coverage: 100% từ vựng và mẫu câu thể hiện trong Unit 4 - Numbers đã được kiểm tra ít nhất một lần.**
+**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.
+
+---
+
+<!-- challenge-audio-notes -->
+# Ghi chú audio cần bổ sung cho Challenge – Unit 4
+
+**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.
+
+Đây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.
+
+| Đã có | Tên file gợi ý | Nội dung cần đọc |
+|---|---|---|
+| ☐ | `u4_may_i_come_in.mp3` | May I come in? |
+| ☐ | `u4_sure_please_come_in.mp3` | Sure! Please come in! |
+| ☐ | `u4_please_come_in.mp3` | Please come in! |
+| ☐ | `u4_let_s_count_1_2_3.mp3` | Let's count. 1, 2, 3. |
+| ☐ | `u4_let_s_count_1_2_3_4.mp3` | Let's count. 1, 2, 3, 4, ... |
+| ☐ | `u4_how_many.mp3` | How many? |
+| ☐ | `u4_is_it_a_5.mp3` | Is it a 5? |
+| ☐ | `u4_yes_it_is.mp3` | Yes, it is. |
+| ☐ | `u4_is_it_a_9.mp3` | Is it a 9? |
+| ☐ | `u4_no_it_isn_t_it_s_a_6.mp3` | No, it isn't. It's a 6. |
+| ☐ | `u4_go.mp3` | Go. |
+| ☐ | `u4_stop.mp3` | Stop. |
+| ☐ | `u4_i_i_igloo.mp3` | I i — igloo |
+| ☐ | `u4_j_j_jump_rope.mp3` | J j — jump rope |
+| ☐ | `u4_k_k_kangaroo.mp3` | K k — kangaroo |
+| ☐ | `u4_l_l_lion.mp3` | L l — lion |
+
+Nếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.
+<!-- /challenge-audio-notes -->
+
+## Rà soát clip nghe bắt buộc và dùng chung
+
+Các clip câu mẫu trong bảng trên là bắt buộc cho Challenge 2, Challenge 3.4 và các bài nghe lệnh. Dùng chung May I come in?, Sure! Please come in!, Please come in!, Is it a 5?, Is it a 9?, How many?, Go., Stop. giữa các câu; không cần thu bản trùng. Bảng bổ sung dưới đây vá các mục bộ dò tự động chưa liệt kê. Chưa có file nào trong checklist được tạo hoặc đánh dấu đã có.
+
+| Đã có | File gợi ý | Nội dung | Dùng cho |
+|---|---|---|---|
+| ☐ | `u4_one.mp3` | one | Challenge 1.3 |
+| ☐ | `u4_two.mp3` | two | Challenge 1.3 |
+| ☐ | `u4_three.mp3` | three | Challenge 1.3 |
+| ☐ | `u4_four.mp3` | four | Challenge 1.3 |
+| ☐ | `u4_five.mp3` | five | Challenge 1.3 |
+| ☐ | `u4_six.mp3` | six | Challenge 1.3 |
+| ☐ | `u4_seven.mp3` | seven | Challenge 1.3 |
+| ☐ | `u4_eight.mp3` | eight | Challenge 1.3 |
+| ☐ | `u4_nine.mp3` | nine | Challenge 1.3 |
+| ☐ | `u4_ten.mp3` | ten | Challenge 1.3 |
+| ☐ | `u4_lets_count.mp3` | Let's count. | Challenge 2.1.6 |
+| ☐ | `u4_igloo.mp3` | igloo | Phonics: tùy chọn |
+| ☐ | `u4_jump_rope.mp3` | jump rope | Phonics: tùy chọn |
+| ☐ | `u4_kangaroo.mp3` | kangaroo | Phonics: tùy chọn |
+| ☐ | `u4_lion.mp3` | lion | Phonics: tùy chọn |
+
+Challenge 1.3 cần đủ mười clip one–ten và chọn ngẫu nhiên trong tập lựa chọn đang hiển thị. Challenge 2.3 nghe câu hỏi dùng clip câu hỏi; nếu phát cả hội thoại thì thu riêng hai lượt May I come in? / Sure! Please come in!, Is it a 5? / Yes, it is., Is it a 9? / No, it isn't. It's a 6. Các clip Yes, it is. và No, it isn't. It's a 6. có thể tái sử dụng. Đọc đáp án mẫu, chuỗi số, bảng chữ cái A–Z và giọng Boss là tùy chọn; không thay clip nghe bắt buộc. Bài tự nói/viết không bắt buộc audio.

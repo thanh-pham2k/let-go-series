@@ -1,0 +1,573 @@
+{
+  "format_version": "2.0",
+  "unit": 3,
+  "topic": "Shapes",
+  "item_count": 17,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD1_38",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 20,
+      "image": "pages/webp/CD1_38.webp",
+      "audio_file": "audio/Track38.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_38",
+        "prompt": "Khi nghe “How are you today?”, câu trả lời trong hình là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm fine, thank you."
+          },
+          {
+            "id": "B",
+            "text": "It's a square."
+          },
+          {
+            "id": "C",
+            "text": "Sit down."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_39",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 20,
+      "image": "pages/webp/CD1_39.webp",
+      "audio_file": "audio/Track39.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_39",
+        "prompt": "Ở tình huống số 1, bé chọn câu đáp lại “How are you today?”.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Run."
+          },
+          {
+            "id": "B",
+            "text": "I'm fine, thank you."
+          },
+          {
+            "id": "C",
+            "text": "It's a circle."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_40",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 21,
+      "image": "pages/webp/CD1_40.webp",
+      "audio_file": "audio/Track40.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_40",
+        "prompt": "Câu “How are you today?” trong bài hát hỏi điều gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bạn tên gì?"
+          },
+          {
+            "id": "B",
+            "text": "Đây là hình gì?"
+          },
+          {
+            "id": "C",
+            "text": "Hôm nay bạn thế nào?"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_41",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 21,
+      "image": "pages/webp/CD1_41.webp",
+      "audio_file": "audio/Track41.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_41",
+        "prompt": "Khi nghe “Walk”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Đi bộ."
+          },
+          {
+            "id": "B",
+            "text": "Chạy."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_42",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 21,
+      "image": "pages/webp/CD1_42.webp",
+      "audio_file": "audio/Track42.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_42",
+        "prompt": "Sau bài luyện hành động, “Run” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Đứng yên."
+          },
+          {
+            "id": "B",
+            "text": "Chạy."
+          },
+          {
+            "id": "C",
+            "text": "Đi bộ."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_43",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 22,
+      "image": "pages/webp/CD1_43.webp",
+      "audio_file": "audio/Track43.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_43",
+        "prompt": "Hình số 3 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a circle"
+          },
+          {
+            "id": "B",
+            "text": "a heart"
+          },
+          {
+            "id": "C",
+            "text": "a triangle"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_44",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 22,
+      "image": "pages/webp/CD1_44.webp",
+      "audio_file": "audio/Track44.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_44",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ hình số 2.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a square"
+          },
+          {
+            "id": "B",
+            "text": "a triangle"
+          },
+          {
+            "id": "C",
+            "text": "a circle"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_45",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 23,
+      "image": "pages/webp/CD1_45.webp",
+      "audio_file": "audio/Track45.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_45",
+        "prompt": "Câu “Draw a square” yêu cầu bé vẽ hình gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hình trái tim."
+          },
+          {
+            "id": "B",
+            "text": "Hình vuông."
+          },
+          {
+            "id": "C",
+            "text": "Hình tròn."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_46",
+      "exercise": "D. Listen, point, and chant.",
+      "page": 4,
+      "book_page": 23,
+      "image": "pages/webp/CD1_46.webp",
+      "audio_file": "audio/Track46.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_46",
+        "prompt": "Sau bài chant, hình trái tim trong dãy ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a circle"
+          },
+          {
+            "id": "B",
+            "text": "a triangle"
+          },
+          {
+            "id": "C",
+            "text": "a heart"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_47",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 24,
+      "image": "pages/webp/CD1_47.webp",
+      "audio_file": "audio/Track47.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_47",
+        "prompt": "Hình số 2 ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a rectangle"
+          },
+          {
+            "id": "B",
+            "text": "a star"
+          },
+          {
+            "id": "C",
+            "text": "an oval"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_48",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 24,
+      "image": "pages/webp/CD1_48.webp",
+      "audio_file": "audio/Track48.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_48",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ hình số 3.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a star"
+          },
+          {
+            "id": "B",
+            "text": "a diamond"
+          },
+          {
+            "id": "C",
+            "text": "a rectangle"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_49",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 25,
+      "image": "pages/webp/CD1_49.webp",
+      "audio_file": "audio/Track49.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_49",
+        "prompt": "Trong hội thoại bên phải, khi hỏi “Is it a rectangle?”, câu trả lời nào đúng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yes, it is."
+          },
+          {
+            "id": "B",
+            "text": "I'm fine, thank you."
+          },
+          {
+            "id": "C",
+            "text": "No, it isn't. It's a diamond."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_50",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 6,
+      "book_page": 25,
+      "image": "pages/webp/CD1_50.webp",
+      "audio_file": "audio/Track50.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_50",
+        "prompt": "Sau bài hát, hình màu xanh dương trong dãy là hình gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a square"
+          },
+          {
+            "id": "B",
+            "text": "a circle"
+          },
+          {
+            "id": "C",
+            "text": "a heart"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_51",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 26,
+      "image": "pages/webp/CD1_51.webp",
+      "audio_file": "audio/Track51.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_51",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau F?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "H"
+          },
+          {
+            "id": "B",
+            "text": "G"
+          },
+          {
+            "id": "C",
+            "text": "E"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_52",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 26,
+      "image": "pages/webp/CD1_52.webp",
+      "audio_file": "audio/Track52.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_52",
+        "prompt": "Từ nào đi với chữ G g trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "fish"
+          },
+          {
+            "id": "B",
+            "text": "egg"
+          },
+          {
+            "id": "C",
+            "text": "gorilla"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_53",
+      "exercise": "A. Sentences.",
+      "page": 8,
+      "book_page": 27,
+      "image": "pages/webp/CD1_53.webp",
+      "audio_file": "audio/Track53.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_53",
+        "prompt": "Bạn trai chỉ hình vuông màu xanh dương và nói câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "It's a blue square."
+          },
+          {
+            "id": "B",
+            "text": "It's a purple heart."
+          },
+          {
+            "id": "C",
+            "text": "It's a yellow circle."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD1_54",
+      "exercise": "B. Question and answer.",
+      "page": 8,
+      "book_page": 27,
+      "image": "pages/webp/CD1_54.webp",
+      "audio_file": "audio/Track54.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U3-CD1_54",
+        "prompt": "Trong hội thoại bên phải, hình được hỏi “Is it a red square?” thực ra là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "a green square"
+          },
+          {
+            "id": "B",
+            "text": "a pink heart"
+          },
+          {
+            "id": "C",
+            "text": "a red square"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

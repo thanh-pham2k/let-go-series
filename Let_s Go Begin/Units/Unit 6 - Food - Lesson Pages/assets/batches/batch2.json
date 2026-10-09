@@ -1,0 +1,60 @@
+{
+  "tracks": [
+    "CD2_24",
+    "CD2_25",
+    "CD2_26",
+    "CD2_27"
+  ],
+  "prompt": "Generate FOUR independent textbook cartoon lesson panels in 2x2 sheet with straight white gutters, exact text, soft shading, bright style matching previous. Reference source content redraw. TL CD2_24 'E. Listen and do.' use page2 D supporting activity, '1. Make a line.' four children queue red-haired green stripes boy, dark boy navy stripes, black bob yellow girl, blonde glasses red girl; '2. Make a circle.' same four hold hands circle; include gray cat pointing. TR CD2_25 'A. Words.' page3 preserve top mini scene two cats gray speaker 'I like ice cream.' orange cat eating sundae; main grid labeled '1. ice cream' triple scoop white pink brown cone; '2. pizza' sliced pizza on blue plate; '3. cake' yellow pink cake blue flowers on blue stand; '4. chicken' roasted chicken on blue plate. BL CD2_26 'B. Listen and point.' same four numbered vocabulary illustrations and labels from page3, include orange cat pointing and header mini cats dialogue 'I like ice cream.' BR CD2_27 'C. Sentences.' recreate page4 upper party scene: left curly dark girl pink shirt holding cake fork says 'I like cake.'; curly red boy green holding ice cream; blonde curly orange shirt girl eating chicken; dark boy blue eating pizza. Numbered food badges:1 whole cake;2 ice cream tub with text ICE CREAM;3 platter of chicken;4 pizza missing slice. Preserve colors objects expressions speech ownership, not extra lyrics, not quiz. Clear track IDs and headings in each panel, no overflow.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-02.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-03.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-04.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-c942a10f-ed18-4fce-aa72-f6eeb032bf3b.png",
+  "status": "reviewed",
+  "visual_review": "All four food labels correct; orange pointing mascot restored below fully visible chicken label; correct I like ice cream and I like cake speakers, four children both actions, party badges checked.",
+  "sheet_size": [
+    1448,
+    1086
+  ],
+  "split": [
+    724,
+    635
+  ],
+  "sha256": "d5495f5e330bb8c067fee39d47bc15d4a81c4e8f7b7edce0086f70d532fd2488",
+  "final_crop_boxes": [
+    [
+      3,
+      3,
+      722,
+      633
+    ],
+    [
+      727,
+      3,
+      1445,
+      633
+    ],
+    [
+      3,
+      638,
+      722,
+      1083
+    ],
+    [
+      727,
+      638,
+      1445,
+      1083
+    ]
+  ],
+  "original_local_result": "assets/batches/batch2-original.png",
+  "selected_local_result": "assets/batches/batch2.png",
+  "selected_result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-3641506b-f633-4776-abae-32422431e226.png",
+  "repair_logs": [
+    "batch2-fix1",
+    "batch2-fix2"
+  ]
+}

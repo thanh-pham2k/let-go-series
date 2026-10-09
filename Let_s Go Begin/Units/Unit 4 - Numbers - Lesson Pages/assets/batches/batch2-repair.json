@@ -1,0 +1,9 @@
+{
+  "tool": "built-in image_gen",
+  "prompt": "Edit this 2x2 lesson sheet with TWO COUNT CORRECTIONS ONLY. Preserve all four page titles, CD1 badges59/60/61/62, exact text, style, characters and other objects. TOP LEFT59 unchanged, TOP RIGHT60 unchanged (already correct 1ball2dolls3cars4bears5yo-yos). BOTTOM LEFT61 currently has only4 yo-yos: make this group EXACTLY FIVE distinct yo-yos, arranged2 top and3 bottom, label5 remains. No other groups change. BOTTOM RIGHT62 currently has too many red balls: there must be EXACTLY FIVE balls IN TOTAL: ONE ball held by left girl, EXACTLY THREE separate red spotted balls lying between children, ONE ball held behind right boy. Remove extra floor balls, leave only three on floor in triangle arrangement. Keep group badge1 by floorballs, speech 'Let's count. 1, 2, 3, 4…' and '5!' unchanged. Keep2dolls4yo-yos3bicycles1train and badges2/3/4/5 unchanged. Keep divider at exact middle. Do not add extra balls or yo-yos elsewhere. Count corrected objects carefully.",
+  "reference": "batch2.png",
+  "corrections": [
+    "CD1_61: yo-yos4→5",
+    "CD1_62: total balls→5 (1 held +3 floor +1 behind)"
+  ]
+}

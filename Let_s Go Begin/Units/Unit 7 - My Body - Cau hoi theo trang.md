@@ -1,24 +1,18 @@
-# Unit 7 - My Body: Câu hỏi theo từng mục hình–audio
+# Unit 7 – My Body: Câu hỏi theo trang
 
-## Phạm vi và cách dùng
+Bộ chuẩn gồm 17 trang, mỗi trang có ảnh có chữ, audio và đúng một câu trắc nghiệm. Ảnh đều 1200 × 1200, giữ tỷ lệ nội dung.
 
-Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.zip), gồm `unit_7_my_body.metadata` và **17 mục hình–audio**. Mỗi mục học/hình trong ZIP có **đúng 1 câu hỏi** sau khi nghe; không gộp các mục trên cùng trang sách.
-
-- Mở hình theo trường `image` trong ZIP, phát audio tương ứng, rồi cho bé trả lời câu hỏi của mục đó.
-- Bé có thể chỉ lựa chọn hoặc nói đáp án. Người lớn đọc hướng dẫn tiếng Việt nếu bé chưa đọc được.
-- `page` là số trang PDF Unit theo metadata. Số trang in trong sách được ghi riêng ở mỗi mục.
-- Đường dẫn hình là đường dẫn **bên trong ZIP**, không phải file đã giải nén trong repo. Link MP3 trỏ đến thư mục CD hiện có trong repo.
-- Câu hỏi bổ sung bám nội dung hình và tên bài. Chưa đối chiếu lời nói hoặc mốc thời gian trong MP3; không yêu cầu nhớ thứ tự đồ vật xuất hiện trong audio.
-- Một số crop “Listen and point/do” chỉ có tiêu đề. Các mục đó dùng hình Words/Numbers/Sentences hoặc lệnh Let's move trên cùng trang; mục **Hình tham chiếu thêm** ghi rõ hình cần mở kèm.
-- Ẩn bảng đáp án khi bé làm bài; xem đáp án sau khi bé trả lời.
+- [Preview học và làm bài](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata nối ảnh/audio/câu hỏi](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- Hiện câu hỏi sau khi nghe, phản hồi đáp án sau khi bé chọn.
+- Audio khớp file CD nguồn; chưa nghe/transcribe đối chiếu độc lập.
 
 ## CD2_37 – A. Let's talk.
 
 - **Mã câu hỏi:** U7-CD2_37.
-- **Trang trong metadata:** 1 (trang sách 56).
-- **Hình trong ZIP:** `images/CD2_37_a_let_s_talk.png`.
-- **Nhãn audio trong ZIP:** CD2 37.
-- **Audio sử dụng:** [CD2 37 – Track37.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track37.mp3).
+- **Trang PDF:** 1 (trang sách 56).
+- **Ảnh chuẩn:** [CD2_37.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_37.webp).
+- **Audio:** [Track37.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track37.mp3).
 
 **Câu hỏi:** Khi nghe “Oops! I'm sorry”, câu trả lời trong hình là gì?
 
@@ -29,10 +23,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_38 – B. Say and act.
 
 - **Mã câu hỏi:** U7-CD2_38.
-- **Trang trong metadata:** 1 (trang sách 56).
-- **Hình trong ZIP:** `images/CD2_38_b_say_and_act.png`.
-- **Nhãn audio trong ZIP:** CD2 38.
-- **Audio sử dụng:** [CD2 38 – Track38.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track38.mp3).
+- **Trang PDF:** 1 (trang sách 56).
+- **Ảnh chuẩn:** [CD2_38.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_38.webp).
+- **Audio:** [Track38.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track38.mp3).
 
 **Câu hỏi:** Ở tình huống số 2, câu nào phù hợp trước lời đáp “That's OK”?
 
@@ -43,10 +36,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_39 – C. Let's sing.
 
 - **Mã câu hỏi:** U7-CD2_39.
-- **Trang trong metadata:** 2 (trang sách 57).
-- **Hình trong ZIP:** `images/CD2_39_c_let_s_sing.png`.
-- **Nhãn audio trong ZIP:** CD2 39.
-- **Audio sử dụng:** [CD2 39 – Track39.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track39.mp3).
+- **Trang PDF:** 2 (trang sách 57).
+- **Ảnh chuẩn:** [CD2_39.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_39.webp).
+- **Audio:** [Track39.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track39.mp3).
 
 **Câu hỏi:** Trong bài hát, câu nào dùng để xin lỗi?
 
@@ -57,10 +49,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_40 – D. Let's move.
 
 - **Mã câu hỏi:** U7-CD2_40.
-- **Trang trong metadata:** 2 (trang sách 57).
-- **Hình trong ZIP:** `images/CD2_40_d_let_s_move.png`.
-- **Nhãn audio trong ZIP:** CD2 40.
-- **Audio sử dụng:** [CD2 40 – Track40.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track40.mp3).
+- **Trang PDF:** 2 (trang sách 57).
+- **Ảnh chuẩn:** [CD2_40.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_40.webp).
+- **Audio:** [Track40.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track40.mp3).
 
 **Câu hỏi:** Khi nghe “Clap your hands”, bé cần làm gì?
 
@@ -71,11 +62,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_41 – E. Listen and do.
 
 - **Mã câu hỏi:** U7-CD2_41.
-- **Trang trong metadata:** 2 (trang sách 57).
-- **Hình trong ZIP:** `images/CD2_41_e_listen_and_do.png`.
-- **Nhãn audio trong ZIP:** CD2 41.
-- **Audio sử dụng:** [CD2 41 – Track41.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track41.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_40_d_let_s_move.png` (D. Let's move., cùng trang).
+- **Trang PDF:** 2 (trang sách 57).
+- **Ảnh chuẩn:** [CD2_41.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_41.webp).
+- **Audio:** [Track41.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track41.mp3).
 
 **Câu hỏi:** Sau bài luyện hành động, “Stamp your feet” yêu cầu bé làm gì?
 
@@ -86,10 +75,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_42 – A. Words.
 
 - **Mã câu hỏi:** U7-CD2_42.
-- **Trang trong metadata:** 3 (trang sách 58).
-- **Hình trong ZIP:** `images/CD2_42_a_words.png`.
-- **Nhãn audio trong ZIP:** CD2 42.
-- **Audio sử dụng:** [CD2 42 – Track42.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track42.mp3).
+- **Trang PDF:** 3 (trang sách 58).
+- **Ảnh chuẩn:** [CD2_42.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_42.webp).
+- **Audio:** [Track42.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track42.mp3).
 
 **Câu hỏi:** Hình số 3 ứng với từ nào trong bài từ vựng?
 
@@ -100,11 +88,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_43 – B. Listen and point.
 
 - **Mã câu hỏi:** U7-CD2_43.
-- **Trang trong metadata:** 3 (trang sách 58).
-- **Hình trong ZIP:** `images/CD2_43_b_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD2 43.
-- **Audio sử dụng:** [CD2 43 – Track43.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track43.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_42_a_words.png` (A. Words., cùng trang).
+- **Trang PDF:** 3 (trang sách 58).
+- **Ảnh chuẩn:** [CD2_43.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_43.webp).
+- **Audio:** [Track43.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track43.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, bé chọn từ chỉ bộ phận ở hình số 4.
 
@@ -115,10 +101,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_44 – C. Sentences.
 
 - **Mã câu hỏi:** U7-CD2_44.
-- **Trang trong metadata:** 4 (trang sách 59).
-- **Hình trong ZIP:** `images/CD2_44_c_sentences.png`.
-- **Nhãn audio trong ZIP:** CD2 44.
-- **Audio sử dụng:** [CD2 44 – Track44.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track44.mp3).
+- **Trang PDF:** 4 (trang sách 59).
+- **Ảnh chuẩn:** [CD2_44.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_44.webp).
+- **Audio:** [Track44.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track44.mp3).
 
 **Câu hỏi:** Câu “I can touch my head” nói về việc chạm vào bộ phận nào?
 
@@ -129,10 +114,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_45 – D. Listen, chant, and do.
 
 - **Mã câu hỏi:** U7-CD2_45.
-- **Trang trong metadata:** 4 (trang sách 59).
-- **Hình trong ZIP:** `images/CD2_45_d_listen_chant_and_do.png`.
-- **Nhãn audio trong ZIP:** CD2 45.
-- **Audio sử dụng:** [CD2 45 – Track45.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track45.mp3).
+- **Trang PDF:** 4 (trang sách 59).
+- **Ảnh chuẩn:** [CD2_45.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_45.webp).
+- **Audio:** [Track45.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track45.mp3).
 
 **Câu hỏi:** Sau bài chant, từ nào chỉ vai trong dãy hình bộ phận cơ thể?
 
@@ -143,10 +127,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_46 – A. Words.
 
 - **Mã câu hỏi:** U7-CD2_46.
-- **Trang trong metadata:** 5 (trang sách 60).
-- **Hình trong ZIP:** `images/CD2_46_a_words.png`.
-- **Nhãn audio trong ZIP:** CD2 46.
-- **Audio sử dụng:** [CD2 46 – Track46.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track46.mp3).
+- **Trang PDF:** 5 (trang sách 60).
+- **Ảnh chuẩn:** [CD2_46.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_46.webp).
+- **Audio:** [Track46.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track46.mp3).
 
 **Câu hỏi:** Hình số 2 ứng với từ nào trong bài từ vựng?
 
@@ -157,11 +140,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_47 – B. Listen and point.
 
 - **Mã câu hỏi:** U7-CD2_47.
-- **Trang trong metadata:** 5 (trang sách 60).
-- **Hình trong ZIP:** `images/CD2_47_b_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD2 47.
-- **Audio sử dụng:** [CD2 47 – Track47.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track47.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_46_a_words.png` (A. Words., cùng trang).
+- **Trang PDF:** 5 (trang sách 60).
+- **Ảnh chuẩn:** [CD2_47.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_47.webp).
+- **Audio:** [Track47.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track47.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, bé chọn từ chỉ bộ phận ở hình số 4.
 
@@ -172,10 +153,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_48 – C. Question and answer.
 
 - **Mã câu hỏi:** U7-CD2_48.
-- **Trang trong metadata:** 6 (trang sách 61).
-- **Hình trong ZIP:** `images/CD2_48_c_question_and_answer.png`.
-- **Nhãn audio trong ZIP:** CD2 48.
-- **Audio sử dụng:** [CD2 48 – Track48.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track48.mp3).
+- **Trang PDF:** 6 (trang sách 61).
+- **Ảnh chuẩn:** [CD2_48.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_48.webp).
+- **Audio:** [Track48.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track48.mp3).
 
 **Câu hỏi:** Trong hội thoại, câu trả lời cho “What can you do?” là gì?
 
@@ -186,10 +166,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_49 – D. Listen, sing, and do.
 
 - **Mã câu hỏi:** U7-CD2_49.
-- **Trang trong metadata:** 6 (trang sách 61).
-- **Hình trong ZIP:** `images/CD2_49_d_listen_sing_and_do.png`.
-- **Nhãn audio trong ZIP:** CD2 49.
-- **Audio sử dụng:** [CD2 49 – Track49.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track49.mp3).
+- **Trang PDF:** 6 (trang sách 61).
+- **Ảnh chuẩn:** [CD2_49.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_49.webp).
+- **Audio:** [Track49.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track49.mp3).
 
 **Câu hỏi:** Sau bài hát, bạn nhỏ đưa hai tay lên tai đang chạm vào bộ phận nào?
 
@@ -200,10 +179,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_50 – A. Sing and say.
 
 - **Mã câu hỏi:** U7-CD2_50.
-- **Trang trong metadata:** 7 (trang sách 62).
-- **Hình trong ZIP:** `images/CD2_50_a_sing_and_say.png`.
-- **Nhãn audio trong ZIP:** CD2 50.
-- **Audio sử dụng:** [CD2 50 – Track50.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track50.mp3).
+- **Trang PDF:** 7 (trang sách 62).
+- **Ảnh chuẩn:** [CD2_50.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_50.webp).
+- **Audio:** [Track50.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track50.mp3).
 
 **Câu hỏi:** Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau U?
 
@@ -214,10 +192,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_51 – B. Letters and words.
 
 - **Mã câu hỏi:** U7-CD2_51.
-- **Trang trong metadata:** 7 (trang sách 62).
-- **Hình trong ZIP:** `images/CD2_51_b_letters_and_words.png`.
-- **Nhãn audio trong ZIP:** CD2 51.
-- **Audio sử dụng:** [CD2 51 – Track51.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track51.mp3).
+- **Trang PDF:** 7 (trang sách 62).
+- **Ảnh chuẩn:** [CD2_51.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_51.webp).
+- **Audio:** [Track51.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track51.mp3).
 
 **Câu hỏi:** Từ nào đi với chữ V v trong hình?
 
@@ -228,10 +205,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_52 – A. Sentences.
 
 - **Mã câu hỏi:** U7-CD2_52.
-- **Trang trong metadata:** 8 (trang sách 63).
-- **Hình trong ZIP:** `images/CD2_52_a_sentences.png`.
-- **Nhãn audio trong ZIP:** CD2 52.
-- **Audio sử dụng:** [CD2 52 – Track52.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track52.mp3).
+- **Trang PDF:** 8 (trang sách 63).
+- **Ảnh chuẩn:** [CD2_52.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_52.webp).
+- **Audio:** [Track52.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track52.mp3).
 
 **Câu hỏi:** Câu “I can touch the red circle” nói về hình nào?
 
@@ -242,10 +218,9 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 ## CD2_53 – B. Question and answer.
 
 - **Mã câu hỏi:** U7-CD2_53.
-- **Trang trong metadata:** 8 (trang sách 63).
-- **Hình trong ZIP:** `images/CD2_53_b_question_and_answer.png`.
-- **Nhãn audio trong ZIP:** CD2 53.
-- **Audio sử dụng:** [CD2 53 – Track53.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track53.mp3).
+- **Trang PDF:** 8 (trang sách 63).
+- **Ảnh chuẩn:** [CD2_53.webp](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/pages/webp/CD2_53.webp).
+- **Audio:** [Track53.mp3](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/audio/Track53.mp3).
 
 **Câu hỏi:** Trong hình, bạn gái trả lời “What can you do?” bằng câu nào?
 
@@ -253,24 +228,24 @@ Nguồn chính: [Unit_7_My_Body_audio_mapping.zip](Unit_7_My_Body_audio_mapping.
 - B. I can touch the red circle.
 - C. I can touch my nose.
 
-## Đáp án và mapping hình → audio → câu hỏi
+## Đáp án
 
-| Mã câu hỏi | Hình trong ZIP | Audio sử dụng | Đáp án đúng |
-|---|---|---|---|
-| U7-CD2_37 | images/CD2_37_a_let_s_talk.png | CD2 37 | A. That's OK. |
-| U7-CD2_38 | images/CD2_38_b_say_and_act.png | CD2 38 | B. Oops! I'm sorry. |
-| U7-CD2_39 | images/CD2_39_c_let_s_sing.png | CD2 39 | C. Oops! I'm sorry. |
-| U7-CD2_40 | images/CD2_40_d_let_s_move.png | CD2 40 | A. Vỗ tay. |
-| U7-CD2_41 | images/CD2_41_e_listen_and_do.png | CD2 41 | B. Giậm chân. |
-| U7-CD2_42 | images/CD2_42_a_words.png | CD2 42 | C. knees |
-| U7-CD2_43 | images/CD2_43_b_listen_and_point.png | CD2 43 | A. toes |
-| U7-CD2_44 | images/CD2_44_c_sentences.png | CD2 44 | B. Đầu. |
-| U7-CD2_45 | images/CD2_45_d_listen_chant_and_do.png | CD2 45 | C. shoulders |
-| U7-CD2_46 | images/CD2_46_a_words.png | CD2 46 | A. ears |
-| U7-CD2_47 | images/CD2_47_b_listen_and_point.png | CD2 47 | B. nose |
-| U7-CD2_48 | images/CD2_48_c_question_and_answer.png | CD2 48 | C. I can touch my eyes. |
-| U7-CD2_49 | images/CD2_49_d_listen_sing_and_do.png | CD2 49 | A. Tai. |
-| U7-CD2_50 | images/CD2_50_a_sing_and_say.png | CD2 50 | B. V |
-| U7-CD2_51 | images/CD2_51_b_letters_and_words.png | CD2 51 | C. violin |
-| U7-CD2_52 | images/CD2_52_a_sentences.png | CD2 52 | A. Hình tròn màu đỏ. |
-| U7-CD2_53 | images/CD2_53_b_question_and_answer.png | CD2 53 | B. I can touch the red circle. |
+| Track | Đáp án |
+|---|---|
+| CD2_37 | A. That's OK. |
+| CD2_38 | B. Oops! I'm sorry. |
+| CD2_39 | C. Oops! I'm sorry. |
+| CD2_40 | A. Vỗ tay. |
+| CD2_41 | B. Giậm chân. |
+| CD2_42 | C. knees |
+| CD2_43 | A. toes |
+| CD2_44 | B. Đầu. |
+| CD2_45 | C. shoulders |
+| CD2_46 | A. ears |
+| CD2_47 | B. nose |
+| CD2_48 | C. I can touch my eyes. |
+| CD2_49 | A. Tai. |
+| CD2_50 | B. V |
+| CD2_51 | C. violin |
+| CD2_52 | A. Hình tròn màu đỏ. |
+| CD2_53 | B. I can touch the red circle. |

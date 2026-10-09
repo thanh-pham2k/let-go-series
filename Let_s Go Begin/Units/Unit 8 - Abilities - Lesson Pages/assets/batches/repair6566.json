@@ -1,0 +1,38 @@
+{
+  "tracks": [
+    "CD2_65",
+    "CD2_66"
+  ],
+  "prompt": "Generate TWO independent square English lesson pages side-by-side 2:1 wide with center gutter. Left \"CD2 65 C. Question and answer.\" Right \"CD2 66 D. Listen and chant.\" Both use SAME reference page69; right heading-only track reuses same content, no invented chant lyrics. Bright textbook cartoon soft shading. Each page top TWO conversations: boy YELLOW shirt asks braided girl PINK shirt \"Can you dance?\" GIRL dancing replies \"Yes, I can.\"; same GIRL asks same BOY \"Can you dance?\" BOY hesitant palms raised replies \"No, I can't.\" Tail must identify each speaker. Below 4 main portraits with two thought bubbles each, numbers1-8 as source: dark-skinned braided GIRL GREEN shirt with 1 swimming in yellow cap (cap must show same skin tone), 2 unable to dance awkward uncertain pose, no joyful dancing. Curly brown-haired BOY ORANGE shirt: 3 smiling, 4 unable to sing awkward uncertain open mouth with musical notes as source. Brown bobbed GIRL ROUND GLASSES GREEN STRIPED VEST yellow sleeves: 5 unable to wink rubbing eye uncertain, 6 unable to smile neutral downturned mouth. Brown-haired BOY PURPLE sweater: 7 dancing confidently, 8 unable to swim standing DRY on orange pool edge holding red-purple swim ring, bare feet on deck NOT in water. Main portrait identity same as each pair. Four main portraits and all 8 numbered bubbles required, source grouping preserved. All exact sentences readable. No quiz or extra words.",
+  "refs": [
+    "source-pages/page-06.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_65": {
+      "box": [
+        1,
+        1,
+        885,
+        886
+      ],
+      "visual_review": "Both dance exchanges correct speaker and positive/negative; all eight numbered thought scenes and four portraits; unable-to-swim child on dry pool edge with ring."
+    },
+    "CD2_66": {
+      "box": [
+        889,
+        1,
+        1773,
+        886
+      ],
+      "visual_review": "Source heading only: reused same page69 question/answer scenes and eight numbered activities; no invented chant."
+    }
+  },
+  "sheet_size": [
+    1774,
+    887
+  ],
+  "sha256": "75373d233a86078d51efe38885e0baea8df0824b12c130458df824f688ed2849",
+  "result_file": "repair6566.png"
+}

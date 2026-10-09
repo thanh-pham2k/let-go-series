@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    "CD1_71",
+    "CD1_72"
+  ],
+  "prompt": "Precise edit ONLY illustration of panel4 '4. Close your book.' on RIGHT page of this two-page sheet. Make closing action unambiguous: orange-haired boy green shirt moving red book's front cover over page stack so book is nearly CLOSED, front red cover at shallow angle about to meet pages, with short motion lines showing cover coming down. Keep original RIGHT-pointing black arrow and caption. Do not depict opening or an upright spread-open page. Preserve all other panels, texts, shapes/counts/choice labels, teacher speech and whole left page exactly. Left circle/square,4green triangles5orange circles6cyan diamonds7purple ovals must remain unchanged.",
+  "refs": [
+    "assets/batches/batch1-initial.png"
+  ],
+  "tool": "built-in image_gen",
+  "source_output": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-c81f9c9f-4efd-4f2b-8fc4-62bf68c0175f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "output": "assets/batches/batch1.png",
+  "status": "visually_reviewed",
+  "review": "Close panel made unambiguous; all choices,counts and captions rechecked after edit."
+}

@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    "CD2_58",
+    "CD2_59",
+    "CD2_60",
+    "CD2_61"
+  ],
+  "prompt": "Edit ONLY bottom-right CD2_61 thought vignettes in this four-page sheet. Preserve everything else exactly including all text and other quadrants. Thought group 1 BOTH small scenes must feature same BLACK straight-haired boy in YELLOW shirt and turquoise shorts as main portrait (currently wrong curly boy turquoise shirt); he successfully flies kite and bounces ball. Group 2 singing thought must be same CURLY BLONDE GIRL in PINK shirt as main portrait; keep the tangled green kite thought showing same girl unable to fly kite, NOT smiling. Group 3 turquoise-shirt dark-skinned curly boy remains, bicycle scene must clearly show FALLEN child beside fallen bike (unable). Group 4 both bicycle and singing thought must be same BRUNETTE PONYTAIL GIRL in ORANGE shirt as main portrait, no helmet covering identity; singing scene distressed awkward open mouth, no musical notes implying successful singing. Preserve main portraits, number badges 1 2 3 4 and top can/can't kite dialogue.",
+  "refs": [
+    "assets/batches/batch2.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "superseded_not_used",
+  "result_file": "batch2-fix1.png"
+}

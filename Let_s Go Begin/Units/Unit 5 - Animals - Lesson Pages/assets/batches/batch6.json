@@ -1,0 +1,22 @@
+{
+  "unit": 5,
+  "id": "batch6",
+  "tracks": [
+    "CD2_15"
+  ],
+  "prompt": "Create ONE square English textbook cartoon lesson page CD2_15. Exact title 'E. Listen, point, and sing.' badge CD2 15. White background crisp outlined softly shaded source-style animals. FIVE horizontal rows of animals, separated clearly, each row labeled below. Row1 TWO yellow ducks:1 at left,1 beside it. Row2 THREE black-and-white cows:1 left1 middle1 right. Row3 FIVE rabbits:one at each of five evenly spaced positions. Row4 SEVEN dogs:one at each of seven evenly spaced positions. Row5 TEN small rust-red birds:five in first sub-row plus five in second sub-row, EXACTLY10 total. Labels ducks,cows,rabbits,dogs,birds. Source counts mandatory2,3,5,7,10. No numeric labels needed, no extra animals, no song lyrics or questions. Keep source animal colors/types. Make each animal distinct, complete, easy to count. Birds last.",
+  "refs": [],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source43 counted ducks2 cows3 rabbits5 dogs7 birds10. Source colors retained with2 brown/cream cows and1 black/white cow, varied rabbit fur, yellow ducks rust-red birds. No invented song lyrics; plural labels correct.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    672
+  ],
+  "sha256": "fcc8e3ac23827e4da49c5d02f13c88ce5cf7a14aeeb33dc19356aafda6a27b72",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-ab264c72-e5b9-4909-87fd-4b4d8f36e1bf.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

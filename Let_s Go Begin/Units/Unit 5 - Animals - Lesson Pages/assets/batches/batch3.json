@@ -1,0 +1,30 @@
+{
+  "unit": 5,
+  "id": "batch3",
+  "tracks": [
+    "CD2_10",
+    "CD2_11",
+    "CD2_12",
+    "CD2_13"
+  ],
+  "prompt": "Generate independent square English textbook lesson pages in a 2x2 sheet, reading order top-left, top-right, bottom-left, bottom-right. Straight white gutters, ample safe margins; bright polished textbook cartoon, crisp outlines, soft shading. Every panel has its exact title and CD2 track badge. Preserve all source English and animal counts, colors and speakers. Group IDs are NOT counts. No quiz or answer options. No invented song lyrics. \nPanel 1 CD2_10: D. Listen, point, and sing. Three groups from left to right EXACTLY TWO birds, THREE dogs, TWO cats, labels 'birds', 'dogs', 'cats' under groups. No invented lyrics. Rightmost must cats.\nPanel 2 CD2_11: A. Words. Farm six groups IDs/labels: 1. cow (ONE black-white cow near barn);2. cows (THREE cows together);3. rabbit (ONE rabbit on stump);4. rabbits (SIX rabbits);5. duck (ONE duck on grass);6. ducks (FOUR ducks at pond). IDs not quantities. Header model 'How many ducks?' / '3 ducks.' with three small ducks clearly separate from main pond if included.\nPanel 3 CD2_12: B. Listen and point. Same farm six IDs/labels and quantities as11:1cow,2cows(3),3rabbit,4rabbits(6),5duck,6ducks(4). Correct title only.\nPanel 4 CD2_13: C. Question and answer. Farm bicycle-riding girl pink shirt/purple helmet asks boy blue shirt/red helmet 'How many cows?' boy '8 cows.' Source GROUPS: ID1 eight cows in field together, ID2 one duck on grass near pond, ID3 six ducks IN pond, ID4 one additional separate cow by fence, ID5 three running rabbits, ID6 one sitting rabbit. Do not confuse eight-cow group with separate single cow. Exact quantities, IDs placed beside matching groups.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_10.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_11.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_12.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_13.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source41–43 counted:10 birds2 dogs3 cats2;11/12 cow1 cows3 rabbit1 rabbits6 duck1 ducks4, header3 ducks separate;13 cows8 plus separate1, pond6 white ducks plus shore1, running rabbits3 seated1; all labels/dialogues correct.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    628,
+    628
+  ],
+  "sha256": "d3de4966e6ce971aff0fb04896d5cb2addea5fc7b826ff85ac10cb713dcd9064",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-a7a8e19a-eb0a-4235-8aab-ddaecf329d3d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

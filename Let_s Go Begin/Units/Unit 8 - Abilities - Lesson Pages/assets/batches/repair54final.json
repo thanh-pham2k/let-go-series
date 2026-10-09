@@ -1,0 +1,12 @@
+{
+  "tracks": [
+    "CD2_54"
+  ],
+  "prompt": "Edit ONLY the middle bottom comic panel \"OK. Let's play tag.\" of this CD2_54 square page. Keep curly-haired boy navy-white shirt as the foreground speaker and his bubble tail. Add the red-haired boy in green-white striped shirt running just ahead of him in that SAME panel, reaching back playfully, so the two clearly play TAG/chase rather than one child running alone. Fit both inside the panel below the unchanged speech bubble, no overlap with ball or rope panels. Preserve all other text, four sentences, titles, top four-child scene, left ball panel, right rope panel, colors, bubble speaker and square canvas exactly.",
+  "refs": [
+    "pages/png/CD2_54.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "superseded_not_used",
+  "result_file": "repair54final.png"
+}

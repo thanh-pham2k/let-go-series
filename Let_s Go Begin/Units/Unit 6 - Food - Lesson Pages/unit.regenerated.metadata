@@ -1,0 +1,507 @@
+{
+  "format_version": "2.0",
+  "unit": 6,
+  "topic": "Food",
+  "item_count": 15,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD2_20",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 46,
+      "image": "pages/webp/CD2_20.webp",
+      "audio_file": "audio/Track20.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_20",
+        "prompt": "Trong hình sinh nhật, Kate trả lời “How old are you?” bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm 6."
+          },
+          {
+            "id": "B",
+            "text": "I'm 10."
+          },
+          {
+            "id": "C",
+            "text": "It's a cake."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_21",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 46,
+      "image": "pages/webp/CD2_21.webp",
+      "audio_file": "audio/Track21.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_21",
+        "prompt": "Ở tình huống số 2, câu hỏi nào phù hợp với câu trả lời “I'm 10”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "What is it?"
+          },
+          {
+            "id": "B",
+            "text": "How old are you?"
+          },
+          {
+            "id": "C",
+            "text": "What color is it?"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_22",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 47,
+      "image": "pages/webp/CD2_22.webp",
+      "audio_file": "audio/Track22.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_22",
+        "prompt": "Câu “How old are you?” trong bài hát hỏi điều gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bạn tên gì?"
+          },
+          {
+            "id": "B",
+            "text": "Bạn thích món gì?"
+          },
+          {
+            "id": "C",
+            "text": "Bạn bao nhiêu tuổi?"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_23",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 47,
+      "image": "pages/webp/CD2_23.webp",
+      "audio_file": "audio/Track23.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_23",
+        "prompt": "Khi nghe “Make a line”, các bạn cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Xếp thành hàng."
+          },
+          {
+            "id": "B",
+            "text": "Xếp thành vòng tròn."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_24",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 47,
+      "image": "pages/webp/CD2_24.webp",
+      "audio_file": "audio/Track24.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_24",
+        "prompt": "Sau bài luyện hành động, “Make a circle” yêu cầu các bạn làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Chạy đi."
+          },
+          {
+            "id": "B",
+            "text": "Xếp thành vòng tròn."
+          },
+          {
+            "id": "C",
+            "text": "Xếp thành hàng."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_25",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 48,
+      "image": "pages/webp/CD2_25.webp",
+      "audio_file": "audio/Track25.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_25",
+        "prompt": "Hình số 2 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "cake"
+          },
+          {
+            "id": "B",
+            "text": "chicken"
+          },
+          {
+            "id": "C",
+            "text": "pizza"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_26",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 48,
+      "image": "pages/webp/CD2_26.webp",
+      "audio_file": "audio/Track26.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_26",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ món ở hình số 1.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "ice cream"
+          },
+          {
+            "id": "B",
+            "text": "chicken"
+          },
+          {
+            "id": "C",
+            "text": "pizza"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_27",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 49,
+      "image": "pages/webp/CD2_27.webp",
+      "audio_file": "audio/Track27.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_27",
+        "prompt": "Câu “I like cake” cho biết bạn nhỏ thích món nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Pizza."
+          },
+          {
+            "id": "B",
+            "text": "Bánh ngọt."
+          },
+          {
+            "id": "C",
+            "text": "Gà."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_28",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 4,
+      "book_page": 49,
+      "image": "pages/webp/CD2_28.webp",
+      "audio_file": "audio/Track28.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_28",
+        "prompt": "Sau bài hát, món ngoài cùng bên phải trong dãy ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "cake"
+          },
+          {
+            "id": "B",
+            "text": "ice cream"
+          },
+          {
+            "id": "C",
+            "text": "chicken"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_29",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 50,
+      "image": "pages/webp/CD2_29.webp",
+      "audio_file": "audio/Track29.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_29",
+        "prompt": "Hình số 3 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "bread"
+          },
+          {
+            "id": "B",
+            "text": "milk"
+          },
+          {
+            "id": "C",
+            "text": "rice"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_30",
+      "exercise": "B. Listen, point, and chant.",
+      "page": 5,
+      "book_page": 50,
+      "image": "pages/webp/CD2_30.webp",
+      "audio_file": "audio/Track30.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_30",
+        "prompt": "Sau bài chant, bé chọn từ chỉ món ở hình số 4 của phần Words cùng trang.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "bread"
+          },
+          {
+            "id": "B",
+            "text": "rice"
+          },
+          {
+            "id": "C",
+            "text": "fish"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_31",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 51,
+      "image": "pages/webp/CD2_31.webp",
+      "audio_file": "audio/Track31.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_31",
+        "prompt": "Trong hội thoại, bé chọn câu trả lời khi thích cá cho câu hỏi “Do you like fish?”.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "No, I don't."
+          },
+          {
+            "id": "B",
+            "text": "I'm 6."
+          },
+          {
+            "id": "C",
+            "text": "Yes, I do."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_32",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 52,
+      "image": "pages/webp/CD2_32.webp",
+      "audio_file": "audio/Track32.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_32",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau R?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "S"
+          },
+          {
+            "id": "B",
+            "text": "Q"
+          },
+          {
+            "id": "C",
+            "text": "T"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_33",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 52,
+      "image": "pages/webp/CD2_33.webp",
+      "audio_file": "audio/Track33.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_33",
+        "prompt": "Từ nào đi với chữ T t trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "rabbit"
+          },
+          {
+            "id": "B",
+            "text": "tiger"
+          },
+          {
+            "id": "C",
+            "text": "queen"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_34",
+      "exercise": "A. Play a game.",
+      "page": 8,
+      "book_page": 53,
+      "image": "pages/webp/CD2_34.webp",
+      "audio_file": "audio/Track34.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U6-CD2_34",
+        "prompt": "Trong trò chơi, bé chọn câu đáp lại “Do you like birds?” khi bé không thích chim.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Yes, I do."
+          },
+          {
+            "id": "B",
+            "text": "I'm 10."
+          },
+          {
+            "id": "C",
+            "text": "No, I don't."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

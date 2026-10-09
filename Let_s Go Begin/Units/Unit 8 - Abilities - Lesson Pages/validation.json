@@ -1,0 +1,219 @@
+{
+  "result": "pass",
+  "unit": 8,
+  "item_count": 16,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD2_54",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "706b57ad525001c9b1b7a6bcab09018557474ab86c361cf441c7e36528f0b69f",
+      "visual_review": "Four exact invitations/replies; speaker tails now identify striped boy, yellow-shirt girl, navy-shirt boy, red-dress girl. Rearranged as separate comic panels."
+    },
+    {
+      "track": "CD2_55",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "5cbe01c262c04a6516dd8bafe837a41619bee337d85bc34e805506cdf765db1b",
+      "visual_review": "Two numbered situations; original reply/prompt blanks retained without scanned handwritten answers; periods restored; soccer ball and jump rope, correct speakers."
+    },
+    {
+      "track": "CD2_56",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "df9ca5240d11c455003d2d3f73396adf224432450196eb4b34c06a26ecf91066",
+      "visual_review": "All 14 printed lyric lines checked word by word; title retained; curly-haired boy playing tag with blonde glasses girl red dress."
+    },
+    {
+      "track": "CD2_57",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "977f93bf9647ae4754aad497f097dc25c8b7eb921f2a3d76262bd8d797b1c350",
+      "visual_review": "Pointing girl and walking striped boy distinguished; both numbered board commands retained."
+    },
+    {
+      "track": "CD2_58",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "342c76b79f7403e8479a6c0b0e15f92a90b1aff72e80ebddf46984aa92e8d020",
+      "visual_review": "Source heading only: reused two classroom commands from D on same PDF page; no new commands."
+    },
+    {
+      "track": "CD2_59",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "b5937f70d457e01037ebaf9fe7d3ac8c965f6ac6b050374b48b46e09dd793f24",
+      "visual_review": "All four numbered actions correct; pink bicycle helmeted girl, singing boy, orange kite boy, basketball bouncing girl; cat bicycle sentence retained."
+    },
+    {
+      "track": "CD2_60",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "1dfe3f1e791dc7f403f26b2eeeb1bfa545a10a8355cd9ea18101a84c1e7f466c",
+      "visual_review": "Source heading only: reused four labeled action pictures from A on same PDF page."
+    },
+    {
+      "track": "CD2_61",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "5d43411be72e70f2325954255d597d5d0b5c6e0450c78d40e33b25fc7c621e8a",
+      "visual_review": "Both can/cannot kite examples; four numbered same-child thought pairs, eight activities checked; tangled kite and fallen bicycle negative; same orange-shirt girl bicycle and unsuccessful singing."
+    },
+    {
+      "track": "CD2_62",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "56c60465cac93d4af11e30a39e882c5685eb3d70431de79ec319eecdc1a274ad",
+      "visual_review": "Source heading only: reused page67 sentences and eight thought scenes; no invented chant words."
+    },
+    {
+      "track": "CD2_63",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "61f41780fc6a5b0515be8eaa42b7974126d0b7ef6cd9a163142d65ce7e605468",
+      "visual_review": "All four numbered actions; swim, smile both eyes open, wink exactly one eye shut, dance; gray/orange cat swim question and negative reply retained."
+    },
+    {
+      "track": "CD2_64",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "047d1481367fe23568d6962cd4319b4a9b694ca6fedaf3b8ec2fa2ef896d3429",
+      "visual_review": "Source heading only: reused four labeled pictures from A same page; wink single eye; swim/smile/dance distinct."
+    },
+    {
+      "track": "CD2_65",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "200420ccd624ee8af2097b5ce710940493808c7859be91dad934322b745a94ad",
+      "visual_review": "Both dance exchanges correct speaker and positive/negative; all eight numbered thought scenes and four portraits; unable-to-swim child on dry pool edge with ring."
+    },
+    {
+      "track": "CD2_66",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "fbd1fef52dc13f59cf5d9eeeed47c581b7b8ef46df238d5ea9bfc0b8b6c48cbf",
+      "visual_review": "Source heading only: reused same page69 question/answer scenes and eight numbered activities; no invented chant."
+    },
+    {
+      "track": "CD2_67",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "eec9a3e8b55f63104e4cd5846f6ee829ede2fb4f5b61075c61da28ac96ff8eae",
+      "visual_review": "All 26 uppercase and 26 lowercase glyphs checked in order; X Y Z and x y z red; no invented song lyrics."
+    },
+    {
+      "track": "CD2_68",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "fda486546df2e5ba79c0012bad7b99c2a150b2ad86fa34426d7c33e5d8491ff0",
+      "visual_review": "X x fox, Y y blue yarn, Z z zebra; 1-3 labels; Find the letters zoo scene fox/green yarn and zebra/children retained; answers unmarked. Lowercase y added by built-in repair and final PNG rechecked; all six X/x Y/y Z/z glyphs present."
+    },
+    {
+      "track": "CD2_69",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "49d42e5f525bdd1e614756061a56f18f2fb208a24391e604ce1923b7f75c931d",
+      "visual_review": "Both dialogue speakers checked; all14 board spaces and sequence retained, circle5 children, line4 children; ahead2 and back3 match PDF; full continuous board, stopping distinct from running."
+    }
+  ],
+  "audio_validation": "Byte-for-byte identity with source CD MP3; speech not independently audited.",
+  "visual_audit": {
+    "result": "pass",
+    "final_pngs_viewed": [
+      "CD2_54",
+      "CD2_55",
+      "CD2_56",
+      "CD2_57",
+      "CD2_58",
+      "CD2_59",
+      "CD2_60",
+      "CD2_61",
+      "CD2_62",
+      "CD2_63",
+      "CD2_64",
+      "CD2_65",
+      "CD2_66",
+      "CD2_67",
+      "CD2_68",
+      "CD2_69"
+    ],
+    "contact_sheet_viewed": true,
+    "source_pages_viewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "lyrics_lines": 14,
+    "alphabet_glyphs": 52,
+    "game_spaces": 14,
+    "game_circle_children": 5,
+    "game_line_children": 4,
+    "ahead_spaces": 2,
+    "back_spaces": 3,
+    "quiz_not_in_images": true
+  },
+  "limitations": [
+    "Source MP3 byte identity checked; speech not independently listened/transcribed.",
+    "Challenge clips not created; project owner must supply them."
+  ],
+  "mapping_validation": "16 printed track keys/pages verified against read-only overall mapping.",
+  "markdown_links": "All links in README/questions and both external Markdown files exist.",
+  "preview_runtime_validation": "Node VM mock DOM passed:16 options/image-audio paths/3 choices each,ended reveal,feedback,reset,navigation bounds; no independent browser/audio playback audit."
+}

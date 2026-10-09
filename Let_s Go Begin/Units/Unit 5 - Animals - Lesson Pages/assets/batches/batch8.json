@@ -1,0 +1,24 @@
+{
+  "unit": 5,
+  "id": "batch8",
+  "tracks": [
+    "CD2_19"
+  ],
+  "prompt": "Edit ONLY hanging jump-rope display on left wall. Current display has THREE ropes with SIX black handles. Replace that small display with EXACTLY FOUR separate hanging looped jump ropes, EACH having TWO black handles, therefore EIGHT handles total. Four clearly spaced pegs, one rope on each peg, eight handles. Can widen display slightly into empty wall. Keep badge3 unchanged, all remaining page unchanged:8 cars10 blue cards2 rabbits5 balls1 bicycle and dialogues. Count ropes, not strands.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\cd19-edit-target.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source45 checked:8 cars,10 blue rectangular cards5+5,4 complete ropes8 handles,2 rabbits,5 balls,1 red bicycle. Dialogue How many cars?/8 cars. correct speakers.",
+  "sheet_size": [
+    885,
+    1778
+  ],
+  "split": [
+    442,
+    889
+  ],
+  "sha256": "4e160a96fdf4bf662e790ac5b2d9a3212ceb28c83439a2ebc5dfde4764dc792b",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-82b8c7a3-4cc8-4968-b39d-216d695415c9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

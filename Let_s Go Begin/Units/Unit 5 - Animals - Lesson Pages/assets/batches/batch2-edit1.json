@@ -1,0 +1,16 @@
+{
+  "tracks": [
+    "CD2_06",
+    "CD2_07",
+    "CD2_08",
+    "CD2_09"
+  ],
+  "prompt": "Remove one bird from each plural wire CD2_07 and CD2_08: exactly five; retain group label 6 and all other panels.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\batch2.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "completed; final content validated through subsequent revisions and manifest",
+  "reason": "Visual count mismatch against PDF",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-580a6b3b-e225-4ed5-961e-4d07baaf183a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

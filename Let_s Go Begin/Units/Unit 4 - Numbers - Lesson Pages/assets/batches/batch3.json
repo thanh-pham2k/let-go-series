@@ -1,0 +1,19 @@
+{
+  "unit": 4,
+  "id": "batch3",
+  "tracks": [
+    "CD1_63",
+    "CD1_64",
+    "CD1_65",
+    "CD1_66"
+  ],
+  "prompt": "Generate FOUR independent square English textbook pages as a high-resolution square 2x2 sheet, exactly equal quadrants and narrow white gutters at true midpoint, aim 3072x3072. References top-left/top-right/bottom-left/bottom-right. Children's educational cartoon, crisp polished outlines and friendly soft shading. This is a COUNTING lesson, exact quantities essential, no extra decorative duplicates of countable objects. Geometric shapes clean flat 2D, accurate square/circle geometry. Correct titles/track badges and exact English. Ignore neighboring headings at crop edges, no quiz text/options.\nQuadrant 1 CD1_63: D. Listen, point, and sing. Five large colorful numerals in reading order 1 2 3 4 5. Add corresponding words one two three four five below numerals. No invented lyrics.\nQuadrant 2 CD1_64: A. Numbers. Five counting groups exact source quantities: SIX green outline triangles (2x3), SEVEN orange outline stars (3+3+1), EIGHT red outline circles (3+3+2), NINE purple outline hearts (3x3), TEN blue outline squares (2+3+3+2). Labels 6,7,8,9,10 adjacent matching group. Source header model 'How many?' / '6.' Quantity MUST match labels; no extra shapes.\nQuadrant 3 CD1_65: B. Listen and point. Same exact groups 6 green triangles, 7 orange stars, 8 red circles, 9 purple hearts, 10 blue squares. Each isolated group clearly labeled numeral. Quantity accuracy essential.\nQuadrant 4 CD1_66: C. Question and answer. Boy blue shirt asks curly-haired girl yellow star shirt 'How many?' girl shows two fingers on one hand and five on other, answers '7.' Background exact counting groups: SEVEN red apples, EIGHT dog toys, NINE cat toys, SIX pink hearts on wall string, FIVE white stars on chalkboard. Blue exercise GROUP IDs 1 apples,2 dogs,3 cats,4 hearts,5 stars NOT quantity labels. Arrange repeated cats3x3 and dogs2x4 if needed for count clarity, preserve source scene and colors. All counts exact.\nVerify before final for64/65: triangles6=2x3, stars7=3+3+1, circles8=3+3+2, hearts9=3x3, squares10=2+3+3+2. In66 only7apples8dogs9cats6hearts5stars. Numerals in blue circles are EXERCISE GROUP IDs, not quantities. Keep source speech response7.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_63.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_64.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_65.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_66.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "submitted"
+}

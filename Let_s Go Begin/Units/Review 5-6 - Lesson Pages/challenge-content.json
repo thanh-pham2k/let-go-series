@@ -1,0 +1,1441 @@
+{
+  "review": "5-6",
+  "source_pdf": "Review 5-6.pdf",
+  "tracks": [
+    "CD2_35",
+    "CD2_36"
+  ],
+  "pattern": [
+    "Vocabulary Master",
+    "Listen & Understand",
+    "Fill & Recall",
+    "Build & Match",
+    "Final Boss"
+  ],
+  "questions": [
+    {
+      "id": "R56-C1-01",
+      "challenge": 1,
+      "prompt": "🖼️một con mèo, biến thể luyện số ít. Chọn từ/cụm từ đúng.",
+      "answer": "cat",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbit"
+        },
+        {
+          "id": "B",
+          "text": "cats"
+        },
+        {
+          "id": "C",
+          "text": "rabbits"
+        },
+        {
+          "id": "D",
+          "text": "cat"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R56-C1-02",
+      "challenge": 1,
+      "prompt": "🖼️nhóm mèo ở cặp1a hoặc1b. Chọn từ/cụm từ đúng.",
+      "answer": "cats",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits"
+        },
+        {
+          "id": "B",
+          "text": "cat"
+        },
+        {
+          "id": "C",
+          "text": "cats"
+        },
+        {
+          "id": "D",
+          "text": "rabbit"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R56-C1-03",
+      "challenge": 1,
+      "prompt": "🖼️một con thỏ, biến thể luyện số ít. Chọn từ/cụm từ đúng.",
+      "answer": "rabbit",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cat"
+        },
+        {
+          "id": "B",
+          "text": "cats"
+        },
+        {
+          "id": "C",
+          "text": "rabbits"
+        },
+        {
+          "id": "D",
+          "text": "rabbit"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R56-C1-04",
+      "challenge": 1,
+      "prompt": "🖼️nhóm thỏ ở cặp2a hoặc2b. Chọn từ/cụm từ đúng.",
+      "answer": "rabbits",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits"
+        },
+        {
+          "id": "B",
+          "text": "rabbit"
+        },
+        {
+          "id": "C",
+          "text": "cat"
+        },
+        {
+          "id": "D",
+          "text": "cats"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R56-C1-05",
+      "challenge": 1,
+      "prompt": "🖼️kem ở cặp3a. Chọn từ/cụm từ đúng.",
+      "answer": "ice cream",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "bread"
+        },
+        {
+          "id": "B",
+          "text": "ice cream"
+        },
+        {
+          "id": "C",
+          "text": "rice"
+        },
+        {
+          "id": "D",
+          "text": "cake"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C1-06",
+      "challenge": 1,
+      "prompt": "🖼️bánh ở cặp3b. Chọn từ/cụm từ đúng.",
+      "answer": "cake",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rice"
+        },
+        {
+          "id": "B",
+          "text": "ice cream"
+        },
+        {
+          "id": "C",
+          "text": "cake"
+        },
+        {
+          "id": "D",
+          "text": "bread"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R56-C1-07",
+      "challenge": 1,
+      "prompt": "🖼️lát bánh mì ở cặp4a. Chọn từ/cụm từ đúng.",
+      "answer": "bread",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cake"
+        },
+        {
+          "id": "B",
+          "text": "bread"
+        },
+        {
+          "id": "C",
+          "text": "rice"
+        },
+        {
+          "id": "D",
+          "text": "ice cream"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C1-08",
+      "challenge": 1,
+      "prompt": "🖼️bát cơm ở cặp4b. Chọn từ/cụm từ đúng.",
+      "answer": "rice",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rice"
+        },
+        {
+          "id": "B",
+          "text": "ice cream"
+        },
+        {
+          "id": "C",
+          "text": "cake"
+        },
+        {
+          "id": "D",
+          "text": "bread"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R56-C1-09",
+      "challenge": 1,
+      "prompt": "🖼️bé nhảy chân sáo ở cặp5a. Chọn từ/cụm từ đúng.",
+      "answer": "skip",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "make a circle"
+        },
+        {
+          "id": "B",
+          "text": "jump"
+        },
+        {
+          "id": "C",
+          "text": "make a line"
+        },
+        {
+          "id": "D",
+          "text": "skip"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R56-C1-10",
+      "challenge": 1,
+      "prompt": "🖼️bé nhảy bằng hai chân ở cặp5b. Chọn từ/cụm từ đúng.",
+      "answer": "jump",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "skip"
+        },
+        {
+          "id": "B",
+          "text": "jump"
+        },
+        {
+          "id": "C",
+          "text": "make a line"
+        },
+        {
+          "id": "D",
+          "text": "make a circle"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C1-11",
+      "challenge": 1,
+      "prompt": "🖼️các bạn xếp thành hàng ở cặp6a. Chọn từ/cụm từ đúng.",
+      "answer": "make a line",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "jump"
+        },
+        {
+          "id": "B",
+          "text": "make a line"
+        },
+        {
+          "id": "C",
+          "text": "make a circle"
+        },
+        {
+          "id": "D",
+          "text": "skip"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C1-12",
+      "challenge": 1,
+      "prompt": "🖼️các bạn xếp thành vòng tròn ở cặp6b. Chọn từ/cụm từ đúng.",
+      "answer": "make a circle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "make a line"
+        },
+        {
+          "id": "B",
+          "text": "skip"
+        },
+        {
+          "id": "C",
+          "text": "make a circle"
+        },
+        {
+          "id": "D",
+          "text": "jump"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R56-C1-13",
+      "challenge": 1,
+      "prompt": "🖼️cảnh có nắng, hình1 The Weather. Chọn từ/cụm từ đúng.",
+      "answer": "sunny",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cloudy"
+        },
+        {
+          "id": "B",
+          "text": "sunny"
+        },
+        {
+          "id": "C",
+          "text": "windy"
+        },
+        {
+          "id": "D",
+          "text": "snowy"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C1-14",
+      "challenge": 1,
+      "prompt": "🖼️cảnh nhiều mây, hình2. Chọn từ/cụm từ đúng.",
+      "answer": "cloudy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cloudy"
+        },
+        {
+          "id": "B",
+          "text": "windy"
+        },
+        {
+          "id": "C",
+          "text": "snowy"
+        },
+        {
+          "id": "D",
+          "text": "rainy"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R56-C1-15",
+      "challenge": 1,
+      "prompt": "🖼️cảnh gió làm lá/khăn bay, hình3. Chọn từ/cụm từ đúng.",
+      "answer": "windy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "windy"
+        },
+        {
+          "id": "B",
+          "text": "snowy"
+        },
+        {
+          "id": "C",
+          "text": "cloudy"
+        },
+        {
+          "id": "D",
+          "text": "sunny"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R56-C1-16",
+      "challenge": 1,
+      "prompt": "🖼️cảnh mưa, hình4. Chọn từ/cụm từ đúng.",
+      "answer": "rainy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "windy"
+        },
+        {
+          "id": "B",
+          "text": "cloudy"
+        },
+        {
+          "id": "C",
+          "text": "rainy"
+        },
+        {
+          "id": "D",
+          "text": "snowy"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R56-C1-17",
+      "challenge": 1,
+      "prompt": "🖼️cảnh có tuyết, hình5. Chọn từ/cụm từ đúng.",
+      "answer": "snowy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rainy"
+        },
+        {
+          "id": "B",
+          "text": "sunny"
+        },
+        {
+          "id": "C",
+          "text": "cloudy"
+        },
+        {
+          "id": "D",
+          "text": "snowy"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R56-C2-01",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "cat",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbit"
+        },
+        {
+          "id": "B",
+          "text": "cats"
+        },
+        {
+          "id": "C",
+          "text": "cat"
+        },
+        {
+          "id": "D",
+          "text": "rabbits"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "cat"
+    },
+    {
+      "id": "R56-C2-02",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "cats",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits"
+        },
+        {
+          "id": "B",
+          "text": "cat"
+        },
+        {
+          "id": "C",
+          "text": "cats"
+        },
+        {
+          "id": "D",
+          "text": "rabbit"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "cats"
+    },
+    {
+      "id": "R56-C2-03",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "ice cream",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cake"
+        },
+        {
+          "id": "B",
+          "text": "rice"
+        },
+        {
+          "id": "C",
+          "text": "bread"
+        },
+        {
+          "id": "D",
+          "text": "ice cream"
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "ice cream"
+    },
+    {
+      "id": "R56-C2-04",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "cake",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rice"
+        },
+        {
+          "id": "B",
+          "text": "cake"
+        },
+        {
+          "id": "C",
+          "text": "ice cream"
+        },
+        {
+          "id": "D",
+          "text": "bread"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "cake"
+    },
+    {
+      "id": "R56-C2-05",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "skip",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "make a circle"
+        },
+        {
+          "id": "B",
+          "text": "jump"
+        },
+        {
+          "id": "C",
+          "text": "skip"
+        },
+        {
+          "id": "D",
+          "text": "make a line"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "skip"
+    },
+    {
+      "id": "R56-C2-06",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "jump",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "make a circle"
+        },
+        {
+          "id": "B",
+          "text": "skip"
+        },
+        {
+          "id": "C",
+          "text": "make a line"
+        },
+        {
+          "id": "D",
+          "text": "jump"
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "jump"
+    },
+    {
+      "id": "R56-C2-07",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "sunny",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cloudy"
+        },
+        {
+          "id": "B",
+          "text": "windy"
+        },
+        {
+          "id": "C",
+          "text": "sunny"
+        },
+        {
+          "id": "D",
+          "text": "rainy"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "sunny"
+    },
+    {
+      "id": "R56-C2-08",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "cloudy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "windy"
+        },
+        {
+          "id": "B",
+          "text": "snowy"
+        },
+        {
+          "id": "C",
+          "text": "cloudy"
+        },
+        {
+          "id": "D",
+          "text": "rainy"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "cloudy"
+    },
+    {
+      "id": "R56-C2-09",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "nhảy chân sáo",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nhảy bằng hai chân"
+        },
+        {
+          "id": "B",
+          "text": "nhảy chân sáo"
+        },
+        {
+          "id": "C",
+          "text": "xếp thành hàng"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "skip"
+    },
+    {
+      "id": "R56-C2-10",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "nhảy bằng hai chân",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "xếp thành hàng"
+        },
+        {
+          "id": "B",
+          "text": "nhảy bằng hai chân"
+        },
+        {
+          "id": "C",
+          "text": "nhảy chân sáo"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "jump"
+    },
+    {
+      "id": "R56-C2-11",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "xếp thành hàng",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "xếp thành hàng"
+        },
+        {
+          "id": "B",
+          "text": "nhảy chân sáo"
+        },
+        {
+          "id": "C",
+          "text": "nhảy bằng hai chân"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "make a line"
+    },
+    {
+      "id": "R56-C2-12",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "xếp thành vòng tròn",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "xếp thành vòng tròn"
+        },
+        {
+          "id": "B",
+          "text": "nhảy chân sáo"
+        },
+        {
+          "id": "C",
+          "text": "nhảy bằng hai chân"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "make a circle"
+    },
+    {
+      "id": "R56-C2-13",
+      "challenge": 2,
+      "prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "answer": "Trời có nắng.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Trời có nắng."
+        },
+        {
+          "id": "B",
+          "text": "Trời có tuyết."
+        },
+        {
+          "id": "C",
+          "text": "Trời có mưa."
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "It's sunny."
+    },
+    {
+      "id": "R56-C3-01",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `c_t`.",
+      "answer": "cat",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-02",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `c_ts`.",
+      "answer": "cats",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-03",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `r_bbit`.",
+      "answer": "rabbit",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-04",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `r_bbits`.",
+      "answer": "rabbits",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-05",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `c_ke`.",
+      "answer": "cake",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-06",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `br_ad`.",
+      "answer": "bread",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-07",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `r_ce`.",
+      "answer": "rice",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-08",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `sk_p`.",
+      "answer": "skip",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-09",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `j_mp`.",
+      "answer": "jump",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-10",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `s_nny`.",
+      "answer": "sunny",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-11",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `cl_udy`.",
+      "answer": "cloudy",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-12",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `w_ndy`.",
+      "answer": "windy",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-13",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `r_iny`.",
+      "answer": "rainy",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-14",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `sn_wy`.",
+      "answer": "snowy",
+      "type": "spelling"
+    },
+    {
+      "id": "R56-C3-15",
+      "challenge": 3,
+      "prompt": "🖼️nhóm3 con mèo. Điền: `cat_`.",
+      "answer": "s",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-16",
+      "challenge": 3,
+      "prompt": "🖼️nhóm2 con thỏ. Điền: `rabbit_`.",
+      "answer": "s",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-17",
+      "challenge": 3,
+      "prompt": "🖼️kem. Điền: `ice ________`.",
+      "answer": "cream",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-18",
+      "challenge": 3,
+      "prompt": "🖼️các bạn xếp thành hàng. Điền: `Make a ________.`.",
+      "answer": "line",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-19",
+      "challenge": 3,
+      "prompt": "🖼️các bạn xếp thành vòng tròn. Điền: `Make a ________.`.",
+      "answer": "circle",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-20",
+      "challenge": 3,
+      "prompt": "🖼️cảnh có nắng. Điền: `It's ________.`.",
+      "answer": "sunny",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-21",
+      "challenge": 3,
+      "prompt": "Điền từ số ít/số nhiều: 🖼️1 con mèo → ________.",
+      "answer": "cat",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-22",
+      "challenge": 3,
+      "prompt": "Điền từ số ít/số nhiều: 🖼️5 con thỏ → ________.",
+      "answer": "rabbits",
+      "type": "short"
+    },
+    {
+      "id": "R56-C3-23",
+      "challenge": 3,
+      "prompt": "Nghe câu mẫu và điền: `It's ________.`",
+      "answer": "sunny",
+      "type": "short",
+      "audio_script": "It's sunny."
+    },
+    {
+      "id": "R56-C4-01",
+      "challenge": 4,
+      "prompt": "Các thẻ: `cream / ice`.",
+      "answer": "ice cream",
+      "type": "order"
+    },
+    {
+      "id": "R56-C4-02",
+      "challenge": 4,
+      "prompt": "Các thẻ: `line. / Make / a`.",
+      "answer": "Make a line.",
+      "type": "order"
+    },
+    {
+      "id": "R56-C4-03",
+      "challenge": 4,
+      "prompt": "Các thẻ: `a / circle. / Make`.",
+      "answer": "Make a circle.",
+      "type": "order"
+    },
+    {
+      "id": "R56-C4-04",
+      "challenge": 4,
+      "prompt": "Các thẻ: `sunny. / It's`.",
+      "answer": "It's sunny.",
+      "type": "order"
+    },
+    {
+      "id": "R56-C4-05",
+      "challenge": 4,
+      "prompt": "🖼️một con mèo, biến thể luyện số ít. Điền chữ cái của thẻ phù hợp.",
+      "answer": "B — cat",
+      "type": "match",
+      "accepted_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": "R56-C4-06",
+      "challenge": 4,
+      "prompt": "🖼️kem ở cặp3a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "D — ice cream",
+      "type": "match",
+      "accepted_answers": [
+        "D"
+      ]
+    },
+    {
+      "id": "R56-C4-07",
+      "challenge": 4,
+      "prompt": "🖼️bé nhảy chân sáo ở cặp5a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "C — skip",
+      "type": "match",
+      "accepted_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": "R56-C4-08",
+      "challenge": 4,
+      "prompt": "🖼️cảnh có nắng, hình1 The Weather. Điền chữ cái của thẻ phù hợp.",
+      "answer": "A — sunny",
+      "type": "match",
+      "accepted_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": "R56-C4-09",
+      "challenge": 4,
+      "prompt": "Nhóm1a có3 con mèo. Chọn từ số nhiều và số lượng.",
+      "answer": "cats / 3",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cat / 3"
+        },
+        {
+          "id": "B",
+          "text": "cats / 4"
+        },
+        {
+          "id": "C",
+          "text": "cats / 3"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R56-C4-10",
+      "challenge": 4,
+      "prompt": "Nhóm1b có4 con mèo. Chọn cặp đúng.",
+      "answer": "cats / 4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits / 4"
+        },
+        {
+          "id": "B",
+          "text": "cats / 4"
+        },
+        {
+          "id": "C",
+          "text": "cats / 3"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C4-11",
+      "challenge": 4,
+      "prompt": "Nhóm2a có2 con thỏ. Chọn cặp đúng.",
+      "answer": "rabbits / 2",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits / 5"
+        },
+        {
+          "id": "B",
+          "text": "rabbits / 2"
+        },
+        {
+          "id": "C",
+          "text": "rabbit / 2"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C4-12",
+      "challenge": 4,
+      "prompt": "Nhóm2b có5 con thỏ. Chọn cặp đúng.",
+      "answer": "rabbits / 5",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits / 5"
+        },
+        {
+          "id": "B",
+          "text": "cats / 5"
+        },
+        {
+          "id": "C",
+          "text": "rabbits / 2"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R56-C4-13",
+      "challenge": 4,
+      "prompt": "Nhìn hình kem và cảnh có gió. Chọn cặp từ đúng.",
+      "answer": "ice cream / windy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ice cream / cloudy"
+        },
+        {
+          "id": "B",
+          "text": "cake / windy"
+        },
+        {
+          "id": "C",
+          "text": "ice cream / windy"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R56-C5-01",
+      "challenge": 5,
+      "prompt": "Nhóm1a có3 con mèo. Chọn từ số nhiều và số lượng.",
+      "answer": "cats / 3",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cats / 3"
+        },
+        {
+          "id": "B",
+          "text": "cat / 3"
+        },
+        {
+          "id": "C",
+          "text": "cats / 4"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R56-C5-02",
+      "challenge": 5,
+      "prompt": "Nhóm1b có4 con mèo. Chọn cặp đúng.",
+      "answer": "cats / 4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cats / 3"
+        },
+        {
+          "id": "B",
+          "text": "cats / 4"
+        },
+        {
+          "id": "C",
+          "text": "rabbits / 4"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C5-03",
+      "challenge": 5,
+      "prompt": "Nhóm2a có2 con thỏ. Chọn cặp đúng.",
+      "answer": "rabbits / 2",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "rabbits / 5"
+        },
+        {
+          "id": "B",
+          "text": "rabbits / 2"
+        },
+        {
+          "id": "C",
+          "text": "rabbit / 2"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R56-C5-04",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: một con mèo, biến thể luyện số ít. Bé tự nói từ/cụm phù hợp.",
+      "answer": "cat",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-05",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: nhóm mèo ở cặp1a hoặc1b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "cats",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-06",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: một con thỏ, biến thể luyện số ít. Bé tự nói từ/cụm phù hợp.",
+      "answer": "rabbit",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-07",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: nhóm thỏ ở cặp2a hoặc2b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "rabbits",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-08",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: kem ở cặp3a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "ice cream",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-09",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bánh ở cặp3b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "cake",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-10",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: lát bánh mì ở cặp4a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "bread",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-11",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bát cơm ở cặp4b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "rice",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-12",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé nhảy chân sáo ở cặp5a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "skip",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-13",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé nhảy bằng hai chân ở cặp5b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "jump",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-14",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: các bạn xếp thành hàng ở cặp6a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "make a line",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-15",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: các bạn xếp thành vòng tròn ở cặp6b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "make a circle",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-16",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: cảnh có nắng, hình1 The Weather. Bé tự nói từ/cụm phù hợp.",
+      "answer": "sunny",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-17",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: cảnh nhiều mây, hình2. Bé tự nói từ/cụm phù hợp.",
+      "answer": "cloudy",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-18",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: cảnh gió làm lá/khăn bay, hình3. Bé tự nói từ/cụm phù hợp.",
+      "answer": "windy",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-19",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: cảnh mưa, hình4. Bé tự nói từ/cụm phù hợp.",
+      "answer": "rainy",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-20",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: cảnh có tuyết, hình5. Bé tự nói từ/cụm phù hợp.",
+      "answer": "snowy",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-21",
+      "challenge": 5,
+      "prompt": "Che nhãn: chỉ nhóm mèo ở1b và nhóm thỏ ở2b. Bé gọi số nhiều và đếm mỗi nhóm.",
+      "answer": "cats — 4; rabbits — 5",
+      "type": "production"
+    },
+    {
+      "id": "R56-C5-22",
+      "challenge": 5,
+      "prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Người lớn chỉ cảnh có nắng trong trang The Weather, bé nói một câu đầy đủ.",
+      "answer": "It's sunny.",
+      "type": "production"
+    }
+  ],
+  "audio_notes": [
+    {
+      "filename": "r56_cat.mp3",
+      "script": "cat",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_cats.mp3",
+      "script": "cats",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_rabbit.mp3",
+      "script": "rabbit",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_rabbits.mp3",
+      "script": "rabbits",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_ice_cream.mp3",
+      "script": "ice cream",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_cake.mp3",
+      "script": "cake",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_bread.mp3",
+      "script": "bread",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_rice.mp3",
+      "script": "rice",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_skip.mp3",
+      "script": "skip",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_jump.mp3",
+      "script": "jump",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_make_a_line.mp3",
+      "script": "make a line",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_make_a_circle.mp3",
+      "script": "make a circle",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_sunny.mp3",
+      "script": "sunny",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_cloudy.mp3",
+      "script": "cloudy",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_windy.mp3",
+      "script": "windy",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_rainy.mp3",
+      "script": "rainy",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_snowy.mp3",
+      "script": "snowy",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r56_it_s_sunny.mp3",
+      "script": "It's sunny.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    }
+  ],
+  "audio_status": "not independently transcribed",
+  "source_audit": "Giữ lượng nguồn3/4 mèo và2/5 thỏ. Hình1 con vật là biến thể luyện số ít, không gán cho nhóm gốc. Windy cần dấu hiệu gió, không dùng đám mây đơn để thay. Jump và skip có động tác khác nhau. Câu in trong nguồn chỉ là It's sunny.; không tuyên bố các câu thời tiết khác đã in hoặc có audio. Nhãn hành động là cách gọi tranh để luyện, chưa phải bản chép MP3."
+}

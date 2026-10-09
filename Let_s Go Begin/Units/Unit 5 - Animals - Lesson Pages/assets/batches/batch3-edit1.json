@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    "CD2_10",
+    "CD2_11",
+    "CD2_12",
+    "CD2_13"
+  ],
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\batch3.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "completed; final content validated through subsequent revisions and manifest",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-5ae4221f-608f-4d0b-b7ae-29d2c4ff9ebb.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "prompt": "Precise count correction to this 2x2 sheet; preserve all other text colors layout and animals. TOP RIGHT CD2_11 main plural rabbits group badge 4 currently has SEVEN rabbits, remove one to leave EXACTLY SIX whole distinct rabbits. BOTTOM LEFT CD2_12 same badge4 rabbit group remove one to leave EXACTLY SIX. Do not touch separate single rabbit badge3. BOTTOM RIGHT CD2_13 badge1 field currently SEVEN cows: add one to make EXACTLY EIGHT whole distinct cows in field (arrange 4+4). Keep additional separate single cow badge4. Pond badge3 currently FIVE ducks: add one to make EXACTLY SIX whole ducks IN pond. Keep separate single duck badge2. Preserve dialogue How many cows? / 8 cows., three running rabbits badge5 and single seated rabbit badge6. TOP LEFT CD2_10 unchanged two birds three dogs two cats. No new counted animals elsewhere."
+}

@@ -1,0 +1,42 @@
+{
+  "result": "pass",
+  "checks": [
+    {
+      "path": "preview.html",
+      "status": 200,
+      "content_type": "text/html",
+      "byte_count": 8067
+    },
+    {
+      "path": "review.regenerated.metadata",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "byte_count": 2852
+    },
+    {
+      "path": "pages/webp/CD1_71.webp",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "byte_count": 136736
+    },
+    {
+      "path": "audio/Track71.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "byte_count": 1007698
+    },
+    {
+      "path": "pages/webp/CD1_72.webp",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "byte_count": 164020
+    },
+    {
+      "path": "audio/Track72.mp3",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "byte_count": 1069974
+    }
+  ],
+  "limitation": "This report covers HTTP delivery. Browser UI was subsequently tested separately; see browser-validation.json. Audio not independently listened."
+}

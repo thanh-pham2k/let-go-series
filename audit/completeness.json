@@ -1,0 +1,373 @@
+{
+  "packages": [
+    {
+      "package": "Review 1-2",
+      "expected_tracks": 2,
+      "tracks": 2,
+      "png": 2,
+      "webp": 2,
+      "audio_verified": 2,
+      "questions": 2,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 2,
+      "visual_review_notes": 2,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Review 3-4",
+      "expected_tracks": 2,
+      "tracks": 2,
+      "png": 2,
+      "webp": 2,
+      "audio_verified": 2,
+      "questions": 2,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 2,
+      "visual_review_notes": 2,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Review 5-6",
+      "expected_tracks": 2,
+      "tracks": 2,
+      "png": 2,
+      "webp": 2,
+      "audio_verified": 2,
+      "questions": 2,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 2,
+      "visual_review_notes": 2,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Review 7-8",
+      "expected_tracks": 3,
+      "tracks": 3,
+      "png": 3,
+      "webp": 3,
+      "audio_verified": 3,
+      "questions": 3,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 3,
+      "visual_review_notes": 3,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 1 - Toys",
+      "expected_tracks": 17,
+      "tracks": 17,
+      "png": 17,
+      "webp": 17,
+      "audio_verified": 17,
+      "questions": 17,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 0,
+      "visual_review_notes": 0,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 2 - Colors",
+      "expected_tracks": 17,
+      "tracks": 17,
+      "png": 17,
+      "webp": 17,
+      "audio_verified": 17,
+      "questions": 17,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 17,
+      "visual_review_notes": 17,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 3 - Shapes",
+      "expected_tracks": 17,
+      "tracks": 17,
+      "png": 17,
+      "webp": 17,
+      "audio_verified": 17,
+      "questions": 17,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 17,
+      "visual_review_notes": 17,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 4 - Numbers",
+      "expected_tracks": 16,
+      "tracks": 16,
+      "png": 16,
+      "webp": 16,
+      "audio_verified": 16,
+      "questions": 16,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 16,
+      "visual_review_notes": 16,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 5 - Animals",
+      "expected_tracks": 18,
+      "tracks": 18,
+      "png": 18,
+      "webp": 18,
+      "audio_verified": 18,
+      "questions": 18,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 18,
+      "visual_review_notes": 18,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 6 - Food",
+      "expected_tracks": 15,
+      "tracks": 15,
+      "png": 15,
+      "webp": 15,
+      "audio_verified": 15,
+      "questions": 15,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 15,
+      "visual_review_notes": 15,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 7 - My Body",
+      "expected_tracks": 17,
+      "tracks": 17,
+      "png": 17,
+      "webp": 17,
+      "audio_verified": 17,
+      "questions": 17,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 17,
+      "visual_review_notes": 17,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    },
+    {
+      "package": "Unit 8 - Abilities",
+      "expected_tracks": 16,
+      "tracks": 16,
+      "png": 16,
+      "webp": 16,
+      "audio_verified": 16,
+      "questions": 16,
+      "sizes": [
+        [
+          1200,
+          1200
+        ]
+      ],
+      "status_reviewed": 16,
+      "visual_review_notes": 16,
+      "validation_result": "pass",
+      "five_challenges": true,
+      "challenge_titles": [
+        "Vocabulary Master",
+        "Listen & Understand",
+        "Fill & Recall",
+        "Build & Match",
+        "Final Boss"
+      ],
+      "audio_notes": true,
+      "preview": "current lesson data matches; audit-note-only differences ignored",
+      "zip_ok": true,
+      "issues": []
+    }
+  ],
+  "total_tracks": 142,
+  "expected_total": 142,
+  "missing_tracks": [],
+  "duplicate_tracks": [],
+  "broken_links": [],
+  "limits": [
+    "Speech in MP3 not independently transcribed",
+    "Existing visual-review notes and hash checks do not replace a fresh full source-by-source visual audit"
+  ]
+}

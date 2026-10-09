@@ -1,0 +1,52 @@
+{
+  "tracks": [
+    "CD2_32",
+    "CD2_33",
+    "CD2_34"
+  ],
+  "prompt": "Create a 2x2 textbook sheet with THREE independent lesson panels top left, top right, bottom left, bottom right plain white unused. Wide straight white gutters, bright clean cartoon soft shading, faithful reference content, crisp exact English. TOP LEFT CD2_32 'A. Sing and say.' The Alphabet: all 26 capital glyphs A B C D E F G H I J K L M N O P Q R S T U V W X Y Z then all 26 lowercase a b c d e f g h i j k l m n o p q r s t u v w x y z. Q R S T and q r s t pink, others purple, pale green frame; wrap rows if needed, keep order each once. Music notes but no invented lyrics. Badge normalized CD2 32. TOP RIGHT CD2_33 'B. Letters and words.' four numbered cards '1. Q q' queen crowned purple robe on throne label queen; '2. R r' gray rabbit label rabbit; '3. S s' yellow sun label sun; '4. T t' orange striped tiger label tiger. ALSO entire 'C. Find the letters.' garden activity below: queen purple robe white scroll-trim holding pink flower beside white ornate bench; white rabbit on red cushion on bench; yellow sun top right; orange black striped tiger reclining bottom right, tree left flowers and fence. Preserve hidden letter shapes Q/q R/r S/s T/t in objects as reference source page7 lower; do not label hidden answers or solve task. BOTTOM LEFT CD2_34 'A. Play a game.' top conversation at game table: LEFT boy red shirt asks 'Do you like birds?'; CENTER black bob girl pink shirt says 'Yes, I do.'; RIGHT blonde ponytail girl green shirt says 'No, I don't.' Tails point to these respective speakers. Beneath exact winding colorful board, preserve ALL cells ordered from START to FINISH: green START red arrow, pink cake slice, blue pizza slice, empty red cell, green ice cream sundae, purple TWO rabbits, empty pink cell at turn, red TWO bicycles, orange THREE cat heads, empty green cell, blue TWO red birds, empty orange at turn, blue THREE teddy bears, empty green cell, red TWO blue trains, empty pink cell, black FINISH red burst. Match source winding route and cell colors/counts, no added dice or game text. Badge CD2 34 normalized from reference misprint. All text legible within each independent panel, no quiz, no loss of final activities.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-07.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/source-pages/page-08.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-bf12af7a-9f44-41e1-b130-21b7e5b5b73a.png",
+  "status": "reviewed",
+  "visual_review": "Source page52 reviewed: complete A-Z/a-z, pink Q-T, Qq queen Rr rabbit Ss sun Tt tiger; Find the letters scene retained with subtle S/s/tree/robe/bench scrolls and natural tiger stripes. Source page53 game speaker ownership, cell order/color and counts all checked. CD1 misprints normalized CD2; speech not audited.",
+  "sheet_size": [
+    1086,
+    1448
+  ],
+  "split": [
+    544,
+    706
+  ],
+  "sha256": "2732e0553eb0af53b77863f19d3b966a51c90c7134cde44898c39caf03498538",
+  "selected_result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-7f9a0ded-93e5-4768-a2a1-f009b964002f.png",
+  "repair_logs": [
+    "batch4-fix1",
+    "batch4-fix2"
+  ],
+  "final_crop_boxes": [
+    [
+      14,
+      12,
+      536,
+      698
+    ],
+    [
+      553,
+      12,
+      1073,
+      698
+    ],
+    [
+      14,
+      716,
+      536,
+      1433
+    ]
+  ],
+  "original_local_result": "assets/batches/batch4-original.png",
+  "selected_local_result": "assets/batches/batch4.png"
+}

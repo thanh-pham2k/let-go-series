@@ -1,0 +1,38 @@
+{
+  "tracks": [
+    "CD2_61",
+    "CD2_62"
+  ],
+  "prompt": "Create TWO independent square textbook pages side-by-side, overall wide 2:1, straight center gutter. Left CD2_61 C. Sentences. Right CD2_62 D. Listen, point, and chant. Both redraw the SAME source page67 content faithfully with bright cartoon soft shading and readable exact text. Each page top: blonde girl red shirt purple trousers successfully flying orange kite, bubble \"I can fly a kite.\"; red-haired boy blue shirt green trousers TANGLED with yellow kite grounded in hand, bubble \"I can't fly a kite.\" Below 4 numbered portraits with exactly TWO thought bubbles each. 1 black straight-haired boy YELLOW shirt: same child yellow shirt flies orange kite and bounces orange ball. 2 curly BLONDE GIRL PINK shirt: same girl sings with music notes; same girl tangled in green kite string looking distressed unable to fly. 3 dark-skinned curly boy TURQUOISE shirt: same boy bounces ball; same boy FALLEN ON GROUND beside fallen YELLOW bicycle, cannot ride. 4 brunette PONYTAIL GIRL ORANGE shirt: same girl rides PURPLE bicycle; same girl attempts singing with microphone but distressed, NO notes, unable to sing. STRICT identity: every thought child matches its portrait hair gender skin clothing color. Girl4 NEVER pink shirt. Girl2 NEVER a boy. Child3 NEVER riding successfully in negative scene. Eight thought scenes per page, all numbers1 2 3 4; no extra labels or quiz answers. No chant lyrics printed in source, don't invent any. Use source reference only redraw all art.",
+  "refs": [
+    "source-pages/page-04.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_61": {
+      "box": [
+        1,
+        1,
+        885,
+        886
+      ],
+      "visual_review": "Both can/cannot kite examples; four numbered same-child thought pairs, eight activities checked; tangled kite and fallen bicycle negative; same orange-shirt girl bicycle and unsuccessful singing."
+    },
+    "CD2_62": {
+      "box": [
+        889,
+        1,
+        1773,
+        886
+      ],
+      "visual_review": "Source heading only: reused page67 sentences and eight thought scenes; no invented chant words."
+    }
+  },
+  "sheet_size": [
+    1774,
+    887
+  ],
+  "sha256": "75c44880de553044086f6764dc4d7e39d97f4e17ddf30063b1fc23a5a7250f37",
+  "result_file": "repair6162.png"
+}

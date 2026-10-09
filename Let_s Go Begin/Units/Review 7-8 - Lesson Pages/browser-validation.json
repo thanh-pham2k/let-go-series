@@ -1,0 +1,10 @@
+{
+  "result": "not_run",
+  "reason": "In-app CUA failed to initialize kernel assets (os error3). Edge headless Start-Process launch rejected by automatic approval review: blocked by policy.",
+  "verified_alternatives": [
+    "preview-validation.json: executable Node DOM harness for all3 tracks, manual review, simulated ended event, navigation, feedback",
+    "resource-validation.json: HTTP200 and exact servedbytes for preview/metadata/all3 WebP/all3 MP3",
+    "visual-review.json: all3 final PNGs and contact sheet compared with source"
+  ],
+  "limitation": "No real browser screenshot/render or audio playback audit claimed."
+}

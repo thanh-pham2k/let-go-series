@@ -1,0 +1,29 @@
+{
+  "unit": 2,
+  "id": "batch4",
+  "tracks": [
+    "CD1_31",
+    "CD1_32",
+    "CD1_33",
+    "CD1_34"
+  ],
+  "prompt": "Generate a high-resolution SQUARE 2x2 sheet of FOUR independent square English lesson pages, aim 3072x3072, equal quadrants, straight white gutters exactly halfway. Reference order top-left/top-right/bottom-left/bottom-right. Polished colorful children's textbook cartoon consistent crisp outlines soft shading. Faithful lesson content, title and track badge each page, clear accurate English. No quiz or answer choices. Ignore exercise headings from neighboring source crops. Make text and alphabet large. \nQuadrant 1 CD1_31: D. Listen, point, and chant. Three large toys in order blue ball, red teddy bear, purple train; add labels 'blue', 'red', 'purple' beneath corresponding objects. No invented chant lyrics.\nQuadrant 2 CD1_32: A. Sing and say. Full uppercase/lowercase alphabet A a through Z z, complete correct reading order. Generous colorful clear typography, 4 columns, all 26 pairs; reference narrow strip may be reformatted without losing letters.\nQuadrant 3 CD1_33: B. Letters and words. Four pairs with source pictures and words 1. A a — apple (red apple), 2. B b — bird (blue bird), 3. C c — cat (yellow cat), 4. D d — dog (brown dog). Below include supporting C. Find the letters. scene from source with colored a,b,c,d letters among toys. Accurate labels, clearly separate activity.\nQuadrant 4 CD1_34: A. Sentences. Four numbered objects: 1. a red train; 2. a blue ball; 3. a brown teddy bear; 4. a green yo-yo. Boy holding toy train says 'It's a red train.' Preserve correct colors and labels.\nIn page33 Find the letters retain source embedded letters: C beside yo-yo, D on background ball, b on foreground ball, d on train, C on car windshield, B on teddy shirt, a on green toy, A below jump rope.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_31.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_32.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_33.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_34.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: blue/red/purple toys; all 26 alphabet pairs in column reading order; Aa-Dd words and Find-the-letters scene; four color-toy phrases retained.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    629,
+    568
+  ],
+  "sha256": "458950445248705da60895695efa96f9d7d0a60b5f2e5d767f4d938f95fde54b"
+}

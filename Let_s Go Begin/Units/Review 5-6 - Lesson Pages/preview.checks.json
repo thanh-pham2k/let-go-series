@@ -1,0 +1,14 @@
+{
+  "result": "pass",
+  "item_count": 2,
+  "checks": [
+    "Script parses and initializes two track options",
+    "All track/image/audio/question mappings",
+    "Quiz hidden on load/change",
+    "Synthetic audio ended reveals quiz",
+    "Manual review reveals quiz",
+    "Correct/wrong answer feedback only after selection",
+    "Previous/next/select navigation, disabled boundary buttons, state reset"
+  ],
+  "limitation": "DOM/event stubs, not a real browser or independent listening audit."
+}

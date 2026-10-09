@@ -1,0 +1,21 @@
+{
+  "source_original_sha256": "20f56cd9d933bbd6e8d65ba531580d6ae84d7b20e3debaf11bbb374090003b8f",
+  "replacements": {
+    "- go\n": 2,
+    "**go**": 1,
+    "- [ ] đi\n": 2,
+    "11. go →": 1,
+    "11. đi →": 1,
+    "| go |": 1,
+    "🧻": 3
+  },
+  "preserved_challenges": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "audio_clips_required": 18,
+  "audio_created": false
+}

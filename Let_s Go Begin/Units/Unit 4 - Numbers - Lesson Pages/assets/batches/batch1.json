@@ -1,0 +1,29 @@
+{
+  "unit": 4,
+  "id": "batch1",
+  "tracks": [
+    "CD1_55",
+    "CD1_56",
+    "CD1_57",
+    "CD1_58"
+  ],
+  "prompt": "Regenerate FOUR independent square English textbook lesson pages in high-resolution SQUARE 2x2 sheet, aim 3072x3072. Exactly equal quadrants, narrow straight white gutters at true midpoint. Reference order top-left/top-right/bottom-left/bottom-right. Friendly colorful polished textbook cartoon, soft shading crisp outlines consistent Unit1. Preserve all source instructional text, child identities, blank question/answer lines, and numerals. Correct titles and track badges. No quiz options. Ignore adjacent exercise headings at reference edges. Every full song line readable, no omitted repeats.\nQuadrant 1 CD1_55: A. Let's talk. Andy curly hair navy-striped shirt at doorway asks 'May I come in?' Jenny black bob yellow shirt blue floral shorts in kitchen replies 'Sure! Please come in!' Refrigerator displays numerals 1,2,3,4,5 as source. Correct speech tails.\nQuadrant 2 CD1_56: B. Say and act. Two numbered exchanges: 1 Kate blonde glasses red dress at classroom doorway asks Miss Jones teacher 'May I come in?' Teacher has blank answer line ending period. 2 Scott red hair green-striped shirt at room doorway has blank question ending ?; Kate/Jenny seated with number cards, reply 'Sure! Please come in!' Keep blank question/answer.\nQuadrant 3 CD1_57: C. Let's sing. Title 'May I Come In?' Kate blonde glasses red dress at doorway; Scott green-striped shirt seated reading at desk, toy truck and turtle poster. Full lyrics exactly: May I come in? / Sure! Please come in! / Please come in! / May I come in? / May I come in? / Sure! Please come in! Retain repeats and punctuation.\nQuadrant 4 CD1_58: D. Let's move. Two clear scenes: Jenny shows green GO paddle to Scott and Andy running; then Jenny shows red STOP paddle and boys halt. Labels '1. Go.' '2. Stop.' Preserve source girl/children identities.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_55.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_56.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_57.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_58.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: doorway dialogues and blanks, six exact song lines, numerals1-5, green go/red stop scenes.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    633,
+    621
+  ],
+  "sha256": "863e7c9907db73e43777095756ad1ce668dcec64523609587f719ba65c3db4c6"
+}

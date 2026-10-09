@@ -2,3 +2,4 @@
 *.iso
 __pycache__/
 *.pyc
+.browser-check/

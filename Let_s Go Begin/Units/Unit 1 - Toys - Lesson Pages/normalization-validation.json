@@ -1,0 +1,312 @@
+{
+  "result": "pass",
+  "item_count": 17,
+  "checks": [
+    {
+      "track": "CD1_02",
+      "native_layout_size": [
+        766,
+        510
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        200,
+        1200,
+        799
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_03",
+      "native_layout_size": [
+        766,
+        510
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        200,
+        1200,
+        799
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_04",
+      "native_layout_size": [
+        766,
+        510
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        200,
+        1200,
+        799
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_05",
+      "native_layout_size": [
+        766,
+        510
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        200,
+        1200,
+        799
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_06",
+      "native_layout_size": [
+        766,
+        499
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        209,
+        1200,
+        782
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_07",
+      "native_layout_size": [
+        766,
+        499
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        209,
+        1200,
+        782
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_08",
+      "native_layout_size": [
+        766,
+        521
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        192,
+        1200,
+        816
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_09",
+      "native_layout_size": [
+        766,
+        521
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        192,
+        1200,
+        816
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_10",
+      "native_layout_size": [
+        634,
+        616
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        17,
+        1200,
+        1166
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_11",
+      "native_layout_size": [
+        634,
+        616
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        17,
+        1200,
+        1166
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_12",
+      "native_layout_size": [
+        634,
+        617
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        16,
+        1200,
+        1168
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_13",
+      "native_layout_size": [
+        634,
+        617
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        16,
+        1200,
+        1168
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_14",
+      "native_layout_size": [
+        766,
+        533
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        182,
+        1200,
+        835
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_15",
+      "native_layout_size": [
+        766,
+        533
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        182,
+        1200,
+        835
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_16",
+      "native_layout_size": [
+        766,
+        487
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        218,
+        1200,
+        763
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_17",
+      "native_layout_size": [
+        766,
+        487
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        218,
+        1200,
+        763
+      ],
+      "full_native_content_preserved": true
+    },
+    {
+      "track": "CD1_18",
+      "native_layout_size": [
+        1543,
+        1019
+      ],
+      "canvas_size": [
+        1200,
+        1200
+      ],
+      "content_box": [
+        0,
+        204,
+        1200,
+        792
+      ],
+      "full_native_content_preserved": true
+    }
+  ]
+}

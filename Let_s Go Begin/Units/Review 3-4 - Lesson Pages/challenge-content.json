@@ -1,0 +1,1648 @@
+{
+  "review": "3-4",
+  "source_pdf": "Review 3-4.pdf",
+  "tracks": [
+    "CD1_71",
+    "CD1_72"
+  ],
+  "pattern": [
+    "Vocabulary Master",
+    "Listen & Understand",
+    "Fill & Recall",
+    "Build & Match",
+    "Final Boss"
+  ],
+  "questions": [
+    {
+      "id": "R34-C1-01",
+      "challenge": 1,
+      "prompt": "🖼️hình tròn bé đang vẽ ở cặp1a. Chọn từ/cụm từ đúng.",
+      "answer": "circle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "heart"
+        },
+        {
+          "id": "B",
+          "text": "diamond"
+        },
+        {
+          "id": "C",
+          "text": "square"
+        },
+        {
+          "id": "D",
+          "text": "circle"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R34-C1-02",
+      "challenge": 1,
+      "prompt": "🖼️hình vuông ở cặp1b. Chọn từ/cụm từ đúng.",
+      "answer": "square",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "star"
+        },
+        {
+          "id": "B",
+          "text": "oval"
+        },
+        {
+          "id": "C",
+          "text": "square"
+        },
+        {
+          "id": "D",
+          "text": "diamond"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C1-03",
+      "challenge": 1,
+      "prompt": "🖼️ngôi sao ở cặp2a. Chọn từ/cụm từ đúng.",
+      "answer": "star",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "heart"
+        },
+        {
+          "id": "B",
+          "text": "diamond"
+        },
+        {
+          "id": "C",
+          "text": "star"
+        },
+        {
+          "id": "D",
+          "text": "triangle"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C1-04",
+      "challenge": 1,
+      "prompt": "🖼️trái tim ở cặp2b. Chọn từ/cụm từ đúng.",
+      "answer": "heart",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "star"
+        },
+        {
+          "id": "B",
+          "text": "circle"
+        },
+        {
+          "id": "C",
+          "text": "square"
+        },
+        {
+          "id": "D",
+          "text": "heart"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R34-C1-05",
+      "challenge": 1,
+      "prompt": "🖼️tam giác trong nhóm3a. Chọn từ/cụm từ đúng.",
+      "answer": "triangle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "triangle"
+        },
+        {
+          "id": "B",
+          "text": "oval"
+        },
+        {
+          "id": "C",
+          "text": "star"
+        },
+        {
+          "id": "D",
+          "text": "circle"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R34-C1-06",
+      "challenge": 1,
+      "prompt": "🖼️hình thoi trong nhóm4a. Chọn từ/cụm từ đúng.",
+      "answer": "diamond",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "oval"
+        },
+        {
+          "id": "B",
+          "text": "circle"
+        },
+        {
+          "id": "C",
+          "text": "diamond"
+        },
+        {
+          "id": "D",
+          "text": "heart"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C1-07",
+      "challenge": 1,
+      "prompt": "🖼️hình bầu dục trong nhóm4b. Chọn từ/cụm từ đúng.",
+      "answer": "oval",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "heart"
+        },
+        {
+          "id": "B",
+          "text": "square"
+        },
+        {
+          "id": "C",
+          "text": "diamond"
+        },
+        {
+          "id": "D",
+          "text": "oval"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R34-C1-08",
+      "challenge": 1,
+      "prompt": "🖼️bé đi bộ ở cặp5a. Chọn từ/cụm từ đúng.",
+      "answer": "walk",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "run"
+        },
+        {
+          "id": "B",
+          "text": "go"
+        },
+        {
+          "id": "C",
+          "text": "stop"
+        },
+        {
+          "id": "D",
+          "text": "walk"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R34-C1-09",
+      "challenge": 1,
+      "prompt": "🖼️bé chạy ở cặp5b. Chọn từ/cụm từ đúng.",
+      "answer": "run",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "stop"
+        },
+        {
+          "id": "B",
+          "text": "walk"
+        },
+        {
+          "id": "C",
+          "text": "run"
+        },
+        {
+          "id": "D",
+          "text": "go"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C1-10",
+      "challenge": 1,
+      "prompt": "🖼️đèn xanh cho phép đi ở cặp6a. Chọn từ/cụm từ đúng.",
+      "answer": "go",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "go"
+        },
+        {
+          "id": "B",
+          "text": "walk"
+        },
+        {
+          "id": "C",
+          "text": "run"
+        },
+        {
+          "id": "D",
+          "text": "stop"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R34-C1-11",
+      "challenge": 1,
+      "prompt": "🖼️đèn đỏ yêu cầu dừng ở cặp6b. Chọn từ/cụm từ đúng.",
+      "answer": "stop",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "walk"
+        },
+        {
+          "id": "B",
+          "text": "stop"
+        },
+        {
+          "id": "C",
+          "text": "run"
+        },
+        {
+          "id": "D",
+          "text": "go"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C1-12",
+      "challenge": 1,
+      "prompt": "🖼️bé lấy bút chì ra, hình1 Classroom Commands. Chọn từ/cụm từ đúng.",
+      "answer": "Take out your pencil.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Put away your pencil."
+        },
+        {
+          "id": "B",
+          "text": "Open your book."
+        },
+        {
+          "id": "C",
+          "text": "Close your book."
+        },
+        {
+          "id": "D",
+          "text": "Take out your pencil."
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R34-C1-13",
+      "challenge": 1,
+      "prompt": "🖼️bé cất bút chì vào hộp, hình2. Chọn từ/cụm từ đúng.",
+      "answer": "Put away your pencil.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Take out your pencil."
+        },
+        {
+          "id": "B",
+          "text": "Close your book."
+        },
+        {
+          "id": "C",
+          "text": "Put away your pencil."
+        },
+        {
+          "id": "D",
+          "text": "Open your book."
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C1-14",
+      "challenge": 1,
+      "prompt": "🖼️bé mở sách, hình3. Chọn từ/cụm từ đúng.",
+      "answer": "Open your book.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Close your book."
+        },
+        {
+          "id": "B",
+          "text": "Put away your pencil."
+        },
+        {
+          "id": "C",
+          "text": "Open your book."
+        },
+        {
+          "id": "D",
+          "text": "Take out your pencil."
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C1-15",
+      "challenge": 1,
+      "prompt": "🖼️bé đóng sách, hình4. Chọn từ/cụm từ đúng.",
+      "answer": "Close your book.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Take out your pencil."
+        },
+        {
+          "id": "B",
+          "text": "Put away your pencil."
+        },
+        {
+          "id": "C",
+          "text": "Open your book."
+        },
+        {
+          "id": "D",
+          "text": "Close your book."
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R34-C1-16",
+      "challenge": 1,
+      "prompt": "Đếm: △ ",
+      "answer": "1",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C1-17",
+      "challenge": 1,
+      "prompt": "Đếm: △ △ ",
+      "answer": "2",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R34-C1-18",
+      "challenge": 1,
+      "prompt": "Đếm: △ △ △ ",
+      "answer": "3",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C1-19",
+      "challenge": 1,
+      "prompt": "Đếm: △ △ △ △ ",
+      "answer": "4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C1-20",
+      "challenge": 1,
+      "prompt": "Đếm: △ △ △ △ △ ",
+      "answer": "5",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R34-C1-21",
+      "challenge": 1,
+      "prompt": "Đếm: △ △ △ △ △ △ ",
+      "answer": "6",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C1-22",
+      "challenge": 1,
+      "prompt": "Đếm: △ △ △ △ △ △ △ ",
+      "answer": "7",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C2-01",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "circle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "oval"
+        },
+        {
+          "id": "B",
+          "text": "triangle"
+        },
+        {
+          "id": "C",
+          "text": "circle"
+        },
+        {
+          "id": "D",
+          "text": "star"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "circle"
+    },
+    {
+      "id": "R34-C2-02",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "square",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "square"
+        },
+        {
+          "id": "B",
+          "text": "star"
+        },
+        {
+          "id": "C",
+          "text": "heart"
+        },
+        {
+          "id": "D",
+          "text": "triangle"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "square"
+    },
+    {
+      "id": "R34-C2-03",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "walk",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "walk"
+        },
+        {
+          "id": "B",
+          "text": "go"
+        },
+        {
+          "id": "C",
+          "text": "run"
+        },
+        {
+          "id": "D",
+          "text": "stop"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "walk"
+    },
+    {
+      "id": "R34-C2-04",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "run",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "run"
+        },
+        {
+          "id": "B",
+          "text": "stop"
+        },
+        {
+          "id": "C",
+          "text": "walk"
+        },
+        {
+          "id": "D",
+          "text": "go"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "run"
+    },
+    {
+      "id": "R34-C2-05",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "Take out your pencil.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Close your book."
+        },
+        {
+          "id": "B",
+          "text": "Open your book."
+        },
+        {
+          "id": "C",
+          "text": "Take out your pencil."
+        },
+        {
+          "id": "D",
+          "text": "Put away your pencil."
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "Take out your pencil."
+    },
+    {
+      "id": "R34-C2-06",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "Put away your pencil.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Take out your pencil."
+        },
+        {
+          "id": "B",
+          "text": "Open your book."
+        },
+        {
+          "id": "C",
+          "text": "Close your book."
+        },
+        {
+          "id": "D",
+          "text": "Put away your pencil."
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "Put away your pencil."
+    },
+    {
+      "id": "R34-C2-07",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "đi bộ",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi / bắt đầu di chuyển"
+        },
+        {
+          "id": "B",
+          "text": "đi bộ"
+        },
+        {
+          "id": "C",
+          "text": "chạy"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "walk"
+    },
+    {
+      "id": "R34-C2-08",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "chạy",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi / bắt đầu di chuyển"
+        },
+        {
+          "id": "B",
+          "text": "đi bộ"
+        },
+        {
+          "id": "C",
+          "text": "chạy"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "run"
+    },
+    {
+      "id": "R34-C2-09",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "đi / bắt đầu di chuyển",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi / bắt đầu di chuyển"
+        },
+        {
+          "id": "B",
+          "text": "đi bộ"
+        },
+        {
+          "id": "C",
+          "text": "chạy"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "go"
+    },
+    {
+      "id": "R34-C2-10",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "dừng lại",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "chạy"
+        },
+        {
+          "id": "B",
+          "text": "đi bộ"
+        },
+        {
+          "id": "C",
+          "text": "dừng lại"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "stop"
+    },
+    {
+      "id": "R34-C2-11",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Lấy bút chì ra.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi bộ"
+        },
+        {
+          "id": "B",
+          "text": "Lấy bút chì ra."
+        },
+        {
+          "id": "C",
+          "text": "chạy"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "Take out your pencil."
+    },
+    {
+      "id": "R34-C2-12",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Cất bút chì đi.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi bộ"
+        },
+        {
+          "id": "B",
+          "text": "Cất bút chì đi."
+        },
+        {
+          "id": "C",
+          "text": "chạy"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "Put away your pencil."
+    },
+    {
+      "id": "R34-C2-13",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Mở sách ra.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi bộ"
+        },
+        {
+          "id": "B",
+          "text": "Mở sách ra."
+        },
+        {
+          "id": "C",
+          "text": "chạy"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "Open your book."
+    },
+    {
+      "id": "R34-C2-14",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Đóng sách lại.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đi bộ"
+        },
+        {
+          "id": "B",
+          "text": "chạy"
+        },
+        {
+          "id": "C",
+          "text": "Đóng sách lại."
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "Close your book."
+    },
+    {
+      "id": "R34-C2-15",
+      "challenge": 2,
+      "prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "answer": "Vui lòng lấy bút chì ra.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Vui lòng lấy bút chì ra."
+        },
+        {
+          "id": "B",
+          "text": "Vui lòng cất bút chì đi."
+        },
+        {
+          "id": "C",
+          "text": "Vui lòng đóng sách lại."
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Please take out your pencil."
+    },
+    {
+      "id": "R34-C2-16",
+      "challenge": 2,
+      "prompt": "Nghe số lượng và chọn số.",
+      "answer": "4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "four"
+    },
+    {
+      "id": "R34-C2-17",
+      "challenge": 2,
+      "prompt": "Nghe số lượng và chọn số.",
+      "answer": "6",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "six"
+    },
+    {
+      "id": "R34-C2-18",
+      "challenge": 2,
+      "prompt": "Nghe số lượng và chọn số.",
+      "answer": "7",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "seven"
+    },
+    {
+      "id": "R34-C3-01",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `c_rcle`.",
+      "answer": "circle",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-02",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `sq_are`.",
+      "answer": "square",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-03",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `st_r`.",
+      "answer": "star",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-04",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `h_art`.",
+      "answer": "heart",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-05",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `tr_angle`.",
+      "answer": "triangle",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-06",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `d_amond`.",
+      "answer": "diamond",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-07",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `_val`.",
+      "answer": "oval",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-08",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `w_lk`.",
+      "answer": "walk",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-09",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `r_n`.",
+      "answer": "run",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-10",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `g_`.",
+      "answer": "go",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-11",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `st_p`.",
+      "answer": "stop",
+      "type": "spelling"
+    },
+    {
+      "id": "R34-C3-12",
+      "challenge": 3,
+      "prompt": "🖼️lấy bút chì ra. Điền: `________ out your pencil.`.",
+      "answer": "Take",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-13",
+      "challenge": 3,
+      "prompt": "🖼️cất bút chì đi. Điền: `________ away your pencil.`.",
+      "answer": "Put",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-14",
+      "challenge": 3,
+      "prompt": "🖼️bé đang mở sách. Điền: `________ your book.`.",
+      "answer": "Open",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-15",
+      "challenge": 3,
+      "prompt": "🖼️bé đang đóng sách. Điền: `________ your book.`.",
+      "answer": "Close",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-16",
+      "challenge": 3,
+      "prompt": "🖼️lấy bút chì ra. Điền: `Please take ________ your pencil.`.",
+      "answer": "out",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-17",
+      "challenge": 3,
+      "prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ",
+      "answer": "4",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-18",
+      "challenge": 3,
+      "prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ◆ ",
+      "answer": "5",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-19",
+      "challenge": 3,
+      "prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ◆ ◆ ",
+      "answer": "6",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-20",
+      "challenge": 3,
+      "prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ◆ ◆ ◆ ",
+      "answer": "7",
+      "type": "short"
+    },
+    {
+      "id": "R34-C3-21",
+      "challenge": 3,
+      "prompt": "Nghe câu mẫu và điền: `Please take ________ your pencil.`",
+      "answer": "out",
+      "type": "short",
+      "audio_script": "Please take out your pencil."
+    },
+    {
+      "id": "R34-C4-01",
+      "challenge": 4,
+      "prompt": "Các thẻ: `pencil. / your / out / Take`.",
+      "answer": "Take out your pencil.",
+      "type": "order"
+    },
+    {
+      "id": "R34-C4-02",
+      "challenge": 4,
+      "prompt": "Các thẻ: `your / Put / away / pencil.`.",
+      "answer": "Put away your pencil.",
+      "type": "order"
+    },
+    {
+      "id": "R34-C4-03",
+      "challenge": 4,
+      "prompt": "Các thẻ: `Open / book. / your`.",
+      "answer": "Open your book.",
+      "type": "order"
+    },
+    {
+      "id": "R34-C4-04",
+      "challenge": 4,
+      "prompt": "Các thẻ: `your / Close / book.`.",
+      "answer": "Close your book.",
+      "type": "order"
+    },
+    {
+      "id": "R34-C4-05",
+      "challenge": 4,
+      "prompt": "Các thẻ: `your / pencil. / take / Please / out`.",
+      "answer": "Please take out your pencil.",
+      "type": "order"
+    },
+    {
+      "id": "R34-C4-06",
+      "challenge": 4,
+      "prompt": "🖼️hình tròn bé đang vẽ ở cặp1a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "C — circle",
+      "type": "match",
+      "accepted_answers": [
+        "C"
+      ]
+    },
+    {
+      "id": "R34-C4-07",
+      "challenge": 4,
+      "prompt": "🖼️bé đi bộ ở cặp5a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "A — walk",
+      "type": "match",
+      "accepted_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": "R34-C4-08",
+      "challenge": 4,
+      "prompt": "🖼️bé lấy bút chì ra, hình1 Classroom Commands. Điền chữ cái của thẻ phù hợp.",
+      "answer": "B — Take out your pencil.",
+      "type": "match",
+      "accepted_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": "R34-C4-09",
+      "challenge": 4,
+      "prompt": "Nhìn nhóm3a: gọi hình và chọn số lượng.",
+      "answer": "triangle / 4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "triangle / 5"
+        },
+        {
+          "id": "B",
+          "text": "circle / 4"
+        },
+        {
+          "id": "C",
+          "text": "triangle / 4"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C4-10",
+      "challenge": 4,
+      "prompt": "Nhìn nhóm3b: gọi hình và chọn số lượng.",
+      "answer": "circle / 5",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "circle / 5"
+        },
+        {
+          "id": "B",
+          "text": "circle / 4"
+        },
+        {
+          "id": "C",
+          "text": "triangle / 5"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R34-C4-11",
+      "challenge": 4,
+      "prompt": "Nhìn nhóm4a: gọi hình và chọn số lượng.",
+      "answer": "diamond / 6",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "oval / 6"
+        },
+        {
+          "id": "B",
+          "text": "diamond / 6"
+        },
+        {
+          "id": "C",
+          "text": "diamond / 7"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C4-12",
+      "challenge": 4,
+      "prompt": "Nhìn nhóm4b: gọi hình và chọn số lượng.",
+      "answer": "oval / 7",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "oval / 7"
+        },
+        {
+          "id": "B",
+          "text": "diamond / 7"
+        },
+        {
+          "id": "C",
+          "text": "oval / 6"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R34-C5-01",
+      "challenge": 5,
+      "prompt": "Nhìn nhóm3a: gọi hình và chọn số lượng.",
+      "answer": "triangle / 4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "triangle / 5"
+        },
+        {
+          "id": "B",
+          "text": "triangle / 4"
+        },
+        {
+          "id": "C",
+          "text": "circle / 4"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C5-02",
+      "challenge": 5,
+      "prompt": "Nhìn nhóm3b: gọi hình và chọn số lượng.",
+      "answer": "circle / 5",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "triangle / 5"
+        },
+        {
+          "id": "B",
+          "text": "circle / 4"
+        },
+        {
+          "id": "C",
+          "text": "circle / 5"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R34-C5-03",
+      "challenge": 5,
+      "prompt": "Nhìn nhóm4a: gọi hình và chọn số lượng.",
+      "answer": "diamond / 6",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "oval / 6"
+        },
+        {
+          "id": "B",
+          "text": "diamond / 6"
+        },
+        {
+          "id": "C",
+          "text": "diamond / 7"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R34-C5-04",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: hình tròn bé đang vẽ ở cặp1a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "circle",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-05",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: hình vuông ở cặp1b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "square",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-06",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: ngôi sao ở cặp2a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "star",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-07",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: trái tim ở cặp2b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "heart",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-08",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: tam giác trong nhóm3a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "triangle",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-09",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: hình thoi trong nhóm4a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "diamond",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-10",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: hình bầu dục trong nhóm4b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "oval",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-11",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đi bộ ở cặp5a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "walk",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-12",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé chạy ở cặp5b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "run",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-13",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: đèn xanh cho phép đi ở cặp6a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "go",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-14",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: đèn đỏ yêu cầu dừng ở cặp6b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "stop",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-15",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé lấy bút chì ra, hình1 Classroom Commands. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Take out your pencil.",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-16",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé cất bút chì vào hộp, hình2. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Put away your pencil.",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-17",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé mở sách, hình3. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Open your book.",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-18",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đóng sách, hình4. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Close your book.",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-19",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ nhóm nguồn 4 hình triangle, che nhãn/số. Bé nói hình và số lượng.",
+      "answer": "triangle — 4",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-20",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ nhóm nguồn 5 hình circle, che nhãn/số. Bé nói hình và số lượng.",
+      "answer": "circle — 5",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-21",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ nhóm nguồn 6 hình diamond, che nhãn/số. Bé nói hình và số lượng.",
+      "answer": "diamond — 6",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-22",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ nhóm nguồn 7 hình oval, che nhãn/số. Bé nói hình và số lượng.",
+      "answer": "oval — 7",
+      "type": "production"
+    },
+    {
+      "id": "R34-C5-23",
+      "challenge": 5,
+      "prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Bé đóng vai giáo viên: nhìn người lớn sắp lấy bút chì, nói lệnh có Please.",
+      "answer": "Please take out your pencil.",
+      "type": "production"
+    }
+  ],
+  "audio_notes": [
+    {
+      "filename": "r34_circle.mp3",
+      "script": "circle",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_square.mp3",
+      "script": "square",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_star.mp3",
+      "script": "star",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_heart.mp3",
+      "script": "heart",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_triangle.mp3",
+      "script": "triangle",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_diamond.mp3",
+      "script": "diamond",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_oval.mp3",
+      "script": "oval",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_walk.mp3",
+      "script": "walk",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_run.mp3",
+      "script": "run",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_go.mp3",
+      "script": "go",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_stop.mp3",
+      "script": "stop",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_take_out_your_pencil.mp3",
+      "script": "Take out your pencil.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_put_away_your_pencil.mp3",
+      "script": "Put away your pencil.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_open_your_book.mp3",
+      "script": "Open your book.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_close_your_book.mp3",
+      "script": "Close your book.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_please_take_out_your_pencil.mp3",
+      "script": "Please take out your pencil.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_one.mp3",
+      "script": "one",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_two.mp3",
+      "script": "two",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_three.mp3",
+      "script": "three",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_four.mp3",
+      "script": "four",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_five.mp3",
+      "script": "five",
+      "usage": "Cần nếu chạy vòng nghe ngẫu nhiên C1 đầy đủ; tùy chọn làm mẫu phát âm",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_six.mp3",
+      "script": "six",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r34_seven.mp3",
+      "script": "seven",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    }
+  ],
+  "audio_status": "not independently transcribed",
+  "source_audit": "Nguồn có4 tam giác,5 hình tròn,6 hình thoi,7 oval. Các nhóm ký hiệu1–3 bên dưới là biến thể luyện đếm, không phải cặp gốc CD1_71. Open/Close có cùng đuôi your book nên bài điền phải kèm ngữ cảnh để chỉ có một đáp án. Please take out your pencil. giữ như mẫu lịch sự trong nguồn."
+}

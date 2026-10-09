@@ -1,0 +1,13 @@
+{
+  "tracks": [
+    "CD2_18",
+    "CD2_19"
+  ],
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\batch5.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "completed; final content validated through subsequent revisions and manifest",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-81ca9c76-66a7-49a8-bd79-8d810953d34f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "prompt": "Precise edit to ONLY right CD2_19 page. Keep whole left CD2_18 unchanged. Right page: hanging jump ropes badge3 currently THREE ropes, add one entire separate rope so EXACTLY FOUR jump ropes hang on wall. Each rope has two handles. Blue rectangular cards on desk badge2 currently NINE (5 upper4 lower): add one blue card in lower row to make EXACTLY TEN distinct blue rectangular cards arranged5+5. Keep badge3 and badge2 unchanged, they are group IDs. Preserve8 cars,2 rabbits,5 balls,1 bicycle and all colors, dialogue and text. No other changes."
+}

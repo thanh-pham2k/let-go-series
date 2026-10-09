@@ -1,0 +1,15 @@
+{
+  "result": "pass",
+  "item_count": 3,
+  "checks": [
+    "All image/audio paths exist",
+    "All3 track selections",
+    "Practice initially hidden/reset per track",
+    "Manual review reveals practice",
+    "Audio ended reveals practice",
+    "One question with3 choices per track",
+    "Correct/wrong feedback",
+    "Previous/next navigation and bounds"
+  ],
+  "limitation": "Node VM DOM harness; does not claim audio listened/transcribed or browser rendering."
+}

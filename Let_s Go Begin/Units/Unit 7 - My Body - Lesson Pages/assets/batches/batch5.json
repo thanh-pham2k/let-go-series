@@ -1,0 +1,27 @@
+{
+  "tracks": [
+    "CD2_53"
+  ],
+  "prompt": "Single square educational lesson page, title \"Unit 7 · My Body\", track \"CD2_53\", exercise \"B. Question and answer.\" Bright textbook cartoon clear outlines soft shading. Read source page 8 lower scene. White game mat against turquoise backdrop. Unnumbered blonde boy purple sweater dark trousers left asks \"What can you do?\" tail to him. FIVE numbered children precisely: 1 black-haired girl pink shirt navy trousers standing one foot on RED CIRCLE, speech \"I can touch the red circle.\" tail to her. 2 curly red-haired boy green top navy trousers foot touching RED YO-YO; 3 dark-skinned girl orange top green trousers seated hand touching YELLOW SQUARE; 4 dark-haired boy yellow top navy trousers seated foot touching PINK DRUM; 5 black-haired boy red top brown trousers bending one hand touching BLUE TEDDY BEAR. Number markers 1–5 on shirts/legs as source, independent of objects. Also source unnumbered scattered mat objects: purple jump rope at left, second pink drum near boy 2, blue square upper middle plus partial blue square right, green circle behind boy4, three yellow pencils, yellow toy train lower center, second blue teddy bear lower left and second red yo-yo bottom. Preserve all model sentences and exact colors/actions. Every child anatomically natural two arms two legs, distinct fingers, no merged limbs. No quiz questions or answer choices. Generous margins, all text/objects fully visible.",
+  "refs": [
+    "source-pages/page-08.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-5117788c-fc7c-4fd1-b420-f80084843f68.png"
+  },
+  "status": "reviewed",
+  "visual_review": "Source p63 compared: correct two speakers, five numbered pupils and contacts red circle/red yo-yo/yellow square/pink drum/blue teddy; supporting two bears two drums two yo-yos three pencils yellow train purple rope blue squares and green circle retained; no extra limbs.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "934675a7410d243b832cb1bb3319c48fd102200e3f3451ff0b2e37caab279452",
+  "selected_asset": "assets/batches/batch5.png",
+  "fix_logs": [],
+  "final_sha256": "934675a7410d243b832cb1bb3319c48fd102200e3f3451ff0b2e37caab279452"
+}

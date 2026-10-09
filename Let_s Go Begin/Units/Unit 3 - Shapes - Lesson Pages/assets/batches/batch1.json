@@ -1,0 +1,29 @@
+{
+  "unit": 3,
+  "id": "batch1",
+  "tracks": [
+    "CD1_38",
+    "CD1_39",
+    "CD1_40",
+    "CD1_41"
+  ],
+  "prompt": "Regenerate FOUR independent square English children's textbook lesson pages into a high-resolution square 2x2 sheet. Aim 3072x3072. Exactly equal quadrant sizes, split at true midpoint by narrow white gutters. References top-left/top-right/bottom-left/bottom-right. Polished bright friendly textbook cartoons, crisp outlines soft shading consistent Unit1. Preserve every specified word, speaker and learning object. Titles and correct track badges. No quiz text or choices. Do not fill blank answers. All text readable and inside margins. Ignore adjacent headings at crop edges.\nQuadrant 1 CD1_38: A. Let's talk. Children doing paper crafts in classroom. Foreground Kate blonde glasses red dress holds purple paper star and asks 'How are you today?' Scott red hair green-striped shirt cuts pink paper and replies 'I'm fine, thank you.' Andy/Jenny in background. Correct speech tails. Colored cut-paper shapes on tables.\nQuadrant 2 CD1_39: B. Say and act. Two exchanges 1 Miss Jones green shirt blue skirt asks Jenny black bob yellow shirt 'How are you today?' Jenny has blank answer line. 2 Andy curly hair navy stripes asks Kate blonde glasses red dress holding football, blank question bubble ending period; Kate replies 'I'm fine, thank you.' Preserve blank questions/answers.\nQuadrant 3 CD1_40: C. Let's sing. Title 'How Are You Today?' Four children around unobstructed song: Scott claps top left, Andy plays triangle top right, Kate holds tambourine bottom left, Jenny claps bottom right. Full exact lyrics: How are you today? / I'm fine, thank you. / How are you? / I'm fine, thank you. / How are you today? / I'm fine, thank you. / How are you? / I'm fine. Retain all repeated lines.\nQuadrant 4 CD1_41: D. Let's move. Two clear scenes same red-haired Scott in white green-striped shirt brown trousers outdoors: walking then running. Labels '1. Walk.' '2. Run.' Distinct movement poses.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_38.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_39.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_40.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_41.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: correct craft dialogue speakers, two distinct blank exchanges, eight exact song lines and walk/run action labels.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "c6e01d9ecd6dea6df0dc1f7eb3f674a0b941280410b32bd5b9bd683ca3399dc3"
+}

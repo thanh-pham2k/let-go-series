@@ -1,0 +1,31 @@
+{
+  "tracks": [
+    "CD2_37",
+    "CD2_38",
+    "CD2_39",
+    "CD2_40"
+  ],
+  "prompt": "Create a 2x2 sheet of FOUR independent square children's English textbook lesson pages, straight white center gutters. Bright cartoon, clear outlines, soft shading, polished like a modern beginner textbook. Each cell title Unit 7 · My Body and its own track. No quizzes/answers. Preserve natural anatomy and all exact text.\nTOP LEFT CD2_37 \"A. Let's talk.\" Playground: blonde girl red dress left watching, dark-skinned boy striped navy-white shirt center accidentally bumps hands with black bob-haired girl yellow shirt blue flower skirt right. Boy speech \"Oops! I'm sorry.\" Girl speech \"That's OK.\" Speech tails correct.\nTOP RIGHT CD2_38 \"B. Say and act.\" Two numbered independent scenes. 1 blonde girl red dress bumps red-haired boy green striped shirt holding books; girl's bubble \"Oops! I'm sorry.\" boy bubble \"____________________.\" 2 red-haired boy holding a leash talks to black-haired girl holding small brown puppy; boy bubble \"____________________.\" girl bubble \"That's OK.\" DO NOT fill blanks.\nBOTTOM LEFT CD2_39 \"C. Let's sing.\" Song title \"Oops! I'm Sorry\". Print exact eight lines in large clear type: \"Oops! I'm sorry.\" / \"That's OK.\" / \"Oops! I'm sorry,\" / \"Oops! I'm sorry.\" / [space] / \"Oops! I'm sorry.\" / \"That's OK.\" / \"Oops! I'm sorry.\" / \"That's OK.\" Surround with four small vignettes: girl and boy bump lunch trays; girl and boy fishing rods tangled on dock; children in roller skates bump; boy with milk on cheek and blonde girl spills milk.\nBOTTOM RIGHT CD2_40 \"D. Let's move.\" Two numbered action scenes: 1 red-haired boy and black-haired girl stamping feet, feet clearly on ground with motion marks; label \"1. Stamp your feet.\" 2 same two children clapping their own hands, label \"2. Clap your hands.\" Exactly two arms/two legs per child. Read source references for composition and preserve text, blank punctuation and speaker identity.",
+  "refs": [
+    "source-pages/page-01.png",
+    "source-pages/page-02.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-2f7d893d-8bbd-4d87-9a8a-84cda460a396.png"
+  },
+  "status": "reviewed",
+  "visual_review": "Visually checked source pp56-57: speakers correct; two unfilled reply blanks; exact eight lyric lines including comma; four song vignettes; stamping feet and clapping hands distinct, natural limbs.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    626
+  ],
+  "sha256": "55e6247bb3911ffe1deb6b4bbb345f9f2857962b18109e0083a9a1623c4e2b5d",
+  "selected_asset": "assets/batches/batch1.png",
+  "fix_logs": [],
+  "final_sha256": "55e6247bb3911ffe1deb6b4bbb345f9f2857962b18109e0083a9a1623c4e2b5d"
+}

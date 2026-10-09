@@ -3,6 +3,10 @@
   "unit": "Unit 1 - Toys",
   "source_archive": "Unit_1_Toys_audio_mapping.zip",
   "item_count": 17,
+  "uniform_size": [
+    1200,
+    1200
+  ],
   "image_role": "lesson page, not answer choice icon",
   "layout_file": "manifest.json",
   "items": [
@@ -17,7 +21,7 @@
       "source_image": "images/CD1_02_A_Lets_talk.jpg",
       "size": [
         1200,
-        1080
+        1200
       ],
       "question": {
         "id": "U1-CD1_02",
@@ -53,7 +57,7 @@
       "source_image": "images/CD1_03_B_Say_and_act.jpg",
       "size": [
         1200,
-        660
+        1200
       ],
       "question": {
         "id": "U1-CD1_03",
@@ -89,7 +93,7 @@
       "source_image": "images/CD1_04_C_Lets_sing.jpg",
       "size": [
         1200,
-        1060
+        1200
       ],
       "question": {
         "id": "U1-CD1_04",
@@ -125,7 +129,7 @@
       "source_image": "images/CD1_05_D_Lets_move.jpg",
       "size": [
         1200,
-        740
+        1200
       ],
       "question": {
         "id": "U1-CD1_05",
@@ -157,7 +161,7 @@
       "source_image": "images/CD1_06_E_Listen_and_do.jpg",
       "size": [
         1200,
-        740
+        1200
       ],
       "question": {
         "id": "U1-CD1_06",
@@ -189,7 +193,7 @@
       "source_image": "images/CD1_07_A_Words.jpg",
       "size": [
         1200,
-        1320
+        1200
       ],
       "question": {
         "id": "U1-CD1_07",
@@ -225,7 +229,7 @@
       "source_image": "images/CD1_08_B_Listen_and_point.jpg",
       "size": [
         1200,
-        1320
+        1200
       ],
       "question": {
         "id": "U1-CD1_08",
@@ -261,7 +265,7 @@
       "source_image": "images/CD1_09_C_Sentences.jpg",
       "size": [
         1200,
-        1320
+        1200
       ],
       "question": {
         "id": "U1-CD1_09",
@@ -297,7 +301,7 @@
       "source_image": "images/CD1_10_D_Listen_point_and_sing.jpg",
       "size": [
         1200,
-        440
+        1200
       ],
       "question": {
         "id": "U1-CD1_10",
@@ -333,7 +337,7 @@
       "source_image": "images/CD1_11_A_Words.jpg",
       "size": [
         1200,
-        1320
+        1200
       ],
       "question": {
         "id": "U1-CD1_11",
@@ -369,7 +373,7 @@
       "source_image": "images/CD1_12_B_Listen_and_point.jpg",
       "size": [
         1200,
-        1320
+        1200
       ],
       "question": {
         "id": "U1-CD1_12",
@@ -405,7 +409,7 @@
       "source_image": "images/CD1_13_C_Question_and_answer.jpg",
       "size": [
         1200,
-        1320
+        1200
       ],
       "question": {
         "id": "U1-CD1_13",
@@ -441,7 +445,7 @@
       "source_image": "images/CD1_14_D_Listen_point_and_sing.jpg",
       "size": [
         1200,
-        440
+        1200
       ],
       "question": {
         "id": "U1-CD1_14",
@@ -477,7 +481,7 @@
       "source_image": "images/CD1_15_A_Sing_and_say.jpg",
       "size": [
         1200,
-        1310
+        1200
       ],
       "question": {
         "id": "U1-CD1_15",
@@ -513,7 +517,7 @@
       "source_image": "images/CD1_16_B_Letters.jpg",
       "size": [
         1200,
-        1310
+        1200
       ],
       "question": {
         "id": "U1-CD1_16",
@@ -549,7 +553,7 @@
       "source_image": "images/CD1_17_A_Ask.jpg",
       "size": [
         1200,
-        1020
+        1200
       ],
       "question": {
         "id": "U1-CD1_17",
@@ -585,7 +589,7 @@
       "source_image": "images/CD1_18_B_Answer.jpg",
       "size": [
         1200,
-        1100
+        1200
       ],
       "question": {
         "id": "U1-CD1_18",

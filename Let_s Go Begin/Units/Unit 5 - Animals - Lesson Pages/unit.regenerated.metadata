@@ -1,0 +1,606 @@
+{
+  "format_version": "2.0",
+  "unit": 5,
+  "topic": "Animals",
+  "item_count": 18,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD2_02",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 38,
+      "image": "pages/webp/CD2_02.webp",
+      "audio_file": "audio/Track02.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_02",
+        "prompt": "Bạn gái đáp lại “Here you are” bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Thank you."
+          },
+          {
+            "id": "B",
+            "text": "It's a cat."
+          },
+          {
+            "id": "C",
+            "text": "Sit down."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_03",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 38,
+      "image": "pages/webp/CD2_03.webp",
+      "audio_file": "audio/Track03.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_03",
+        "prompt": "Ở tình huống số 2, câu nào phù hợp trước lời đáp “Thank you”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Run."
+          },
+          {
+            "id": "B",
+            "text": "Here you are."
+          },
+          {
+            "id": "C",
+            "text": "What is it?"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_04",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 39,
+      "image": "pages/webp/CD2_04.webp",
+      "audio_file": "audio/Track04.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_04",
+        "prompt": "Trong bài hát, câu nào dùng để cảm ơn?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Here you are."
+          },
+          {
+            "id": "B",
+            "text": "Stand up."
+          },
+          {
+            "id": "C",
+            "text": "Thank you."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_05",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 39,
+      "image": "pages/webp/CD2_05.webp",
+      "audio_file": "audio/Track05.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_05",
+        "prompt": "Khi nghe “Jump”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Nhảy lên."
+          },
+          {
+            "id": "B",
+            "text": "Ngồi xuống."
+          },
+          {
+            "id": "C",
+            "text": "Đi bộ."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_06",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 39,
+      "image": "pages/webp/CD2_06.webp",
+      "audio_file": "audio/Track06.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_06",
+        "prompt": "Sau bài luyện hành động, “Skip” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Đứng yên."
+          },
+          {
+            "id": "B",
+            "text": "Nhảy chân sáo."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_07",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 40,
+      "image": "pages/webp/CD2_07.webp",
+      "audio_file": "audio/Track07.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_07",
+        "prompt": "Nhóm nhiều mèo ở hình số 4 ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "cat"
+          },
+          {
+            "id": "B",
+            "text": "dog"
+          },
+          {
+            "id": "C",
+            "text": "cats"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_08",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 40,
+      "image": "pages/webp/CD2_08.webp",
+      "audio_file": "audio/Track08.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_08",
+        "prompt": "Sau khi luyện nghe, hình số 5 có một con chim ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "bird"
+          },
+          {
+            "id": "B",
+            "text": "birds"
+          },
+          {
+            "id": "C",
+            "text": "cats"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_09",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 41,
+      "image": "pages/webp/CD2_09.webp",
+      "audio_file": "audio/Track09.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_09",
+        "prompt": "Trong hình, các bạn đếm con vật nào khi nói “Let's count the cats”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Chim."
+          },
+          {
+            "id": "B",
+            "text": "Mèo."
+          },
+          {
+            "id": "C",
+            "text": "Chó."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_10",
+      "exercise": "D. Listen, point, and sing.",
+      "page": 4,
+      "book_page": 41,
+      "image": "pages/webp/CD2_10.webp",
+      "audio_file": "audio/Track10.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_10",
+        "prompt": "Sau bài hát, nhóm con vật ngoài cùng bên phải ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "birds"
+          },
+          {
+            "id": "B",
+            "text": "dogs"
+          },
+          {
+            "id": "C",
+            "text": "cats"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_11",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 42,
+      "image": "pages/webp/CD2_11.webp",
+      "audio_file": "audio/Track11.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_11",
+        "prompt": "Nhóm nhiều thỏ ở hình số 4 ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "rabbits"
+          },
+          {
+            "id": "B",
+            "text": "rabbit"
+          },
+          {
+            "id": "C",
+            "text": "ducks"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_12",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 42,
+      "image": "pages/webp/CD2_12.webp",
+      "audio_file": "audio/Track12.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_12",
+        "prompt": "Sau khi luyện nghe, hình số 5 có một con vịt ứng với từ nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "cow"
+          },
+          {
+            "id": "B",
+            "text": "duck"
+          },
+          {
+            "id": "C",
+            "text": "ducks"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_13",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 43,
+      "image": "pages/webp/CD2_13.webp",
+      "audio_file": "audio/Track13.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_13",
+        "prompt": "Trong hội thoại, câu trả lời cho “How many cows?” là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "2 cows."
+          },
+          {
+            "id": "B",
+            "text": "5 cows."
+          },
+          {
+            "id": "C",
+            "text": "8 cows."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_14",
+      "exercise": "D. Listen and point.",
+      "page": 6,
+      "book_page": 43,
+      "image": "pages/webp/CD2_14.webp",
+      "audio_file": "audio/Track14.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_14",
+        "prompt": "Sau khi luyện nghe, bé chọn từ gọi nhóm bò trong hình nông trại.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "cows"
+          },
+          {
+            "id": "B",
+            "text": "rabbits"
+          },
+          {
+            "id": "C",
+            "text": "ducks"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_15",
+      "exercise": "E. Listen, point, and sing.",
+      "page": 6,
+      "book_page": 43,
+      "image": "pages/webp/CD2_15.webp",
+      "audio_file": "audio/Track15.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_15",
+        "prompt": "Sau bài hát, nhóm con vật ngoài cùng bên phải là con gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Bò."
+          },
+          {
+            "id": "B",
+            "text": "Chim."
+          },
+          {
+            "id": "C",
+            "text": "Thỏ."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_16",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 44,
+      "image": "pages/webp/CD2_16.webp",
+      "audio_file": "audio/Track16.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_16",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau N?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "M"
+          },
+          {
+            "id": "B",
+            "text": "P"
+          },
+          {
+            "id": "C",
+            "text": "O"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_17",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 44,
+      "image": "pages/webp/CD2_17.webp",
+      "audio_file": "audio/Track17.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_17",
+        "prompt": "Từ nào đi với chữ P p trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "peach"
+          },
+          {
+            "id": "B",
+            "text": "moon"
+          },
+          {
+            "id": "C",
+            "text": "nest"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_18",
+      "exercise": "A. Count.",
+      "page": 8,
+      "book_page": 45,
+      "image": "pages/webp/CD2_18.webp",
+      "audio_file": "audio/Track18.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_18",
+        "prompt": "Trong hình, các bạn nói “1 train, 2 trains, 3 trains”; các bạn đang đếm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Búp bê."
+          },
+          {
+            "id": "B",
+            "text": "Tàu hỏa."
+          },
+          {
+            "id": "C",
+            "text": "Ô tô."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_19",
+      "exercise": "B. Question and answer.",
+      "page": 8,
+      "book_page": 45,
+      "image": "pages/webp/CD2_19.webp",
+      "audio_file": "audio/Track19.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U5-CD2_19",
+        "prompt": "Trong hội thoại, câu trả lời cho “How many cars?” là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "3 cars."
+          },
+          {
+            "id": "B",
+            "text": "5 cars."
+          },
+          {
+            "id": "C",
+            "text": "8 cars."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

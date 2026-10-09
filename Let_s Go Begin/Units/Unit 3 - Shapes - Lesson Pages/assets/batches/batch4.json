@@ -1,0 +1,29 @@
+{
+  "unit": 3,
+  "id": "batch4",
+  "tracks": [
+    "CD1_50",
+    "CD1_51",
+    "CD1_52",
+    "CD1_53"
+  ],
+  "prompt": "Generate FOUR independent square English lesson pages as high-resolution square 2x2 sheet, equal quadrants divided at exact horizontal and vertical midpoint with white gutters, aim 3072x3072. References top-left/top-right/bottom-left/bottom-right. Polished children's textbook cartoon soft shading crisp outlines, faithful instructional content. Include every specified word and numbered shape. Correct title and track badge. No quiz text or answer choices. Geometry exact: circles circular, squares four equal sides, ovals elongated. All alphabet pairs accurate, sequential reading order. Ignore neighboring headings at crop edges.\nQuadrant 1 CD1_50: D. Listen, point, and sing. Shapes in order orange circle, yellow oval, blue square, red heart, green diamond. Add labels 'a circle', 'an oval', 'a square', 'a heart', 'a diamond'. No invented lyrics.\nQuadrant 2 CD1_51: A. Sing and say. Complete 26 upper/lower alphabet pairs A a through Z z in correct sequential reading order, big clean colorful glyphs. Four columns allowed. Do not omit any pair.\nQuadrant 3 CD1_52: B. Letters and words. 1. E e — egg; 2. F f — fish; 3. G g — gorilla; 4. H h — heart. Pictures egg/fish/gorilla/redheart with labels. Below C. Find the letters. source scene gorilla near aquarium table and vase of hearts. Preserve embedded uppercase/lowercase E e F f G g H h as source, accurate English glyphs.\nQuadrant 4 CD1_53: A. Sentences. Child at crafts desk example 'It's a blue square.' Four numbered flat shapes 1. a blue square, 2. a purple heart, 3. an orange triangle, 4. a yellow circle. Distinct actual geometric shapes.\nIn page52 Find the letters, aquarium embeds f and F, gorilla blocks g and uppercase G nearby, heart vase h and H, eggs/table E, block under table e. Keep all eight glyphs.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_50.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_51.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_52.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\references\\CD1_53.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: five singing shapes; all26 alphabet pairs in row order; Ee-Hh words and eight embedded glyphs; four color-shape phrases and sample sentence.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    624,
+    629
+  ],
+  "sha256": "10a7e5b1f5b4cde8c6f5ed49aae9116995bcbee91de2601c4a1c8b9db78ac58e"
+}

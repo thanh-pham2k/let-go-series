@@ -1,24 +1,18 @@
-# Unit 5 - Animals: Câu hỏi theo từng mục hình–audio
+# Unit 5 – Animals: Câu hỏi theo trang
 
-## Phạm vi và cách dùng
+Bộ chuẩn gồm 18 trang, mỗi trang có ảnh có chữ, audio và đúng một câu trắc nghiệm. Ảnh đều 1200 × 1200, giữ tỷ lệ nội dung.
 
-Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.zip), gồm `unit_5_animals.metadata` và **18 mục hình–audio**. Mỗi mục học/hình trong ZIP có **đúng 1 câu hỏi** sau khi nghe; không gộp các mục trên cùng trang sách.
-
-- Mở hình theo trường `image` trong ZIP, phát audio tương ứng, rồi cho bé trả lời câu hỏi của mục đó.
-- Bé có thể chỉ lựa chọn hoặc nói đáp án. Người lớn đọc hướng dẫn tiếng Việt nếu bé chưa đọc được.
-- `page` là số trang PDF Unit theo metadata. Số trang in trong sách được ghi riêng ở mỗi mục.
-- Đường dẫn hình là đường dẫn **bên trong ZIP**, không phải file đã giải nén trong repo. Link MP3 trỏ đến thư mục CD hiện có trong repo.
-- Câu hỏi bổ sung bám nội dung hình và tên bài. Chưa đối chiếu lời nói hoặc mốc thời gian trong MP3; không yêu cầu nhớ thứ tự đồ vật xuất hiện trong audio.
-- Một số crop “Listen and point/do” chỉ có tiêu đề. Các mục đó dùng hình Words/Numbers/Sentences hoặc lệnh Let's move trên cùng trang; mục **Hình tham chiếu thêm** ghi rõ hình cần mở kèm.
-- Ẩn bảng đáp án khi bé làm bài; xem đáp án sau khi bé trả lời.
+- [Preview học và làm bài](Unit%205%20-%20Animals%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ](Unit%205%20-%20Animals%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata nối ảnh/audio/câu hỏi](Unit%205%20-%20Animals%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- Hiện câu hỏi sau khi nghe, phản hồi đáp án sau khi bé chọn.
+- Audio khớp file CD nguồn; chưa nghe/transcribe đối chiếu độc lập.
 
 ## CD2_02 – A. Let's talk.
 
 - **Mã câu hỏi:** U5-CD2_02.
-- **Trang trong metadata:** 1 (trang sách 38).
-- **Hình trong ZIP:** `images/CD2_02_a_let_s_talk.png`.
-- **Nhãn audio trong ZIP:** CD2 02.
-- **Audio sử dụng:** [CD2 02 – Track02.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track02.mp3).
+- **Trang PDF:** 1 (trang sách 38).
+- **Ảnh chuẩn:** [CD2_02.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_02.webp).
+- **Audio:** [Track02.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track02.mp3).
 
 **Câu hỏi:** Bạn gái đáp lại “Here you are” bằng câu nào?
 
@@ -29,10 +23,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_03 – B. Say and act.
 
 - **Mã câu hỏi:** U5-CD2_03.
-- **Trang trong metadata:** 1 (trang sách 38).
-- **Hình trong ZIP:** `images/CD2_03_b_say_and_act.png`.
-- **Nhãn audio trong ZIP:** CD2 03.
-- **Audio sử dụng:** [CD2 03 – Track03.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track03.mp3).
+- **Trang PDF:** 1 (trang sách 38).
+- **Ảnh chuẩn:** [CD2_03.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_03.webp).
+- **Audio:** [Track03.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track03.mp3).
 
 **Câu hỏi:** Ở tình huống số 2, câu nào phù hợp trước lời đáp “Thank you”?
 
@@ -43,10 +36,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_04 – C. Let's sing.
 
 - **Mã câu hỏi:** U5-CD2_04.
-- **Trang trong metadata:** 2 (trang sách 39).
-- **Hình trong ZIP:** `images/CD2_04_c_let_s_sing.png`.
-- **Nhãn audio trong ZIP:** CD2 04.
-- **Audio sử dụng:** [CD2 04 – Track04.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track04.mp3).
+- **Trang PDF:** 2 (trang sách 39).
+- **Ảnh chuẩn:** [CD2_04.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_04.webp).
+- **Audio:** [Track04.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track04.mp3).
 
 **Câu hỏi:** Trong bài hát, câu nào dùng để cảm ơn?
 
@@ -57,10 +49,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_05 – D. Let's move.
 
 - **Mã câu hỏi:** U5-CD2_05.
-- **Trang trong metadata:** 2 (trang sách 39).
-- **Hình trong ZIP:** `images/CD2_05_d_let_s_move.png`.
-- **Nhãn audio trong ZIP:** CD2 05.
-- **Audio sử dụng:** [CD2 05 – Track05.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track05.mp3).
+- **Trang PDF:** 2 (trang sách 39).
+- **Ảnh chuẩn:** [CD2_05.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_05.webp).
+- **Audio:** [Track05.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track05.mp3).
 
 **Câu hỏi:** Khi nghe “Jump”, bé cần làm gì?
 
@@ -71,11 +62,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_06 – E. Listen and do.
 
 - **Mã câu hỏi:** U5-CD2_06.
-- **Trang trong metadata:** 2 (trang sách 39).
-- **Hình trong ZIP:** `images/CD2_06_e_listen_and_do.png`.
-- **Nhãn audio trong ZIP:** CD2 06.
-- **Audio sử dụng:** [CD2 06 – Track06.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track06.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_05_d_let_s_move.png` (D. Let's move., cùng trang).
+- **Trang PDF:** 2 (trang sách 39).
+- **Ảnh chuẩn:** [CD2_06.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_06.webp).
+- **Audio:** [Track06.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track06.mp3).
 
 **Câu hỏi:** Sau bài luyện hành động, “Skip” yêu cầu bé làm gì?
 
@@ -86,10 +75,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_07 – A. Words.
 
 - **Mã câu hỏi:** U5-CD2_07.
-- **Trang trong metadata:** 3 (trang sách 40).
-- **Hình trong ZIP:** `images/CD2_07_a_words.png`.
-- **Nhãn audio trong ZIP:** CD2 07.
-- **Audio sử dụng:** [CD2 07 – Track07.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track07.mp3).
+- **Trang PDF:** 3 (trang sách 40).
+- **Ảnh chuẩn:** [CD2_07.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_07.webp).
+- **Audio:** [Track07.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track07.mp3).
 
 **Câu hỏi:** Nhóm nhiều mèo ở hình số 4 ứng với từ nào?
 
@@ -100,11 +88,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_08 – B. Listen and point.
 
 - **Mã câu hỏi:** U5-CD2_08.
-- **Trang trong metadata:** 3 (trang sách 40).
-- **Hình trong ZIP:** `images/CD2_08_b_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD2 08.
-- **Audio sử dụng:** [CD2 08 – Track08.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track08.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_07_a_words.png` (A. Words., cùng trang).
+- **Trang PDF:** 3 (trang sách 40).
+- **Ảnh chuẩn:** [CD2_08.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_08.webp).
+- **Audio:** [Track08.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track08.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, hình số 5 có một con chim ứng với từ nào?
 
@@ -115,10 +101,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_09 – C. Sentences.
 
 - **Mã câu hỏi:** U5-CD2_09.
-- **Trang trong metadata:** 4 (trang sách 41).
-- **Hình trong ZIP:** `images/CD2_09_c_sentences.png`.
-- **Nhãn audio trong ZIP:** CD2 09.
-- **Audio sử dụng:** [CD2 09 – Track09.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track09.mp3).
+- **Trang PDF:** 4 (trang sách 41).
+- **Ảnh chuẩn:** [CD2_09.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_09.webp).
+- **Audio:** [Track09.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track09.mp3).
 
 **Câu hỏi:** Trong hình, các bạn đếm con vật nào khi nói “Let's count the cats”?
 
@@ -129,10 +114,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_10 – D. Listen, point, and sing.
 
 - **Mã câu hỏi:** U5-CD2_10.
-- **Trang trong metadata:** 4 (trang sách 41).
-- **Hình trong ZIP:** `images/CD2_10_d_listen_point_and_sing.png`.
-- **Nhãn audio trong ZIP:** CD2 10.
-- **Audio sử dụng:** [CD2 10 – Track10.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track10.mp3).
+- **Trang PDF:** 4 (trang sách 41).
+- **Ảnh chuẩn:** [CD2_10.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_10.webp).
+- **Audio:** [Track10.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track10.mp3).
 
 **Câu hỏi:** Sau bài hát, nhóm con vật ngoài cùng bên phải ứng với từ nào?
 
@@ -143,10 +127,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_11 – A. Words.
 
 - **Mã câu hỏi:** U5-CD2_11.
-- **Trang trong metadata:** 5 (trang sách 42).
-- **Hình trong ZIP:** `images/CD2_11_a_words.png`.
-- **Nhãn audio trong ZIP:** CD2 11.
-- **Audio sử dụng:** [CD2 11 – Track11.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track11.mp3).
+- **Trang PDF:** 5 (trang sách 42).
+- **Ảnh chuẩn:** [CD2_11.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_11.webp).
+- **Audio:** [Track11.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track11.mp3).
 
 **Câu hỏi:** Nhóm nhiều thỏ ở hình số 4 ứng với từ nào?
 
@@ -157,11 +140,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_12 – B. Listen and point.
 
 - **Mã câu hỏi:** U5-CD2_12.
-- **Trang trong metadata:** 5 (trang sách 42).
-- **Hình trong ZIP:** `images/CD2_12_b_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD2 12.
-- **Audio sử dụng:** [CD2 12 – Track12.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track12.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_11_a_words.png` (A. Words., cùng trang).
+- **Trang PDF:** 5 (trang sách 42).
+- **Ảnh chuẩn:** [CD2_12.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_12.webp).
+- **Audio:** [Track12.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track12.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, hình số 5 có một con vịt ứng với từ nào?
 
@@ -172,10 +153,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_13 – C. Question and answer.
 
 - **Mã câu hỏi:** U5-CD2_13.
-- **Trang trong metadata:** 6 (trang sách 43).
-- **Hình trong ZIP:** `images/CD2_13_c_question_and_answer.png`.
-- **Nhãn audio trong ZIP:** CD2 13.
-- **Audio sử dụng:** [CD2 13 – Track13.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track13.mp3).
+- **Trang PDF:** 6 (trang sách 43).
+- **Ảnh chuẩn:** [CD2_13.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_13.webp).
+- **Audio:** [Track13.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track13.mp3).
 
 **Câu hỏi:** Trong hội thoại, câu trả lời cho “How many cows?” là gì?
 
@@ -186,11 +166,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_14 – D. Listen and point.
 
 - **Mã câu hỏi:** U5-CD2_14.
-- **Trang trong metadata:** 6 (trang sách 43).
-- **Hình trong ZIP:** `images/CD2_14_d_listen_and_point.png`.
-- **Nhãn audio trong ZIP:** CD2 14.
-- **Audio sử dụng:** [CD2 14 – Track14.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track14.mp3).
-- **Hình tham chiếu thêm:** `images/CD2_13_c_question_and_answer.png` (C. Question and answer., cùng trang).
+- **Trang PDF:** 6 (trang sách 43).
+- **Ảnh chuẩn:** [CD2_14.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_14.webp).
+- **Audio:** [Track14.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track14.mp3).
 
 **Câu hỏi:** Sau khi luyện nghe, bé chọn từ gọi nhóm bò trong hình nông trại.
 
@@ -201,24 +179,22 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_15 – E. Listen, point, and sing.
 
 - **Mã câu hỏi:** U5-CD2_15.
-- **Trang trong metadata:** 6 (trang sách 43).
-- **Hình trong ZIP:** `images/CD2_15_e_listen_point_and_sing.png`.
-- **Nhãn audio trong ZIP:** CD2 15.
-- **Audio sử dụng:** [CD2 15 – Track15.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track15.mp3).
+- **Trang PDF:** 6 (trang sách 43).
+- **Ảnh chuẩn:** [CD2_15.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_15.webp).
+- **Audio:** [Track15.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track15.mp3).
 
 **Câu hỏi:** Sau bài hát, nhóm con vật ngoài cùng bên phải là con gì?
 
 - A. Bò.
-- B. Gà.
+- B. Chim.
 - C. Thỏ.
 
 ## CD2_16 – A. Sing and say.
 
 - **Mã câu hỏi:** U5-CD2_16.
-- **Trang trong metadata:** 7 (trang sách 44).
-- **Hình trong ZIP:** `images/CD2_16_a_sing_and_say.png`.
-- **Nhãn audio trong ZIP:** CD2 16.
-- **Audio sử dụng:** [CD2 16 – Track16.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track16.mp3).
+- **Trang PDF:** 7 (trang sách 44).
+- **Ảnh chuẩn:** [CD2_16.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_16.webp).
+- **Audio:** [Track16.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track16.mp3).
 
 **Câu hỏi:** Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau N?
 
@@ -229,10 +205,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_17 – B. Letters and words.
 
 - **Mã câu hỏi:** U5-CD2_17.
-- **Trang trong metadata:** 7 (trang sách 44).
-- **Hình trong ZIP:** `images/CD2_17_b_letters_and_words.png`.
-- **Nhãn audio trong ZIP:** CD2 17.
-- **Audio sử dụng:** [CD2 17 – Track17.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track17.mp3).
+- **Trang PDF:** 7 (trang sách 44).
+- **Ảnh chuẩn:** [CD2_17.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_17.webp).
+- **Audio:** [Track17.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track17.mp3).
 
 **Câu hỏi:** Từ nào đi với chữ P p trong hình?
 
@@ -243,10 +218,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_18 – A. Count.
 
 - **Mã câu hỏi:** U5-CD2_18.
-- **Trang trong metadata:** 8 (trang sách 45).
-- **Hình trong ZIP:** `images/CD2_18_a_count.png`.
-- **Nhãn audio trong ZIP:** CD2 18.
-- **Audio sử dụng:** [CD2 18 – Track18.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track18.mp3).
+- **Trang PDF:** 8 (trang sách 45).
+- **Ảnh chuẩn:** [CD2_18.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_18.webp).
+- **Audio:** [Track18.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track18.mp3).
 
 **Câu hỏi:** Trong hình, các bạn nói “1 train, 2 trains, 3 trains”; các bạn đang đếm gì?
 
@@ -257,10 +231,9 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 ## CD2_19 – B. Question and answer.
 
 - **Mã câu hỏi:** U5-CD2_19.
-- **Trang trong metadata:** 8 (trang sách 45).
-- **Hình trong ZIP:** `images/CD2_19_b_question_and_answer.png`.
-- **Nhãn audio trong ZIP:** CD2 19.
-- **Audio sử dụng:** [CD2 19 – Track19.mp3](../Oxford%20-%20Let_s%20Go%20Begin%20Student_s%20Book%203rd%20Edition%20CD2/Track19.mp3).
+- **Trang PDF:** 8 (trang sách 45).
+- **Ảnh chuẩn:** [CD2_19.webp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/pages/webp/CD2_19.webp).
+- **Audio:** [Track19.mp3](Unit%205%20-%20Animals%20-%20Lesson%20Pages/audio/Track19.mp3).
 
 **Câu hỏi:** Trong hội thoại, câu trả lời cho “How many cars?” là gì?
 
@@ -268,25 +241,25 @@ Nguồn chính: [Unit_5_Animals_audio_mapping.zip](Unit_5_Animals_audio_mapping.
 - B. 5 cars.
 - C. 8 cars.
 
-## Đáp án và mapping hình → audio → câu hỏi
+## Đáp án
 
-| Mã câu hỏi | Hình trong ZIP | Audio sử dụng | Đáp án đúng |
-|---|---|---|---|
-| U5-CD2_02 | images/CD2_02_a_let_s_talk.png | CD2 02 | A. Thank you. |
-| U5-CD2_03 | images/CD2_03_b_say_and_act.png | CD2 03 | B. Here you are. |
-| U5-CD2_04 | images/CD2_04_c_let_s_sing.png | CD2 04 | C. Thank you. |
-| U5-CD2_05 | images/CD2_05_d_let_s_move.png | CD2 05 | A. Nhảy lên. |
-| U5-CD2_06 | images/CD2_06_e_listen_and_do.png | CD2 06 | B. Nhảy chân sáo. |
-| U5-CD2_07 | images/CD2_07_a_words.png | CD2 07 | C. cats |
-| U5-CD2_08 | images/CD2_08_b_listen_and_point.png | CD2 08 | A. bird |
-| U5-CD2_09 | images/CD2_09_c_sentences.png | CD2 09 | B. Mèo. |
-| U5-CD2_10 | images/CD2_10_d_listen_point_and_sing.png | CD2 10 | C. cats |
-| U5-CD2_11 | images/CD2_11_a_words.png | CD2 11 | A. rabbits |
-| U5-CD2_12 | images/CD2_12_b_listen_and_point.png | CD2 12 | B. duck |
-| U5-CD2_13 | images/CD2_13_c_question_and_answer.png | CD2 13 | C. 8 cows. |
-| U5-CD2_14 | images/CD2_14_d_listen_and_point.png | CD2 14 | A. cows |
-| U5-CD2_15 | images/CD2_15_e_listen_point_and_sing.png | CD2 15 | B. Gà. |
-| U5-CD2_16 | images/CD2_16_a_sing_and_say.png | CD2 16 | C. O |
-| U5-CD2_17 | images/CD2_17_b_letters_and_words.png | CD2 17 | A. peach |
-| U5-CD2_18 | images/CD2_18_a_count.png | CD2 18 | B. Tàu hỏa. |
-| U5-CD2_19 | images/CD2_19_b_question_and_answer.png | CD2 19 | C. 8 cars. |
+| Track | Đáp án |
+|---|---|
+| CD2_02 | A. Thank you. |
+| CD2_03 | B. Here you are. |
+| CD2_04 | C. Thank you. |
+| CD2_05 | A. Nhảy lên. |
+| CD2_06 | B. Nhảy chân sáo. |
+| CD2_07 | C. cats |
+| CD2_08 | A. bird |
+| CD2_09 | B. Mèo. |
+| CD2_10 | C. cats |
+| CD2_11 | A. rabbits |
+| CD2_12 | B. duck |
+| CD2_13 | C. 8 cows. |
+| CD2_14 | A. cows |
+| CD2_15 | B. Chim. |
+| CD2_16 | C. O |
+| CD2_17 | A. peach |
+| CD2_18 | B. Tàu hỏa. |
+| CD2_19 | C. 8 cars. |

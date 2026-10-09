@@ -1,0 +1,183 @@
+{
+  "CD2_70": {
+    "source_title": "Units 7-8 Listen and Review",
+    "exercise": "A. Listen and circle.",
+    "pairs": [
+      {
+        "number": 1,
+        "a": "One eye closed, other open: wink; green sweater red-haired boy points beside eye.",
+        "b": "Boy bends knees, both hands on knees; green sweater and blue trousers."
+      },
+      {
+        "number": 2,
+        "a": "Ponytailed girl bends with straight legs; fingertips contact shoe toes.",
+        "b": "Same girl bends; hands above shoes with visible gap: cannot reach toes."
+      },
+      {
+        "number": 3,
+        "a": "Child rides green bicycle with two wheels.",
+        "b": "Child flies red diamond kite on grass."
+      },
+      {
+        "number": 4,
+        "a": "Boy swims horizontally in blue pool with ladder.",
+        "b": "Boy dances beside pool, crossed arms and torso movement, red patterned shorts."
+      },
+      {
+        "number": 5,
+        "a": "Curly-haired child stamps feet, pink shirt and blue trousers.",
+        "b": "Same child claps hands at chest; pink shirt and blue trousers."
+      },
+      {
+        "number": 6,
+        "a": "Seated pupil points to green classroom board.",
+        "b": "Pupil stands upright before green classroom board, arms down."
+      }
+    ],
+    "text": [
+      "1.",
+      "2.",
+      "3.",
+      "4.",
+      "5.",
+      "6.",
+      "a",
+      "b"
+    ],
+    "original_audio_answers": "Unknown; no marked answers without an independent listening audit."
+  },
+  "CD2_71": {
+    "source_title": "Days of the Week",
+    "exercise": "A. Say these.",
+    "day_cards": [
+      {
+        "day": "Sunday",
+        "number": 1,
+        "number_color": "blue"
+      },
+      {
+        "day": "Monday",
+        "number": 2,
+        "number_color": "green"
+      },
+      {
+        "day": "Tuesday",
+        "number": 3,
+        "number_color": "yellow"
+      },
+      {
+        "day": "Wednesday",
+        "number": 4,
+        "number_color": "orange-red"
+      },
+      {
+        "day": "Thursday",
+        "number": 5,
+        "number_color": "lavender"
+      },
+      {
+        "day": "Friday",
+        "number": 6,
+        "number_color": "pink"
+      },
+      {
+        "day": "Saturday",
+        "number": 7,
+        "number_color": "teal-green"
+      }
+    ],
+    "model_sentence": "It's Monday.",
+    "monthly_calendar_headers": [
+      "SUN.",
+      "MON.",
+      "TUES.",
+      "WEDS.",
+      "THUR.",
+      "FRI.",
+      "SAT."
+    ],
+    "monthly_rows": [
+      [
+        null,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      [
+        28,
+        29,
+        30,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "speaker": "red-haired child points to Monday column"
+  },
+  "CD2_72": {
+    "source_title": "Days of the Week",
+    "exercise": "B. Let's sing.",
+    "headers": [
+      "SUNDAY",
+      "MONDAY",
+      "TUESDAY",
+      "WEDNESDAY",
+      "THURSDAY",
+      "FRIDAY",
+      "SATURDAY"
+    ],
+    "calendar_rows": [
+      [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    ],
+    "visual": "Green-shirt child holding yellow pointer to Wednesday header, purple backdrop, red headers.",
+    "printed_lyrics": null
+  }
+}

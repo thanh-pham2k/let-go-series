@@ -1,0 +1,63 @@
+{
+  "source_file": "lets_go_audio_mapping.metadata",
+  "filter": "source_pdf == Review 7-8.pdf",
+  "items": [
+    {
+      "source_pdf": "Review 7-8.pdf",
+      "content_type": "review",
+      "unit": "7-8",
+      "topic": "Listen and Review",
+      "pdf_page": 1,
+      "book_page": 72,
+      "lesson_section": "Units 7-8 Listen and Review",
+      "exercise": "A",
+      "exercise_title": "Listen and circle.",
+      "audio": {
+        "disc": "CD2",
+        "track": 70,
+        "audio_key": "CD2-70",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 7-8.pdf",
+      "content_type": "review",
+      "unit": "7-8",
+      "topic": "Days of the Week",
+      "pdf_page": 2,
+      "book_page": 73,
+      "lesson_section": "Let's Learn About",
+      "exercise": "A",
+      "exercise_title": "Say these.",
+      "audio": {
+        "disc": "CD2",
+        "track": 71,
+        "audio_key": "CD2-71",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 7-8.pdf",
+      "content_type": "review",
+      "unit": "7-8",
+      "topic": "Days of the Week",
+      "pdf_page": 2,
+      "book_page": 73,
+      "lesson_section": "Let's Learn About",
+      "exercise": "B",
+      "exercise_title": "Let's sing.",
+      "audio": {
+        "disc": "CD2",
+        "track": 72,
+        "audio_key": "CD2-72",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    }
+  ]
+}

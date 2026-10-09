@@ -1,0 +1,23 @@
+{
+  "tracks": [
+    "CD1_70"
+  ],
+  "prompt": "Generate ONE square complete textbook cartoon page CD1 70. Image1 source content, image2 regenerated style reference. Title 'A. Ask and answer.' Clear classroom scene with TEN numbered balloon exercises, EVERY pair explicit and separated: blue badge1 beside red numeral5; badge2 beside green numeral3; badge3 beside purple numeral2; badge4 beside blue numeral7; badge5 beside pink numeral1; badge6 beside yellow upright numeral6; badge7 beside yellow numeral4; badge8 beside blue numeral8; badge9 beside red numeral10; badge10 beside red numeral9. Make two rows of five balloons for legibility, no missing blue badges. Under them two independent child conversations: left child asks exactly 'Is it a 5?' other answers 'Yes, it is.' Right child asks exactly 'Is it a 9?' girl holding unmistakable upright 6 (hole below, hook above) answers exactly \"No, it isn't. It's a 6.\" Correct grammar, no 'Is ti'. All four speech texts readable and tails point at respective speakers. Bottom third title 'B. Find the numbers.' and classroom shelf/desks containing numeral1 in fishbowl,2 pencil holder,3 backpack,4 wall picture,5 book. Preserve all five hidden number activity objects. Bright textbook cartoon crisp outline soft shading, no quiz metadata, generous margins. Include ALL ten balloon numbers and group badges.",
+  "refs": [
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 4 - Numbers - Lesson Pages/references/CD1_70.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 4 - Numbers - Lesson Pages/assets/batches/batch4.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c4f-ee9b-7361-afa2-895ea54407a2 as C:\\Users\\Admin\\.codex\\generated_images\\01a11c4f-ee9b-7361-afa2-895ea54407a2\\exec-c6b82c28-be0a-4153-a54d-f56ecde59ae3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "status": "reviewed",
+  "visual_review": "All ten balloon pairs confirmed 1:5 2:3 3:2 4:7 5:1 6:6 7:4 8:8 9:10 10:9. Both dialogues correct with speech tails, upright 6 and Find the numbers 1-5 retained. Track badge added using font layer.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "167f69903c2b4100a0f287d7fa60a6bc9a15a50f49a10ad7acd24ac28f6eabbe"
+}

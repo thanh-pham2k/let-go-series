@@ -1,0 +1,16 @@
+{
+  "tracks": [
+    "CD2_54",
+    "CD2_55",
+    "CD2_56",
+    "CD2_57"
+  ],
+  "prompt": "Create a high resolution square 2x2 sheet of FOUR independent square English textbook lesson pages, clean straight white gutters exactly at center, bright cartoon, clear outlines, soft shading, accurate readable text. No quiz or answers. Source photos reference only, redraw all art.\nTOP LEFT CD2_54 A. Let's talk. Four children matching source: red-haired boy green-white stripes says \"Let's play.\" Black-haired girl yellow shirt holding soccer ball replies \"OK. Let's play ball.\" Brown curly-haired boy navy-white shirt playing tag replies \"OK. Let's play tag.\" Blonde glasses girl red dress with jump rope replies \"OK. Let's jump rope.\" Bubble tails identify correct speaker. Include all four sentences and activities.\nTOP RIGHT CD2_55 B. Say and act. Two numbered scenes. 1 blonde glasses girl says \"Let's play.\" to brown curly-haired boy navy-white shirt holding soccer ball; boy reply bubble is EMPTY underline only. 2 black-haired girl yellow shirt question bubble EMPTY underline only; blonde glasses girl red dress holding rope says \"OK. Let's jump rope.\" Ignore handwritten filled answers in source; preserve original blanks.\nBOTTOM LEFT CD2_56 C. Let's sing. title \"Let's Play\". Brown curly-haired boy chasing blonde glasses girl in red dress playing tag on grass. Preserve ALL printed lyrics exactly in two readable columns: \"Let's play.\\nOK!\\nLet's play.\\nOK, OK!\\nLet's play, let's play.\\nOK, let's play!\" and \"Let's play tag.\\nOK, let's play, let's play!\\nLet's jump rope.\\nOK, OK, let's play!\\nLet's play ball.\\nOK, let's play, let's play!\\nHey, let's play, let's play!\\nOK!\" No extra lyrics.\nBOTTOM RIGHT CD2_57 D. Let's move. Two numbered classroom scenes: blonde glasses girl red dress standing and POINTING finger toward blank board labeled \"1. Point to the board.\"; red-haired boy green-white stripes WALKING toward blank board labeled \"2. Go to the board.\" Distinguish pointing versus walking. Keep all art and text well inside each quadrant, independent titles and track labels.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-01.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\source-pages\\page-02.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "superseded_not_used",
+  "result_file": "batch1.png"
+}

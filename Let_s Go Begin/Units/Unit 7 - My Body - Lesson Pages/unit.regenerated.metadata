@@ -1,0 +1,580 @@
+{
+  "format_version": "2.0",
+  "unit": 7,
+  "topic": "My Body",
+  "item_count": 17,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "items": [
+    {
+      "track": "CD2_37",
+      "exercise": "A. Let's talk.",
+      "page": 1,
+      "book_page": 56,
+      "image": "pages/webp/CD2_37.webp",
+      "audio_file": "audio/Track37.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_37",
+        "prompt": "Khi nghe “Oops! I'm sorry”, câu trả lời trong hình là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "That's OK."
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "Here you are."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_38",
+      "exercise": "B. Say and act.",
+      "page": 1,
+      "book_page": 56,
+      "image": "pages/webp/CD2_38.webp",
+      "audio_file": "audio/Track38.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_38",
+        "prompt": "Ở tình huống số 2, câu nào phù hợp trước lời đáp “That's OK”?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Thank you."
+          },
+          {
+            "id": "B",
+            "text": "Oops! I'm sorry."
+          },
+          {
+            "id": "C",
+            "text": "How old are you?"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_39",
+      "exercise": "C. Let's sing.",
+      "page": 2,
+      "book_page": 57,
+      "image": "pages/webp/CD2_39.webp",
+      "audio_file": "audio/Track39.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_39",
+        "prompt": "Trong bài hát, câu nào dùng để xin lỗi?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "That's OK."
+          },
+          {
+            "id": "B",
+            "text": "Let's play."
+          },
+          {
+            "id": "C",
+            "text": "Oops! I'm sorry."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_40",
+      "exercise": "D. Let's move.",
+      "page": 2,
+      "book_page": 57,
+      "image": "pages/webp/CD2_40.webp",
+      "audio_file": "audio/Track40.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_40",
+        "prompt": "Khi nghe “Clap your hands”, bé cần làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Vỗ tay."
+          },
+          {
+            "id": "B",
+            "text": "Giậm chân."
+          },
+          {
+            "id": "C",
+            "text": "Ngồi xuống."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_41",
+      "exercise": "E. Listen and do.",
+      "page": 2,
+      "book_page": 57,
+      "image": "pages/webp/CD2_41.webp",
+      "audio_file": "audio/Track41.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_41",
+        "prompt": "Sau bài luyện hành động, “Stamp your feet” yêu cầu bé làm gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Quay người lại."
+          },
+          {
+            "id": "B",
+            "text": "Giậm chân."
+          },
+          {
+            "id": "C",
+            "text": "Vỗ tay."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Source E is title-only. Adapt stamping feet and clapping hands from source D on same PDF page 2."
+    },
+    {
+      "track": "CD2_42",
+      "exercise": "A. Words.",
+      "page": 3,
+      "book_page": 58,
+      "image": "pages/webp/CD2_42.webp",
+      "audio_file": "audio/Track42.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_42",
+        "prompt": "Hình số 3 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "head"
+          },
+          {
+            "id": "B",
+            "text": "shoulders"
+          },
+          {
+            "id": "C",
+            "text": "knees"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_43",
+      "exercise": "B. Listen and point.",
+      "page": 3,
+      "book_page": 58,
+      "image": "pages/webp/CD2_43.webp",
+      "audio_file": "audio/Track43.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_43",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ bộ phận ở hình số 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "toes"
+          },
+          {
+            "id": "B",
+            "text": "knees"
+          },
+          {
+            "id": "C",
+            "text": "head"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Source B is title-only. Reuse four numbered body cards and header model from A on PDF page 3."
+    },
+    {
+      "track": "CD2_44",
+      "exercise": "C. Sentences.",
+      "page": 4,
+      "book_page": 59,
+      "image": "pages/webp/CD2_44.webp",
+      "audio_file": "audio/Track44.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_44",
+        "prompt": "Câu “I can touch my head” nói về việc chạm vào bộ phận nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Ngón chân."
+          },
+          {
+            "id": "B",
+            "text": "Đầu."
+          },
+          {
+            "id": "C",
+            "text": "Đầu gối."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_45",
+      "exercise": "D. Listen, chant, and do.",
+      "page": 4,
+      "book_page": 59,
+      "image": "pages/webp/CD2_45.webp",
+      "audio_file": "audio/Track45.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_45",
+        "prompt": "Sau bài chant, từ nào chỉ vai trong dãy hình bộ phận cơ thể?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "head"
+          },
+          {
+            "id": "B",
+            "text": "toes"
+          },
+          {
+            "id": "C",
+            "text": "shoulders"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "No chant lyrics printed in PDF. Retain four body-part illustrations; labels are vocabulary support from preceding page, not a transcription."
+    },
+    {
+      "track": "CD2_46",
+      "exercise": "A. Words.",
+      "page": 5,
+      "book_page": 60,
+      "image": "pages/webp/CD2_46.webp",
+      "audio_file": "audio/Track46.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_46",
+        "prompt": "Hình số 2 ứng với từ nào trong bài từ vựng?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "ears"
+          },
+          {
+            "id": "B",
+            "text": "eyes"
+          },
+          {
+            "id": "C",
+            "text": "mouth"
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_47",
+      "exercise": "B. Listen and point.",
+      "page": 5,
+      "book_page": 60,
+      "image": "pages/webp/CD2_47.webp",
+      "audio_file": "audio/Track47.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_47",
+        "prompt": "Sau khi luyện nghe, bé chọn từ chỉ bộ phận ở hình số 4.",
+        "choices": [
+          {
+            "id": "A",
+            "text": "eyes"
+          },
+          {
+            "id": "B",
+            "text": "nose"
+          },
+          {
+            "id": "C",
+            "text": "mouth"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Source B is title-only. Reuse four numbered face-part cards and header model dialogue from A on PDF page 5."
+    },
+    {
+      "track": "CD2_48",
+      "exercise": "C. Question and answer.",
+      "page": 6,
+      "book_page": 61,
+      "image": "pages/webp/CD2_48.webp",
+      "audio_file": "audio/Track48.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_48",
+        "prompt": "Trong hội thoại, câu trả lời cho “What can you do?” là gì?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I'm 6."
+          },
+          {
+            "id": "B",
+            "text": "It's a ball."
+          },
+          {
+            "id": "C",
+            "text": "I can touch my eyes."
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_49",
+      "exercise": "D. Listen, sing, and do.",
+      "page": 6,
+      "book_page": 61,
+      "image": "pages/webp/CD2_49.webp",
+      "audio_file": "audio/Track49.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_49",
+        "prompt": "Sau bài hát, bạn nhỏ đưa hai tay lên tai đang chạm vào bộ phận nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Tai."
+          },
+          {
+            "id": "B",
+            "text": "Mũi."
+          },
+          {
+            "id": "C",
+            "text": "Đầu gối."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "No song lyrics printed in PDF. Retain nose/shoulders/toes/knees actions; supplementary ears practice inset comes from C on same page, not from invented lyrics."
+    },
+    {
+      "track": "CD2_50",
+      "exercise": "A. Sing and say.",
+      "page": 7,
+      "book_page": 62,
+      "image": "pages/webp/CD2_50.webp",
+      "audio_file": "audio/Track50.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_50",
+        "prompt": "Trong thứ tự bảng chữ cái vừa hát, chữ nào đứng ngay sau U?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "W"
+          },
+          {
+            "id": "B",
+            "text": "V"
+          },
+          {
+            "id": "C",
+            "text": "T"
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Complete 26 upper/lowercase pairs reformatted into columns; Uu/Vv/Ww highlighted."
+    },
+    {
+      "track": "CD2_51",
+      "exercise": "B. Letters and words.",
+      "page": 7,
+      "book_page": 62,
+      "image": "pages/webp/CD2_51.webp",
+      "audio_file": "audio/Track51.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_51",
+        "prompt": "Từ nào đi với chữ V v trong hình?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "umbrella"
+          },
+          {
+            "id": "B",
+            "text": "watch"
+          },
+          {
+            "id": "C",
+            "text": "violin"
+          }
+        ],
+        "correct_choice_id": "C",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      },
+      "adaptation_notes": "Include untracked C. Find the letters as supporting activity on same lesson page; preserve Uu Vv Ww glyphs without marking answers."
+    },
+    {
+      "track": "CD2_52",
+      "exercise": "A. Sentences.",
+      "page": 8,
+      "book_page": 63,
+      "image": "pages/webp/CD2_52.webp",
+      "audio_file": "audio/Track52.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_52",
+        "prompt": "Câu “I can touch the red circle” nói về hình nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "Hình tròn màu đỏ."
+          },
+          {
+            "id": "B",
+            "text": "Hình vuông màu xanh dương."
+          },
+          {
+            "id": "C",
+            "text": "Hình tam giác màu vàng."
+          }
+        ],
+        "correct_choice_id": "A",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    },
+    {
+      "track": "CD2_53",
+      "exercise": "B. Question and answer.",
+      "page": 8,
+      "book_page": 63,
+      "image": "pages/webp/CD2_53.webp",
+      "audio_file": "audio/Track53.mp3",
+      "size": [
+        1200,
+        1200
+      ],
+      "question": {
+        "id": "U7-CD2_53",
+        "prompt": "Trong hình, bạn gái trả lời “What can you do?” bằng câu nào?",
+        "choices": [
+          {
+            "id": "A",
+            "text": "I can touch my ears."
+          },
+          {
+            "id": "B",
+            "text": "I can touch the red circle."
+          },
+          {
+            "id": "C",
+            "text": "I can touch my nose."
+          }
+        ],
+        "correct_choice_id": "B",
+        "show_after_audio": true,
+        "render_in_lesson_image": false
+      }
+    }
+  ]
+}

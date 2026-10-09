@@ -1,0 +1,45 @@
+{
+  "mapping_exact_source_pdf": [
+    {
+      "source_pdf": "Review 1-2.pdf",
+      "content_type": "review",
+      "unit": "1-2",
+      "topic": "Listen and Review",
+      "pdf_page": 1,
+      "book_page": 18,
+      "lesson_section": "Units 1-2 Listen and Review",
+      "exercise": "A",
+      "exercise_title": "Listen and circle.",
+      "audio": {
+        "disc": "CD1",
+        "track": 36,
+        "audio_key": "CD1-36",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    },
+    {
+      "source_pdf": "Review 1-2.pdf",
+      "content_type": "review",
+      "unit": "1-2",
+      "topic": "School Supplies",
+      "pdf_page": 2,
+      "book_page": 19,
+      "lesson_section": "Let's Learn About",
+      "exercise": "A",
+      "exercise_title": "Say these.",
+      "audio": {
+        "disc": "CD1",
+        "track": 37,
+        "audio_key": "CD1-37",
+        "audio_file": null
+      },
+      "mapping_basis": "printed CD/track marker beside exercise",
+      "verified": true
+    }
+  ],
+  "challenge_preservation": "All five challenge sections match original except documented command and tape-symbol corrections.",
+  "final_images": "Both final PNG and contact sheet inspected against PDF sources.",
+  "runtime": "Both tracks passed browser interactions and actual muted playback ended events."
+}

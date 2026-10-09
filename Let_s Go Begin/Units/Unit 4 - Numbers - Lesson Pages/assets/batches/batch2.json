@@ -1,0 +1,29 @@
+{
+  "unit": 4,
+  "id": "batch2",
+  "tracks": [
+    "CD1_59",
+    "CD1_60",
+    "CD1_61",
+    "CD1_62"
+  ],
+  "prompt": "Generate FOUR independent square English textbook lesson pages in high-resolution SQUARE 2x2 sheet, equal quadrants exactly midpoint with narrow white gutters, aim 3072x3072. Reference order top-left/top-right/bottom-left/bottom-right. Polished colorful children's textbook cartoon crisp outlines soft shading. COUNTING LESSON: quantities must be exact, no extra decorative copies of counted objects. Numerals are readable, labels and speech accurate. Correct exercise titles and CD1 track badges. Ignore adjacent exercise headings at reference edges. No quiz/options.\nQuadrant 1 CD1_59: E. Listen and do. Same go/stop scenes from58, labels '1. Go.' '2. Stop.', correct title only.\nQuadrant 2 CD1_60: A. Numbers. Five distinct counting groups: EXACTLY 1 ball labeled 1; EXACTLY 2 dolls labeled 2; EXACTLY 3 toy cars labeled 3; EXACTLY 4 teddy bears (including panda) labeled 4; EXACTLY 5 yo-yos labeled 5. Clear separated countable objects, no duplicates/background extra toys. Source example 'Let's count. 1, 2, 3.'\nQuadrant 3 CD1_61: B. Listen and point. Same exact groups 1 ball, 2 dolls, 3 toy cars, 4 teddy bears including panda, 5 yo-yos, numeral labels1–5. Quantity accuracy essential. Correct title only.\nQuadrant 4 CD1_62: C. Sentences. Source two children seated among toys counting. Speech 'Let's count. 1, 2, 3, 4…' and response '5!' EXACT quantities: five red spotted balls in total (one held by left child, three between children, one held behind right child), two dolls, four yo-yos, three bicycles, one train with attached carriages. Blue exercise GROUP markers 1 by ball group, 2 dolls, 3 yo-yos, 4 bicycles, 5 train are group IDs, NOT quantities. Keep source learning quantities correct and separate from group markers.\nFor60/61, count objects before final: 1 ball,2 dolls,3 cars,4 bears,5 yo-yos. For62 count actual total balls5, dolls2,yo-yos4,bicycles3,train1; its blue badges are group IDs not quantities.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_59.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_60.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_61.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\references\\CD1_62.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Visually counted CD1_60/61: 1 ball, 2 dolls, 3 cars, 4 bears including panda, 5 yo-yos. CD1_62: 5 balls (1 left hand, 3 floor, 1 behind right child), 2 dolls, 4 yo-yos, 3 bicycles, 1 connected train; blue badges are group IDs. CD1_59 green Go and red Stop scenes correct.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    627,
+    627
+  ],
+  "sha256": "3d738bdebe3d4aa47ee05296ed8b3ea395a4a266cd5a9c9c48352b6dcec9e965"
+}

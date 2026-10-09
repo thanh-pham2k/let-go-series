@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    "CD2_32",
+    "CD2_33",
+    "CD2_34"
+  ],
+  "prompt": "Edit ONLY top-right CD2_33 C. Find the letters garden portion in this 2x2 sheet. Preserve all artwork and all other panels including exact alphabet and game counts unchanged. Ensure hidden letter task has actual discernible Q q R r S s T t glyphs incorporated quietly into the garden ornament rather than illegible swirls: tree foliage S s pale green (as source), bench ornamental scrolls Q q cream, rabbit cushion/bench right R r pale cream, tiger orange fur T t darker orange. Queen robe already has clear black S preserve it. Do not put an answer key, circles, arrows or labeled solutions. This repairs glyph readability of original Find the letters activity. Keep title/cards/words unchanged.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch4-original.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-b994ca0f-d876-42c2-9588-e104d638e0f0.png",
+  "status": "superseded",
+  "local_result": "assets/batches/batch4-fix1.png"
+}

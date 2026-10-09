@@ -1,0 +1,31 @@
+{
+  "tracks": [
+    "CD2_70",
+    "CD2_71",
+    "CD2_72"
+  ],
+  "prompt": "Use case: scientific-educational. Create a new textbook-cartoon 2x2 sheet with three independent lesson pages and a completely BLANK WHITE bottom-right cell. Straight neutral gutters at page boundaries, generous margins. Bright clean cartoon outlines, soft shading, match modern children's English starter textbook style. This is Review 7–8. Source reference1 is PDF page72, reference2 is PDF page73. Preserve all source learning content, choices, numbers, colors and actions; don't paste source screenshots. NO quizzes or answer choices besides original a/b picture choices. NO circled or colored-in answers. Anatomically natural hands/fingers, exactly two arms/two legs per child.\nTOP LEFT title \"Units 7–8 · Listen and Review\", track \"CD2_70\", subtitle \"A. Listen and circle.\" Fit SIX numbered picture-choice groups in 2 columns x3 rows exactly in source order. Every group has exactly two options marked lowercase a under LEFT image and b under RIGHT, twelve option images total.\nGroup1 (top-left): a red-haired boy green sweater blue trousers WINKS with one eye clearly closed and other eye open, points near eye. b SAME boy bends both knees, both hands resting on own knees, red sneakers, NOT winking.\nGroup2 (top-right): a brown ponytailed girl pink shirt navy shorts white socks green shoes bends at waist, straight legs, both hands/fingertips actually contact TOES of shoes. b SAME girl bends at waist but hands hang visibly ABOVE shoes, cannot reach toes, clear air gap; neither hand touches toes. Distinguish can/cannot touch toes.\nGroup3 (middle-left): a blonde child blue cap red top purple trousers riding GREEN bicycle with two visible wheels. b blonde child red top purple trousers running on grass flying a RED diamond kite with string/tail.\nGroup4 (middle-right): a brown-haired boy SWIMMING horizontally in blue pool, splash and ladder. b same boy standing/dancing by pool, red shorts with white diamond pattern, crossed arms, torso motion lines. Neither invent a swimming action for b.\nGroup5 (bottom-left): a curly-haired child pink shirt blue trousers red-white shoes stamping feet, one raised foot and motion near ground. b same child CLAPPING own hands at chest level, hands together and clap motion marks. NOT dance for group5a.\nGroup6 (bottom-right): a dark-haired boy orange/yellow shirt sitting at desk points directly to GREEN classroom board. b same boy stands upright next to green board, arms relaxed down, blue trousers. Numbers1 2 3 4 5 6 and a/b labels must be clear and correct. No additional English action labels, no answers.\nTOP RIGHT title \"Days of the Week\", small section \"Let's Learn About\", track \"CD2_71\", subtitle \"A. Say these.\" SEVEN tear-off day cards in source order arranged4 top3 bottom: Sunday large BLUE1; Monday large GREEN2; Tuesday large YELLOW3; Wednesday large RED/ORANGE4; Thursday large LAVENDER5; Friday large PINK6; Saturday large TEAL/GREEN7. Exact spelling! In remaining lower-right area red-haired boy in multi-colored striped sweater points to MONDAY column of a monthly calendar, speech tail to boy \"It's Monday.\" Calendar weekday headings SUN. MON. TUES. WEDS. THUR. FRI. SAT. Columns Sunday throughSaturday. Monthly numeric table: first row blankSunday then1 2 3 4 5 6; next7 8 9 10 11 12 13; next14 15 16 17 18 19 20; next21 22 23 24 25 26 27; last28 29 30 thenfour blankcells. This monthly table is distinct from the day cards numbered1–7. Source has these different numbering systems; do not conflate.\nBOTTOM LEFT title \"Days of the Week\", section \"Let's Learn About\", track \"CD2_72\", subtitle \"B. Let's sing.\" Large weekly chart red header on purple backdrop and smiling brown-haired teacher/child in GREEN shirt lower-left holding yellow pointer to WEDNESDAY header. No speech, NO song lyrics since source prints none. Table has exactly7 columns headers uppercase SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY in that order. First data row1 2 3 4 5 6 7; second row8 9 10 11 12 13 14, aligned directly under respective days, no gaps or extra rows. Keep pointer, calendar and numbers unobstructed enough to read; hands natural.\nBOTTOM RIGHT completely blank white; no text, no artwork. Layout cells independent, no text crossing gutter.",
+  "refs": [
+    "source-pages/page-1.png",
+    "source-pages/page-2.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "status": "reviewed",
+  "source_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-7bd86c92-bbf0-467b-a9c5-f6758d57c35e.png",
+  "selected_asset": "assets/batches/batch1.png",
+  "initial_asset": "assets/batches/batch1-original.png",
+  "repair_logs": [
+    "assets/batches/batch1-fix1.json",
+    "assets/batches/batch1-fix2.json"
+  ],
+  "final_sha256": "c62276fe22c79ccbd03d59fbf345ad94983ca37c4e9a8217698842b6305cf1d1",
+  "sheet_size": [
+    1086,
+    1448
+  ],
+  "observed_split": [
+    552,
+    881
+  ],
+  "visual_review": "All3 final pages compared with bothPDF sourcepages and contact sheet; see visual-review.json. Unequal row sizes detected, split uses real boundary not midpoint."
+}

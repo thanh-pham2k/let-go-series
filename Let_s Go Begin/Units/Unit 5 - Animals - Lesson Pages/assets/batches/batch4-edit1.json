@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    "CD2_14",
+    "CD2_15",
+    "CD2_16",
+    "CD2_17"
+  ],
+  "prompt": "Edit only TOP LEFT CD2_14 and TOP RIGHT CD2_15 of this 2x2 textbook sheet. Preserve bottom two alphabet pages exactly, all text and style. CD2_14: keep field badge1 EIGHT cows and single cow badge4. Change duck group to SIX ducks IN pond badge3 plus ONE duck standing on grass OUTSIDE pond beside badge2. No other ducks. Retain 3 running rabbits badge5 and one sitting rabbit badge6. CD2_15: correct quantities with whole separate countable animals: TWO ducks, THREE cows, FIVE rabbits (currently4, add1), SEVEN dogs (currently6, add1), EXACTLY TEN birds (currently14, replace group by clear two columns five birds each). Keep plural labels ducks cows rabbits dogs birds. No decorative extra animals. Preserve counts that already match.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\batch4.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "completed; final content validated through subsequent revisions and manifest",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-5b562b51-c17d-4f25-afda-90f6d5c14309.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

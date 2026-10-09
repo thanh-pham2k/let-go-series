@@ -1,0 +1,1653 @@
+{
+  "review": "7-8",
+  "source_pdf": "Review 7-8.pdf",
+  "tracks": [
+    "CD2_70",
+    "CD2_71",
+    "CD2_72"
+  ],
+  "pattern": [
+    "Vocabulary Master",
+    "Listen & Understand",
+    "Fill & Recall",
+    "Build & Match",
+    "Final Boss"
+  ],
+  "questions": [
+    {
+      "id": "R78-C1-01",
+      "challenge": 1,
+      "prompt": "🖼️bé nháy một mắt ở cặp1a. Chọn từ/cụm từ đúng.",
+      "answer": "wink",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "dance"
+        },
+        {
+          "id": "B",
+          "text": "wink"
+        },
+        {
+          "id": "C",
+          "text": "swim"
+        },
+        {
+          "id": "D",
+          "text": "touch your knees"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C1-02",
+      "challenge": 1,
+      "prompt": "🖼️bé đặt hai tay lên đầu gối ở cặp1b. Chọn từ/cụm từ đúng.",
+      "answer": "touch your knees",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "wink"
+        },
+        {
+          "id": "B",
+          "text": "touch your knees"
+        },
+        {
+          "id": "C",
+          "text": "ride a bicycle"
+        },
+        {
+          "id": "D",
+          "text": "Clap your hands."
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C1-03",
+      "challenge": 1,
+      "prompt": "🖼️bé chạm được tới ngón chân giày ở cặp2a. Chọn từ/cụm từ đúng.",
+      "answer": "touch your toes",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "touch your toes"
+        },
+        {
+          "id": "B",
+          "text": "wink"
+        },
+        {
+          "id": "C",
+          "text": "swim"
+        },
+        {
+          "id": "D",
+          "text": "Point to the board."
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-04",
+      "challenge": 1,
+      "prompt": "🖼️bé đi xe đạp ở cặp3a. Chọn từ/cụm từ đúng.",
+      "answer": "ride a bicycle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ride a bicycle"
+        },
+        {
+          "id": "B",
+          "text": "Stand up."
+        },
+        {
+          "id": "C",
+          "text": "wink"
+        },
+        {
+          "id": "D",
+          "text": "Clap your hands."
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-05",
+      "challenge": 1,
+      "prompt": "🖼️bé thả diều ở cặp3b. Chọn từ/cụm từ đúng.",
+      "answer": "fly a kite",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "fly a kite"
+        },
+        {
+          "id": "B",
+          "text": "dance"
+        },
+        {
+          "id": "C",
+          "text": "touch your knees"
+        },
+        {
+          "id": "D",
+          "text": "Stand up."
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-06",
+      "challenge": 1,
+      "prompt": "🖼️bé bơi ở cặp4a. Chọn từ/cụm từ đúng.",
+      "answer": "swim",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "touch your knees"
+        },
+        {
+          "id": "B",
+          "text": "fly a kite"
+        },
+        {
+          "id": "C",
+          "text": "Stamp your feet."
+        },
+        {
+          "id": "D",
+          "text": "swim"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R78-C1-07",
+      "challenge": 1,
+      "prompt": "🖼️bé nhảy múa ở cặp4b. Chọn từ/cụm từ đúng.",
+      "answer": "dance",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "dance"
+        },
+        {
+          "id": "B",
+          "text": "Point to the board."
+        },
+        {
+          "id": "C",
+          "text": "Stamp your feet."
+        },
+        {
+          "id": "D",
+          "text": "touch your knees"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-08",
+      "challenge": 1,
+      "prompt": "🖼️bé giậm chân ở cặp5a. Chọn từ/cụm từ đúng.",
+      "answer": "Stamp your feet.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stamp your feet."
+        },
+        {
+          "id": "B",
+          "text": "wink"
+        },
+        {
+          "id": "C",
+          "text": "touch your toes"
+        },
+        {
+          "id": "D",
+          "text": "fly a kite"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-09",
+      "challenge": 1,
+      "prompt": "🖼️bé vỗ tay ở cặp5b. Chọn từ/cụm từ đúng.",
+      "answer": "Clap your hands.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Point to the board."
+        },
+        {
+          "id": "B",
+          "text": "Clap your hands."
+        },
+        {
+          "id": "C",
+          "text": "Stamp your feet."
+        },
+        {
+          "id": "D",
+          "text": "ride a bicycle"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C1-10",
+      "challenge": 1,
+      "prompt": "🖼️bé chỉ vào bảng ở cặp6a. Chọn từ/cụm từ đúng.",
+      "answer": "Point to the board.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Stand up."
+        },
+        {
+          "id": "B",
+          "text": "Point to the board."
+        },
+        {
+          "id": "C",
+          "text": "ride a bicycle"
+        },
+        {
+          "id": "D",
+          "text": "Clap your hands."
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C1-11",
+      "challenge": 1,
+      "prompt": "🖼️bé đứng lên ở cặp6b. Chọn từ/cụm từ đúng.",
+      "answer": "Stand up.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "swim"
+        },
+        {
+          "id": "B",
+          "text": "Clap your hands."
+        },
+        {
+          "id": "C",
+          "text": "wink"
+        },
+        {
+          "id": "D",
+          "text": "Stand up."
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R78-C1-12",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số1 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Sunday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Saturday"
+        },
+        {
+          "id": "B",
+          "text": "Sunday"
+        },
+        {
+          "id": "C",
+          "text": "Thursday"
+        },
+        {
+          "id": "D",
+          "text": "Friday"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C1-13",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số2 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Monday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Monday"
+        },
+        {
+          "id": "B",
+          "text": "Sunday"
+        },
+        {
+          "id": "C",
+          "text": "Thursday"
+        },
+        {
+          "id": "D",
+          "text": "Wednesday"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-14",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số3 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Tuesday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Friday"
+        },
+        {
+          "id": "B",
+          "text": "Tuesday"
+        },
+        {
+          "id": "C",
+          "text": "Wednesday"
+        },
+        {
+          "id": "D",
+          "text": "Monday"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C1-15",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số4 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Wednesday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Saturday"
+        },
+        {
+          "id": "B",
+          "text": "Tuesday"
+        },
+        {
+          "id": "C",
+          "text": "Wednesday"
+        },
+        {
+          "id": "D",
+          "text": "Sunday"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R78-C1-16",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số5 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Thursday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Thursday"
+        },
+        {
+          "id": "B",
+          "text": "Tuesday"
+        },
+        {
+          "id": "C",
+          "text": "Sunday"
+        },
+        {
+          "id": "D",
+          "text": "Monday"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C1-17",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số6 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Friday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tuesday"
+        },
+        {
+          "id": "B",
+          "text": "Wednesday"
+        },
+        {
+          "id": "C",
+          "text": "Friday"
+        },
+        {
+          "id": "D",
+          "text": "Sunday"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R78-C1-18",
+      "challenge": 1,
+      "prompt": "🖼️thẻ ngày số7 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "answer": "Saturday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Thursday"
+        },
+        {
+          "id": "B",
+          "text": "Monday"
+        },
+        {
+          "id": "C",
+          "text": "Tuesday"
+        },
+        {
+          "id": "D",
+          "text": "Saturday"
+        }
+      ],
+      "correct_choice_id": "D"
+    },
+    {
+      "id": "R78-C2-01",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "wink",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Point to the board."
+        },
+        {
+          "id": "B",
+          "text": "wink"
+        },
+        {
+          "id": "C",
+          "text": "Clap your hands."
+        },
+        {
+          "id": "D",
+          "text": "touch your toes"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "wink"
+    },
+    {
+      "id": "R78-C2-02",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "touch your knees",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "swim"
+        },
+        {
+          "id": "B",
+          "text": "Stand up."
+        },
+        {
+          "id": "C",
+          "text": "wink"
+        },
+        {
+          "id": "D",
+          "text": "touch your knees"
+        }
+      ],
+      "correct_choice_id": "D",
+      "audio_script": "touch your knees"
+    },
+    {
+      "id": "R78-C2-03",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "Sunday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sunday"
+        },
+        {
+          "id": "B",
+          "text": "Saturday"
+        },
+        {
+          "id": "C",
+          "text": "Monday"
+        },
+        {
+          "id": "D",
+          "text": "Friday"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Sunday"
+    },
+    {
+      "id": "R78-C2-04",
+      "challenge": 2,
+      "prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "answer": "Monday",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Monday"
+        },
+        {
+          "id": "B",
+          "text": "Tuesday"
+        },
+        {
+          "id": "C",
+          "text": "Wednesday"
+        },
+        {
+          "id": "D",
+          "text": "Saturday"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Monday"
+    },
+    {
+      "id": "R78-C2-05",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "nháy một mắt",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "B",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "C",
+          "text": "chạm vào ngón chân"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "wink"
+    },
+    {
+      "id": "R78-C2-06",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "đặt/chạm hai tay lên đầu gối",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "B",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "C",
+          "text": "chạm vào ngón chân"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "touch your knees"
+    },
+    {
+      "id": "R78-C2-07",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "chạm vào ngón chân",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "B",
+          "text": "chạm vào ngón chân"
+        },
+        {
+          "id": "C",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "touch your toes"
+    },
+    {
+      "id": "R78-C2-08",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "đi xe đạp",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "B",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "C",
+          "text": "đi xe đạp"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "ride a bicycle"
+    },
+    {
+      "id": "R78-C2-09",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "thả diều",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "B",
+          "text": "thả diều"
+        },
+        {
+          "id": "C",
+          "text": "nháy một mắt"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "fly a kite"
+    },
+    {
+      "id": "R78-C2-10",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "bơi",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "B",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "C",
+          "text": "bơi"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "swim"
+    },
+    {
+      "id": "R78-C2-11",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "nhảy múa",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "B",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "C",
+          "text": "nhảy múa"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "dance"
+    },
+    {
+      "id": "R78-C2-12",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Giậm chân.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "B",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "C",
+          "text": "Giậm chân."
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "Stamp your feet."
+    },
+    {
+      "id": "R78-C2-13",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Vỗ tay.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "B",
+          "text": "Vỗ tay."
+        },
+        {
+          "id": "C",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "Clap your hands."
+    },
+    {
+      "id": "R78-C2-14",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Chỉ vào bảng.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Chỉ vào bảng."
+        },
+        {
+          "id": "B",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        },
+        {
+          "id": "C",
+          "text": "nháy một mắt"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Point to the board."
+    },
+    {
+      "id": "R78-C2-15",
+      "challenge": 2,
+      "prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "answer": "Đứng lên.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "nháy một mắt"
+        },
+        {
+          "id": "B",
+          "text": "Đứng lên."
+        },
+        {
+          "id": "C",
+          "text": "đặt/chạm hai tay lên đầu gối"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "Stand up."
+    },
+    {
+      "id": "R78-C2-16",
+      "challenge": 2,
+      "prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "answer": "Hôm nay là thứ Hai.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Hôm nay là Chủ nhật."
+        },
+        {
+          "id": "B",
+          "text": "Hôm nay là thứ Ba."
+        },
+        {
+          "id": "C",
+          "text": "Hôm nay là thứ Hai."
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "It's Monday."
+    },
+    {
+      "id": "R78-C2-17",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "1",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Sunday"
+    },
+    {
+      "id": "R78-C2-18",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "2",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "Monday"
+    },
+    {
+      "id": "R78-C2-19",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "3",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        }
+      ],
+      "correct_choice_id": "B",
+      "audio_script": "Tuesday"
+    },
+    {
+      "id": "R78-C2-20",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "4",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "Wednesday"
+    },
+    {
+      "id": "R78-C2-21",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "5",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Thursday"
+    },
+    {
+      "id": "R78-C2-22",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "6",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        }
+      ],
+      "correct_choice_id": "A",
+      "audio_script": "Friday"
+    },
+    {
+      "id": "R78-C2-23",
+      "challenge": 2,
+      "prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "answer": "7",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        }
+      ],
+      "correct_choice_id": "C",
+      "audio_script": "Saturday"
+    },
+    {
+      "id": "R78-C3-01",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `w_nk`.",
+      "answer": "wink",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-02",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `sw_m`.",
+      "answer": "swim",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-03",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `d_nce`.",
+      "answer": "dance",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-04",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `S_nday`.",
+      "answer": "Sunday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-05",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `M_nday`.",
+      "answer": "Monday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-06",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `T_esday`.",
+      "answer": "Tuesday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-07",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `W_dnesday`.",
+      "answer": "Wednesday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-08",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `Th_rsday`.",
+      "answer": "Thursday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-09",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `Fr_day`.",
+      "answer": "Friday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-10",
+      "challenge": 3,
+      "prompt": "Hoàn thành từ: `S_turday`.",
+      "answer": "Saturday",
+      "type": "spelling"
+    },
+    {
+      "id": "R78-C3-11",
+      "challenge": 3,
+      "prompt": "🖼️đi xe đạp. Điền: `ride a ________`.",
+      "answer": "bicycle",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-12",
+      "challenge": 3,
+      "prompt": "🖼️thả diều. Điền: `fly a ________`.",
+      "answer": "kite",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-13",
+      "challenge": 3,
+      "prompt": "🖼️chạm ngón chân giày. Điền: `touch your ________`.",
+      "answer": "toes",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-14",
+      "challenge": 3,
+      "prompt": "🖼️chỉ vào bảng. Điền: `Point to the ________.`.",
+      "answer": "board",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-15",
+      "challenge": 3,
+      "prompt": "🖼️vỗ tay. Điền: `Clap your ________.`.",
+      "answer": "hands",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-16",
+      "challenge": 3,
+      "prompt": "🖼️thẻ ngày thứ Hai. Điền: `It's ________.`.",
+      "answer": "Monday",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-17",
+      "challenge": 3,
+      "prompt": "Điền ngày còn thiếu: Sunday → ___ → Tuesday",
+      "answer": "Monday",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-18",
+      "challenge": 3,
+      "prompt": "Điền ngày còn thiếu: Tuesday → ___ → Thursday",
+      "answer": "Wednesday",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-19",
+      "challenge": 3,
+      "prompt": "Điền ngày còn thiếu: Thursday → ___ → Saturday",
+      "answer": "Friday",
+      "type": "short"
+    },
+    {
+      "id": "R78-C3-20",
+      "challenge": 3,
+      "prompt": "Nghe câu mẫu và điền: `It's ________.`",
+      "answer": "Monday",
+      "type": "short",
+      "audio_script": "It's Monday."
+    },
+    {
+      "id": "R78-C4-01",
+      "challenge": 4,
+      "prompt": "Các thẻ: `your / Touch / toes.`.",
+      "answer": "Touch your toes.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-02",
+      "challenge": 4,
+      "prompt": "Các thẻ: `Ride / bicycle. / a`.",
+      "answer": "Ride a bicycle.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-03",
+      "challenge": 4,
+      "prompt": "Các thẻ: `a / Fly / kite.`.",
+      "answer": "Fly a kite.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-04",
+      "challenge": 4,
+      "prompt": "Các thẻ: `Point / board. / the / to`.",
+      "answer": "Point to the board.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-05",
+      "challenge": 4,
+      "prompt": "Các thẻ: `your / Stamp / feet.`.",
+      "answer": "Stamp your feet.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-06",
+      "challenge": 4,
+      "prompt": "Các thẻ: `Clap / hands. / your`.",
+      "answer": "Clap your hands.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-07",
+      "challenge": 4,
+      "prompt": "Các thẻ: `Monday. / It's`.",
+      "answer": "It's Monday.",
+      "type": "order"
+    },
+    {
+      "id": "R78-C4-08",
+      "challenge": 4,
+      "prompt": "🖼️bé nháy một mắt ở cặp1a. Điền chữ cái của thẻ phù hợp.",
+      "answer": "B — wink",
+      "type": "match",
+      "accepted_answers": [
+        "B"
+      ]
+    },
+    {
+      "id": "R78-C4-09",
+      "challenge": 4,
+      "prompt": "🖼️thẻ ngày số1 ở mục Say these.. Điền chữ cái của thẻ phù hợp.",
+      "answer": "A — Sunday",
+      "type": "match",
+      "accepted_answers": [
+        "A"
+      ]
+    },
+    {
+      "id": "R78-C4-10",
+      "challenge": 4,
+      "prompt": "Nhìn thẻ ngày2 và hình3a. Chọn cặp đúng.",
+      "answer": "Monday / ride a bicycle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Tuesday / ride a bicycle"
+        },
+        {
+          "id": "B",
+          "text": "Monday / fly a kite"
+        },
+        {
+          "id": "C",
+          "text": "Monday / ride a bicycle"
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R78-C4-11",
+      "challenge": 4,
+      "prompt": "Nhìn thẻ ngày4 và hình4a. Chọn cặp đúng.",
+      "answer": "Wednesday / swim",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Thursday / swim"
+        },
+        {
+          "id": "B",
+          "text": "Wednesday / swim"
+        },
+        {
+          "id": "C",
+          "text": "Wednesday / dance"
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C4-12",
+      "challenge": 4,
+      "prompt": "Nhìn thẻ ngày7 và hình5b. Chọn cặp đúng.",
+      "answer": "Saturday / Clap your hands.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Sunday / Clap your hands."
+        },
+        {
+          "id": "B",
+          "text": "Saturday / Stamp your feet."
+        },
+        {
+          "id": "C",
+          "text": "Saturday / Clap your hands."
+        }
+      ],
+      "correct_choice_id": "C"
+    },
+    {
+      "id": "R78-C4-13",
+      "challenge": 4,
+      "prompt": "Cặp2: hình nào chạm được tới giày?",
+      "answer": "2a",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "2a"
+        },
+        {
+          "id": "B",
+          "text": "Cả hai hình đều chạm được"
+        },
+        {
+          "id": "C",
+          "text": "2b"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C5-01",
+      "challenge": 5,
+      "prompt": "Nhìn thẻ ngày2 và hình3a. Chọn cặp đúng.",
+      "answer": "Monday / ride a bicycle",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Monday / ride a bicycle"
+        },
+        {
+          "id": "B",
+          "text": "Monday / fly a kite"
+        },
+        {
+          "id": "C",
+          "text": "Tuesday / ride a bicycle"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C5-02",
+      "challenge": 5,
+      "prompt": "Nhìn thẻ ngày4 và hình4a. Chọn cặp đúng.",
+      "answer": "Wednesday / swim",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Wednesday / swim"
+        },
+        {
+          "id": "B",
+          "text": "Thursday / swim"
+        },
+        {
+          "id": "C",
+          "text": "Wednesday / dance"
+        }
+      ],
+      "correct_choice_id": "A"
+    },
+    {
+      "id": "R78-C5-03",
+      "challenge": 5,
+      "prompt": "Nhìn thẻ ngày7 và hình5b. Chọn cặp đúng.",
+      "answer": "Saturday / Clap your hands.",
+      "type": "choice",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Saturday / Stamp your feet."
+        },
+        {
+          "id": "B",
+          "text": "Saturday / Clap your hands."
+        },
+        {
+          "id": "C",
+          "text": "Sunday / Clap your hands."
+        }
+      ],
+      "correct_choice_id": "B"
+    },
+    {
+      "id": "R78-C5-04",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé nháy một mắt ở cặp1a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "wink",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-05",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đặt hai tay lên đầu gối ở cặp1b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "touch your knees",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-06",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé chạm được tới ngón chân giày ở cặp2a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "touch your toes",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-07",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đi xe đạp ở cặp3a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "ride a bicycle",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-08",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé thả diều ở cặp3b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "fly a kite",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-09",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé bơi ở cặp4a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "swim",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-10",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé nhảy múa ở cặp4b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "dance",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-11",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé giậm chân ở cặp5a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Stamp your feet.",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-12",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé vỗ tay ở cặp5b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Clap your hands.",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-13",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé chỉ vào bảng ở cặp6a. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Point to the board.",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-14",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: bé đứng lên ở cặp6b. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Stand up.",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-15",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số1 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Sunday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-16",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số2 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Monday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-17",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số3 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Tuesday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-18",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số4 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Wednesday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-19",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số5 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Thursday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-20",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số6 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Friday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-21",
+      "challenge": 5,
+      "prompt": "Người lớn chỉ/diễn: thẻ ngày số7 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "answer": "Saturday",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-22",
+      "challenge": 5,
+      "prompt": "So sánh cặp2a/2b: chỉ hình chạm được giày, rồi gọi đúng động tác.",
+      "answer": "2a — touch your toes",
+      "type": "production"
+    },
+    {
+      "id": "R78-C5-23",
+      "challenge": 5,
+      "prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Người lớn chỉ thẻ Monday hoặc ô lịch nằm trong cộtMonday, bé nói một câu đầy đủ.",
+      "answer": "It's Monday.",
+      "type": "production"
+    }
+  ],
+  "audio_notes": [
+    {
+      "filename": "r7_8_wink.mp3",
+      "script": "wink",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r78_touch_your_knees.mp3",
+      "script": "touch your knees",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_touch_your_toes.mp3",
+      "script": "touch your toes",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_ride_a_bicycle.mp3",
+      "script": "ride a bicycle",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_fly_a_kite.mp3",
+      "script": "fly a kite",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_swim.mp3",
+      "script": "swim",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_dance.mp3",
+      "script": "dance",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_stamp_your_feet.mp3",
+      "script": "Stamp your feet.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_clap_your_hands.mp3",
+      "script": "Clap your hands.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_point_to_the_board.mp3",
+      "script": "Point to the board.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_stand_up.mp3",
+      "script": "Stand up.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_sunday.mp3",
+      "script": "Sunday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_monday.mp3",
+      "script": "Monday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_tuesday.mp3",
+      "script": "Tuesday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_wednesday.mp3",
+      "script": "Wednesday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_thursday.mp3",
+      "script": "Thursday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_friday.mp3",
+      "script": "Friday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_saturday.mp3",
+      "script": "Saturday",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    },
+    {
+      "filename": "r7_8_it_s_monday.mp3",
+      "script": "It's Monday.",
+      "usage": "Cần cho câu nghe cố định C2/C3 hoặc lệnh C5; dùng chung vòng C1",
+      "status": "not_supplied"
+    }
+  ],
+  "audio_status": "not independently transcribed",
+  "source_audit": "Hình1b là tay lên đầu gối, không phải wink. Cụm touch your knees là cách gọi hình để luyện, không phải chữ in/bản chép audio. Cặp2a chạm được giày;2b chưa chạm được. Cặp5a giậm chân,5b vỗ tay: đưa vào bài chính, không thay bằng dance. Thẻ ngày có Sunday1 đến Saturday7; số này là thứ tự THẺ, không phải số thứ trong tiếng Việt hay ngày tháng. Lịch tháng nhỏ có ngày1 ở cộtMonday, khác với thẻMonday số2. CD2_72 không có lời hát in trong PDF, không thêm lời hát tự viết."
+}

@@ -1,0 +1,15 @@
+{
+  "prompt": "Only recolor the duck bodies in BOTTOM RIGHT CD2_13 panel from yellow to WHITE with orange beaks, matching source. Keep exactly SIX ducks in pond plus ONE on shore, exact positions, shapes counts and badges. Preserve every other pixel, all other panels and text. Do not add/remove any animals.",
+  "tool": "built-in image_gen",
+  "tracks": [
+    "CD2_10",
+    "CD2_11",
+    "CD2_12",
+    "CD2_13"
+  ],
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\batch3.png"
+  ],
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-a7a8e19a-eb0a-4235-8aab-ddaecf329d3d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "status": "completed; final content validated through subsequent revisions and manifest"
+}

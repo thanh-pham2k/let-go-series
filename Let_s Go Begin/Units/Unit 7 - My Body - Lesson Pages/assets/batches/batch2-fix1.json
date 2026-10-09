@@ -1,0 +1,20 @@
+{
+  "tracks": [
+    "CD2_41",
+    "CD2_42",
+    "CD2_43",
+    "CD2_44"
+  ],
+  "prompt": "Edit this 2x2 sheet. Change ONLY bottom-left CD2_43 header layout. Its \"B. Listen and point.\" title currently overlaps \"I can touch my head.\" speech bubble. Reposition the title onto a separate clear line, place speech bubble above the title or shorten its width and move right; all text must be unobstructed with whitespace between. Keep all other panels, track numbers, four body cards, arrows and words unchanged. Do not remove the model sentence. Preserve whole sheet exact 2x2 square layout.",
+  "refs": [
+    "assets/batches/batch2-original.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "result": {
+    "source_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-e1b107b1-82c9-4f47-98d1-552acb3be67d.png"
+  },
+  "issue": "CD2_43 title/model bubble overlap",
+  "status": "reviewed",
+  "visual_review": "CD2_43 title and model sentence no longer overlap.",
+  "selected_asset": "assets/batches/batch2.png"
+}

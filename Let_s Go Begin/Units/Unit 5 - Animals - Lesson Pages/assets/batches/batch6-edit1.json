@@ -1,0 +1,12 @@
+{
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\assets\\batches\\batch6.png"
+  ],
+  "tracks": [
+    "CD2_15"
+  ],
+  "prompt": "Recolor only, preserve all exact counts and layout/text. In cows row make LEFT and RIGHT cows have brown-and-cream patches (instead of black-white), keep MIDDLE cow black-white, matching original source two brown cows one black cow. Rabbits row left-to-right recolor fur light gray, cream/tan, pale cream, gray, blue-gray respectively, preserve five rabbits. Ducks2 dogs7 birds10 and all text unchanged. No additions or removals.",
+  "tool": "built-in image_gen",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-ab264c72-e5b9-4909-87fd-4b4d8f36e1bf.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+  "status": "completed; final content validated through subsequent revisions and manifest"
+}

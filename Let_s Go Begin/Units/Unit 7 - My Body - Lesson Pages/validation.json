@@ -1,0 +1,216 @@
+{
+  "result": "pass",
+  "unit": 7,
+  "item_count": 17,
+  "uniform_size": [
+    1200,
+    1200
+  ],
+  "checks": [
+    {
+      "track": "CD2_37",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "9371ef6323c45594cd8f3715c0188c069642ac348434545a06d206eefc1606f5",
+      "visual_review": "Visually checked source pp56-57: speakers correct; two unfilled reply blanks; exact eight lyric lines including comma; four song vignettes; stamping feet and clapping hands distinct, natural limbs."
+    },
+    {
+      "track": "CD2_38",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a3d8cbeee224a5bd5bcc9bdc94e0b02cc9b1c7f0825c6f8b873aa67c4366b9a1",
+      "visual_review": "Visually checked source pp56-57: speakers correct; two unfilled reply blanks; exact eight lyric lines including comma; four song vignettes; stamping feet and clapping hands distinct, natural limbs."
+    },
+    {
+      "track": "CD2_39",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "85bd8c3d5ea2d9122d1a49dfe86d2b3f6516943496e843c7b3a754126c197c69",
+      "visual_review": "Visually checked source pp56-57: speakers correct; two unfilled reply blanks; exact eight lyric lines including comma; four song vignettes; stamping feet and clapping hands distinct, natural limbs."
+    },
+    {
+      "track": "CD2_40",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "c85337d3fec58eeca021686ab5d6e09bcd59bb915719cb226b01431e231ee130",
+      "visual_review": "Visually checked source pp56-57: speakers correct; two unfilled reply blanks; exact eight lyric lines including comma; four song vignettes; stamping feet and clapping hands distinct, natural limbs."
+    },
+    {
+      "track": "CD2_41",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "5dce9a35b91f2ccd4d9a19c0b2bd96e8c1b29f4259c1b92b8a733e0f3f3b83d8",
+      "visual_review": "Source pp57-59 compared: stamping/clapping distinct, body numbering head1 shoulders2 knees3 toes4 correct; arrows hit body parts and five toes visible per foot; header model retained; CD2_43 title overlap fixed by built-in edit; numbered gym pupils perform correct actions."
+    },
+    {
+      "track": "CD2_42",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "0f97553814487904cc78e4ff39ba3642afb127a2792b1cfa9ea699b542168717",
+      "visual_review": "Source pp57-59 compared: stamping/clapping distinct, body numbering head1 shoulders2 knees3 toes4 correct; arrows hit body parts and five toes visible per foot; header model retained; CD2_43 title overlap fixed by built-in edit; numbered gym pupils perform correct actions."
+    },
+    {
+      "track": "CD2_43",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "ac6565dacb7ab08c6cc2bc282928da5553214e559730428f1a45b83eaa27281b",
+      "visual_review": "Source pp57-59 compared: stamping/clapping distinct, body numbering head1 shoulders2 knees3 toes4 correct; arrows hit body parts and five toes visible per foot; header model retained; CD2_43 title overlap fixed by built-in edit; numbered gym pupils perform correct actions."
+    },
+    {
+      "track": "CD2_44",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "62357e0b6c35a947316eb9f65f3ae2d5d9ba7d822472843c70640402432bcbdb",
+      "visual_review": "Source pp57-59 compared: stamping/clapping distinct, body numbering head1 shoulders2 knees3 toes4 correct; arrows hit body parts and five toes visible per foot; header model retained; CD2_43 title overlap fixed by built-in edit; numbered gym pupils perform correct actions."
+    },
+    {
+      "track": "CD2_45",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "b28baf66b8b2c791ab06221496716d8882f34bfe052f16ef0f0070b2c620c437",
+      "visual_review": "Compared with source pp59-61: four body arrows and labels, numbered eyes/ears/mouth/nose correct, mascot model dialogue retained, teacher asks and boy1 answers, pupils1-4 touch corresponding parts. No invented chant lyrics."
+    },
+    {
+      "track": "CD2_46",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "fa2fde38b1d42a1796954bcd1e40fc79f884f308dfa8be580eb1b8d0640e721d",
+      "visual_review": "Compared with source pp59-61: four body arrows and labels, numbered eyes/ears/mouth/nose correct, mascot model dialogue retained, teacher asks and boy1 answers, pupils1-4 touch corresponding parts. No invented chant lyrics."
+    },
+    {
+      "track": "CD2_47",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "9204dc2d0f62d92fa763d8cb0240de574772e984e2c0198d54b84d635b2390d5",
+      "visual_review": "Compared with source pp59-61: four body arrows and labels, numbered eyes/ears/mouth/nose correct, mascot model dialogue retained, teacher asks and boy1 answers, pupils1-4 touch corresponding parts. No invented chant lyrics."
+    },
+    {
+      "track": "CD2_48",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "198f1b1499ece34752500da43ef9420f586a35f95a0eebb113d63de09e51c053",
+      "visual_review": "Compared with source pp59-61: four body arrows and labels, numbered eyes/ears/mouth/nose correct, mascot model dialogue retained, teacher asks and boy1 answers, pupils1-4 touch corresponding parts. No invented chant lyrics."
+    },
+    {
+      "track": "CD2_49",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "36e737415f29d23f7e99d5b5f6f6ac2f92fb47e7c19231c14003a276fdbae78c",
+      "visual_review": "Source pp61-63 checked: four correct body actions plus documented ears inset;26 complete alphabet pairs with redUuVvWw; umbrella/violin/watch numbering and labels; clock1-12 fixed and search lowercasev made smaller thanV via built-in edits; all six search glyphs present; red circle1 yellow train2 purple rope3 green crayon4, hand contacts circle."
+    },
+    {
+      "track": "CD2_50",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "dab59072b15fb5300d8b7c94a0766848a9c7672be028674917261f431df2dc4b",
+      "visual_review": "Source pp61-63 checked: four correct body actions plus documented ears inset;26 complete alphabet pairs with redUuVvWw; umbrella/violin/watch numbering and labels; clock1-12 fixed and search lowercasev made smaller thanV via built-in edits; all six search glyphs present; red circle1 yellow train2 purple rope3 green crayon4, hand contacts circle."
+    },
+    {
+      "track": "CD2_51",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "0d968268d01fbf70de66dee48d21af8a40dfa725b5b74bbaf8e2ad3ebbc4acc4",
+      "visual_review": "Source pp61-63 checked: four correct body actions plus documented ears inset;26 complete alphabet pairs with redUuVvWw; umbrella/violin/watch numbering and labels; clock1-12 fixed and search lowercasev made smaller thanV via built-in edits; all six search glyphs present; red circle1 yellow train2 purple rope3 green crayon4, hand contacts circle."
+    },
+    {
+      "track": "CD2_52",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "a0d4bd3706acc9411eda05e3a65dda0103535d2b55861933a5f47dd7ee5e79c0",
+      "visual_review": "Source pp61-63 checked: four correct body actions plus documented ears inset;26 complete alphabet pairs with redUuVvWw; umbrella/violin/watch numbering and labels; clock1-12 fixed and search lowercasev made smaller thanV via built-in edits; all six search glyphs present; red circle1 yellow train2 purple rope3 green crayon4, hand contacts circle."
+    },
+    {
+      "track": "CD2_53",
+      "size": [
+        1200,
+        1200
+      ],
+      "status": "pass",
+      "png_sha256": "5b8794ff7b1f1f9f8b2acb53e27463ac041f9fb5c4282d80d201505311b8a4d0",
+      "visual_review": "Source p63 compared: correct two speakers, five numbered pupils and contacts red circle/red yo-yo/yellow square/pink drum/blue teddy; supporting two bears two drums two yo-yos three pencils yellow train purple rope blue squares and green circle retained; no extra limbs."
+    }
+  ],
+  "audio_validation": "Byte-for-byte identity with source CD MP3; speech not independently audited.",
+  "visual_content_review": {
+    "result": "pass",
+    "source_pdf_pages": 8,
+    "all_final_pages_viewed": 17,
+    "checks": [
+      "Exact eight source lyric lines in CD2_39",
+      "Two blanks retained in CD2_38",
+      "Body labels and numbered actions compared with source",
+      "All 26 upper/lowercase alphabet pairs and Uu/Vv/Ww search glyphs",
+      "Final source game object colors, counts and speaker roles",
+      "No cropped lesson text or gutter intrusion"
+    ]
+  },
+  "challenge_exercises_preserved": true,
+  "challenge_audio_status": "Additional short clips not created; mandatory/optional/shared checklist added.",
+  "preview_validation": {
+    "result": "pass",
+    "tracks": 17,
+    "checks": [
+      "All image/audio paths exist",
+      "Practice hidden until audio ended",
+      "Track changes reset practice",
+      "Three choices and valid correct/wrong feedback"
+    ],
+    "limitation": "DOM harness; does not decode/play audio or visually render browser."
+  },
+  "generation_tool": "Built-in image_gen only; five batches and three targeted built-in edits.",
+  "package_checks": [
+    "17 ordered unique tracks",
+    "34 images at1200x1200",
+    "PNG hashes match validation",
+    "Packaged Challenge links valid",
+    "ZIP CRC and bytes match workspace"
+  ]
+}

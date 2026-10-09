@@ -1,0 +1,17 @@
+{
+  "result": "pass",
+  "browser": "Chrome headless via bundled Playwright",
+  "checks": [
+    "two tracks selectable",
+    "both WebP load at natural width1200",
+    "MP3 metadata decodes both tracks",
+    "questions initially hidden",
+    "review button reveals one question/three choices",
+    "incorrect and correct feedback only after choice",
+    "actual muted playback seek to end reveals question on ended for both tracks",
+    "switch resets question/feedback",
+    "previous/next work",
+    "no JavaScript errors"
+  ],
+  "limitation": "Playback used only to verify browser ended event; speech not listened/transcribed."
+}

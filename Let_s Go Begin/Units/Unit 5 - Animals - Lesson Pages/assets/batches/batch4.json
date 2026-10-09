@@ -1,0 +1,29 @@
+{
+  "unit": 5,
+  "id": "batch4",
+  "tracks": [
+    "CD2_14",
+    "CD2_15",
+    "CD2_16",
+    "CD2_17"
+  ],
+  "prompt": "Generate independent square English textbook lesson pages in a 2x2 sheet, reading order top-left, top-right, bottom-left, bottom-right. Straight white gutters, ample safe margins; bright polished textbook cartoon, crisp outlines, soft shading. Every panel has its exact title and CD2 track badge. Preserve all source English and animal counts, colors and speakers. Group IDs are NOT counts. No quiz or answer options. No invented song lyrics. \nPanel 1 CD2_14: D. Listen and point. Same farm and source group counts/IDs as13; preserve 'How many cows?' / '8 cows.' Use correct title only.\nPanel 2 CD2_15: E. Listen, point, and sing. Five animal groups in source reading order: EXACTLY TWO ducks, THREE cows, FIVE rabbits, SEVEN dogs, TEN birds. Large clear separate animals, each group labeled plural 'ducks','cows','rabbits','dogs','birds'. No extra decorative animals or invented lyrics. May arrange groups in rows but birds must last/rightmost.\nPanel 3 CD2_16: A. Sing and say. Full26 uppercase/lowercase pairs A a through Z z, correct sequential reading order. Emphasize M m N n O o P p in contrasting color as source. All pairs clear and accurate.\nPanel 4 CD2_17: B. Letters and words. Four pictures/labels1. M m — moon,2. N n — nest,3. O o — octopus (eight arms),4. P p — peach. Below C. Find the letters. Source underwater friendly purple octopus, moon overhead, peach in nest; embed all eight glyphs M m N n O o P p as source. Clear typography, no missing words.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_14.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_15.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_16.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\references\\CD2_17.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "partially_used",
+  "final_tracks": [
+    "CD2_16",
+    "CD2_17"
+  ],
+  "superseded_tracks": [
+    "CD2_14",
+    "CD2_15"
+  ],
+  "visual_review": "Only final_tracks retained; incorrect count panels replaced with single-page built-in jobs. Actual crop boxes in manifest.",
+  "result": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad as C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-3ecf-7830-af34-89b21af69aad\\exec-5b562b51-c17d-4f25-afda-90f6d5c14309.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

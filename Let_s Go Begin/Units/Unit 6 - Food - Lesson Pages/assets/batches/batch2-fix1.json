@@ -1,0 +1,17 @@
+{
+  "tracks": [
+    "CD2_24",
+    "CD2_25",
+    "CD2_26",
+    "CD2_27"
+  ],
+  "prompt": "Edit ONLY bottom-left CD2_26 panel. In its empty lower-right white margin add the small orange cat instruction mascot pointing one finger upward, matching the orange pointing cat at bottom of source page3. Keep four foods, all labels, cats header and other three panels exactly unchanged. Give pointing cat white border margin, do not overlap food/words. This is a decorative instruction icon, no added text.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\assets\\batches\\batch2-original.png"
+  ],
+  "tool": "built-in image_gen",
+  "result": "C:/Users/Admin/.codex/generated_images/01a11c50-66df-7b20-a8b5-b27270be3a5b/exec-bf283a19-53c1-4b3a-a46b-72cec0a2beb4.png",
+  "status": "superseded",
+  "review": "Orange pointing instruction icon restored; labels/header/party preserved.",
+  "local_result": "assets/batches/batch2-fix1.png"
+}

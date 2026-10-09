@@ -1,0 +1,40 @@
+[
+  {
+    "source_pdf": "Review 3-4.pdf",
+    "content_type": "review",
+    "unit": "3-4",
+    "topic": "Listen and Review",
+    "pdf_page": 1,
+    "book_page": 36,
+    "lesson_section": "Units 3-4 Listen and Review",
+    "exercise": "A",
+    "exercise_title": "Listen and circle.",
+    "audio": {
+      "disc": "CD1",
+      "track": 71,
+      "audio_key": "CD1-71",
+      "audio_file": null
+    },
+    "mapping_basis": "printed CD/track marker beside exercise",
+    "verified": true
+  },
+  {
+    "source_pdf": "Review 3-4.pdf",
+    "content_type": "review",
+    "unit": "3-4",
+    "topic": "Classroom Commands",
+    "pdf_page": 2,
+    "book_page": 37,
+    "lesson_section": "Let's Learn About",
+    "exercise": "A",
+    "exercise_title": "Say these.",
+    "audio": {
+      "disc": "CD1",
+      "track": 72,
+      "audio_key": "CD1-72",
+      "audio_file": null
+    },
+    "mapping_basis": "printed CD/track marker beside exercise",
+    "verified": true
+  }
+]

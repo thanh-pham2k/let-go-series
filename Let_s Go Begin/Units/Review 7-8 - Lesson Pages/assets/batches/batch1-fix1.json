@@ -1,0 +1,17 @@
+{
+  "tracks": [
+    "CD2_70",
+    "CD2_71",
+    "CD2_72"
+  ],
+  "prompt": "Edit ONLY bottom-left CD2_72 Let's sing cell of this3-page sheet. The Sunday second-row date8 is currently completely hidden by the green-shirt child's head. Source has a visible8. Reposition that8 inside upper-right portion of the Sunday second-row cell so it is clearly visible; if needed move/shrink child's head/body slightly lower-left within page without cutting it off. Calendar must show ALL fourteen numbers exactly once: top row Sunday1 Monday2 Tuesday3 Wednesday4 Thursday5 Friday6 Saturday7, bottom row Sunday8 Monday9 Tuesday10 Wednesday11 Thursday12 Friday13 Saturday14. Preserve exact seven day headers and pointer toWednesday, natural anatomy, purple backing. Keep all other cells, twelve a/b choice pictures, seven day cards, monthly calendar and It's Monday. bubble unchanged. Keep straight gutters at same positions and blank lower-right.",
+  "refs": [
+    "assets/batches/batch1-original.png"
+  ],
+  "tool": "image_gen__imagegen",
+  "source_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a11c50-9e97-74c3-b487-055d453dea0f\\exec-dd8a9e2c-a5c7-4766-bb96-cb093c94f7fd.png",
+  "issue": "CD2_72 Sunday8 hidden behind character; make source numeral visible",
+  "status": "rejected_superseded",
+  "selected_asset": "assets/batches/batch1-fix1.png",
+  "visual_review": "8 visible but misplaced in first data row; not accepted. Input for second repair retained."
+}

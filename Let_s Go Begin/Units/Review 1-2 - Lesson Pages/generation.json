@@ -1,0 +1,11 @@
+{
+  "tool": "built-in image_gen",
+  "jobs": [
+    "assets/batches/batch1.json"
+  ],
+  "tracks": [
+    "CD1_36",
+    "CD1_37"
+  ],
+  "final_pages_reviewed": true
+}

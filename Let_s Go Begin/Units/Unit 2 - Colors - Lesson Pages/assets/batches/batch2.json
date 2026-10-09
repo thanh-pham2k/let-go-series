@@ -1,0 +1,29 @@
+{
+  "unit": 2,
+  "id": "batch2",
+  "tracks": [
+    "CD1_23",
+    "CD1_24",
+    "CD1_25",
+    "CD1_26"
+  ],
+  "prompt": "Create a high-resolution SQUARE 2x2 sheet FOUR complete independent square children's English pages, aim 3072x3072. Equal quadrants split exactly halfway by white gutters. References top-left/top-right/bottom-left/bottom-right. Polished colorful textbook cartoon, crisp outlines soft shading. Faithful educational content, large accurate words and numbered colors. Correct title and track badge per quadrant. Ignore other exercise headings visible at reference crop edge. No quiz options, no mixing pages, never crop toys or letters. \nQuadrant 1 CD1_23: E. Listen and do. Use same two action scenes as 22 with labels '1. Come here.' '2. Turn around.' Supplement source title-only exercise using action content from same page.\nQuadrant 2 CD1_24: A. Words. Five teddy bears, exact numbered color labels: 1. red; 2. blue; 3. yellow; 4. green; 5. brown. Preserve source numbered order, each bear entirely correct color, large clear labels. Add source example speech 'It's red.' beside red bear.\nQuadrant 3 CD1_25: B. Listen and point. Same five numbered bears and labels: 1. red; 2. blue; 3. yellow; 4. green; 5. brown. Correct title only.\nQuadrant 4 CD1_26: C. Sentences. Children hold circular five-panel play parachute, numbered colored panels as source: 1 blue upper left, 2 green upper right, 3 brown right, 4 yellow bottom, 5 red left. Speech 'It's blue.' Number markers adjacent relevant panel. Never substitute colors.",
+  "refs": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_23.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_24.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_25.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\references\\CD1_26.png"
+  ],
+  "tool": "built-in image_gen",
+  "status": "reviewed",
+  "visual_review": "Source reviewed: action labels, five correctly numbered colored bears, five parachute panels and sentence retained.",
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "split": [
+    624,
+    627
+  ],
+  "sha256": "e7c12a656a9b30efe3d5f5fde52e50e4a92a0a17b9aae6adbc4fd5ecd0b8165c"
+}

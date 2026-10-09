@@ -1,5 +1,17 @@
 # Unit 5 - Animals
 
+<!-- lesson-package-status -->
+## Bộ bài học chính và tài nguyên luyện thêm
+
+Đã có đủ **18 trang học chính**, mỗi trang gồm ảnh có chữ → audio → một câu trắc nghiệm. PNG/WebP đều **1200 × 1200**.
+
+- [Preview học và làm bài](Unit%205%20-%20Animals%20-%20Lesson%20Pages/preview.html) · [Xem cả bộ ảnh](Unit%205%20-%20Animals%20-%20Lesson%20Pages/preview.jpg).
+- [Metadata tích hợp](Unit%205%20-%20Animals%20-%20Lesson%20Pages/unit.regenerated.metadata).
+- [Unit 5 - Animals – Câu hỏi theo trang](Unit%205%20-%20Animals%20-%20Cau%20hoi%20theo%20trang.md).
+
+Các Challenge bên dưới là bài luyện thêm, giữ nguyên nội dung. Ký hiệu 🖼️ là hướng dẫn chọn hình, chưa phải asset riêng gắn cho từng câu. Người lớn có thể đọc phần nghe; để chạy tự động cần audio clip riêng. Chủ dự án sẽ tự bổ sung audio theo checklist cuối file. Audio CD nguồn đã kiểm tra file, chưa nghe/transcribe độc lập.
+<!-- /lesson-package-status -->
+
 > Chỉ sử dụng nội dung xuất hiện trong PDF **Unit 5 - Animals**.
 >
 > Lộ trình: **Recognition → Recall → Comprehension → Production**.
@@ -254,14 +266,16 @@ Bé thực hiện đúng hành động.
 # Challenge 3 — Fill & Recall
 ## Recall
 
-## 1. Xáo chữ → ghép từ
+## 1. Điền chữ cái còn thiếu vào từ
 
-1. `d / o / g` → __________
-2. `c / a / t` → __________
-3. `b / i / r / d` → __________
-4. `c / o / w` → __________
-5. `r / a / b / b / i / t` → __________
-6. `d / u / c / k` → __________
+> Điền chữ cái còn thiếu để hoàn thành tên con vật đúng.
+
+1. d _ g *(dog)* 🐶
+2. c _ t *(cat)* 🐱
+3. b _ r d *(bird)* 🐦
+4. c _ w *(cow)* 🐄
+5. r _ b b i t *(rabbit)* 🐇
+6. d _ c k *(duck)* 🦆
 
 ## 2. Singular → plural
 
@@ -342,155 +356,81 @@ Hoàn thành:
 
 ---
 
-# Challenge 4 — Translate & Build
+# Challenge 4 — Build & Match
 ## Comprehension
 
-## 1. Dịch Anh → Việt
+## 1. Chọn từ → ghép thành câu hoàn chỉnh
 
-1. Here you are.  
+> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.
+
+1. `[ are. / you / Here ]`  
    → ______________________________
 
-2. Thank you.  
+2. `[ you. / Thank ]`  
    → ______________________________
 
-3. Thank you, thank you!  
+3. `[ you! / thank / you, / Thank ]`  
    → ______________________________
 
-4. Jump.  
+4. `[ the / Let's / count / cats. ]`  
    → ______________________________
 
-5. Skip.  
+5. `[ 2 / 1 / cat, / cats. ]`  
    → ______________________________
 
-6. Let's count the cats.  
+6. `[ ducks? / How / many ]`  
    → ______________________________
 
-7. 1 cat, 2 cats.  
+7. `[ ducks. / 3 ]`  
    → ______________________________
 
-8. How many ducks?  
+8. `[ cows? / How / many ]`  
    → ______________________________
 
-9. 3 ducks.  
+9. `[ cows. / 8 ]`  
    → ______________________________
 
-10. How many cows?  
+10. `[ count. / Let's ]`  
     → ______________________________
 
-11. 8 cows.  
+11. `[ trains, / 1 / 3 / 2 / train, / trains. ]`  
     → ______________________________
 
-12. Let's count.  
+12. `[ cars? / How / many ]`  
     → ______________________________
 
-13. 1 train, 2 trains, 3 trains.  
+13. `[ cars. / 8 ]`  
     → ______________________________
 
-14. How many cars?  
+14. `[ Jump. ]`  
     → ______________________________
 
-15. 8 cars.  
+15. `[ Skip. ]`  
     → ______________________________
 
-## 2. Dịch Việt → Anh
-
-1. Của bạn đây.  
-   → ______________________________
-
-2. Cảm ơn bạn.  
-   → ______________________________
-
-3. Nhảy.  
-   → ______________________________
-
-4. Nhảy chân sáo.  
-   → ______________________________
-
-5. Hãy đếm những con mèo.  
-   → ______________________________
-
-6. 1 con mèo, 2 con mèo.  
-   → ______________________________
-
-7. Có bao nhiêu con vịt?  
-   → ______________________________
-
-8. 3 con vịt.  
-   → ______________________________
-
-9. Có bao nhiêu con bò?  
-   → ______________________________
-
-10. 8 con bò.  
-    → ______________________________
-
-11. Hãy đếm.  
-    → ______________________________
-
-12. 1 tàu, 2 tàu, 3 tàu.  
-    → ______________________________
-
-13. Có bao nhiêu ô tô?  
-    → ______________________________
-
-14. 8 ô tô.  
-    → ______________________________
-
-## 3. Sắp xếp từ → tạo câu
-
-1. `you / Here / are`  
-   → ______________________________
-
-2. `you / Thank`  
-   → ______________________________
-
-3. `count / Let's / cats / the`  
-   → ______________________________
-
-4. `many / How / ducks`  
-   → ______________________________
-
-5. `ducks / 3`  
-   → ______________________________
-
-6. `many / cows / How`  
-   → ______________________________
-
-7. `cows / 8`  
-   → ______________________________
-
-8. `count / Let's`  
-   → ______________________________
-
-9. `many / cars / How`  
-   → ______________________________
-
-10. `cars / 8`  
-    → ______________________________
-
-## 4. Ghép câu hỏi → câu trả lời
+## 2. Ghép câu hỏi → câu trả lời
 
 | Question | Answer |
 |---|---|
-| How many ducks? | A. 8 cows. |
-| How many cows? | B. 8 cars. |
-| How many cars? | C. 3 ducks. |
+| 1. Here you are. | A. 8 cows. |
+| 2. How many ducks? | B. Thank you. |
+| 3. How many cows? | C. 8 cars. |
+| 4. How many cars? | D. 3 ducks. |
 
-## 5. Letters & words
+## 3. Letters & words (Phonics M–P)
 
-Sắp xếp:
+Điền chữ cái còn thiếu:
 
-1. `m / o / o / n` → __________
-2. `n / e / s / t` → __________
-3. `o / c / t / o / p / u / s` → __________
-4. `p / e / a / c / h` → __________
+- m o _ n *(moon)* 🌙
+- n _ s t *(nest)* 🪺
+- o c t _ p u s *(octopus)* 🐙
+- p _ a c h *(peach)* 🍑
 
-Ghép:
-
-- M m → __________
-- N n → __________
-- O o → __________
-- P p → __________
+Nối chữ với từ đúng:
+- M m → `[ moon / nest / octopus / peach ]`
+- N n → `[ nest / moon / peach / octopus ]`
+- O o → `[ octopus / peach / moon / nest ]`
+- P p → `[ peach / octopus / nest / moon ]`
 
 ---
 
@@ -602,59 +542,65 @@ Người lớn nói ngẫu nhiên:
 
 Bé thực hiện đúng, sau đó tự nói lại câu.
 
-## 7. M–P Production
+## 5. M–P Phonics Production
 
-Nhìn chữ → tự nói từ tương ứng:
+Nhìn chữ → tự nói to từ tương ứng:
 
-- M m → ____________________
-- N n → ____________________
-- O o → ____________________
-- P p → ____________________
+- M m → **moon** 🌙
+- N n → **nest** 🪺
+- O o → **octopus** 🐙
+- P p → **peach** 🍑
 
-## 8. Alphabet Final Check
+## 6. Commands — Nghe và làm
 
-Đọc/ghép:
+Người lớn nói ngẫu nhiên:
 
-`A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`
+- Jump. *(Bé nhảy tại chỗ)*
+- Skip. *(Bé nhảy chân sáo)*
 
-với:
+Bé thực hiện đúng, sau đó tự nói lại từng câu lệnh.
 
-`a b c d e f g h i j k l m n o p q r s t u v w x y z`
+## 7. Mini Conversation — Thực hành nói theo mẫu
 
-## 9. Final Count
+### Tình huống 1 — Tặng / Nhận đồ
+*Mẫu gợi ý:*
+- Người lớn đưa đồ: *"Here you are."*
+- Bé nhận đồ và cảm ơn: *"Thank you."* (hoặc *"Thank you, thank you!"*)
 
-Không nhìn mẫu:
+A: Here you are.  
+B: __________________________________ *(Thank you.)*
 
-`1 cat, 2 ____________________.`
+### Tình huống 2 — Rủ cùng đếm số con vật
+*Mẫu gợi ý:*
+- Người lớn rủ: *"Let's count the cats."*
+- Bé chỉ và đếm: *"1 cat, 2 cats."*
 
-`1 train, 2 ____________________, 3 ____________________.`
+A: Let's count the cats.  
+B: __________________________________ *(1 cat, 2 cats.)*
 
-## 10. Final Boss Conversation
+### Tình huống 3 — Hỏi và trả lời số lượng vịt (3 con)
+*Mẫu gợi ý:*
+- Người lớn hỏi: *"How many ducks?"*
+- Bé trả lời: *"3 ducks."*
 
-### Tình huống 1 — nhận đồ
+A: How many ducks?  
+B: __________________________________ *(3 ducks.)*
 
-A: __________________________________  
-B: __________________________________
+### Tình huống 4 — Hỏi và trả lời số lượng bò (8 con)
+*Mẫu gợi ý:*
+- Người lớn hỏi: *"How many cows?"*
+- Bé trả lời: *"8 cows."*
 
-### Tình huống 2 — đếm mèo
+A: How many cows?  
+B: __________________________________ *(8 cows.)*
 
-A: __________________________________  
-B: `1 cat, 2 cats.`
+### Tình huống 5 — Hỏi và trả lời số lượng ô tô (8 xe)
+*Mẫu gợi ý:*
+- Người lớn hỏi: *"How many cars?"*
+- Bé trả lời: *"8 cars."*
 
-### Tình huống 3 — hỏi số vịt
-
-A: __________________________________  
-B: __________________________________ *(3)*
-
-### Tình huống 4 — hỏi số bò
-
-A: __________________________________  
-B: __________________________________ *(8)*
-
-### Tình huống 5 — hỏi số ô tô
-
-A: __________________________________  
-B: __________________________________ *(8)*
+A: How many cars?  
+B: __________________________________ *(8 cars.)*
 
 ---
 
@@ -662,18 +608,12 @@ B: __________________________________ *(8)*
 
 | Nội dung PDF | Đã kiểm tra |
 |---|---|
-| dog | ✓ |
-| dogs | ✓ |
-| cat | ✓ |
-| cats | ✓ |
-| bird | ✓ |
-| birds | ✓ |
-| cow | ✓ |
-| cows | ✓ |
-| rabbit | ✓ |
-| rabbits | ✓ |
-| duck | ✓ |
-| ducks | ✓ |
+| dog / dogs | ✓ |
+| cat / cats | ✓ |
+| bird / birds | ✓ |
+| cow / cows | ✓ |
+| rabbit / rabbits | ✓ |
+| duck / ducks | ✓ |
 | Here you are. | ✓ |
 | Thank you. | ✓ |
 | Thank you, thank you! | ✓ |
@@ -693,6 +633,75 @@ B: __________________________________ *(8)*
 | N n — nest | ✓ |
 | O o — octopus | ✓ |
 | P p — peach | ✓ |
-| A–Z / a–z | ✓ |
 
-**Coverage: 100% từ vựng và mẫu câu thể hiện trong Unit 5 - Animals đã được kiểm tra ít nhất một lần.**
+**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.
+
+---
+
+<!-- challenge-audio-notes -->
+# Ghi chú audio cần bổ sung cho Challenge – Unit 5
+
+**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.
+
+Đây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.
+
+| Đã có | Tên file gợi ý | Nội dung cần đọc |
+|---|---|---|
+| ☐ | `u5_here_you_are.mp3` | Here you are. |
+| ☐ | `u5_thank_you.mp3` | Thank you. |
+| ☐ | `u5_thank_you_thank_you.mp3` | Thank you, thank you! |
+| ☐ | `u5_let_s_count_the_cats.mp3` | Let's count the cats. |
+| ☐ | `u5_1_cat_2_cats.mp3` | 1 cat, 2 cats. |
+| ☐ | `u5_how_many_ducks.mp3` | How many ducks? |
+| ☐ | `u5_3_ducks.mp3` | 3 ducks. |
+| ☐ | `u5_how_many_cows.mp3` | How many cows? |
+| ☐ | `u5_8_cows.mp3` | 8 cows. |
+| ☐ | `u5_let_s_count.mp3` | Let's count. |
+| ☐ | `u5_1_train_2_trains_3_trains.mp3` | 1 train, 2 trains, 3 trains. |
+| ☐ | `u5_how_many_cars.mp3` | How many cars? |
+| ☐ | `u5_8_cars.mp3` | 8 cars. |
+| ☐ | `u5_jump.mp3` | Jump. |
+| ☐ | `u5_skip.mp3` | Skip. |
+| ☐ | `u5_m_m_moon.mp3` | M m — moon |
+| ☐ | `u5_n_n_nest.mp3` | N n — nest |
+| ☐ | `u5_o_o_octopus.mp3` | O o — octopus |
+| ☐ | `u5_p_p_peach.mp3` | P p — peach |
+
+Nếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.
+<!-- /challenge-audio-notes -->
+
+<!-- challenge-audio-classification -->
+
+## Phân loại clip và đối chiếu bài nghe
+
+Các clip dưới đây chưa được cung cấp. Checkbox trong kho bản thu chỉ là danh sách cần chuẩn bị; câu trùng dùng chung clip.
+
+- **Bắt buộc để tự động chạy bài nghe:** Challenge 1 mục 3.1–3.4 cần chọn clip từ đúng trong lựa chọn từng câu; dùng kho dog/dogs, cat/cats, bird/birds, cow/cows, rabbit/rabbits, duck/ducks. Không mặc định một đáp án cho câu ngẫu nhiên.
+- **Bắt buộc:** Challenge 2 mục 1.1–1.8 cần Here you are.; Thank you.; Jump.; Skip.; Let's count the cats.; How many ducks?; How many cows?; How many cars?. Mục 2 dùng dogs, cat, birds, rabbits. Mục 3 dùng How many ducks?, How many cows?, How many cars?, Here you are.. Mục 4 dùng Jump./Skip. ngẫu nhiên.
+- **Bắt buộc:** Challenge 3 mục 4 dùng Let's count the cats.; 3 ducks.; 8 cows.; 8 cars..
+- **Bắt buộc:** Challenge 5 các mục Commands, kể cả Commands — Nghe và làm, dùng chung Jump./Skip.. Mẫu Mini Conversation có thể dùng kho câu để phát lượt người lớn: Here you are.; Let's count the cats.; How many ducks?; How many cows?; How many cars?. Khi người lớn trực tiếp đọc thì không cần clip để thực hành.
+- **Tùy chọn:** bài nhìn hình, ghép từ, viết, tự nói; moon/nest/octopus/peach; bảng chữ cái A–Z/a–z; Thank you, thank you!; Let's count.; 1 train, 2 trains, 3 trains.; bản hội thoại đủ hai lượt và giọng Boss. Kho từ/câu hỗ trợ luyện phát âm có thể thu sau.
+- **Clip dùng chung:** Here you are./Thank you. dùng ở Challenge 2 và hội thoại Challenge 5; các câu hỏi How many… dùng ở Challenge 2/5; Let's count the cats. dùng ở Challenge 2/3/5; Jump./Skip. dùng ở mọi mục nghe lệnh. Câu trả lời 3 ducks./8 cows./8 cars. dùng ở Challenge 3 và mẫu hội thoại nếu cần phát đáp án.
+
+Không có audio Challenge mới được tạo trong lần hoàn thiện này. Audio CD chính chỉ được kiểm tra khớp byte với nguồn, chưa nghe hoặc chép lời độc lập.
+
+<!-- /challenge-audio-classification -->
+
+## Clip từ đơn còn thiếu trong checklist tự động
+
+| Đã có | Tên file gợi ý | Nội dung | Dùng |
+|---|---|---|---|
+| ☐ | `u5_dog.mp3` | dog | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_dogs.mp3` | dogs | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_cat.mp3` | cat | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_cats.mp3` | cats | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_bird.mp3` | bird | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_birds.mp3` | birds | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_cow.mp3` | cow | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_cows.mp3` | cows | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_rabbit.mp3` | rabbit | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_rabbits.mp3` | rabbits | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_duck.mp3` | duck | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+| ☐ | `u5_ducks.mp3` | ducks | Bắt buộc: Challenge 1 nghe chọn từ; dùng chung Challenge 2 khi phù hợp. |
+
+Các bản thu chữ M m — moon… trong kho là tùy chọn; có thể thu thêm moon/nest/octopus/peach riêng để dùng chung cho luyện phát âm.

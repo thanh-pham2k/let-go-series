@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    "CD2_69"
+  ],
+  "prompt": "Regenerate single SQUARE English lesson page \"CD2 69 A. Play a game.\" heading \"Let's Build\". Bright textbook cartoon clear outlines soft shading. Source reference page71 faithful. Top small scene black-haired girl purple shirt left says \"Can you jump?\" red-haired boy yellow shirt right replies \"Yes, I can.\" correct speaker tails, table with tokens and board. Below use most of square for large CONTINUOUS S-shaped board containing exactly FOURTEEN consecutive spaces listed in this exact order: 1 GO; 2 Jump; 3 Stand up; 4 Make a circle; 5 Sit down; 6 Walk; 7 Move ahead 2 spaces; 8 Go to the board; 9 Skip; 10 Point to the board; 11 Make a line; 12 Move back 3 spaces; 13 Run; 14 STOP. Space7 is required do NOT omit. Number ahead TWO 2, back THREE 3. Source starts at upper left bends down around left, rises middle, then down right to STOP. Use readable exact labels not numbers1-14 printed. Miniature cartoon on action tiles matches each: jump child airborne, stand child rises from chair, circle five children holding hands circle, sit seated child, walk two children walking, go to board walking toward board, skip two children skipping, point child finger toward board, line four children orderly line, run running child. Move spaces has only label. GO and STOP yellow outlined green with child starting/stopping standing feet on ground as source. STOP must depict stopping, not running. All14 labels with sufficient room. Keep game and dialogue inside page, white margin, no cropping.",
+  "refs": [
+    "source-pages/page-08.png"
+  ],
+  "tool": "image_gen.imagegen",
+  "status": "reviewed_selected_regions",
+  "selected_regions": {
+    "CD2_69": {
+      "box": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "visual_review": "Both dialogue speakers checked; all14 board spaces and sequence retained, circle5 children, line4 children; ahead2 and back3 match PDF; full continuous board, stopping distinct from running."
+    }
+  },
+  "sheet_size": [
+    1254,
+    1254
+  ],
+  "sha256": "4e04899e6cc3914fbba5e4ba0054fb01741605c6d28928d3b24f2b8912992a3c",
+  "result_file": "repair69.png"
+}

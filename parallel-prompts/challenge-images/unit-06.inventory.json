@@ -1,0 +1,1392 @@
+{
+  "schema_version": 1,
+  "unit": 6,
+  "topic": "Food",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "line": 65,
+      "visual_lines": [
+        68,
+        75,
+        82,
+        89,
+        96,
+        103,
+        110,
+        117
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "line": 123,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn câu",
+      "line": 134,
+      "visual_lines": [
+        136,
+        141
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "line": 146,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 160,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "line": 202,
+      "visual_lines": [
+        206,
+        210,
+        214,
+        218
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "line": 220,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "line": 240,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "line": 254,
+      "visual_lines": [
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "line": 267,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn số → hoàn thành câu",
+      "line": 278,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "line": 292,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "line": 318,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "6. Number Recall",
+      "line": 329,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 342,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "line": 388,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics Q–T)",
+      "line": 396,
+      "visual_lines": [
+        400,
+        401,
+        402,
+        403
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "line": 418,
+      "visual_lines": [
+        420,
+        426,
+        432
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "line": 438,
+      "visual_lines": [
+        440,
+        442,
+        444,
+        446,
+        448,
+        450,
+        452,
+        454
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Age — tự hỏi và trả lời",
+      "line": 456,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Likes — tự hỏi và trả lời",
+      "line": 467,
+      "visual_lines": [
+        469,
+        474
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Tự nói câu",
+      "line": 479,
+      "visual_lines": [
+        481,
+        483
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Build without hint",
+      "line": 485,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Commands",
+      "line": 507,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "8. Q–T Phonics Production",
+      "line": 516,
+      "visual_lines": [
+        520,
+        521,
+        522,
+        523
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "line": 525,
+      "visual_lines": [
+        535,
+        540,
+        543,
+        548,
+        551,
+        556
+      ],
+      "status": "has_visual_mapping"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 68,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.1",
+      "source_text": "🍦",
+      "asset_ids": [
+        "u06_ice_cream"
+      ]
+    },
+    {
+      "line": 75,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.2",
+      "source_text": "🍕",
+      "asset_ids": [
+        "u06_pizza"
+      ]
+    },
+    {
+      "line": 82,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.3",
+      "source_text": "🎂",
+      "asset_ids": [
+        "u06_cake"
+      ]
+    },
+    {
+      "line": 89,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.4",
+      "source_text": "🍗",
+      "asset_ids": [
+        "u06_chicken"
+      ]
+    },
+    {
+      "line": 96,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.5",
+      "source_text": "🥛",
+      "asset_ids": [
+        "u06_milk"
+      ]
+    },
+    {
+      "line": 103,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.6",
+      "source_text": "🐟",
+      "asset_ids": [
+        "u06_fish"
+      ]
+    },
+    {
+      "line": 110,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.7",
+      "source_text": "🍞",
+      "asset_ids": [
+        "u06_bread"
+      ]
+    },
+    {
+      "line": 117,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.8",
+      "source_text": "🍚",
+      "asset_ids": [
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 136,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn câu",
+      "item": "",
+      "source_text": "🍦",
+      "asset_ids": [
+        "u06_ice_cream"
+      ]
+    },
+    {
+      "line": 141,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn câu",
+      "item": "",
+      "source_text": "🎂",
+      "asset_ids": [
+        "u06_cake"
+      ]
+    },
+    {
+      "line": 206,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "source_text": "`🥛 / 🐟 / 🍞 / 🍚`",
+      "asset_ids": [
+        "u06_milk",
+        "u06_fish",
+        "u06_bread",
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 210,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "source_text": "`🍕 / 🐟 / 🍗 / 🎂`",
+      "asset_ids": [
+        "u06_pizza",
+        "u06_cake",
+        "u06_chicken",
+        "u06_fish"
+      ]
+    },
+    {
+      "line": 214,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "source_text": "`🍞 / 🍚 / 🍦 / 🥛`",
+      "asset_ids": [
+        "u06_ice_cream",
+        "u06_milk",
+        "u06_bread",
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 218,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "source_text": "`🍚 / 🍞 / 🍕 / 🍗`",
+      "asset_ids": [
+        "u06_pizza",
+        "u06_chicken",
+        "u06_bread",
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 258,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "1. i c e   c r _ a m *(ice cream)* 🍦",
+      "asset_ids": [
+        "u06_ice_cream"
+      ]
+    },
+    {
+      "line": 259,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "2. p _ z z a *(pizza)* 🍕",
+      "asset_ids": [
+        "u06_pizza"
+      ]
+    },
+    {
+      "line": 260,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "3. c _ k e *(cake)* 🎂",
+      "asset_ids": [
+        "u06_cake"
+      ]
+    },
+    {
+      "line": 261,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "4. c h _ c k e n *(chicken)* 🍗",
+      "asset_ids": [
+        "u06_chicken"
+      ]
+    },
+    {
+      "line": 262,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "5. m _ l k *(milk)* 🥛",
+      "asset_ids": [
+        "u06_milk"
+      ]
+    },
+    {
+      "line": 263,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "6. f _ s h *(fish)* 🐟",
+      "asset_ids": [
+        "u06_fish"
+      ]
+    },
+    {
+      "line": 264,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "7. b r _ a d *(bread)* 🍞",
+      "asset_ids": [
+        "u06_bread"
+      ]
+    },
+    {
+      "line": 265,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "8. r _ c e *(rice)* 🍚",
+      "asset_ids": [
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 400,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics Q–T)",
+      "item": "",
+      "source_text": "- q u _ e n *(queen)* 👸",
+      "asset_ids": [
+        "u06_queen"
+      ]
+    },
+    {
+      "line": 401,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics Q–T)",
+      "item": "",
+      "source_text": "- r _ b b i t *(rabbit)* 🐇",
+      "asset_ids": [
+        "u06_rabbit"
+      ]
+    },
+    {
+      "line": 402,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics Q–T)",
+      "item": "",
+      "source_text": "- s _ n *(sun)* ☀️",
+      "asset_ids": [
+        "u06_sun"
+      ]
+    },
+    {
+      "line": 403,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics Q–T)",
+      "item": "",
+      "source_text": "- t _ g e r *(tiger)* 🐅",
+      "asset_ids": [
+        "u06_tiger"
+      ]
+    },
+    {
+      "line": 420,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "🍦",
+      "asset_ids": [
+        "u06_ice_cream"
+      ]
+    },
+    {
+      "line": 426,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "🍗",
+      "asset_ids": [
+        "u06_chicken"
+      ]
+    },
+    {
+      "line": 432,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "🍚",
+      "asset_ids": [
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 440,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🍦 → ____________________",
+      "asset_ids": [
+        "u06_ice_cream"
+      ]
+    },
+    {
+      "line": 442,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🍕 → ____________________",
+      "asset_ids": [
+        "u06_pizza"
+      ]
+    },
+    {
+      "line": 444,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🎂 → ____________________",
+      "asset_ids": [
+        "u06_cake"
+      ]
+    },
+    {
+      "line": 446,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🍗 → ____________________",
+      "asset_ids": [
+        "u06_chicken"
+      ]
+    },
+    {
+      "line": 448,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🥛 → ____________________",
+      "asset_ids": [
+        "u06_milk"
+      ]
+    },
+    {
+      "line": 450,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🐟 → ____________________",
+      "asset_ids": [
+        "u06_fish"
+      ]
+    },
+    {
+      "line": 452,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🍞 → ____________________",
+      "asset_ids": [
+        "u06_bread"
+      ]
+    },
+    {
+      "line": 454,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🍚 → ____________________",
+      "asset_ids": [
+        "u06_rice"
+      ]
+    },
+    {
+      "line": 469,
+      "challenge": 5,
+      "section": "4. Likes — tự hỏi và trả lời",
+      "item": "",
+      "source_text": "🥛",
+      "asset_ids": [
+        "u06_milk"
+      ]
+    },
+    {
+      "line": 474,
+      "challenge": 5,
+      "section": "4. Likes — tự hỏi và trả lời",
+      "item": "",
+      "source_text": "🐟",
+      "asset_ids": [
+        "u06_fish"
+      ]
+    },
+    {
+      "line": 481,
+      "challenge": 5,
+      "section": "5. Tự nói câu",
+      "item": "",
+      "source_text": "🍦 → ______________________________",
+      "asset_ids": [
+        "u06_ice_cream"
+      ]
+    },
+    {
+      "line": 483,
+      "challenge": 5,
+      "section": "5. Tự nói câu",
+      "item": "",
+      "source_text": "🎂 → ______________________________",
+      "asset_ids": [
+        "u06_cake"
+      ]
+    },
+    {
+      "line": 520,
+      "challenge": 5,
+      "section": "8. Q–T Phonics Production",
+      "item": "",
+      "source_text": "- Q q → **queen** 👸",
+      "asset_ids": [
+        "u06_queen"
+      ]
+    },
+    {
+      "line": 521,
+      "challenge": 5,
+      "section": "8. Q–T Phonics Production",
+      "item": "",
+      "source_text": "- R r → **rabbit** 🐇",
+      "asset_ids": [
+        "u06_rabbit"
+      ]
+    },
+    {
+      "line": 522,
+      "challenge": 5,
+      "section": "8. Q–T Phonics Production",
+      "item": "",
+      "source_text": "- S s → **sun** ☀️",
+      "asset_ids": [
+        "u06_sun"
+      ]
+    },
+    {
+      "line": 523,
+      "challenge": 5,
+      "section": "8. Q–T Phonics Production",
+      "item": "",
+      "source_text": "- T t → **tiger** 🐅",
+      "asset_ids": [
+        "u06_tiger"
+      ]
+    },
+    {
+      "line": 535,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "### Tình huống 2 — Hỏi sở thích có (milk 🥛)",
+      "asset_ids": [
+        "u06_likes_milk"
+      ]
+    },
+    {
+      "line": 540,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "A: Do you like milk? 🥛  ",
+      "asset_ids": [
+        "u06_likes_milk"
+      ]
+    },
+    {
+      "line": 543,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "### Tình huống 3 — Hỏi sở thích không (fish 🐟)",
+      "asset_ids": [
+        "u06_dislikes_fish"
+      ]
+    },
+    {
+      "line": 548,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "A: Do you like fish? 🐟  ",
+      "asset_ids": [
+        "u06_dislikes_fish"
+      ]
+    },
+    {
+      "line": 551,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "### Tình huống 4 — Hỏi sở thích con vật mở rộng (birds 🐦)",
+      "asset_ids": [
+        "u06_birds"
+      ]
+    },
+    {
+      "line": 556,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "A: Do you like birds? 🐦  ",
+      "asset_ids": [
+        "u06_birds"
+      ]
+    },
+    {
+      "line": 273,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "3. I like ________.  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_cake.webp)",
+      "asset_ids": [
+        "u06_cake"
+      ],
+      "note": "Fixed cue selected by user-authorized decision; answer cake"
+    },
+    {
+      "line": 274,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "4. Do you like ________?  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_milk.webp)",
+      "asset_ids": [
+        "u06_milk"
+      ],
+      "note": "Fixed cue selected by user-authorized decision; answer milk"
+    },
+    {
+      "line": 275,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "5. Do you like ________?  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_fish.webp)",
+      "asset_ids": [
+        "u06_fish"
+      ],
+      "note": "Fixed cue selected by user-authorized decision; answer fish"
+    },
+    {
+      "line": 276,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "6. I like ________.  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_ice_cream.webp)",
+      "asset_ids": [
+        "u06_ice_cream"
+      ],
+      "note": "Fixed cue selected by user-authorized decision; answer ice cream"
+    }
+  ],
+  "assets": [
+    {
+      "id": "u06_ice_cream",
+      "brief": "Một món ice_cream theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        68,
+        136,
+        214,
+        258,
+        276,
+        420,
+        440,
+        481
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_ice_cream.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_ice_cream.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_pizza",
+      "brief": "Một món pizza theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        75,
+        210,
+        218,
+        259,
+        442
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_pizza.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_pizza.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_cake",
+      "brief": "Một món cake theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        82,
+        141,
+        210,
+        260,
+        273,
+        444,
+        483
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_cake.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_cake.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_chicken",
+      "brief": "Một món chicken theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        89,
+        210,
+        218,
+        261,
+        426,
+        446
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_chicken.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_chicken.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_milk",
+      "brief": "Một món milk theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        96,
+        206,
+        214,
+        262,
+        274,
+        448,
+        469
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_milk.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_milk.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_fish",
+      "brief": "Một món fish theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        103,
+        206,
+        210,
+        263,
+        275,
+        450,
+        474
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_fish.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_fish.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_bread",
+      "brief": "Một món bread theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        110,
+        206,
+        214,
+        218,
+        264,
+        452
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_bread.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_bread.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_rice",
+      "brief": "Một món rice theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+      "reference_tracks": [
+        "CD2_25",
+        "CD2_29"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        117,
+        206,
+        214,
+        218,
+        265,
+        432,
+        454
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+      ],
+      "expected_files": [
+        "webp/u06_rice.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_rice.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_queen",
+      "brief": "Một queen theo phonics Q–T, không chữ.",
+      "reference_tracks": [
+        "CD2_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        400,
+        520
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+      ],
+      "expected_files": [
+        "webp/u06_queen.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_queen.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_rabbit",
+      "brief": "Một rabbit theo phonics Q–T, không chữ.",
+      "reference_tracks": [
+        "CD2_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        401,
+        521
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+      ],
+      "expected_files": [
+        "webp/u06_rabbit.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_rabbit.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_sun",
+      "brief": "Một sun theo phonics Q–T, không chữ.",
+      "reference_tracks": [
+        "CD2_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        402,
+        522
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+      ],
+      "expected_files": [
+        "webp/u06_sun.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_sun.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_tiger",
+      "brief": "Một tiger theo phonics Q–T, không chữ.",
+      "reference_tracks": [
+        "CD2_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        403,
+        523
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+      ],
+      "expected_files": [
+        "webp/u06_tiger.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_tiger.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_birds",
+      "brief": "Nhóm chim để thể hiện birds, không số lượng cố định trong câu. Có thể dùng 2 con tách rõ, ghi là adaptation cho số nhiều, không biến câu thành bài đếm.",
+      "reference_tracks": [
+        "CD2_07"
+      ],
+      "method": "compose_from_crops",
+      "note": "",
+      "uses": [
+        551,
+        556
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+      ],
+      "expected_files": [
+        "webp/u06_birds.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_birds.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_likes_milk",
+      "brief": "Bé với ly sữa, biểu cảm và cử chỉ thích rõ; dùng cho tình huống mẫu Yes, I do. Không in câu trả lời hoặc dấu tick.",
+      "reference_tracks": [
+        "CD2_31"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        535,
+        540
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png"
+      ],
+      "expected_files": [
+        "webp/u06_likes_milk.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_likes_milk.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u06_dislikes_fish",
+      "brief": "Bé với món cá, cử chỉ nhẹ nhàng từ chối rõ; dùng cho tình huống mẫu No, I don’t. Không in câu trả lời hoặc dấu X.",
+      "reference_tracks": [
+        "CD2_31"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        543,
+        548
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png"
+      ],
+      "expected_files": [
+        "webp/u06_dislikes_fish.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_dislikes_fish.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": [
+    "C3§3 bốn câu I’m ____ chỉ khác thứ tự lựa chọn: không xác định được tuổi bằng khuôn mặt. Giữ là luyện nói tuổi tự chọn hoặc bổ sung cue tuổi/audio trước khi gán đáp án; chữ số 5/6/7/10 render bằng font, không cần 4 tranh sinh nhật.",
+    "likes_milk/dislikes_fish chỉ dùng tình huống mẫu cố định C5§9. C5§4 và tình huống birds cho phép trả lời sở thích thật: không ép Yes/No theo ảnh.",
+    "Đã chốt 8 cue theo quyết định được người dùng giao; đọc audit/challenge-cue-decisions.json. Các câu đã gắn hình có expected_answer duy nhất trong mapping, không coi là context mở."
+  ]
+}

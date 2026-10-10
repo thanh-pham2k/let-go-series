@@ -1,0 +1,1666 @@
+{
+  "schema_version": 1,
+  "unit": 2,
+  "topic": "Colors",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "line": 65,
+      "visual_lines": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "line": 78,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "line": 88,
+      "visual_lines": [
+        90,
+        93,
+        96,
+        99
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "4. Chữ cái → ghép từ",
+      "line": 102,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 114,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn câu đúng",
+      "line": 136,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe lời chào → chọn phản hồi có trong bài",
+      "line": 160,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "line": 172,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "line": 186,
+      "visual_lines": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "line": 201,
+      "visual_lines": [
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → hoàn thành mẫu câu",
+      "line": 216,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "line": 226,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "line": 252,
+      "visual_lines": [
+        255,
+        258,
+        261
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "6. Recall greetings",
+      "line": 263,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 279,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "line": 319,
+      "visual_lines": [
+        323,
+        324
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics A–D)",
+      "line": 328,
+      "visual_lines": [
+        332,
+        333,
+        334,
+        335
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Mixed Recognition",
+      "line": 348,
+      "visual_lines": [
+        350,
+        352,
+        354
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "line": 356,
+      "visual_lines": [
+        358,
+        360,
+        362,
+        364,
+        366,
+        368,
+        370,
+        372,
+        374,
+        376
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Hỏi – đáp về màu",
+      "line": 378,
+      "visual_lines": [
+        380,
+        385
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "line": 390,
+      "visual_lines": [
+        392,
+        393,
+        394,
+        395,
+        396
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Build without hint",
+      "line": 398,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Greetings — Thực hành nói theo mẫu",
+      "line": 418,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Commands — nghe và làm",
+      "line": 432,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "8. A–D Phonics Production",
+      "line": 439,
+      "visual_lines": [
+        443,
+        444,
+        445,
+        446
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Nói theo mẫu",
+      "line": 448,
+      "visual_lines": [
+        454,
+        458
+      ],
+      "status": "has_visual_mapping"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 67,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "1. 🟥 → `red / blue / green / yellow`",
+      "asset_ids": [
+        "u02_color_red"
+      ]
+    },
+    {
+      "line": 68,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "2. 🟦 → `brown / blue / black / pink`",
+      "asset_ids": [
+        "u02_color_blue"
+      ]
+    },
+    {
+      "line": 69,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "3. 🟨 → `yellow / white / orange / purple`",
+      "asset_ids": [
+        "u02_color_yellow"
+      ]
+    },
+    {
+      "line": 70,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "4. 🟩 → `green / red / brown / blue`",
+      "asset_ids": [
+        "u02_color_green"
+      ]
+    },
+    {
+      "line": 71,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "5. 🟫 → `pink / brown / yellow / black`",
+      "asset_ids": [
+        "u02_color_brown"
+      ]
+    },
+    {
+      "line": 72,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "6. 🟪 → `purple / orange / green / white`",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 73,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "7. 🟧 → `blue / orange / pink / red`",
+      "asset_ids": [
+        "u02_color_orange"
+      ]
+    },
+    {
+      "line": 74,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "8. ⬛ → `black / brown / white / purple`",
+      "asset_ids": [
+        "u02_color_black"
+      ]
+    },
+    {
+      "line": 75,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "9. ⬜ → `yellow / white / pink / green`",
+      "asset_ids": [
+        "u02_color_white"
+      ]
+    },
+    {
+      "line": 76,
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "item": "",
+      "source_text": "10. 🩷 → `pink / red / purple / orange`",
+      "asset_ids": [
+        "u02_color_pink"
+      ]
+    },
+    {
+      "line": 90,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "",
+      "source_text": "1. 🖼️ tàu màu đỏ  ",
+      "asset_ids": [
+        "u02_red_train"
+      ]
+    },
+    {
+      "line": 93,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "",
+      "source_text": "2. 🖼️ bóng màu xanh dương  ",
+      "asset_ids": [
+        "u02_blue_ball"
+      ]
+    },
+    {
+      "line": 96,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "",
+      "source_text": "3. 🖼️ gấu bông màu nâu  ",
+      "asset_ids": [
+        "u02_brown_teddy_bear"
+      ]
+    },
+    {
+      "line": 99,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "",
+      "source_text": "4. 🖼️ yo-yo màu xanh lá  ",
+      "asset_ids": [
+        "u02_green_yo_yo"
+      ]
+    },
+    {
+      "line": 190,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "1. r _ d *(red)* 🟥",
+      "asset_ids": [
+        "u02_color_red"
+      ]
+    },
+    {
+      "line": 191,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "2. b l _ _ *(blue)* 🟦",
+      "asset_ids": [
+        "u02_color_blue"
+      ]
+    },
+    {
+      "line": 192,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "3. y _ l l _ w *(yellow)* 🟨",
+      "asset_ids": [
+        "u02_color_yellow"
+      ]
+    },
+    {
+      "line": 193,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "4. g r _ _ n *(green)* 🟩",
+      "asset_ids": [
+        "u02_color_green"
+      ]
+    },
+    {
+      "line": 194,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "5. b r _ w n *(brown)* 🟫",
+      "asset_ids": [
+        "u02_color_brown"
+      ]
+    },
+    {
+      "line": 195,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "6. p _ r p l e *(purple)* 🟪",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 196,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "7. o r _ n g e *(orange)* 🟧",
+      "asset_ids": [
+        "u02_color_orange"
+      ]
+    },
+    {
+      "line": 197,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "8. b l _ c k *(black)* ⬛",
+      "asset_ids": [
+        "u02_color_black"
+      ]
+    },
+    {
+      "line": 198,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "9. w h _ t e *(white)* ⬜",
+      "asset_ids": [
+        "u02_color_white"
+      ]
+    },
+    {
+      "line": 199,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "10. p _ n k *(pink)* 🩷",
+      "asset_ids": [
+        "u02_color_pink"
+      ]
+    },
+    {
+      "line": 205,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "1. It's ________. 🟥",
+      "asset_ids": [
+        "u02_color_red"
+      ]
+    },
+    {
+      "line": 206,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "2. It's ________. 🟦",
+      "asset_ids": [
+        "u02_color_blue"
+      ]
+    },
+    {
+      "line": 207,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "3. It's ________. 🟨",
+      "asset_ids": [
+        "u02_color_yellow"
+      ]
+    },
+    {
+      "line": 208,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "4. It's ________. 🟩",
+      "asset_ids": [
+        "u02_color_green"
+      ]
+    },
+    {
+      "line": 209,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "5. It's ________. 🟫",
+      "asset_ids": [
+        "u02_color_brown"
+      ]
+    },
+    {
+      "line": 210,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "6. It's ________. 🟪",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 211,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "7. It's ________. 🟧",
+      "asset_ids": [
+        "u02_color_orange"
+      ]
+    },
+    {
+      "line": 212,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "8. It's ________. ⬛",
+      "asset_ids": [
+        "u02_color_black"
+      ]
+    },
+    {
+      "line": 213,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "9. It's ________. ⬜",
+      "asset_ids": [
+        "u02_color_white"
+      ]
+    },
+    {
+      "line": 214,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "item": "",
+      "source_text": "10. It's ________. 🩷",
+      "asset_ids": [
+        "u02_color_pink"
+      ]
+    },
+    {
+      "line": 255,
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "",
+      "source_text": "B: It's ________. 🟪",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 258,
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "",
+      "source_text": "B: It's ________. 🟨",
+      "asset_ids": [
+        "u02_color_yellow"
+      ]
+    },
+    {
+      "line": 261,
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "",
+      "source_text": "B: It's a ________ car. 🟩🚗",
+      "asset_ids": [
+        "u02_green_car"
+      ]
+    },
+    {
+      "line": 323,
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "",
+      "source_text": "| 1. What color is it? 🟪 | A. It's a green car. |",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 324,
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "",
+      "source_text": "| 2. What is it? 🟩🚗 | B. It's purple. |",
+      "asset_ids": [
+        "u02_green_car"
+      ]
+    },
+    {
+      "line": 332,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics A–D)",
+      "item": "",
+      "source_text": "- a p p l _ *(apple)* 🍎",
+      "asset_ids": [
+        "u02_apple"
+      ]
+    },
+    {
+      "line": 333,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics A–D)",
+      "item": "",
+      "source_text": "- b _ r d *(bird)* 🐦",
+      "asset_ids": [
+        "u02_bird"
+      ]
+    },
+    {
+      "line": 334,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics A–D)",
+      "item": "",
+      "source_text": "- c _ t *(cat)* 🐱",
+      "asset_ids": [
+        "u02_cat"
+      ]
+    },
+    {
+      "line": 335,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics A–D)",
+      "item": "",
+      "source_text": "- d _ g *(dog)* 🐶",
+      "asset_ids": [
+        "u02_dog"
+      ]
+    },
+    {
+      "line": 350,
+      "challenge": 5,
+      "section": "1. Mixed Recognition",
+      "item": "",
+      "source_text": "🟧 → `pink / orange / brown / yellow`",
+      "asset_ids": [
+        "u02_color_orange"
+      ]
+    },
+    {
+      "line": 352,
+      "challenge": 5,
+      "section": "1. Mixed Recognition",
+      "item": "",
+      "source_text": "⬛ → `purple / blue / black / white`",
+      "asset_ids": [
+        "u02_color_black"
+      ]
+    },
+    {
+      "line": 354,
+      "challenge": 5,
+      "section": "1. Mixed Recognition",
+      "item": "",
+      "source_text": "🟩 → `red / green / yellow / blue`",
+      "asset_ids": [
+        "u02_color_green"
+      ]
+    },
+    {
+      "line": 358,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟥 → ____________________",
+      "asset_ids": [
+        "u02_color_red"
+      ]
+    },
+    {
+      "line": 360,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟦 → ____________________",
+      "asset_ids": [
+        "u02_color_blue"
+      ]
+    },
+    {
+      "line": 362,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟨 → ____________________",
+      "asset_ids": [
+        "u02_color_yellow"
+      ]
+    },
+    {
+      "line": 364,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟩 → ____________________",
+      "asset_ids": [
+        "u02_color_green"
+      ]
+    },
+    {
+      "line": 366,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟫 → ____________________",
+      "asset_ids": [
+        "u02_color_brown"
+      ]
+    },
+    {
+      "line": 368,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟪 → ____________________",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 370,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🟧 → ____________________",
+      "asset_ids": [
+        "u02_color_orange"
+      ]
+    },
+    {
+      "line": 372,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "⬛ → ____________________",
+      "asset_ids": [
+        "u02_color_black"
+      ]
+    },
+    {
+      "line": 374,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "⬜ → ____________________",
+      "asset_ids": [
+        "u02_color_white"
+      ]
+    },
+    {
+      "line": 376,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🩷 → ____________________",
+      "asset_ids": [
+        "u02_color_pink"
+      ]
+    },
+    {
+      "line": 380,
+      "challenge": 5,
+      "section": "3. Hỏi – đáp về màu",
+      "item": "",
+      "source_text": "🟪",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 385,
+      "challenge": 5,
+      "section": "3. Hỏi – đáp về màu",
+      "item": "",
+      "source_text": "🟦",
+      "asset_ids": [
+        "u02_color_blue"
+      ]
+    },
+    {
+      "line": 392,
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "item": "",
+      "source_text": "1. 🖼️ red train → ______________________________",
+      "asset_ids": [
+        "u02_red_train"
+      ]
+    },
+    {
+      "line": 393,
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "item": "",
+      "source_text": "2. 🖼️ blue ball → ______________________________",
+      "asset_ids": [
+        "u02_blue_ball"
+      ]
+    },
+    {
+      "line": 394,
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "item": "",
+      "source_text": "3. 🖼️ brown teddy bear → ______________________________",
+      "asset_ids": [
+        "u02_brown_teddy_bear"
+      ]
+    },
+    {
+      "line": 395,
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "item": "",
+      "source_text": "4. 🖼️ green yo-yo → ______________________________",
+      "asset_ids": [
+        "u02_green_yo_yo"
+      ]
+    },
+    {
+      "line": 396,
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "item": "",
+      "source_text": "5. 🖼️ green car → ______________________________",
+      "asset_ids": [
+        "u02_green_car"
+      ]
+    },
+    {
+      "line": 443,
+      "challenge": 5,
+      "section": "8. A–D Phonics Production",
+      "item": "",
+      "source_text": "- A a → **apple** 🍎",
+      "asset_ids": [
+        "u02_apple"
+      ]
+    },
+    {
+      "line": 444,
+      "challenge": 5,
+      "section": "8. A–D Phonics Production",
+      "item": "",
+      "source_text": "- B b → **bird** 🐦",
+      "asset_ids": [
+        "u02_bird"
+      ]
+    },
+    {
+      "line": 445,
+      "challenge": 5,
+      "section": "8. A–D Phonics Production",
+      "item": "",
+      "source_text": "- C c → **cat** 🐱",
+      "asset_ids": [
+        "u02_cat"
+      ]
+    },
+    {
+      "line": 446,
+      "challenge": 5,
+      "section": "8. A–D Phonics Production",
+      "item": "",
+      "source_text": "- D d → **dog** 🐶",
+      "asset_ids": [
+        "u02_dog"
+      ]
+    },
+    {
+      "line": 454,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Nói theo mẫu",
+      "item": "",
+      "source_text": "**Tình huống A (Hỏi màu):** 🟪  ",
+      "asset_ids": [
+        "u02_color_purple"
+      ]
+    },
+    {
+      "line": 458,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Nói theo mẫu",
+      "item": "",
+      "source_text": "**Tình huống B (Hỏi đồ vật có màu):** 🟩🚗  ",
+      "asset_ids": [
+        "u02_green_car"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "u02_color_red",
+      "brief": "Mảng màu red, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        67,
+        190,
+        205,
+        358
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_red.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_red.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_blue",
+      "brief": "Mảng màu blue, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        68,
+        191,
+        206,
+        360,
+        385
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_blue.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_blue.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_yellow",
+      "brief": "Mảng màu yellow, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        69,
+        192,
+        207,
+        258,
+        362
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_yellow.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_yellow.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_green",
+      "brief": "Mảng màu green, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        70,
+        193,
+        208,
+        354,
+        364
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_green.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_green.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_brown",
+      "brief": "Mảng màu brown, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        71,
+        194,
+        209,
+        366
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_brown.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_brown.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_purple",
+      "brief": "Mảng màu purple, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        72,
+        195,
+        210,
+        255,
+        323,
+        368,
+        380,
+        454
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_purple.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_purple.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_orange",
+      "brief": "Mảng màu orange, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        73,
+        196,
+        211,
+        350,
+        370
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_orange.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_orange.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_black",
+      "brief": "Mảng màu black, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        74,
+        197,
+        212,
+        352,
+        372
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_black.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_black.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_white",
+      "brief": "Mảng màu white, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        75,
+        198,
+        213,
+        374
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_white.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_white.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_color_pink",
+      "brief": "Mảng màu pink, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "reference_tracks": [
+        "CD1_24",
+        "CD1_28"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        76,
+        199,
+        214,
+        376
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+      ],
+      "expected_files": [
+        "webp/u02_color_pink.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_pink.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_red_train",
+      "brief": "Tàu hỏa đồ chơi màu đỏ; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "reference_tracks": [
+        "CD1_34"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        90,
+        392
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "expected_files": [
+        "webp/u02_red_train.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_red_train.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_blue_ball",
+      "brief": "Bóng màu xanh dương; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "reference_tracks": [
+        "CD1_34"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        93,
+        393
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "expected_files": [
+        "webp/u02_blue_ball.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_blue_ball.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_brown_teddy_bear",
+      "brief": "Gấu bông màu nâu; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "reference_tracks": [
+        "CD1_34"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        96,
+        394
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "expected_files": [
+        "webp/u02_brown_teddy_bear.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_brown_teddy_bear.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_green_yo_yo",
+      "brief": "Yo-yo màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "reference_tracks": [
+        "CD1_34"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        99,
+        395
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "expected_files": [
+        "webp/u02_green_yo_yo.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_green_yo_yo.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_green_car",
+      "brief": "Ô tô đồ chơi màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "reference_tracks": [
+        "CD1_35"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        261,
+        324,
+        396,
+        458
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_35.png"
+      ],
+      "expected_files": [
+        "webp/u02_green_car.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_green_car.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_apple",
+      "brief": "Một apple giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "reference_tracks": [
+        "CD1_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        332,
+        443
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "expected_files": [
+        "webp/u02_apple.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_apple.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_bird",
+      "brief": "Một bird giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "reference_tracks": [
+        "CD1_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        333,
+        444
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "expected_files": [
+        "webp/u02_bird.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_bird.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_cat",
+      "brief": "Một cat giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "reference_tracks": [
+        "CD1_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        334,
+        445
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "expected_files": [
+        "webp/u02_cat.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_cat.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u02_dog",
+      "brief": "Một dog giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "reference_tracks": [
+        "CD1_33"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        335,
+        446
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "expected_files": [
+        "webp/u02_dog.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_dog.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": []
+}

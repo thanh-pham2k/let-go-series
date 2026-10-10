@@ -1,0 +1,1401 @@
+{
+  "schema": "challenge-assets.v1",
+  "review": "Review 5-6",
+  "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+  "inventory_file": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-5-6.inventory.json",
+  "scope": "Challenge 1-5 only",
+  "created": "2026-10-10",
+  "asset_count": 19,
+  "required_asset_count": 19,
+  "assets": [
+    {
+      "id": "r56_cat_01",
+      "brief": "Đúng 1 mèo; biến thể luyện số ít, không gán vào nhóm nguồn",
+      "semantic": {
+        "kind": "animal",
+        "subject": "cat",
+        "count": 1
+      },
+      "uses": [
+        "R56-C1-01",
+        "R56-C3-21",
+        "R56-C4-05",
+        "R56-C5-04"
+      ],
+      "file": "webp/r56_cat_01.webp",
+      "webp": "webp/r56_cat_01.webp",
+      "files": [
+        "webp/r56_cat_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13884,
+      "sha256": "20121560af0862c551ec1148b3dda7cddd9ae7e1f1acdbd09af1bcbf48eb00e1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        362,
+        350,
+        724,
+        700
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "20121560af0862c551ec1148b3dda7cddd9ae7e1f1acdbd09af1bcbf48eb00e1",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "20121560af0862c551ec1148b3dda7cddd9ae7e1f1acdbd09af1bcbf48eb00e1",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_cat_03",
+      "brief": "Đúng 3 mèo, nhóm 1a",
+      "semantic": {
+        "kind": "animal",
+        "subject": "cat",
+        "count": 3
+      },
+      "uses": [
+        "R56-C1-02",
+        "R56-C3-15",
+        "R56-C4-09",
+        "R56-C5-01",
+        "R56-C5-05"
+      ],
+      "file": "webp/r56_cat_03.webp",
+      "webp": "webp/r56_cat_03.webp",
+      "files": [
+        "webp/r56_cat_03.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 23798,
+      "sha256": "5f0f748ec94caab11af4f7527da4e9654947f0ddebc04d2d34b52ef81922abbb",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        724,
+        350,
+        1086,
+        700
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "5f0f748ec94caab11af4f7527da4e9654947f0ddebc04d2d34b52ef81922abbb",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5f0f748ec94caab11af4f7527da4e9654947f0ddebc04d2d34b52ef81922abbb",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_cat_04",
+      "brief": "Đúng 4 mèo, nhóm 1b",
+      "semantic": {
+        "kind": "animal",
+        "subject": "cat",
+        "count": 4
+      },
+      "uses": [
+        "R56-C1-02",
+        "R56-C4-10",
+        "R56-C5-02",
+        "R56-C5-05",
+        "R56-C5-21"
+      ],
+      "file": "webp/r56_cat_04.webp",
+      "webp": "webp/r56_cat_04.webp",
+      "files": [
+        "webp/r56_cat_04.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 30370,
+      "sha256": "4c236f8b2800131a02de3701c628589e893e2c0b223c16f9723456c0ba35126f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        1086,
+        350,
+        1448,
+        700
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "4c236f8b2800131a02de3701c628589e893e2c0b223c16f9723456c0ba35126f",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4c236f8b2800131a02de3701c628589e893e2c0b223c16f9723456c0ba35126f",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_rabbit_01",
+      "brief": "Đúng 1 thỏ; biến thể luyện số ít",
+      "semantic": {
+        "kind": "animal",
+        "subject": "rabbit",
+        "count": 1
+      },
+      "uses": [
+        "R56-C1-03",
+        "R56-C5-06"
+      ],
+      "file": "webp/r56_rabbit_01.webp",
+      "webp": "webp/r56_rabbit_01.webp",
+      "files": [
+        "webp/r56_rabbit_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11618,
+      "sha256": "138bcab7a44d601762b1bfd31f9b9716b6e17a05dca3fa4aecea6bcebaeecfb0",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        0,
+        700,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        386
+      ],
+      "visual_review": {
+        "sha256": "138bcab7a44d601762b1bfd31f9b9716b6e17a05dca3fa4aecea6bcebaeecfb0",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "138bcab7a44d601762b1bfd31f9b9716b6e17a05dca3fa4aecea6bcebaeecfb0",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          386
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_rabbit_02",
+      "brief": "Đúng 2 thỏ, nhóm 2a",
+      "semantic": {
+        "kind": "animal",
+        "subject": "rabbit",
+        "count": 2
+      },
+      "uses": [
+        "R56-C1-04",
+        "R56-C3-16",
+        "R56-C4-11",
+        "R56-C5-03",
+        "R56-C5-07"
+      ],
+      "file": "webp/r56_rabbit_02.webp",
+      "webp": "webp/r56_rabbit_02.webp",
+      "files": [
+        "webp/r56_rabbit_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16788,
+      "sha256": "4ca26fcca833c0bc83416e72f72fcef6ea4cb9f82cf5310a3fb5736b4a9abf26",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        362,
+        700,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        386
+      ],
+      "visual_review": {
+        "sha256": "4ca26fcca833c0bc83416e72f72fcef6ea4cb9f82cf5310a3fb5736b4a9abf26",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4ca26fcca833c0bc83416e72f72fcef6ea4cb9f82cf5310a3fb5736b4a9abf26",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          386
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_rabbit_05",
+      "brief": "Đúng 5 thỏ, nhóm 2b",
+      "semantic": {
+        "kind": "animal",
+        "subject": "rabbit",
+        "count": 5
+      },
+      "uses": [
+        "R56-C1-04",
+        "R56-C3-22",
+        "R56-C4-12",
+        "R56-C5-07",
+        "R56-C5-21"
+      ],
+      "file": "webp/r56_rabbit_05.webp",
+      "webp": "webp/r56_rabbit_05.webp",
+      "files": [
+        "webp/r56_rabbit_05.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 24054,
+      "sha256": "d6eccd1b309d2e2a0932702ef0e1b9da081379de0667ced1b1fc4a09fefbdd5e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        724,
+        700,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        386
+      ],
+      "visual_review": {
+        "sha256": "d6eccd1b309d2e2a0932702ef0e1b9da081379de0667ced1b1fc4a09fefbdd5e",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "d6eccd1b309d2e2a0932702ef0e1b9da081379de0667ced1b1fc4a09fefbdd5e",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          386
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_ice_cream",
+      "brief": "Kem 3a",
+      "semantic": {
+        "kind": "food",
+        "subject": "ice cream",
+        "count": 1
+      },
+      "uses": [
+        "R56-C1-05",
+        "R56-C3-17",
+        "R56-C4-06",
+        "R56-C4-13",
+        "R56-C5-08"
+      ],
+      "file": "webp/r56_ice_cream.webp",
+      "webp": "webp/r56_ice_cream.webp",
+      "files": [
+        "webp/r56_ice_cream.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7384,
+      "sha256": "edade3f82dd49a164350cf12574d5c02160011750733938d2dfdc13adc06ac23",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        1086,
+        700,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        386
+      ],
+      "visual_review": {
+        "sha256": "edade3f82dd49a164350cf12574d5c02160011750733938d2dfdc13adc06ac23",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "edade3f82dd49a164350cf12574d5c02160011750733938d2dfdc13adc06ac23",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          386
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_cake",
+      "brief": "Bánh 3b",
+      "semantic": {
+        "kind": "food",
+        "subject": "cake",
+        "count": 1
+      },
+      "uses": [
+        "R56-C1-06",
+        "R56-C5-09"
+      ],
+      "file": "webp/r56_cake.webp",
+      "webp": "webp/r56_cake.webp",
+      "files": [
+        "webp/r56_cake.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17388,
+      "sha256": "c400fbac7ef75e1dc6b6878c76325e51e9ba2aa552d82888429fbdffc9ea80ba",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "c400fbac7ef75e1dc6b6878c76325e51e9ba2aa552d82888429fbdffc9ea80ba",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c400fbac7ef75e1dc6b6878c76325e51e9ba2aa552d82888429fbdffc9ea80ba",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_bread",
+      "brief": "Lát bánh mì 4a",
+      "semantic": {
+        "kind": "food",
+        "subject": "bread",
+        "count": 1
+      },
+      "uses": [
+        "R56-C1-07",
+        "R56-C5-10"
+      ],
+      "file": "webp/r56_bread.webp",
+      "webp": "webp/r56_bread.webp",
+      "files": [
+        "webp/r56_bread.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10734,
+      "sha256": "f4b2d8a04f7c1b08e4f94df191d5a1b859f5abe60daf80b3a7a5e39af0272489",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "f4b2d8a04f7c1b08e4f94df191d5a1b859f5abe60daf80b3a7a5e39af0272489",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f4b2d8a04f7c1b08e4f94df191d5a1b859f5abe60daf80b3a7a5e39af0272489",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_rice",
+      "brief": "Bát cơm 4b",
+      "semantic": {
+        "kind": "food",
+        "subject": "rice",
+        "count": 1
+      },
+      "uses": [
+        "R56-C1-08",
+        "R56-C5-11"
+      ],
+      "file": "webp/r56_rice.webp",
+      "webp": "webp/r56_rice.webp",
+      "files": [
+        "webp/r56_rice.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17122,
+      "sha256": "fb0e7c2322504db8435f5d5ef77226a2b05defb3d80f942cfaf7d43da4621f7a",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "fb0e7c2322504db8435f5d5ef77226a2b05defb3d80f942cfaf7d43da4621f7a",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "fb0e7c2322504db8435f5d5ef77226a2b05defb3d80f942cfaf7d43da4621f7a",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_skip",
+      "brief": "Bé nhảy chân sáo 5a, chân luân phiên; khác jump",
+      "semantic": {
+        "kind": "action",
+        "action": "skip"
+      },
+      "uses": [
+        "R56-C1-09",
+        "R56-C4-07",
+        "R56-C5-12"
+      ],
+      "file": "webp/r56_skip.webp",
+      "webp": "webp/r56_skip.webp",
+      "files": [
+        "webp/r56_skip.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16950,
+      "sha256": "c2a7f466db2852142331a59cea109c8230f49bca12173df6043eaa06b46c19a1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "c2a7f466db2852142331a59cea109c8230f49bca12173df6043eaa06b46c19a1",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c2a7f466db2852142331a59cea109c8230f49bca12173df6043eaa06b46c19a1",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_jump",
+      "brief": "Bé nhảy bằng hai chân 5b; khác skip",
+      "semantic": {
+        "kind": "action",
+        "action": "jump"
+      },
+      "uses": [
+        "R56-C1-10",
+        "R56-C5-13"
+      ],
+      "file": "webp/r56_jump.webp",
+      "webp": "webp/r56_jump.webp",
+      "files": [
+        "webp/r56_jump.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 14084,
+      "sha256": "098938cfc833c1ca0a5dbb6009f24c72d3c762b98fcf113e930222e1e0b71ab8",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        0,
+        355,
+        300,
+        710
+      ],
+      "source_crop_size": [
+        300,
+        355
+      ],
+      "visual_review": {
+        "sha256": "098938cfc833c1ca0a5dbb6009f24c72d3c762b98fcf113e930222e1e0b71ab8",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "098938cfc833c1ca0a5dbb6009f24c72d3c762b98fcf113e930222e1e0b71ab8",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          300,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_make_line",
+      "brief": "Các bé xếp một hàng thẳng, 6a",
+      "semantic": {
+        "kind": "action",
+        "action": "make a line"
+      },
+      "uses": [
+        "R56-C1-11",
+        "R56-C3-18",
+        "R56-C5-14"
+      ],
+      "file": "webp/r56_make_line.webp",
+      "webp": "webp/r56_make_line.webp",
+      "files": [
+        "webp/r56_make_line.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 32550,
+      "sha256": "83fa00bb45ac0b8cd753c16dadbe078cb23a4342f9d03c0203297a3bcc22369b",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        300,
+        355,
+        725,
+        710
+      ],
+      "source_crop_size": [
+        425,
+        355
+      ],
+      "visual_review": {
+        "sha256": "83fa00bb45ac0b8cd753c16dadbe078cb23a4342f9d03c0203297a3bcc22369b",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "83fa00bb45ac0b8cd753c16dadbe078cb23a4342f9d03c0203297a3bcc22369b",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          425,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_make_circle",
+      "brief": "Các bé xếp vòng tròn khép kín, 6b",
+      "semantic": {
+        "kind": "action",
+        "action": "make a circle"
+      },
+      "uses": [
+        "R56-C1-12",
+        "R56-C3-19",
+        "R56-C5-15"
+      ],
+      "file": "webp/r56_make_circle.webp",
+      "webp": "webp/r56_make_circle.webp",
+      "files": [
+        "webp/r56_make_circle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 30876,
+      "sha256": "c2f4f451d5557ae8396cbbac524a74c86a87720903f6834878e6d51818290f84",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        725,
+        355,
+        1065,
+        710
+      ],
+      "source_crop_size": [
+        340,
+        355
+      ],
+      "visual_review": {
+        "sha256": "c2f4f451d5557ae8396cbbac524a74c86a87720903f6834878e6d51818290f84",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c2f4f451d5557ae8396cbbac524a74c86a87720903f6834878e6d51818290f84",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          340,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_sunny",
+      "brief": "Cảnh có nắng, hình 1 Weather",
+      "semantic": {
+        "kind": "weather",
+        "weather": "sunny"
+      },
+      "uses": [
+        "R56-C1-13",
+        "R56-C3-20",
+        "R56-C4-08",
+        "R56-C5-16",
+        "R56-C5-22"
+      ],
+      "file": "webp/r56_sunny.webp",
+      "webp": "webp/r56_sunny.webp",
+      "files": [
+        "webp/r56_sunny.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 28862,
+      "sha256": "566c88af6ac67c6e176fb5a73e865f82854ed25e0d23b07502579a9c51250da6",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        1065,
+        355,
+        1448,
+        710
+      ],
+      "source_crop_size": [
+        383,
+        355
+      ],
+      "visual_review": {
+        "sha256": "566c88af6ac67c6e176fb5a73e865f82854ed25e0d23b07502579a9c51250da6",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "566c88af6ac67c6e176fb5a73e865f82854ed25e0d23b07502579a9c51250da6",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          383,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_cloudy",
+      "brief": "Cảnh nhiều mây, hình 2",
+      "semantic": {
+        "kind": "weather",
+        "weather": "cloudy"
+      },
+      "uses": [
+        "R56-C1-14",
+        "R56-C5-17"
+      ],
+      "file": "webp/r56_cloudy.webp",
+      "webp": "webp/r56_cloudy.webp",
+      "files": [
+        "webp/r56_cloudy.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 27702,
+      "sha256": "c1c0834139d88caf4a78fad7a157c076cccb6f38df43eeb6c4e05b8dd81c415c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        0,
+        710,
+        370,
+        1086
+      ],
+      "source_crop_size": [
+        370,
+        376
+      ],
+      "visual_review": {
+        "sha256": "c1c0834139d88caf4a78fad7a157c076cccb6f38df43eeb6c4e05b8dd81c415c",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c1c0834139d88caf4a78fad7a157c076cccb6f38df43eeb6c4e05b8dd81c415c",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          370,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_windy",
+      "brief": "Cảnh có gió làm lá/khăn bay, hình 3; không chỉ một đám mây",
+      "semantic": {
+        "kind": "weather",
+        "weather": "windy"
+      },
+      "uses": [
+        "R56-C1-15",
+        "R56-C4-13",
+        "R56-C5-18"
+      ],
+      "file": "webp/r56_windy.webp",
+      "webp": "webp/r56_windy.webp",
+      "files": [
+        "webp/r56_windy.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 34116,
+      "sha256": "a7637170cdb45e01dbaca81f4cec4895161769fa3db77aaefbdb44c5b9e07526",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        370,
+        710,
+        725,
+        1086
+      ],
+      "source_crop_size": [
+        355,
+        376
+      ],
+      "visual_review": {
+        "sha256": "a7637170cdb45e01dbaca81f4cec4895161769fa3db77aaefbdb44c5b9e07526",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "a7637170cdb45e01dbaca81f4cec4895161769fa3db77aaefbdb44c5b9e07526",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          355,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_rainy",
+      "brief": "Cảnh mưa với hạt mưa rõ, hình 4",
+      "semantic": {
+        "kind": "weather",
+        "weather": "rainy"
+      },
+      "uses": [
+        "R56-C1-16",
+        "R56-C5-19"
+      ],
+      "file": "webp/r56_rainy.webp",
+      "webp": "webp/r56_rainy.webp",
+      "files": [
+        "webp/r56_rainy.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 29862,
+      "sha256": "07fc14a13fdad947b14150acf8df2efec2895ae103c87fd5f8728490ee3926a3",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        725,
+        710,
+        1065,
+        1086
+      ],
+      "source_crop_size": [
+        340,
+        376
+      ],
+      "visual_review": {
+        "sha256": "07fc14a13fdad947b14150acf8df2efec2895ae103c87fd5f8728490ee3926a3",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "07fc14a13fdad947b14150acf8df2efec2895ae103c87fd5f8728490ee3926a3",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          340,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r56_snowy",
+      "brief": "Cảnh tuyết với bông tuyết/tuyết phủ rõ, hình 5",
+      "semantic": {
+        "kind": "weather",
+        "weather": "snowy"
+      },
+      "uses": [
+        "R56-C1-17",
+        "R56-C5-20"
+      ],
+      "file": "webp/r56_snowy.webp",
+      "webp": "webp/r56_snowy.webp",
+      "files": [
+        "webp/r56_snowy.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 31484,
+      "sha256": "ef36d9336587a86dc39152940fe04a92bb07e68be2301ff8c4ce68dca0957cf7",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-16/master.png",
+      "crop_box": [
+        1065,
+        710,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        383,
+        376
+      ],
+      "visual_review": {
+        "sha256": "ef36d9336587a86dc39152940fe04a92bb07e68be2301ff8c4ce68dca0957cf7",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ef36d9336587a86dc39152940fe04a92bb07e68be2301ff8c4ce68dca0957cf7",
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-16\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 16,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-16/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+        ],
+        "resized_from": [
+          383,
+          376
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "batches": [
+    {
+      "batch_id": "batch-01",
+      "png": "batches/batch-01.png",
+      "json": "batches/batch-01.json",
+      "asset_ids": [
+        "r56_cat_01",
+        "r56_cat_03",
+        "r56_cat_04",
+        "r56_rabbit_01",
+        "r56_rabbit_02",
+        "r56_rabbit_05",
+        "r56_ice_cream",
+        "r56_cake",
+        "r56_bread",
+        "r56_rice"
+      ]
+    },
+    {
+      "batch_id": "batch-02",
+      "png": "batches/batch-02.png",
+      "json": "batches/batch-02.json",
+      "asset_ids": [
+        "r56_skip",
+        "r56_jump",
+        "r56_make_line",
+        "r56_make_circle",
+        "r56_sunny",
+        "r56_cloudy",
+        "r56_windy",
+        "r56_rainy",
+        "r56_snowy"
+      ]
+    }
+  ],
+  "question_counts": {
+    "total": 88,
+    "image_required": 56,
+    "no_static_image_required": 32,
+    "mapped": 88,
+    "needs_context": 0
+  },
+  "deduplication": {
+    "exact_duplicate_sha256_groups": [],
+    "policy": "same semantic ID reused across all listed questions; no extra ID created for repeated uses"
+  },
+  "checks": {
+    "all_webp_present": true,
+    "all_dimensions_512x512": true,
+    "all_under_60kb": true,
+    "source_locators_match": true,
+    "visual_review_each_webp": true,
+    "answer_labels_in_cards": false,
+    "source_locator_misses": []
+  },
+  "revision_notes": "Revised 11 cards after second-pass visual QA: widened/reconstructed clipped cats, rabbits, food edges, action anatomy and sunny sky.",
+  "provenance_file": "provenance.json",
+  "provenance_notes": "See provenance.json for exact image_gen prompts/args/results and master/crop operations; generated_output links every final image_gen card to its output ID. make_circle is an action adaptation with no source-count claim.",
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\review-5-6\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

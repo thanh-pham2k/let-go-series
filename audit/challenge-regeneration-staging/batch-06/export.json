@@ -1,0 +1,322 @@
+{
+  "batch": 6,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u04_kangaroo",
+      "crop_box": [
+        0,
+        0,
+        360,
+        400
+      ],
+      "original_cell_size": [
+        360,
+        400
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11686,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_kangaroo.webp",
+      "sha256": "21e17c84399ebf65eb96efa550309878a55c2dbd498a59d613e31995f142ab70"
+    },
+    {
+      "id": "u04_lion",
+      "crop_box": [
+        360,
+        0,
+        724,
+        400
+      ],
+      "original_cell_size": [
+        364,
+        400
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15552,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_lion.webp",
+      "sha256": "81fbc2f8841f97a9400acbf67d043b5a6229b7a733198ec229a63baedbcb810e"
+    },
+    {
+      "id": "u05_dog_01",
+      "crop_box": [
+        724,
+        0,
+        1010,
+        400
+      ],
+      "original_cell_size": [
+        286,
+        400
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10786,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_dog_01.webp",
+      "sha256": "248b203da5ce3d83ef9026e57e358b05f7be2ac42ae8b05504a432f6ed2d6bed"
+    },
+    {
+      "id": "u05_dog_02",
+      "crop_box": [
+        1010,
+        0,
+        1448,
+        400
+      ],
+      "original_cell_size": [
+        438,
+        400
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17344,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_dog_02.webp",
+      "sha256": "e3fda3ae44870dacc1cf5023319ae83dda7fcefd2e833c25fdadc8075dba357b"
+    },
+    {
+      "id": "u05_cat_01",
+      "crop_box": [
+        0,
+        400,
+        320,
+        710
+      ],
+      "original_cell_size": [
+        320,
+        310
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12520,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cat_01.webp",
+      "sha256": "56ea9ab03e4c56b0dbb4661b720d5d4f07166bb00297c5c62831556e842cc8e8"
+    },
+    {
+      "id": "u05_cat_02",
+      "crop_box": [
+        320,
+        400,
+        740,
+        710
+      ],
+      "original_cell_size": [
+        420,
+        310
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15780,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cat_02.webp",
+      "sha256": "118f563556122c9430ece1e20e4c3a35357d57c9920aa2bf936957fa616c8bd9"
+    },
+    {
+      "id": "u05_bird_01",
+      "crop_box": [
+        740,
+        400,
+        1010,
+        710
+      ],
+      "original_cell_size": [
+        270,
+        310
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10232,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_bird_01.webp",
+      "sha256": "31d517be98d869186e1740c73ee2a3d4179a9fb963a5433edf7d345ab6ebe2a6"
+    },
+    {
+      "id": "u05_bird_02",
+      "crop_box": [
+        1010,
+        400,
+        1448,
+        710
+      ],
+      "original_cell_size": [
+        438,
+        310
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12388,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_bird_02.webp",
+      "sha256": "cec2acd6e2f20893d38651a99befb0a3ff0e112f13322b2d4cf8c6b34a3cd6d8"
+    },
+    {
+      "id": "u05_cow_01",
+      "crop_box": [
+        0,
+        710,
+        305,
+        1086
+      ],
+      "original_cell_size": [
+        305,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13180,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cow_01.webp",
+      "sha256": "b11d111784018a3b1942b91e28ac522a66bb4ad2902ad98b0d2a1a93a0368de8"
+    },
+    {
+      "id": "u05_cow_02",
+      "crop_box": [
+        305,
+        710,
+        750,
+        1086
+      ],
+      "original_cell_size": [
+        445,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18084,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cow_02.webp",
+      "sha256": "6cbece96da06241348cf272bfb76d0a99c4b29315142219d51d7abc519849c0e"
+    },
+    {
+      "id": "u05_rabbit_01",
+      "crop_box": [
+        750,
+        710,
+        1000,
+        1086
+      ],
+      "original_cell_size": [
+        250,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 9130,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_rabbit_01.webp",
+      "sha256": "b2fdae64439f28c85aea706c57b3919f41ce51c95eed30c1422e48f642acce67"
+    },
+    {
+      "id": "u05_rabbit_02",
+      "crop_box": [
+        1000,
+        710,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        448,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14378,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_rabbit_02.webp",
+      "sha256": "2a5b06826ac8a4d80cf7643fb253af80fddb6801ebd400c227614476dcf0a385"
+    }
+  ],
+  "status": "visual_review_pass"
+}

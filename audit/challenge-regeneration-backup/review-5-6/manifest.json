@@ -1,0 +1,966 @@
+{
+  "schema": "challenge-assets.v1",
+  "review": "Review 5-6",
+  "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+  "inventory_file": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-5-6.inventory.json",
+  "scope": "Challenge 1-5 only",
+  "created": "2026-10-10",
+  "asset_count": 19,
+  "required_asset_count": 19,
+  "assets": [
+    {
+      "id": "r56_cat_01",
+      "brief": "Đúng 1 mèo; biến thể luyện số ít, không gán vào nhóm nguồn",
+      "semantic": {
+        "kind": "animal",
+        "subject": "cat",
+        "count": 1
+      },
+      "method": "image_gen",
+      "provenance": "built-in image_gen with CD2_35 as style reference",
+      "notes": "Generated isolated singular variant because source only contains cat groups.",
+      "uses": [
+        "R56-C1-01",
+        "R56-C3-21",
+        "R56-C4-05",
+        "R56-C5-04"
+      ],
+      "files": {
+        "webp": "webp/r56_cat_01.webp",
+        "png": "png/r56_cat_01.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 17396,
+      "sha256": "97d19f7b1ca779c282bbaadb0d96543447bc19cbc82c14e1daf0855a4193c8a8",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-cat-01",
+        "provenance.json#/source_masters/master-cd2-35"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-cat-01",
+        "output_id": "exec-eed21b0e-af65-49a6-9d0e-050ad1a25c14",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-eed21b0e-af65-49a6-9d0e-050ad1a25c14.png"
+      },
+      "file": "webp/r56_cat_01.webp",
+      "creation_method": "image_gen",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "97d19f7b1ca779c282bbaadb0d96543447bc19cbc82c14e1daf0855a4193c8a8",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_cat_03",
+      "brief": "Đúng 3 mèo, nhóm 1a",
+      "semantic": {
+        "kind": "animal",
+        "subject": "cat",
+        "count": 3
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; preserved exactly 3 full cats and removed page/answer marks.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-02",
+        "R56-C3-15",
+        "R56-C4-09",
+        "R56-C5-01",
+        "R56-C5-05"
+      ],
+      "files": {
+        "webp": "webp/r56_cat_03.webp",
+        "png": "png/r56_cat_03.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 27458,
+      "sha256": "85fec0ae25e63a9a51ebc07cff425716e0e91bd4c796a3e38c3885c361329a35",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-cat-03-revision",
+        "provenance.json#/crop_operations/crop-r56_cat_03-initial",
+        "provenance.json#/crop_operations/raw-crop-cat_03"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-cat-03-revision",
+        "output_id": "exec-760b8eb1-1f8e-459b-ab2f-ddc88a28d036",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-760b8eb1-1f8e-459b-ab2f-ddc88a28d036.png"
+      },
+      "file": "webp/r56_cat_03.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "85fec0ae25e63a9a51ebc07cff425716e0e91bd4c796a3e38c3885c361329a35",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_cat_04",
+      "brief": "Đúng 4 mèo, nhóm 1b",
+      "semantic": {
+        "kind": "animal",
+        "subject": "cat",
+        "count": 4
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; preserved exactly 4 full cats and removed neighboring/page marks.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-02",
+        "R56-C4-10",
+        "R56-C5-02",
+        "R56-C5-05",
+        "R56-C5-21"
+      ],
+      "files": {
+        "webp": "webp/r56_cat_04.webp",
+        "png": "png/r56_cat_04.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 35776,
+      "sha256": "faec2ccd8389c4712f61578d82a4ba2157368d44a60ba996ed4aa7b708d462a0",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-cat-04-revision",
+        "provenance.json#/crop_operations/crop-r56_cat_04-initial",
+        "provenance.json#/crop_operations/raw-crop-cat_04"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-cat-04-revision",
+        "output_id": "exec-280a66d1-815d-452d-95ca-ec0ebb74061e",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-280a66d1-815d-452d-95ca-ec0ebb74061e.png"
+      },
+      "file": "webp/r56_cat_04.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "faec2ccd8389c4712f61578d82a4ba2157368d44a60ba996ed4aa7b708d462a0",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_rabbit_01",
+      "brief": "Đúng 1 thỏ; biến thể luyện số ít",
+      "semantic": {
+        "kind": "animal",
+        "subject": "rabbit",
+        "count": 1
+      },
+      "method": "image_gen",
+      "provenance": "built-in image_gen with CD2_35 as style reference",
+      "notes": "Generated isolated singular variant because source only contains rabbit groups.",
+      "uses": [
+        "R56-C1-03",
+        "R56-C5-06"
+      ],
+      "files": {
+        "webp": "webp/r56_rabbit_01.webp",
+        "png": "png/r56_rabbit_01.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 12092,
+      "sha256": "8cf61df8c94c376e5e32fa9506462a525db0c33462c07c581a6abe9c482973d7",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-rabbit-01",
+        "provenance.json#/source_masters/master-cd2-35"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-rabbit-01",
+        "output_id": "exec-66b3eca2-ee66-4a49-9926-58b1bb31c8f6",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-66b3eca2-ee66-4a49-9926-58b1bb31c8f6.png"
+      },
+      "file": "webp/r56_rabbit_01.webp",
+      "creation_method": "image_gen",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "8cf61df8c94c376e5e32fa9506462a525db0c33462c07c581a6abe9c482973d7",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_rabbit_02",
+      "brief": "Đúng 2 thỏ, nhóm 2a",
+      "semantic": {
+        "kind": "animal",
+        "subject": "rabbit",
+        "count": 2
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; preserved exactly 2 full rabbits and repaired ear/feet margins.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-04",
+        "R56-C3-16",
+        "R56-C4-11",
+        "R56-C5-03",
+        "R56-C5-07"
+      ],
+      "files": {
+        "webp": "webp/r56_rabbit_02.webp",
+        "png": "png/r56_rabbit_02.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 13212,
+      "sha256": "44de033ae4682cdf5546cfa186893eba6473f2d56cb34258cd8fd1ed38a3e86e",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-rabbit-02-revision",
+        "provenance.json#/crop_operations/crop-r56_rabbit_02-initial",
+        "provenance.json#/crop_operations/raw-crop-rabbit_02"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-rabbit-02-revision",
+        "output_id": "exec-0ece8e86-39cc-4e26-80e6-bc15fe7cb8d8",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-0ece8e86-39cc-4e26-80e6-bc15fe7cb8d8.png"
+      },
+      "file": "webp/r56_rabbit_02.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "44de033ae4682cdf5546cfa186893eba6473f2d56cb34258cd8fd1ed38a3e86e",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_rabbit_05",
+      "brief": "Đúng 5 thỏ, nhóm 2b",
+      "semantic": {
+        "kind": "animal",
+        "subject": "rabbit",
+        "count": 5
+      },
+      "method": "image_gen",
+      "provenance": "built-in image_gen with CD2_35 as style reference",
+      "notes": "Generated clean five-rabbit variant because source group crop clipped the lowest rabbit.",
+      "uses": [
+        "R56-C1-04",
+        "R56-C3-22",
+        "R56-C4-12",
+        "R56-C5-07",
+        "R56-C5-21"
+      ],
+      "files": {
+        "webp": "webp/r56_rabbit_05.webp",
+        "png": "png/r56_rabbit_05.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 20406,
+      "sha256": "1a8ad24bd5fcfcdbd1416fad7923f70f74a6b8eb20ec3e9b00d87a796d8eab27",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-rabbit-05",
+        "provenance.json#/source_masters/master-cd2-35"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-rabbit-05",
+        "output_id": "exec-e76fa291-df25-43c0-96de-a9790f9b7d43",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-e76fa291-df25-43c0-96de-a9790f9b7d43.png"
+      },
+      "file": "webp/r56_rabbit_05.webp",
+      "creation_method": "image_gen",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1a8ad24bd5fcfcdbd1416fad7923f70f74a6b8eb20ec3e9b00d87a796d8eab27",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_ice_cream",
+      "brief": "Kem 3a",
+      "semantic": {
+        "kind": "food",
+        "subject": "ice cream",
+        "count": 1
+      },
+      "method": "crop_or_edit",
+      "provenance": "CD2_35.png crop (100,545,275,775), residual page marks removed",
+      "notes": "",
+      "uses": [
+        "R56-C1-05",
+        "R56-C3-17",
+        "R56-C4-06",
+        "R56-C4-13",
+        "R56-C5-08"
+      ],
+      "files": {
+        "webp": "webp/r56_ice_cream.webp",
+        "png": "png/r56_ice_cream.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 3908,
+      "sha256": "5f00f50bc01d9e94cf6c6abd0eb31aaaad0b9a9d46936fda712754479bbc6b59",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/crop_operations/crop-r56_ice_cream-initial"
+      ],
+      "file": "webp/r56_ice_cream.webp",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "5f00f50bc01d9e94cf6c6abd0eb31aaaad0b9a9d46936fda712754479bbc6b59",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_cake",
+      "brief": "Bánh 3b",
+      "semantic": {
+        "kind": "food",
+        "subject": "cake",
+        "count": 1
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored complete cake and plate edges.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-06",
+        "R56-C5-09"
+      ],
+      "files": {
+        "webp": "webp/r56_cake.webp",
+        "png": "png/r56_cake.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 9590,
+      "sha256": "a392247f84c3e9f3171d4cb1caa85feb5719bda7972da83b1893035b3955c99e",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-cake-revision",
+        "provenance.json#/crop_operations/crop-r56_cake-initial",
+        "provenance.json#/crop_operations/raw-crop-cake"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-cake-revision",
+        "output_id": "exec-a4ed0fd4-8c7f-4da9-974a-2407828c54a0",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-a4ed0fd4-8c7f-4da9-974a-2407828c54a0.png"
+      },
+      "file": "webp/r56_cake.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "a392247f84c3e9f3171d4cb1caa85feb5719bda7972da83b1893035b3955c99e",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_bread",
+      "brief": "Lát bánh mì 4a",
+      "semantic": {
+        "kind": "food",
+        "subject": "bread",
+        "count": 1
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored complete bread corners and bottom edge.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-07",
+        "R56-C5-10"
+      ],
+      "files": {
+        "webp": "webp/r56_bread.webp",
+        "png": "png/r56_bread.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 11016,
+      "sha256": "875d511aadc83e766d33b298d78238533438f7461761450aa97843d26766b8bd",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-bread-revision",
+        "provenance.json#/crop_operations/crop-r56_bread-initial",
+        "provenance.json#/crop_operations/raw-crop-bread"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-bread-revision",
+        "output_id": "exec-d0f3fce9-2eb9-42b3-af38-f2f7a9bf6a70",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d0f3fce9-2eb9-42b3-af38-f2f7a9bf6a70.png"
+      },
+      "file": "webp/r56_bread.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "875d511aadc83e766d33b298d78238533438f7461761450aa97843d26766b8bd",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_rice",
+      "brief": "Bát cơm 4b",
+      "semantic": {
+        "kind": "food",
+        "subject": "rice",
+        "count": 1
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored both bowl rim ends and complete base.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-08",
+        "R56-C5-11"
+      ],
+      "files": {
+        "webp": "webp/r56_rice.webp",
+        "png": "png/r56_rice.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 24164,
+      "sha256": "f78f8fa694c1b2ca793bea33fe960aa5f24446b0a1c4e4f4f9706010079546ff",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-rice-revision",
+        "provenance.json#/crop_operations/crop-r56_rice-initial",
+        "provenance.json#/crop_operations/raw-crop-rice"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-rice-revision",
+        "output_id": "exec-d2ba2f55-c017-47b3-9a9e-064095dad9d0",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d2ba2f55-c017-47b3-9a9e-064095dad9d0.png"
+      },
+      "file": "webp/r56_rice.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "f78f8fa694c1b2ca793bea33fe960aa5f24446b0a1c4e4f4f9706010079546ff",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_skip",
+      "brief": "Bé nhảy chân sáo 5a, chân luân phiên; khác jump",
+      "semantic": {
+        "kind": "action",
+        "action": "skip"
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored full hair, both shoes and skip pose.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-09",
+        "R56-C4-07",
+        "R56-C5-12"
+      ],
+      "files": {
+        "webp": "webp/r56_skip.webp",
+        "png": "png/r56_skip.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 16896,
+      "sha256": "6b9bddebb57251b716cbcd1d5733d3438afbc2db23de4768a95c8eef6a6a093b",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-skip-revision",
+        "provenance.json#/crop_operations/crop-r56_skip-initial",
+        "provenance.json#/crop_operations/raw-crop-skip"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-skip-revision",
+        "output_id": "exec-858059a5-2374-47cd-988e-058c98871d52",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-858059a5-2374-47cd-988e-058c98871d52.png"
+      },
+      "file": "webp/r56_skip.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "6b9bddebb57251b716cbcd1d5733d3438afbc2db23de4768a95c8eef6a6a093b",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_jump",
+      "brief": "Bé nhảy bằng hai chân 5b; khác skip",
+      "semantic": {
+        "kind": "action",
+        "action": "jump"
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored full hair, body and jumping pose.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-10",
+        "R56-C5-13"
+      ],
+      "files": {
+        "webp": "webp/r56_jump.webp",
+        "png": "png/r56_jump.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 14188,
+      "sha256": "a2df5e1209a3e5b9bc81cb143b4820c170ae6a7411c240d19ee3a92b15aa5e46",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-jump-revision",
+        "provenance.json#/crop_operations/crop-r56_jump-initial",
+        "provenance.json#/crop_operations/raw-crop-jump"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-jump-revision",
+        "output_id": "exec-89879075-f435-4360-80b2-e2d008b37c13",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-89879075-f435-4360-80b2-e2d008b37c13.png"
+      },
+      "file": "webp/r56_jump.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "a2df5e1209a3e5b9bc81cb143b4820c170ae6a7411c240d19ee3a92b15aa5e46",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_make_line",
+      "brief": "Các bé xếp một hàng thẳng, 6a",
+      "semantic": {
+        "kind": "action",
+        "action": "make a line"
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored full children and feet in a straight line.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-11",
+        "R56-C3-18",
+        "R56-C5-14"
+      ],
+      "files": {
+        "webp": "webp/r56_make_line.webp",
+        "png": "png/r56_make_line.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 17650,
+      "sha256": "48cb106577fbd102a0445918554c756ad0189c060c410583b9ce3e912ed2b7eb",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-make-line-revision",
+        "provenance.json#/crop_operations/crop-r56_make_line-initial",
+        "provenance.json#/crop_operations/raw-crop-make_line"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-make-line-revision",
+        "output_id": "exec-99bf2ca6-3b70-40e8-ab0d-4e0e622f7921",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-99bf2ca6-3b70-40e8-ab0d-4e0e622f7921.png"
+      },
+      "file": "webp/r56_make_line.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "48cb106577fbd102a0445918554c756ad0189c060c410583b9ce3e912ed2b7eb",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_make_circle",
+      "brief": "Các bé xếp vòng tròn khép kín, 6b",
+      "semantic": {
+        "kind": "action",
+        "action": "make a circle"
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; restored full children and closed-circle pose.",
+      "notes": "Action adaptation: final card shows four children making a closed circle while the original source crop showed three; count is not asserted for this scene.",
+      "uses": [
+        "R56-C1-12",
+        "R56-C3-19",
+        "R56-C5-15"
+      ],
+      "files": {
+        "webp": "webp/r56_make_circle.webp",
+        "png": "png/r56_make_circle.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 27364,
+      "sha256": "83d56a434dd3418c53d74a99d48abd29287065cd43332dcc2ac3d2fc36bc6cb7",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-make-circle-revision",
+        "provenance.json#/crop_operations/crop-r56_make_circle-initial",
+        "provenance.json#/crop_operations/raw-crop-make_circle"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-make-circle-revision",
+        "output_id": "exec-af519580-e623-4f5c-919e-c402b578015a",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-af519580-e623-4f5c-919e-c402b578015a.png"
+      },
+      "file": "webp/r56_make_circle.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "83d56a434dd3418c53d74a99d48abd29287065cd43332dcc2ac3d2fc36bc6cb7",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_sunny",
+      "brief": "Cảnh có nắng, hình 1 Weather",
+      "semantic": {
+        "kind": "weather",
+        "weather": "sunny"
+      },
+      "method": "image_gen_edit",
+      "provenance": "Built-in image_gen edit from source crop; repaired upper-right sky and complete sun rays.",
+      "notes": "Revised after individual QA for clipped anatomy/edges.",
+      "uses": [
+        "R56-C1-13",
+        "R56-C3-20",
+        "R56-C4-08",
+        "R56-C5-16",
+        "R56-C5-22"
+      ],
+      "files": {
+        "webp": "webp/r56_sunny.webp",
+        "png": "png/r56_sunny.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 20440,
+      "sha256": "d4a7fd1257844ec1ef48ff37084a31ff1343d476aa2da01efb67cacda63a22a3",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/events/event-r56-sunny-revision",
+        "provenance.json#/crop_operations/crop-r56_sunny-initial",
+        "provenance.json#/crop_operations/raw-crop-sunny"
+      ],
+      "generated_output": {
+        "event_id": "event-r56-sunny-revision",
+        "output_id": "exec-2640197e-a667-41a2-b371-aabc7fdc4ba9",
+        "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-2640197e-a667-41a2-b371-aabc7fdc4ba9.png"
+      },
+      "file": "webp/r56_sunny.webp",
+      "creation_method": "image_gen_edit",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "d4a7fd1257844ec1ef48ff37084a31ff1343d476aa2da01efb67cacda63a22a3",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_cloudy",
+      "brief": "Cảnh nhiều mây, hình 2",
+      "semantic": {
+        "kind": "weather",
+        "weather": "cloudy"
+      },
+      "method": "crop_or_edit",
+      "provenance": "CD2_36.png crop (460,200,710,445)",
+      "notes": "",
+      "uses": [
+        "R56-C1-14",
+        "R56-C5-17"
+      ],
+      "files": {
+        "webp": "webp/r56_cloudy.webp",
+        "png": "png/r56_cloudy.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 7258,
+      "sha256": "b17a58a72a31b3fae733bab3531caba77c5bdb9cc2310e686bf99315640b7e1d",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/crop_operations/crop-r56_cloudy-initial"
+      ],
+      "file": "webp/r56_cloudy.webp",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b17a58a72a31b3fae733bab3531caba77c5bdb9cc2310e686bf99315640b7e1d",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_windy",
+      "brief": "Cảnh có gió làm lá/khăn bay, hình 3; không chỉ một đám mây",
+      "semantic": {
+        "kind": "weather",
+        "weather": "windy"
+      },
+      "method": "crop_or_edit",
+      "provenance": "CD2_36.png crop (800,205,1140,415)",
+      "notes": "",
+      "uses": [
+        "R56-C1-15",
+        "R56-C4-13",
+        "R56-C5-18"
+      ],
+      "files": {
+        "webp": "webp/r56_windy.webp",
+        "png": "png/r56_windy.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 10236,
+      "sha256": "b3aa8bdfcbdf92bc036dca422b61496e187f50cb3de0b937795aef4e98ca8be6",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/crop_operations/crop-r56_windy-initial"
+      ],
+      "file": "webp/r56_windy.webp",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b3aa8bdfcbdf92bc036dca422b61496e187f50cb3de0b937795aef4e98ca8be6",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_rainy",
+      "brief": "Cảnh mưa với hạt mưa rõ, hình 4",
+      "semantic": {
+        "kind": "weather",
+        "weather": "rainy"
+      },
+      "method": "crop_or_edit",
+      "provenance": "CD2_36.png crop (70,545,400,720)",
+      "notes": "",
+      "uses": [
+        "R56-C1-16",
+        "R56-C5-19"
+      ],
+      "files": {
+        "webp": "webp/r56_rainy.webp",
+        "png": "png/r56_rainy.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 9336,
+      "sha256": "6b99ac03b177b3a92c1e21c09729c53cb4418d69d53d7e61f6f65f5f3c8952f4",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/crop_operations/crop-r56_rainy-initial"
+      ],
+      "file": "webp/r56_rainy.webp",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "6b99ac03b177b3a92c1e21c09729c53cb4418d69d53d7e61f6f65f5f3c8952f4",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    },
+    {
+      "id": "r56_snowy",
+      "brief": "Cảnh tuyết với bông tuyết/tuyết phủ rõ, hình 5",
+      "semantic": {
+        "kind": "weather",
+        "weather": "snowy"
+      },
+      "method": "crop_or_edit",
+      "provenance": "CD2_36.png crop (800,545,1140,745)",
+      "notes": "",
+      "uses": [
+        "R56-C1-17",
+        "R56-C5-20"
+      ],
+      "files": {
+        "webp": "webp/r56_snowy.webp",
+        "png": "png/r56_snowy.png"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 10178,
+      "sha256": "4e4f2814507a31283389fbcdf1f7f542a6c8c25f053b24b8bfa846b5ad704ffe",
+      "visual_review": "passed_individual_512px_revision_2026-10-10",
+      "provenance_refs": [
+        "provenance.json#/crop_operations/crop-r56_snowy-initial"
+      ],
+      "file": "webp/r56_snowy.webp",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "4e4f2814507a31283389fbcdf1f7f542a6c8c25f053b24b8bfa846b5ad704ffe",
+        "status": "pass",
+        "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+      }
+    }
+  ],
+  "batches": [
+    {
+      "batch_id": "batch-01",
+      "png": "batches/batch-01.png",
+      "json": "batches/batch-01.json",
+      "asset_ids": [
+        "r56_cat_01",
+        "r56_cat_03",
+        "r56_cat_04",
+        "r56_rabbit_01",
+        "r56_rabbit_02",
+        "r56_rabbit_05",
+        "r56_ice_cream",
+        "r56_cake",
+        "r56_bread",
+        "r56_rice"
+      ]
+    },
+    {
+      "batch_id": "batch-02",
+      "png": "batches/batch-02.png",
+      "json": "batches/batch-02.json",
+      "asset_ids": [
+        "r56_skip",
+        "r56_jump",
+        "r56_make_line",
+        "r56_make_circle",
+        "r56_sunny",
+        "r56_cloudy",
+        "r56_windy",
+        "r56_rainy",
+        "r56_snowy"
+      ]
+    }
+  ],
+  "question_counts": {
+    "total": 88,
+    "image_required": 56,
+    "no_static_image_required": 32,
+    "mapped": 88,
+    "needs_context": 0
+  },
+  "deduplication": {
+    "exact_duplicate_sha256_groups": [],
+    "policy": "same semantic ID reused across all listed questions; no extra ID created for repeated uses"
+  },
+  "checks": {
+    "all_webp_present": true,
+    "all_dimensions_512x512": true,
+    "all_under_60kb": true,
+    "source_locators_match": true,
+    "visual_review_each_webp": true,
+    "answer_labels_in_cards": false,
+    "source_locator_misses": []
+  },
+  "revision_notes": "Revised 11 cards after second-pass visual QA: widened/reconstructed clipped cats, rabbits, food edges, action anatomy and sunny sky.",
+  "provenance_file": "provenance.json",
+  "provenance_notes": "See provenance.json for exact image_gen prompts/args/results and master/crop operations; generated_output links every final image_gen card to its output ID. make_circle is an action adaptation with no source-count claim.",
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

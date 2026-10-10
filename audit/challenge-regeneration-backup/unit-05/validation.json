@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "unit": 5,
+  "required_ids_total": 20,
+  "required_ids_present": 20,
+  "missing_ids": [],
+  "conditional_ids": [],
+  "all_dimensions_512": true,
+  "all_webp": true,
+  "all_under_60kb": true,
+  "visual_review_complete": true,
+  "visual_review_method": "Inspected all 20 final WebPs after cow, duck, peach, dog-footer repairs; affected cards inspected individually and review sheets regenerated.",
+  "duplicate_hashes": {},
+  "duplicate_hash_check": "no duplicate pixel hashes among distinct asset IDs",
+  "visual_occurrence_total": 66,
+  "visual_occurrence_mapped": 66,
+  "visual_occurrence_unmapped": [],
+  "sections_total": 26,
+  "sections_accounted_for": 26,
+  "needs_context_count": 0,
+  "open_context": [],
+  "audio_created": false,
+  "webp_checks": [
+    {
+      "id": "u05_dog_01",
+      "file": "webp/u05_dog_01.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 6114,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "e7cfa47a9a2e0cce910bd77e7fb6abfe7f48f014e429ebf33c0a9ba118fd1e79",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_dog_02",
+      "file": "webp/u05_dog_02.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 6402,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "be87ad19d9ec478c8f258772e5bec7b2ad5747d6428e10a8078a17f8809e9de3",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_cat_01",
+      "file": "webp/u05_cat_01.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 6082,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "9d8f96ca49a16a5d041d9d37f122f87c430c2b73502348ac520838b58a4cf350",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_cat_02",
+      "file": "webp/u05_cat_02.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 7708,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "7820d0dfa90161bd011b35457a38388e6a6ee8304404e7a5c425b03f03269500",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_bird_01",
+      "file": "webp/u05_bird_01.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 5540,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "9bbcd8a0b60ee38e6521e71011046913082c5c83ace1cbfe0edd78c6e44706ca",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_bird_02",
+      "file": "webp/u05_bird_02.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 6388,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "04f4f87cc22e6e45290c32f4d95950d216778f5f54206a78882e6fa34130afc7",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_bird_03",
+      "file": "webp/u05_bird_03.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 5916,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "f90f94e44798467192f355cb0256ec89d98b3387f457451a34ca5b0dce2b1d14",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_cow_01",
+      "file": "webp/u05_cow_01.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 24612,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "0c329894c2567973680325d6d0df0abaa601ddf3ebc6cba26e23f66322e5372a",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_cow_02",
+      "file": "webp/u05_cow_02.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 20524,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "800c111e5e4625f403efb673135567578de614886c1d3bbb0db4eab4f9a72b2f",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_cow_08",
+      "file": "webp/u05_cow_08.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 30168,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "854681d76b52e66d1861c01fac83403a2b1fb6a1ba4e551b0149825e7cdcef2f",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_rabbit_01",
+      "file": "webp/u05_rabbit_01.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 13334,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "c2f2d3f3e76b5bd85e5b9308a476cd279a979948da5b09be87351bf5073a7329",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_rabbit_02",
+      "file": "webp/u05_rabbit_02.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 10464,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "603034e5b402f45b7b01f993cbcda79722c2af5b57dedfde7dd859219c5146fe",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_duck_01",
+      "file": "webp/u05_duck_01.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 18530,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "85a8569d89fbb17c380287acebc3ca221e269395963c53f2f6b1ae4ba48d5c4a",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_duck_02",
+      "file": "webp/u05_duck_02.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 16574,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "40d3d56ee2bab6408f6056bffb4c4d509d2f405671c0b66e957d3bb81a352ebb",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_duck_03",
+      "file": "webp/u05_duck_03.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 14412,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "ece02a08ad5e3aeb802c11d83a34596708abe7af7947ba2e75b115a553735c5a",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_car_08",
+      "file": "webp/u05_car_08.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 11852,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "f805339d3084034933dfcd2e56f57a6215f44dee81b49319bf58e8b8262654b7",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_moon",
+      "file": "webp/u05_moon.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 6304,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "aae98d78608c245b8ad1db67a49faa4f838c2e6ddf115b668c91ea8e68df5417",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_nest",
+      "file": "webp/u05_nest.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 14966,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "4696fe0fe7d8feb632c5d2bb6a502655ed2b0dcbe1896aa414da56daf2e840fd",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_octopus",
+      "file": "webp/u05_octopus.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 7520,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "56d3aa5391ddb8684a1a3898b86605fcf48d0100ef3599de0522b39779c230b9",
+      "webp_method": 6,
+      "quality": 80
+    },
+    {
+      "id": "u05_peach",
+      "file": "webp/u05_peach.webp",
+      "exists": true,
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 12060,
+      "under_60kb": true,
+      "visual_review": true,
+      "hash": "af66e813aa48e66565b48660618146de6a84bbd8e7928f3cded67327c81bd13e",
+      "webp_method": 6,
+      "quality": 80
+    }
+  ],
+  "adaptations_applied_count": 10,
+  "adaptation_status": "all authorized/source-supported adaptations applied; no unresolved context",
+  "question_map_total": 143,
+  "question_map_no_static_image": 70,
+  "question_map_mapped_assets": 73,
+  "question_map_adapted_assets": 10,
+  "debug_files": "references/debug (moved from pages/png; canonical CD2_*.png untouched)",
+  "imagegen_repairs": [
+    {
+      "asset_ids": [
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ],
+      "tool": "image_gen.imagegen",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-7803753a-c3d2-4a6b-8e9e-440928613eeb.png",
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon rabbit with pink inner ears, a small pink nose, and a warm light-brown patch on its back, sitting on a simple small tree stump. Match the supplied Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, soft shading, cheerful colors, white or very pale background, whole rabbit fully visible including ears, paws, body, and tail, centered with generous safe margins. No other animals, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges."
+    },
+    {
+      "asset_ids": [
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_cow_08"
+      ],
+      "tool": "image_gen.imagegen",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border."
+    },
+    {
+      "asset_ids": [
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_duck_03"
+      ],
+      "tool": "image_gen.imagegen",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border."
+    },
+    {
+      "asset_ids": [
+        "u05_peach"
+      ],
+      "tool": "image_gen.imagegen",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-05c426bc-3fb6-4775-8d54-43086cb6353c.png",
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one whole rounded orange peach with a small green leaf and short brown stem, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, soft shading, simple white or very pale background. Show the complete fruit centered with generous safe margins: smooth fully rounded left and right contour, complete bottom, leaf and stem fully visible, no flat cut edge and no part touching the frame. No other fruit, no partial objects, no watermark, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border."
+    }
+  ],
+  "root_final_audit": {
+    "card_count": 20,
+    "all_individual_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 30168,
+    "over_60kb": [],
+    "unique_hashes": 20,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

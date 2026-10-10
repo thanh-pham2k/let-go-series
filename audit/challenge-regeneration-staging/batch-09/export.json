@@ -1,0 +1,322 @@
+{
+  "batch": 9,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u06_dislikes_fish",
+      "crop_box": [
+        0,
+        0,
+        375,
+        378
+      ],
+      "original_cell_size": [
+        375,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 24658,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_dislikes_fish.webp",
+      "sha256": "bc4e913bc8d919d1923f71122ae5eb011826d77b56febed8791b58205628bed2"
+    },
+    {
+      "id": "u07_head",
+      "crop_box": [
+        375,
+        0,
+        724,
+        378
+      ],
+      "original_cell_size": [
+        349,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18992,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_head.webp",
+      "sha256": "62349b524801ae30dc734e53da298a684a128b53bfe10078740bdc83497338af"
+    },
+    {
+      "id": "u07_shoulders",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        378
+      ],
+      "original_cell_size": [
+        362,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18010,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_shoulders.webp",
+      "sha256": "cd02415f8004eda0b72c125a48d99f32a8382e63ef407ea07e3c2a88d707b488"
+    },
+    {
+      "id": "u07_knees",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        378
+      ],
+      "original_cell_size": [
+        362,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15906,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_knees.webp",
+      "sha256": "4bbf506c585fa06392916b0f4cc3b0c2e9a757c70edfdc96d7fdaf6ec40c48f4"
+    },
+    {
+      "id": "u07_toes",
+      "crop_box": [
+        0,
+        378,
+        362,
+        708
+      ],
+      "original_cell_size": [
+        362,
+        330
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17504,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_toes.webp",
+      "sha256": "6d731b6695176d6a39dd70ca57c1fcc7f62a6d62e12a0845443efd5197c9ef5d"
+    },
+    {
+      "id": "u07_eyes",
+      "crop_box": [
+        362,
+        378,
+        724,
+        708
+      ],
+      "original_cell_size": [
+        362,
+        330
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18496,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_eyes.webp",
+      "sha256": "694256c13c62e31a1d50f23502826cf8c03ca87e99d28754c70748d86ac7c82e"
+    },
+    {
+      "id": "u07_ears",
+      "crop_box": [
+        724,
+        378,
+        1086,
+        708
+      ],
+      "original_cell_size": [
+        362,
+        330
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17718,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_ears.webp",
+      "sha256": "46e9ea4c98259aeb44bb274e7ea94b39a1fdd4d85b844b2994821bc26e81602c"
+    },
+    {
+      "id": "u07_mouth",
+      "crop_box": [
+        1086,
+        378,
+        1448,
+        708
+      ],
+      "original_cell_size": [
+        362,
+        330
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17492,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_mouth.webp",
+      "sha256": "61e02094d93f55dfa5c786d4e15970cdfff82c0c7d1cc4f01b360330945214ad"
+    },
+    {
+      "id": "u07_nose",
+      "crop_box": [
+        0,
+        708,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16450,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_nose.webp",
+      "sha256": "5b343a5f9ecda4c09370d60cbae6a0df24c6540466ec71ecd936685bdd003c52"
+    },
+    {
+      "id": "u07_touch_head",
+      "crop_box": [
+        362,
+        708,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15430,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_head.webp",
+      "sha256": "0a415c7221f08e174ca4eef8bb76343bba2890e62b998f5d659a81021edae243"
+    },
+    {
+      "id": "u07_touch_nose",
+      "crop_box": [
+        724,
+        708,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16292,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_nose.webp",
+      "sha256": "4bac063ab2635a6086fbba5a3697420427034be3a84b6d0cc3868cbbe1a9a4fa"
+    },
+    {
+      "id": "u07_touch_eyes",
+      "crop_box": [
+        1086,
+        708,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        378
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18316,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_eyes.webp",
+      "sha256": "5e5401e05e29466d9b637e978ca5b5471844918e8d5926211cbd6c9b266013e8"
+    }
+  ],
+  "status": "visual_review_pass"
+}

@@ -270,10 +270,10 @@ Bé thực hiện đúng.
 
 1. How ________ are you?
 2. I ________ ice cream.
-3. I like ________.
-4. Do you like ________?
-5. Do you like ________?
-6. I like ________.
+3. I like ________.  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_cake.webp)
+4. Do you like ________?  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_milk.webp)
+5. Do you like ________?  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_fish.webp)
+6. I like ________.  ![Hình gợi ý](Unit%206%20-%20Food%20-%20Lesson%20Pages/challenge-assets/webp/u06_ice_cream.webp)
 
 ## 3. Chọn số → hoàn thành câu
 

@@ -1,0 +1,102 @@
+{
+  "batch": 10,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_52.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_53.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      362,
+      355
+    ],
+    [
+      362,
+      0,
+      724,
+      355
+    ],
+    [
+      724,
+      0,
+      1086,
+      355
+    ],
+    [
+      1086,
+      0,
+      1448,
+      355
+    ],
+    [
+      0,
+      355,
+      362,
+      722
+    ],
+    [
+      362,
+      355,
+      724,
+      722
+    ],
+    [
+      724,
+      355,
+      1086,
+      722
+    ],
+    [
+      1086,
+      355,
+      1448,
+      722
+    ],
+    [
+      0,
+      722,
+      400,
+      1086
+    ],
+    [
+      400,
+      722,
+      690,
+      1086
+    ],
+    [
+      690,
+      722,
+      1100,
+      1086
+    ],
+    [
+      1100,
+      722,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+  },
+  "retry_reason": null
+}

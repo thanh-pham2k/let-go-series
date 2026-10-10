@@ -1,0 +1,730 @@
+{
+  "schema_version": 1,
+  "unit": 4,
+  "topic": "Numbers",
+  "format": {
+    "card_px": 512,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "target_bytes": 61440
+  },
+  "assets": [
+    {
+      "id": "u04_dots_01",
+      "brief": "1 solid black dot",
+      "semantic": {
+        "topic": "numbers",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 1 line 68",
+        "C5 §2 item 1 line 358"
+      ],
+      "file": "webp/u04_dots_01.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 914,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 914,
+      "sha256": "457d50a88e4a878674f12303a48831afdd9488f75bca6e1d156641b69c73b19e",
+      "root_visual_review": {
+        "sha256": "457d50a88e4a878674f12303a48831afdd9488f75bca6e1d156641b69c73b19e",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_dots_02",
+      "brief": "2 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 2
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 2 line 69",
+        "C5 §2 item 2 line 360"
+      ],
+      "file": "webp/u04_dots_02.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 1288,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 1288,
+      "sha256": "b088e41c620d0ddad78bfa5a1f6ee00e042a8a0373101147c17af78d7ad7d319",
+      "root_visual_review": {
+        "sha256": "b088e41c620d0ddad78bfa5a1f6ee00e042a8a0373101147c17af78d7ad7d319",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_dots_03",
+      "brief": "3 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 3
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C3 §1 item 1 line 188",
+        "C5 §2 item 3 line 362"
+      ],
+      "file": "webp/u04_dots_03.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 1632,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 1632,
+      "sha256": "9667c9c7030e6286f6c2b09bf4c1313ff27442b856cf268fcb5dbbf24bfc7887",
+      "root_visual_review": {
+        "sha256": "9667c9c7030e6286f6c2b09bf4c1313ff27442b856cf268fcb5dbbf24bfc7887",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_dots_04",
+      "brief": "4 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 4
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C5 §2 item 4 line 364"
+      ],
+      "file": "webp/u04_dots_04.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 1958,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 1958,
+      "sha256": "71f46e59d2e2e3e6e597ec5d6105942abb02a6e62d49d22322cf1c00510d964b",
+      "root_visual_review": {
+        "sha256": "71f46e59d2e2e3e6e597ec5d6105942abb02a6e62d49d22322cf1c00510d964b",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_dots_05",
+      "brief": "5 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 5
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C5 §2 item 5 line 366"
+      ],
+      "file": "webp/u04_dots_05.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 2318,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 2318,
+      "sha256": "c7eb1cdf9f646b3d9c18a2335c45d9b243c2dfb2a911d06c03265b9a95cf2e9b",
+      "root_visual_review": {
+        "sha256": "c7eb1cdf9f646b3d9c18a2335c45d9b243c2dfb2a911d06c03265b9a95cf2e9b",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_rings_05",
+      "brief": "5 purple double-outline rings",
+      "semantic": {
+        "topic": "numbers",
+        "count": 5
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 5 line 72",
+        "C3 §1 item 3 line 190"
+      ],
+      "file": "webp/u04_rings_05.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 6224,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 6224,
+      "sha256": "2c9f11b8880fab11858fa5082b42c4ab0cf70c6e3b8ef83b0fc7232ef2c5aebf",
+      "root_visual_review": {
+        "sha256": "2c9f11b8880fab11858fa5082b42c4ab0cf70c6e3b8ef83b0fc7232ef2c5aebf",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_triangles_06",
+      "brief": "6 green outline triangles",
+      "semantic": {
+        "topic": "numbers",
+        "count": 6
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 6 line 73",
+        "C3 §1 item 4 line 191",
+        "C5 §2 item 6 line 368"
+      ],
+      "file": "webp/u04_triangles_06.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 3646,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 3646,
+      "sha256": "95b2a84d48ea81b86dd73621ce1982b6a901a9602f74cdbfdc17bc0738e098ee",
+      "root_visual_review": {
+        "sha256": "95b2a84d48ea81b86dd73621ce1982b6a901a9602f74cdbfdc17bc0738e098ee",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_stars_07",
+      "brief": "7 orange outline stars",
+      "semantic": {
+        "topic": "numbers",
+        "count": 7
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 7 line 74",
+        "C3 §1 item 5 line 192",
+        "C5 §2 item 7 line 370"
+      ],
+      "file": "webp/u04_stars_07.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 6476,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 6476,
+      "sha256": "b48d3f1f2c39c7e46101202d4dca0d7e5eef5b49e6de72d5a329c119874d3527",
+      "root_visual_review": {
+        "sha256": "b48d3f1f2c39c7e46101202d4dca0d7e5eef5b49e6de72d5a329c119874d3527",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_circles_08",
+      "brief": "8 red outline circles",
+      "semantic": {
+        "topic": "numbers",
+        "count": 8
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 8 line 75",
+        "C3 §1 item 6 line 193",
+        "C5 §2 item 8 line 372"
+      ],
+      "file": "webp/u04_circles_08.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 7280,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 7280,
+      "sha256": "322f671bf30d626a161ec92bd91b83c599a0e98a1facd9a9352700e469174cab",
+      "root_visual_review": {
+        "sha256": "322f671bf30d626a161ec92bd91b83c599a0e98a1facd9a9352700e469174cab",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_hearts_09",
+      "brief": "9 purple outline hearts",
+      "semantic": {
+        "topic": "numbers",
+        "count": 9
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 9 line 76",
+        "C3 §1 item 7 line 194",
+        "C5 §2 item 9 line 374"
+      ],
+      "file": "webp/u04_hearts_09.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 7122,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 7122,
+      "sha256": "27fd999ac8231c4f327cb75bf172121f8c9eae28252ca78fde47cf7031c55a20",
+      "root_visual_review": {
+        "sha256": "27fd999ac8231c4f327cb75bf172121f8c9eae28252ca78fde47cf7031c55a20",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_squares_10",
+      "brief": "10 blue outline squares",
+      "semantic": {
+        "topic": "numbers",
+        "count": 10
+      },
+      "method": "native_graphic",
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 10 line 77",
+        "C3 §1 item 8 line 195",
+        "C5 §2 item 10 line 376"
+      ],
+      "file": "webp/u04_squares_10.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 2410,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 2410,
+      "sha256": "8879fc3a5494363937354ba0b36855c434c6c558d8db01818032422e985e771a",
+      "root_visual_review": {
+        "sha256": "8879fc3a5494363937354ba0b36855c434c6c558d8db01818032422e985e771a",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_cars_03",
+      "brief": "3 complete cartoon cars",
+      "semantic": {
+        "topic": "numbers",
+        "count": 3
+      },
+      "method": "compose_from_crops",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 3 line 70"
+      ],
+      "file": "webp/u04_cars_03.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 12604,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "compose_from_crops",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 12604,
+      "sha256": "cebe2934e95f9131d27febd7d8b6f8f1488e44f3ad81f79a537a4e5388002957",
+      "root_visual_review": {
+        "sha256": "cebe2934e95f9131d27febd7d8b6f8f1488e44f3ad81f79a537a4e5388002957",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "u04_teddy_bears_04",
+      "brief": "4 complete cartoon teddy bears",
+      "semantic": {
+        "topic": "numbers",
+        "count": 4
+      },
+      "method": "compose_from_crops",
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 4 line 71",
+        "C3 §1 item 2 line 189"
+      ],
+      "file": "webp/u04_teddy_bears_04.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 14688,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "compose_from_crops",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 14688,
+      "sha256": "f47b8f49c51be1f9a4fddf12fccf7e39232562d28b318823d6a79a271b143108",
+      "root_visual_review": {
+        "sha256": "f47b8f49c51be1f9a4fddf12fccf7e39232562d28b318823d6a79a271b143108",
+        "status": "pass",
+        "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+      }
+    },
+    {
+      "id": "u04_cars_07",
+      "brief": "7 complete cartoon cars",
+      "semantic": {
+        "topic": "numbers",
+        "count": 7
+      },
+      "method": "compose_from_generated_source",
+      "references": [
+        "built-in image_gen source references/car-generated.png; CD1_60.png style reference"
+      ],
+      "uses": [
+        "C5 §4 situation 2 lines 400, 406"
+      ],
+      "file": "webp/u04_cars_07.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 18722,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "compose_from_generated_source",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 18722,
+      "sha256": "03be3e15be3a31adb5a9ccb6da1647987763c0f04350f5b634579c427283341f",
+      "root_visual_review": {
+        "sha256": "03be3e15be3a31adb5a9ccb6da1647987763c0f04350f5b634579c427283341f",
+        "status": "pass",
+        "notes": "Individually viewed final compressed WebP by root: semantic/color/count/action and complete target contours checked; no answer labels."
+      }
+    },
+    {
+      "id": "u04_igloo",
+      "brief": "one ice-block igloo",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "method": "crop_or_edit",
+      "references": [
+        "CD1_69.png"
+      ],
+      "uses": [
+        "C1 §4 I i line 91",
+        "C4 §3 I i line 322",
+        "C5 §7 I i line 451"
+      ],
+      "file": "webp/u04_igloo.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 6978,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 6978,
+      "sha256": "2537747b0a8ede71bdeddcf9f562bde56b6359054a93d026694c73ba1ff84f38",
+      "root_visual_review": {
+        "sha256": "2537747b0a8ede71bdeddcf9f562bde56b6359054a93d026694c73ba1ff84f38",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "u04_jump_rope",
+      "brief": "one standalone jump rope with two handles",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "method": "generate_builtin_image_gen",
+      "references": [
+        "built-in image_gen; CD1_69.png style reference"
+      ],
+      "uses": [
+        "C1 §4 J j line 92",
+        "C4 §3 J j line 323",
+        "C5 §7 J j line 452"
+      ],
+      "file": "webp/u04_jump_rope.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 13272,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "generate_builtin_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 13272,
+      "sha256": "9eb48f02837d0f0ea8b5c6e22ba20c2dd49b514f268b8f181735a8a156022ffd",
+      "root_visual_review": {
+        "sha256": "9eb48f02837d0f0ea8b5c6e22ba20c2dd49b514f268b8f181735a8a156022ffd",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "u04_kangaroo",
+      "brief": "one cartoon kangaroo",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "method": "generate_builtin_image_gen",
+      "references": [
+        "built-in image_gen source references/kangaroo-generated.png; CD1_69.png style reference"
+      ],
+      "uses": [
+        "C1 §4 K k line 93",
+        "C4 §3 K k line 324",
+        "C5 §7 K k line 453"
+      ],
+      "file": "webp/u04_kangaroo.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 11620,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "generate_builtin_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 11620,
+      "sha256": "1b5a1e6c036ac2292b17ae920a05d7556eca9a914a34b355ebf97c0b1108a936",
+      "root_visual_review": {
+        "sha256": "1b5a1e6c036ac2292b17ae920a05d7556eca9a914a34b355ebf97c0b1108a936",
+        "status": "pass",
+        "notes": "Individually viewed final compressed WebP by root: semantic/color/count/action and complete target contours checked; no answer labels."
+      }
+    },
+    {
+      "id": "u04_lion",
+      "brief": "one cartoon lion",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "method": "crop_or_edit",
+      "references": [
+        "CD1_69.png"
+      ],
+      "uses": [
+        "C1 §4 L l line 94",
+        "C4 §3 L l line 325",
+        "C5 §7 L l line 454"
+      ],
+      "file": "webp/u04_lion.webp",
+      "width": 512,
+      "height": 512,
+      "bytes": 8964,
+      "quality": 80,
+      "method_webp": 6,
+      "visual_review": true,
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "file_bytes": 8964,
+      "sha256": "25a1c8c14f8b960f411abd07a8a4eb16910188f04f3e98da32663093865e8d14",
+      "root_visual_review": {
+        "sha256": "25a1c8c14f8b960f411abd07a8a4eb16910188f04f3e98da32663093865e8d14",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    }
+  ],
+  "required_ids": [
+    "u04_dots_01",
+    "u04_dots_02",
+    "u04_dots_03",
+    "u04_dots_04",
+    "u04_dots_05",
+    "u04_rings_05",
+    "u04_triangles_06",
+    "u04_stars_07",
+    "u04_circles_08",
+    "u04_hearts_09",
+    "u04_squares_10",
+    "u04_cars_03",
+    "u04_teddy_bears_04",
+    "u04_cars_07",
+    "u04_igloo",
+    "u04_jump_rope",
+    "u04_kangaroo",
+    "u04_lion"
+  ],
+  "conditional_ids": [],
+  "counts": {
+    "required": 18,
+    "complete": 18,
+    "missing": 0,
+    "native_graphic": 11,
+    "compose_from_crops": 2,
+    "compose_from_generated_source": 1,
+    "crop_or_edit": 2,
+    "generated": 3
+  },
+  "duplicate_hashes": {},
+  "visual_review": "All cards reviewed in contact-sheet.jpg and individual source/contact sheets.",
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

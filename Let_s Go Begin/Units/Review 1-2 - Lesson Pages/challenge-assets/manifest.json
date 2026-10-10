@@ -1,0 +1,1091 @@
+{
+  "schema_version": "1.0",
+  "review": "1-2",
+  "purpose": "Challenge 1-5 image assets",
+  "source_markdown": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+  "inventory": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-1-2.inventory.json",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages",
+  "scope": "Only Review 1-2 - Lesson Pages/challenge-assets",
+  "generated_at": "2026-10-10",
+  "assets": [
+    {
+      "id": "r12_car",
+      "brief": "toy car",
+      "file": "webp/r12_car.webp",
+      "webp": "webp/r12_car.webp",
+      "files": [
+        "webp/r12_car.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18022,
+      "sha256": "b7f515475edd86825d2118cc1727aed3c8a1d7e27eec5a6667f1f8246d7ba24d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        380,
+        760,
+        720,
+        1086
+      ],
+      "source_crop_size": [
+        340,
+        326
+      ],
+      "visual_review": {
+        "sha256": "b7f515475edd86825d2118cc1727aed3c8a1d7e27eec5a6667f1f8246d7ba24d",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b7f515475edd86825d2118cc1727aed3c8a1d7e27eec5a6667f1f8246d7ba24d",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          340,
+          326
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_train",
+      "brief": "toy train",
+      "file": "webp/r12_train.webp",
+      "webp": "webp/r12_train.webp",
+      "files": [
+        "webp/r12_train.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 28164,
+      "sha256": "8448938e308819fd589f24a40f813c11f92a4aa200e55090256c6defae9fe7b2",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        720,
+        760,
+        1090,
+        1086
+      ],
+      "source_crop_size": [
+        370,
+        326
+      ],
+      "visual_review": {
+        "sha256": "8448938e308819fd589f24a40f813c11f92a4aa200e55090256c6defae9fe7b2",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "8448938e308819fd589f24a40f813c11f92a4aa200e55090256c6defae9fe7b2",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          370,
+          326
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_bicycle",
+      "brief": "bicycle",
+      "file": "webp/r12_bicycle.webp",
+      "webp": "webp/r12_bicycle.webp",
+      "files": [
+        "webp/r12_bicycle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 24320,
+      "sha256": "5dfd4354c22e04febba79b558859e909e49a8804fa5848c42465588fcdea07e8",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        1090,
+        760,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        358,
+        326
+      ],
+      "visual_review": {
+        "sha256": "5dfd4354c22e04febba79b558859e909e49a8804fa5848c42465588fcdea07e8",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5dfd4354c22e04febba79b558859e909e49a8804fa5848c42465588fcdea07e8",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          358,
+          326
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_ball",
+      "brief": "toy ball",
+      "file": "webp/r12_ball.webp",
+      "webp": "webp/r12_ball.webp",
+      "files": [
+        "webp/r12_ball.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18336,
+      "sha256": "6ad4cadb2825ac5fe8b9852dba4b5caec9504f4a93119e4ed58a288f0ec3d0a0",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "6ad4cadb2825ac5fe8b9852dba4b5caec9504f4a93119e4ed58a288f0ec3d0a0",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "6ad4cadb2825ac5fe8b9852dba4b5caec9504f4a93119e4ed58a288f0ec3d0a0",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_green",
+      "brief": "green color swatch",
+      "file": "webp/r12_green.webp",
+      "webp": "webp/r12_green.webp",
+      "files": [
+        "webp/r12_green.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 35910,
+      "sha256": "d52d3bf3183a5e7a126648556bddf7fd8ba34ecba8790de0aed61156f3bb1027",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "d52d3bf3183a5e7a126648556bddf7fd8ba34ecba8790de0aed61156f3bb1027",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "d52d3bf3183a5e7a126648556bddf7fd8ba34ecba8790de0aed61156f3bb1027",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_red",
+      "brief": "red color swatch",
+      "file": "webp/r12_red.webp",
+      "webp": "webp/r12_red.webp",
+      "files": [
+        "webp/r12_red.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 39850,
+      "sha256": "f2ba40d09159dc7b447ae9a0346900a6c62527648d0bf7492c2c6afa5f3522ed",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "f2ba40d09159dc7b447ae9a0346900a6c62527648d0bf7492c2c6afa5f3522ed",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f2ba40d09159dc7b447ae9a0346900a6c62527648d0bf7492c2c6afa5f3522ed",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_purple",
+      "brief": "purple color swatch",
+      "file": "webp/r12_purple.webp",
+      "webp": "webp/r12_purple.webp",
+      "files": [
+        "webp/r12_purple.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 35954,
+      "sha256": "4213eb0823161a78cb493ece4e8263672c166d0f76a6299440b301cc41ca4b9c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "4213eb0823161a78cb493ece4e8263672c166d0f76a6299440b301cc41ca4b9c",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4213eb0823161a78cb493ece4e8263672c166d0f76a6299440b301cc41ca4b9c",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_yellow",
+      "brief": "yellow color swatch",
+      "file": "webp/r12_yellow.webp",
+      "webp": "webp/r12_yellow.webp",
+      "files": [
+        "webp/r12_yellow.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 24192,
+      "sha256": "c9160b98cbf74e7b0d3bb408f7304888d192f56679fe8a694c24b3782dd5a99a",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "c9160b98cbf74e7b0d3bb408f7304888d192f56679fe8a694c24b3782dd5a99a",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c9160b98cbf74e7b0d3bb408f7304888d192f56679fe8a694c24b3782dd5a99a",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_paper",
+      "brief": "single sheet of paper",
+      "file": "webp/r12_paper.webp",
+      "webp": "webp/r12_paper.webp",
+      "files": [
+        "webp/r12_paper.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5140,
+      "sha256": "82c4f9b74fb6786fedf1e5aea423d2822c758b295b774511ea561d2c40c7e6e6",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "82c4f9b74fb6786fedf1e5aea423d2822c758b295b774511ea561d2c40c7e6e6",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "82c4f9b74fb6786fedf1e5aea423d2822c758b295b774511ea561d2c40c7e6e6",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_scissors",
+      "brief": "school scissors",
+      "file": "webp/r12_scissors.webp",
+      "webp": "webp/r12_scissors.webp",
+      "files": [
+        "webp/r12_scissors.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12288,
+      "sha256": "ea2c014fec07b479a753447144326b70db56804efa9ee275d2cf597392b35746",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "ea2c014fec07b479a753447144326b70db56804efa9ee275d2cf597392b35746",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ea2c014fec07b479a753447144326b70db56804efa9ee275d2cf597392b35746",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_glue",
+      "brief": "pointed glue bottle",
+      "file": "webp/r12_glue.webp",
+      "webp": "webp/r12_glue.webp",
+      "files": [
+        "webp/r12_glue.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 9710,
+      "sha256": "81579d53df8b81b40271c0eebe0a7aecc6e8dd8d57a351253821f4274bc9dc0d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "81579d53df8b81b40271c0eebe0a7aecc6e8dd8d57a351253821f4274bc9dc0d",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "81579d53df8b81b40271c0eebe0a7aecc6e8dd8d57a351253821f4274bc9dc0d",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_paint",
+      "brief": "paint jar and brush",
+      "file": "webp/r12_paint.webp",
+      "webp": "webp/r12_paint.webp",
+      "files": [
+        "webp/r12_paint.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12706,
+      "sha256": "a32c95a037612c32e961a1d4e700795e6208d45519abb0e80817ed1edaf6cf12",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "a32c95a037612c32e961a1d4e700795e6208d45519abb0e80817ed1edaf6cf12",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "a32c95a037612c32e961a1d4e700795e6208d45519abb0e80817ed1edaf6cf12",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_tape",
+      "brief": "green tape dispenser",
+      "file": "webp/r12_tape.webp",
+      "webp": "webp/r12_tape.webp",
+      "files": [
+        "webp/r12_tape.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10386,
+      "sha256": "ef23e05d6f14b54699aac580f0bc254a25cc0c5d319aec035107caf8f3eba9b9",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "ef23e05d6f14b54699aac580f0bc254a25cc0c5d319aec035107caf8f3eba9b9",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ef23e05d6f14b54699aac580f0bc254a25cc0c5d319aec035107caf8f3eba9b9",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_stand_up",
+      "brief": "child standing up beside chair",
+      "file": "webp/r12_stand_up.webp",
+      "webp": "webp/r12_stand_up.webp",
+      "files": [
+        "webp/r12_stand_up.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15030,
+      "sha256": "2fe27d497d943e3256011d871977bf27b0d12ce2d73c31d2e5878a0356d749dc",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        724,
+        680,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "2fe27d497d943e3256011d871977bf27b0d12ce2d73c31d2e5878a0356d749dc",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "2fe27d497d943e3256011d871977bf27b0d12ce2d73c31d2e5878a0356d749dc",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_sit_down",
+      "brief": "child sitting down beside chair",
+      "file": "webp/r12_sit_down.webp",
+      "webp": "webp/r12_sit_down.webp",
+      "files": [
+        "webp/r12_sit_down.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 14732,
+      "sha256": "f644c31d0b83ecb927a26f43a87f0cdb9ea3458ebe0a2fefec4c8318aad5e56d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-12/master.png",
+      "crop_box": [
+        1086,
+        680,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "f644c31d0b83ecb927a26f43a87f0cdb9ea3458ebe0a2fefec4c8318aad5e56d",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f644c31d0b83ecb927a26f43a87f0cdb9ea3458ebe0a2fefec4c8318aad5e56d",
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-12\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 12,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-12/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_come_here",
+      "brief": "child walking toward a teacher who is calling",
+      "file": "webp/r12_come_here.webp",
+      "webp": "webp/r12_come_here.webp",
+      "files": [
+        "webp/r12_come_here.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18280,
+      "sha256": "08fc22f95181e2079eea8235dfa3f0c32a3af5a80c2daa4d1754ab9f02ffcd59",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        0,
+        0,
+        420,
+        360
+      ],
+      "source_crop_size": [
+        420,
+        360
+      ],
+      "visual_review": {
+        "sha256": "08fc22f95181e2079eea8235dfa3f0c32a3af5a80c2daa4d1754ab9f02ffcd59",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "08fc22f95181e2079eea8235dfa3f0c32a3af5a80c2daa4d1754ab9f02ffcd59",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          420,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r12_turn_around",
+      "brief": "child turning around with curved motion cue",
+      "file": "webp/r12_turn_around.webp",
+      "webp": "webp/r12_turn_around.webp",
+      "files": [
+        "webp/r12_turn_around.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13510,
+      "sha256": "76fa2f50b5e39ce21779a69e5b1aba01d79653d8c8450b4922bdc886acd87e09",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        420,
+        0,
+        724,
+        360
+      ],
+      "source_crop_size": [
+        304,
+        360
+      ],
+      "visual_review": {
+        "sha256": "76fa2f50b5e39ce21779a69e5b1aba01d79653d8c8450b4922bdc886acd87e09",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "76fa2f50b5e39ce21779a69e5b1aba01d79653d8c8450b4922bdc886acd87e09",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+        ],
+        "resized_from": [
+          304,
+          360
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "batches": [
+    {
+      "id": "batch-01-toys-colors",
+      "file": "batches/batch-01-toys-colors.png",
+      "webp": "batches/batch-01-toys-colors.webp",
+      "ids": [
+        "r12_car",
+        "r12_train",
+        "r12_bicycle",
+        "r12_ball",
+        "r12_green",
+        "r12_red",
+        "r12_purple",
+        "r12_yellow"
+      ],
+      "layout": "4x2"
+    },
+    {
+      "id": "batch-02-supplies-actions",
+      "file": "batches/batch-02-supplies-actions.png",
+      "webp": "batches/batch-02-supplies-actions.webp",
+      "ids": [
+        "r12_paper",
+        "r12_scissors",
+        "r12_glue",
+        "r12_paint",
+        "r12_tape",
+        "r12_stand_up",
+        "r12_sit_down",
+        "r12_come_here",
+        "r12_turn_around"
+      ],
+      "layout": "4x3 with 9 occupied cells"
+    }
+  ],
+  "question_count": 83,
+  "required_question_count": 51,
+  "source_question_ids_match_inventory": true,
+  "notes": [
+    "All 17 required assets are represented once; repeated questions reuse these IDs.",
+    "Crops preserve come here in 6a and keep toy/color pairs as separate visual assets.",
+    "No audio or lesson source files were changed."
+  ],
+  "production_summary": {
+    "crop_count": 8,
+    "edited_with_built_in_imagegen": 9,
+    "native_graphic_count": 0,
+    "composite_count": 0,
+    "new_ai_generation_count": 0,
+    "context_open": [],
+    "missing_required_assets": []
+  },
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\review-1-2\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

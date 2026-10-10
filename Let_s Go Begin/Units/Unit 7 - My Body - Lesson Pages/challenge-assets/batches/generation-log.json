@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "unit": 7,
+  "entries": [
+    {
+      "id": "repair_9card_batch",
+      "tool": "built-in image_gen",
+      "intent": "generate/edit repair batch",
+      "prompt": "Edit and regenerate one clean 3-column by 3-row contact sheet of nine independent square educational illustration cards, matching the supplied Let’s Go Begin Unit 7 references: bright children’s textbook cartoon, clean bold dark outlines, soft shading, friendly children, light uncluttered backgrounds, no words, no labels, no answer choices, no speech bubbles, no page titles, no CD numbers, no watermarks. Use straight white gutters and safe outer margins; leave no panel cropped at the outer edges. Each panel must contain only the specified complete subject/action.\n\nRow 1:\n1. u07_head: a complete close-up of one child’s entire head and neck, fully visible left and right edges, clear hair, face, and both ears; a simple clean arrow or soft ring may point to the head, but no text.\n2. u07_touch_head: one child’s upper body, both arms and both hands fully visible and clearly resting on top of the child’s own head; the contact between both hands and the hair must be unmistakable; do not crop the hands, arms, or head.\n3. u07_touch_nose: one child’s upper body, one index finger clearly touching the child’s nose bridge/tip; the finger must be on the nose, never on the lips, cheek, or mouth; show the complete hand and face.\nRow 2:\n4. u07_touch_eyes: one child’s upper body, two fingertips gently touching the outer corners beside both eyes; both eyes and both hands fully visible; do not poke or cover the eyeballs; no neighboring child.\n5. u07_ears: a complete child head in a slight three-quarter/front view with BOTH ears clearly visible as a pair; point subtly to both ears if needed, but no text.\n6. u07_umbrella: one complete colorful beach umbrella including the top tip, full canopy, pole, and left/right canopy edges; no letters or labels.\nRow 3:\n7. u07_violin: one complete violin with its complete bow, all body edges and the bow fully inside the panel; no clipping, no words.\n8. u07_watch: one complete wristwatch with the entire strap visible on both sides and the watch face; no clipping, no words or labels.\n9. u07_mouth: a clean close-up of one child’s face with the mouth clearly visible and unobstructed; remove all stray marks above the hair and all text/number remnants; no answer hint.\n\nKeep the nine panels visually coherent but do not add any extra objects, children, cropped neighbors, or decorative text. This is a source image for later cropping into individual 512x512 WebP cards.",
+      "referenced_image_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+      ],
+      "transparent_background": false,
+      "result_path": "batches/u07-regenerated-9card.png",
+      "result_dimensions": [1254, 1254],
+      "crop_boxes_pixels": {
+        "u07_touch_head": [428, 15, 825, 408],
+        "u07_touch_nose": [841, 15, 1238, 408],
+        "u07_touch_eyes": [15, 422, 412, 815],
+        "u07_ears": [428, 422, 825, 815],
+        "u07_umbrella": [841, 422, 1238, 815],
+        "u07_violin": [15, 829, 412, 1238],
+        "u07_watch": [428, 829, 825, 1238]
+      },
+      "note": "u07_head was restored to the original CD2_42 crop after QA because the generated panel omitted the required head arrow; u07_mouth and u07_nose were subsequently replaced by targeted single-subject calls below."
+    },
+    {
+      "id": "u07_nose",
+      "tool": "built-in image_gen",
+      "intent": "targeted single-subject repair",
+      "prompt": "Create one clean square educational illustration card matching the supplied Let’s Go Begin Unit 7 textbook references: bright children’s cartoon, clean bold dark outlines, soft shading, friendly child, light uncluttered background. Show a complete child face and upper shoulders with one index finger clearly touching the center of the nose bridge/tip. Add one simple black arrow or soft highlight ring that points precisely to the nose, with no ambiguity with the cheek or mouth. Keep the full face and hand visible. Remove all speech bubbles, letters, words, numbers, page labels, watermarks, and unrelated objects. No cropped neighboring child. The card is for the vocabulary word “nose”; do not print the word.",
+      "referenced_image_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+      ],
+      "transparent_background": false,
+      "result_path": "batches/u07_nose-regenerated.png",
+      "result_dimensions": [1254, 1254]
+    },
+    {
+      "id": "u07_mouth",
+      "tool": "built-in image_gen",
+      "intent": "targeted single-subject repair",
+      "prompt": "Create one clean square educational illustration card matching the supplied Let’s Go Begin Unit 7 textbook references: bright children’s cartoon, clean bold dark outlines, soft shading, friendly child, light uncluttered background. Show a complete child face and upper shoulders with the mouth clearly visible and unobstructed. Add one simple black arrow or soft highlight ring pointing precisely to the mouth, so this card is unmistakably the body-part word “mouth” and cannot be confused with head, eyes, nose, or ears. Keep the full face visible. Remove all speech bubbles, letters, words, numbers, page labels, stray marks above the hair, watermarks, and unrelated objects. No cropped neighboring child. Do not print the word.",
+      "referenced_image_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+      ],
+      "transparent_background": false,
+      "result_path": "batches/u07_mouth-regenerated.png",
+      "result_dimensions": [1254, 1254]
+    }
+  ]
+}

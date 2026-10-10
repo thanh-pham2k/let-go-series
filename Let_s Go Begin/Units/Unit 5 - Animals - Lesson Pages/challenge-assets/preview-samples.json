@@ -1,0 +1,101 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 63",
+      "challenge": 1,
+      "line": 63,
+      "raw": "🐶",
+      "ids": [
+        "u05_dog_01"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "cat",
+        "dog",
+        "bird",
+        "rabbit"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 203",
+      "challenge": 2,
+      "line": 203,
+      "raw": "- [ ] 🐶",
+      "ids": [
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_cat_02"
+      ],
+      "needs_context": false,
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn hình/câu trả lời phù hợp.",
+      "options": [
+        "Hình A",
+        "Hình B",
+        "Hình C"
+      ],
+      "teacher_audio": "Người lớn đọc **dogs**."
+    },
+    {
+      "id": "C3 · dòng 273",
+      "challenge": 3,
+      "line": 273,
+      "raw": "1. d _ g *(dog)* 🐶",
+      "ids": [
+        "u05_dog_01"
+      ],
+      "needs_context": false,
+      "prompt": "d _ g",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C4 · dòng 424",
+      "challenge": 4,
+      "line": 424,
+      "raw": "- m o _ n *(moon)* 🌙",
+      "ids": [
+        "u05_moon"
+      ],
+      "needs_context": false,
+      "prompt": "- m o _ n",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 444",
+      "challenge": 5,
+      "line": 444,
+      "raw": "🐶🐶",
+      "ids": [
+        "u05_dog_02"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "dog",
+        "dogs",
+        "cats",
+        "birds"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 470",
+      "challenge": 5,
+      "line": 470,
+      "raw": "🐶 → ____________________",
+      "ids": [
+        "u05_dog_01"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ____________________",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 20,
+  "debug_labels_hidden_by_default": true
+}

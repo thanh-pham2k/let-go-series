@@ -1,0 +1,115 @@
+{
+  "required": 27,
+  "complete": true,
+  "missing": [],
+  "conditional": [],
+  "questions": 96,
+  "mapped_visual_questions": 61,
+  "unresolved_context": [],
+  "all_dimensions_512": true,
+  "unique_hashes": 27,
+  "over_60kb": [],
+  "min_bytes": 904,
+  "max_bytes": 22372,
+  "total_bytes": 202320,
+  "visual_reviewed_ids": [
+    "r34_circle",
+    "r34_square",
+    "r34_star",
+    "r34_heart",
+    "r34_triangle",
+    "r34_diamond",
+    "r34_oval",
+    "r34_walk",
+    "r34_run",
+    "r34_go",
+    "r34_stop",
+    "r34_take_out_pencil",
+    "r34_put_away_pencil",
+    "r34_open_book",
+    "r34_close_book",
+    "r34_triangles_02",
+    "r34_triangles_03",
+    "r34_triangles_04",
+    "r34_triangles_05",
+    "r34_triangles_06",
+    "r34_triangles_07",
+    "r34_diamonds_04",
+    "r34_diamonds_05",
+    "r34_diamonds_06",
+    "r34_diamonds_07",
+    "r34_circles_05",
+    "r34_ovals_07"
+  ],
+  "methods": {
+    "crop": 8,
+    "native_graphic": 19,
+    "imagegen": 0
+  },
+  "mapping_links_exist": true,
+  "asset_count": 27,
+  "webp_count": 27,
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "r34_circle": 4394,
+      "r34_square": 1112,
+      "r34_star": 9428,
+      "r34_heart": 8514,
+      "r34_triangle": 9174,
+      "r34_diamond": 7414,
+      "r34_oval": 6974,
+      "r34_walk": 13488,
+      "r34_run": 15948,
+      "r34_go": 18564,
+      "r34_stop": 21594,
+      "r34_take_out_pencil": 26528,
+      "r34_put_away_pencil": 19408,
+      "r34_open_book": 20336,
+      "r34_close_book": 19060,
+      "r34_triangles_02": 5160,
+      "r34_triangles_03": 5014,
+      "r34_triangles_04": 8024,
+      "r34_triangles_05": 7806,
+      "r34_triangles_06": 8632,
+      "r34_triangles_07": 10676,
+      "r34_diamonds_04": 10774,
+      "r34_diamonds_05": 11164,
+      "r34_diamonds_06": 12276,
+      "r34_diamonds_07": 12728,
+      "r34_circles_05": 10834,
+      "r34_ovals_07": 11630
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 27
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 27,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 26528,
+    "over_60kb": [],
+    "unique_hashes": 27,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

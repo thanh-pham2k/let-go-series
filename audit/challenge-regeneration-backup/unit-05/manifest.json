@@ -1,0 +1,2443 @@
+{
+  "schema_version": 1,
+  "unit": 5,
+  "topic": "Animals",
+  "scope": "Challenge 1–5 only",
+  "source": "../Unit 5 - Animals(2).md",
+  "inventory": "../../../../parallel-prompts/challenge-images/unit-05.inventory.json",
+  "assets": [
+    {
+      "id": "u05_dog_01",
+      "file": "webp/u05_dog_01.webp",
+      "semantic": {
+        "subject": "dog",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "crop_footer_trim",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        70,
+        220,
+        430,
+        500
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 6114,
+      "sha256": "e7cfa47a9a2e0cce910bd77e7fb6abfe7f48f014e429ebf33c0a9ba118fd1e79",
+      "visual_review": "individually rechecked after footer trim; complete dog and platform visible; no black caption ink, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.1",
+          "line": 63,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 110,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 203,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 273,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 470,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.1",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-110",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-203",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-273",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-470",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_footer_trim",
+      "clean_master_reference": "references/dog_trimmed_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/dog_trimmed_master.png",
+        "render": "trimmed empty footer below yellow platform, then PIL card composition and WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "e7cfa47a9a2e0cce910bd77e7fb6abfe7f48f014e429ebf33c0a9ba118fd1e79",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_dog_02",
+      "file": "webp/u05_dog_02.webp",
+      "semantic": {
+        "subject": "dog",
+        "count": 2,
+        "state": "plain"
+      },
+      "creation": "crop_footer_trim_then_compose",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        70,
+        220,
+        430,
+        500
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 6402,
+      "sha256": "be87ad19d9ec478c8f258772e5bec7b2ad5747d6428e10a8078a17f8809e9de3",
+      "visual_review": "individually rechecked after footer trim; complete dog and platform visible; no black caption ink, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 111,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 204,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 444,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 472,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-111",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-204",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-444",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-472",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_footer_trim_then_compose",
+      "clean_master_reference": "references/dog_trimmed_master.png",
+      "master_asset": "dog_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/dog_trimmed_master.png",
+        "render": "trimmed empty footer below yellow platform, then PIL card composition and WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "be87ad19d9ec478c8f258772e5bec7b2ad5747d6428e10a8078a17f8809e9de3",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_cat_01",
+      "file": "webp/u05_cat_01.webp",
+      "semantic": {
+        "subject": "cat",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "crop_from_lesson_reference",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        70,
+        560,
+        485,
+        800
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 6082,
+      "sha256": "9d8f96ca49a16a5d041d9d37f122f87c430c2b73502348ac520838b58a4cf350",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.2",
+          "line": 70,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 112,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 209,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 274,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 450,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 474,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.2",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-112",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-209",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-274",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-450",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-474",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_from_lesson_reference",
+      "clean_master_reference": "references/cat_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/cat_clean_master.png",
+        "crop_box_px": [
+          70,
+          560,
+          485,
+          800
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "9d8f96ca49a16a5d041d9d37f122f87c430c2b73502348ac520838b58a4cf350",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_cat_02",
+      "file": "webp/u05_cat_02.webp",
+      "semantic": {
+        "subject": "cat",
+        "count": 2,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        70,
+        560,
+        485,
+        800
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 7708,
+      "sha256": "7820d0dfa90161bd011b35457a38388e6a6ee8304404e7a5c425b03f03269500",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 113,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 205,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 210,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 476,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-113",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-205",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-210",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-476",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.2",
+          "adaptation_applied": true
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/cat_clean_master.png",
+      "master_asset": "cat_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/cat_clean_master.png",
+        "crop_box_px": [
+          70,
+          560,
+          485,
+          800
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "7820d0dfa90161bd011b35457a38388e6a6ee8304404e7a5c425b03f03269500",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_bird_01",
+      "file": "webp/u05_bird_01.webp",
+      "semantic": {
+        "subject": "bird",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "crop_from_lesson_reference",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        35,
+        850,
+        500,
+        1110
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 5540,
+      "sha256": "9bbcd8a0b60ee38e6521e71011046913082c5c83ace1cbfe0edd78c6e44706ca",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.3",
+          "line": 77,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 114,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 215,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 275,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 478,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.3",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-114",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-215",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-275",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-478",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_from_lesson_reference",
+      "clean_master_reference": "references/bird_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/bird_clean_master.png",
+        "crop_box_px": [
+          35,
+          850,
+          500,
+          1110
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "9bbcd8a0b60ee38e6521e71011046913082c5c83ace1cbfe0edd78c6e44706ca",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_bird_02",
+      "file": "webp/u05_bird_02.webp",
+      "semantic": {
+        "subject": "bird",
+        "count": 2,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        35,
+        850,
+        500,
+        1110
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 6388,
+      "sha256": "04f4f87cc22e6e45290c32f4d95950d216778f5f54206a78882e6fa34130afc7",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 480,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-480",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/bird_clean_master.png",
+      "master_asset": "bird_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/bird_clean_master.png",
+        "crop_box_px": [
+          35,
+          850,
+          500,
+          1110
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "04f4f87cc22e6e45290c32f4d95950d216778f5f54206a78882e6fa34130afc7",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_bird_03",
+      "file": "webp/u05_bird_03.webp",
+      "semantic": {
+        "subject": "bird",
+        "count": 3,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "pages/png/CD2_07.png",
+      "source_crop_box_px": [
+        35,
+        850,
+        500,
+        1110
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 5916,
+      "sha256": "f90f94e44798467192f355cb0256ec89d98b3387f457451a34ca5b0dce2b1d14",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 115,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 216,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 456,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-115",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-216",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-456",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/bird_clean_master.png",
+      "master_asset": "bird_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_07.png",
+        "clean_master_reference": "references/bird_clean_master.png",
+        "crop_box_px": [
+          35,
+          850,
+          500,
+          1110
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "f90f94e44798467192f355cb0256ec89d98b3387f457451a34ca5b0dce2b1d14",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_cow_01",
+      "file": "webp/u05_cow_01.webp",
+      "semantic": {
+        "subject": "cow",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "built_in_image_gen",
+      "source_reference": "references/cow_generated_master.png",
+      "source_crop_box_px": [
+        0,
+        245,
+        145,
+        415
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 24612,
+      "sha256": "0c329894c2567973680325d6d0df0abaa601ddf3ebc6cba26e23f66322e5372a",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.4",
+          "line": 84,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 116,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 276,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 482,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.4",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-116",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-276",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-482",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "built_in_image_gen",
+      "clean_master_reference": "references/cow_generated_master.png",
+      "provenance": {
+        "source_reference": "references/cow_generated_master.png",
+        "clean_master_reference": "references/cow_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+        "result": "clean whole cow master used for singleton and 4x2 count groups",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "0c329894c2567973680325d6d0df0abaa601ddf3ebc6cba26e23f66322e5372a",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_cow_02",
+      "file": "webp/u05_cow_02.webp",
+      "semantic": {
+        "subject": "cow",
+        "count": 2,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "references/cow_generated_master.png",
+      "source_crop_box_px": [
+        0,
+        245,
+        145,
+        415
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 20524,
+      "sha256": "800c111e5e4625f403efb673135567578de614886c1d3bbb0db4eab4f9a72b2f",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 117,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 223,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 484,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-117",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-223",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-484",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/cow_generated_master.png",
+      "master_asset": "cow_generated_master.png",
+      "provenance": {
+        "source_reference": "references/cow_generated_master.png",
+        "clean_master_reference": "references/cow_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+        "result": "clean whole cow master used for singleton and 4x2 count groups",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "800c111e5e4625f403efb673135567578de614886c1d3bbb0db4eab4f9a72b2f",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_cow_08",
+      "file": "webp/u05_cow_08.webp",
+      "semantic": {
+        "subject": "cow",
+        "count": 8,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "references/cow_generated_master.png",
+      "source_crop_box_px": [
+        0,
+        245,
+        145,
+        415
+      ],
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 30168,
+      "sha256": "854681d76b52e66d1861c01fac83403a2b1fb6a1ba4e551b0149825e7cdcef2f",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "",
+          "line": 501,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.3",
+          "line": 343,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "line-501",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "3. Chọn từ → điền vào chỗ trống",
+          "item": "3.3.4",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.3",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.4",
+          "adaptation_applied": true
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/cow_generated_master.png",
+      "master_asset": "cow_generated_master.png",
+      "provenance": {
+        "source_reference": "references/cow_generated_master.png",
+        "clean_master_reference": "references/cow_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+        "result": "clean whole cow master used for singleton and 4x2 count groups",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "854681d76b52e66d1861c01fac83403a2b1fb6a1ba4e551b0149825e7cdcef2f",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_rabbit_01",
+      "file": "webp/u05_rabbit_01.webp",
+      "semantic": {
+        "subject": "rabbit",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "built_in_image_gen",
+      "source_reference": "references/rabbit_generated_master.png",
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 13334,
+      "sha256": "c2f2d3f3e76b5bd85e5b9308a476cd279a979948da5b09be87351bf5073a7329",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.5",
+          "line": 91,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 118,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 211,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 221,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 277,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 486,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.5",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-118",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-211",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-221",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-277",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-486",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "clean_master_reference": "references/rabbit_generated_master.png",
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon rabbit with pink inner ears, a small pink nose, and a warm light-brown patch on its back, sitting on a simple small tree stump. Match the supplied Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, soft shading, cheerful colors, white or very pale background, whole rabbit fully visible including ears, paws, body, and tail, centered with generous safe margins. No other animals, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-7803753a-c3d2-4a6b-8e9e-440928613eeb.png",
+        "result": "generated rabbit master used for learner cards",
+        "referenced_images": []
+      },
+      "creation_method": "built_in_image_gen",
+      "master_asset": "rabbit_generated_master.png",
+      "provenance": {
+        "source_reference": "references/rabbit_generated_master.png",
+        "clean_master_reference": "references/rabbit_generated_master.png",
+        "crop_box_px": null,
+        "render": "built-in image_gen master, then PIL card composition and WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "c2f2d3f3e76b5bd85e5b9308a476cd279a979948da5b09be87351bf5073a7329",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      },
+      "master_derivation": "built-in image_gen output copied to references/rabbit_generated_master.png; learner WebP derived from this clean master",
+      "imagegen_log": "references/imagegen-repair-log.json"
+    },
+    {
+      "id": "u05_rabbit_02",
+      "file": "webp/u05_rabbit_02.webp",
+      "semantic": {
+        "subject": "rabbit",
+        "count": 2,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "references/rabbit_generated_master.png",
+      "batch": "batches/batch-01.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 10464,
+      "sha256": "603034e5b402f45b7b01f993cbcda79722c2af5b57dedfde7dd859219c5146fe",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 119,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 222,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 462,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 488,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-119",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-222",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-462",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-488",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "clean_master_reference": "references/rabbit_generated_master.png",
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon rabbit with pink inner ears, a small pink nose, and a warm light-brown patch on its back, sitting on a simple small tree stump. Match the supplied Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, soft shading, cheerful colors, white or very pale background, whole rabbit fully visible including ears, paws, body, and tail, centered with generous safe margins. No other animals, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-7803753a-c3d2-4a6b-8e9e-440928613eeb.png",
+        "result": "generated rabbit master used for learner cards",
+        "referenced_images": []
+      },
+      "creation_method": "compose_from_clean_master",
+      "master_asset": "rabbit_generated_master.png",
+      "provenance": {
+        "source_reference": "references/rabbit_generated_master.png",
+        "clean_master_reference": "references/rabbit_generated_master.png",
+        "crop_box_px": null,
+        "render": "built-in image_gen master, then PIL card composition and WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "603034e5b402f45b7b01f993cbcda79722c2af5b57dedfde7dd859219c5146fe",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      },
+      "master_derivation": "built-in image_gen output copied to references/rabbit_generated_master.png; learner WebP derived from this clean master",
+      "imagegen_log": "references/imagegen-repair-log.json"
+    },
+    {
+      "id": "u05_duck_01",
+      "file": "webp/u05_duck_01.webp",
+      "semantic": {
+        "subject": "duck",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "built_in_image_gen",
+      "source_reference": "references/duck_generated_master.png",
+      "source_crop_box_px": [
+        1040,
+        300,
+        1190,
+        430
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 18530,
+      "sha256": "85a8569d89fbb17c380287acebc3ca221e269395963c53f2f6b1ae4ba48d5c4a",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.6",
+          "line": 98,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 120,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 278,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 490,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.6",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-120",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-278",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-490",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "built_in_image_gen",
+      "clean_master_reference": "references/duck_generated_master.png",
+      "provenance": {
+        "source_reference": "references/duck_generated_master.png",
+        "clean_master_reference": "references/duck_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+        "result": "clean whole duck master used for singleton and count groups",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "85a8569d89fbb17c380287acebc3ca221e269395963c53f2f6b1ae4ba48d5c4a",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_duck_02",
+      "file": "webp/u05_duck_02.webp",
+      "semantic": {
+        "subject": "duck",
+        "count": 2,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "references/duck_generated_master.png",
+      "source_crop_box_px": [
+        1040,
+        300,
+        1190,
+        430
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 16574,
+      "sha256": "40d3d56ee2bab6408f6056bffb4c4d509d2f405671c0b66e957d3bb81a352ebb",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 121,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 217,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 492,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-121",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-217",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-492",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/duck_generated_master.png",
+      "master_asset": "duck_generated_master.png",
+      "provenance": {
+        "source_reference": "references/duck_generated_master.png",
+        "clean_master_reference": "references/duck_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+        "result": "clean whole duck master used for singleton and count groups",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "40d3d56ee2bab6408f6056bffb4c4d509d2f405671c0b66e957d3bb81a352ebb",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_duck_03",
+      "file": "webp/u05_duck_03.webp",
+      "semantic": {
+        "subject": "duck",
+        "count": 3,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "references/duck_generated_master.png",
+      "source_crop_box_px": [
+        1040,
+        300,
+        1190,
+        430
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 14412,
+      "sha256": "ece02a08ad5e3aeb802c11d83a34596708abe7af7947ba2e75b115a553735c5a",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "",
+          "line": 496,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.2",
+          "line": 340,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "line-496",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "3. Chọn từ → điền vào chỗ trống",
+          "item": "3.3.3",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.2",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.3",
+          "adaptation_applied": true
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/duck_generated_master.png",
+      "master_asset": "duck_generated_master.png",
+      "provenance": {
+        "source_reference": "references/duck_generated_master.png",
+        "clean_master_reference": "references/duck_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+        "result": "clean whole duck master used for singleton and count groups",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "ece02a08ad5e3aeb802c11d83a34596708abe7af7947ba2e75b115a553735c5a",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_car_08",
+      "file": "webp/u05_car_08.webp",
+      "semantic": {
+        "subject": "car",
+        "count": 8,
+        "state": "plain"
+      },
+      "creation": "compose_from_clean_master",
+      "source_reference": "pages/png/CD2_19.png",
+      "source_crop_box_px": [
+        495,
+        825,
+        600,
+        905
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 11852,
+      "sha256": "f805339d3084034933dfcd2e56f57a6215f44dee81b49319bf58e8b8262654b7",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "",
+          "line": 506,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.4",
+          "line": 346,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "line-506",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "3. Chọn từ → điền vào chỗ trống",
+          "item": "3.3.5",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.4",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.5",
+          "adaptation_applied": true
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "compose_from_clean_master",
+      "clean_master_reference": "references/car_clean_master.png",
+      "master_asset": "car_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_19.png",
+        "clean_master_reference": "references/car_clean_master.png",
+        "crop_box_px": [
+          495,
+          825,
+          600,
+          905
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "f805339d3084034933dfcd2e56f57a6215f44dee81b49319bf58e8b8262654b7",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_moon",
+      "file": "webp/u05_moon.webp",
+      "semantic": {
+        "subject": "moon",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "crop_from_lesson_reference",
+      "source_reference": "pages/png/CD2_17.png",
+      "source_crop_box_px": [
+        15,
+        260,
+        320,
+        520
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 6304,
+      "sha256": "aae98d78608c245b8ad1db67a49faa4f838c2e6ddf115b668c91ea8e68df5417",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 424,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 549,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-424",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-549",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_from_lesson_reference",
+      "clean_master_reference": "references/moon_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_17.png",
+        "clean_master_reference": "references/moon_clean_master.png",
+        "crop_box_px": [
+          15,
+          260,
+          320,
+          520
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "aae98d78608c245b8ad1db67a49faa4f838c2e6ddf115b668c91ea8e68df5417",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_nest",
+      "file": "webp/u05_nest.webp",
+      "semantic": {
+        "subject": "nest",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "crop_from_lesson_reference",
+      "source_reference": "references/nest_source_card.png",
+      "source_crop_box_px": [
+        100,
+        120,
+        400,
+        420
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 14966,
+      "sha256": "4696fe0fe7d8feb632c5d2bb6a502655ed2b0dcbe1896aa414da56daf2e840fd",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 425,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 550,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-425",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-550",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_from_source_reference",
+      "clean_master_reference": "references/nest_clean_master.png",
+      "provenance": {
+        "source_reference": "references/nest_source_card.png",
+        "clean_master_reference": "references/nest_clean_master.png",
+        "crop_box_px": [
+          100,
+          120,
+          400,
+          420
+        ],
+        "render": "PIL crop then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "4696fe0fe7d8feb632c5d2bb6a502655ed2b0dcbe1896aa414da56daf2e840fd",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_octopus",
+      "file": "webp/u05_octopus.webp",
+      "semantic": {
+        "subject": "octopus",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "crop_from_lesson_reference",
+      "source_reference": "pages/png/CD2_17.png",
+      "source_crop_box_px": [
+        610,
+        215,
+        950,
+        540
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 7520,
+      "sha256": "56d3aa5391ddb8684a1a3898b86605fcf48d0100ef3599de0522b39779c230b9",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 426,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 551,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-426",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-551",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "crop_from_lesson_reference",
+      "clean_master_reference": "references/octopus_clean_master.png",
+      "provenance": {
+        "source_reference": "pages/png/CD2_17.png",
+        "clean_master_reference": "references/octopus_clean_master.png",
+        "crop_box_px": [
+          610,
+          215,
+          950,
+          540
+        ],
+        "render": "PIL crop/compose then WebP export"
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "56d3aa5391ddb8684a1a3898b86605fcf48d0100ef3599de0522b39779c230b9",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    },
+    {
+      "id": "u05_peach",
+      "file": "webp/u05_peach.webp",
+      "semantic": {
+        "subject": "peach",
+        "count": 1,
+        "state": "plain"
+      },
+      "creation": "built_in_image_gen",
+      "source_reference": "references/peach_generated_master.png",
+      "source_crop_box_px": [
+        930,
+        215,
+        1200,
+        540
+      ],
+      "batch": "batches/batch-02.png",
+      "dimensions_px": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "file_bytes": 12060,
+      "sha256": "af66e813aa48e66565b48660618146de6a84bbd8e7928f3cded67327c81bd13e",
+      "visual_review": "individually rechecked after latest repair; full subject/count visible; no unrelated fragments, labels, answer text, watermarks, or clipping",
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 427,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 552,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-427",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-552",
+          "adaptation_applied": false
+        }
+      ],
+      "webp_quality": 80,
+      "webp_method": 6,
+      "creation_method": "built_in_image_gen",
+      "clean_master_reference": "references/peach_generated_master.png",
+      "provenance": {
+        "source_reference": "references/peach_generated_master.png",
+        "clean_master_reference": "references/peach_generated_master.png",
+        "render": "built-in image_gen master, then PIL card composition and WebP export",
+        "imagegen_output": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-05c426bc-3fb6-4775-8d54-43086cb6353c.png"
+      },
+      "imagegen": {
+        "tool": "image_gen.imagegen",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one whole rounded orange peach with a small green leaf and short brown stem, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, soft shading, simple white or very pale background. Show the complete fruit centered with generous safe margins: smooth fully rounded left and right contour, complete bottom, leaf and stem fully visible, no flat cut edge and no part touching the frame. No other fruit, no partial objects, no watermark, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border.",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-05c426bc-3fb6-4775-8d54-43086cb6353c.png",
+        "result": "clean whole rounded peach master used for learner card",
+        "referenced_images": []
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "root_visual_review": {
+        "sha256": "af66e813aa48e66565b48660618146de6a84bbd8e7928f3cded67327c81bd13e",
+        "status": "pass",
+        "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+      }
+    }
+  ],
+  "required_ids": [
+    "u05_dog_01",
+    "u05_dog_02",
+    "u05_cat_01",
+    "u05_cat_02",
+    "u05_bird_01",
+    "u05_bird_02",
+    "u05_bird_03",
+    "u05_cow_01",
+    "u05_cow_02",
+    "u05_cow_08",
+    "u05_rabbit_01",
+    "u05_rabbit_02",
+    "u05_duck_01",
+    "u05_duck_02",
+    "u05_duck_03",
+    "u05_car_08",
+    "u05_moon",
+    "u05_nest",
+    "u05_octopus",
+    "u05_peach"
+  ],
+  "conditional_ids": [],
+  "visual_occurrence_count": 66,
+  "visual_occurrence_coverage": 66,
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "source_line": 60,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_cat_01",
+        "u05_cow_01",
+        "u05_dog_01",
+        "u05_duck_01",
+        "u05_rabbit_01"
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "source_line": 104,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "source_line": 123,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "source_line": 151,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 165,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "source_line": 199,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "source_line": 225,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 255,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "source_line": 269,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_cat_01",
+        "u05_cow_01",
+        "u05_dog_01",
+        "u05_duck_01",
+        "u05_rabbit_01"
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "source_line": 280,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "source_line": 291,
+      "mode": "adapted_assets",
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "Rows 3–5 use the authorized ordered adaptation: 3 ducks, 8 cows, 8 cars. The original source remains unchanged.",
+      "items_adapted": [
+        "3.3.3",
+        "3.3.4",
+        "3.3.5"
+      ],
+      "asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "source_had_picture": false
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "source_line": 301,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "source_line": 335,
+      "mode": "adapted_assets",
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly asks How many ducks/cows/cars; attach the later source-model groups 3 ducks, 8 cows, 8 cars.",
+      "items_adapted": [
+        "3.5.2",
+        "3.5.3",
+        "3.5.4"
+      ],
+      "asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "source_had_picture": false
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "source_line": 349,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 362,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "source_line": 411,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "source_line": 420,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_moon",
+        "u05_nest",
+        "u05_octopus",
+        "u05_peach"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "source_line": 442,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_dog_02",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "source_line": 468,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_02",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "source_line": 494,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_car_08",
+        "u05_cow_08",
+        "u05_duck_03"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "source_line": 511,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "5. Conversation — tự nói",
+      "source_line": 529,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "source_line": 536,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "source_line": 545,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_moon",
+        "u05_nest",
+        "u05_octopus",
+        "u05_peach"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "source_line": 554,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "source_line": 563,
+      "mode": "adapted_assets",
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly models the count answers; reuse cat_02, duck_03, cow_08 and car_08.",
+      "items_adapted": [
+        "5.7.2",
+        "5.7.3",
+        "5.7.4",
+        "5.7.5"
+      ],
+      "asset_ids": [
+        "u05_cat_02",
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "source_had_picture": false
+    }
+  ],
+  "question_map": {
+    "file": "question-image-map.json",
+    "total": 143,
+    "no_static_image": 70,
+    "mapped_assets": 73,
+    "adapted_assets": 10,
+    "open_context": []
+  },
+  "context_issues": [
+    "C3§3 câu 3–5 How many ____? chưa có context phân biệt ducks/cows/cars. Có thể nối lần lượt nhóm 3 ducks, 8 cows, 8 cars theo thứ tự C3§4/C3§5; ghi là đề xuất adaptation, không khẳng định nguồn đã có hình.",
+    "C3§5 và C5 hội thoại đếm dùng lại duck_03/cow_08/car_08; không tạo nhóm mới mỗi lần.",
+    "C3§6 1 train, 2 trains, 3 trains là điền số nhiều bằng text; không yêu cầu thêm ba nhóm tàu."
+  ],
+  "adaptation_notes": [
+    "Applied C3§3 rows 3–5 in prompt order: u05_duck_03, u05_cow_08, u05_car_08. This adds a visual cue without changing the source Markdown.",
+    "Applied C3§5 explicit How many ducks/cows/cars questions using the later source-model groups.",
+    "Applied C5§7 explicit Mini Conversation count models using u05_cat_02, u05_duck_03, u05_cow_08 and u05_car_08."
+  ],
+  "answer_text_policy": "Learner preview shows neutral instructions and cards only; source excerpts and answer text remain in teacher/provenance details.",
+  "audio_policy": "No audio created.",
+  "open_context": [],
+  "needs_context_count": 0,
+  "adapted_question_count": 10,
+  "question_map_total": 143,
+  "question_map_no_static_image": 70,
+  "question_map_mapped_assets": 73,
+  "question_map_adapted_assets": 10,
+  "inventory_normalization_note": "Inventory lines 340/343/346 were normalized from its pseudo-section “Context bổ sung / dùng chung” to the real source section Challenge 3 §5, items 3.5.2/3.5.3/3.5.4; no source content was changed.",
+  "repair_status": {
+    "status": "complete",
+    "affected_assets_repaired": [
+      "u05_car_08",
+      "u05_cow_01",
+      "u05_cow_02",
+      "u05_cow_08",
+      "u05_dog_01",
+      "u05_dog_02",
+      "u05_duck_01",
+      "u05_duck_02",
+      "u05_duck_03",
+      "u05_octopus",
+      "u05_peach",
+      "u05_rabbit_01",
+      "u05_rabbit_02"
+    ],
+    "visual_review": "all 20 final WebP files inspected after cow, duck, peach, dog-footer repairs",
+    "debug_files": "moved to references/debug; canonical pages/png/CD2_*.png untouched",
+    "imagegen_repairs": [
+      {
+        "asset_ids": [
+          "u05_rabbit_01",
+          "u05_rabbit_02"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-7803753a-c3d2-4a6b-8e9e-440928613eeb.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon rabbit with pink inner ears, a small pink nose, and a warm light-brown patch on its back, sitting on a simple small tree stump. Match the supplied Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, soft shading, cheerful colors, white or very pale background, whole rabbit fully visible including ears, paws, body, and tail, centered with generous safe margins. No other animals, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges."
+      },
+      {
+        "asset_ids": [
+          "u05_cow_01",
+          "u05_cow_02",
+          "u05_cow_08"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border."
+      },
+      {
+        "asset_ids": [
+          "u05_duck_01",
+          "u05_duck_02",
+          "u05_duck_03"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border."
+      },
+      {
+        "asset_ids": [
+          "u05_peach"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-05c426bc-3fb6-4775-8d54-43086cb6353c.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one whole rounded orange peach with a small green leaf and short brown stem, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, soft shading, simple white or very pale background. Show the complete fruit centered with generous safe margins: smooth fully rounded left and right contour, complete bottom, leaf and stem fully visible, no flat cut edge and no part touching the frame. No other fruit, no partial objects, no watermark, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border."
+      }
+    ]
+  },
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "imagegen_repair_log": "references/imagegen-repair-log.json"
+}

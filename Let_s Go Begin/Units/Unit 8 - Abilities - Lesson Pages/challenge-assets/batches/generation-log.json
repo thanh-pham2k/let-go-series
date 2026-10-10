@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "unit": 8,
+  "topic": "Abilities",
+  "generated_at": "2026-10-10",
+  "tool": "built-in image_gen",
+  "jobs": [
+    {
+      "job_id": "u08_batch1_actions",
+      "kind": "generation",
+      "exact_prompt": "Use case: illustration-story.\nAsset type: a 4 by 3 contact sheet of twelve independent square educational illustration cards, to be cropped into separate 512x512 WebP cards.\nInput images: the supplied local images are style references only: Unit 8 lesson pages CD2_59, CD2_63, CD2_54, CD2_61. Match their bright children's textbook cartoon style: clean bold black outlines, soft watercolor-like shading, white or very light backgrounds, friendly diverse children, simple uncluttered scenes. Do not copy any labels, page headings, speech bubbles, CD numbers, or answer text.\nComposition/framing: 4 columns by 3 rows, straight white gutters and safe outer margins, every cell square, no stretching. Leave no unused cells. One independent illustration per cell, read row-major:\nRow 1 col 1: a child genuinely riding a bicycle, both wheels and feet on pedals clear.\nRow 1 col 2: a child singing into a small microphone, mouth open and a few musical notes.\nRow 1 col 3: a child flying a kite, string visibly connected from hand to kite.\nRow 1 col 4: a child bouncing a ball downward, hand, ball, ground contact and motion marks clearly show bouncing, not merely holding.\nRow 2 col 1: a child swimming in water with a clear swimming stroke.\nRow 2 col 2: close face of a smiling child, both eyes open.\nRow 2 col 3: close face of a child winking exactly one eye while the other eye is open; make it visibly different from smiling.\nRow 2 col 4: a child dancing in a lively dance pose, clearly not running or standing.\nRow 3 col 1: a child unable to fly a kite: kite on the ground, slack tangled string, child puzzled/frustrated; visually communicates inability without an X or words.\nRow 3 col 2: two children playing with a ball together, clearly a shared game, not one child bouncing alone.\nRow 3 col 3: children playing tag, one child reaching to tag/chase another; clearly more than one child, not just running.\nRow 3 col 4: a child actively jumping over a jump rope, both hands holding the rope and rope forming a clear loop under the feet; distinct from a static rope object.\nNo text, labels, numbers, answer hints, speech bubbles, watermarks, panel IDs, or emoji. Keep all subjects fully visible and visually distinct. Preserve consistent textbook character design and color quality across all cells.",
+      "args": {
+        "prompt": "Use case: illustration-story.\nAsset type: a 4 by 3 contact sheet of twelve independent square educational illustration cards, to be cropped into separate 512x512 WebP cards.\nInput images: the supplied local images are style references only: Unit 8 lesson pages CD2_59, CD2_63, CD2_54, CD2_61. Match their bright children's textbook cartoon style: clean bold black outlines, soft watercolor-like shading, white or very light backgrounds, friendly diverse children, simple uncluttered scenes. Do not copy any labels, page headings, speech bubbles, CD numbers, or answer text.\nComposition/framing: 4 columns by 3 rows, straight white gutters and safe outer margins, every cell square, no stretching. Leave no unused cells. One independent illustration per cell, read row-major:\nRow 1 col 1: a child genuinely riding a bicycle, both wheels and feet on pedals clear.\nRow 1 col 2: a child singing into a small microphone, mouth open and a few musical notes.\nRow 1 col 3: a child flying a kite, string visibly connected from hand to kite.\nRow 1 col 4: a child bouncing a ball downward, hand, ball, ground contact and motion marks clearly show bouncing, not merely holding.\nRow 2 col 1: a child swimming in water with a clear swimming stroke.\nRow 2 col 2: close face of a smiling child, both eyes open.\nRow 2 col 3: close face of a child winking exactly one eye while the other eye is open; make it visibly different from smiling.\nRow 2 col 4: a child dancing in a lively dance pose, clearly not running or standing.\nRow 3 col 1: a child unable to fly a kite: kite on the ground, slack tangled string, child puzzled/frustrated; visually communicates inability without an X or words.\nRow 3 col 2: two children playing with a ball together, clearly a shared game, not one child bouncing alone.\nRow 3 col 3: children playing tag, one child reaching to tag/chase another; clearly more than one child, not just running.\nRow 3 col 4: a child actively jumping over a jump rope, both hands holding the rope and rope forming a clear loop under the feet; distinct from a static rope object.\nNo text, labels, numbers, answer hints, speech bubbles, watermarks, panel IDs, or emoji. Keep all subjects fully visible and visually distinct. Preserve consistent textbook character design and color quality across all cells.",
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+        ],
+        "transparent_background": false
+      },
+      "reference_input_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+      ],
+      "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png",
+      "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch1-actions.png",
+      "crop_operations": {
+        "source_dimensions": [
+          1448,
+          1086
+        ],
+        "grid": "4x3",
+        "crop_inset": 3,
+        "output_ids": [
+          "u08_ride_bicycle",
+          "u08_sing_song",
+          "u08_fly_kite",
+          "u08_bounce_ball",
+          "u08_swim",
+          "u08_smile",
+          "u08_wink",
+          "u08_dance",
+          "u08_cannot_fly_kite",
+          "u08_play_ball",
+          "u08_play_tag",
+          "u08_jump_rope"
+        ],
+        "output_size": [
+          512,
+          512
+        ],
+        "webp": {
+          "quality": 80,
+          "method": 6
+        }
+      },
+      "result": "used_and_reviewed"
+    },
+    {
+      "job_id": "u08_batch2_phonics",
+      "kind": "generation",
+      "exact_prompt": "Use case: scientific-educational.\nAsset type: three independent square phonics illustration cards arranged in one row with white gutters, to be cropped into separate 512x512 WebP cards.\nInput image: supplied Unit 8 CD2_68 is a style reference only. Match its clean bright children's textbook cartoon style, bold outlines and soft shading.\nComposition: 3 equal square panels in one row, straight white gutters, safe margins. Panel 1: one friendly orange fox, full body fully visible including all four paws and tail, no letters and no word. Panel 2: one blue ball of yarn with a loose strand, fully visible, no knitting needles, no rope, no letters and no word. Panel 3: one friendly zebra, full body fully visible including all four hooves and tail, no letters and no word. White or very light backgrounds; centered subjects with clear silhouettes. No text, labels, numbers, speech bubbles, watermarks, answer hints, or panel IDs.",
+      "args": {
+        "prompt": "Use case: scientific-educational.\nAsset type: three independent square phonics illustration cards arranged in one row with white gutters, to be cropped into separate 512x512 WebP cards.\nInput image: supplied Unit 8 CD2_68 is a style reference only. Match its clean bright children's textbook cartoon style, bold outlines and soft shading.\nComposition: 3 equal square panels in one row, straight white gutters, safe margins. Panel 1: one friendly orange fox, full body fully visible including all four paws and tail, no letters and no word. Panel 2: one blue ball of yarn with a loose strand, fully visible, no knitting needles, no rope, no letters and no word. Panel 3: one friendly zebra, full body fully visible including all four hooves and tail, no letters and no word. White or very light backgrounds; centered subjects with clear silhouettes. No text, labels, numbers, speech bubbles, watermarks, answer hints, or panel IDs.",
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+        ],
+        "transparent_background": false
+      },
+      "reference_input_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-95d9304b-c626-47d8-87ba-754f218df60d.png",
+      "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch2-phonics.png",
+      "crop_operations": {
+        "source_dimensions": [
+          2172,
+          724
+        ],
+        "grid": "3x1",
+        "crop_boxes": {
+          "u08_fox": [
+            4,
+            4,
+            720,
+            720
+          ],
+          "u08_yarn": [
+            728,
+            4,
+            1444,
+            720
+          ],
+          "u08_zebra": [
+            1452,
+            4,
+            2168,
+            720
+          ]
+        },
+        "output_size": [
+          512,
+          512
+        ],
+        "webp": {
+          "quality": 80,
+          "method": 6
+        }
+      },
+      "result": "used_and_reviewed"
+    },
+    {
+      "job_id": "u08_batch3_conditional",
+      "kind": "generation",
+      "exact_prompt": "Use case: illustration-story.\nAsset type: two independent square educational illustration cards arranged side by side with a straight white gutter, to be cropped into separate 512x512 WebP cards.\nInput image: supplied Unit 8 CD2_69 is a style reference only. Match its bright children's textbook cartoon style, bold clean outlines, soft shading, friendly diverse children, white/light background, no text copied.\nPanel 1: five children holding hands in a clear closed circle formation, viewed slightly from above so the loop is unmistakable. Panel 2: four children standing in one straight horizontal line with visible spacing, viewed front/side so the line is unmistakable. Keep all children fully visible. No labels, words, numbers, speech bubbles, answer hints, watermarks, panel IDs or emoji.",
+      "args": {
+        "prompt": "Use case: illustration-story.\nAsset type: two independent square educational illustration cards arranged side by side with a straight white gutter, to be cropped into separate 512x512 WebP cards.\nInput image: supplied Unit 8 CD2_69 is a style reference only. Match its bright children's textbook cartoon style, bold clean outlines, soft shading, friendly diverse children, white/light background, no text copied.\nPanel 1: five children holding hands in a clear closed circle formation, viewed slightly from above so the loop is unmistakable. Panel 2: four children standing in one straight horizontal line with visible spacing, viewed front/side so the line is unmistakable. Keep all children fully visible. No labels, words, numbers, speech bubbles, answer hints, watermarks, panel IDs or emoji.",
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+        ],
+        "transparent_background": false
+      },
+      "reference_input_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-06cc50f0-bf1c-4078-8bbf-1c4cc587e347.png",
+      "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch3-conditional.png",
+      "crop_operations": {
+        "source_dimensions": [
+          1774,
+          887
+        ],
+        "grid": "2x1",
+        "crop_boxes": {
+          "u08_make_circle": [
+            4,
+            4,
+            883,
+            883
+          ],
+          "u08_make_line": [
+            891,
+            4,
+            1770,
+            883
+          ]
+        },
+        "output_size": [
+          512,
+          512
+        ],
+        "webp": {
+          "quality": 80,
+          "method": 6
+        }
+      },
+      "result": "used_and_reviewed"
+    },
+    {
+      "job_id": "u08_repair_cannot_fly_kite",
+      "kind": "edit",
+      "exact_prompt": "Use case: precise-object-edit.\nAsset type: one square educational illustration card for the Unit 8 Challenge.\nInput images: Image 1 is the edit target, the current cannot-fly-kite card. Image 2 is the character reference, the current fly-kite positive card.\nChange only the child, clothing and kite identity in Image 1 so they match Image 2: use the same black-haired boy, same red long-sleeve shirt, same light-blue shorts and white sneakers, and the same orange-yellow diamond kite with red bow tails. Keep the inability scene: the boy is worried and puzzled, the orange-yellow kite lies on the grass, the line is visibly slack and tangled on the ground, and the boy is not successfully flying it. Preserve the bright Let’s Go Begin textbook cartoon style, bold clean outlines, soft shading, child-friendly outdoor park background, and square composition. Show the full child and kite with safe margins. Do not add an X, words, labels, speech bubbles, numbers, answer text, watermark or panel ID.",
+      "args": {
+        "prompt": "Use case: precise-object-edit.\nAsset type: one square educational illustration card for the Unit 8 Challenge.\nInput images: Image 1 is the edit target, the current cannot-fly-kite card. Image 2 is the character reference, the current fly-kite positive card.\nChange only the child, clothing and kite identity in Image 1 so they match Image 2: use the same black-haired boy, same red long-sleeve shirt, same light-blue shorts and white sneakers, and the same orange-yellow diamond kite with red bow tails. Keep the inability scene: the boy is worried and puzzled, the orange-yellow kite lies on the grass, the line is visibly slack and tangled on the ground, and the boy is not successfully flying it. Preserve the bright Let’s Go Begin textbook cartoon style, bold clean outlines, soft shading, child-friendly outdoor park background, and square composition. Show the full child and kite with safe margins. Do not add an X, words, labels, speech bubbles, numbers, answer text, watermark or panel ID.",
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp"
+        ],
+        "transparent_background": false
+      },
+      "reference_input_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp"
+      ],
+      "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-02bfd40d-5529-4c8a-b3d6-341087038e4f.png",
+      "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\repair-cannot-fly-kite.png",
+      "crop_operations": {
+        "source_dimensions": [
+          1254,
+          1254
+        ],
+        "operation": "resize full square to 512x512",
+        "output_id": "u08_cannot_fly_kite",
+        "output_size": [
+          512,
+          512
+        ],
+        "webp": {
+          "quality": 80,
+          "method": 6
+        }
+      },
+      "result": "used_and_reviewed"
+    },
+    {
+      "job_id": "u08_repair_play_tag",
+      "kind": "edit",
+      "exact_prompt": "Use case: precise-object-edit.\nAsset type: one square educational illustration card for the Unit 8 Challenge.\nInput image: Image 1 is the current play-tag card and is a style/scene reference.\nRecompose the scene so both children are fully visible inside the square with generous safe margins: show both complete heads and hair, both torsos, both legs and both feet, with no body or hair clipped at any edge. Keep the same two-child tag action: one child reaches toward the other in a playful chase, clearly playing tag, not simply running alone. Preserve the bright textbook cartoon style, bold clean outlines, soft shading, grassy outdoor background and friendly expressions. Do not add text, labels, numbers, speech bubbles, watermarks, answer hints or panel IDs.",
+      "args": {
+        "prompt": "Use case: precise-object-edit.\nAsset type: one square educational illustration card for the Unit 8 Challenge.\nInput image: Image 1 is the current play-tag card and is a style/scene reference.\nRecompose the scene so both children are fully visible inside the square with generous safe margins: show both complete heads and hair, both torsos, both legs and both feet, with no body or hair clipped at any edge. Keep the same two-child tag action: one child reaches toward the other in a playful chase, clearly playing tag, not simply running alone. Preserve the bright textbook cartoon style, bold clean outlines, soft shading, grassy outdoor background and friendly expressions. Do not add text, labels, numbers, speech bubbles, watermarks, answer hints or panel IDs.",
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp"
+        ],
+        "transparent_background": false
+      },
+      "reference_input_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp"
+      ],
+      "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-f1bfb061-e83b-4fb7-a867-7c50464b47e5.png",
+      "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\repair-play-tag.png",
+      "crop_operations": {
+        "source_dimensions": [
+          1254,
+          1254
+        ],
+        "operation": "resize full square to 512x512",
+        "output_id": "u08_play_tag",
+        "output_size": [
+          512,
+          512
+        ],
+        "webp": {
+          "quality": 80,
+          "method": 6
+        }
+      },
+      "result": "used_and_reviewed"
+    }
+  ],
+  "workspace_scope": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets",
+  "notes": "The five jobs below are the authoritative generation history. The first three create batch sheets; the last two are targeted repairs after root visual QA. All output cards were individually inspected after WebP export. No source Markdown or lesson page was edited."
+}

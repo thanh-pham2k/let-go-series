@@ -1,0 +1,322 @@
+{
+  "batch": 15,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "r34_diamonds_05",
+      "crop_box": [
+        0,
+        0,
+        362,
+        350
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11164,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_05.webp",
+      "sha256": "57bf4b8a2dde5bcc12f7ee5f7c3b94be42d25237bb569d1c83a912fbc98e4116"
+    },
+    {
+      "id": "r34_diamonds_06",
+      "crop_box": [
+        362,
+        0,
+        724,
+        350
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12276,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_06.webp",
+      "sha256": "d163fee9fe203274f151f6f414fdc4f0548fabdf884f98342a82f6cbd8e1251c"
+    },
+    {
+      "id": "r34_diamonds_07",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        350
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12728,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_07.webp",
+      "sha256": "d18914cac05b2f6e2646ebe4086a3b6b84f19ef5733b816a05f81757941a844c"
+    },
+    {
+      "id": "r34_circles_05",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        350
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10834,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_circles_05.webp",
+      "sha256": "7717b08c51be3a3ff94f81b2f0617147c198f2a598b568d03aea13637c06a84a"
+    },
+    {
+      "id": "r34_ovals_07",
+      "crop_box": [
+        0,
+        350,
+        362,
+        700
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11630,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_ovals_07.webp",
+      "sha256": "91bb21fd50f719ca09b201a930d60559163e98eb2e96acd88929affc2f12654d"
+    },
+    {
+      "id": "r56_cat_01",
+      "crop_box": [
+        362,
+        350,
+        724,
+        700
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13884,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cat_01.webp",
+      "sha256": "20121560af0862c551ec1148b3dda7cddd9ae7e1f1acdbd09af1bcbf48eb00e1"
+    },
+    {
+      "id": "r56_cat_03",
+      "crop_box": [
+        724,
+        350,
+        1086,
+        700
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 23798,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cat_03.webp",
+      "sha256": "5f0f748ec94caab11af4f7527da4e9654947f0ddebc04d2d34b52ef81922abbb"
+    },
+    {
+      "id": "r56_cat_04",
+      "crop_box": [
+        1086,
+        350,
+        1448,
+        700
+      ],
+      "original_cell_size": [
+        362,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 30370,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cat_04.webp",
+      "sha256": "4c236f8b2800131a02de3701c628589e893e2c0b223c16f9723456c0ba35126f"
+    },
+    {
+      "id": "r56_rabbit_01",
+      "crop_box": [
+        0,
+        700,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11618,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rabbit_01.webp",
+      "sha256": "138bcab7a44d601762b1bfd31f9b9716b6e17a05dca3fa4aecea6bcebaeecfb0"
+    },
+    {
+      "id": "r56_rabbit_02",
+      "crop_box": [
+        362,
+        700,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16788,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rabbit_02.webp",
+      "sha256": "4ca26fcca833c0bc83416e72f72fcef6ea4cb9f82cf5310a3fb5736b4a9abf26"
+    },
+    {
+      "id": "r56_rabbit_05",
+      "crop_box": [
+        724,
+        700,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 24054,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rabbit_05.webp",
+      "sha256": "d6eccd1b309d2e2a0932702ef0e1b9da081379de0667ced1b1fc4a09fefbdd5e"
+    },
+    {
+      "id": "r56_ice_cream",
+      "crop_box": [
+        1086,
+        700,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 7384,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_ice_cream.webp",
+      "sha256": "edade3f82dd49a164350cf12574d5c02160011750733938d2dfdc13adc06ac23"
+    }
+  ],
+  "status": "visual_review_pass"
+}

@@ -1,0 +1,885 @@
+{
+  "schema_version": 1,
+  "unit": 3,
+  "topic": "Shapes",
+  "scope": "Challenge 1–5 only",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+  "output_folder": "Let_s Go Begin/Units/Unit 3 - Shapes - Lesson Pages/challenge-assets",
+  "adaptation_policy": "Use one canonical asset per semantic; text/audio/action sections explicitly carry image_required=false.",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "source_line": 73,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": "1.1",
+          "source_line": 76,
+          "source_text": "⭕",
+          "asset_ids": [
+            "u03_circle"
+          ]
+        },
+        {
+          "item": "1.2",
+          "source_line": 83,
+          "source_text": "⬜",
+          "asset_ids": [
+            "u03_square"
+          ]
+        },
+        {
+          "item": "1.3",
+          "source_line": 90,
+          "source_text": "🔺",
+          "asset_ids": [
+            "u03_triangle"
+          ]
+        },
+        {
+          "item": "1.4",
+          "source_line": 97,
+          "source_text": "❤️",
+          "asset_ids": [
+            "u03_heart"
+          ]
+        },
+        {
+          "item": "1.5",
+          "source_line": 104,
+          "source_text": "⭐",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": "1.6",
+          "source_line": 111,
+          "source_text": "▭",
+          "asset_ids": [
+            "u03_rectangle"
+          ]
+        },
+        {
+          "item": "1.7",
+          "source_line": 118,
+          "source_text": "◆",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": "1.8",
+          "source_line": 125,
+          "source_text": "⬭",
+          "asset_ids": [
+            "u03_oval"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "source_line": 131,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text/audio recognition or text choices are sufficient; no static image is prescribed."
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "source_line": 159,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": "3.1",
+          "source_line": 162,
+          "source_text": "🟦 hình vuông",
+          "asset_ids": [
+            "u03_blue_square"
+          ]
+        },
+        {
+          "item": "3.2",
+          "source_line": 169,
+          "source_text": "💜 hình trái tim",
+          "asset_ids": [
+            "u03_purple_heart"
+          ]
+        },
+        {
+          "item": "3.3",
+          "source_line": 176,
+          "source_text": "🟧 hình tam giác",
+          "asset_ids": [
+            "u03_orange_triangle"
+          ]
+        },
+        {
+          "item": "3.4",
+          "source_line": 183,
+          "source_text": "🟡 hình tròn",
+          "asset_ids": [
+            "u03_yellow_circle"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "source_line": 189,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "No visual occurrence is present in the source section."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 203,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text/audio recognition or text choices are sufficient; no static image is prescribed."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "source_line": 229,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 235,
+          "source_text": "`⭐ / ⭕ / ◆ / ❤️`",
+          "asset_ids": [
+            "u03_circle",
+            "u03_heart",
+            "u03_star",
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 239,
+          "source_text": "`⬭ / ◆ / ▭ / ⭐`",
+          "asset_ids": [
+            "u03_star",
+            "u03_rectangle",
+            "u03_diamond",
+            "u03_oval"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 243,
+          "source_text": "`⬭ / ⭕ / ⬜ / 🔺`",
+          "asset_ids": [
+            "u03_circle",
+            "u03_square",
+            "u03_triangle",
+            "u03_oval"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 247,
+          "source_text": "`◆ / ▭ / ❤️ / ⭕`",
+          "asset_ids": [
+            "u03_circle",
+            "u03_heart",
+            "u03_rectangle",
+            "u03_diamond"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "source_line": 249,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": "3.2",
+          "source_line": 258,
+          "source_text": "**Is it a star?** ⭐",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": "3.3",
+          "source_line": 264,
+          "source_text": "**Is it a rectangle?** ◆",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 269,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "The learner performs a spoken action; the source does not require a static raster."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "source_line": 285,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 289,
+          "source_text": "1. c _ r c l e *(circle)* ⭕",
+          "asset_ids": [
+            "u03_circle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 290,
+          "source_text": "2. s q u _ r e *(square)* ⬜",
+          "asset_ids": [
+            "u03_square"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 291,
+          "source_text": "3. t r _ a n g l e *(triangle)* 🔺",
+          "asset_ids": [
+            "u03_triangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 292,
+          "source_text": "4. h _ a r t *(heart)* ❤️",
+          "asset_ids": [
+            "u03_heart"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 293,
+          "source_text": "5. s t _ r *(star)* ⭐",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 294,
+          "source_text": "6. r _ c t a n g l e *(rectangle)* ▭",
+          "asset_ids": [
+            "u03_rectangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 295,
+          "source_text": "7. d _ a m o n d *(diamond)* ◆",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 296,
+          "source_text": "8. o v _ l *(oval)* ⬭",
+          "asset_ids": [
+            "u03_oval"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "source_line": 298,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 302,
+          "source_text": "1. Draw a __________. ⭕",
+          "asset_ids": [
+            "u03_circle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 303,
+          "source_text": "2. Draw a __________. ⬜",
+          "asset_ids": [
+            "u03_square"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 304,
+          "source_text": "3. Is it a __________? ⭐",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 305,
+          "source_text": "4. Is it a __________? ▭",
+          "asset_ids": [
+            "u03_rectangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 306,
+          "source_text": "5. It's a __________. ◆",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 307,
+          "source_text": "6. __________ 🔺",
+          "asset_ids": [
+            "u03_triangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 308,
+          "source_text": "7. __________ ❤️",
+          "asset_ids": [
+            "u03_heart"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 309,
+          "source_text": "8. __________ ⬭",
+          "asset_ids": [
+            "u03_oval"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "3. Hoàn thành hội thoại",
+      "source_line": 311,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text production/conversation task; no static raster is prescribed."
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "source_line": 318,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text/audio recognition or text choices are sufficient; no static image is prescribed."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "source_line": 344,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 346,
+          "source_text": "A: Is it a star? ⭐  ",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 349,
+          "source_text": "A: Is it a rectangle? ◆  ",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "6. Shape + color recall",
+      "source_line": 355,
+      "image_required": true,
+      "adaptation_notes": "The source has six color blanks but no visual cue. Per the approved unit prompt, attach the C5§3 sequence to make each blank deterministic: 3.6.1 blue square, 3.6.2 purple heart, 3.6.3 orange triangle, 3.6.4 yellow circle, 3.6.5 green square, 3.6.6 pink heart. This is recorded as an output adaptation; the source Markdown remains unchanged.",
+      "occurrences": [
+        {
+          "item": "3.6.1",
+          "source_line": 359,
+          "source_text": "a ________ square (adapted cue: blue square)",
+          "asset_ids": [
+            "u03_blue_square"
+          ]
+        },
+        {
+          "item": "3.6.2",
+          "source_line": 360,
+          "source_text": "a ________ heart (adapted cue: purple heart)",
+          "asset_ids": [
+            "u03_purple_heart"
+          ]
+        },
+        {
+          "item": "3.6.3",
+          "source_line": 361,
+          "source_text": "an ________ triangle (adapted cue: orange triangle)",
+          "asset_ids": [
+            "u03_orange_triangle"
+          ]
+        },
+        {
+          "item": "3.6.4",
+          "source_line": 362,
+          "source_text": "a ________ circle (adapted cue: yellow circle)",
+          "asset_ids": [
+            "u03_yellow_circle"
+          ]
+        },
+        {
+          "item": "3.6.5",
+          "source_line": 363,
+          "source_text": "a ________ square (adapted cue: green square)",
+          "asset_ids": [
+            "u03_green_square"
+          ]
+        },
+        {
+          "item": "3.6.6",
+          "source_line": 364,
+          "source_text": "a ________ heart (adapted cue: pink heart)",
+          "asset_ids": [
+            "u03_pink_heart"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 371,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text production/conversation task; no static raster is prescribed."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "source_line": 411,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 416,
+          "source_text": "| 2. Is it a star? ⭐ | B. I'm fine, thank you. |",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 417,
+          "source_text": "| 3. Is it a rectangle? ◆ | C. No, it isn't. It's a diamond. |",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 418,
+          "source_text": "| 4. Is it a red square? 🩷❤️ | D. No, it isn't. It's a pink heart. |",
+          "asset_ids": [
+            "u03_pink_heart"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics E–H)",
+      "source_line": 420,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 424,
+          "source_text": "- e g _ *(egg)* 🥚",
+          "asset_ids": [
+            "u03_egg"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 425,
+          "source_text": "- f _ s h *(fish)* 🐟",
+          "asset_ids": [
+            "u03_fish"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 426,
+          "source_text": "- g o r _ l l a *(gorilla)* 🦍",
+          "asset_ids": [
+            "u03_gorilla"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 427,
+          "source_text": "- h _ a r t *(heart)* ❤️",
+          "asset_ids": [
+            "u03_heart"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "source_line": 442,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 444,
+          "source_text": "◆",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 450,
+          "source_text": "⬭",
+          "asset_ids": [
+            "u03_oval"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 456,
+          "source_text": "⭐",
+          "asset_ids": [
+            "u03_star"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "source_line": 462,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 464,
+          "source_text": "⭕ → ____________________",
+          "asset_ids": [
+            "u03_circle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 466,
+          "source_text": "⬜ → ____________________",
+          "asset_ids": [
+            "u03_square"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 468,
+          "source_text": "🔺 → ____________________",
+          "asset_ids": [
+            "u03_triangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 470,
+          "source_text": "❤️ → ____________________",
+          "asset_ids": [
+            "u03_heart"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 472,
+          "source_text": "⭐ → ____________________",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 474,
+          "source_text": "▭ → ____________________",
+          "asset_ids": [
+            "u03_rectangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 476,
+          "source_text": "◆ → ____________________",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 478,
+          "source_text": "⬭ → ____________________",
+          "asset_ids": [
+            "u03_oval"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "source_line": 480,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 482,
+          "source_text": "🟦 hình vuông  ",
+          "asset_ids": [
+            "u03_blue_square"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 485,
+          "source_text": "💜 hình trái tim  ",
+          "asset_ids": [
+            "u03_purple_heart"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 488,
+          "source_text": "🟧 hình tam giác  ",
+          "asset_ids": [
+            "u03_orange_triangle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 491,
+          "source_text": "🟡 hình tròn  ",
+          "asset_ids": [
+            "u03_yellow_circle"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 494,
+          "source_text": "🟩 hình vuông  ",
+          "asset_ids": [
+            "u03_green_square"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 497,
+          "source_text": "🩷 hình trái tim  ",
+          "asset_ids": [
+            "u03_pink_heart"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "source_line": 500,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 502,
+          "source_text": "⭐",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 507,
+          "source_text": "◆",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "5. Conversation",
+      "source_line": 512,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text production/conversation task; no static raster is prescribed."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "source_line": 517,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "The learner performs a spoken action; the source does not require a static raster."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Build without hint",
+      "source_line": 528,
+      "image_required": false,
+      "occurrences": [],
+      "image_required_reason": "Text production/conversation task; no static raster is prescribed."
+    },
+    {
+      "challenge": 5,
+      "section": "8. E–H Phonics Production",
+      "source_line": 546,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 550,
+          "source_text": "- E e → **egg** 🥚",
+          "asset_ids": [
+            "u03_egg"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 551,
+          "source_text": "- F f → **fish** 🐟",
+          "asset_ids": [
+            "u03_fish"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 552,
+          "source_text": "- G g → **gorilla** 🦍",
+          "asset_ids": [
+            "u03_gorilla"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 553,
+          "source_text": "- H h → **heart** ❤️",
+          "asset_ids": [
+            "u03_heart"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "source_line": 555,
+      "image_required": true,
+      "occurrences": [
+        {
+          "item": null,
+          "source_line": 565,
+          "source_text": "### Tình huống 2 — Đoán hình đúng (⭐)",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 570,
+          "source_text": "A: Is it a star? ⭐  ",
+          "asset_ids": [
+            "u03_star"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 573,
+          "source_text": "### Tình huống 3 — Đoán hình sai (◆)",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 578,
+          "source_text": "A: Is it a rectangle? ◆  ",
+          "asset_ids": [
+            "u03_diamond"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 581,
+          "source_text": "### Tình huống 4 — Đoán hình kết hợp màu sắc (🩷❤️)",
+          "asset_ids": [
+            "u03_pink_heart"
+          ]
+        },
+        {
+          "item": null,
+          "source_line": 586,
+          "source_text": "A: Is it a red square? 🩷❤️  ",
+          "asset_ids": [
+            "u03_pink_heart"
+          ]
+        }
+      ]
+    }
+  ],
+  "occurrence_coverage": {
+    "inventory_visual_occurrences": 78,
+    "mapped_inventory_visual_occurrences": 78,
+    "unmapped_inventory_visual_occurrences": 0,
+    "mapped_asset_ids": [
+      "u03_blue_square",
+      "u03_circle",
+      "u03_diamond",
+      "u03_egg",
+      "u03_fish",
+      "u03_gorilla",
+      "u03_green_square",
+      "u03_heart",
+      "u03_orange_triangle",
+      "u03_oval",
+      "u03_pink_heart",
+      "u03_purple_heart",
+      "u03_rectangle",
+      "u03_square",
+      "u03_star",
+      "u03_triangle",
+      "u03_yellow_circle"
+    ]
+  },
+  "notes": [
+    "Source line numbers are locators only; source text and section/item identify the mapping.",
+    "No answer text is embedded in any learner bitmap.",
+    "C3§6 is the one documented output adaptation because the source blanks repeat shape nouns without color cues."
+  ]
+}

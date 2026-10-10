@@ -1,0 +1,13 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Row 1, column 1: Mảng màu brown, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 1, column 2: Mảng màu purple, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 1, column 3: Mảng màu orange, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 1, column 4: Mảng màu black, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 2, column 1: Mảng màu white, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 2, column 2: Mảng màu pink, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 2, column 3: Tàu hỏa đồ chơi màu đỏ; một vật, giữ thiết kế trang mẫu, không nhãn.
+Row 2, column 4: Bóng màu xanh dương; một vật, giữ thiết kế trang mẫu, không nhãn.
+Row 3, column 1: Gấu bông màu nâu; một vật, giữ thiết kế trang mẫu, không nhãn.
+Row 3, column 2: Yo-yo màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.
+Row 3, column 3: Ô tô đồ chơi màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.
+Row 3, column 4: Một apple giống minh họa phonics A–D; không chữ cái, không tên từ.

@@ -1,0 +1,693 @@
+{
+  "schema_version": 1,
+  "unit": 2,
+  "source": "Let_s Go Begin/Units/Unit 2 - Colors(3).md",
+  "source_scope": "Challenge 1–5",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn màu → chọn từ",
+      "source_line": 65,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 67,
+          "asset_ids": [
+            "u02_color_red"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 68,
+          "asset_ids": [
+            "u02_color_blue"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 69,
+          "asset_ids": [
+            "u02_color_yellow"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 70,
+          "asset_ids": [
+            "u02_color_green"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 71,
+          "asset_ids": [
+            "u02_color_brown"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 72,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 73,
+          "asset_ids": [
+            "u02_color_orange"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 74,
+          "asset_ids": [
+            "u02_color_black"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 75,
+          "asset_ids": [
+            "u02_color_white"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 76,
+          "asset_ids": [
+            "u02_color_pink"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "source_line": 78,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "source_line": 88,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 90,
+          "asset_ids": [
+            "u02_red_train"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 93,
+          "asset_ids": [
+            "u02_blue_ball"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 96,
+          "asset_ids": [
+            "u02_brown_teddy_bear"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 99,
+          "asset_ids": [
+            "u02_green_yo_yo"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "4. Chữ cái → ghép từ",
+      "source_line": 102,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 114,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn câu đúng",
+      "source_line": 136,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe lời chào → chọn phản hồi có trong bài",
+      "source_line": 160,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 172,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "source_line": 186,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 190,
+          "asset_ids": [
+            "u02_color_red"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 191,
+          "asset_ids": [
+            "u02_color_blue"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 192,
+          "asset_ids": [
+            "u02_color_yellow"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 193,
+          "asset_ids": [
+            "u02_color_green"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 194,
+          "asset_ids": [
+            "u02_color_brown"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 195,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 196,
+          "asset_ids": [
+            "u02_color_orange"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 197,
+          "asset_ids": [
+            "u02_color_black"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 198,
+          "asset_ids": [
+            "u02_color_white"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 199,
+          "asset_ids": [
+            "u02_color_pink"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "source_line": 201,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 205,
+          "asset_ids": [
+            "u02_color_red"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 206,
+          "asset_ids": [
+            "u02_color_blue"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 207,
+          "asset_ids": [
+            "u02_color_yellow"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 208,
+          "asset_ids": [
+            "u02_color_green"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 209,
+          "asset_ids": [
+            "u02_color_brown"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 210,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 211,
+          "asset_ids": [
+            "u02_color_orange"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 212,
+          "asset_ids": [
+            "u02_color_black"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 213,
+          "asset_ids": [
+            "u02_color_white"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 214,
+          "asset_ids": [
+            "u02_color_pink"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → hoàn thành mẫu câu",
+      "source_line": 216,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "source_line": 226,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "source_line": 252,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 255,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 258,
+          "asset_ids": [
+            "u02_color_yellow"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 261,
+          "asset_ids": [
+            "u02_green_car"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "6. Recall greetings",
+      "source_line": 263,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 279,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "source_line": 319,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 323,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 324,
+          "asset_ids": [
+            "u02_green_car"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics A–D)",
+      "source_line": 328,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 332,
+          "asset_ids": [
+            "u02_apple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 333,
+          "asset_ids": [
+            "u02_bird"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 334,
+          "asset_ids": [
+            "u02_cat"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 335,
+          "asset_ids": [
+            "u02_dog"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Mixed Recognition",
+      "source_line": 348,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 350,
+          "asset_ids": [
+            "u02_color_orange"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 352,
+          "asset_ids": [
+            "u02_color_black"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 354,
+          "asset_ids": [
+            "u02_color_green"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "source_line": 356,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 358,
+          "asset_ids": [
+            "u02_color_red"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 360,
+          "asset_ids": [
+            "u02_color_blue"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 362,
+          "asset_ids": [
+            "u02_color_yellow"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 364,
+          "asset_ids": [
+            "u02_color_green"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 366,
+          "asset_ids": [
+            "u02_color_brown"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 368,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 370,
+          "asset_ids": [
+            "u02_color_orange"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 372,
+          "asset_ids": [
+            "u02_color_black"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 374,
+          "asset_ids": [
+            "u02_color_white"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 376,
+          "asset_ids": [
+            "u02_color_pink"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Hỏi – đáp về màu",
+      "source_line": 378,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 380,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 385,
+          "asset_ids": [
+            "u02_color_blue"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Nhìn hình → tự nói câu",
+      "source_line": 390,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 392,
+          "asset_ids": [
+            "u02_red_train"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 393,
+          "asset_ids": [
+            "u02_blue_ball"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 394,
+          "asset_ids": [
+            "u02_brown_teddy_bear"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 395,
+          "asset_ids": [
+            "u02_green_yo_yo"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 396,
+          "asset_ids": [
+            "u02_green_car"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "5. Build without hint",
+      "source_line": 398,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Greetings — Thực hành nói theo mẫu",
+      "source_line": 418,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Commands — nghe và làm",
+      "source_line": 432,
+      "image_required": false,
+      "reason": "text/audio/listening/action activity; no dedicated raster is needed"
+    },
+    {
+      "challenge": 5,
+      "section": "8. A–D Phonics Production",
+      "source_line": 439,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 443,
+          "asset_ids": [
+            "u02_apple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 444,
+          "asset_ids": [
+            "u02_bird"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 445,
+          "asset_ids": [
+            "u02_cat"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 446,
+          "asset_ids": [
+            "u02_dog"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Nói theo mẫu",
+      "source_line": 448,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 454,
+          "asset_ids": [
+            "u02_color_purple"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        },
+        {
+          "source_line": 458,
+          "asset_ids": [
+            "u02_green_car"
+          ],
+          "learner_prompt": "Nhìn hình/mảng màu rồi chọn, điền hoặc nói đáp án theo yêu cầu của mục này."
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "inventory_visual_occurrences": 69,
+    "mapped_visual_occurrences": 69,
+    "unresolved_context": [],
+    "all_challenge_sections_mapped": true
+  },
+  "answer_visibility": "Learner preview contains neutral prompts only; source answer text remains in the exercise markdown and is not printed on bitmap cards."
+}

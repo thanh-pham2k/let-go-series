@@ -1,0 +1,155 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 68",
+      "challenge": 1,
+      "line": 68,
+      "raw": "🍦",
+      "ids": [
+        "u06_ice_cream"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "pizza",
+        "ice cream",
+        "cake",
+        "milk"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 206",
+      "challenge": 2,
+      "line": 206,
+      "raw": "`🥛 / 🐟 / 🍞 / 🍚`",
+      "ids": [
+        "u06_milk",
+        "u06_fish",
+        "u06_bread",
+        "u06_rice"
+      ],
+      "needs_context": false,
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn hình/câu trả lời phù hợp.",
+      "options": [
+        "Hình A",
+        "Hình B",
+        "Hình C",
+        "Hình D"
+      ],
+      "teacher_audio": "Nghe: **milk**"
+    },
+    {
+      "id": "C3 · dòng 258",
+      "challenge": 3,
+      "line": 258,
+      "raw": "1. i c e   c r _ a m *(ice cream)* 🍦",
+      "ids": [
+        "u06_ice_cream"
+      ],
+      "needs_context": false,
+      "prompt": "i c e   c r _ a m",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C3 · cue dòng 273",
+      "challenge": 3,
+      "line": 273,
+      "raw": "3. I like ________.",
+      "ids": [
+        "u06_cake"
+      ],
+      "prompt": "3. I like ________.",
+      "options": [],
+      "teacher_audio": "Đáp án: cake",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · cue dòng 274",
+      "challenge": 3,
+      "line": 274,
+      "raw": "4. Do you like ________?",
+      "ids": [
+        "u06_milk"
+      ],
+      "prompt": "4. Do you like ________?",
+      "options": [],
+      "teacher_audio": "Đáp án: milk",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · cue dòng 275",
+      "challenge": 3,
+      "line": 275,
+      "raw": "5. Do you like ________?",
+      "ids": [
+        "u06_fish"
+      ],
+      "prompt": "5. Do you like ________?",
+      "options": [],
+      "teacher_audio": "Đáp án: fish",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · cue dòng 276",
+      "challenge": 3,
+      "line": 276,
+      "raw": "6. I like ________.",
+      "ids": [
+        "u06_ice_cream"
+      ],
+      "prompt": "6. I like ________.",
+      "options": [],
+      "teacher_audio": "Đáp án: ice cream",
+      "needs_context": false
+    },
+    {
+      "id": "C4 · dòng 400",
+      "challenge": 4,
+      "line": 400,
+      "raw": "- q u _ e n *(queen)* 👸",
+      "ids": [
+        "u06_queen"
+      ],
+      "needs_context": false,
+      "prompt": "- q u _ e n",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 420",
+      "challenge": 5,
+      "line": 420,
+      "raw": "🍦",
+      "ids": [
+        "u06_ice_cream"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "cake",
+        "ice cream",
+        "milk",
+        "rice"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 440",
+      "challenge": 5,
+      "line": 440,
+      "raw": "🍦 → ____________________",
+      "ids": [
+        "u06_ice_cream"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ____________________",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 15,
+  "debug_labels_hidden_by_default": true
+}

@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Shapes must be flat front-facing educational shapes, geometrically precise, never perspective cubes. Circle orange outline, square green outline, triangle purple outline, heart red outline; star yellow fill, rectangle green fill twice as wide as tall, diamond purple rhombus, oval blue horizontal ellipse; last blue square filled with equal sides. Bird blue on branch, cat golden with red collar, dog brown blue collar.
+Row 1, column 1: Một bird giống minh họa phonics A–D; không chữ cái, không tên từ.
+Row 1, column 2: Một cat giống minh họa phonics A–D; không chữ cái, không tên từ.
+Row 1, column 3: Một dog giống minh họa phonics A–D; không chữ cái, không tên từ.
+Row 1, column 4: Một hình circle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 2, column 1: Một hình square, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 2, column 2: Một hình triangle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 2, column 3: Một hình heart, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 2, column 4: Một hình star, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 3, column 1: Một hình rectangle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 3, column 2: Một hình diamond, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 3, column 3: Một hình oval, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.
+Row 3, column 4: Một hình square màu blue thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.

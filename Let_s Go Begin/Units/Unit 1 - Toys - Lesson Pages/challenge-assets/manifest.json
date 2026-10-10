@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "unit": 1,
+  "topic": "Toys",
+  "scope": "Challenge 1-5 only",
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "assets": [
+    {
+      "id": "u01_ball",
+      "semantic": {
+        "type": "toy",
+        "name": "ball",
+        "count": 1
+      },
+      "file": "webp/u01_ball.webp",
+      "webp": "webp/u01_ball.webp",
+      "files": [
+        "webp/u01_ball.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13530,
+      "sha256": "e1ba2b5d2eacb7d68051c7a410beafe65019a20722f4d48ef4ea030dbf731f67",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        16,
+        16,
+        360,
+        359
+      ],
+      "source_crop_size": [
+        344,
+        343
+      ],
+      "visual_review": {
+        "sha256": "e1ba2b5d2eacb7d68051c7a410beafe65019a20722f4d48ef4ea030dbf731f67",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "e1ba2b5d2eacb7d68051c7a410beafe65019a20722f4d48ef4ea030dbf731f67",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+        ],
+        "resized_from": [
+          344,
+          343
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_jump_rope",
+      "semantic": {
+        "type": "toy",
+        "name": "jump rope",
+        "count": 1
+      },
+      "file": "webp/u01_jump_rope.webp",
+      "webp": "webp/u01_jump_rope.webp",
+      "files": [
+        "webp/u01_jump_rope.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18436,
+      "sha256": "f43a90de24235fdf19005fa6f1aab53b447cc52ad32878c34d97432cada2e61f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        375,
+        16,
+        718,
+        359
+      ],
+      "source_crop_size": [
+        343,
+        343
+      ],
+      "visual_review": {
+        "sha256": "f43a90de24235fdf19005fa6f1aab53b447cc52ad32878c34d97432cada2e61f",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f43a90de24235fdf19005fa6f1aab53b447cc52ad32878c34d97432cada2e61f",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+        ],
+        "resized_from": [
+          343,
+          343
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_yo_yo",
+      "semantic": {
+        "type": "toy",
+        "name": "yo-yo",
+        "count": 1
+      },
+      "file": "webp/u01_yo_yo.webp",
+      "webp": "webp/u01_yo_yo.webp",
+      "files": [
+        "webp/u01_yo_yo.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13622,
+      "sha256": "3b7e44d5530806adb6f42c6a05442a5f9c8f9ec0f00e02dfe25ad639b923ef20",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        732,
+        16,
+        1075,
+        359
+      ],
+      "source_crop_size": [
+        343,
+        343
+      ],
+      "visual_review": {
+        "sha256": "3b7e44d5530806adb6f42c6a05442a5f9c8f9ec0f00e02dfe25ad639b923ef20",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "3b7e44d5530806adb6f42c6a05442a5f9c8f9ec0f00e02dfe25ad639b923ef20",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+        ],
+        "resized_from": [
+          343,
+          343
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_bicycle",
+      "semantic": {
+        "type": "toy",
+        "name": "bicycle",
+        "count": 1
+      },
+      "file": "webp/u01_bicycle.webp",
+      "webp": "webp/u01_bicycle.webp",
+      "files": [
+        "webp/u01_bicycle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 22140,
+      "sha256": "16af345666196c614b1cf885e186cfd0973cf00d22aed6d22a37f8c9f93920f5",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        1090,
+        16,
+        1433,
+        359
+      ],
+      "source_crop_size": [
+        343,
+        343
+      ],
+      "visual_review": {
+        "sha256": "16af345666196c614b1cf885e186cfd0973cf00d22aed6d22a37f8c9f93920f5",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "16af345666196c614b1cf885e186cfd0973cf00d22aed6d22a37f8c9f93920f5",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+        ],
+        "resized_from": [
+          343,
+          343
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_train",
+      "semantic": {
+        "type": "toy",
+        "name": "train",
+        "count": 1
+      },
+      "file": "webp/u01_train.webp",
+      "webp": "webp/u01_train.webp",
+      "files": [
+        "webp/u01_train.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 20312,
+      "sha256": "379a449c4eb60315e85f9dfef2b52dc0d7b0983c61c6e9c5f6f46afd798d61b1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        16,
+        373,
+        360,
+        712
+      ],
+      "source_crop_size": [
+        344,
+        339
+      ],
+      "visual_review": {
+        "sha256": "379a449c4eb60315e85f9dfef2b52dc0d7b0983c61c6e9c5f6f46afd798d61b1",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "379a449c4eb60315e85f9dfef2b52dc0d7b0983c61c6e9c5f6f46afd798d61b1",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+        ],
+        "resized_from": [
+          344,
+          339
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_car",
+      "semantic": {
+        "type": "toy",
+        "name": "car",
+        "count": 1
+      },
+      "file": "webp/u01_car.webp",
+      "webp": "webp/u01_car.webp",
+      "files": [
+        "webp/u01_car.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17566,
+      "sha256": "a992485b0984be67420ccc93b4349ae3c5f3e5a0376a976f6b9a8be616fb75fe",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        375,
+        373,
+        718,
+        712
+      ],
+      "source_crop_size": [
+        343,
+        339
+      ],
+      "visual_review": {
+        "sha256": "a992485b0984be67420ccc93b4349ae3c5f3e5a0376a976f6b9a8be616fb75fe",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "a992485b0984be67420ccc93b4349ae3c5f3e5a0376a976f6b9a8be616fb75fe",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+        ],
+        "resized_from": [
+          343,
+          339
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_doll",
+      "semantic": {
+        "type": "toy",
+        "name": "doll",
+        "count": 1
+      },
+      "file": "webp/u01_doll.webp",
+      "webp": "webp/u01_doll.webp",
+      "files": [
+        "webp/u01_doll.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 19034,
+      "sha256": "f6ac6a45e0d1516ebe6e9a85a64e3fd5fff3066ca0b0ddfcd9cbc9203b07d71f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        732,
+        373,
+        1075,
+        712
+      ],
+      "source_crop_size": [
+        343,
+        339
+      ],
+      "visual_review": {
+        "sha256": "f6ac6a45e0d1516ebe6e9a85a64e3fd5fff3066ca0b0ddfcd9cbc9203b07d71f",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f6ac6a45e0d1516ebe6e9a85a64e3fd5fff3066ca0b0ddfcd9cbc9203b07d71f",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+        ],
+        "resized_from": [
+          343,
+          339
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u01_teddy_bear",
+      "semantic": {
+        "type": "toy",
+        "name": "teddy bear",
+        "count": 1
+      },
+      "file": "webp/u01_teddy_bear.webp",
+      "webp": "webp/u01_teddy_bear.webp",
+      "files": [
+        "webp/u01_teddy_bear.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 19512,
+      "sha256": "ecc6412fe0632c5b24ac10904102e0395b5ef569e064e85e072d139098ccca65",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-01/master.png",
+      "crop_box": [
+        1090,
+        373,
+        1433,
+        712
+      ],
+      "source_crop_size": [
+        343,
+        339
+      ],
+      "visual_review": {
+        "sha256": "ecc6412fe0632c5b24ac10904102e0395b5ef569e064e85e072d139098ccca65",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ecc6412fe0632c5b24ac10904102e0395b5ef569e064e85e072d139098ccca65",
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-01\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 1,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-01/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+        ],
+        "resized_from": [
+          343,
+          339
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "deduplication": {
+    "asset_count": 8,
+    "unique_sha256": 8,
+    "duplicate_pixel_assets": [],
+    "orphan_assets": []
+  },
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-01\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "review": "1-2",
+  "source_question_count": 83,
+  "inventory_question_count": 83,
+  "question_ids_missing_from_source": [],
+  "question_ids_missing_from_inventory": [],
+  "source_question_ids_match_inventory": true,
+  "required_asset_count": 17,
+  "webp_count": 17,
+  "missing_asset_ids": [],
+  "unexpected_webp_ids": [],
+  "dimensions_512x512": true,
+  "oversize_files": [],
+  "duplicate_hash_groups": [],
+  "question_mappings_total": 83,
+  "question_mappings_with_required_image": 51,
+  "question_mappings_without_static_image": 32,
+  "question_mappings_missing_asset": [],
+  "visual_review_all_assets": true,
+  "contains_answer_text_or_source_markers": false,
+  "audio_created": false,
+  "source_files_modified": false,
+  "status": "complete",
+  "production_summary": {
+    "crop_count": 8,
+    "edited_with_built_in_imagegen": 9,
+    "native_graphic_count": 0,
+    "composite_count": 0,
+    "new_ai_generation_count": 0,
+    "context_open": [],
+    "missing_required_assets": []
+  },
+  "imagegen_log": "batches/imagegen-log.json",
+  "imagegen_log_exists": true,
+  "imagegen_log_entries": 9,
+  "creation_methods_present": true,
+  "creation_methods": {
+    "built_in_imagegen_edit": 9,
+    "crop_and_mask": 2,
+    "crop_from_lesson": 6
+  },
+  "complete": true,
+  "missing": [],
+  "asset_count": 17,
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "r12_car": 18022,
+      "r12_train": 28164,
+      "r12_bicycle": 24320,
+      "r12_ball": 18336,
+      "r12_green": 35910,
+      "r12_red": 39850,
+      "r12_purple": 35954,
+      "r12_yellow": 24192,
+      "r12_paper": 5140,
+      "r12_scissors": 12288,
+      "r12_glue": 9710,
+      "r12_paint": 12706,
+      "r12_tape": 10386,
+      "r12_stand_up": 15030,
+      "r12_sit_down": 14732,
+      "r12_come_here": 18280,
+      "r12_turn_around": 13510
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 17
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 17,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 39850,
+    "over_60kb": [],
+    "unique_hashes": 17,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "batch": 8,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u06_cake",
+      "crop_box": [
+        0,
+        0,
+        370,
+        350
+      ],
+      "original_cell_size": [
+        370,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 21626,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_cake.webp",
+      "sha256": "f45e2ab7e0613414333898b48651269b5250be422591e74c14df0037f3289531"
+    },
+    {
+      "id": "u06_chicken",
+      "crop_box": [
+        370,
+        0,
+        760,
+        350
+      ],
+      "original_cell_size": [
+        390,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18696,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_chicken.webp",
+      "sha256": "252443120c7e0221482cdc77f3618fa8bbbc8d02d11e4e36cc7de0adaf0e0bc1"
+    },
+    {
+      "id": "u06_milk",
+      "crop_box": [
+        760,
+        0,
+        1060,
+        350
+      ],
+      "original_cell_size": [
+        300,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12106,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_milk.webp",
+      "sha256": "4f50a50ad1219fc42b75791595b11c7bbc943e12630246067fbdb1c6f3b2c288"
+    },
+    {
+      "id": "u06_fish",
+      "crop_box": [
+        1060,
+        0,
+        1448,
+        350
+      ],
+      "original_cell_size": [
+        388,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15146,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_fish.webp",
+      "sha256": "3802ce263e16f00cfb078e6edc7f6a9034bacb511663e3ecb9abd8bcbfb6dc62"
+    },
+    {
+      "id": "u06_bread",
+      "crop_box": [
+        0,
+        350,
+        380,
+        680
+      ],
+      "original_cell_size": [
+        380,
+        330
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11966,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_bread.webp",
+      "sha256": "53cb5ce4fbe5c02512e33a53e6175701ffd1e29f6606b034169eaf089953de04"
+    },
+    {
+      "id": "u06_rice",
+      "crop_box": [
+        380,
+        350,
+        740,
+        680
+      ],
+      "original_cell_size": [
+        360,
+        330
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15364,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_rice.webp",
+      "sha256": "3f2a97771727bfd324ba20f5052814c491cc71def1c79379b4f7069fe1c11446"
+    },
+    {
+      "id": "u06_queen",
+      "crop_box": [
+        740,
+        350,
+        1060,
+        750
+      ],
+      "original_cell_size": [
+        320,
+        400
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 24018,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_queen.webp",
+      "sha256": "e0959ced0145d238ef05df5ddf979ef812b599a95fd63575178cc3b291ec785f"
+    },
+    {
+      "id": "u06_rabbit",
+      "crop_box": [
+        1060,
+        350,
+        1448,
+        700
+      ],
+      "original_cell_size": [
+        388,
+        350
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13010,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_rabbit.webp",
+      "sha256": "a3b67e32bf0b9cd435bc005d26ccf403ef89227f769de0bd45a52c81d89811db"
+    },
+    {
+      "id": "u06_sun",
+      "crop_box": [
+        0,
+        680,
+        370,
+        1086
+      ],
+      "original_cell_size": [
+        370,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11172,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_sun.webp",
+      "sha256": "d6df64b33bcb358c52a8f57fb2ec4815e7bf73a598d5e17ed11f621b5f4e5246"
+    },
+    {
+      "id": "u06_tiger",
+      "crop_box": [
+        370,
+        680,
+        730,
+        1086
+      ],
+      "original_cell_size": [
+        360,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 23354,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_tiger.webp",
+      "sha256": "dc654f67b10943f64e562f67418cef7f4182c8cf7ad3a38e4234e4eb5db7bf87"
+    },
+    {
+      "id": "u06_birds",
+      "crop_box": [
+        730,
+        760,
+        1080,
+        1086
+      ],
+      "original_cell_size": [
+        350,
+        326
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16810,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_birds.webp",
+      "sha256": "06430351f21edb166096b57761e2acc4c4d626aeee46bfd3903425fa9b286741"
+    },
+    {
+      "id": "u06_likes_milk",
+      "crop_box": [
+        1080,
+        700,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        368,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19052,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_likes_milk.webp",
+      "sha256": "9a11f9ee6040da5ef3a7962bb18d3a90bcc3dbc4beb541a70a7a2a3dc7e3d7bb"
+    }
+  ],
+  "status": "visual_review_pass"
+}

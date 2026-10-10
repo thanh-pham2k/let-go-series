@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Row1: SAME black-haired red-shirt blue-shorts boy from flying-kite cell, same orange kite now lying flat on ground slack string confused face; two kids passing one ball to each other; two kids playing tag one reaching toward running friend; child jumping rope in midair holding two handles. Row2: orange fox white tip tail black paws; blue yarn ball loose end; black-white zebra; FOUR kids holding hands forming clearly closed circular ring seen slightly overhead. Row3: FOUR kids standing in single straight line side by side; red rounded toy car from Review 1-2 1a; yellow carriages blue roof green engine toy train from Review 1-2 1b; red bicycle with green saddle from Review 1-2 2a. Preserve distinct positive/negative kite state and same boy identity. All kids and objects fully visible.
+Row 1, column 1: Cùng bé/diều với fly_kite nhưng diều nằm dưới đất, dây chùng, bé bối rối không thả được; hình diễn đạt can’t, không chỉ dấu X hoặc chữ can’t.
+Row 1, column 2: Hai bé chơi bóng cùng nhau; khác một bé đập bóng; không lời thoại hay nhãn.
+Row 1, column 3: Các bé chơi đuổi bắt, một bé đưa tay đuổi/chạm bạn; không chỉ một người chạy; không lời thoại hay nhãn.
+Row 1, column 4: Bé đang nhảy qua dây, hai tay cầm và dây đúng chuyển động; khác ảnh vật dây nhảy; không lời thoại hay nhãn.
+Row 2, column 1: Một fox theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.
+Row 2, column 2: Một yarn theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.
+Row 2, column 3: Một zebra theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.
+Row 2, column 4: Nhóm bé xếp thành vòng tròn khép kín; không chữ.
+Row 3, column 1: Nhóm bé xếp thành một hàng thẳng; không chữ.
+Row 3, column 2: Ô tô đồ chơi ở 1a
+Row 3, column 3: Đoàn tàu đồ chơi ở 1b
+Row 3, column 4: Xe đạp ở 2a

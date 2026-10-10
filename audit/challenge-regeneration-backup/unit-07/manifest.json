@@ -1,0 +1,835 @@
+{
+  "schema_version": 1,
+  "unit": 7,
+  "topic": "My Body",
+  "scope": "Challenge 1–5 only",
+  "source": "Let_s Go Begin/Units/Unit 7 - My Body(2).md",
+  "output_format": {
+    "cards": "512x512 WebP",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": "15–60 KB where feasible"
+  },
+  "required_asset_count": 15,
+  "assets": [
+    {
+      "id": "u07_head",
+      "file": "webp/u07_head.webp",
+      "brief": "Bộ phận head trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "head",
+        "count_or_state": "singular"
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_head-master.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 8578,
+      "sha256": "dc60e7fa3677f0238912f0fcbd0c1cd34c27a80397b17d5d6715668a924abc1b",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        58,
+        196,
+        248,
+        370,
+        421
+      ],
+      "crop_box_source_pixels": [
+        80,
+        275,
+        575,
+        615
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "dc60e7fa3677f0238912f0fcbd0c1cd34c27a80397b17d5d6715668a924abc1b",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_shoulders",
+      "file": "webp/u07_shoulders.webp",
+      "brief": "Bộ phận shoulders trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "shoulders",
+        "count_or_state": "plural"
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_shoulders-master.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 10996,
+      "sha256": "f2fcfc044b53fc537f585e05d817a652ec6fa827daa5fa5161cf7384e24da956",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        65,
+        249,
+        371,
+        423
+      ],
+      "crop_box_source_pixels": [
+        625,
+        275,
+        1145,
+        615
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "f2fcfc044b53fc537f585e05d817a652ec6fa827daa5fa5161cf7384e24da956",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_knees",
+      "file": "webp/u07_knees.webp",
+      "brief": "Bộ phận knees trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "knees",
+        "count_or_state": "plural"
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_knees-master.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 12620,
+      "sha256": "a19e9007787f6655a75ac28e962c1873cb1ae2aaea0363717f41449d58813daf",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        72,
+        250,
+        372,
+        425
+      ],
+      "crop_box_source_pixels": [
+        75,
+        680,
+        575,
+        1030
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "a19e9007787f6655a75ac28e962c1873cb1ae2aaea0363717f41449d58813daf",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_toes",
+      "file": "webp/u07_toes.webp",
+      "brief": "Bộ phận toes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "toes",
+        "count_or_state": "plural"
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_toes-master.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 11928,
+      "sha256": "485996601db6fa45dfdd59cc4e71c91da4eb418d6561f59ad711178b6c078d40",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        79,
+        251,
+        373,
+        427
+      ],
+      "crop_box_source_pixels": [
+        625,
+        680,
+        1145,
+        1030
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "485996601db6fa45dfdd59cc4e71c91da4eb418d6561f59ad711178b6c078d40",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_eyes",
+      "file": "webp/u07_eyes.webp",
+      "brief": "Bộ phận eyes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "eyes",
+        "count_or_state": "plural"
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_eyes-master.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 15522,
+      "sha256": "78314d97e6b02f68bab47032e0935958d700106eb1287f05f64ff37599019469",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        86,
+        196,
+        200,
+        204,
+        208,
+        252,
+        374,
+        401,
+        429
+      ],
+      "crop_box_source_pixels": [
+        70,
+        395,
+        575,
+        680
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "78314d97e6b02f68bab47032e0935958d700106eb1287f05f64ff37599019469",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_ears",
+      "file": "webp/u07_ears.webp",
+      "brief": "Bộ phận ears trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "ears",
+        "count_or_state": "plural"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 16922,
+      "sha256": "41b6355fefa96796b3d07920fade4d8f6657996c6c7ca54db195bfdf287e21e7",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        93,
+        200,
+        204,
+        208,
+        253,
+        375,
+        413,
+        431
+      ],
+      "crop_box_batch_pixels": [
+        428,
+        422,
+        825,
+        815
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "41b6355fefa96796b3d07920fade4d8f6657996c6c7ca54db195bfdf287e21e7",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_mouth",
+      "file": "webp/u07_mouth.webp",
+      "brief": "Bộ phận mouth trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "mouth",
+        "count_or_state": "singular"
+      },
+      "method": "imagegen_single_subject",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_mouth-regenerated.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 23384,
+      "sha256": "24bc9c9d4e614318cabd519f2e02f1007c973ff14a68493d3530c5359cc43d48",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        100,
+        196,
+        200,
+        204,
+        208,
+        254,
+        376,
+        433
+      ],
+      "source_image": "batches/u07_mouth-regenerated.png",
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07_mouth-regenerated.png",
+        "reviewed_single_subject": true
+      },
+      "creation_method": "imagegen_single_subject",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "24bc9c9d4e614318cabd519f2e02f1007c973ff14a68493d3530c5359cc43d48",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_nose",
+      "file": "webp/u07_nose.webp",
+      "brief": "Bộ phận nose trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "nose",
+        "count_or_state": "singular"
+      },
+      "method": "imagegen_single_subject",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_nose-regenerated.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 25030,
+      "sha256": "b9c95fff2ae156bea0b3c91df3e18a3d3a6de90bbb96238366b732deb60911a6",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        107,
+        196,
+        200,
+        204,
+        208,
+        255,
+        377,
+        407,
+        435
+      ],
+      "source_image": "batches/u07_nose-regenerated.png",
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07_nose-regenerated.png",
+        "reviewed_single_subject": true
+      },
+      "creation_method": "imagegen_single_subject",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b9c95fff2ae156bea0b3c91df3e18a3d3a6de90bbb96238366b732deb60911a6",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_touch_head",
+      "file": "webp/u07_touch_head.webp",
+      "brief": "Bé đang chạm đúng head; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "semantic": {
+        "type": "body_action",
+        "subject": "touch_head",
+        "count_or_state": "clear_action"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_44.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_48.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 17784,
+      "sha256": "4969acd150049af59fa5941817b1a7e5fce0462cca3f86d0fda7f9c43c5c5079",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        126,
+        439
+      ],
+      "crop_box_batch_pixels": [
+        428,
+        15,
+        825,
+        408
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "4969acd150049af59fa5941817b1a7e5fce0462cca3f86d0fda7f9c43c5c5079",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 7,
+          "question_line": 308,
+          "cue_line": 309,
+          "asset_id": "u07_touch_head",
+          "asset_ids": [
+            "u07_touch_head"
+          ],
+          "expected_answer": "head",
+          "accepted_answers": [
+            "head"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "B: I can touch my ____________________."
+        }
+      ]
+    },
+    {
+      "id": "u07_touch_nose",
+      "file": "webp/u07_touch_nose.webp",
+      "brief": "Bé đang chạm đúng nose; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "semantic": {
+        "type": "body_action",
+        "subject": "touch_nose",
+        "count_or_state": "clear_action"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_44.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_48.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 19938,
+      "sha256": "665abaf431a99c9a649c492e14969cc436c4dd2b691ec92ba03185c6a86f2bcc",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        131,
+        442
+      ],
+      "crop_box_batch_pixels": [
+        841,
+        15,
+        1238,
+        408
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "665abaf431a99c9a649c492e14969cc436c4dd2b691ec92ba03185c6a86f2bcc",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_touch_eyes",
+      "file": "webp/u07_touch_eyes.webp",
+      "brief": "Bé đang chạm đúng eyes; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "semantic": {
+        "type": "body_action",
+        "subject": "touch_eyes",
+        "count_or_state": "clear_action"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_44.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_48.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 24878,
+      "sha256": "ae34b32d90b0a2bbd76d974c0fa8ede3d806f854714636afe58ba72f3365e105",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        136,
+        445
+      ],
+      "crop_box_batch_pixels": [
+        15,
+        422,
+        412,
+        815
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "ae34b32d90b0a2bbd76d974c0fa8ede3d806f854714636afe58ba72f3365e105",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 7,
+          "question_line": 311,
+          "cue_line": 312,
+          "asset_id": "u07_touch_eyes",
+          "asset_ids": [
+            "u07_touch_eyes"
+          ],
+          "expected_answer": "eyes",
+          "accepted_answers": [
+            "eyes"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "B: I can touch my ____________________."
+        }
+      ]
+    },
+    {
+      "id": "u07_red_circle",
+      "file": "webp/u07_red_circle.webp",
+      "brief": "Một hình tròn màu đỏ, không chữ, để bé chỉ/chạm trong câu I can touch the red circle.",
+      "semantic": {
+        "type": "shape_target",
+        "subject": "red_circle",
+        "count_or_state": "single"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_52.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_53.png",
+        "batches/u07_red_circle-master.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 3878,
+      "sha256": "eb7663f4ee17dc75cbf604cb97afcb1812a311cdd24e08b411e63b9b535e82d0",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        524
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "eb7663f4ee17dc75cbf604cb97afcb1812a311cdd24e08b411e63b9b535e82d0",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_umbrella",
+      "file": "webp/u07_umbrella.webp",
+      "brief": "Một umbrella theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "semantic": {
+        "type": "phonics_object",
+        "subject": "umbrella",
+        "count_or_state": "single"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_51.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 15764,
+      "sha256": "22337b9fedb614b3c21e22b5c1a85b2a5e6849847bed6f3ac9a42a25b9f2cbd0",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        383,
+        492
+      ],
+      "crop_box_batch_pixels": [
+        841,
+        422,
+        1238,
+        815
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "22337b9fedb614b3c21e22b5c1a85b2a5e6849847bed6f3ac9a42a25b9f2cbd0",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_violin",
+      "file": "webp/u07_violin.webp",
+      "brief": "Một violin theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "semantic": {
+        "type": "phonics_object",
+        "subject": "violin",
+        "count_or_state": "single"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_51.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 19736,
+      "sha256": "0b18def45cfd99ba73dcdc4c43d5ebf3cac4c0172ee59f3224afcd090dcfc9ef",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        384,
+        493
+      ],
+      "crop_box_batch_pixels": [
+        15,
+        829,
+        412,
+        1238
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "0b18def45cfd99ba73dcdc4c43d5ebf3cac4c0172ee59f3224afcd090dcfc9ef",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    },
+    {
+      "id": "u07_watch",
+      "file": "webp/u07_watch.webp",
+      "brief": "Một watch theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "semantic": {
+        "type": "phonics_object",
+        "subject": "watch",
+        "count_or_state": "single"
+      },
+      "method": "imagegen_batch_crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_51.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 15000,
+      "sha256": "8ff3b94be136efa729a1d39f8ef423331d86f18276cd759de1d33ca2fd92899b",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        385,
+        494
+      ],
+      "crop_box_batch_pixels": [
+        428,
+        829,
+        825,
+        1238
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "batch_master": "batches/u07-regenerated-9card.png",
+        "reviewed_batch": true
+      },
+      "creation_method": "imagegen_batch_crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "8ff3b94be136efa729a1d39f8ef423331d86f18276cd759de1d33ca2fd92899b",
+        "status": "pass",
+        "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+      }
+    }
+  ],
+  "provenance": {
+    "tool": "built-in image_gen repair batch + Pillow crop/native graphic",
+    "built_in_image_gen_used": true,
+    "repair_batch": "batches/u07-regenerated-9card.png",
+    "generation_log": "batches/generation-log.json",
+    "reason": "The repaired touch/phonics cards use the reviewed 3x3 batch; head was restored to the original source crop with its correct arrow, while nose and mouth use targeted single-subject image_gen cards with precise markers. Six passing cards remain source crops/native graphic."
+  },
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

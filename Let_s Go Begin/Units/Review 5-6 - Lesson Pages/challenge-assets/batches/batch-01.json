@@ -1,0 +1,31 @@
+{
+  "batch_id": "batch-01",
+  "grid": "4x3",
+  "occupied_cells": 10,
+  "asset_ids": [
+    "r56_cat_01",
+    "r56_cat_03",
+    "r56_cat_04",
+    "r56_rabbit_01",
+    "r56_rabbit_02",
+    "r56_rabbit_05",
+    "r56_ice_cream",
+    "r56_cake",
+    "r56_bread",
+    "r56_rice"
+  ],
+  "source": "final WebP cards assembled without labels",
+  "provenance_file": "../provenance.json",
+  "provenance_refs": {
+    "r56_cat_01": "../provenance.json#/events/event-r56-cat-01",
+    "r56_cat_03": "../provenance.json#/events/event-r56-cat-03-revision",
+    "r56_cat_04": "../provenance.json#/events/event-r56-cat-04-revision",
+    "r56_rabbit_01": "../provenance.json#/events/event-r56-rabbit-01",
+    "r56_rabbit_02": "../provenance.json#/events/event-r56-rabbit-02-revision",
+    "r56_rabbit_05": "../provenance.json#/events/event-r56-rabbit-05",
+    "r56_ice_cream": "../provenance.json#/crop_operations/crop-r56_ice_cream-initial",
+    "r56_cake": "../provenance.json#/events/event-r56-cake-revision",
+    "r56_bread": "../provenance.json#/events/event-r56-bread-revision",
+    "r56_rice": "../provenance.json#/events/event-r56-rice-revision"
+  }
+}

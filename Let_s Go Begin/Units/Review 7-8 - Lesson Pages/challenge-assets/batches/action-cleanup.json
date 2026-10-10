@@ -1,0 +1,104 @@
+{
+  "ids": [
+    "r78_wink",
+    "r78_touch_knees",
+    "r78_touch_toes",
+    "r78_cannot_touch_toes",
+    "r78_ride_bicycle",
+    "r78_fly_kite",
+    "r78_swim",
+    "r78_dance",
+    "r78_stamp_feet",
+    "r78_clap_hands",
+    "r78_point_board",
+    "r78_stand_up"
+  ],
+  "tool": "built-in image_gen",
+  "prompt": "Edit the supplied 12-card contact sheet non-destructively. Preserve its exact 4 columns by 3 rows, individual square white cards, all children, clothes, colors, facial expressions, body poses, objects and source textbook cartoon style. Remove ONLY the stray black printed exercise-number fragments 1/2/3/4/5/6 and their dots near the upper-left of the cards, replacing those fragments with the local plain background. Do not add any text, symbols, labels, IDs or correct/incorrect badges. Keep clean white gutters and no objects crossing cells. Rows in reading order MUST remain: row1col1 one-eye wink boy (one eye closed, other open), row1col2 boy with both hands on knees, row1col3 girl actually touching tips of shoes with fingertips in contact, row1col4 same girl unable to reach shoes with clear gap between fingertips and shoes; row2col1 girl riding bicycle with both wheels complete, row2col2 girl flying red kite with clear string connected to hand, row2col3 boy swimming, row2col4 boy dancing beside pool; row3col1 girl stamping foot with both shoes fully visible, row3col2 girl clapping hands with both shoes fully visible, row3col3 seated boy pointing at blackboard, row3col4 boy standing up with both feet complete. All of these already exist in input; preserve them, especially the touch-versus-not-touch distinction. Remove the stray number ink, do not redraw or reinterpret actions. Keep output as high resolution as supported with identical card arrangement. Use supplied first image as edit target, not just style reference.",
+  "refs": [
+    "action-cleanup-input.png"
+  ],
+  "rows": 3,
+  "columns": 4,
+  "result": "action-cleanup-result.png",
+  "review": "Batch viewed: all 12 actions preserved, black item-number fragments removed; individual compressed crop review pending.",
+  "crop_boxes": {
+    "r78_wink": [
+      0,
+      0,
+      362,
+      362
+    ],
+    "r78_touch_knees": [
+      362,
+      0,
+      724,
+      362
+    ],
+    "r78_touch_toes": [
+      724,
+      0,
+      1086,
+      362
+    ],
+    "r78_cannot_touch_toes": [
+      1086,
+      0,
+      1448,
+      362
+    ],
+    "r78_ride_bicycle": [
+      0,
+      362,
+      362,
+      724
+    ],
+    "r78_fly_kite": [
+      362,
+      362,
+      724,
+      724
+    ],
+    "r78_swim": [
+      724,
+      362,
+      1086,
+      724
+    ],
+    "r78_dance": [
+      1086,
+      362,
+      1448,
+      724
+    ],
+    "r78_stamp_feet": [
+      0,
+      724,
+      362,
+      1086
+    ],
+    "r78_clap_hands": [
+      362,
+      724,
+      724,
+      1086
+    ],
+    "r78_point_board": [
+      724,
+      724,
+      1086,
+      1086
+    ],
+    "r78_stand_up": [
+      1086,
+      724,
+      1448,
+      1086
+    ]
+  },
+  "result_size": [
+    1448,
+    1086
+  ],
+  "gutter_review": "Actual grid visually confirmed: white gutter bands around x362/724/1086, y362/724. No crossing content."
+}

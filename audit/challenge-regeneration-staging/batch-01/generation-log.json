@@ -1,0 +1,101 @@
+{
+  "batch": 1,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      16,
+      16,
+      360,
+      359
+    ],
+    [
+      375,
+      16,
+      718,
+      359
+    ],
+    [
+      732,
+      16,
+      1075,
+      359
+    ],
+    [
+      1090,
+      16,
+      1433,
+      359
+    ],
+    [
+      16,
+      373,
+      360,
+      712
+    ],
+    [
+      375,
+      373,
+      718,
+      712
+    ],
+    [
+      732,
+      373,
+      1075,
+      712
+    ],
+    [
+      1090,
+      373,
+      1433,
+      712
+    ],
+    [
+      16,
+      726,
+      360,
+      1071
+    ],
+    [
+      375,
+      726,
+      718,
+      1071
+    ],
+    [
+      732,
+      726,
+      1075,
+      1071
+    ],
+    [
+      1090,
+      726,
+      1433,
+      1071
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+  },
+  "retry_reason": null
+}

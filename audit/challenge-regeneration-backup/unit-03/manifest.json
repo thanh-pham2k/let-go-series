@@ -1,0 +1,937 @@
+{
+  "schema_version": 1,
+  "unit": 3,
+  "topic": "Shapes",
+  "asset_count": 17,
+  "required_asset_count": 17,
+  "missing_asset_ids": [],
+  "conditional_asset_ids": [],
+  "assets": [
+    {
+      "id": "u03_circle",
+      "file": "webp/u03_circle.webp",
+      "semantic": {
+        "shape": "circle",
+        "color": "orange_outline",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "source_references": [
+        "../pages/png/CD1_43.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 5898,
+        "target_bytes": 61440
+      },
+      "sha256": "445e68a4198813c011cd06c03d77299b9de5e76c68f25a5fcf24bb068275b5c8",
+      "visual_review": "Viewed at 512px; precise single circle, no text.",
+      "uses": [
+        76,
+        235,
+        243,
+        247,
+        289,
+        302,
+        464
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5898,
+      "root_visual_review": {
+        "sha256": "445e68a4198813c011cd06c03d77299b9de5e76c68f25a5fcf24bb068275b5c8",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_square",
+      "file": "webp/u03_square.webp",
+      "semantic": {
+        "shape": "square",
+        "color": "green_outline",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "source_references": [
+        "../pages/png/CD1_43.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 1092,
+        "target_bytes": 61440
+      },
+      "sha256": "d72f0ae172af51239b8cfc049418a1522f4720aa8db256bce33471f7ba68fbe5",
+      "visual_review": "Viewed at 512px; precise single square, no text.",
+      "uses": [
+        83,
+        243,
+        290,
+        303,
+        466
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1092,
+      "root_visual_review": {
+        "sha256": "d72f0ae172af51239b8cfc049418a1522f4720aa8db256bce33471f7ba68fbe5",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_triangle",
+      "file": "webp/u03_triangle.webp",
+      "semantic": {
+        "shape": "triangle",
+        "color": "purple_outline",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "source_references": [
+        "../pages/png/CD1_43.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 4222,
+        "target_bytes": 61440
+      },
+      "sha256": "ed4975ded9999e698f7ec336894f9385c36156ef6436485de66123e7df6b1a3a",
+      "visual_review": "Viewed at 512px; precise single triangle, no text.",
+      "uses": [
+        90,
+        243,
+        291,
+        307,
+        468
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4222,
+      "root_visual_review": {
+        "sha256": "ed4975ded9999e698f7ec336894f9385c36156ef6436485de66123e7df6b1a3a",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_heart",
+      "file": "webp/u03_heart.webp",
+      "semantic": {
+        "shape": "heart",
+        "color": "red_outline",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "source_references": [
+        "../pages/png/CD1_43.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 6798,
+        "target_bytes": 61440
+      },
+      "sha256": "ca44e8d3396d916a642b70700f3a79a74c7c92f3ed65b2ad8de64bcf89d0ddfe",
+      "visual_review": "Viewed at 512px; precise single heart, no text.",
+      "uses": [
+        97,
+        235,
+        247,
+        292,
+        308,
+        427,
+        470,
+        553
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6798,
+      "root_visual_review": {
+        "sha256": "ca44e8d3396d916a642b70700f3a79a74c7c92f3ed65b2ad8de64bcf89d0ddfe",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_star",
+      "file": "webp/u03_star.webp",
+      "semantic": {
+        "shape": "star",
+        "color": "yellow",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "source_references": [
+        "../pages/png/CD1_47.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 5254,
+        "target_bytes": 61440
+      },
+      "sha256": "216a3f5ca5f72c4edb737d955c0ce34e784dd2f526e830e9df48481758ef200a",
+      "visual_review": "Viewed at 512px; precise single star, no text.",
+      "uses": [
+        104,
+        235,
+        239,
+        258,
+        293,
+        304,
+        346,
+        416,
+        456,
+        472,
+        502,
+        565,
+        570
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5254,
+      "root_visual_review": {
+        "sha256": "216a3f5ca5f72c4edb737d955c0ce34e784dd2f526e830e9df48481758ef200a",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_rectangle",
+      "file": "webp/u03_rectangle.webp",
+      "semantic": {
+        "shape": "rectangle",
+        "color": "green",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "source_references": [
+        "../pages/png/CD1_47.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 1166,
+        "target_bytes": 61440
+      },
+      "sha256": "f75b472302e2aad7f325616e688e4e79d01aeaaf9cab996583491ae2e4b31a11",
+      "visual_review": "Viewed at 512px; precise single rectangle, no text.",
+      "uses": [
+        111,
+        239,
+        247,
+        294,
+        305,
+        474
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1166,
+      "root_visual_review": {
+        "sha256": "f75b472302e2aad7f325616e688e4e79d01aeaaf9cab996583491ae2e4b31a11",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_diamond",
+      "file": "webp/u03_diamond.webp",
+      "semantic": {
+        "shape": "diamond",
+        "color": "purple",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "source_references": [
+        "../pages/png/CD1_47.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 4424,
+        "target_bytes": 61440
+      },
+      "sha256": "0d964807fd164a1fbf983f35e0dd686b57a99b3d2f822eac8ab6cf81f85d4421",
+      "visual_review": "Viewed at 512px; geometric diamond, no gemstone cues or text.",
+      "uses": [
+        118,
+        235,
+        239,
+        247,
+        264,
+        295,
+        306,
+        349,
+        417,
+        444,
+        476,
+        507,
+        573,
+        578
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4424,
+      "root_visual_review": {
+        "sha256": "0d964807fd164a1fbf983f35e0dd686b57a99b3d2f822eac8ab6cf81f85d4421",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_oval",
+      "file": "webp/u03_oval.webp",
+      "semantic": {
+        "shape": "oval",
+        "color": "blue",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "source_references": [
+        "../pages/png/CD1_47.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 4398,
+        "target_bytes": 61440
+      },
+      "sha256": "3b2b6483724bcc3442a9d6a965e45c6afc671cec6fa5298a6d8a6b33c7201ba7",
+      "visual_review": "Viewed at 512px; precise single oval, no text.",
+      "uses": [
+        125,
+        239,
+        243,
+        296,
+        309,
+        450,
+        478
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4398,
+      "root_visual_review": {
+        "sha256": "3b2b6483724bcc3442a9d6a965e45c6afc671cec6fa5298a6d8a6b33c7201ba7",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_blue_square",
+      "file": "webp/u03_blue_square.webp",
+      "semantic": {
+        "shape": "square",
+        "color": "blue",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "source_references": [
+        "../pages/png/CD1_53.png",
+        "../pages/png/CD1_54.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 1206,
+        "target_bytes": 61440
+      },
+      "sha256": "205c30f65d490d930310221ea22b4c3adb50b5854d023d0c79130c3eb49cac08",
+      "visual_review": "Viewed at 512px; one blue square, no label or extra objects.",
+      "uses": [
+        162,
+        359,
+        482
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1206,
+      "root_visual_review": {
+        "sha256": "205c30f65d490d930310221ea22b4c3adb50b5854d023d0c79130c3eb49cac08",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_purple_heart",
+      "file": "webp/u03_purple_heart.webp",
+      "semantic": {
+        "shape": "heart",
+        "color": "purple",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "source_references": [
+        "../pages/png/CD1_53.png",
+        "../pages/png/CD1_54.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 4580,
+        "target_bytes": 61440
+      },
+      "sha256": "0bee1917336a4443bc76fcf15df20e76e80b55feff98bd09ee2c0b5b15092e4e",
+      "visual_review": "Viewed at 512px; one purple heart, no label or extra objects.",
+      "uses": [
+        169,
+        360,
+        485
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4580,
+      "root_visual_review": {
+        "sha256": "0bee1917336a4443bc76fcf15df20e76e80b55feff98bd09ee2c0b5b15092e4e",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_orange_triangle",
+      "file": "webp/u03_orange_triangle.webp",
+      "semantic": {
+        "shape": "triangle",
+        "color": "orange",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "source_references": [
+        "../pages/png/CD1_53.png",
+        "../pages/png/CD1_54.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 3830,
+        "target_bytes": 61440
+      },
+      "sha256": "718886c368f8d4235a730f53586087533aa422f496029d1ef717ea1e87c51aff",
+      "visual_review": "Viewed at 512px; one orange triangle, no label or extra objects.",
+      "uses": [
+        176,
+        361,
+        488
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 3830,
+      "root_visual_review": {
+        "sha256": "718886c368f8d4235a730f53586087533aa422f496029d1ef717ea1e87c51aff",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_yellow_circle",
+      "file": "webp/u03_yellow_circle.webp",
+      "semantic": {
+        "shape": "circle",
+        "color": "yellow",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "source_references": [
+        "../pages/png/CD1_53.png",
+        "../pages/png/CD1_54.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 4208,
+        "target_bytes": 61440
+      },
+      "sha256": "07834b1053b44fec267eaeba0d8c577d72e33fba49ec0848b41947948da92a73",
+      "visual_review": "Viewed at 512px; one yellow circle, no label or extra objects.",
+      "uses": [
+        183,
+        362,
+        491
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4208,
+      "root_visual_review": {
+        "sha256": "07834b1053b44fec267eaeba0d8c577d72e33fba49ec0848b41947948da92a73",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_green_square",
+      "file": "webp/u03_green_square.webp",
+      "semantic": {
+        "shape": "square",
+        "color": "green",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "source_references": [
+        "../pages/png/CD1_53.png",
+        "../pages/png/CD1_54.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 1240,
+        "target_bytes": 61440
+      },
+      "sha256": "7dc481d860fd91fd86ecf66bbb4db828688dc99f7670d0d58c12d5f29ce23308",
+      "visual_review": "Viewed at 512px; one green square, no label or extra objects.",
+      "uses": [
+        363,
+        494
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1240,
+      "root_visual_review": {
+        "sha256": "7dc481d860fd91fd86ecf66bbb4db828688dc99f7670d0d58c12d5f29ce23308",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_pink_heart",
+      "file": "webp/u03_pink_heart.webp",
+      "semantic": {
+        "shape": "heart",
+        "color": "pink",
+        "count": 1
+      },
+      "method": "native_graphic",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "source_references": [
+        "../pages/png/CD1_53.png",
+        "../pages/png/CD1_54.png"
+      ],
+      "provenance": "Deterministic native geometric raster, matching referenced Shapes pages; no AI generation.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 4548,
+        "target_bytes": 61440
+      },
+      "sha256": "f4fb0099c0651b0fbca0d0e649ab4230f3aad2a4428bb8c9b43f58de6e39bc97",
+      "visual_review": "Viewed at 512px; one pink heart, no label or extra objects.",
+      "uses": [
+        364,
+        418,
+        497,
+        581,
+        586
+      ],
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4548,
+      "root_visual_review": {
+        "sha256": "f4fb0099c0651b0fbca0d0e649ab4230f3aad2a4428bb8c9b43f58de6e39bc97",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_egg",
+      "file": "webp/u03_egg.webp",
+      "semantic": {
+        "object": "egg",
+        "count": 1
+      },
+      "method": "crop_or_edit",
+      "reference_tracks": [
+        "CD1_52"
+      ],
+      "source_references": [
+        "../pages/png/CD1_52.png"
+      ],
+      "crop_box_px": [
+        22,
+        205,
+        290,
+        505
+      ],
+      "provenance": "Cropped from referenced lesson page and contained on a white 512px card.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 6046,
+        "target_bytes": 61440
+      },
+      "sha256": "18e9c8105afccdcc3d1a184d15028ca323bd4bae0ed6cdf74db704e766c5bce3",
+      "visual_review": "Viewed at 512px; clean egg crop, no phonics label or letters.",
+      "uses": [
+        424,
+        550
+      ],
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6046,
+      "root_visual_review": {
+        "sha256": "18e9c8105afccdcc3d1a184d15028ca323bd4bae0ed6cdf74db704e766c5bce3",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_fish",
+      "file": "webp/u03_fish.webp",
+      "semantic": {
+        "object": "fish",
+        "count": 1
+      },
+      "method": "crop_or_edit",
+      "reference_tracks": [
+        "CD1_52"
+      ],
+      "source_references": [
+        "../pages/png/CD1_52.png"
+      ],
+      "crop_box_px": [
+        286,
+        205,
+        575,
+        505
+      ],
+      "provenance": "Cropped from referenced lesson page and contained on a white 512px card.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 7656,
+        "target_bytes": 61440
+      },
+      "sha256": "89b89612331217f5623b683c4a16d3c21025a25f58cb7e725020cf34e3985786",
+      "visual_review": "Viewed at 512px; clean fish crop, no phonics label or letters.",
+      "uses": [
+        425,
+        551
+      ],
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7656,
+      "root_visual_review": {
+        "sha256": "89b89612331217f5623b683c4a16d3c21025a25f58cb7e725020cf34e3985786",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u03_gorilla",
+      "file": "webp/u03_gorilla.webp",
+      "semantic": {
+        "object": "gorilla",
+        "count": 1
+      },
+      "method": "crop_or_edit",
+      "reference_tracks": [
+        "CD1_52"
+      ],
+      "source_references": [
+        "../pages/png/CD1_52.png"
+      ],
+      "crop_box_px": [
+        575,
+        205,
+        885,
+        505
+      ],
+      "provenance": "Cropped from referenced lesson page and contained on a white 512px card.",
+      "export": {
+        "format": "webp",
+        "width": 512,
+        "height": 512,
+        "quality": 80,
+        "method": 6,
+        "file_bytes": 8464,
+        "target_bytes": 61440
+      },
+      "sha256": "23b5ceff94bde02d41311ba0318adc7b028dbb8db33a75b8e55f3283414b2ec7",
+      "visual_review": "Viewed at 512px; clean gorilla crop, no phonics label or letters.",
+      "uses": [
+        426,
+        552
+      ],
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8464,
+      "root_visual_review": {
+        "sha256": "23b5ceff94bde02d41311ba0318adc7b028dbb8db33a75b8e55f3283414b2ec7",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    }
+  ],
+  "duplicate_check": {
+    "distinct_sha256_count": 17,
+    "duplicate_pixel_content_ids": [],
+    "result": "pass"
+  },
+  "batches": [
+    {
+      "file": "batches/batch-01-basic-shapes.png",
+      "ids": [
+        "u03_circle",
+        "u03_square",
+        "u03_triangle",
+        "u03_heart",
+        "u03_star",
+        "u03_rectangle",
+        "u03_diamond",
+        "u03_oval"
+      ],
+      "grid": "4x2",
+      "occupied_cells": 8
+    },
+    {
+      "file": "batches/batch-02-colored-shapes.png",
+      "ids": [
+        "u03_blue_square",
+        "u03_purple_heart",
+        "u03_orange_triangle",
+        "u03_yellow_circle",
+        "u03_green_square",
+        "u03_pink_heart"
+      ],
+      "grid": "3x2",
+      "occupied_cells": 6
+    },
+    {
+      "file": "batches/batch-03-phonics-crops.png",
+      "ids": [
+        "u03_egg",
+        "u03_fish",
+        "u03_gorilla"
+      ],
+      "grid": "3x1",
+      "occupied_cells": 3,
+      "source": "CD1_52.png"
+    }
+  ],
+  "export_policy": {
+    "default_size": "512x512",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "png_cards": "optional"
+  },
+  "adaptation_notes": "The source has six color blanks but no visual cue. Per the approved unit prompt, attach the C5§3 sequence to make each blank deterministic: 3.6.1 blue square, 3.6.2 purple heart, 3.6.3 orange triangle, 3.6.4 yellow circle, 3.6.5 green square, 3.6.6 pink heart. This is recorded as an output adaptation; the source Markdown remains unchanged.",
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

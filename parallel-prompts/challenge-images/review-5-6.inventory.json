@@ -1,0 +1,1458 @@
+{
+  "review": "5-6",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages",
+  "assets": [
+    {
+      "id": "r56_cat_01",
+      "brief": "Đúng 1 mèo; biến thể luyện số ít, không gán vào nhóm nguồn",
+      "uses": [
+        "R56-C1-01",
+        "R56-C3-21",
+        "R56-C4-05",
+        "R56-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_cat_01.webp"
+      ]
+    },
+    {
+      "id": "r56_cat_03",
+      "brief": "Đúng 3 mèo, nhóm 1a",
+      "uses": [
+        "R56-C1-02",
+        "R56-C3-15",
+        "R56-C4-09",
+        "R56-C5-01",
+        "R56-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_cat_03.webp"
+      ]
+    },
+    {
+      "id": "r56_cat_04",
+      "brief": "Đúng 4 mèo, nhóm 1b",
+      "uses": [
+        "R56-C1-02",
+        "R56-C4-10",
+        "R56-C5-02",
+        "R56-C5-05",
+        "R56-C5-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_cat_04.webp"
+      ]
+    },
+    {
+      "id": "r56_rabbit_01",
+      "brief": "Đúng 1 thỏ; biến thể luyện số ít",
+      "uses": [
+        "R56-C1-03",
+        "R56-C5-06"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_rabbit_01.webp"
+      ]
+    },
+    {
+      "id": "r56_rabbit_02",
+      "brief": "Đúng 2 thỏ, nhóm 2a",
+      "uses": [
+        "R56-C1-04",
+        "R56-C3-16",
+        "R56-C4-11",
+        "R56-C5-03",
+        "R56-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_rabbit_02.webp"
+      ]
+    },
+    {
+      "id": "r56_rabbit_05",
+      "brief": "Đúng 5 thỏ, nhóm 2b",
+      "uses": [
+        "R56-C1-04",
+        "R56-C3-22",
+        "R56-C4-12",
+        "R56-C5-07",
+        "R56-C5-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_rabbit_05.webp"
+      ]
+    },
+    {
+      "id": "r56_ice_cream",
+      "brief": "Kem 3a",
+      "uses": [
+        "R56-C1-05",
+        "R56-C3-17",
+        "R56-C4-06",
+        "R56-C4-13",
+        "R56-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_ice_cream.webp"
+      ]
+    },
+    {
+      "id": "r56_cake",
+      "brief": "Bánh 3b",
+      "uses": [
+        "R56-C1-06",
+        "R56-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_cake.webp"
+      ]
+    },
+    {
+      "id": "r56_bread",
+      "brief": "Lát bánh mì 4a",
+      "uses": [
+        "R56-C1-07",
+        "R56-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_bread.webp"
+      ]
+    },
+    {
+      "id": "r56_rice",
+      "brief": "Bát cơm 4b",
+      "uses": [
+        "R56-C1-08",
+        "R56-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_rice.webp"
+      ]
+    },
+    {
+      "id": "r56_skip",
+      "brief": "Bé nhảy chân sáo 5a, chân luân phiên; khác jump",
+      "uses": [
+        "R56-C1-09",
+        "R56-C4-07",
+        "R56-C5-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_skip.webp"
+      ]
+    },
+    {
+      "id": "r56_jump",
+      "brief": "Bé nhảy bằng hai chân 5b; khác skip",
+      "uses": [
+        "R56-C1-10",
+        "R56-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_jump.webp"
+      ]
+    },
+    {
+      "id": "r56_make_line",
+      "brief": "Các bé xếp một hàng thẳng, 6a",
+      "uses": [
+        "R56-C1-11",
+        "R56-C3-18",
+        "R56-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_make_line.webp"
+      ]
+    },
+    {
+      "id": "r56_make_circle",
+      "brief": "Các bé xếp vòng tròn khép kín, 6b",
+      "uses": [
+        "R56-C1-12",
+        "R56-C3-19",
+        "R56-C5-15"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_make_circle.webp"
+      ]
+    },
+    {
+      "id": "r56_sunny",
+      "brief": "Cảnh có nắng, hình 1 Weather",
+      "uses": [
+        "R56-C1-13",
+        "R56-C3-20",
+        "R56-C4-08",
+        "R56-C5-16",
+        "R56-C5-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_sunny.webp"
+      ]
+    },
+    {
+      "id": "r56_cloudy",
+      "brief": "Cảnh nhiều mây, hình 2",
+      "uses": [
+        "R56-C1-14",
+        "R56-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_cloudy.webp"
+      ]
+    },
+    {
+      "id": "r56_windy",
+      "brief": "Cảnh có gió làm lá/khăn bay, hình 3; không chỉ một đám mây",
+      "uses": [
+        "R56-C1-15",
+        "R56-C4-13",
+        "R56-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_windy.webp"
+      ]
+    },
+    {
+      "id": "r56_rainy",
+      "brief": "Cảnh mưa với hạt mưa rõ, hình 4",
+      "uses": [
+        "R56-C1-16",
+        "R56-C5-19"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_rainy.webp"
+      ]
+    },
+    {
+      "id": "r56_snowy",
+      "brief": "Cảnh tuyết với bông tuyết/tuyết phủ rõ, hình 5",
+      "uses": [
+        "R56-C1-17",
+        "R56-C5-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r56_snowy.webp"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "R56-C1-01",
+      "challenge": 1,
+      "line": 44,
+      "source_prompt": "🖼️một con mèo, biến thể luyện số ít. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_01"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-02",
+      "challenge": 1,
+      "line": 52,
+      "source_prompt": "🖼️nhóm mèo ở cặp 1a hoặc1b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_03",
+        "r56_cat_04"
+      ],
+      "mode": "choose_one_variant"
+    },
+    {
+      "question_id": "R56-C1-03",
+      "challenge": 1,
+      "line": 60,
+      "source_prompt": "🖼️một con thỏ, biến thể luyện số ít. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_01"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-04",
+      "challenge": 1,
+      "line": 68,
+      "source_prompt": "🖼️nhóm thỏ ở cặp 2a hoặc2b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_02",
+        "r56_rabbit_05"
+      ],
+      "mode": "choose_one_variant"
+    },
+    {
+      "question_id": "R56-C1-05",
+      "challenge": 1,
+      "line": 78,
+      "source_prompt": "🖼️kem ở cặp 3a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_ice_cream"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-06",
+      "challenge": 1,
+      "line": 86,
+      "source_prompt": "🖼️bánh ở cặp 3b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cake"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-07",
+      "challenge": 1,
+      "line": 94,
+      "source_prompt": "🖼️lát bánh mì ở cặp 4a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_bread"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-08",
+      "challenge": 1,
+      "line": 102,
+      "source_prompt": "🖼️bát cơm ở cặp 4b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rice"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-09",
+      "challenge": 1,
+      "line": 112,
+      "source_prompt": "🖼️bé nhảy chân sáo ở cặp 5a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_skip"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-10",
+      "challenge": 1,
+      "line": 120,
+      "source_prompt": "🖼️bé nhảy bằng hai chân ở cặp 5b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_jump"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-11",
+      "challenge": 1,
+      "line": 128,
+      "source_prompt": "🖼️các bạn xếp thành hàng ở cặp 6a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_make_line"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-12",
+      "challenge": 1,
+      "line": 136,
+      "source_prompt": "🖼️các bạn xếp thành vòng tròn ở cặp 6b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_make_circle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-13",
+      "challenge": 1,
+      "line": 146,
+      "source_prompt": "🖼️cảnh có nắng, hình 1 The Weather. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_sunny"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-14",
+      "challenge": 1,
+      "line": 154,
+      "source_prompt": "🖼️cảnh nhiều mây, hình 2. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cloudy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-15",
+      "challenge": 1,
+      "line": 162,
+      "source_prompt": "🖼️cảnh gió làm lá/khăn bay, hình 3. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_windy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-16",
+      "challenge": 1,
+      "line": 170,
+      "source_prompt": "🖼️cảnh mưa, hình 4. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rainy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C1-17",
+      "challenge": 1,
+      "line": 178,
+      "source_prompt": "🖼️cảnh có tuyết, hình 5. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_snowy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C2-01",
+      "challenge": 2,
+      "line": 195,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-02",
+      "challenge": 2,
+      "line": 205,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-03",
+      "challenge": 2,
+      "line": 215,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-04",
+      "challenge": 2,
+      "line": 225,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-05",
+      "challenge": 2,
+      "line": 235,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-06",
+      "challenge": 2,
+      "line": 245,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-07",
+      "challenge": 2,
+      "line": 255,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-08",
+      "challenge": 2,
+      "line": 265,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-09",
+      "challenge": 2,
+      "line": 277,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-10",
+      "challenge": 2,
+      "line": 286,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-11",
+      "challenge": 2,
+      "line": 295,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-12",
+      "challenge": 2,
+      "line": 304,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C2-13",
+      "challenge": 2,
+      "line": 313,
+      "source_prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-01",
+      "challenge": 3,
+      "line": 329,
+      "source_prompt": "Hoàn thành từ: `c_t`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-02",
+      "challenge": 3,
+      "line": 334,
+      "source_prompt": "Hoàn thành từ: `c_ts`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-03",
+      "challenge": 3,
+      "line": 339,
+      "source_prompt": "Hoàn thành từ: `r_bbit`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-04",
+      "challenge": 3,
+      "line": 344,
+      "source_prompt": "Hoàn thành từ: `r_bbits`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-05",
+      "challenge": 3,
+      "line": 349,
+      "source_prompt": "Hoàn thành từ: `c_ke`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-06",
+      "challenge": 3,
+      "line": 354,
+      "source_prompt": "Hoàn thành từ: `br_ad`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-07",
+      "challenge": 3,
+      "line": 359,
+      "source_prompt": "Hoàn thành từ: `r_ce`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-08",
+      "challenge": 3,
+      "line": 364,
+      "source_prompt": "Hoàn thành từ: `sk_p`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-09",
+      "challenge": 3,
+      "line": 369,
+      "source_prompt": "Hoàn thành từ: `j_mp`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-10",
+      "challenge": 3,
+      "line": 374,
+      "source_prompt": "Hoàn thành từ: `s_nny`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-11",
+      "challenge": 3,
+      "line": 379,
+      "source_prompt": "Hoàn thành từ: `cl_udy`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-12",
+      "challenge": 3,
+      "line": 384,
+      "source_prompt": "Hoàn thành từ: `w_ndy`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-13",
+      "challenge": 3,
+      "line": 389,
+      "source_prompt": "Hoàn thành từ: `r_iny`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-14",
+      "challenge": 3,
+      "line": 394,
+      "source_prompt": "Hoàn thành từ: `sn_wy`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C3-15",
+      "challenge": 3,
+      "line": 404,
+      "source_prompt": "🖼️nhóm 3 con mèo. Điền: `cat_`.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_03"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-16",
+      "challenge": 3,
+      "line": 409,
+      "source_prompt": "🖼️nhóm 2 con thỏ. Điền: `rabbit_`.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_02"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-17",
+      "challenge": 3,
+      "line": 414,
+      "source_prompt": "🖼️kem. Điền: `ice ________`.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_ice_cream"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-18",
+      "challenge": 3,
+      "line": 419,
+      "source_prompt": "🖼️các bạn xếp thành hàng. Điền: `Make a ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_make_line"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-19",
+      "challenge": 3,
+      "line": 424,
+      "source_prompt": "🖼️các bạn xếp thành vòng tròn. Điền: `Make a ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_make_circle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-20",
+      "challenge": 3,
+      "line": 429,
+      "source_prompt": "🖼️cảnh có nắng. Điền: `It's ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_sunny"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-21",
+      "challenge": 3,
+      "line": 434,
+      "source_prompt": "Điền từ số ít/số nhiều: 🖼️1 con mèo → ________.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_01"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-22",
+      "challenge": 3,
+      "line": 439,
+      "source_prompt": "Điền từ số ít/số nhiều: 🖼️5 con thỏ → ________.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C3-23",
+      "challenge": 3,
+      "line": 444,
+      "source_prompt": "Nghe câu mẫu và điền: `It's ________.`",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C4-01",
+      "challenge": 4,
+      "line": 460,
+      "source_prompt": "Các thẻ: `cream / ice`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C4-02",
+      "challenge": 4,
+      "line": 465,
+      "source_prompt": "Các thẻ: `line. / Make / a`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C4-03",
+      "challenge": 4,
+      "line": 470,
+      "source_prompt": "Các thẻ: `a / circle. / Make`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C4-04",
+      "challenge": 4,
+      "line": 475,
+      "source_prompt": "Các thẻ: `sunny. / It's`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R56-C4-05",
+      "challenge": 4,
+      "line": 484,
+      "source_prompt": "🖼️một con mèo, biến thể luyện số ít. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_01"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-06",
+      "challenge": 4,
+      "line": 489,
+      "source_prompt": "🖼️kem ở cặp 3a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_ice_cream"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-07",
+      "challenge": 4,
+      "line": 494,
+      "source_prompt": "🖼️bé nhảy chân sáo ở cặp 5a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_skip"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-08",
+      "challenge": 4,
+      "line": 499,
+      "source_prompt": "🖼️cảnh có nắng, hình 1 The Weather. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_sunny"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-09",
+      "challenge": 4,
+      "line": 506,
+      "source_prompt": "Nhóm1a có3 con mèo. Chọn từ số nhiều và số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_03"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-10",
+      "challenge": 4,
+      "line": 513,
+      "source_prompt": "Nhóm1b có4 con mèo. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_04"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-11",
+      "challenge": 4,
+      "line": 520,
+      "source_prompt": "Nhóm2a có2 con thỏ. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_02"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-12",
+      "challenge": 4,
+      "line": 527,
+      "source_prompt": "Nhóm2b có5 con thỏ. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C4-13",
+      "challenge": 4,
+      "line": 534,
+      "source_prompt": "Nhìn hình kem và cảnh có gió. Chọn cặp từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_ice_cream",
+        "r56_windy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-01",
+      "challenge": 5,
+      "line": 548,
+      "source_prompt": "Nhóm1a có3 con mèo. Chọn từ số nhiều và số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_03"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-02",
+      "challenge": 5,
+      "line": 555,
+      "source_prompt": "Nhóm1b có4 con mèo. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_04"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-03",
+      "challenge": 5,
+      "line": 562,
+      "source_prompt": "Nhóm2a có2 con thỏ. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_02"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-04",
+      "challenge": 5,
+      "line": 571,
+      "source_prompt": "Người lớn chỉ/diễn: một con mèo, biến thể luyện số ít. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_01"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-05",
+      "challenge": 5,
+      "line": 576,
+      "source_prompt": "Người lớn chỉ/diễn: nhóm mèo ở cặp 1a hoặc1b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_03",
+        "r56_cat_04"
+      ],
+      "mode": "choose_one_variant"
+    },
+    {
+      "question_id": "R56-C5-06",
+      "challenge": 5,
+      "line": 581,
+      "source_prompt": "Người lớn chỉ/diễn: một con thỏ, biến thể luyện số ít. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_01"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-07",
+      "challenge": 5,
+      "line": 586,
+      "source_prompt": "Người lớn chỉ/diễn: nhóm thỏ ở cặp 2a hoặc2b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rabbit_02",
+        "r56_rabbit_05"
+      ],
+      "mode": "choose_one_variant"
+    },
+    {
+      "question_id": "R56-C5-08",
+      "challenge": 5,
+      "line": 591,
+      "source_prompt": "Người lớn chỉ/diễn: kem ở cặp 3a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_ice_cream"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-09",
+      "challenge": 5,
+      "line": 596,
+      "source_prompt": "Người lớn chỉ/diễn: bánh ở cặp 3b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cake"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-10",
+      "challenge": 5,
+      "line": 601,
+      "source_prompt": "Người lớn chỉ/diễn: lát bánh mì ở cặp 4a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_bread"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-11",
+      "challenge": 5,
+      "line": 606,
+      "source_prompt": "Người lớn chỉ/diễn: bát cơm ở cặp 4b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rice"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-12",
+      "challenge": 5,
+      "line": 611,
+      "source_prompt": "Người lớn chỉ/diễn: bé nhảy chân sáo ở cặp 5a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_skip"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-13",
+      "challenge": 5,
+      "line": 616,
+      "source_prompt": "Người lớn chỉ/diễn: bé nhảy bằng hai chân ở cặp 5b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_jump"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-14",
+      "challenge": 5,
+      "line": 621,
+      "source_prompt": "Người lớn chỉ/diễn: các bạn xếp thành hàng ở cặp 6a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_make_line"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-15",
+      "challenge": 5,
+      "line": 626,
+      "source_prompt": "Người lớn chỉ/diễn: các bạn xếp thành vòng tròn ở cặp 6b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_make_circle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-16",
+      "challenge": 5,
+      "line": 631,
+      "source_prompt": "Người lớn chỉ/diễn: cảnh có nắng, hình 1 The Weather. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_sunny"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-17",
+      "challenge": 5,
+      "line": 636,
+      "source_prompt": "Người lớn chỉ/diễn: cảnh nhiều mây, hình 2. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cloudy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-18",
+      "challenge": 5,
+      "line": 641,
+      "source_prompt": "Người lớn chỉ/diễn: cảnh gió làm lá/khăn bay, hình 3. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_windy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-19",
+      "challenge": 5,
+      "line": 646,
+      "source_prompt": "Người lớn chỉ/diễn: cảnh mưa, hình 4. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_rainy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-20",
+      "challenge": 5,
+      "line": 651,
+      "source_prompt": "Người lớn chỉ/diễn: cảnh có tuyết, hình 5. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_snowy"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-21",
+      "challenge": 5,
+      "line": 656,
+      "source_prompt": "Che nhãn: chỉ nhóm mèo ở1b và nhóm thỏ ở2b. Bé gọi số nhiều và đếm mỗi nhóm.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_cat_04",
+        "r56_rabbit_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R56-C5-22",
+      "challenge": 5,
+      "line": 667,
+      "source_prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Người lớn chỉ cảnh có nắng trong trang The Weather, bé nói một câu đầy đủ.",
+      "image_required": true,
+      "asset_ids": [
+        "r56_sunny"
+      ],
+      "mode": "all_required"
+    }
+  ],
+  "source_notes": "Giữ lượng nguồn3/4 mèo và2/5 thỏ. Hình1 con vật là biến thể luyện số ít, không gán cho nhóm gốc. Windy cần dấu hiệu gió, không dùng đám mây đơn để thay. Jump và skip có động tác khác nhau. Câu in trong nguồn chỉ là It's sunny.; không tuyên bố các câu thời tiết khác đã in hoặc có audio. Nhãn hành động là cách gọi tranh để luyện, chưa phải bản chép MP3.",
+  "status": "missing_dedicated_challenge_assets_and_mapping"
+}

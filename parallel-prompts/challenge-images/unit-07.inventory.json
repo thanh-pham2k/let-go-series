@@ -1,0 +1,1393 @@
+{
+  "schema_version": 1,
+  "unit": 7,
+  "topic": "My Body",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "line": 55,
+      "visual_lines": [
+        58,
+        65,
+        72,
+        79,
+        86,
+        93,
+        100,
+        107
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "line": 113,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "line": 124,
+      "visual_lines": [
+        126,
+        131,
+        136
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "line": 141,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 154,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "line": 192,
+      "visual_lines": [
+        196,
+        200,
+        204,
+        208
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu → chọn phản hồi phù hợp",
+      "line": 210,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "line": 230,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "line": 244,
+      "visual_lines": [
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "line": 257,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Hoàn thành hội thoại",
+      "line": 267,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "line": 277,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "line": 303,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "6. Commands Recall",
+      "line": 314,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 328,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu → phản hồi phù hợp",
+      "line": 359,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "line": 366,
+      "visual_lines": [
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "line": 379,
+      "visual_lines": [
+        383,
+        384,
+        385
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "line": 399,
+      "visual_lines": [
+        401,
+        407,
+        413
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "line": 419,
+      "visual_lines": [
+        421,
+        423,
+        425,
+        427,
+        429,
+        431,
+        433,
+        435
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "line": 437,
+      "visual_lines": [
+        439,
+        442,
+        445
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "line": 448,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Situation — Apology",
+      "line": 456,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Build without hint",
+      "line": 461,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Commands",
+      "line": 479,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "line": 488,
+      "visual_lines": [
+        492,
+        493,
+        494
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "line": 496,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 58,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.1",
+      "source_text": "👤 *(phần đầu)*",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 65,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.2",
+      "source_text": "🧍 *(hai vai)*",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 72,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.3",
+      "source_text": "🦵 *(đầu gối)*",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 79,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.4",
+      "source_text": "🦶 *(ngón chân)*",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 86,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.5",
+      "source_text": "👀",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 93,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.6",
+      "source_text": "👂",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 100,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.7",
+      "source_text": "👄",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 107,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.8",
+      "source_text": "👃",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 126,
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "item": "",
+      "source_text": "🙌 *(chạm đầu)*",
+      "asset_ids": [
+        "u07_touch_head"
+      ]
+    },
+    {
+      "line": 131,
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "item": "",
+      "source_text": "👃 *(chạm mũi)*",
+      "asset_ids": [
+        "u07_touch_nose"
+      ]
+    },
+    {
+      "line": 136,
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "item": "",
+      "source_text": "👀 *(chạm mắt)*",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ]
+    },
+    {
+      "line": 196,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "source_text": "`👤 / 👀 / 👃 / 👄`",
+      "asset_ids": [
+        "u07_head",
+        "u07_eyes",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 200,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "source_text": "`👂 / 👀 / 👃 / 👄`",
+      "asset_ids": [
+        "u07_eyes",
+        "u07_ears",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 204,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "source_text": "`👀 / 👂 / 👄 / 👃`",
+      "asset_ids": [
+        "u07_eyes",
+        "u07_ears",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 208,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "source_text": "`👄 / 👃 / 👂 / 👀`",
+      "asset_ids": [
+        "u07_eyes",
+        "u07_ears",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 248,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "1. h _ a d *(head)* 👤",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 249,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "2. s h _ u l d e r s *(shoulders)* 🧍",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 250,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "3. k n _ e s *(knees)* 🦵",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 251,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "4. t _ e s *(toes)* 🦶",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 252,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "5. e y _ s *(eyes)* 👀",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 253,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "6. e _ r s *(ears)* 👂",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 254,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "7. m _ u t h *(mouth)* 👄",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 255,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "8. n _ s e *(nose)* 👃",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 370,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 1. head | A. 👤 (đầu) |",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 371,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 2. shoulders | B. 🧍 (hai vai) |",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 372,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 3. knees | C. 🦵 (đầu gối) |",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 373,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 4. toes | D. 🦶 (ngón chân) |",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 374,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 5. eyes | E. 👀 (mắt) |",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 375,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 6. ears | F. 👂 (tai) |",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 376,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 7. mouth | G. 👄 (miệng) |",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 377,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "source_text": "| 8. nose | H. 👃 (mũi) |",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 383,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "item": "",
+      "source_text": "- u m b r _ l l a *(umbrella)* ☂️",
+      "asset_ids": [
+        "u07_umbrella"
+      ]
+    },
+    {
+      "line": 384,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "item": "",
+      "source_text": "- v _ o l i n *(violin)* 🎻",
+      "asset_ids": [
+        "u07_violin"
+      ]
+    },
+    {
+      "line": 385,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "item": "",
+      "source_text": "- w _ t c h *(watch)* ⌚",
+      "asset_ids": [
+        "u07_watch"
+      ]
+    },
+    {
+      "line": 401,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "👀",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 407,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "👃",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 413,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "👂",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 421,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "👤 *(đầu)* → ____________________",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 423,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🧍 *(vai)* → ____________________",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 425,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🦵 *(đầu gối)* → ____________________",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 427,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🦶 *(ngón chân)* → ____________________",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 429,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "👀 → ____________________",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 431,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "👂 → ____________________",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 433,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "👄 → ____________________",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 435,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "👃 → ____________________",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 439,
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "item": "",
+      "source_text": "👤  ",
+      "asset_ids": [
+        "u07_touch_head"
+      ]
+    },
+    {
+      "line": 442,
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "item": "",
+      "source_text": "👃  ",
+      "asset_ids": [
+        "u07_touch_nose"
+      ]
+    },
+    {
+      "line": 445,
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "item": "",
+      "source_text": "👀  ",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ]
+    },
+    {
+      "line": 492,
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "item": "",
+      "source_text": "- U u → **umbrella** ☂️",
+      "asset_ids": [
+        "u07_umbrella"
+      ]
+    },
+    {
+      "line": 493,
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "item": "",
+      "source_text": "- V v → **violin** 🎻",
+      "asset_ids": [
+        "u07_violin"
+      ]
+    },
+    {
+      "line": 494,
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "item": "",
+      "source_text": "- W w → **watch** ⌚",
+      "asset_ids": [
+        "u07_watch"
+      ]
+    },
+    {
+      "line": 524,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- Người lớn chỉ vào hình tròn đỏ và hỏi khả năng của bé.",
+      "asset_ids": [
+        "u07_red_circle"
+      ],
+      "note": "Vật thật/hình tròn để bé chạm: không cần thêm một tranh riêng mỗi câu."
+    },
+    {
+      "line": 308,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "A: What can you do?  ",
+      "asset_ids": [
+        "u07_touch_head"
+      ],
+      "note": "Fixed cue selected by user-authorized decision; answer head"
+    },
+    {
+      "line": 311,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "A: What can you do?  ",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ],
+      "note": "Fixed cue selected by user-authorized decision; answer eyes"
+    }
+  ],
+  "assets": [
+    {
+      "id": "u07_head",
+      "brief": "Bộ phận head trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        58,
+        196,
+        248,
+        370,
+        421
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_head.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_head.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_shoulders",
+      "brief": "Bộ phận shoulders trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        65,
+        249,
+        371,
+        423
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_shoulders.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_shoulders.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_knees",
+      "brief": "Bộ phận knees trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        72,
+        250,
+        372,
+        425
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_knees.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_knees.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_toes",
+      "brief": "Bộ phận toes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        79,
+        251,
+        373,
+        427
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_toes.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_toes.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_eyes",
+      "brief": "Bộ phận eyes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        86,
+        196,
+        200,
+        204,
+        208,
+        252,
+        374,
+        401,
+        429
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_eyes.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_eyes.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_ears",
+      "brief": "Bộ phận ears trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        93,
+        200,
+        204,
+        208,
+        253,
+        375,
+        413,
+        431
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_ears.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_ears.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_mouth",
+      "brief": "Bộ phận mouth trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        100,
+        196,
+        200,
+        204,
+        208,
+        254,
+        376,
+        433
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_mouth.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_mouth.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_nose",
+      "brief": "Bộ phận nose trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "reference_tracks": [
+        "CD2_42",
+        "CD2_46"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        107,
+        196,
+        200,
+        204,
+        208,
+        255,
+        377,
+        407,
+        435
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+      ],
+      "expected_files": [
+        "webp/u07_nose.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_nose.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_touch_head",
+      "brief": "Bé đang chạm đúng head; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "reference_tracks": [
+        "CD2_44",
+        "CD2_48"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        126,
+        308,
+        439
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+      ],
+      "expected_files": [
+        "webp/u07_touch_head.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_head.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_touch_nose",
+      "brief": "Bé đang chạm đúng nose; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "reference_tracks": [
+        "CD2_44",
+        "CD2_48"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        131,
+        442
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+      ],
+      "expected_files": [
+        "webp/u07_touch_nose.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_nose.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_touch_eyes",
+      "brief": "Bé đang chạm đúng eyes; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "reference_tracks": [
+        "CD2_44",
+        "CD2_48"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        136,
+        311,
+        445
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+      ],
+      "expected_files": [
+        "webp/u07_touch_eyes.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_eyes.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_red_circle",
+      "brief": "Một hình tròn màu đỏ, không chữ, để bé chỉ/chạm trong câu I can touch the red circle.",
+      "reference_tracks": [
+        "CD2_52",
+        "CD2_53"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        524
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_52.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_53.png"
+      ],
+      "expected_files": [
+        "webp/u07_red_circle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_red_circle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_umbrella",
+      "brief": "Một umbrella theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "reference_tracks": [
+        "CD2_51"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        383,
+        492
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+      ],
+      "expected_files": [
+        "webp/u07_umbrella.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_umbrella.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_violin",
+      "brief": "Một violin theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "reference_tracks": [
+        "CD2_51"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        384,
+        493
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+      ],
+      "expected_files": [
+        "webp/u07_violin.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_violin.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u07_watch",
+      "brief": "Một watch theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "reference_tracks": [
+        "CD2_51"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        385,
+        494
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+      ],
+      "expected_files": [
+        "webp/u07_watch.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_watch.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": [
+    "C5§3 icon bộ phận yêu cầu nói I can touch my...: dùng ảnh động tác tương ứng, không chỉ chân dung/vật tĩnh.",
+    "Đã chốt 8 cue theo quyết định được người dùng giao; đọc audit/challenge-cue-decisions.json. Các câu đã gắn hình có expected_answer duy nhất trong mapping, không coi là context mở."
+  ]
+}

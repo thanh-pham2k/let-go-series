@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Food same reference designs: cake yellow with pink icing blue flowers on pedestal; roasted chicken on blue plate; milk white in transparent blue rim glass; fish FOOD pink fillet on plate with garnish, NEVER living fish; orange bread loaf; white rice in blue yellow-wave bowl. Queen purple robe crown scepter throne; rabbit warm gray; sun yellow with rays; tiger orange black stripes. Two blue-purple birds. Liking milk: smiling brown-haired girl red shirt at small table with glass milk, approving open happy expression, no text/check symbol. Maintain safe margins and exactly one object/group per cell.
+Row 1, column 1: Một món cake theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 1, column 2: Một món chicken theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 1, column 3: Một món milk theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 1, column 4: Một món fish theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 2, column 1: Một món bread theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 2, column 2: Một món rice theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 2, column 3: Một queen theo phonics Q–T, không chữ.
+Row 2, column 4: Một rabbit theo phonics Q–T, không chữ.
+Row 3, column 1: Một sun theo phonics Q–T, không chữ.
+Row 3, column 2: Một tiger theo phonics Q–T, không chữ.
+Row 3, column 3: Nhóm chim để thể hiện birds, không số lượng cố định trong câu. Có thể dùng 2 con tách rõ, ghi là adaptation cho số nhiều, không biến câu thành bài đếm.
+Row 3, column 4: Bé với ly sữa, biểu cảm và cử chỉ thích rõ; dùng cho tình huống mẫu Yes, I do. Không in câu trả lời hoặc dấu tick.

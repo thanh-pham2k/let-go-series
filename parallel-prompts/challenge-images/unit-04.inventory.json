@@ -1,0 +1,1248 @@
+{
+  "schema_version": 1,
+  "unit": 4,
+  "topic": "Numbers",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn số → chọn số đúng",
+      "line": 53,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "line": 66,
+      "visual_lines": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn số",
+      "line": 79,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "line": 88,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 102,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn câu đúng",
+      "line": 132,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "line": 152,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "line": 172,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "line": 186,
+      "visual_lines": [
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Điền số còn thiếu",
+      "line": 197,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền câu",
+      "line": 205,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ/cụm từ điền vào chỗ trống",
+      "line": 216,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "line": 242,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "line": 253,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 270,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "line": 310,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics I–L)",
+      "line": 318,
+      "visual_lines": [
+        322,
+        323,
+        324,
+        325
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "line": 340,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "line": 356,
+      "visual_lines": [
+        358,
+        360,
+        362,
+        364,
+        366,
+        368,
+        370,
+        372,
+        374,
+        376
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Tự nói chuỗi số",
+      "line": 378,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Conversation — tự hoàn thành",
+      "line": 388,
+      "visual_lines": [
+        400
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Build without hint",
+      "line": 424,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "line": 438,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "7. I–L Phonics Production",
+      "line": 447,
+      "visual_lines": [
+        451,
+        452,
+        453,
+        454
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "8. Final Boss — Count & Ask",
+      "line": 456,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 68,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "1. ● → `1 / 2 / 3 / 4`",
+      "asset_ids": [
+        "u04_dots_01"
+      ]
+    },
+    {
+      "line": 69,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "2. ●● → `4 / 2 / 5 / 3`",
+      "asset_ids": [
+        "u04_dots_02"
+      ]
+    },
+    {
+      "line": 70,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "3. 🚗🚗🚗 → `2 / 5 / 3 / 4`",
+      "asset_ids": [
+        "u04_cars_03"
+      ]
+    },
+    {
+      "line": 71,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "4. 🧸🧸🧸🧸 → `5 / 4 / 3 / 2`",
+      "asset_ids": [
+        "u04_teddy_bears_04"
+      ]
+    },
+    {
+      "line": 72,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "5. ◎ ◎ ◎ ◎ ◎ → `3 / 4 / 5 / 1`",
+      "asset_ids": [
+        "u04_rings_05"
+      ]
+    },
+    {
+      "line": 73,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "6. △ △ △ △ △ △ → `6 / 8 / 9 / 10`",
+      "asset_ids": [
+        "u04_triangles_06"
+      ]
+    },
+    {
+      "line": 74,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "7. ☆ ☆ ☆ ☆ ☆ ☆ ☆ → `8 / 6 / 7 / 9`",
+      "asset_ids": [
+        "u04_stars_07"
+      ]
+    },
+    {
+      "line": 75,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "8. ○ ○ ○ ○ ○ ○ ○ ○ → `10 / 8 / 7 / 9`",
+      "asset_ids": [
+        "u04_circles_08"
+      ]
+    },
+    {
+      "line": 76,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "9. ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → `8 / 10 / 9 / 6`",
+      "asset_ids": [
+        "u04_hearts_09"
+      ]
+    },
+    {
+      "line": 77,
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "item": "",
+      "source_text": "10. □ □ □ □ □ □ □ □ □ □ → `9 / 7 / 10 / 8`",
+      "asset_ids": [
+        "u04_squares_10"
+      ]
+    },
+    {
+      "line": 188,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "1. ● ● ● → `2 / 3 / 4`",
+      "asset_ids": [
+        "u04_dots_03"
+      ]
+    },
+    {
+      "line": 189,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "2. 🧸 🧸 🧸 🧸 → `3 / 4 / 5`",
+      "asset_ids": [
+        "u04_teddy_bears_04"
+      ]
+    },
+    {
+      "line": 190,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "3. ◎ ◎ ◎ ◎ ◎ → `4 / 5 / 6`",
+      "asset_ids": [
+        "u04_rings_05"
+      ]
+    },
+    {
+      "line": 191,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "4. △ △ △ △ △ △ → `5 / 6 / 7`",
+      "asset_ids": [
+        "u04_triangles_06"
+      ]
+    },
+    {
+      "line": 192,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "5. ☆ ☆ ☆ ☆ ☆ ☆ ☆ → `6 / 7 / 8`",
+      "asset_ids": [
+        "u04_stars_07"
+      ]
+    },
+    {
+      "line": 193,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "6. ○ ○ ○ ○ ○ ○ ○ ○ → `7 / 8 / 9`",
+      "asset_ids": [
+        "u04_circles_08"
+      ]
+    },
+    {
+      "line": 194,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "7. ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → `8 / 9 / 10`",
+      "asset_ids": [
+        "u04_hearts_09"
+      ]
+    },
+    {
+      "line": 195,
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "item": "",
+      "source_text": "8. □ □ □ □ □ □ □ □ □ □ → `8 / 9 / 10`",
+      "asset_ids": [
+        "u04_squares_10"
+      ]
+    },
+    {
+      "line": 322,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics I–L)",
+      "item": "",
+      "source_text": "- i g l _ _ *(igloo)* 🛖",
+      "asset_ids": [
+        "u04_igloo"
+      ]
+    },
+    {
+      "line": 323,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics I–L)",
+      "item": "",
+      "source_text": "- j _ m p   r o p e *(jump rope)* 🪢",
+      "asset_ids": [
+        "u04_jump_rope"
+      ]
+    },
+    {
+      "line": 324,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics I–L)",
+      "item": "",
+      "source_text": "- k _ n g a r o o *(kangaroo)* 🦘",
+      "asset_ids": [
+        "u04_kangaroo"
+      ]
+    },
+    {
+      "line": 325,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics I–L)",
+      "item": "",
+      "source_text": "- l _ o n *(lion)* 🦁",
+      "asset_ids": [
+        "u04_lion"
+      ]
+    },
+    {
+      "line": 358,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "● → ______",
+      "asset_ids": [
+        "u04_dots_01"
+      ]
+    },
+    {
+      "line": 360,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "● ● → ______",
+      "asset_ids": [
+        "u04_dots_02"
+      ]
+    },
+    {
+      "line": 362,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "● ● ● → ______",
+      "asset_ids": [
+        "u04_dots_03"
+      ]
+    },
+    {
+      "line": 364,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "● ● ● ● → ______",
+      "asset_ids": [
+        "u04_dots_04"
+      ]
+    },
+    {
+      "line": 366,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "● ● ● ● ● → ______",
+      "asset_ids": [
+        "u04_dots_05"
+      ]
+    },
+    {
+      "line": 368,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "△ △ △ △ △ △ → ______",
+      "asset_ids": [
+        "u04_triangles_06"
+      ]
+    },
+    {
+      "line": 370,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "☆ ☆ ☆ ☆ ☆ ☆ ☆ → ______",
+      "asset_ids": [
+        "u04_stars_07"
+      ]
+    },
+    {
+      "line": 372,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "○ ○ ○ ○ ○ ○ ○ ○ → ______",
+      "asset_ids": [
+        "u04_circles_08"
+      ]
+    },
+    {
+      "line": 374,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → ______",
+      "asset_ids": [
+        "u04_hearts_09"
+      ]
+    },
+    {
+      "line": 376,
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "item": "",
+      "source_text": "□ □ □ □ □ □ □ □ □ □ → ______",
+      "asset_ids": [
+        "u04_squares_10"
+      ]
+    },
+    {
+      "line": 400,
+      "challenge": 5,
+      "section": "4. Conversation — tự hoàn thành",
+      "item": "",
+      "source_text": "### Tình huống 2 (Đếm số lượng đồ vật 🚗)",
+      "asset_ids": [
+        "u04_cars_07"
+      ]
+    },
+    {
+      "line": 451,
+      "challenge": 5,
+      "section": "7. I–L Phonics Production",
+      "item": "",
+      "source_text": "- I i → **igloo** 🛖",
+      "asset_ids": [
+        "u04_igloo"
+      ]
+    },
+    {
+      "line": 452,
+      "challenge": 5,
+      "section": "7. I–L Phonics Production",
+      "item": "",
+      "source_text": "- J j → **jump rope** 🪢",
+      "asset_ids": [
+        "u04_jump_rope"
+      ]
+    },
+    {
+      "line": 453,
+      "challenge": 5,
+      "section": "7. I–L Phonics Production",
+      "item": "",
+      "source_text": "- K k → **kangaroo** 🦘",
+      "asset_ids": [
+        "u04_kangaroo"
+      ]
+    },
+    {
+      "line": 454,
+      "challenge": 5,
+      "section": "7. I–L Phonics Production",
+      "item": "",
+      "source_text": "- L l → **lion** 🦁",
+      "asset_ids": [
+        "u04_lion"
+      ]
+    },
+    {
+      "line": 406,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "B: ______________________________. *(7 cars.)*",
+      "asset_ids": [
+        "u04_cars_07"
+      ],
+      "note": "C5§4 tình huống 2: câu mẫu 7 cars cần đúng nhóm 7 xe."
+    }
+  ],
+  "assets": [
+    {
+      "id": "u04_dots_01",
+      "brief": "Đúng 1 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+      "reference_tracks": [
+        "CD1_60"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        68,
+        358
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+      ],
+      "expected_files": [
+        "webp/u04_dots_01.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_01.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_dots_02",
+      "brief": "Đúng 2 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+      "reference_tracks": [
+        "CD1_60"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        69,
+        360
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+      ],
+      "expected_files": [
+        "webp/u04_dots_02.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_02.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_dots_03",
+      "brief": "Đúng 3 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+      "reference_tracks": [
+        "CD1_60"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        188,
+        362
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+      ],
+      "expected_files": [
+        "webp/u04_dots_03.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_03.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_dots_04",
+      "brief": "Đúng 4 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+      "reference_tracks": [
+        "CD1_60"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        364
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+      ],
+      "expected_files": [
+        "webp/u04_dots_04.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_04.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_dots_05",
+      "brief": "Đúng 5 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+      "reference_tracks": [
+        "CD1_60"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        366
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+      ],
+      "expected_files": [
+        "webp/u04_dots_05.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_05.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_rings_05",
+      "brief": "Đúng 5 hình rings, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+      "reference_tracks": [
+        "CD1_64",
+        "CD1_67"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        72,
+        190
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+      ],
+      "expected_files": [
+        "webp/u04_rings_05.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_rings_05.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_triangles_06",
+      "brief": "Đúng 6 hình triangles, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+      "reference_tracks": [
+        "CD1_64",
+        "CD1_67"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        73,
+        191,
+        368
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+      ],
+      "expected_files": [
+        "webp/u04_triangles_06.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_triangles_06.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_stars_07",
+      "brief": "Đúng 7 hình stars, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+      "reference_tracks": [
+        "CD1_64",
+        "CD1_67"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        74,
+        192,
+        370
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+      ],
+      "expected_files": [
+        "webp/u04_stars_07.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_stars_07.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_circles_08",
+      "brief": "Đúng 8 hình circles, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+      "reference_tracks": [
+        "CD1_64",
+        "CD1_67"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        75,
+        193,
+        372
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+      ],
+      "expected_files": [
+        "webp/u04_circles_08.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_circles_08.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_hearts_09",
+      "brief": "Đúng 9 hình hearts, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+      "reference_tracks": [
+        "CD1_64",
+        "CD1_67"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        76,
+        194,
+        374
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+      ],
+      "expected_files": [
+        "webp/u04_hearts_09.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_hearts_09.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_squares_10",
+      "brief": "Đúng 10 hình squares, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+      "reference_tracks": [
+        "CD1_64",
+        "CD1_67"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        77,
+        195,
+        376
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+      ],
+      "expected_files": [
+        "webp/u04_squares_10.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_squares_10.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_cars_03",
+      "brief": "Đúng 3 cars, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.",
+      "reference_tracks": [
+        "CD1_60",
+        "CD1_62"
+      ],
+      "method": "compose_from_crops",
+      "note": "",
+      "uses": [
+        70
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+      ],
+      "expected_files": [
+        "webp/u04_cars_03.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_cars_03.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_teddy_bears_04",
+      "brief": "Đúng 4 teddy_bears, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.",
+      "reference_tracks": [
+        "CD1_60",
+        "CD1_62"
+      ],
+      "method": "compose_from_crops",
+      "note": "",
+      "uses": [
+        71,
+        189
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+      ],
+      "expected_files": [
+        "webp/u04_teddy_bears_04.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_teddy_bears_04.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_cars_07",
+      "brief": "Đúng 7 cars, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.",
+      "reference_tracks": [
+        "CD1_60",
+        "CD1_62"
+      ],
+      "method": "compose_from_crops",
+      "note": "",
+      "uses": [
+        400,
+        406
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+      ],
+      "expected_files": [
+        "webp/u04_cars_07.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_cars_07.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_igloo",
+      "brief": "Một igloo theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+      "reference_tracks": [
+        "CD1_69"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        322,
+        451
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+      ],
+      "expected_files": [
+        "webp/u04_igloo.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_igloo.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_jump_rope",
+      "brief": "Một jump_rope theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+      "reference_tracks": [
+        "CD1_69"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        323,
+        452
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+      ],
+      "expected_files": [
+        "webp/u04_jump_rope.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_jump_rope.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_kangaroo",
+      "brief": "Một kangaroo theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+      "reference_tracks": [
+        "CD1_69"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        324,
+        453
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+      ],
+      "expected_files": [
+        "webp/u04_kangaroo.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_kangaroo.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u04_lion",
+      "brief": "Một lion theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+      "reference_tracks": [
+        "CD1_69"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        325,
+        454
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+      ],
+      "expected_files": [
+        "webp/u04_lion.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_lion.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": [
+    "C5§4 tình huống 2 nói 7 cars nhưng chỉ có emoji một xe ở tiêu đề: cần nhóm đúng 7 xe. Chấm ● và vòng ◎ là ký hiệu của bài luyện, không tự suy diễn thành ball/yo-yo."
+  ]
+}

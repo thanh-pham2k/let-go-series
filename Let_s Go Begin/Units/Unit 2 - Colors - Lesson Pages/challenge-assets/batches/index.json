@@ -1,0 +1,51 @@
+[
+  {
+    "name": "batch-colors",
+    "file": "batches/batch-colors.png",
+    "ids": [
+      "u02_color_red",
+      "u02_color_blue",
+      "u02_color_yellow",
+      "u02_color_green",
+      "u02_color_brown",
+      "u02_color_purple",
+      "u02_color_orange",
+      "u02_color_black",
+      "u02_color_white",
+      "u02_color_pink"
+    ],
+    "columns": 5,
+    "rows": 2,
+    "occupied_cells": 10,
+    "tool": "native/crop/built-in image_gen as recorded in manifest"
+  },
+  {
+    "name": "batch-toys",
+    "file": "batches/batch-toys.png",
+    "ids": [
+      "u02_red_train",
+      "u02_blue_ball",
+      "u02_brown_teddy_bear",
+      "u02_green_yo_yo",
+      "u02_green_car"
+    ],
+    "columns": 5,
+    "rows": 1,
+    "occupied_cells": 5,
+    "tool": "native/crop/built-in image_gen as recorded in manifest"
+  },
+  {
+    "name": "batch-phonics",
+    "file": "batches/batch-phonics.png",
+    "ids": [
+      "u02_apple",
+      "u02_bird",
+      "u02_cat",
+      "u02_dog"
+    ],
+    "columns": 4,
+    "rows": 1,
+    "occupied_cells": 4,
+    "tool": "native/crop/built-in image_gen as recorded in manifest"
+  }
+]

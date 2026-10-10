@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "review": "1-2",
+  "tool": "built_in_image_gen",
+  "entries": [
+    {
+      "asset_id": "r12_paint",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\png\\r12_paint.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Edit the supplied square educational card. Keep the same bright textbook cartoon style, paint jar, paintbrush, yellow paint puddle, proportions, clean outlines and soft shading. Remove every visible printed word/letter from the paint jar label and remove any stray page numbering or source text. Make the jar label a clean blank cream label with no letters. Do not add any other object, text, number, watermark, or speech bubble. Preserve the centered square composition and white background. Change only the printed text cleanup.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-9e9d1b2e-59bd-4bd9-b2a6-3a4d4d5a4e1a.png",
+      "workspace_master": "png/r12_paint.png",
+      "workspace_webp": "webp/r12_paint.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_car",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_car-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Isolate only the complete red toy car from the supplied source crop. Keep the entire car including both bumpers, wheels, body edges and shadow; remove the partial train at the right, the question number, letter marker, and any other source-page marks. Match the original bright Let’s Go Begin textbook cartoon style, clean bold outlines, soft shading, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-bae0cdc8-7396-4f8c-a778-4c6209a86c25.png",
+      "workspace_master": "png/r12_car.png",
+      "workspace_webp": "webp/r12_car.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_train",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_train-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Isolate only the complete toy train from the supplied source crop. Keep the entire train including the rear car at the left, front locomotive, wheels, rails and shadow; remove the partial red car at the left, question number, letter marker and all source-page marks. Match the original bright Let’s Go Begin textbook cartoon style, clean bold outlines, soft shading, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-4f8033b2-c3db-47cb-8978-9c0f1f8d965f.png",
+      "workspace_master": "png/r12_train.png",
+      "workspace_webp": "webp/r12_train.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_bicycle",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_bicycle-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Isolate only the complete colorful bicycle from the supplied source crop. Keep the entire bicycle including the left handlebar, both wheels and pedals; remove the printed question number, letter marker, and any adjacent ball or page marks. Match the original bright Let’s Go Begin textbook cartoon style, clean bold outlines, soft shading, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-7b707769-7b1f-49c0-98cb-763c67878b35.png",
+      "workspace_master": "png/r12_bicycle.png",
+      "workspace_webp": "webp/r12_bicycle.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_green",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_green-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Keep one complete green glossy paint-like color swatch from the supplied source crop. Restore its full left and right edges and all lobes; remove the printed question number and orange a marker. Preserve the exact green swatch semantic, bright textbook cartoon style, soft highlight and shadow, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-5ca21999-553e-4dc9-8986-50d2270a8c51.png",
+      "workspace_master": "png/r12_green.png",
+      "workspace_webp": "webp/r12_green.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_purple",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_purple-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Keep one complete purple glossy paint-like color swatch from the supplied source crop. Restore its full left and right edges and all lobes; remove the printed question number and orange a marker. Preserve the exact purple swatch semantic, bright textbook cartoon style, soft highlight and shadow, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-1780655d-3cf3-4e06-9df6-cca62dc103e2.png",
+      "workspace_master": "png/r12_purple.png",
+      "workspace_webp": "webp/r12_purple.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_paper",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_paper-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Keep one complete single white sheet of paper with its original pink shadow/blob from the supplied source crop. Restore the entire lower edge and left edge of the paper; remove all page heading, number 1, word paper, page markers and any other printed source text. Match the original bright textbook cartoon style, clean outline, soft shading, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-07b4ae6e-312f-410b-b471-35b2b4e078ea.png",
+      "workspace_master": "png/r12_paper.png",
+      "workspace_webp": "webp/r12_paper.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_sit_down",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_sit_down-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Keep the complete child sitting down beside the chair from the supplied source crop. Restore the back of the child’s head and hair, full body, chair, legs, shoes and downward arrow; remove question numbers, letter marker, and all source-page marks. Match the original bright Let’s Go Begin textbook cartoon style, clean bold outlines, soft shading, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-8db3814e-916d-4631-a896-d70b95c8ac99.png",
+      "workspace_master": "png/r12_sit_down.png",
+      "workspace_webp": "webp/r12_sit_down.webp",
+      "result_status": "generated and visually accepted"
+    },
+    {
+      "asset_id": "r12_turn_around",
+      "tool": "built_in_image_gen",
+      "operation": "edit",
+      "input_role": "edit target",
+      "reference_paths": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\repair-source\\r12_turn_around-source.png"
+      ],
+      "transparent_background": false,
+      "prompt": "Use case: precise-object-edit. Asset type: small educational picture card. Input image is the edit target. Keep the complete child turning around from the supplied source crop. Restore the child’s full left body, both feet and the complete green ground panel; keep the curved turn arrow and teacher scene; remove the question number, orange letter marker and all source-page marks. Match the original bright Let’s Go Begin textbook cartoon style, clean bold outlines, soft shading, white background. No text, letters, numbers, labels or watermark. Preserve the intended object/action exactly; change only isolation and removal of source-page marks.",
+      "result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-9aee-7813-b71b-00be3374cb3d\\exec-92b69930-82bc-41ec-b775-caa10c4afffd.png",
+      "workspace_master": "png/r12_turn_around.png",
+      "workspace_webp": "webp/r12_turn_around.webp",
+      "result_status": "generated and visually accepted"
+    }
+  ],
+  "notes": [
+    "These are the nine imagegen calls actually used for final workspace assets: the initial paint cleanup plus eight targeted repair edits.",
+    "The `method` field in manifest is WebP encoding method 6; `creation_method` identifies crop versus built-in imagegen edit.",
+    "No generation log is asserted for crop-only assets."
+  ]
+}

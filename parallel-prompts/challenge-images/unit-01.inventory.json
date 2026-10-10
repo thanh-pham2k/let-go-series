@@ -1,0 +1,914 @@
+{
+  "schema_version": 1,
+  "unit": 1,
+  "topic": "Toys",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "line": 64,
+      "visual_lines": [
+        69,
+        77,
+        85,
+        93,
+        101,
+        109,
+        117,
+        125
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "line": 132,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 163,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe câu → chọn đồ vật",
+      "line": 191,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe → chọn câu trả lời phù hợp",
+      "line": 204,
+      "visual_lines": [
+        212,
+        218
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "line": 229,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "line": 242,
+      "visual_lines": [
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Hoàn thành mẫu câu",
+      "line": 255,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "line": 264,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint - dùng context",
+      "line": 302,
+      "visual_lines": [
+        305,
+        311
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 321,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi với câu trả lời phù hợp",
+      "line": 357,
+      "visual_lines": [
+        362
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Xây dựng hội thoại",
+      "line": 364,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "line": 387,
+      "visual_lines": [
+        390,
+        398
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Recall",
+      "line": 405,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Context & Nói theo mẫu",
+      "line": 419,
+      "visual_lines": [
+        422
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build (Sắp xếp từ thành câu)",
+      "line": 427,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "line": 439,
+      "visual_lines": [
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Mini Conversation - Thực hành nói theo mẫu",
+      "line": 452,
+      "visual_lines": [
+        465
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Action Challenge",
+      "line": 474,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 69,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.1",
+      "source_text": "🖼️ Hình quả bóng",
+      "asset_ids": [
+        "u01_ball"
+      ]
+    },
+    {
+      "line": 77,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.2",
+      "source_text": "🖼️ Hình dây nhảy",
+      "asset_ids": [
+        "u01_jump_rope"
+      ]
+    },
+    {
+      "line": 85,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.3",
+      "source_text": "🖼️ Hình yo-yo",
+      "asset_ids": [
+        "u01_yo_yo"
+      ]
+    },
+    {
+      "line": 93,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.4",
+      "source_text": "🖼️ Hình xe đạp",
+      "asset_ids": [
+        "u01_bicycle"
+      ]
+    },
+    {
+      "line": 101,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.5",
+      "source_text": "🖼️ Hình tàu hỏa",
+      "asset_ids": [
+        "u01_train"
+      ]
+    },
+    {
+      "line": 109,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.6",
+      "source_text": "🖼️ Hình ô tô",
+      "asset_ids": [
+        "u01_car"
+      ]
+    },
+    {
+      "line": 117,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.7",
+      "source_text": "🖼️ Hình búp bê",
+      "asset_ids": [
+        "u01_doll"
+      ]
+    },
+    {
+      "line": 125,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.8",
+      "source_text": "🖼️ Hình gấu bông",
+      "asset_ids": [
+        "u01_teddy_bear"
+      ]
+    },
+    {
+      "line": 212,
+      "challenge": 2,
+      "section": "3. Nghe → chọn câu trả lời phù hợp",
+      "item": "3.2 “What is it?” + 🖼️ hình train",
+      "source_text": "### 3.2 “What is it?” + 🖼️ hình train",
+      "asset_ids": [
+        "u01_train"
+      ]
+    },
+    {
+      "line": 218,
+      "challenge": 2,
+      "section": "3. Nghe → chọn câu trả lời phù hợp",
+      "item": "3.3 “What is it?” + 🖼️ hình doll",
+      "source_text": "### 3.3 “What is it?” + 🖼️ hình doll",
+      "asset_ids": [
+        "u01_doll"
+      ]
+    },
+    {
+      "line": 246,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "1. It's a __________. 🖼️ ball",
+      "asset_ids": [
+        "u01_ball"
+      ]
+    },
+    {
+      "line": 247,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "2. It's a __________. 🖼️ bicycle",
+      "asset_ids": [
+        "u01_bicycle"
+      ]
+    },
+    {
+      "line": 248,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "3. It's a __________. 🖼️ teddy bear",
+      "asset_ids": [
+        "u01_teddy_bear"
+      ]
+    },
+    {
+      "line": 249,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "4. It's a __________. 🖼️ car",
+      "asset_ids": [
+        "u01_car"
+      ]
+    },
+    {
+      "line": 250,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "5. It's a __________. 🖼️ yo-yo",
+      "asset_ids": [
+        "u01_yo_yo"
+      ]
+    },
+    {
+      "line": 251,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "6. It's a __________. 🖼️ doll",
+      "asset_ids": [
+        "u01_doll"
+      ]
+    },
+    {
+      "line": 252,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "7. It's a __________. 🖼️ train",
+      "asset_ids": [
+        "u01_train"
+      ]
+    },
+    {
+      "line": 253,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "8. It's a __________. 🖼️ jump rope",
+      "asset_ids": [
+        "u01_jump_rope"
+      ]
+    },
+    {
+      "line": 305,
+      "challenge": 3,
+      "section": "5. Giảm hint - dùng context",
+      "item": "",
+      "source_text": "   B: It's a __________. 🖼️ teddy bear",
+      "asset_ids": [
+        "u01_teddy_bear"
+      ]
+    },
+    {
+      "line": 311,
+      "challenge": 3,
+      "section": "5. Giảm hint - dùng context",
+      "item": "",
+      "source_text": "   B: It's a __________. 🖼️ bicycle",
+      "asset_ids": [
+        "u01_bicycle"
+      ]
+    },
+    {
+      "line": 362,
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi với câu trả lời phù hợp",
+      "item": "",
+      "source_text": "| 2. What is it? 🖼️ car | B. I'm Jenny. |",
+      "asset_ids": [
+        "u01_car"
+      ]
+    },
+    {
+      "line": 390,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "1.1",
+      "source_text": "🖼️ yo-yo",
+      "asset_ids": [
+        "u01_yo_yo"
+      ]
+    },
+    {
+      "line": 398,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "1.2",
+      "source_text": "🖼️ doll",
+      "asset_ids": [
+        "u01_doll"
+      ]
+    },
+    {
+      "line": 422,
+      "challenge": 5,
+      "section": "3. Context & Nói theo mẫu",
+      "item": "",
+      "source_text": "   B: ______________________________ 🖼️ train *(Mẫu: It's a train.)*",
+      "asset_ids": [
+        "u01_train"
+      ]
+    },
+    {
+      "line": 443,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "1. 🖼️ ball → ______________________________",
+      "asset_ids": [
+        "u01_ball"
+      ]
+    },
+    {
+      "line": 444,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "2. 🖼️ jump rope → ______________________________",
+      "asset_ids": [
+        "u01_jump_rope"
+      ]
+    },
+    {
+      "line": 445,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "3. 🖼️ yo-yo → ______________________________",
+      "asset_ids": [
+        "u01_yo_yo"
+      ]
+    },
+    {
+      "line": 446,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "4. 🖼️ bicycle → ______________________________",
+      "asset_ids": [
+        "u01_bicycle"
+      ]
+    },
+    {
+      "line": 447,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "5. 🖼️ train → ______________________________",
+      "asset_ids": [
+        "u01_train"
+      ]
+    },
+    {
+      "line": 448,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "6. 🖼️ car → ______________________________",
+      "asset_ids": [
+        "u01_car"
+      ]
+    },
+    {
+      "line": 449,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "7. 🖼️ doll → ______________________________",
+      "asset_ids": [
+        "u01_doll"
+      ]
+    },
+    {
+      "line": 450,
+      "challenge": 5,
+      "section": "5. Speak - không hint",
+      "item": "",
+      "source_text": "8. 🖼️ teddy bear → ______________________________",
+      "asset_ids": [
+        "u01_teddy_bear"
+      ]
+    },
+    {
+      "line": 465,
+      "challenge": 5,
+      "section": "6. Mini Conversation - Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "Một người chỉ vào một món đồ chơi (ví dụ 🖼️ teddy bear / ball) và hỏi đó là gì.",
+      "asset_ids": [
+        "u01_ball",
+        "u01_teddy_bear"
+      ]
+    },
+    {
+      "line": 195,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a ball.",
+      "asset_ids": [
+        "u01_ball"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 196,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a jump rope.",
+      "asset_ids": [
+        "u01_jump_rope"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 197,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a yo-yo.",
+      "asset_ids": [
+        "u01_yo_yo"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 198,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a bicycle.",
+      "asset_ids": [
+        "u01_bicycle"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 199,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a train.",
+      "asset_ids": [
+        "u01_train"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 200,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a car.",
+      "asset_ids": [
+        "u01_car"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 201,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a doll.",
+      "asset_ids": [
+        "u01_doll"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    },
+    {
+      "line": 202,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "- It's a teddy bear.",
+      "asset_ids": [
+        "u01_teddy_bear"
+      ],
+      "note": "C2§2 chọn đồ vật: cả 8 hình là lựa chọn dùng chung."
+    }
+  ],
+  "assets": [
+    {
+      "id": "u01_ball",
+      "brief": "Một quả bóng; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_07"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        69,
+        195,
+        246,
+        443,
+        465
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+      ],
+      "expected_files": [
+        "webp/u01_ball.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_ball.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_jump_rope",
+      "brief": "Một dây nhảy với hai tay cầm; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_07"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        77,
+        196,
+        253,
+        444
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+      ],
+      "expected_files": [
+        "webp/u01_jump_rope.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_jump_rope.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_yo_yo",
+      "brief": "Một yo-yo, dây rõ; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_07"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        85,
+        197,
+        250,
+        390,
+        445
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+      ],
+      "expected_files": [
+        "webp/u01_yo_yo.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_yo_yo.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_bicycle",
+      "brief": "Một xe đạp đủ hai bánh; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_07"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        93,
+        198,
+        247,
+        311,
+        446
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+      ],
+      "expected_files": [
+        "webp/u01_bicycle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_bicycle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_train",
+      "brief": "Một tàu hỏa đồ chơi; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_11"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        101,
+        199,
+        212,
+        252,
+        422,
+        447
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+      ],
+      "expected_files": [
+        "webp/u01_train.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_train.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_car",
+      "brief": "Một ô tô đồ chơi; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_11"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        109,
+        200,
+        249,
+        362,
+        448
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+      ],
+      "expected_files": [
+        "webp/u01_car.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_car.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_doll",
+      "brief": "Một búp bê; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_11"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        117,
+        201,
+        218,
+        251,
+        398,
+        449
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+      ],
+      "expected_files": [
+        "webp/u01_doll.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_doll.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u01_teddy_bear",
+      "brief": "Một gấu bông; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+      "reference_tracks": [
+        "CD1_11"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        125,
+        202,
+        248,
+        305,
+        450,
+        465
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+      ],
+      "expected_files": [
+        "webp/u01_teddy_bear.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_teddy_bear.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": []
+}

@@ -1,0 +1,60 @@
+{
+  "job_id": "u08_batch2_phonics",
+  "generation_log": "batches/generation-log.json",
+  "exact_prompt": "Use case: scientific-educational.\nAsset type: three independent square phonics illustration cards arranged in one row with white gutters, to be cropped into separate 512x512 WebP cards.\nInput image: supplied Unit 8 CD2_68 is a style reference only. Match its clean bright children's textbook cartoon style, bold outlines and soft shading.\nComposition: 3 equal square panels in one row, straight white gutters, safe margins. Panel 1: one friendly orange fox, full body fully visible including all four paws and tail, no letters and no word. Panel 2: one blue ball of yarn with a loose strand, fully visible, no knitting needles, no rope, no letters and no word. Panel 3: one friendly zebra, full body fully visible including all four hooves and tail, no letters and no word. White or very light backgrounds; centered subjects with clear silhouettes. No text, labels, numbers, speech bubbles, watermarks, answer hints, or panel IDs.",
+  "reference_input_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+  ],
+  "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-95d9304b-c626-47d8-87ba-754f218df60d.png",
+  "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch2-phonics.png",
+  "batch_id": "batch2-phonics",
+  "tool": "built-in image_gen",
+  "reference_images": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+  ],
+  "layout": {
+    "columns": 3,
+    "rows": 1,
+    "occupied_cells": 3,
+    "source_dimensions": [
+      2172,
+      724
+    ]
+  },
+  "ids": [
+    "u08_fox",
+    "u08_yarn",
+    "u08_zebra"
+  ],
+  "crop_boxes": {
+    "u08_fox": [
+      4,
+      4,
+      720,
+      720
+    ],
+    "u08_yarn": [
+      728,
+      4,
+      1444,
+      720
+    ],
+    "u08_zebra": [
+      1452,
+      4,
+      2168,
+      720
+    ]
+  },
+  "export": {
+    "format": "webp",
+    "size": [
+      512,
+      512
+    ],
+    "quality": 80,
+    "method": 6
+  },
+  "visual_review": "passed_all_3",
+  "prompt_summary": "Three full-body phonics cards: fox, blue yarn ball, zebra. No letters or words."
+}

@@ -1,0 +1,322 @@
+{
+  "batch": 3,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u02_bird",
+      "crop_box": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15652,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_bird.webp",
+      "sha256": "28945a093182c0372edfe78392afcec5e557680861088fae3b12ee3c936eab21"
+    },
+    {
+      "id": "u02_cat",
+      "crop_box": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19094,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_cat.webp",
+      "sha256": "097a9125b2e5656f34dde0e715d7fa5c4c87b9f1dafdc0851bafe5b05fa50fea"
+    },
+    {
+      "id": "u02_dog",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17226,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_dog.webp",
+      "sha256": "dd3fd197935e5934b83ce6ec3d417973db019afd64a861e84ad3d9d05a966e57"
+    },
+    {
+      "id": "u03_circle",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 7508,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_circle.webp",
+      "sha256": "5b951ef44fd4a6e72b1c6cd538438d0cbe6c2795f00372a15e5352333edb8e69"
+    },
+    {
+      "id": "u03_square",
+      "crop_box": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 1954,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_square.webp",
+      "sha256": "1a607862c6688ab55dfe3c148287346588e439a02efdec66906fa3d6ce563a99"
+    },
+    {
+      "id": "u03_triangle",
+      "crop_box": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5548,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_triangle.webp",
+      "sha256": "15bc832f8eb5b3ea8be5865451e46cbd00129c9877d613d9920070f98510749d"
+    },
+    {
+      "id": "u03_heart",
+      "crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 8078,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_heart.webp",
+      "sha256": "ab6d78813d4c628b3783ae252cf35bd64170741cc30ba3e74f068ff569ffcd8a"
+    },
+    {
+      "id": "u03_star",
+      "crop_box": [
+        1086,
+        362,
+        1448,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 7030,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_star.webp",
+      "sha256": "cdccf7a7a142881a6934b19c6175ffa22d6c89008cf7ae44e25b1c97d3f8b039"
+    },
+    {
+      "id": "u03_rectangle",
+      "crop_box": [
+        0,
+        724,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 2428,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_rectangle.webp",
+      "sha256": "015c71ea7d3ab957724d965eaac9928b52e0b085a6303d520e81d0d974eac34f"
+    },
+    {
+      "id": "u03_diamond",
+      "crop_box": [
+        362,
+        724,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5390,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_diamond.webp",
+      "sha256": "512f2f60532f333611ba345b666e3d98800f5f747d489bdf02b6203eb36afeda"
+    },
+    {
+      "id": "u03_oval",
+      "crop_box": [
+        724,
+        724,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 6782,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_oval.webp",
+      "sha256": "8430afbaee5ef6a555822f6f36a57e9211af6dc45d4b14e833a7c86ec366c6d3"
+    },
+    {
+      "id": "u03_blue_square",
+      "crop_box": [
+        1086,
+        724,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 2776,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_blue_square.webp",
+      "sha256": "6e09d8a2d155b3c4b65c2649fc3d56e4d9a7254d46f44718f2137402dbb3d385"
+    }
+  ],
+  "status": "visual_review_pass"
+}

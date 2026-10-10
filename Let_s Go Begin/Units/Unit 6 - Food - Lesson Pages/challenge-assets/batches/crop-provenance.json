@@ -1,0 +1,120 @@
+[
+  {
+    "id": "u06_ice_cream",
+    "source": "built_in_image_gen",
+    "master": "references/u06_ice_cream_generated_source.png",
+    "source_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+    "method": "complete_object_edit_no_polygon_mask"
+  },
+  {
+    "id": "u06_pizza",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+    "crop_box": [
+      585,
+      405,
+      1140,
+      690
+    ]
+  },
+  {
+    "id": "u06_cake",
+    "source": "built_in_image_gen",
+    "master": "references/u06_cake_generated_source.png",
+    "source_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+    "method": "complete_object_edit_no_polygon_mask"
+  },
+  {
+    "id": "u06_chicken",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+    "crop_box": [
+      560,
+      740,
+      1170,
+      1065
+    ],
+    "mask": "subject_contour_preserved_caption_excluded"
+  },
+  {
+    "id": "u06_milk",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+    "crop_box": [
+      120,
+      350,
+      480,
+      675
+    ],
+    "mask": "subject_contour_preserved_caption_excluded"
+  },
+  {
+    "id": "u06_fish",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+    "crop_box": [
+      580,
+      410,
+      1150,
+      680
+    ],
+    "mask": "subject_contour_preserved_caption_excluded"
+  },
+  {
+    "id": "u06_bread",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+    "crop_box": [
+      80,
+      705,
+      575,
+      930
+    ]
+  },
+  {
+    "id": "u06_rice",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+    "crop_box": [
+      630,
+      680,
+      1080,
+      1020
+    ],
+    "mask": "subject_contour_preserved_caption_excluded"
+  },
+  {
+    "id": "u06_birds",
+    "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 5 - Animals - Lesson Pages/pages/png/CD2_07.png",
+    "crop_box": [
+      580,
+      875,
+      1145,
+      1085
+    ]
+  },
+  {
+    "id": "u06_queen",
+    "source": "built_in_image_gen",
+    "crop_box": null
+  },
+  {
+    "id": "u06_rabbit",
+    "source": "built_in_image_gen",
+    "crop_box": null
+  },
+  {
+    "id": "u06_sun",
+    "source": "built_in_image_gen",
+    "crop_box": null
+  },
+  {
+    "id": "u06_tiger",
+    "source": "built_in_image_gen",
+    "crop_box": null
+  },
+  {
+    "id": "u06_likes_milk",
+    "source": "built_in_image_gen",
+    "crop_box": null
+  },
+  {
+    "id": "u06_dislikes_fish",
+    "source": "built_in_image_gen",
+    "crop_box": null
+  }
+]

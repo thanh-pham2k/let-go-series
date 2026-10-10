@@ -1,0 +1,1627 @@
+{
+  "review": "3-4",
+  "assets": [
+    {
+      "id": "r34_circle",
+      "brief": "Một hình circle chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-01",
+        "R34-C4-06",
+        "R34-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_circle.webp"
+      ],
+      "shape": "circle",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_circle.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 3538,
+      "sha256": "1569a98cd7efcd5abb308f9708e2d19568c807b14fb634b705eb3fe4949ab8e6",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_circle.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1569a98cd7efcd5abb308f9708e2d19568c807b14fb634b705eb3fe4949ab8e6",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_square",
+      "brief": "Một hình square chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-02",
+        "R34-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_square.webp"
+      ],
+      "shape": "square",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_square.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 904,
+      "sha256": "1b70c61fcfeb5c1441b91585bc225398bbdd322145a7dfb45979cd52c18651b6",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_square.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1b70c61fcfeb5c1441b91585bc225398bbdd322145a7dfb45979cd52c18651b6",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_star",
+      "brief": "Một hình star chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-03",
+        "R34-C5-06"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_star.webp"
+      ],
+      "shape": "star",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_star.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 3176,
+      "sha256": "feaffc42a7021ad6bfcce89e82d718bca20d69be394ce6b098f42bccaa512f2b",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_star.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "feaffc42a7021ad6bfcce89e82d718bca20d69be394ce6b098f42bccaa512f2b",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_heart",
+      "brief": "Một hình heart chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-04",
+        "R34-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_heart.webp"
+      ],
+      "shape": "heart",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_heart.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 3312,
+      "sha256": "06951a8bf8a762909ff2e1510d7ae3e23a4b838dbe31f30f548b1ba59c0648a7",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_heart.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "06951a8bf8a762909ff2e1510d7ae3e23a4b838dbe31f30f548b1ba59c0648a7",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangle",
+      "brief": "Một hình triangle chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-05",
+        "R34-C1-16",
+        "R34-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangle.webp"
+      ],
+      "shape": "triangle",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangle.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 2082,
+      "sha256": "344b4cd9257ab70a454c473f61fcfc36e2db49aae138ea7fe8fb86bf684f62ec",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangle.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "344b4cd9257ab70a454c473f61fcfc36e2db49aae138ea7fe8fb86bf684f62ec",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_diamond",
+      "brief": "Một hình diamond chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-06",
+        "R34-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamond.webp"
+      ],
+      "shape": "diamond",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_diamond.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 2622,
+      "sha256": "b25e60691a0df8a2bfed9a638d754570410ddf374c4ce917409786b0c16ee2dc",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_diamond.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b25e60691a0df8a2bfed9a638d754570410ddf374c4ce917409786b0c16ee2dc",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_oval",
+      "brief": "Một hình oval chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-07",
+        "R34-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_oval.webp"
+      ],
+      "shape": "oval",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_oval.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 2728,
+      "sha256": "4ea84de802bc473e6f0d4649ca55a1b36aa4227439a9c3a0fd1409e4aa66b54d",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_oval.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "4ea84de802bc473e6f0d4649ca55a1b36aa4227439a9c3a0fd1409e4aa66b54d",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_walk",
+      "brief": "Bé đi bộ, 5a; khác chạy",
+      "uses": [
+        "R34-C1-08",
+        "R34-C4-07",
+        "R34-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_walk.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+      "crop_box": [
+        242,
+        791,
+        411,
+        1076
+      ],
+      "source_crop_size": [
+        169,
+        285
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_walk.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 10612,
+      "sha256": "034d97d43e07466a2bb304ba84d7a61f83ea6e996b142094842a411ef36ed2df",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_walk.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "034d97d43e07466a2bb304ba84d7a61f83ea6e996b142094842a411ef36ed2df",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_run",
+      "brief": "Bé chạy, 5b; khác đi bộ",
+      "uses": [
+        "R34-C1-09",
+        "R34-C5-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_run.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+      "crop_box": [
+        415,
+        791,
+        628,
+        1076
+      ],
+      "source_crop_size": [
+        213,
+        285
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_run.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 12858,
+      "sha256": "7860589468fddef9890d0e81c061c980b14650372ba50f6ee0f3badf916b442e",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_run.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "7860589468fddef9890d0e81c061c980b14650372ba50f6ee0f3badf916b442e",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_go",
+      "brief": "Đèn xanh cho phép đi, 6a; không chữ GO",
+      "uses": [
+        "R34-C1-10",
+        "R34-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_go.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+      "crop_box": [
+        669,
+        800,
+        834,
+        1071
+      ],
+      "source_crop_size": [
+        165,
+        271
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_go.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 11472,
+      "sha256": "f05cb3cb7cf7d17273357fecd6758f945522dc4a762683dbf1814260af302e54",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_go.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "f05cb3cb7cf7d17273357fecd6758f945522dc4a762683dbf1814260af302e54",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_stop",
+      "brief": "Đèn đỏ yêu cầu dừng, 6b; không chữ STOP",
+      "uses": [
+        "R34-C1-11",
+        "R34-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_stop.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+      "crop_box": [
+        839,
+        800,
+        1028,
+        1077
+      ],
+      "source_crop_size": [
+        189,
+        277
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_stop.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 10746,
+      "sha256": "6fc2bc26cbdc10bf874340a1b8724f233b8ea99daa5b702f72c31cef22b846d8",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_stop.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "6fc2bc26cbdc10bf874340a1b8724f233b8ea99daa5b702f72c31cef22b846d8",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_take_out_pencil",
+      "brief": "Bé lấy bút chì ra khỏi hộp, hình 1 Classroom Commands; hướng tay/vật rõ",
+      "uses": [
+        "R34-C1-12",
+        "R34-C3-12",
+        "R34-C3-16",
+        "R34-C4-08",
+        "R34-C5-15",
+        "R34-C5-23"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_take_out_pencil.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png",
+      "crop_box": [
+        237,
+        204,
+        568,
+        486
+      ],
+      "source_crop_size": [
+        331,
+        282
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_take_out_pencil.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 22372,
+      "sha256": "b5fc1ce6e77abd9b1025dec612c2d5de9555358af28816293d876fbd6b730ebb",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_take_out_pencil.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b5fc1ce6e77abd9b1025dec612c2d5de9555358af28816293d876fbd6b730ebb",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_put_away_pencil",
+      "brief": "Bé cất bút chì vào hộp, hình 2; khác lấy ra",
+      "uses": [
+        "R34-C1-13",
+        "R34-C3-13",
+        "R34-C5-16"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_put_away_pencil.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png",
+      "crop_box": [
+        639,
+        201,
+        940,
+        482
+      ],
+      "source_crop_size": [
+        301,
+        281
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_put_away_pencil.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 18300,
+      "sha256": "e5dec83b576ffb0f670d69692e2f63dae1dde746be617e4510a8cf402bf56119",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_put_away_pencil.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e5dec83b576ffb0f670d69692e2f63dae1dde746be617e4510a8cf402bf56119",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_open_book",
+      "brief": "Bé đang mở sách, hình 3; chuyển động mở rõ",
+      "uses": [
+        "R34-C1-14",
+        "R34-C3-14",
+        "R34-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_open_book.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png",
+      "crop_box": [
+        205,
+        536,
+        577,
+        800
+      ],
+      "source_crop_size": [
+        372,
+        264
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_open_book.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 18790,
+      "sha256": "e335dcc143da4bcc21132c18a0abe575e9ab14455c5beb99807422a2a1eaab19",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_open_book.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e335dcc143da4bcc21132c18a0abe575e9ab14455c5beb99807422a2a1eaab19",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_close_book",
+      "brief": "Bé đang đóng sách, hình 4; khác mở",
+      "uses": [
+        "R34-C1-15",
+        "R34-C3-15",
+        "R34-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_close_book.webp"
+      ],
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png",
+      "crop_box": [
+        615,
+        539,
+        942,
+        800
+      ],
+      "source_crop_size": [
+        327,
+        261
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "webp": "webp/r34_close_book.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 16278,
+      "sha256": "cfd253d2ca2f1a0389731071139b4e4b303fb8dbca85cd40366470237f5179cd",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_close_book.webp",
+      "creation_method": "crop",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "cfd253d2ca2f1a0389731071139b4e4b303fb8dbca85cd40366470237f5179cd",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangles_02",
+      "brief": "Đúng 2 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_02.webp"
+      ],
+      "shape": "triangle",
+      "count": 2,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangles_02.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 2120,
+      "sha256": "48816cb58af1d1eadd1f1e295ee843c7a1e32cf393f2c4c639922dcefc3c5f49",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangles_02.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "48816cb58af1d1eadd1f1e295ee843c7a1e32cf393f2c4c639922dcefc3c5f49",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangles_03",
+      "brief": "Đúng 3 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_03.webp"
+      ],
+      "shape": "triangle",
+      "count": 3,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangles_03.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 2860,
+      "sha256": "c3a69895454307d54ff2053b0d2666b6f28759299d9d8f7ff2a752fd934dbfb3",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangles_03.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "c3a69895454307d54ff2053b0d2666b6f28759299d9d8f7ff2a752fd934dbfb3",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangles_04",
+      "brief": "Đúng 4 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-19",
+        "R34-C4-09",
+        "R34-C5-01"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_04.webp"
+      ],
+      "shape": "triangle",
+      "count": 4,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangles_04.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 3666,
+      "sha256": "f3dd8ee99285825171a15658c95d39e290f47234043cab84088b2c6d41e7a841",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangles_04.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "f3dd8ee99285825171a15658c95d39e290f47234043cab84088b2c6d41e7a841",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangles_05",
+      "brief": "Đúng 5 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_05.webp"
+      ],
+      "shape": "triangle",
+      "count": 5,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangles_05.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 4364,
+      "sha256": "890074097cbe646f780aacfb526f27ffaa7b5e75365209a6589c1480baf675ac",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangles_05.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "890074097cbe646f780aacfb526f27ffaa7b5e75365209a6589c1480baf675ac",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangles_06",
+      "brief": "Đúng 6 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_06.webp"
+      ],
+      "shape": "triangle",
+      "count": 6,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangles_06.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 5050,
+      "sha256": "debc58363568fcbd8e205de8100af1505b15218f7af2adadf9715fec26b0e848",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangles_06.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "debc58363568fcbd8e205de8100af1505b15218f7af2adadf9715fec26b0e848",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_triangles_07",
+      "brief": "Đúng 7 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_07.webp"
+      ],
+      "shape": "triangle",
+      "count": 7,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_triangles_07.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 5250,
+      "sha256": "cfac37a07a9724a3454a30b077ea154902851aabc52d7f32b0f00e9464c9650c",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_triangles_07.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "cfac37a07a9724a3454a30b077ea154902851aabc52d7f32b0f00e9464c9650c",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_diamonds_04",
+      "brief": "Đúng 4 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_04.webp"
+      ],
+      "shape": "diamond",
+      "count": 4,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_diamonds_04.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 5012,
+      "sha256": "83d45165ccc146b7c3f58d781ce7d5f4d652787820f244f14ec8d28d4f024c10",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_diamonds_04.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "83d45165ccc146b7c3f58d781ce7d5f4d652787820f244f14ec8d28d4f024c10",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_diamonds_05",
+      "brief": "Đúng 5 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_05.webp"
+      ],
+      "shape": "diamond",
+      "count": 5,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_diamonds_05.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 6034,
+      "sha256": "d80da2b92fff47711bb4a03b16e7d690b84bde7a8339afd7b98aafeb8edc4dd2",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_diamonds_05.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "d80da2b92fff47711bb4a03b16e7d690b84bde7a8339afd7b98aafeb8edc4dd2",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_diamonds_06",
+      "brief": "Đúng 6 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-19",
+        "R34-C4-11",
+        "R34-C5-03"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_06.webp"
+      ],
+      "shape": "diamond",
+      "count": 6,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_diamonds_06.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 7190,
+      "sha256": "45389a2646a54ee874eb77d584bda1aef6a8c209b089380677dcfe0979e8111b",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_diamonds_06.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "45389a2646a54ee874eb77d584bda1aef6a8c209b089380677dcfe0979e8111b",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_diamonds_07",
+      "brief": "Đúng 7 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_07.webp"
+      ],
+      "shape": "diamond",
+      "count": 7,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_diamonds_07.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 7514,
+      "sha256": "1a1960ca1587c3722c507101f4a5c666d5b591f9920b59037d7d9cdd6fa5cedd",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_diamonds_07.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1a1960ca1587c3722c507101f4a5c666d5b591f9920b59037d7d9cdd6fa5cedd",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_circles_05",
+      "brief": "Đúng 5 hình tròn, nhóm nguồn 3b",
+      "uses": [
+        "R34-C4-10",
+        "R34-C5-02"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_circles_05.webp"
+      ],
+      "shape": "circle",
+      "count": 5,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_circles_05.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 6880,
+      "sha256": "e2010941839554faa263d2396c6f95411a8427df2ce58fd0ebe2f29fb760a5f1",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_circles_05.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e2010941839554faa263d2396c6f95411a8427df2ce58fd0ebe2f29fb760a5f1",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r34_ovals_07",
+      "brief": "Đúng 7 oval, nhóm nguồn 4b",
+      "uses": [
+        "R34-C4-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_ovals_07.webp"
+      ],
+      "shape": "oval",
+      "count": 7,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "webp": "webp/r34_ovals_07.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 6590,
+      "sha256": "60afe32a9a4a407e7289e820e8ab4a6e0c0ac386df5c6e98ff2f32c484bc2e77",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "Every final WebP viewed individually with view_image, compared with CD1_71/72. Correct semantic/count, no answer labels, no clipped target objects; crop margins corrected after review."
+      },
+      "file": "webp/r34_ovals_07.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "60afe32a9a4a407e7289e820e8ab4a6e0c0ac386df5c6e98ff2f32c484bc2e77",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    }
+  ],
+  "source_inventory": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-3-4.inventory.json",
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

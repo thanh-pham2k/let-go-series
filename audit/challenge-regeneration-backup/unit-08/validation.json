@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0",
+  "unit": 8,
+  "required": [
+    {
+      "id": "u08_ride_bicycle",
+      "file": "webp/u08_ride_bicycle.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 34172,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_sing_song",
+      "file": "webp/u08_sing_song.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 26398,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_fly_kite",
+      "file": "webp/u08_fly_kite.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 25996,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_bounce_ball",
+      "file": "webp/u08_bounce_ball.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 28580,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_swim",
+      "file": "webp/u08_swim.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 30628,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_smile",
+      "file": "webp/u08_smile.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 20938,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_wink",
+      "file": "webp/u08_wink.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 22318,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_dance",
+      "file": "webp/u08_dance.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 21174,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_cannot_fly_kite",
+      "file": "webp/u08_cannot_fly_kite.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 42430,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_play_ball",
+      "file": "webp/u08_play_ball.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 37678,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_play_tag",
+      "file": "webp/u08_play_tag.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 52864,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_jump_rope",
+      "file": "webp/u08_jump_rope.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 28678,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_fox",
+      "file": "webp/u08_fox.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 21770,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_yarn",
+      "file": "webp/u08_yarn.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 20030,
+      "under_60kb": true,
+      "visual_review": "passed"
+    },
+    {
+      "id": "u08_zebra",
+      "file": "webp/u08_zebra.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 23974,
+      "under_60kb": true,
+      "visual_review": "passed"
+    }
+  ],
+  "conditional": [
+    {
+      "id": "u08_make_circle",
+      "file": "webp/u08_make_circle.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 34840,
+      "visual_review": "passed; use only when closed-practice context selected"
+    },
+    {
+      "id": "u08_make_line",
+      "file": "webp/u08_make_line.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "bytes": 31518,
+      "visual_review": "passed; use only when closed-practice context selected"
+    }
+  ],
+  "checks": {
+    "required_complete": true,
+    "missing_required": [],
+    "dimensions_512": true,
+    "all_under_60kb": true,
+    "duplicate_sha256_groups": [],
+    "visual_reviewed_all": true,
+    "repair_reviewed": {
+      "u08_cannot_fly_kite": "same child/clothing/kite identity as u08_fly_kite; grounded slack kite scene passed",
+      "u08_play_tag": "both children fully visible with head/hair/feet and margins; reaching chase action passed"
+    },
+    "no_text_or_labels_in_generated_cards": true,
+    "can_cant_distinct": true,
+    "bounce_vs_static_ball_distinct": true,
+    "smile_vs_wink_distinct": true,
+    "play_tag_vs_running_distinct": true,
+    "jump_action_vs_rope_object_distinct": true,
+    "occurrence_coverage": "58/58",
+    "source_sections_reviewed": 28,
+    "generation_log_jobs": 5,
+    "generation_log_exact_prompts": true,
+    "generation_log_reference_paths_exist": true,
+    "generation_log_result_paths_exist": true,
+    "prescribed_adaptations_applied": [
+      "C3§2 blank-only items 5–8 mapped to swim, smile, wink, dance as optional cues",
+      "C3§3 fixed stems mapped to positive/negative fly-kite and swim/dance cues",
+      "C3 open-ended learner responses remain text-first and are not treated as unknown"
+    ],
+    "sections_without_static_image": [
+      "C1§2. Nghe → chọn từ",
+      "C1§4. Letters and words",
+      "C2§1. Nghe → chọn nghĩa",
+      "C2§3. Nghe câu hỏi → chọn câu trả lời",
+      "C2§4. Nghe → thực hiện",
+      "C3§2. Chọn từ → điền vào chỗ trống",
+      "C3§3. Chọn từ → hoàn thành câu",
+      "C3§4. Nghe → chọn từ điền vào chỗ trống",
+      "C3§5. Context — giảm hint",
+      "C3§6. Let's play Recall",
+      "C3§7. Commands Recall",
+      "C4§1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "C4§2. Ghép câu hỏi → câu trả lời",
+      "C5§6. Build without hint",
+      "C5§7. Command Challenge",
+      "C5§9. Mini Conversation — Thực hành nói theo mẫu"
+    ],
+    "unresolved_contexts": [
+      "C3§7. Commands Recall — circle/line order remains conditional in the source"
+    ]
+  },
+  "status": "passed",
+  "root_final_audit": {
+    "card_count": 17,
+    "all_individual_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 52864,
+    "over_60kb": [],
+    "unique_hashes": 17,
+    "contact_sheet_regenerated_from_final_webps": true
+  },
+  "unresolved_context": [],
+  "resolved_visual_cues": [
+    {
+      "unit": 8,
+      "question_line": 390,
+      "cue_line": 390,
+      "asset_id": "u08_make_circle",
+      "asset_ids": [
+        "u08_make_circle"
+      ],
+      "expected_answer": "circle",
+      "accepted_answers": [
+        "circle"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "5. Make a ________."
+    },
+    {
+      "unit": 8,
+      "question_line": 391,
+      "cue_line": 391,
+      "asset_id": "u08_make_line",
+      "asset_ids": [
+        "u08_make_line"
+      ],
+      "expected_answer": "line",
+      "accepted_answers": [
+        "line"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "6. Make a ________."
+    }
+  ],
+  "context_open": [],
+  "context_items_total": 0,
+  "required_asset_count": 17,
+  "conditional_asset_count": 0
+}

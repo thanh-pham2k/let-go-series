@@ -1,5 +1,13 @@
 # Prompt độc lập để chạy song song
 
+## Bộ ảnh Challenge Unit 1–8 và 4 Review
+
+Ngày 2026-10-10: bộ **trang học chính** của Unit 1–8 và 4 Review đã có đủ ảnh. Các prompt lesson/review bên dưới là tài liệu của đợt trước; số trang còn thiếu ghi trong đó không còn là trạng thái hiện tại.
+
+Đã regenerate đủ 211 ảnh Challenge WebP 512×512. [Bộ prompt regenerate 12 ảnh/batch](challenge-images/regenerate-12/README.md) gồm 18 batch cho toàn bộ Unit và Review; [preview](../audit/challenge-preview.html) và [báo cáo kiểm tra](../audit/challenge-images-completion.md). Các prompt theo Unit/Review trong [inventory](challenge-images/README.md) giữ lại để đối chiếu nội dung nguồn.
+
+## Prompt đợt trước — trang học chính
+
 Mở5 chat cùng repo E:\let-go-series và dán toàn bộ nội dung file tương ứng. Mỗi chat chỉ ghi vào Unit của mình; script dùng chung chỉ đọc. Không chia cùng Unit cho hai chat.
 
 - [Unit4 – Numbers](unit-04.md): kiểm tra/sửa và xuất12 trang còn lại, giữ4 trang đã chốt.

@@ -1,0 +1,95 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 68",
+      "challenge": 1,
+      "line": 68,
+      "raw": "1. ● → `1 / 2 / 3 / 4`",
+      "ids": [
+        "u04_dots_01"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 104",
+      "challenge": 2,
+      "line": 104,
+      "raw": "### 1.1 “May I come in?”",
+      "ids": [],
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn đáp án phù hợp.",
+      "options": [
+        "Em có thể vào không?",
+        "Dừng lại."
+      ],
+      "teacher_audio": "### 1.1 “May I come in?” Người lớn chọn một nội dung hợp lệ trong bài nguồn để đọc; audio Challenge sẽ bổ sung sau.",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · dòng 188",
+      "challenge": 3,
+      "line": 188,
+      "raw": "1. ● ● ● → `2 / 3 / 4`",
+      "ids": [
+        "u04_dots_03"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Điền hoặc nói câu trả lời của em.",
+      "options": [
+        "2",
+        "3",
+        "4"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C4 · dòng 322",
+      "challenge": 4,
+      "line": 322,
+      "raw": "- i g l _ _ *(igloo)* 🛖",
+      "ids": [
+        "u04_igloo"
+      ],
+      "needs_context": false,
+      "prompt": "- i g l _ _",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 358",
+      "challenge": 5,
+      "line": 358,
+      "raw": "● → ______",
+      "ids": [
+        "u04_dots_01"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ______",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 360",
+      "challenge": 5,
+      "line": 360,
+      "raw": "● ● → ______",
+      "ids": [
+        "u04_dots_02"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ______",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 18,
+  "debug_labels_hidden_by_default": true
+}

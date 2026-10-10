@@ -1,0 +1,100 @@
+{
+  "batch": 6,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      360,
+      400
+    ],
+    [
+      360,
+      0,
+      724,
+      400
+    ],
+    [
+      724,
+      0,
+      1010,
+      400
+    ],
+    [
+      1010,
+      0,
+      1448,
+      400
+    ],
+    [
+      0,
+      400,
+      320,
+      710
+    ],
+    [
+      320,
+      400,
+      740,
+      710
+    ],
+    [
+      740,
+      400,
+      1010,
+      710
+    ],
+    [
+      1010,
+      400,
+      1448,
+      710
+    ],
+    [
+      0,
+      710,
+      305,
+      1086
+    ],
+    [
+      305,
+      710,
+      750,
+      1086
+    ],
+    [
+      750,
+      710,
+      1000,
+      1086
+    ],
+    [
+      1000,
+      710,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet."
+  },
+  "retry_reason": null
+}

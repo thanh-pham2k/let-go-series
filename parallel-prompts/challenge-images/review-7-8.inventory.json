@@ -1,0 +1,1658 @@
+{
+  "review": "7-8",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages",
+  "assets": [
+    {
+      "id": "r78_wink",
+      "brief": "Bé nháy một mắt, mắt kia mở, 1a",
+      "uses": [
+        "R78-C1-01",
+        "R78-C4-08",
+        "R78-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_wink.webp"
+      ]
+    },
+    {
+      "id": "r78_touch_knees",
+      "brief": "Bé đặt hai tay lên đầu gối, 1b",
+      "uses": [
+        "R78-C1-02",
+        "R78-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_touch_knees.webp"
+      ]
+    },
+    {
+      "id": "r78_touch_toes",
+      "brief": "Bé cúi chạm được tới ngón chân giày, 2a; tay tiếp xúc rõ",
+      "uses": [
+        "R78-C1-03",
+        "R78-C3-13",
+        "R78-C4-13",
+        "R78-C5-06",
+        "R78-C5-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_touch_toes.webp"
+      ]
+    },
+    {
+      "id": "r78_cannot_touch_toes",
+      "brief": "Cùng bé cúi nhưng tay chưa chạm được giày, 2b; khoảng hở rõ, không dấu X",
+      "uses": [
+        "R78-C4-13",
+        "R78-C5-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_cannot_touch_toes.webp"
+      ]
+    },
+    {
+      "id": "r78_ride_bicycle",
+      "brief": "Bé thực sự đạp xe, 3a",
+      "uses": [
+        "R78-C1-04",
+        "R78-C3-11",
+        "R78-C4-10",
+        "R78-C5-01",
+        "R78-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_ride_bicycle.webp"
+      ]
+    },
+    {
+      "id": "r78_fly_kite",
+      "brief": "Bé thả diều bay, dây nối tay và diều, 3b",
+      "uses": [
+        "R78-C1-05",
+        "R78-C3-12",
+        "R78-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_fly_kite.webp"
+      ]
+    },
+    {
+      "id": "r78_swim",
+      "brief": "Bé bơi trong nước, 4a",
+      "uses": [
+        "R78-C1-06",
+        "R78-C4-11",
+        "R78-C5-02",
+        "R78-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_swim.webp"
+      ]
+    },
+    {
+      "id": "r78_dance",
+      "brief": "Bé đang nhảy múa, 4b",
+      "uses": [
+        "R78-C1-07",
+        "R78-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_dance.webp"
+      ]
+    },
+    {
+      "id": "r78_stamp_feet",
+      "brief": "Bé giậm chân, 5a; chuyển động chân rõ",
+      "uses": [
+        "R78-C1-08",
+        "R78-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_stamp_feet.webp"
+      ]
+    },
+    {
+      "id": "r78_clap_hands",
+      "brief": "Bé vỗ tay, 5b; hai bàn tay đúng",
+      "uses": [
+        "R78-C1-09",
+        "R78-C3-15",
+        "R78-C4-12",
+        "R78-C5-03",
+        "R78-C5-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_clap_hands.webp"
+      ]
+    },
+    {
+      "id": "r78_point_board",
+      "brief": "Bé chỉ vào bảng, 6a; không đi tới bảng",
+      "uses": [
+        "R78-C1-10",
+        "R78-C3-14",
+        "R78-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_point_board.webp"
+      ]
+    },
+    {
+      "id": "r78_stand_up",
+      "brief": "Bé đứng lên, 6b",
+      "uses": [
+        "R78-C1-11",
+        "R78-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_stand_up.webp"
+      ]
+    },
+    {
+      "id": "r78_day_01_sunday",
+      "brief": "Thẻ thứ tự nguồn 1 — Sunday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-12",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C4-09",
+        "R78-C5-15"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_01_sunday.webp"
+      ]
+    },
+    {
+      "id": "r78_day_02_monday",
+      "brief": "Thẻ thứ tự nguồn 2 — Monday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-13",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C3-16",
+        "R78-C4-10",
+        "R78-C5-01",
+        "R78-C5-16",
+        "R78-C5-23"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_02_monday.webp"
+      ]
+    },
+    {
+      "id": "r78_day_03_tuesday",
+      "brief": "Thẻ thứ tự nguồn 3 — Tuesday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-14",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_03_tuesday.webp"
+      ]
+    },
+    {
+      "id": "r78_day_04_wednesday",
+      "brief": "Thẻ thứ tự nguồn 4 — Wednesday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-15",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C4-11",
+        "R78-C5-02",
+        "R78-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_04_wednesday.webp"
+      ]
+    },
+    {
+      "id": "r78_day_05_thursday",
+      "brief": "Thẻ thứ tự nguồn 5 — Thursday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-16",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C5-19"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_05_thursday.webp"
+      ]
+    },
+    {
+      "id": "r78_day_06_friday",
+      "brief": "Thẻ thứ tự nguồn 6 — Friday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-17",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C5-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_06_friday.webp"
+      ]
+    },
+    {
+      "id": "r78_day_07_saturday",
+      "brief": "Thẻ thứ tự nguồn 7 — Saturday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-18",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C4-12",
+        "R78-C5-03",
+        "R78-C5-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_07_saturday.webp"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "R78-C1-01",
+      "challenge": 1,
+      "line": 40,
+      "source_prompt": "🖼️bé nháy một mắt ở cặp 1a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_wink"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-02",
+      "challenge": 1,
+      "line": 48,
+      "source_prompt": "🖼️bé đặt hai tay lên đầu gối ở cặp 1b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_knees"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-03",
+      "challenge": 1,
+      "line": 56,
+      "source_prompt": "🖼️bé chạm được tới ngón chân giày ở cặp 2a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_toes"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-04",
+      "challenge": 1,
+      "line": 64,
+      "source_prompt": "🖼️bé đi xe đạp ở cặp 3a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_ride_bicycle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-05",
+      "challenge": 1,
+      "line": 72,
+      "source_prompt": "🖼️bé thả diều ở cặp 3b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_fly_kite"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-06",
+      "challenge": 1,
+      "line": 80,
+      "source_prompt": "🖼️bé bơi ở cặp 4a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_swim"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-07",
+      "challenge": 1,
+      "line": 88,
+      "source_prompt": "🖼️bé nhảy múa ở cặp 4b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_dance"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-08",
+      "challenge": 1,
+      "line": 96,
+      "source_prompt": "🖼️bé giậm chân ở cặp 5a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_stamp_feet"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-09",
+      "challenge": 1,
+      "line": 104,
+      "source_prompt": "🖼️bé vỗ tay ở cặp 5b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_clap_hands"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-10",
+      "challenge": 1,
+      "line": 112,
+      "source_prompt": "🖼️bé chỉ vào bảng ở cặp 6a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_point_board"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-11",
+      "challenge": 1,
+      "line": 120,
+      "source_prompt": "🖼️bé đứng lên ở cặp 6b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_stand_up"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-12",
+      "challenge": 1,
+      "line": 130,
+      "source_prompt": "🖼️thẻ ngày số1 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-13",
+      "challenge": 1,
+      "line": 138,
+      "source_prompt": "🖼️thẻ ngày số2 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_02_monday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-14",
+      "challenge": 1,
+      "line": 146,
+      "source_prompt": "🖼️thẻ ngày số3 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_03_tuesday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-15",
+      "challenge": 1,
+      "line": 154,
+      "source_prompt": "🖼️thẻ ngày số4 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_04_wednesday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-16",
+      "challenge": 1,
+      "line": 162,
+      "source_prompt": "🖼️thẻ ngày số5 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_05_thursday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-17",
+      "challenge": 1,
+      "line": 170,
+      "source_prompt": "🖼️thẻ ngày số6 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_06_friday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C1-18",
+      "challenge": 1,
+      "line": 178,
+      "source_prompt": "🖼️thẻ ngày số7 ở mục Say these.. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-01",
+      "challenge": 2,
+      "line": 195,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-02",
+      "challenge": 2,
+      "line": 205,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-03",
+      "challenge": 2,
+      "line": 215,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-04",
+      "challenge": 2,
+      "line": 225,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-05",
+      "challenge": 2,
+      "line": 237,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-06",
+      "challenge": 2,
+      "line": 246,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-07",
+      "challenge": 2,
+      "line": 255,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-08",
+      "challenge": 2,
+      "line": 264,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-09",
+      "challenge": 2,
+      "line": 273,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-10",
+      "challenge": 2,
+      "line": 282,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-11",
+      "challenge": 2,
+      "line": 291,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-12",
+      "challenge": 2,
+      "line": 300,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-13",
+      "challenge": 2,
+      "line": 309,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-14",
+      "challenge": 2,
+      "line": 318,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-15",
+      "challenge": 2,
+      "line": 327,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-16",
+      "challenge": 2,
+      "line": 336,
+      "source_prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C2-17",
+      "challenge": 2,
+      "line": 345,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-18",
+      "challenge": 2,
+      "line": 354,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-19",
+      "challenge": 2,
+      "line": 363,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-20",
+      "challenge": 2,
+      "line": 372,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-21",
+      "challenge": 2,
+      "line": 381,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-22",
+      "challenge": 2,
+      "line": 390,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C2-23",
+      "challenge": 2,
+      "line": 399,
+      "source_prompt": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-01",
+      "challenge": 3,
+      "line": 415,
+      "source_prompt": "Hoàn thành từ: `w_nk`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-02",
+      "challenge": 3,
+      "line": 420,
+      "source_prompt": "Hoàn thành từ: `sw_m`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-03",
+      "challenge": 3,
+      "line": 425,
+      "source_prompt": "Hoàn thành từ: `d_nce`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-04",
+      "challenge": 3,
+      "line": 430,
+      "source_prompt": "Hoàn thành từ: `S_nday`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-05",
+      "challenge": 3,
+      "line": 435,
+      "source_prompt": "Hoàn thành từ: `M_nday`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-06",
+      "challenge": 3,
+      "line": 440,
+      "source_prompt": "Hoàn thành từ: `T_esday`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-07",
+      "challenge": 3,
+      "line": 445,
+      "source_prompt": "Hoàn thành từ: `W_dnesday`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-08",
+      "challenge": 3,
+      "line": 450,
+      "source_prompt": "Hoàn thành từ: `Th_rsday`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-09",
+      "challenge": 3,
+      "line": 455,
+      "source_prompt": "Hoàn thành từ: `Fr_day`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-10",
+      "challenge": 3,
+      "line": 460,
+      "source_prompt": "Hoàn thành từ: `S_turday`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-11",
+      "challenge": 3,
+      "line": 470,
+      "source_prompt": "🖼️đi xe đạp. Điền: `ride a ________`.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_ride_bicycle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-12",
+      "challenge": 3,
+      "line": 475,
+      "source_prompt": "🖼️thả diều. Điền: `fly a ________`.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_fly_kite"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-13",
+      "challenge": 3,
+      "line": 480,
+      "source_prompt": "🖼️chạm ngón chân giày. Điền: `touch your ________`.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_toes"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-14",
+      "challenge": 3,
+      "line": 485,
+      "source_prompt": "🖼️chỉ vào bảng. Điền: `Point to the ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_point_board"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-15",
+      "challenge": 3,
+      "line": 490,
+      "source_prompt": "🖼️vỗ tay. Điền: `Clap your ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_clap_hands"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-16",
+      "challenge": 3,
+      "line": 495,
+      "source_prompt": "🖼️thẻ ngày thứ Hai. Điền: `It's ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_02_monday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C3-17",
+      "challenge": 3,
+      "line": 500,
+      "source_prompt": "Điền ngày còn thiếu: Sunday → ___ → Tuesday",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-18",
+      "challenge": 3,
+      "line": 505,
+      "source_prompt": "Điền ngày còn thiếu: Tuesday → ___ → Thursday",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-19",
+      "challenge": 3,
+      "line": 510,
+      "source_prompt": "Điền ngày còn thiếu: Thursday → ___ → Saturday",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C3-20",
+      "challenge": 3,
+      "line": 515,
+      "source_prompt": "Nghe câu mẫu và điền: `It's ________.`",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-01",
+      "challenge": 4,
+      "line": 531,
+      "source_prompt": "Các thẻ: `your / Touch / toes.`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-02",
+      "challenge": 4,
+      "line": 536,
+      "source_prompt": "Các thẻ: `Ride / bicycle. / a`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-03",
+      "challenge": 4,
+      "line": 541,
+      "source_prompt": "Các thẻ: `a / Fly / kite.`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-04",
+      "challenge": 4,
+      "line": 546,
+      "source_prompt": "Các thẻ: `Point / board. / the / to`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-05",
+      "challenge": 4,
+      "line": 551,
+      "source_prompt": "Các thẻ: `your / Stamp / feet.`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-06",
+      "challenge": 4,
+      "line": 556,
+      "source_prompt": "Các thẻ: `Clap / hands. / your`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-07",
+      "challenge": 4,
+      "line": 561,
+      "source_prompt": "Các thẻ: `Monday. / It's`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R78-C4-08",
+      "challenge": 4,
+      "line": 570,
+      "source_prompt": "🖼️bé nháy một mắt ở cặp 1a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_wink"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C4-09",
+      "challenge": 4,
+      "line": 575,
+      "source_prompt": "🖼️thẻ ngày số1 ở mục Say these.. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C4-10",
+      "challenge": 4,
+      "line": 582,
+      "source_prompt": "Nhìn thẻ ngày 2 và hình 3a. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_ride_bicycle",
+        "r78_day_02_monday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C4-11",
+      "challenge": 4,
+      "line": 589,
+      "source_prompt": "Nhìn thẻ ngày 4 và hình 4a. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_swim",
+        "r78_day_04_wednesday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C4-12",
+      "challenge": 4,
+      "line": 596,
+      "source_prompt": "Nhìn thẻ ngày 7 và hình 5b. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_clap_hands",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C4-13",
+      "challenge": 4,
+      "line": 603,
+      "source_prompt": "Cặp2: hình nào chạm được tới giày?",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_toes",
+        "r78_cannot_touch_toes"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-01",
+      "challenge": 5,
+      "line": 617,
+      "source_prompt": "Nhìn thẻ ngày 2 và hình 3a. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_ride_bicycle",
+        "r78_day_02_monday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-02",
+      "challenge": 5,
+      "line": 624,
+      "source_prompt": "Nhìn thẻ ngày 4 và hình 4a. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_swim",
+        "r78_day_04_wednesday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-03",
+      "challenge": 5,
+      "line": 631,
+      "source_prompt": "Nhìn thẻ ngày 7 và hình 5b. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_clap_hands",
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-04",
+      "challenge": 5,
+      "line": 640,
+      "source_prompt": "Người lớn chỉ/diễn: bé nháy một mắt ở cặp 1a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_wink"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-05",
+      "challenge": 5,
+      "line": 645,
+      "source_prompt": "Người lớn chỉ/diễn: bé đặt hai tay lên đầu gối ở cặp 1b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_knees"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-06",
+      "challenge": 5,
+      "line": 650,
+      "source_prompt": "Người lớn chỉ/diễn: bé chạm được tới ngón chân giày ở cặp 2a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_toes"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-07",
+      "challenge": 5,
+      "line": 655,
+      "source_prompt": "Người lớn chỉ/diễn: bé đi xe đạp ở cặp 3a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_ride_bicycle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-08",
+      "challenge": 5,
+      "line": 660,
+      "source_prompt": "Người lớn chỉ/diễn: bé thả diều ở cặp 3b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_fly_kite"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-09",
+      "challenge": 5,
+      "line": 665,
+      "source_prompt": "Người lớn chỉ/diễn: bé bơi ở cặp 4a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_swim"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-10",
+      "challenge": 5,
+      "line": 670,
+      "source_prompt": "Người lớn chỉ/diễn: bé nhảy múa ở cặp 4b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_dance"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-11",
+      "challenge": 5,
+      "line": 675,
+      "source_prompt": "Người lớn chỉ/diễn: bé giậm chân ở cặp 5a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_stamp_feet"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-12",
+      "challenge": 5,
+      "line": 680,
+      "source_prompt": "Người lớn chỉ/diễn: bé vỗ tay ở cặp 5b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_clap_hands"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-13",
+      "challenge": 5,
+      "line": 685,
+      "source_prompt": "Người lớn chỉ/diễn: bé chỉ vào bảng ở cặp 6a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_point_board"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-14",
+      "challenge": 5,
+      "line": 690,
+      "source_prompt": "Người lớn chỉ/diễn: bé đứng lên ở cặp 6b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_stand_up"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-15",
+      "challenge": 5,
+      "line": 695,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số1 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_01_sunday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-16",
+      "challenge": 5,
+      "line": 700,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số2 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_02_monday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-17",
+      "challenge": 5,
+      "line": 705,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số3 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_03_tuesday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-18",
+      "challenge": 5,
+      "line": 710,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số4 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_04_wednesday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-19",
+      "challenge": 5,
+      "line": 715,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số5 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_05_thursday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-20",
+      "challenge": 5,
+      "line": 720,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số6 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_06_friday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-21",
+      "challenge": 5,
+      "line": 725,
+      "source_prompt": "Người lớn chỉ/diễn: thẻ ngày số7 ở mục Say these.. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_07_saturday"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-22",
+      "challenge": 5,
+      "line": 730,
+      "source_prompt": "So sánh cặp 2a/2b: chỉ hình chạm được giày, rồi gọi đúng động tác.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_touch_toes",
+        "r78_cannot_touch_toes"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R78-C5-23",
+      "challenge": 5,
+      "line": 741,
+      "source_prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Người lớn chỉ thẻ Monday hoặc ô lịch nằm trong cộtMonday, bé nói một câu đầy đủ.",
+      "image_required": true,
+      "asset_ids": [
+        "r78_day_02_monday"
+      ],
+      "mode": "all_required"
+    }
+  ],
+  "source_notes": "Hình1b là tay lên đầu gối, không phải wink. Cụm touch your knees là cách gọi hình để luyện, không phải chữ in/bản chép audio. Cặp2a chạm được giày;2b chưa chạm được. Cặp5a giậm chân,5b vỗ tay: đưa vào bài chính, không thay bằng dance. Thẻ ngày có Sunday1 đến Saturday7; số này là thứ tự THẺ, không phải số thứ trong tiếng Việt hay ngày tháng. Lịch tháng nhỏ có ngày1 ở cộtMonday, khác với thẻMonday số2. CD2_72 không có lời hát in trong PDF, không thêm lời hát tự viết.",
+  "status": "missing_dedicated_challenge_assets_and_mapping"
+}

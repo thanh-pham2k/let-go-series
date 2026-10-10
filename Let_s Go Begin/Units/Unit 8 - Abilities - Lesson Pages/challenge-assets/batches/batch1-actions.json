@@ -1,0 +1,129 @@
+{
+  "job_id": "u08_batch1_actions",
+  "generation_log": "batches/generation-log.json",
+  "exact_prompt": "Use case: illustration-story.\nAsset type: a 4 by 3 contact sheet of twelve independent square educational illustration cards, to be cropped into separate 512x512 WebP cards.\nInput images: the supplied local images are style references only: Unit 8 lesson pages CD2_59, CD2_63, CD2_54, CD2_61. Match their bright children's textbook cartoon style: clean bold black outlines, soft watercolor-like shading, white or very light backgrounds, friendly diverse children, simple uncluttered scenes. Do not copy any labels, page headings, speech bubbles, CD numbers, or answer text.\nComposition/framing: 4 columns by 3 rows, straight white gutters and safe outer margins, every cell square, no stretching. Leave no unused cells. One independent illustration per cell, read row-major:\nRow 1 col 1: a child genuinely riding a bicycle, both wheels and feet on pedals clear.\nRow 1 col 2: a child singing into a small microphone, mouth open and a few musical notes.\nRow 1 col 3: a child flying a kite, string visibly connected from hand to kite.\nRow 1 col 4: a child bouncing a ball downward, hand, ball, ground contact and motion marks clearly show bouncing, not merely holding.\nRow 2 col 1: a child swimming in water with a clear swimming stroke.\nRow 2 col 2: close face of a smiling child, both eyes open.\nRow 2 col 3: close face of a child winking exactly one eye while the other eye is open; make it visibly different from smiling.\nRow 2 col 4: a child dancing in a lively dance pose, clearly not running or standing.\nRow 3 col 1: a child unable to fly a kite: kite on the ground, slack tangled string, child puzzled/frustrated; visually communicates inability without an X or words.\nRow 3 col 2: two children playing with a ball together, clearly a shared game, not one child bouncing alone.\nRow 3 col 3: children playing tag, one child reaching to tag/chase another; clearly more than one child, not just running.\nRow 3 col 4: a child actively jumping over a jump rope, both hands holding the rope and rope forming a clear loop under the feet; distinct from a static rope object.\nNo text, labels, numbers, answer hints, speech bubbles, watermarks, panel IDs, or emoji. Keep all subjects fully visible and visually distinct. Preserve consistent textbook character design and color quality across all cells.",
+  "reference_input_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+  ],
+  "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png",
+  "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch1-actions.png",
+  "batch_id": "batch1-actions",
+  "tool": "built-in image_gen",
+  "reference_images": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+  ],
+  "layout": {
+    "columns": 4,
+    "rows": 3,
+    "occupied_cells": 12,
+    "source_dimensions": [
+      1448,
+      1086
+    ]
+  },
+  "ids": [
+    "u08_ride_bicycle",
+    "u08_sing_song",
+    "u08_fly_kite",
+    "u08_bounce_ball",
+    "u08_swim",
+    "u08_smile",
+    "u08_wink",
+    "u08_dance",
+    "u08_cannot_fly_kite",
+    "u08_play_ball",
+    "u08_play_tag",
+    "u08_jump_rope"
+  ],
+  "crop_boxes": {
+    "u08_ride_bicycle": [
+      3,
+      3,
+      359,
+      359
+    ],
+    "u08_sing_song": [
+      365,
+      3,
+      721,
+      359
+    ],
+    "u08_fly_kite": [
+      727,
+      3,
+      1083,
+      359
+    ],
+    "u08_bounce_ball": [
+      1089,
+      3,
+      1445,
+      359
+    ],
+    "u08_swim": [
+      3,
+      365,
+      359,
+      721
+    ],
+    "u08_smile": [
+      365,
+      365,
+      721,
+      721
+    ],
+    "u08_wink": [
+      727,
+      365,
+      1083,
+      721
+    ],
+    "u08_dance": [
+      1089,
+      365,
+      1445,
+      721
+    ],
+    "u08_cannot_fly_kite": [
+      3,
+      727,
+      359,
+      1083
+    ],
+    "u08_play_ball": [
+      365,
+      727,
+      721,
+      1083
+    ],
+    "u08_play_tag": [
+      727,
+      727,
+      1083,
+      1083
+    ],
+    "u08_jump_rope": [
+      1089,
+      727,
+      1445,
+      1083
+    ]
+  },
+  "export": {
+    "format": "webp",
+    "size": [
+      512,
+      512
+    ],
+    "quality": 80,
+    "method": 6
+  },
+  "visual_review": "passed_all_12",
+  "prompt_summary": "Twelve independent square cards, row-major: ride bicycle; sing song; fly kite; bounce ball; swim; smile; wink; dance; cannot fly kite; play ball; play tag; jump rope. No text or labels."
+}

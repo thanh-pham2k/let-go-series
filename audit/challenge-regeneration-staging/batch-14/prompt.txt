@@ -1,0 +1,15 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Row1: pedestrian RED raised-hand stop signal with same blue/yellow girl standing still underneath (match green go card); curly orange-haired turquoise shirt girl lifting pencil OUT of purple box with UP arrow; boy blue shirt lowering pencil INTO green box with DOWN arrow; braided girl pink shirt spreading open book covers with outward motion arrow, open blank pages. Row2: boy green shirt pressing book shut, CLOSED red covers with inward motion arrow; 2 green filled triangles; 3 green filled triangles; 4 green filled triangles. Row3: 5 green filled triangles layout3+2; 6 green filled triangles3+3;7 green filled triangles3+2+2;4 blue filled diamond rhombuses2+2. Shapes separated, NO count numerals. No text. Arrows for commands permitted as in source and must show correct direction.
+Row 1, column 1: Đèn đỏ yêu cầu dừng, 6b; không chữ STOP
+Row 1, column 2: Bé lấy bút chì ra khỏi hộp, hình 1 Classroom Commands; hướng tay/vật rõ
+Row 1, column 3: Bé cất bút chì vào hộp, hình 2; khác lấy ra
+Row 1, column 4: Bé đang mở sách, hình 3; chuyển động mở rõ
+Row 2, column 1: Bé đang đóng sách, hình 4; khác mở
+Row 2, column 2: Đúng 2 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm
+Row 2, column 3: Đúng 3 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm
+Row 2, column 4: Đúng 4 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm
+Row 3, column 1: Đúng 5 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm
+Row 3, column 2: Đúng 6 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm
+Row 3, column 3: Đúng 7 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm
+Row 3, column 4: Đúng 4 hình thoi ◆, không đá quý, không số/nhãn
+CRITICAL CORRECTION: Row1 column1 traffic display MUST contain a RED UPRIGHT OPEN PALM HAND silhouette with five fingers, NEVER a red walking person. Girl stands with both feet planted. Preserve all other eleven cells correct content/counts. EXACT red stop HAND icon. Generate full 12-cell master anew.

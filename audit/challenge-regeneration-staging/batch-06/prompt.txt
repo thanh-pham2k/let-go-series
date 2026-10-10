@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Animal singles and pairs use SAME design and color within species, exactly specified count. Dog warm brown white muzzle/paws RED collar; cat gray tabby white muzzle, bird blue-purple white belly orange beak; cow black-white patches pink muzzle; rabbit white pink inner ears. Kangaroo brown, lion golden with brown mane. Pairs side-by-side with visible gap, all tails/ears/feet fully visible. Keep each subject/group below 80% cell width/height.
+Row 1, column 1: Một kangaroo theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.
+Row 1, column 2: Một lion theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.
+Row 1, column 3: Đúng 1 con dog; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 1, column 4: Đúng 2 con dog; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 2, column 1: Đúng 1 con cat; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 2, column 2: Đúng 2 con cat; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 2, column 3: Đúng 1 con bird; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 2, column 4: Đúng 2 con bird; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 3, column 1: Đúng 1 con cow; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 3, column 2: Đúng 2 con cow; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 3, column 3: Đúng 1 con rabbit; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 3, column 4: Đúng 2 con rabbit; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.

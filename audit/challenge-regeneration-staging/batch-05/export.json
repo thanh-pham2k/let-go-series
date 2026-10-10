@@ -1,0 +1,322 @@
+{
+  "batch": 5,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u04_dots_05",
+      "crop_box": [
+        0,
+        0,
+        362,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 3570,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_05.webp",
+      "sha256": "818daebceb0bc5948ba00cb68dc95369d1113de49cfc4bc18fb32d4927a553f2"
+    },
+    {
+      "id": "u04_rings_05",
+      "crop_box": [
+        362,
+        0,
+        724,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10634,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_rings_05.webp",
+      "sha256": "edefaa22825f1e5fb7a9951f006c2648fd29cff8acacc7040b4513097798cd07"
+    },
+    {
+      "id": "u04_triangles_06",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 7812,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_triangles_06.webp",
+      "sha256": "0080b67f01075aa41cbfdbe978a343a3709d6548c361e590f5df3e8ce2507ea0"
+    },
+    {
+      "id": "u04_stars_07",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11188,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_stars_07.webp",
+      "sha256": "8c640d7cd37f714ec8d02516a8827fb5088eee005c084a3f97d31c576068a203"
+    },
+    {
+      "id": "u04_circles_08",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 8546,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_circles_08.webp",
+      "sha256": "17283c9b13a52e0fd4d32e9b8c2d88d6505d8fe32e247b029055de0667ea3c42"
+    },
+    {
+      "id": "u04_hearts_09",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12906,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_hearts_09.webp",
+      "sha256": "3b369011bd1a7886f340ce8ba741b471449698c9b6216a5fe20a6d9e28ba6826"
+    },
+    {
+      "id": "u04_squares_10",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5542,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_squares_10.webp",
+      "sha256": "42d23e5ce4da18c94d12fb6f871710e339ba43ad62658d7bb2a2c2352e5a92ff"
+    },
+    {
+      "id": "u04_cars_03",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 21046,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_cars_03.webp",
+      "sha256": "3bb4f58e90b9fdf8704c02682bec8c6898ab7f25bec4270de0abdb077c5295d2"
+    },
+    {
+      "id": "u04_teddy_bears_04",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 25452,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_teddy_bears_04.webp",
+      "sha256": "77d36b3fd8fe295ec4c7431edf3631da6732ada78c1516d63c77242c253f819b"
+    },
+    {
+      "id": "u04_cars_07",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 25270,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_cars_07.webp",
+      "sha256": "ccea12eda58d0ee2f3afe51bf51eaf327b2f89853b9a9d933a08a01bbf1e35fd"
+    },
+    {
+      "id": "u04_igloo",
+      "crop_box": [
+        724,
+        680,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12824,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_igloo.webp",
+      "sha256": "4867bc7fe173987e85e142ba093e60403b4c8e5ab9ce5dd2354265c0920632a1"
+    },
+    {
+      "id": "u04_jump_rope",
+      "crop_box": [
+        1086,
+        680,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17296,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_jump_rope.webp",
+      "sha256": "b48b8420f77c1ce6ed044d93629a059f68680b3d2502251af0ed5eaf05cd5d09"
+    }
+  ],
+  "status": "visual_review_pass"
+}

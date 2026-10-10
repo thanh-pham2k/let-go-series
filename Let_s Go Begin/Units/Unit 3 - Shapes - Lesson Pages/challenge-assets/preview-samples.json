@@ -1,0 +1,108 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 76",
+      "challenge": 1,
+      "line": 76,
+      "raw": "⭕",
+      "ids": [
+        "u03_circle"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "a square",
+        "a circle",
+        "a heart",
+        "a star"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 235",
+      "challenge": 2,
+      "line": 235,
+      "raw": "`⭐ / ⭕ / ◆ / ❤️`",
+      "ids": [
+        "u03_circle",
+        "u03_heart",
+        "u03_star",
+        "u03_diamond"
+      ],
+      "needs_context": false,
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn hình/câu trả lời phù hợp.",
+      "options": [
+        "Hình A",
+        "Hình B",
+        "Hình C",
+        "Hình D"
+      ],
+      "teacher_audio": "Người lớn đọc:"
+    },
+    {
+      "id": "C3 · dòng 289",
+      "challenge": 3,
+      "line": 289,
+      "raw": "1. c _ r c l e *(circle)* ⭕",
+      "ids": [
+        "u03_circle"
+      ],
+      "needs_context": false,
+      "prompt": "c _ r c l e",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C4 · dòng 416",
+      "challenge": 4,
+      "line": 416,
+      "raw": "| 2. Is it a star? ⭐ | B. I'm fine, thank you. |",
+      "ids": [
+        "u03_star"
+      ],
+      "needs_context": false,
+      "prompt": "Is it a star?",
+      "options": [
+        "A. Yes, it is.",
+        "B. I'm fine, thank you.",
+        "C. No, it isn't. It's a diamond.",
+        "D. No, it isn't. It's a pink heart."
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 444",
+      "challenge": 5,
+      "line": 444,
+      "raw": "◆",
+      "ids": [
+        "u03_diamond"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "a star",
+        "a diamond",
+        "a rectangle",
+        "an oval"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 464",
+      "challenge": 5,
+      "line": 464,
+      "raw": "⭕ → ____________________",
+      "ids": [
+        "u03_circle"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ____________________",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 17,
+  "debug_labels_hidden_by_default": true
+}

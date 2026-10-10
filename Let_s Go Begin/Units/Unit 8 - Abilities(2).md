@@ -387,8 +387,8 @@ B: ______________________________.
 2. Go to the ________.
 3. Move ahead 3 ________.
 4. Move back 3 ________.
-5. Make a ________.
-6. Make a ________.
+5. Make a ________.  ![Hình gợi ý](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/challenge-assets/webp/u08_make_circle.webp)
+6. Make a ________.  ![Hình gợi ý](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/challenge-assets/webp/u08_make_line.webp)
 
 **Kho từ:** `board · spaces · circle · line`
 

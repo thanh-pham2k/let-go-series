@@ -1,0 +1,1438 @@
+{
+  "review": "7-8",
+  "assets": [
+    {
+      "id": "r78_wink",
+      "brief": "Bé nháy một mắt, mắt kia mở, 1a",
+      "uses": [
+        "R78-C1-01",
+        "R78-C4-08",
+        "R78-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_wink.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        263,
+        207,
+        430,
+        456
+      ],
+      "source_crop_size": [
+        167,
+        249
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_wink.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 11696,
+      "sha256": "6a875abc6b44f7e233116991848a02bb851ca883581c4c90a6df64ed6333e87c",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_wink.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "6a875abc6b44f7e233116991848a02bb851ca883581c4c90a6df64ed6333e87c",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_touch_knees",
+      "brief": "Bé đặt hai tay lên đầu gối, 1b",
+      "uses": [
+        "R78-C1-02",
+        "R78-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_touch_knees.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        433,
+        207,
+        591,
+        456
+      ],
+      "source_crop_size": [
+        158,
+        249
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_touch_knees.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 13450,
+      "sha256": "41b648e558555b6b02dc772e4372163afbf43b43a4ad0f73451220cebd69bbe2",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_touch_knees.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "41b648e558555b6b02dc772e4372163afbf43b43a4ad0f73451220cebd69bbe2",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_touch_toes",
+      "brief": "Bé cúi chạm được tới ngón chân giày, 2a; tay tiếp xúc rõ",
+      "uses": [
+        "R78-C1-03",
+        "R78-C3-13",
+        "R78-C4-13",
+        "R78-C5-06",
+        "R78-C5-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_touch_toes.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        625,
+        207,
+        790,
+        452
+      ],
+      "source_crop_size": [
+        165,
+        245
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_touch_toes.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 11854,
+      "sha256": "02fd4c00e8eae9acbed10993a09fa7a3fd1182f68b82749244b13ae809b9934a",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_touch_toes.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "02fd4c00e8eae9acbed10993a09fa7a3fd1182f68b82749244b13ae809b9934a",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_cannot_touch_toes",
+      "brief": "Cùng bé cúi nhưng tay chưa chạm được giày, 2b; khoảng hở rõ, không dấu X",
+      "uses": [
+        "R78-C4-13",
+        "R78-C5-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_cannot_touch_toes.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        793,
+        207,
+        955,
+        452
+      ],
+      "source_crop_size": [
+        162,
+        245
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_cannot_touch_toes.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 12050,
+      "sha256": "637e48f063f5aabbf4345c0e93158cba3a7bec693db7ec59ac577fde93ca3bdf",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_cannot_touch_toes.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "637e48f063f5aabbf4345c0e93158cba3a7bec693db7ec59ac577fde93ca3bdf",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_ride_bicycle",
+      "brief": "Bé thực sự đạp xe, 3a",
+      "uses": [
+        "R78-C1-04",
+        "R78-C3-11",
+        "R78-C4-10",
+        "R78-C5-01",
+        "R78-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_ride_bicycle.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        261,
+        535,
+        430,
+        788
+      ],
+      "source_crop_size": [
+        169,
+        253
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_ride_bicycle.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 15568,
+      "sha256": "8300069efb8e719257a9a0153781a02a70acd76ce03cd124af5b1af35edf7598",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_ride_bicycle.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "8300069efb8e719257a9a0153781a02a70acd76ce03cd124af5b1af35edf7598",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_fly_kite",
+      "brief": "Bé thả diều bay, dây nối tay và diều, 3b",
+      "uses": [
+        "R78-C1-05",
+        "R78-C3-12",
+        "R78-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_fly_kite.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        433,
+        535,
+        592,
+        788
+      ],
+      "source_crop_size": [
+        159,
+        253
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_fly_kite.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 11736,
+      "sha256": "2dc1ba5c7a3d112c4da9ebb2b6e6ced937955d4dd77c25f7986c15e59d909901",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_fly_kite.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "2dc1ba5c7a3d112c4da9ebb2b6e6ced937955d4dd77c25f7986c15e59d909901",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_swim",
+      "brief": "Bé bơi trong nước, 4a",
+      "uses": [
+        "R78-C1-06",
+        "R78-C4-11",
+        "R78-C5-02",
+        "R78-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_swim.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        623,
+        534,
+        790,
+        791
+      ],
+      "source_crop_size": [
+        167,
+        257
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_swim.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 14418,
+      "sha256": "2a18364d41413830f5fa9e8d294cf7e6d73a59342dfd658ca87e56d0be035eda",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_swim.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "2a18364d41413830f5fa9e8d294cf7e6d73a59342dfd658ca87e56d0be035eda",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_dance",
+      "brief": "Bé đang nhảy múa, 4b",
+      "uses": [
+        "R78-C1-07",
+        "R78-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_dance.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        793,
+        535,
+        956,
+        791
+      ],
+      "source_crop_size": [
+        163,
+        256
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        1086,
+        362,
+        1448,
+        724
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_dance.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 16642,
+      "sha256": "7ffd7be212cbc463d8e9923a6ebc7d0d356d13e73aea7dc6d05fa8ec69f5fe53",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_dance.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "7ffd7be212cbc463d8e9923a6ebc7d0d356d13e73aea7dc6d05fa8ec69f5fe53",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_stamp_feet",
+      "brief": "Bé giậm chân, 5a; chuyển động chân rõ",
+      "uses": [
+        "R78-C1-08",
+        "R78-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_stamp_feet.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        263,
+        864,
+        431,
+        1140
+      ],
+      "source_crop_size": [
+        168,
+        276
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        0,
+        724,
+        362,
+        1086
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_stamp_feet.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 14252,
+      "sha256": "db2bd2b90cc8f3233222c8da0618a4f38b75a844369b222abaab79d055c96922",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_stamp_feet.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "db2bd2b90cc8f3233222c8da0618a4f38b75a844369b222abaab79d055c96922",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_clap_hands",
+      "brief": "Bé vỗ tay, 5b; hai bàn tay đúng",
+      "uses": [
+        "R78-C1-09",
+        "R78-C3-15",
+        "R78-C4-12",
+        "R78-C5-03",
+        "R78-C5-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_clap_hands.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        435,
+        864,
+        593,
+        1140
+      ],
+      "source_crop_size": [
+        158,
+        276
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        362,
+        724,
+        724,
+        1086
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_clap_hands.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 13528,
+      "sha256": "a0cfefeab2508b0533967851a6138a04f51711ce4ba8e91e820b605713de507f",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_clap_hands.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "a0cfefeab2508b0533967851a6138a04f51711ce4ba8e91e820b605713de507f",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_point_board",
+      "brief": "Bé chỉ vào bảng, 6a; không đi tới bảng",
+      "uses": [
+        "R78-C1-10",
+        "R78-C3-14",
+        "R78-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_point_board.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        625,
+        864,
+        791,
+        1140
+      ],
+      "source_crop_size": [
+        166,
+        276
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        724,
+        724,
+        1086,
+        1086
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_point_board.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 11966,
+      "sha256": "dc453adf6983575079cb94f9c7232de8b67cd8ff736fd7507a23e540a8d2e8bf",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_point_board.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "dc453adf6983575079cb94f9c7232de8b67cd8ff736fd7507a23e540a8d2e8bf",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_stand_up",
+      "brief": "Bé đứng lên, 6b",
+      "uses": [
+        "R78-C1-11",
+        "R78-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "imagegen_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_stand_up.webp"
+      ],
+      "source": "pages/png/CD2_70.png",
+      "crop_box": [
+        809,
+        864,
+        956,
+        1140
+      ],
+      "source_crop_size": [
+        147,
+        276
+      ],
+      "adaptation_notes": "Built-in image_gen cleaned stray printed question-number fragments from original 12-card crop sheet, preserving actions; resulting square cells 362px resized to 512, no claim of added detail.",
+      "batch": "batches/action-cleanup.json",
+      "generated_master": "batches/action-cleanup-result.png",
+      "generated_crop_box": [
+        1086,
+        724,
+        1448,
+        1086
+      ],
+      "generated_crop_size": [
+        362,
+        362
+      ],
+      "webp": "webp/r78_stand_up.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 7706,
+      "sha256": "dbb045c218a360218e5e43e971c65caa4ea1d3d9821dce7fabe75f26bd559c88",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_stand_up.webp",
+      "creation_method": "imagegen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "dbb045c218a360218e5e43e971c65caa4ea1d3d9821dce7fabe75f26bd559c88",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_01_sunday",
+      "brief": "Thẻ thứ tự nguồn 1 — Sunday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-12",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C4-09",
+        "R78-C5-15"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_01_sunday.webp"
+      ],
+      "day_index": 1,
+      "day_name": "Sunday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_01_sunday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 4128,
+      "sha256": "769a0a3099f9a2f8479b8f870ba008cb712bea298dfdbc5f3dd575422270a0be",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_01_sunday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "769a0a3099f9a2f8479b8f870ba008cb712bea298dfdbc5f3dd575422270a0be",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_02_monday",
+      "brief": "Thẻ thứ tự nguồn 2 — Monday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-13",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C3-16",
+        "R78-C4-10",
+        "R78-C5-01",
+        "R78-C5-16",
+        "R78-C5-23"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_02_monday.webp"
+      ],
+      "day_index": 2,
+      "day_name": "Monday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_02_monday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 5326,
+      "sha256": "0b4be2e9fd0b79c3dbbef2517924d997c4713ceee790fafb1b3e48407ad997f3",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_02_monday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "0b4be2e9fd0b79c3dbbef2517924d997c4713ceee790fafb1b3e48407ad997f3",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_03_tuesday",
+      "brief": "Thẻ thứ tự nguồn 3 — Tuesday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-14",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_03_tuesday.webp"
+      ],
+      "day_index": 3,
+      "day_name": "Tuesday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_03_tuesday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 6224,
+      "sha256": "170c04d5275203330f82737b5f33529dad0bc5232cc9af235a04e97805c588c0",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_03_tuesday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "170c04d5275203330f82737b5f33529dad0bc5232cc9af235a04e97805c588c0",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_04_wednesday",
+      "brief": "Thẻ thứ tự nguồn 4 — Wednesday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-15",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C4-11",
+        "R78-C5-02",
+        "R78-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_04_wednesday.webp"
+      ],
+      "day_index": 4,
+      "day_name": "Wednesday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_04_wednesday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 4854,
+      "sha256": "34a95b5b889e1b6515f3e70eb27c39744f38e1ec6b5822f00d16a270c31dee83",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_04_wednesday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "34a95b5b889e1b6515f3e70eb27c39744f38e1ec6b5822f00d16a270c31dee83",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_05_thursday",
+      "brief": "Thẻ thứ tự nguồn 5 — Thursday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-16",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C5-19"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_05_thursday.webp"
+      ],
+      "day_index": 5,
+      "day_name": "Thursday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_05_thursday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 5302,
+      "sha256": "39b432531a663cfa8946433658d83aec4c4c31451b80eb6265602377b387d281",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_05_thursday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "39b432531a663cfa8946433658d83aec4c4c31451b80eb6265602377b387d281",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_06_friday",
+      "brief": "Thẻ thứ tự nguồn 6 — Friday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-17",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C5-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_06_friday.webp"
+      ],
+      "day_index": 6,
+      "day_name": "Friday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_06_friday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 5868,
+      "sha256": "36aac4a032c9fb28305a7b4bb8a9ed3b14935f321a6ca0083ef462bfd0f160cc",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_06_friday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "36aac4a032c9fb28305a7b4bb8a9ed3b14935f321a6ca0083ef462bfd0f160cc",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    },
+    {
+      "id": "r78_day_07_saturday",
+      "brief": "Thẻ thứ tự nguồn 7 — Saturday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+      "uses": [
+        "R78-C1-18",
+        "R78-C2-17",
+        "R78-C2-18",
+        "R78-C2-19",
+        "R78-C2-20",
+        "R78-C2-21",
+        "R78-C2-22",
+        "R78-C2-23",
+        "R78-C4-12",
+        "R78-C5-03",
+        "R78-C5-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r78_day_07_saturday.webp"
+      ],
+      "day_index": 7,
+      "day_name": "Saturday",
+      "adaptation_notes": "Assessment card preserves Sunday-first source index and palette while hiding weekday label. Weekday text is optional UI learning overlay, not a second bitmap. Numbers represent source-card IDs, not month dates.",
+      "webp": "webp/r78_day_07_saturday.webp",
+      "size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method_codec": 6,
+      "file_bytes": 4590,
+      "sha256": "ea649580b68fc4b6405e39a1c3bfe95a177a8764cdde05a01aea9be6b465ef3f",
+      "visual_review": {
+        "reviewer": "root",
+        "status": "reviewed",
+        "evidence": "All 19 final compressed WebP cards viewed individually. Twelve action cards preserve exact source poses/objects after built-in number-fragment cleanup; toes contact/gap distinct, all feet complete. Seven weekday native cards show correct index/color/week-slot with no printed weekday answers."
+      },
+      "file": "webp/r78_day_07_saturday.webp",
+      "creation_method": "native_graphic",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "ea649580b68fc4b6405e39a1c3bfe95a177a8764cdde05a01aea9be6b465ef3f",
+        "status": "pass",
+        "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+      }
+    }
+  ],
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

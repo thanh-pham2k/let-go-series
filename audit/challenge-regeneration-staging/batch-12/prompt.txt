@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Review toys match review source: ball pink/yellow/green striped with green spots fully shown. Color swatches same textured square patch as previous masters. Paper single blank white sheet black outline slight curl; scissors red child-safe rounded blades; glue bottle white blue bands yellow label with flower emblem and orange pointed nozzle NO WORDS; red paint jar plus blue-handled brush NO WORDS; tape green desktop dispenser with visible white roll. Stand up boy brown hair red shirt blue pants beside wooden chair standing straight; sit down SAME boy SAME chair seated knees bent, fully visible. No arrows needed, no text. Keep objects inside equal square cells.
+Row 1, column 1: Bóng ở 2b
+Row 1, column 2: Mảng xanh lá 3a
+Row 1, column 3: Mảng đỏ 3b
+Row 1, column 4: Mảng tím 4a
+Row 2, column 1: Mảng vàng 4b
+Row 2, column 2: Một tờ giấy, hình 1 School Supplies
+Row 2, column 3: Kéo học sinh, hình 2
+Row 2, column 4: Lọ keo có đầu nhọn, hình 3, không chai mỹ phẩm
+Row 3, column 1: Lọ màu vẽ và cọ, hình 4
+Row 3, column 2: Hộp/cuộn băng keo đúng hình 5, không giấy vệ sinh
+Row 3, column 3: Bé đứng dậy, 5a
+Row 3, column 4: Bé ngồi xuống ghế, 5b

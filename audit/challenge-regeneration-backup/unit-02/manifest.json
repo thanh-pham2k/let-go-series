@@ -1,0 +1,875 @@
+{
+  "schema_version": 1,
+  "unit": 2,
+  "topic": "Colors",
+  "scope": "Challenge 1–5 only",
+  "source": "Let_s Go Begin/Units/Unit 2 - Colors(3).md",
+  "output_format": {
+    "cards": "512x512 WebP",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": "15–60 KB where feasible"
+  },
+  "required_asset_count": 19,
+  "assets": [
+    {
+      "id": "u02_color_red",
+      "file": "webp/u02_color_red.webp",
+      "brief": "Mảng màu red, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "red"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1604,
+      "sha256": "2f6e97e97a00c47eb9fc9d678c129d612c715792c454c3469d376db64ef7aded",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        67,
+        190,
+        205,
+        358
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "2f6e97e97a00c47eb9fc9d678c129d612c715792c454c3469d376db64ef7aded",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_blue",
+      "file": "webp/u02_color_blue.webp",
+      "brief": "Mảng màu blue, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "blue"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1566,
+      "sha256": "bc470222ffcebf373844249ee0e7b92209ea9b4c52b9d8d5d0052181466f608c",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        68,
+        191,
+        206,
+        360,
+        385
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "bc470222ffcebf373844249ee0e7b92209ea9b4c52b9d8d5d0052181466f608c",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_yellow",
+      "file": "webp/u02_color_yellow.webp",
+      "brief": "Mảng màu yellow, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "yellow"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1688,
+      "sha256": "95455c81551cea07479a1742d1b4ee6848b6d3d698921ebb8c26cd17cd6454bb",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        69,
+        192,
+        207,
+        258,
+        362
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "95455c81551cea07479a1742d1b4ee6848b6d3d698921ebb8c26cd17cd6454bb",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_green",
+      "file": "webp/u02_color_green.webp",
+      "brief": "Mảng màu green, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "green"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1570,
+      "sha256": "3d3f4d9a50d424591e4204369919265e172c01f04b1304708598b84a5420919e",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        70,
+        193,
+        208,
+        354,
+        364
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "3d3f4d9a50d424591e4204369919265e172c01f04b1304708598b84a5420919e",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_brown",
+      "file": "webp/u02_color_brown.webp",
+      "brief": "Mảng màu brown, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "brown"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1578,
+      "sha256": "42e5098382f24ef3a582e1654001511b2986d73544b7b4c2d6417a783edba1d7",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        71,
+        194,
+        209,
+        366
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "42e5098382f24ef3a582e1654001511b2986d73544b7b4c2d6417a783edba1d7",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_purple",
+      "file": "webp/u02_color_purple.webp",
+      "brief": "Mảng màu purple, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "purple"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1474,
+      "sha256": "969e2a5d92132cb26616bb795a23a0e807704696889df392e4333ed01606f7e9",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        72,
+        195,
+        210,
+        255,
+        323,
+        368,
+        380,
+        454
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "969e2a5d92132cb26616bb795a23a0e807704696889df392e4333ed01606f7e9",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_orange",
+      "file": "webp/u02_color_orange.webp",
+      "brief": "Mảng màu orange, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "orange"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1720,
+      "sha256": "44e3002c249d6a18b0150c29558032a536725bc7decaeeb3cec83f11935289d4",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        73,
+        196,
+        211,
+        350,
+        370
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "44e3002c249d6a18b0150c29558032a536725bc7decaeeb3cec83f11935289d4",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_black",
+      "file": "webp/u02_color_black.webp",
+      "brief": "Mảng màu black, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "black"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1196,
+      "sha256": "1af6f29ffd7153dcf8e12fa68cb1b3792b8eaf910133a00f7115942909f2489d",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        74,
+        197,
+        212,
+        352,
+        372
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1af6f29ffd7153dcf8e12fa68cb1b3792b8eaf910133a00f7115942909f2489d",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_white",
+      "file": "webp/u02_color_white.webp",
+      "brief": "Mảng màu white, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "white"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1110,
+      "sha256": "7ca03c52dff56c2ba408fedc542817be35afd1fc16238ca15551b51ddac4722b",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        75,
+        198,
+        213,
+        374
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "7ca03c52dff56c2ba408fedc542817be35afd1fc16238ca15551b51ddac4722b",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_color_pink",
+      "file": "webp/u02_color_pink.webp",
+      "brief": "Mảng màu pink, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+      "semantic": {
+        "type": "color_swatch",
+        "color": "pink"
+      },
+      "method": "native_graphic",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_24.png",
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_28.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 1594,
+      "sha256": "871907dcbbc723c44c16e1e6299ad847f90b6170def962e28913abbce3eaaac7",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        76,
+        199,
+        214,
+        376
+      ],
+      "creation_method": "native_graphic",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "871907dcbbc723c44c16e1e6299ad847f90b6170def962e28913abbce3eaaac7",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_red_train",
+      "file": "webp/u02_red_train.webp",
+      "brief": "Tàu hỏa đồ chơi màu đỏ; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "semantic": {
+        "type": "toy",
+        "object": "train",
+        "color": "red",
+        "count": 1
+      },
+      "method": "imagegen_reviewed",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_34.png",
+        "batches/u02_red_train-imagegen.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 12118,
+      "sha256": "6a08d2f4e19b115c992224ac8db638fb035cfb11462d9f95e2c17d56ee7b18c1",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        90,
+        392
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "reviewed_single_subject": true,
+        "batch_master": "batches/u02_red_train-imagegen.png",
+        "generation_log": "batches/generation-log.json",
+        "record_id": "u02_red_train"
+      },
+      "creation_method": "imagegen_reviewed",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "6a08d2f4e19b115c992224ac8db638fb035cfb11462d9f95e2c17d56ee7b18c1",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_blue_ball",
+      "file": "webp/u02_blue_ball.webp",
+      "brief": "Bóng màu xanh dương; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "semantic": {
+        "type": "toy",
+        "object": "ball",
+        "color": "blue",
+        "count": 1
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_34.png",
+        "references/u02_blue_ball_source.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 8724,
+      "sha256": "827d62ec75971203544a841a35a5f2b16fb688ff55c7eb39aaec93581922f28d",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        93,
+        393
+      ],
+      "crop_box_source_pixels": [
+        825,
+        120,
+        1155,
+        410
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "827d62ec75971203544a841a35a5f2b16fb688ff55c7eb39aaec93581922f28d",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_brown_teddy_bear",
+      "file": "webp/u02_brown_teddy_bear.webp",
+      "brief": "Gấu bông màu nâu; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "semantic": {
+        "type": "toy",
+        "object": "teddy_bear",
+        "color": "brown",
+        "count": 1
+      },
+      "method": "imagegen_reviewed",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_34.png",
+        "batches/u02_brown_teddy_bear-imagegen.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 19144,
+      "sha256": "a909df81639dc93888829023325de118c598046c9447ed067b374748c2fa3726",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        96,
+        394
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "reviewed_single_subject": true,
+        "batch_master": "batches/u02_brown_teddy_bear-imagegen.png",
+        "generation_log": "batches/generation-log.json",
+        "record_id": "u02_brown_teddy_bear"
+      },
+      "creation_method": "imagegen_reviewed",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "a909df81639dc93888829023325de118c598046c9447ed067b374748c2fa3726",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_green_yo_yo",
+      "file": "webp/u02_green_yo_yo.webp",
+      "brief": "Yo-yo màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "semantic": {
+        "type": "toy",
+        "object": "yo_yo",
+        "color": "green",
+        "count": 1
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_34.png",
+        "references/u02_green_yo_yo_source.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 12346,
+      "sha256": "102b2c4243781a35c3c7ea06f4593dc66d1e80501deb55b95c9a1d4237977e8e",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        99,
+        395
+      ],
+      "crop_box_source_pixels": [
+        835,
+        525,
+        1155,
+        905
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "102b2c4243781a35c3c7ea06f4593dc66d1e80501deb55b95c9a1d4237977e8e",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_green_car",
+      "file": "webp/u02_green_car.webp",
+      "brief": "Ô tô đồ chơi màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.",
+      "semantic": {
+        "type": "toy",
+        "object": "car",
+        "color": "green",
+        "count": 1
+      },
+      "method": "imagegen_reviewed",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_35.png",
+        "batches/green-car-imagegen.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 13872,
+      "sha256": "e91ffa903305064009b3c9bd55c529648a81c0f6c0464ccfc3dfa6dcabb8e316",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        261,
+        324,
+        396,
+        458
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "reviewed_single_subject": true,
+        "batch_master": "batches/green-car-imagegen.png",
+        "generation_log": "batches/generation-log.json",
+        "record_id": "u02_green_car"
+      },
+      "creation_method": "imagegen_reviewed",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e91ffa903305064009b3c9bd55c529648a81c0f6c0464ccfc3dfa6dcabb8e316",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_apple",
+      "file": "webp/u02_apple.webp",
+      "brief": "Một apple giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "semantic": {
+        "type": "phonics_object",
+        "object": "apple",
+        "count": 1
+      },
+      "method": "crop",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_33.png",
+        "references/u02_apple_source.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 9514,
+      "sha256": "e54bf3b221a13f0b3703e8fbe5bbe42f78ccc66ed2e1b56a554bedb3fcebf8f6",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        332,
+        443
+      ],
+      "crop_box_source_pixels": [
+        65,
+        175,
+        310,
+        475
+      ],
+      "creation_method": "crop",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e54bf3b221a13f0b3703e8fbe5bbe42f78ccc66ed2e1b56a554bedb3fcebf8f6",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_bird",
+      "file": "webp/u02_bird.webp",
+      "brief": "Một bird giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "semantic": {
+        "type": "phonics_object",
+        "object": "bird",
+        "count": 1
+      },
+      "method": "imagegen_reviewed",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_33.png",
+        "batches/u02_bird-imagegen.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 14356,
+      "sha256": "959a7e7bc9b2bad09c216fcc1b1b48e8f66415e17ec61806bc9969eac7d1aa00",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        333,
+        444
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "reviewed_single_subject": true,
+        "batch_master": "batches/u02_bird-imagegen.png",
+        "generation_log": "batches/generation-log.json",
+        "record_id": "u02_bird"
+      },
+      "creation_method": "imagegen_reviewed",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "959a7e7bc9b2bad09c216fcc1b1b48e8f66415e17ec61806bc9969eac7d1aa00",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_cat",
+      "file": "webp/u02_cat.webp",
+      "brief": "Một cat giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "semantic": {
+        "type": "phonics_object",
+        "object": "cat",
+        "count": 1
+      },
+      "method": "imagegen_reviewed",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_33.png",
+        "batches/u02_cat-imagegen.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 15180,
+      "sha256": "68a3dac497362141fcd7b34ee09014eb4e51e2d00a16f35f742f0f20286da997",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        334,
+        445
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "reviewed_single_subject": true,
+        "batch_master": "batches/u02_cat-imagegen.png",
+        "generation_log": "batches/generation-log.json",
+        "record_id": "u02_cat"
+      },
+      "creation_method": "imagegen_reviewed",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "68a3dac497362141fcd7b34ee09014eb4e51e2d00a16f35f742f0f20286da997",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    },
+    {
+      "id": "u02_dog",
+      "file": "webp/u02_dog.webp",
+      "brief": "Một dog giống minh họa phonics A–D; không chữ cái, không tên từ.",
+      "semantic": {
+        "type": "phonics_object",
+        "object": "dog",
+        "count": 1
+      },
+      "method": "imagegen_reviewed",
+      "references": [
+        "Let_s Go Begin/Units/Unit 2 - Colors - Lesson Pages/pages/png/CD1_33.png",
+        "batches/u02_dog-imagegen.png"
+      ],
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "quality": 80,
+      "method_webp": 6,
+      "file_bytes": 13696,
+      "sha256": "42c7bb6c4f793e24a4b4945257f224aea03e4b988beaa3a529555b06fb6a818d",
+      "visual_review": {
+        "reviewed": true,
+        "at_512px": true,
+        "text_or_answer_hint": false
+      },
+      "uses": [
+        335,
+        446
+      ],
+      "generation": {
+        "tool": "built-in image_gen",
+        "reviewed_single_subject": true,
+        "batch_master": "batches/u02_dog-imagegen.png",
+        "generation_log": "batches/generation-log.json",
+        "record_id": "u02_dog"
+      },
+      "creation_method": "imagegen_reviewed",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "42c7bb6c4f793e24a4b4945257f224aea03e4b988beaa3a529555b06fb6a818d",
+        "status": "pass",
+        "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+      }
+    }
+  ],
+  "conditional_assets": [],
+  "deduplication": {
+    "same_semantic_use_same_id": true,
+    "duplicate_pixel_ids": [],
+    "source_pages_immutable": true
+  },
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

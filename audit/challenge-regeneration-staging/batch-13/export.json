@@ -1,0 +1,322 @@
+{
+  "batch": 13,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "r12_come_here",
+      "crop_box": [
+        0,
+        0,
+        420,
+        360
+      ],
+      "original_cell_size": [
+        420,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18280,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_come_here.webp",
+      "sha256": "08fc22f95181e2079eea8235dfa3f0c32a3af5a80c2daa4d1754ab9f02ffcd59"
+    },
+    {
+      "id": "r12_turn_around",
+      "crop_box": [
+        420,
+        0,
+        724,
+        360
+      ],
+      "original_cell_size": [
+        304,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13510,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_turn_around.webp",
+      "sha256": "76fa2f50b5e39ce21779a69e5b1aba01d79653d8c8450b4922bdc886acd87e09"
+    },
+    {
+      "id": "r34_circle",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 4394,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_circle.webp",
+      "sha256": "58b99244ce8130a8f5edd9ae529c71570f654a161437a7a2d37f254155953633"
+    },
+    {
+      "id": "r34_square",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 1112,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_square.webp",
+      "sha256": "032074cc7087a371064ca0ac000db4273ec5116a42aac78dcbffa049907e8811"
+    },
+    {
+      "id": "r34_star",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 9428,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_star.webp",
+      "sha256": "67accc2d41ff2ecbf03a3256de62ed0f487287016f31e8465f866f3394aeae18"
+    },
+    {
+      "id": "r34_heart",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 8514,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_heart.webp",
+      "sha256": "b792890fe0d6a01c0a66f31d407eaa2475e589c35c7945cdd75f6bfd493cfd1d"
+    },
+    {
+      "id": "r34_triangle",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 9174,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangle.webp",
+      "sha256": "7168d93ba1701fe719877d8580beb54297c749168e3b24e65f5cc574d459c451"
+    },
+    {
+      "id": "r34_diamond",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 7414,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamond.webp",
+      "sha256": "c2048335f427b6bee362e2a8bf7ef209f522c1130ab723afb3285637af0922ca"
+    },
+    {
+      "id": "r34_oval",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 6974,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_oval.webp",
+      "sha256": "2be9cf8eace893920ad866284a2034e9505e38f86853aa713ce67731c30c0a37"
+    },
+    {
+      "id": "r34_walk",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13488,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_walk.webp",
+      "sha256": "144697f7b5f3c7ec5387b4a5f6ae8d6cc7067b209c2d186c1b7e87d36c546cbe"
+    },
+    {
+      "id": "r34_run",
+      "crop_box": [
+        724,
+        680,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15948,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_run.webp",
+      "sha256": "cc973c390529124c176fab96680c84218e5360ae6adb7340313fa88150954d41"
+    },
+    {
+      "id": "r34_go",
+      "crop_box": [
+        1086,
+        680,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18564,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_go.webp",
+      "sha256": "acccd26f4cc00dc7674f9a1eb39d9c424a0ed2c2bcd12b43e88dfe6baad64c38"
+    }
+  ],
+  "status": "visual_review_pass"
+}

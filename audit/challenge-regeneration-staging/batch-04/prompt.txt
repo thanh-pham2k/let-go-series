@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Colored shapes front-facing flat filled shapes: purple heart, orange triangle, yellow circle, green square, pink heart. Egg beige speckled; fish living purple/yellow striped tropical fish; gorilla gray friendly full body. Last four cells are flat black SOLID circles count 1,2,3,4, no shading or other dots.
+Row 1, column 1: Một hình heart màu purple thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.
+Row 1, column 2: Một hình triangle màu orange thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.
+Row 1, column 3: Một hình circle màu yellow thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.
+Row 1, column 4: Một hình square màu green thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.
+Row 2, column 1: Một hình heart màu pink thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.
+Row 2, column 2: Một egg giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.
+Row 2, column 3: Một fish giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.
+Row 2, column 4: Một gorilla giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.
+Row 3, column 1: Đúng 1 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.
+Row 3, column 2: Đúng 2 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.
+Row 3, column 3: Đúng 3 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.
+Row 3, column 4: Đúng 4 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.

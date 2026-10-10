@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-10-10",
+  "tool": "image_gen.imagegen",
+  "repairs": [
+    {
+      "asset_ids": [
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ],
+      "tool": "image_gen.imagegen",
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon rabbit with pink inner ears, a small pink nose, and a warm light-brown patch on its back, sitting on a simple small tree stump. Match the supplied Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, soft shading, cheerful colors, white or very pale background, whole rabbit fully visible including ears, paws, body, and tail, centered with generous safe margins. No other animals, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges.",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-7803753a-c3d2-4a6b-8e9e-440928613eeb.png",
+      "referenced_images": [],
+      "result": "accepted after visual inspection: clean whole rabbit master copied to references/rabbit_generated_master.png; rabbit_01 derived as singleton card and rabbit_02 derived as exact two-count composition",
+      "master_path": "references/rabbit_generated_master.png",
+      "master_derivation": "generated output copied unchanged into the local master reference, then PIL card composition and WebP export"
+    },
+    {
+      "asset_ids": [
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_cow_08"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border.",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+      "referenced_images": [],
+      "result": "accepted after visual inspection: ears, four hooves, tail, full silhouette visible"
+    },
+    {
+      "asset_ids": [
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_duck_03"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border.",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+      "referenced_images": [],
+      "result": "accepted after visual inspection: complete beak, body, tail, both feet, no boundary contact"
+    },
+    {
+      "asset_ids": [
+        "u05_peach"
+      ],
+      "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one whole rounded orange peach with a small green leaf and short brown stem, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, soft shading, simple white or very pale background. Show the complete fruit centered with generous safe margins: smooth fully rounded left and right contour, complete bottom, leaf and stem fully visible, no flat cut edge and no part touching the frame. No other fruit, no partial objects, no watermark, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border.",
+      "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-05c426bc-3fb6-4775-8d54-43086cb6353c.png",
+      "referenced_images": [],
+      "result": "accepted after visual inspection: rounded complete fruit contour, leaf and stem visible"
+    },
+    {
+      "asset_ids": [
+        "u05_dog_01",
+        "u05_dog_02"
+      ],
+      "tool": "PIL crop",
+      "source": "webp/u05_dog_01.webp",
+      "result": "trimmed only empty footer below yellow platform; no artwork painted"
+    }
+  ],
+  "manifest": "../manifest.json",
+  "schema_version": 1
+}

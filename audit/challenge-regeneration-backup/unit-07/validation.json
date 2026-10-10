@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "unit": 7,
+  "status": "passed",
+  "required_assets": 15,
+  "complete_assets": 15,
+  "missing_assets": [],
+  "conditional_assets": [],
+  "checks": [
+    {
+      "id": "u07_head",
+      "file": "webp/u07_head.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 8578,
+      "within_60kb": true,
+      "sha256": "dc60e7fa3677f0238912f0fcbd0c1cd34c27a80397b17d5d6715668a924abc1b",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_shoulders",
+      "file": "webp/u07_shoulders.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 10996,
+      "within_60kb": true,
+      "sha256": "f2fcfc044b53fc537f585e05d817a652ec6fa827daa5fa5161cf7384e24da956",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_knees",
+      "file": "webp/u07_knees.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 12620,
+      "within_60kb": true,
+      "sha256": "a19e9007787f6655a75ac28e962c1873cb1ae2aaea0363717f41449d58813daf",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_toes",
+      "file": "webp/u07_toes.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 11928,
+      "within_60kb": true,
+      "sha256": "485996601db6fa45dfdd59cc4e71c91da4eb418d6561f59ad711178b6c078d40",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_eyes",
+      "file": "webp/u07_eyes.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 15522,
+      "within_60kb": true,
+      "sha256": "78314d97e6b02f68bab47032e0935958d700106eb1287f05f64ff37599019469",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_ears",
+      "file": "webp/u07_ears.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 16922,
+      "within_60kb": true,
+      "sha256": "41b6355fefa96796b3d07920fade4d8f6657996c6c7ca54db195bfdf287e21e7",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_mouth",
+      "file": "webp/u07_mouth.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 23384,
+      "within_60kb": true,
+      "sha256": "24bc9c9d4e614318cabd519f2e02f1007c973ff14a68493d3530c5359cc43d48",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_nose",
+      "file": "webp/u07_nose.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 25030,
+      "within_60kb": true,
+      "sha256": "b9c95fff2ae156bea0b3c91df3e18a3d3a6de90bbb96238366b732deb60911a6",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_touch_head",
+      "file": "webp/u07_touch_head.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 17784,
+      "within_60kb": true,
+      "sha256": "4969acd150049af59fa5941817b1a7e5fce0462cca3f86d0fda7f9c43c5c5079",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_touch_nose",
+      "file": "webp/u07_touch_nose.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 19938,
+      "within_60kb": true,
+      "sha256": "665abaf431a99c9a649c492e14969cc436c4dd2b691ec92ba03185c6a86f2bcc",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_touch_eyes",
+      "file": "webp/u07_touch_eyes.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 24878,
+      "within_60kb": true,
+      "sha256": "ae34b32d90b0a2bbd76d974c0fa8ede3d806f854714636afe58ba72f3365e105",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_red_circle",
+      "file": "webp/u07_red_circle.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 3878,
+      "within_60kb": true,
+      "sha256": "eb7663f4ee17dc75cbf604cb97afcb1812a311cdd24e08b411e63b9b535e82d0",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_umbrella",
+      "file": "webp/u07_umbrella.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 15764,
+      "within_60kb": true,
+      "sha256": "22337b9fedb614b3c21e22b5c1a85b2a5e6849847bed6f3ac9a42a25b9f2cbd0",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_violin",
+      "file": "webp/u07_violin.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 19736,
+      "within_60kb": true,
+      "sha256": "0b18def45cfd99ba73dcdc4c43d5ebf3cac4c0172ee59f3224afcd090dcfc9ef",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u07_watch",
+      "file": "webp/u07_watch.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 15000,
+      "within_60kb": true,
+      "sha256": "8ff3b94be136efa729a1d39f8ef423331d86f18276cd759de1d33ca2fd92899b",
+      "visual_reviewed": true
+    }
+  ],
+  "occurrence_coverage": {
+    "inventory_visual_occurrences": 52,
+    "mapped_visual_occurrences": 52,
+    "unresolved_context": [
+      "C3§5 lines 308 and 311 need a cue/order before a unique answer can be selected."
+    ],
+    "duplicate_pixel_ids": []
+  },
+  "section_coverage": {
+    "total": 27,
+    "mapped_or_explicit_no_image": 27,
+    "unmapped": []
+  },
+  "notes": [
+    "Every WebP was opened and reviewed individually at 512px after export.",
+    "All assets are crops from immutable Unit 7 lesson references except u07_red_circle, which is a code-native geometric graphic.",
+    "C3§5 remains context-dependent by source design; no answer was guessed.",
+    "No audio or source Markdown was modified."
+  ],
+  "root_final_audit": {
+    "card_count": 15,
+    "all_individual_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 25030,
+    "over_60kb": [],
+    "unique_hashes": 15,
+    "contact_sheet_regenerated_from_final_webps": true
+  },
+  "unresolved_context": [],
+  "resolved_visual_cues": [
+    {
+      "unit": 7,
+      "question_line": 308,
+      "cue_line": 309,
+      "asset_id": "u07_touch_head",
+      "asset_ids": [
+        "u07_touch_head"
+      ],
+      "expected_answer": "head",
+      "accepted_answers": [
+        "head"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "B: I can touch my ____________________."
+    },
+    {
+      "unit": 7,
+      "question_line": 311,
+      "cue_line": 312,
+      "asset_id": "u07_touch_eyes",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ],
+      "expected_answer": "eyes",
+      "accepted_answers": [
+        "eyes"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "B: I can touch my ____________________."
+    }
+  ],
+  "context_open": [],
+  "context_items_total": 0
+}

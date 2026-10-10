@@ -1,0 +1,204 @@
+{
+  "sets": [
+    {
+      "set": "review-1-2",
+      "broken": [],
+      "debugHidden": true,
+      "images": 23,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Review 1-2 — Challenge preview"
+    },
+    {
+      "set": "review-3-4",
+      "broken": [],
+      "debugHidden": true,
+      "images": 32,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Review 3-4 — Challenge preview"
+    },
+    {
+      "set": "review-5-6",
+      "broken": [],
+      "debugHidden": true,
+      "images": 24,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Review 5-6 — Challenge preview"
+    },
+    {
+      "set": "review-7-8",
+      "broken": [],
+      "debugHidden": true,
+      "images": 32,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Review 7-8 — Challenge preview"
+    },
+    {
+      "set": "unit-01",
+      "broken": [],
+      "debugHidden": true,
+      "images": 21,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Unit 1 — Toys — Challenge preview"
+    },
+    {
+      "set": "unit-02",
+      "broken": [],
+      "debugHidden": true,
+      "images": 24,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Unit 2 — Colors — Challenge preview"
+    },
+    {
+      "set": "unit-03",
+      "broken": [],
+      "debugHidden": true,
+      "images": 26,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Unit 3 — Shapes — Challenge preview"
+    },
+    {
+      "set": "unit-04",
+      "broken": [],
+      "debugHidden": true,
+      "images": 23,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Unit 4 — Numbers — Challenge preview"
+    },
+    {
+      "set": "unit-05",
+      "broken": [],
+      "debugHidden": true,
+      "images": 28,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 6,
+      "teacherDetailsClosed": true,
+      "title": "Unit 5 — Animals — Challenge preview"
+    },
+    {
+      "set": "unit-06",
+      "broken": [],
+      "debugHidden": true,
+      "images": 28,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 10,
+      "teacherDetailsClosed": true,
+      "title": "Unit 6 — Food — Challenge preview"
+    },
+    {
+      "set": "unit-07",
+      "broken": [],
+      "debugHidden": true,
+      "images": 26,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 8,
+      "teacherDetailsClosed": true,
+      "title": "Unit 7 — My Body — Challenge preview"
+    },
+    {
+      "set": "unit-08",
+      "broken": [],
+      "debugHidden": true,
+      "images": 28,
+      "sampleChallenges": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "samples": 8,
+      "teacherDetailsClosed": true,
+      "title": "Unit 8 — Abilities — Challenge preview"
+    }
+  ],
+  "updatedCueDecisions": 8,
+  "method": "Current three cue previews rechecked through DOM; all8 cue links and fixed answers also verified from source/mapping files.",
+  "interactionCheck": {
+    "choiceChecked": true,
+    "debugStillHidden": true,
+    "fillValue": "ride a bicycle",
+    "note": "Native radio/text controls were tested in the previous full preview audit; implementation unchanged by cue content updates."
+  }
+}

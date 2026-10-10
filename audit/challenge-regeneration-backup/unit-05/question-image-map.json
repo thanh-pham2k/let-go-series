@@ -1,0 +1,2720 @@
+{
+  "schema_version": 1,
+  "unit": 5,
+  "source": "../Unit 5 - Animals(2).md",
+  "questions": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.1",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "source_line": 63,
+      "source_text": "🐶",
+      "learner_text": "Look at the picture. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.2",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "source_line": 70,
+      "source_text": "🐱",
+      "learner_text": "Look at the picture. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.3",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "source_line": 77,
+      "source_text": "🐦",
+      "learner_text": "Look at the picture. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.4",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "source_line": 84,
+      "source_text": "🐄",
+      "learner_text": "Look at the picture. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.5",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "source_line": 91,
+      "source_text": "🐇",
+      "learner_text": "Look at the picture. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.6",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "source_line": 98,
+      "source_text": "🦆",
+      "learner_text": "Look at the picture. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-110",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "source_line": 110,
+      "source_text": "| 🐶 | dog / dogs |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-111",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "source_line": 111,
+      "source_text": "| 🐶🐶 | dog / dogs |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-112",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "source_line": 112,
+      "source_text": "| 🐱 | cat / cats |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-113",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "source_line": 113,
+      "source_text": "| 🐱🐱 | cat / cats |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-114",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "source_line": 114,
+      "source_text": "| 🐦 | bird / birds |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-115",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_03"
+      ],
+      "source_line": 115,
+      "source_text": "| 🐦🐦🐦 | bird / birds |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-116",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "source_line": 116,
+      "source_text": "| 🐄 | cow / cows |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-117",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_02"
+      ],
+      "source_line": 117,
+      "source_text": "| 🐄🐄 | cow / cows |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-118",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "source_line": 118,
+      "source_text": "| 🐇 | rabbit / rabbits |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-119",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "source_line": 119,
+      "source_text": "| 🐇🐇 | rabbit / rabbits |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-120",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "source_line": 120,
+      "source_text": "| 🦆 | duck / ducks |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "line-121",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_02"
+      ],
+      "source_line": 121,
+      "source_text": "| 🦆🦆 | duck / ducks |",
+      "learner_text": "Look at the picture. Choose the singular or plural word."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-203",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "source_line": 203,
+      "source_text": "- [ ] 🐶",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-204",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "source_line": 204,
+      "source_text": "- [ ] 🐶🐶",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-205",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "source_line": 205,
+      "source_text": "- [ ] 🐱🐱",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-209",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "source_line": 209,
+      "source_text": "- [ ] 🐱",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-210",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "source_line": 210,
+      "source_text": "- [ ] 🐱🐱",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-211",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "source_line": 211,
+      "source_text": "- [ ] 🐇",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-215",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "source_line": 215,
+      "source_text": "- [ ] 🐦",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-216",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_03"
+      ],
+      "source_line": 216,
+      "source_text": "- [ ] 🐦🐦🐦",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-217",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_02"
+      ],
+      "source_line": 217,
+      "source_text": "- [ ] 🦆🦆",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-221",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "source_line": 221,
+      "source_text": "- [ ] 🐇",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-222",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "source_line": 222,
+      "source_text": "- [ ] 🐇🐇",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "line-223",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_02"
+      ],
+      "source_line": 223,
+      "source_text": "- [ ] 🐄🐄",
+      "learner_text": "Listen. Choose the picture."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "line-273",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "source_line": 273,
+      "source_text": "1. d _ g *(dog)* 🐶",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "line-274",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "source_line": 274,
+      "source_text": "2. c _ t *(cat)* 🐱",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "line-275",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "source_line": 275,
+      "source_text": "3. b _ r d *(bird)* 🐦",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "line-276",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "source_line": 276,
+      "source_text": "4. c _ w *(cow)* 🐄",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "line-277",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "source_line": 277,
+      "source_text": "5. r _ b b i t *(rabbit)* 🐇",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "line-278",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "source_line": 278,
+      "source_text": "6. d _ c k *(duck)* 🦆",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "line-424",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_moon"
+      ],
+      "source_line": 424,
+      "source_text": "- m o _ n *(moon)* 🌙",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "line-425",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_nest"
+      ],
+      "source_line": 425,
+      "source_text": "- n _ s t *(nest)* 🪺",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "line-426",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_octopus"
+      ],
+      "source_line": 426,
+      "source_text": "- o c t _ p u s *(octopus)* 🐙",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "line-427",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_peach"
+      ],
+      "source_line": 427,
+      "source_text": "- p _ a c h *(peach)* 🍑",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "line-444",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "source_line": 444,
+      "source_text": "🐶🐶",
+      "learner_text": "Look quickly. Choose the word."
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "line-450",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "source_line": 450,
+      "source_text": "🐱",
+      "learner_text": "Look quickly. Choose the word."
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "line-456",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_03"
+      ],
+      "source_line": 456,
+      "source_text": "🐦🐦🐦",
+      "learner_text": "Look quickly. Choose the word."
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "line-462",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "source_line": 462,
+      "source_text": "🐇🐇",
+      "learner_text": "Look quickly. Choose the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-470",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "source_line": 470,
+      "source_text": "🐶 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-472",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "source_line": 472,
+      "source_text": "🐶🐶 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-474",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "source_line": 474,
+      "source_text": "🐱 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-476",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "source_line": 476,
+      "source_text": "🐱🐱 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-478",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "source_line": 478,
+      "source_text": "🐦 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-480",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_bird_02"
+      ],
+      "source_line": 480,
+      "source_text": "🐦🐦 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-482",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "source_line": 482,
+      "source_text": "🐄 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-484",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_02"
+      ],
+      "source_line": 484,
+      "source_text": "🐄🐄 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-486",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "source_line": 486,
+      "source_text": "🐇 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-488",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "source_line": 488,
+      "source_text": "🐇🐇 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-490",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "source_line": 490,
+      "source_text": "🦆 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "line-492",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_02"
+      ],
+      "source_line": 492,
+      "source_text": "🦆🦆 → ____________________",
+      "learner_text": "Look at the picture. Write the word."
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "item": "line-496",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_03"
+      ],
+      "source_line": 496,
+      "source_text": "🦆🦆🦆",
+      "learner_text": "Look at the picture. Answer the count question."
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "item": "line-501",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_08"
+      ],
+      "source_line": 501,
+      "source_text": "🐄🐄🐄🐄🐄🐄🐄🐄",
+      "learner_text": "Look at the picture. Answer the count question."
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "item": "line-506",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_car_08"
+      ],
+      "source_line": 506,
+      "source_text": "🚗🚗🚗🚗🚗🚗🚗🚗",
+      "learner_text": "Look at the picture. Answer the count question."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "line-549",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_moon"
+      ],
+      "source_line": 549,
+      "source_text": "- M m → **moon** 🌙",
+      "learner_text": "Look at the letter. Say the word."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "line-550",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_nest"
+      ],
+      "source_line": 550,
+      "source_text": "- N n → **nest** 🪺",
+      "learner_text": "Look at the letter. Say the word."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "line-551",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_octopus"
+      ],
+      "source_line": 551,
+      "source_text": "- O o → **octopus** 🐙",
+      "learner_text": "Look at the letter. Say the word."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "line-552",
+      "mode": "mapped_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_peach"
+      ],
+      "source_line": 552,
+      "source_text": "- P p → **peach** 🍑",
+      "learner_text": "Look at the letter. Say the word."
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "item": "1.3.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio word with text choices; image would add an answer hint.",
+      "learner_text": "Listen. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "item": "1.3.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio word with text choices; image would add an answer hint.",
+      "learner_text": "Listen. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "item": "1.3.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio word with text choices; image would add an answer hint.",
+      "learner_text": "Listen. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "item": "1.3.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio word with text choices; image would add an answer hint.",
+      "learner_text": "Listen. Choose the word."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "item": "1.4.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Match the letter and word."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "item": "1.4.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Match the letter and word."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "item": "1.4.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Match the letter and word."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "item": "1.4.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Match the letter and word."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.5",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.6",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.7",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "item": "2.1.8",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Meaning choices are text-only.",
+      "learner_text": "Listen. Choose the meaning."
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "item": "2.3.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Answer choices are text-only.",
+      "learner_text": "Listen. Choose the answer."
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "item": "2.3.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Answer choices are text-only.",
+      "learner_text": "Listen. Choose the answer."
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "item": "2.3.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Answer choices are text-only.",
+      "learner_text": "Listen. Choose the answer."
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "item": "2.3.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Answer choices are text-only.",
+      "learner_text": "Listen. Choose the answer."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "item": "2.4.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Child performs Jump/Skip; no static image required.",
+      "learner_text": "Listen and do the action."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "item": "2.4.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Child performs Jump/Skip; no static image required.",
+      "learner_text": "Listen and do the action."
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "item": "3.2.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Singular/plural text selection; no picture required.",
+      "learner_text": "Choose the singular or plural form."
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "item": "3.2.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Singular/plural text selection; no picture required.",
+      "learner_text": "Choose the singular or plural form."
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "item": "3.2.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Singular/plural text selection; no picture required.",
+      "learner_text": "Choose the singular or plural form."
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "item": "3.2.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Singular/plural text selection; no picture required.",
+      "learner_text": "Choose the singular or plural form."
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "item": "3.2.5",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Singular/plural text selection; no picture required.",
+      "learner_text": "Choose the singular or plural form."
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "item": "3.2.6",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Singular/plural text selection; no picture required.",
+      "learner_text": "Choose the singular or plural form."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "item": "3.3.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence completion has enough text context.",
+      "learner_text": "Complete the blank."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "item": "3.3.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence completion has enough text context.",
+      "learner_text": "Complete the blank."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "item": "3.3.3",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_03"
+      ],
+      "reason": "C3§3 row 3 receives the ordered 3-duck visual adaptation specified in the prompt; source originally has a text blank only.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "C3§3 row 3 receives the ordered 3-duck visual adaptation specified in the prompt; source originally has a text blank only.",
+      "learner_text": "How many ________?",
+      "source_line": 297,
+      "source_text": "How many ________?"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "item": "3.3.4",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_08"
+      ],
+      "reason": "C3§3 row 4 receives the ordered 8-cow visual adaptation specified in the prompt; source originally has a text blank only.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "C3§3 row 4 receives the ordered 8-cow visual adaptation specified in the prompt; source originally has a text blank only.",
+      "learner_text": "How many ________?",
+      "source_line": 298,
+      "source_text": "How many ________?"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "item": "3.3.5",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_car_08"
+      ],
+      "reason": "C3§3 row 5 receives the ordered 8-car visual adaptation specified in the prompt; source originally has a text blank only.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "C3§3 row 5 receives the ordered 8-car visual adaptation specified in the prompt; source originally has a text blank only.",
+      "learner_text": "How many ________?",
+      "source_line": 299,
+      "source_text": "How many ________?"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "item": "3.4.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio plus text choices; no image required.",
+      "learner_text": "Listen and complete the blank."
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "item": "3.4.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio plus text choices; no image required.",
+      "learner_text": "Listen and complete the blank."
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "item": "3.4.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio plus text choices; no image required.",
+      "learner_text": "Listen and complete the blank."
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "item": "3.4.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Audio plus text choices; no image required.",
+      "learner_text": "Listen and complete the blank."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Here you are/Thank you dialogue has no visual requirement.",
+      "learner_text": "Listen and complete the response."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.2",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_03"
+      ],
+      "reason": "The source explicitly asks How many ducks? and the later source model supplies 3 ducks; attach the existing 3-duck visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly asks How many ducks? and the later source model supplies 3 ducks; attach the existing 3-duck visual.",
+      "learner_text": "How many ducks?  ________",
+      "source_line": 340,
+      "source_text": "A: How many ducks?  B: ______________________________."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.3",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_08"
+      ],
+      "reason": "The source explicitly asks How many cows? and the later source model supplies 8 cows; attach the existing 8-cow visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly asks How many cows? and the later source model supplies 8 cows; attach the existing 8-cow visual.",
+      "learner_text": "How many cows?  ________",
+      "source_line": 343,
+      "source_text": "A: How many cows?  B: ______________________________."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.4",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_car_08"
+      ],
+      "reason": "The source explicitly asks How many cars? and the later source model supplies 8 cars; attach the existing 8-car visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly asks How many cars? and the later source model supplies 8 cars; attach the existing 8-car visual.",
+      "learner_text": "How many cars?  ________",
+      "source_line": 346,
+      "source_text": "A: How many cars?  B: ______________________________."
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "item": "3.6.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Number and plural recall is text-only; source has no train/cat image cue.",
+      "learner_text": "Complete the sentence."
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "item": "3.6.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Number and plural recall is text-only; source has no train/cat image cue.",
+      "learner_text": "Complete the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.5",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.6",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.7",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.8",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.9",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.10",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.11",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.12",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.13",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.14",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "item": "4.1.15",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence ordering; static images would distract from production.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "4.2.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Text matching.",
+      "learner_text": "Match the question and answer."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "4.2.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Text matching.",
+      "learner_text": "Match the question and answer."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "4.2.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Text matching.",
+      "learner_text": "Match the question and answer."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "4.2.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Text matching.",
+      "learner_text": "Match the question and answer."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "4.3.5",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "4.3.6",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "4.3.7",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "4.3.8",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Letter-to-word matching is text-only.",
+      "learner_text": "Complete the word."
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "item": "5.4.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence building from text tiles.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "item": "5.4.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence building from text tiles.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "item": "5.4.3",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence building from text tiles.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "item": "5.4.4",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Sentence building from text tiles.",
+      "learner_text": "Build the sentence."
+    },
+    {
+      "challenge": 5,
+      "section": "5. Conversation — tự nói",
+      "item": "5.5.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Personal Here you are/Thank you speaking practice.",
+      "learner_text": "Say the response."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "item": "5.6.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Child performs Jump/Skip; no static image required.",
+      "learner_text": "Listen and do the action."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "item": "5.6.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Child performs Jump/Skip; no static image required.",
+      "learner_text": "Listen and do the action."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "item": "5.8.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Child performs Jump/Skip; no static image required.",
+      "learner_text": "Listen and do the action."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "item": "5.8.2",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Child performs Jump/Skip; no static image required.",
+      "learner_text": "Listen and do the action."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "5.7.1",
+      "mode": "no_static_image",
+      "image_required": false,
+      "reason": "Gift/receive dialogue does not need a raster cue.",
+      "learner_text": "Say the response."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "5.7.2",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "reason": "The source explicitly models 1 cat, 2 cats; attach the existing two-cat visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly models 1 cat, 2 cats; attach the existing two-cat visual.",
+      "learner_text": "Let’s count the cats.  ____________________",
+      "source_line": 578,
+      "source_text": "A: Let’s count the cats.  B: __________________________________"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "5.7.3",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_duck_03"
+      ],
+      "reason": "The source explicitly models 3 ducks; attach the existing three-duck visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly models 3 ducks; attach the existing three-duck visual.",
+      "learner_text": "How many ducks?  ____________________",
+      "source_line": 586,
+      "source_text": "A: How many ducks?  B: __________________________________"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "5.7.4",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_cow_08"
+      ],
+      "reason": "The source explicitly models 8 cows; attach the existing eight-cow visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly models 8 cows; attach the existing eight-cow visual.",
+      "learner_text": "How many cows?  ____________________",
+      "source_line": 594,
+      "source_text": "A: How many cows?  B: __________________________________"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "5.7.5",
+      "mode": "adapted_assets",
+      "image_required": true,
+      "asset_ids": [
+        "u05_car_08"
+      ],
+      "reason": "The source explicitly models 8 cars; attach the existing eight-car visual.",
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly models 8 cars; attach the existing eight-car visual.",
+      "learner_text": "How many cars?  ____________________",
+      "source_line": 602,
+      "source_text": "A: How many cars?  B: __________________________________"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.1",
+      "line": 63,
+      "source_text": "🐶",
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.2",
+      "line": 70,
+      "source_text": "🐱",
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.3",
+      "line": 77,
+      "source_text": "🐦",
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.4",
+      "line": 84,
+      "source_text": "🐄",
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.5",
+      "line": 91,
+      "source_text": "🐇",
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.6",
+      "line": 98,
+      "source_text": "🦆",
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 110,
+      "source_text": "| 🐶 | dog / dogs |",
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 111,
+      "source_text": "| 🐶🐶 | dog / dogs |",
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 112,
+      "source_text": "| 🐱 | cat / cats |",
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 113,
+      "source_text": "| 🐱🐱 | cat / cats |",
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 114,
+      "source_text": "| 🐦 | bird / birds |",
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 115,
+      "source_text": "| 🐦🐦🐦 | bird / birds |",
+      "asset_ids": [
+        "u05_bird_03"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 116,
+      "source_text": "| 🐄 | cow / cows |",
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 117,
+      "source_text": "| 🐄🐄 | cow / cows |",
+      "asset_ids": [
+        "u05_cow_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 118,
+      "source_text": "| 🐇 | rabbit / rabbits |",
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 119,
+      "source_text": "| 🐇🐇 | rabbit / rabbits |",
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 120,
+      "source_text": "| 🦆 | duck / ducks |",
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "item": "",
+      "line": 121,
+      "source_text": "| 🦆🦆 | duck / ducks |",
+      "asset_ids": [
+        "u05_duck_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 203,
+      "source_text": "- [ ] 🐶",
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 204,
+      "source_text": "- [ ] 🐶🐶",
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 205,
+      "source_text": "- [ ] 🐱🐱",
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 209,
+      "source_text": "- [ ] 🐱",
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 210,
+      "source_text": "- [ ] 🐱🐱",
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 211,
+      "source_text": "- [ ] 🐇",
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 215,
+      "source_text": "- [ ] 🐦",
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 216,
+      "source_text": "- [ ] 🐦🐦🐦",
+      "asset_ids": [
+        "u05_bird_03"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 217,
+      "source_text": "- [ ] 🦆🦆",
+      "asset_ids": [
+        "u05_duck_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 221,
+      "source_text": "- [ ] 🐇",
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 222,
+      "source_text": "- [ ] 🐇🐇",
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "item": "",
+      "line": 223,
+      "source_text": "- [ ] 🐄🐄",
+      "asset_ids": [
+        "u05_cow_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "line": 273,
+      "source_text": "1. d _ g *(dog)* 🐶",
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "line": 274,
+      "source_text": "2. c _ t *(cat)* 🐱",
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "line": 275,
+      "source_text": "3. b _ r d *(bird)* 🐦",
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "line": 276,
+      "source_text": "4. c _ w *(cow)* 🐄",
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "line": 277,
+      "source_text": "5. r _ b b i t *(rabbit)* 🐇",
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "line": 278,
+      "source_text": "6. d _ c k *(duck)* 🦆",
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "",
+      "line": 424,
+      "source_text": "- m o _ n *(moon)* 🌙",
+      "asset_ids": [
+        "u05_moon"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "",
+      "line": 425,
+      "source_text": "- n _ s t *(nest)* 🪺",
+      "asset_ids": [
+        "u05_nest"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "",
+      "line": 426,
+      "source_text": "- o c t _ p u s *(octopus)* 🐙",
+      "asset_ids": [
+        "u05_octopus"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "item": "",
+      "line": 427,
+      "source_text": "- p _ a c h *(peach)* 🍑",
+      "asset_ids": [
+        "u05_peach"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "line": 444,
+      "source_text": "🐶🐶",
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "line": 450,
+      "source_text": "🐱",
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "line": 456,
+      "source_text": "🐦🐦🐦",
+      "asset_ids": [
+        "u05_bird_03"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "line": 462,
+      "source_text": "🐇🐇",
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 470,
+      "source_text": "🐶 → ____________________",
+      "asset_ids": [
+        "u05_dog_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 472,
+      "source_text": "🐶🐶 → ____________________",
+      "asset_ids": [
+        "u05_dog_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 474,
+      "source_text": "🐱 → ____________________",
+      "asset_ids": [
+        "u05_cat_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 476,
+      "source_text": "🐱🐱 → ____________________",
+      "asset_ids": [
+        "u05_cat_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 478,
+      "source_text": "🐦 → ____________________",
+      "asset_ids": [
+        "u05_bird_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 480,
+      "source_text": "🐦🐦 → ____________________",
+      "asset_ids": [
+        "u05_bird_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 482,
+      "source_text": "🐄 → ____________________",
+      "asset_ids": [
+        "u05_cow_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 484,
+      "source_text": "🐄🐄 → ____________________",
+      "asset_ids": [
+        "u05_cow_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 486,
+      "source_text": "🐇 → ____________________",
+      "asset_ids": [
+        "u05_rabbit_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 488,
+      "source_text": "🐇🐇 → ____________________",
+      "asset_ids": [
+        "u05_rabbit_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 490,
+      "source_text": "🦆 → ____________________",
+      "asset_ids": [
+        "u05_duck_01"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "line": 492,
+      "source_text": "🦆🦆 → ____________________",
+      "asset_ids": [
+        "u05_duck_02"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "item": "",
+      "line": 496,
+      "source_text": "🦆🦆🦆",
+      "asset_ids": [
+        "u05_duck_03"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "item": "",
+      "line": 501,
+      "source_text": "🐄🐄🐄🐄🐄🐄🐄🐄",
+      "asset_ids": [
+        "u05_cow_08"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "item": "",
+      "line": 506,
+      "source_text": "🚗🚗🚗🚗🚗🚗🚗🚗",
+      "asset_ids": [
+        "u05_car_08"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "",
+      "line": 549,
+      "source_text": "- M m → **moon** 🌙",
+      "asset_ids": [
+        "u05_moon"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "",
+      "line": 550,
+      "source_text": "- N n → **nest** 🪺",
+      "asset_ids": [
+        "u05_nest"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "",
+      "line": 551,
+      "source_text": "- O o → **octopus** 🐙",
+      "asset_ids": [
+        "u05_octopus"
+      ],
+      "image_required": true
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "item": "",
+      "line": 552,
+      "source_text": "- P p → **peach** 🍑",
+      "asset_ids": [
+        "u05_peach"
+      ],
+      "image_required": true
+    },
+    {
+      "line": 340,
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.2",
+      "source_text": "A: How many ducks?  ",
+      "asset_ids": [
+        "u05_duck_03"
+      ],
+      "image_required": true
+    },
+    {
+      "line": 343,
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.3",
+      "source_text": "A: How many cows?  ",
+      "asset_ids": [
+        "u05_cow_08"
+      ],
+      "image_required": true
+    },
+    {
+      "line": 346,
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "item": "3.5.4",
+      "source_text": "A: How many cars?  ",
+      "asset_ids": [
+        "u05_car_08"
+      ],
+      "image_required": true
+    }
+  ],
+  "section_coverage": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "source_line": 60,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_cat_01",
+        "u05_cow_01",
+        "u05_dog_01",
+        "u05_duck_01",
+        "u05_rabbit_01"
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "source_line": 104,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "source_line": 123,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "source_line": 151,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 165,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "source_line": 199,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "source_line": 225,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 255,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "source_line": 269,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_cat_01",
+        "u05_cow_01",
+        "u05_dog_01",
+        "u05_duck_01",
+        "u05_rabbit_01"
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "source_line": 280,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "source_line": 291,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "proposed_asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "reason": "Aggregate section status synchronized with ten already-applied source-supported/goal-authorized count adaptations; source Markdown unchanged.",
+      "adaptation_applied": true,
+      "asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "adapted_items": [
+        "3.3.3",
+        "3.3.4",
+        "3.3.5"
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "source_line": 301,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "source_line": 335,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "proposed_asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "reason": "Aggregate section status synchronized with ten already-applied source-supported/goal-authorized count adaptations; source Markdown unchanged.",
+      "adaptation_applied": true,
+      "asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "adapted_items": [
+        "3.5.2",
+        "3.5.3",
+        "3.5.4"
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "source_line": 349,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 362,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "source_line": 411,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "source_line": 420,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_moon",
+        "u05_nest",
+        "u05_octopus",
+        "u05_peach"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "source_line": 442,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_dog_02",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "source_line": 468,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_02",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "source_line": 494,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_car_08",
+        "u05_cow_08",
+        "u05_duck_03"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "source_line": 511,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "5. Conversation — tự nói",
+      "source_line": 529,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "source_line": 536,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "source_line": 545,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_moon",
+        "u05_nest",
+        "u05_octopus",
+        "u05_peach"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "source_line": 554,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "source_line": 563,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "proposed_asset_ids": [
+        "u05_cat_02",
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "reason": "Aggregate section status synchronized with ten already-applied source-supported/goal-authorized count adaptations; source Markdown unchanged.",
+      "adaptation_applied": true,
+      "asset_ids": [
+        "u05_cat_02",
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "adapted_items": [
+        "5.7.2",
+        "5.7.3",
+        "5.7.4",
+        "5.7.5"
+      ]
+    }
+  ],
+  "notes": "All authorized count adaptations are applied and marked adaptation_applied=true. No source-unknown context remains. Original source excerpts and answer-bearing teacher evidence stay in provenance fields/details; learner_text is neutral and preserves blanks/question wording where a prompt is adapted.",
+  "open_context": [],
+  "adapted_question_count": 10,
+  "visual_occurrences_count": 66,
+  "question_map_total": 143,
+  "question_map_no_static_image": 70,
+  "question_map_mapped_assets": 73,
+  "question_map_adapted_assets": 10,
+  "inventory_normalization_note": "Inventory lines 340/343/346 were normalized from its pseudo-section “Context bổ sung / dùng chung” to the real source section Challenge 3 §5, items 3.5.2/3.5.3/3.5.4; no source content was changed."
+}

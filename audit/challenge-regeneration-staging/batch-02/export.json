@@ -1,0 +1,322 @@
+{
+  "batch": 2,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u02_color_brown",
+      "crop_box": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 32388,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_brown.webp",
+      "sha256": "ba24c72973344dfc69fbeb0036f4803fb4f38ce110aeda65e1a53f3deb3c59f2"
+    },
+    {
+      "id": "u02_color_purple",
+      "crop_box": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 28848,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_purple.webp",
+      "sha256": "7aef79efcce087fbb2556f7de308ce1ade5574c191d3ab74ba2e2b7f207910a7"
+    },
+    {
+      "id": "u02_color_orange",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 29620,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_orange.webp",
+      "sha256": "22b458ce0335b8844cb957a30e740e9ed630eff6e52b05b75f329d9aab99643a"
+    },
+    {
+      "id": "u02_color_black",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 28716,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_black.webp",
+      "sha256": "c0201725ef71bd5498ad14da08810603adcc069730c25afa03597576444357ad"
+    },
+    {
+      "id": "u02_color_white",
+      "crop_box": [
+        0,
+        362,
+        362,
+        700
+      ],
+      "original_cell_size": [
+        362,
+        338
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11276,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_white.webp",
+      "sha256": "6a268a57ac805317f3fd914d83e6d515630508f9649d71c77d481c8da9ad3fcf"
+    },
+    {
+      "id": "u02_color_pink",
+      "crop_box": [
+        362,
+        362,
+        724,
+        700
+      ],
+      "original_cell_size": [
+        362,
+        338
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 30394,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_pink.webp",
+      "sha256": "02dd5100cedef4817da55877e0c559b43a92063a583947d59aad0b86f8089823"
+    },
+    {
+      "id": "u02_red_train",
+      "crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 20272,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_red_train.webp",
+      "sha256": "1ed0f768082fa9ce19afa49d1ab184600a1df30688431e8ba0e1699657211915"
+    },
+    {
+      "id": "u02_blue_ball",
+      "crop_box": [
+        1086,
+        362,
+        1448,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17910,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_blue_ball.webp",
+      "sha256": "55e2a2605dec811832b09769619616931006f16938de47432a615b734c4d1e68"
+    },
+    {
+      "id": "u02_brown_teddy_bear",
+      "crop_box": [
+        0,
+        700,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17764,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_brown_teddy_bear.webp",
+      "sha256": "2bca8f077ac904d5f18e99f9c25bf959f429fc37ef67e4b85f8fde8d721c3f6e"
+    },
+    {
+      "id": "u02_green_yo_yo",
+      "crop_box": [
+        362,
+        700,
+        710,
+        1086
+      ],
+      "original_cell_size": [
+        348,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14308,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_green_yo_yo.webp",
+      "sha256": "e53bf40b80f1eb91b168ef12e59db53b135cf3edacd39acc422d8cd97149702f"
+    },
+    {
+      "id": "u02_green_car",
+      "crop_box": [
+        710,
+        724,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        376,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19504,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_green_car.webp",
+      "sha256": "989c3a11f158daa56be898f5b3209d0acb5b19dbd99cf27bc421f7f5c1a89b89"
+    },
+    {
+      "id": "u02_apple",
+      "crop_box": [
+        1086,
+        700,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        386
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13786,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Six correct swatches including white outline; red train, blue ball, brown teddy, green yo-yo/car, red apple. Yo-yo loop and car bumper crop rechecked separately."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_apple.webp",
+      "sha256": "63638eb7d0ec77be880728f39da07bbba139d4b34667eb674ebd213962dd1a40"
+    }
+  ],
+  "status": "visual_review_pass"
+}

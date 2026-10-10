@@ -1,0 +1,1210 @@
+{
+  "schema_version": 1,
+  "unit": 7,
+  "topic": "My Body",
+  "scope": "Challenge 1–5 only",
+  "source": "Let_s Go Begin/Units/Unit 7 - My Body(2).md",
+  "output_format": {
+    "cards": "512x512 WebP",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": "15–60 KB where feasible"
+  },
+  "required_asset_count": 15,
+  "assets": [
+    {
+      "id": "u07_head",
+      "brief": "Bộ phận head trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "head",
+        "count_or_state": "singular"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_head-master.png"
+      ],
+      "uses": [
+        58,
+        196,
+        248,
+        370,
+        421
+      ],
+      "file": "webp/u07_head.webp",
+      "webp": "webp/u07_head.webp",
+      "files": [
+        "webp/u07_head.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18992,
+      "sha256": "62349b524801ae30dc734e53da298a684a128b53bfe10078740bdc83497338af",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        375,
+        0,
+        724,
+        378
+      ],
+      "source_crop_size": [
+        349,
+        378
+      ],
+      "visual_review": {
+        "sha256": "62349b524801ae30dc734e53da298a684a128b53bfe10078740bdc83497338af",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "62349b524801ae30dc734e53da298a684a128b53bfe10078740bdc83497338af",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          349,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_shoulders",
+      "brief": "Bộ phận shoulders trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "shoulders",
+        "count_or_state": "plural"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_shoulders-master.png"
+      ],
+      "uses": [
+        65,
+        249,
+        371,
+        423
+      ],
+      "file": "webp/u07_shoulders.webp",
+      "webp": "webp/u07_shoulders.webp",
+      "files": [
+        "webp/u07_shoulders.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18010,
+      "sha256": "cd02415f8004eda0b72c125a48d99f32a8382e63ef407ea07e3c2a88d707b488",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        378
+      ],
+      "source_crop_size": [
+        362,
+        378
+      ],
+      "visual_review": {
+        "sha256": "cd02415f8004eda0b72c125a48d99f32a8382e63ef407ea07e3c2a88d707b488",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "cd02415f8004eda0b72c125a48d99f32a8382e63ef407ea07e3c2a88d707b488",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_knees",
+      "brief": "Bộ phận knees trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "knees",
+        "count_or_state": "plural"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_knees-master.png"
+      ],
+      "uses": [
+        72,
+        250,
+        372,
+        425
+      ],
+      "file": "webp/u07_knees.webp",
+      "webp": "webp/u07_knees.webp",
+      "files": [
+        "webp/u07_knees.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15906,
+      "sha256": "4bbf506c585fa06392916b0f4cc3b0c2e9a757c70edfdc96d7fdaf6ec40c48f4",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        378
+      ],
+      "source_crop_size": [
+        362,
+        378
+      ],
+      "visual_review": {
+        "sha256": "4bbf506c585fa06392916b0f4cc3b0c2e9a757c70edfdc96d7fdaf6ec40c48f4",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4bbf506c585fa06392916b0f4cc3b0c2e9a757c70edfdc96d7fdaf6ec40c48f4",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_toes",
+      "brief": "Bộ phận toes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "toes",
+        "count_or_state": "plural"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_toes-master.png"
+      ],
+      "uses": [
+        79,
+        251,
+        373,
+        427
+      ],
+      "file": "webp/u07_toes.webp",
+      "webp": "webp/u07_toes.webp",
+      "files": [
+        "webp/u07_toes.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17504,
+      "sha256": "6d731b6695176d6a39dd70ca57c1fcc7f62a6d62e12a0845443efd5197c9ef5d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        0,
+        378,
+        362,
+        708
+      ],
+      "source_crop_size": [
+        362,
+        330
+      ],
+      "visual_review": {
+        "sha256": "6d731b6695176d6a39dd70ca57c1fcc7f62a6d62e12a0845443efd5197c9ef5d",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "6d731b6695176d6a39dd70ca57c1fcc7f62a6d62e12a0845443efd5197c9ef5d",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          330
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_eyes",
+      "brief": "Bộ phận eyes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "eyes",
+        "count_or_state": "plural"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_eyes-master.png"
+      ],
+      "uses": [
+        86,
+        196,
+        200,
+        204,
+        208,
+        252,
+        374,
+        401,
+        429
+      ],
+      "file": "webp/u07_eyes.webp",
+      "webp": "webp/u07_eyes.webp",
+      "files": [
+        "webp/u07_eyes.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18496,
+      "sha256": "694256c13c62e31a1d50f23502826cf8c03ca87e99d28754c70748d86ac7c82e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        362,
+        378,
+        724,
+        708
+      ],
+      "source_crop_size": [
+        362,
+        330
+      ],
+      "visual_review": {
+        "sha256": "694256c13c62e31a1d50f23502826cf8c03ca87e99d28754c70748d86ac7c82e",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "694256c13c62e31a1d50f23502826cf8c03ca87e99d28754c70748d86ac7c82e",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          330
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_ears",
+      "brief": "Bộ phận ears trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "ears",
+        "count_or_state": "plural"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        93,
+        200,
+        204,
+        208,
+        253,
+        375,
+        413,
+        431
+      ],
+      "file": "webp/u07_ears.webp",
+      "webp": "webp/u07_ears.webp",
+      "files": [
+        "webp/u07_ears.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17718,
+      "sha256": "46e9ea4c98259aeb44bb274e7ea94b39a1fdd4d85b844b2994821bc26e81602c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        724,
+        378,
+        1086,
+        708
+      ],
+      "source_crop_size": [
+        362,
+        330
+      ],
+      "visual_review": {
+        "sha256": "46e9ea4c98259aeb44bb274e7ea94b39a1fdd4d85b844b2994821bc26e81602c",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "46e9ea4c98259aeb44bb274e7ea94b39a1fdd4d85b844b2994821bc26e81602c",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          330
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_mouth",
+      "brief": "Bộ phận mouth trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "mouth",
+        "count_or_state": "singular"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_mouth-regenerated.png"
+      ],
+      "uses": [
+        100,
+        196,
+        200,
+        204,
+        208,
+        254,
+        376,
+        433
+      ],
+      "file": "webp/u07_mouth.webp",
+      "webp": "webp/u07_mouth.webp",
+      "files": [
+        "webp/u07_mouth.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17492,
+      "sha256": "61e02094d93f55dfa5c786d4e15970cdfff82c0c7d1cc4f01b360330945214ad",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        1086,
+        378,
+        1448,
+        708
+      ],
+      "source_crop_size": [
+        362,
+        330
+      ],
+      "visual_review": {
+        "sha256": "61e02094d93f55dfa5c786d4e15970cdfff82c0c7d1cc4f01b360330945214ad",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "61e02094d93f55dfa5c786d4e15970cdfff82c0c7d1cc4f01b360330945214ad",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          330
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_nose",
+      "brief": "Bộ phận nose trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+      "semantic": {
+        "type": "body_part",
+        "subject": "nose",
+        "count_or_state": "singular"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_42.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_46.png",
+        "batches/u07_nose-regenerated.png"
+      ],
+      "uses": [
+        107,
+        196,
+        200,
+        204,
+        208,
+        255,
+        377,
+        407,
+        435
+      ],
+      "file": "webp/u07_nose.webp",
+      "webp": "webp/u07_nose.webp",
+      "files": [
+        "webp/u07_nose.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16450,
+      "sha256": "5b343a5f9ecda4c09370d60cbae6a0df24c6540466ec71ecd936685bdd003c52",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        0,
+        708,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        378
+      ],
+      "visual_review": {
+        "sha256": "5b343a5f9ecda4c09370d60cbae6a0df24c6540466ec71ecd936685bdd003c52",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5b343a5f9ecda4c09370d60cbae6a0df24c6540466ec71ecd936685bdd003c52",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+        ],
+        "resized_from": [
+          362,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_touch_head",
+      "brief": "Bé đang chạm đúng head; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "semantic": {
+        "type": "body_action",
+        "subject": "touch_head",
+        "count_or_state": "clear_action"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_44.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_48.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        126,
+        439
+      ],
+      "fixed_cue_uses": [
+        {
+          "unit": 7,
+          "question_line": 308,
+          "cue_line": 309,
+          "asset_id": "u07_touch_head",
+          "asset_ids": [
+            "u07_touch_head"
+          ],
+          "expected_answer": "head",
+          "accepted_answers": [
+            "head"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "B: I can touch my ____________________."
+        }
+      ],
+      "file": "webp/u07_touch_head.webp",
+      "webp": "webp/u07_touch_head.webp",
+      "files": [
+        "webp/u07_touch_head.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15430,
+      "sha256": "0a415c7221f08e174ca4eef8bb76343bba2890e62b998f5d659a81021edae243",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        362,
+        708,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        378
+      ],
+      "visual_review": {
+        "sha256": "0a415c7221f08e174ca4eef8bb76343bba2890e62b998f5d659a81021edae243",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "0a415c7221f08e174ca4eef8bb76343bba2890e62b998f5d659a81021edae243",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+        ],
+        "resized_from": [
+          362,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_touch_nose",
+      "brief": "Bé đang chạm đúng nose; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "semantic": {
+        "type": "body_action",
+        "subject": "touch_nose",
+        "count_or_state": "clear_action"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_44.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_48.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        131,
+        442
+      ],
+      "file": "webp/u07_touch_nose.webp",
+      "webp": "webp/u07_touch_nose.webp",
+      "files": [
+        "webp/u07_touch_nose.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16292,
+      "sha256": "4bac063ab2635a6086fbba5a3697420427034be3a84b6d0cc3868cbbe1a9a4fa",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        724,
+        708,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        378
+      ],
+      "visual_review": {
+        "sha256": "4bac063ab2635a6086fbba5a3697420427034be3a84b6d0cc3868cbbe1a9a4fa",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4bac063ab2635a6086fbba5a3697420427034be3a84b6d0cc3868cbbe1a9a4fa",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+        ],
+        "resized_from": [
+          362,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_touch_eyes",
+      "brief": "Bé đang chạm đúng eyes; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+      "semantic": {
+        "type": "body_action",
+        "subject": "touch_eyes",
+        "count_or_state": "clear_action"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_44.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_48.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        136,
+        445
+      ],
+      "fixed_cue_uses": [
+        {
+          "unit": 7,
+          "question_line": 311,
+          "cue_line": 312,
+          "asset_id": "u07_touch_eyes",
+          "asset_ids": [
+            "u07_touch_eyes"
+          ],
+          "expected_answer": "eyes",
+          "accepted_answers": [
+            "eyes"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "B: I can touch my ____________________."
+        }
+      ],
+      "file": "webp/u07_touch_eyes.webp",
+      "webp": "webp/u07_touch_eyes.webp",
+      "files": [
+        "webp/u07_touch_eyes.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18316,
+      "sha256": "5e5401e05e29466d9b637e978ca5b5471844918e8d5926211cbd6c9b266013e8",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        1086,
+        708,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        378
+      ],
+      "visual_review": {
+        "sha256": "5e5401e05e29466d9b637e978ca5b5471844918e8d5926211cbd6c9b266013e8",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5e5401e05e29466d9b637e978ca5b5471844918e8d5926211cbd6c9b266013e8",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+        ],
+        "resized_from": [
+          362,
+          378
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_red_circle",
+      "brief": "Một hình tròn màu đỏ, không chữ, để bé chỉ/chạm trong câu I can touch the red circle.",
+      "semantic": {
+        "type": "shape_target",
+        "subject": "red_circle",
+        "count_or_state": "single"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_52.png",
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_53.png",
+        "batches/u07_red_circle-master.png"
+      ],
+      "uses": [
+        524
+      ],
+      "file": "webp/u07_red_circle.webp",
+      "webp": "webp/u07_red_circle.webp",
+      "files": [
+        "webp/u07_red_circle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5198,
+      "sha256": "95606127b47312c4df0b0a19aa9bfb984a52ea5410e37b1229665cc366f5b5e0",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "95606127b47312c4df0b0a19aa9bfb984a52ea5410e37b1229665cc366f5b5e0",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "95606127b47312c4df0b0a19aa9bfb984a52ea5410e37b1229665cc366f5b5e0",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_52.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_53.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_umbrella",
+      "brief": "Một umbrella theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "semantic": {
+        "type": "phonics_object",
+        "subject": "umbrella",
+        "count_or_state": "single"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_51.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        383,
+        492
+      ],
+      "file": "webp/u07_umbrella.webp",
+      "webp": "webp/u07_umbrella.webp",
+      "files": [
+        "webp/u07_umbrella.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 14404,
+      "sha256": "87f222b0cd797498e09bf0354f299d77f193dcf31d43dfc032984957cf6fb31c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "87f222b0cd797498e09bf0354f299d77f193dcf31d43dfc032984957cf6fb31c",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "87f222b0cd797498e09bf0354f299d77f193dcf31d43dfc032984957cf6fb31c",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_violin",
+      "brief": "Một violin theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "semantic": {
+        "type": "phonics_object",
+        "subject": "violin",
+        "count_or_state": "single"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_51.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        384,
+        493
+      ],
+      "file": "webp/u07_violin.webp",
+      "webp": "webp/u07_violin.webp",
+      "files": [
+        "webp/u07_violin.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 20976,
+      "sha256": "4626764a11b445ef23de3a5f0138ff0c6a536451dadc07a89936e20ffdbda8de",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "4626764a11b445ef23de3a5f0138ff0c6a536451dadc07a89936e20ffdbda8de",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4626764a11b445ef23de3a5f0138ff0c6a536451dadc07a89936e20ffdbda8de",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u07_watch",
+      "brief": "Một watch theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+      "semantic": {
+        "type": "phonics_object",
+        "subject": "watch",
+        "count_or_state": "single"
+      },
+      "references": [
+        "Let_s Go Begin/Units/Unit 7 - My Body - Lesson Pages/pages/png/CD2_51.png",
+        "batches/u07-regenerated-9card.png"
+      ],
+      "uses": [
+        385,
+        494
+      ],
+      "file": "webp/u07_watch.webp",
+      "webp": "webp/u07_watch.webp",
+      "files": [
+        "webp/u07_watch.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16804,
+      "sha256": "05fb00e128768d452fccd697c2eef85fbb81b627c460038affdc0c833756867f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        355
+      ],
+      "source_crop_size": [
+        362,
+        355
+      ],
+      "visual_review": {
+        "sha256": "05fb00e128768d452fccd697c2eef85fbb81b627c460038affdc0c833756867f",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "05fb00e128768d452fccd697c2eef85fbb81b627c460038affdc0c833756867f",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+        ],
+        "resized_from": [
+          362,
+          355
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "provenance": {
+    "tool": "built-in image_gen repair batch + Pillow crop/native graphic",
+    "built_in_image_gen_used": true,
+    "repair_batch": "batches/u07-regenerated-9card.png",
+    "generation_log": "batches/generation-log.json",
+    "reason": "The repaired touch/phonics cards use the reviewed 3x3 batch; head was restored to the original source crop with its correct arrow, while nose and mouth use targeted single-subject image_gen cards with precise markers. Six passing cards remain source crops/native graphic."
+  },
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-07\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

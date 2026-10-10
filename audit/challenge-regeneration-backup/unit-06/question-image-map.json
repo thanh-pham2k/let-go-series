@@ -1,0 +1,983 @@
+{
+  "schema_version": 1,
+  "unit": 6,
+  "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food(2).md",
+  "asset_manifest": "manifest.json",
+  "image_rules": {
+    "same_semantic_use_same_id": true,
+    "answer_text_in_bitmap": false,
+    "open_personal_response_not_forced": true
+  },
+  "entries": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "items": [
+        {
+          "item": "1.1",
+          "line": 68,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.2",
+          "line": 75,
+          "asset_ids": [
+            "u06_pizza"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.3",
+          "line": 82,
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.4",
+          "line": 89,
+          "asset_ids": [
+            "u06_chicken"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.5",
+          "line": 96,
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.6",
+          "line": 103,
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.7",
+          "line": 110,
+          "asset_ids": [
+            "u06_bread"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "1.8",
+          "line": 117,
+          "asset_ids": [
+            "u06_rice"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "items": [
+        {
+          "item": "2.1",
+          "line": 126,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio word plus text choices"
+        },
+        {
+          "item": "2.2",
+          "line": 127,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio word plus text choices"
+        },
+        {
+          "item": "2.3",
+          "line": 128,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio word plus text choices"
+        },
+        {
+          "item": "2.4",
+          "line": 129,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio word plus text choices; app repeats until all 8 words are recognized"
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn câu",
+      "items": [
+        {
+          "item": "3.1",
+          "line": 136,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.2",
+          "line": 141,
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "items": [
+        {
+          "item": "4.1",
+          "line": 149,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "text matching Q-T to word choices"
+        },
+        {
+          "item": "4.2",
+          "line": 150,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "text matching Q-T to word choices"
+        },
+        {
+          "item": "4.3",
+          "line": 151,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "text matching Q-T to word choices"
+        },
+        {
+          "item": "4.4",
+          "line": 152,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "text matching Q-T to word choices"
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "items": [
+        {
+          "item": "2.1.1-2.1.10",
+          "line": 160,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio and text meaning choices; includes commands"
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "items": [
+        {
+          "item": "2.2.1",
+          "line": 206,
+          "asset_ids": [
+            "u06_milk",
+            "u06_fish",
+            "u06_bread",
+            "u06_rice"
+          ],
+          "image_required": true,
+          "audio_target": "milk"
+        },
+        {
+          "item": "2.2.2",
+          "line": 210,
+          "asset_ids": [
+            "u06_pizza",
+            "u06_fish",
+            "u06_chicken",
+            "u06_cake"
+          ],
+          "image_required": true,
+          "audio_target": "fish"
+        },
+        {
+          "item": "2.2.3",
+          "line": 214,
+          "asset_ids": [
+            "u06_bread",
+            "u06_rice",
+            "u06_ice_cream",
+            "u06_milk"
+          ],
+          "image_required": true,
+          "audio_target": "bread"
+        },
+        {
+          "item": "2.2.4",
+          "line": 218,
+          "asset_ids": [
+            "u06_rice",
+            "u06_bread",
+            "u06_pizza",
+            "u06_chicken"
+          ],
+          "image_required": true,
+          "audio_target": "rice"
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "items": [
+        {
+          "item": "2.3.1",
+          "line": 224,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio question plus text response choices"
+        },
+        {
+          "item": "2.3.2",
+          "line": 228,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio question plus text response choices"
+        },
+        {
+          "item": "2.3.3",
+          "line": 232,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio question plus text response choices"
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "items": [
+        {
+          "item": "2.4",
+          "line": 240,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "child performs Make a line or Make a circle"
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "items": [
+        {
+          "item": "3.1.1",
+          "line": 258,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.2",
+          "line": 259,
+          "asset_ids": [
+            "u06_pizza"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.3",
+          "line": 260,
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.4",
+          "line": 261,
+          "asset_ids": [
+            "u06_chicken"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.5",
+          "line": 262,
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.6",
+          "line": 263,
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.7",
+          "line": 264,
+          "asset_ids": [
+            "u06_bread"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "3.1.8",
+          "line": 265,
+          "asset_ids": [
+            "u06_rice"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào câu",
+      "items": [
+        {
+          "item": "3.2.1",
+          "line": 269,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "text word bank fixes old"
+        },
+        {
+          "item": "3.2.2",
+          "line": 270,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "text word bank fixes like"
+        },
+        {
+          "item": "3.2.3",
+          "line": 273,
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "expected_answer": "cake",
+          "accepted_answers": [
+            "cake"
+          ],
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "answer_matching": {
+            "case_sensitive": false,
+            "trim_whitespace": true
+          }
+        },
+        {
+          "item": "3.2.4",
+          "line": 274,
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "expected_answer": "milk",
+          "accepted_answers": [
+            "milk"
+          ],
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "answer_matching": {
+            "case_sensitive": false,
+            "trim_whitespace": true
+          }
+        },
+        {
+          "item": "3.2.5",
+          "line": 275,
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "expected_answer": "fish",
+          "accepted_answers": [
+            "fish"
+          ],
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "answer_matching": {
+            "case_sensitive": false,
+            "trim_whitespace": true
+          }
+        },
+        {
+          "item": "3.2.6",
+          "line": 276,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "expected_answer": "ice cream",
+          "accepted_answers": [
+            "ice cream"
+          ],
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "answer_matching": {
+            "case_sensitive": false,
+            "trim_whitespace": true
+          }
+        }
+      ],
+      "image_required": true,
+      "needs_context": false
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn số → hoàn thành câu",
+      "items": [
+        {
+          "item": "3.3.1",
+          "line": 280,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "age is learner-selected; digits are UI text"
+        },
+        {
+          "item": "3.3.2",
+          "line": 281,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "age is learner-selected; digits are UI text"
+        },
+        {
+          "item": "3.3.3",
+          "line": 282,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "age is learner-selected; digits are UI text"
+        },
+        {
+          "item": "3.3.4",
+          "line": 283,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "age is learner-selected; digits are UI text"
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "items": [
+        {
+          "item": "3.4.1-3.4.3",
+          "line": 292,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "audio sentence and text choices supply the cue"
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "items": [
+        {
+          "item": "3.5.1",
+          "line": 322,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "age answer is open/personal"
+        },
+        {
+          "item": "3.5.2",
+          "line": 324,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "milk preference is open/personal"
+        },
+        {
+          "item": "3.5.3",
+          "line": 326,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "fish preference is open/personal"
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "6. Number Recall",
+      "items": [
+        {
+          "item": "3.6.1-3.6.2",
+          "line": 329,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "number sequence rendered as UI text"
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "items": [
+        {
+          "item": "4.1.1-4.1.14",
+          "line": 342,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "word-order task rendered as UI text"
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "items": [
+        {
+          "item": "4.2.1-4.2.3",
+          "line": 388,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "question-answer matching is text-only"
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics Q–T)",
+      "items": [
+        {
+          "item": "4.3.1",
+          "line": 400,
+          "asset_ids": [
+            "u06_queen"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "4.3.2",
+          "line": 401,
+          "asset_ids": [
+            "u06_rabbit"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "4.3.3",
+          "line": 402,
+          "asset_ids": [
+            "u06_sun"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "4.3.4",
+          "line": 403,
+          "asset_ids": [
+            "u06_tiger"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "4.3.5",
+          "line": 405,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "letter-to-word matching is text-only"
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "items": [
+        {
+          "item": "5.1.1",
+          "line": 420,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.1.2",
+          "line": 426,
+          "asset_ids": [
+            "u06_chicken"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.1.3",
+          "line": 432,
+          "asset_ids": [
+            "u06_rice"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "items": [
+        {
+          "item": "5.2.1",
+          "line": 440,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.2",
+          "line": 442,
+          "asset_ids": [
+            "u06_pizza"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.3",
+          "line": 444,
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.4",
+          "line": 446,
+          "asset_ids": [
+            "u06_chicken"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.5",
+          "line": 448,
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.6",
+          "line": 450,
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.7",
+          "line": 452,
+          "asset_ids": [
+            "u06_bread"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.2.8",
+          "line": 454,
+          "asset_ids": [
+            "u06_rice"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Age — tự hỏi và trả lời",
+      "items": [
+        {
+          "item": "5.3.1-5.3.3",
+          "line": 456,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "child supplies own age; digits are UI text"
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Likes — tự hỏi và trả lời",
+      "items": [
+        {
+          "item": "5.4.1",
+          "line": 469,
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "image_required": true,
+          "personal_response": true,
+          "reason": "food cue only; do not force Yes/No"
+        },
+        {
+          "item": "5.4.2",
+          "line": 474,
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "image_required": true,
+          "personal_response": true,
+          "reason": "food cue only; do not force Yes/No"
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "5. Tự nói câu",
+      "items": [
+        {
+          "item": "5.5.1",
+          "line": 481,
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.5.2",
+          "line": 483,
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "6. Build without hint",
+      "items": [
+        {
+          "item": "5.6.1-5.6.5",
+          "line": 485,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "word-order task rendered as UI text"
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "7. Commands",
+      "items": [
+        {
+          "item": "5.7",
+          "line": 507,
+          "asset_ids": [],
+          "image_required": false,
+          "reason": "child performs and says commands"
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "8. Q–T Phonics Production",
+      "items": [
+        {
+          "item": "5.8.1",
+          "line": 520,
+          "asset_ids": [
+            "u06_queen"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.8.2",
+          "line": 521,
+          "asset_ids": [
+            "u06_rabbit"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.8.3",
+          "line": 522,
+          "asset_ids": [
+            "u06_sun"
+          ],
+          "image_required": true
+        },
+        {
+          "item": "5.8.4",
+          "line": 523,
+          "asset_ids": [
+            "u06_tiger"
+          ],
+          "image_required": true
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "items": [
+        {
+          "item": "5.9.1",
+          "line": 529,
+          "asset_ids": [],
+          "image_required": false,
+          "personal_response": true,
+          "reason": "age is the child's own response"
+        },
+        {
+          "item": "5.9.2",
+          "line": 535,
+          "source_lines": [
+            535,
+            540
+          ],
+          "asset_ids": [
+            "u06_likes_milk"
+          ],
+          "image_required": true,
+          "fixed_model_response": "Yes, I do."
+        },
+        {
+          "item": "5.9.3",
+          "line": 543,
+          "source_lines": [
+            543,
+            548
+          ],
+          "asset_ids": [
+            "u06_dislikes_fish"
+          ],
+          "image_required": true,
+          "fixed_model_response": "No, I don't."
+        },
+        {
+          "item": "5.9.4",
+          "line": 551,
+          "source_lines": [
+            551,
+            556
+          ],
+          "asset_ids": [
+            "u06_birds"
+          ],
+          "image_required": true,
+          "personal_response": true,
+          "reason": "birds cue is present but Yes/No remains open"
+        }
+      ]
+    }
+  ],
+  "resolved_visual_cues": [
+    {
+      "unit": 6,
+      "question_line": 273,
+      "cue_line": 273,
+      "asset_id": "u06_cake",
+      "asset_ids": [
+        "u06_cake"
+      ],
+      "expected_answer": "cake",
+      "accepted_answers": [
+        "cake"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "3. I like ________.",
+      "answer_matching": {
+        "case_sensitive": false,
+        "trim_whitespace": true
+      }
+    },
+    {
+      "unit": 6,
+      "question_line": 274,
+      "cue_line": 274,
+      "asset_id": "u06_milk",
+      "asset_ids": [
+        "u06_milk"
+      ],
+      "expected_answer": "milk",
+      "accepted_answers": [
+        "milk"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "4. Do you like ________?",
+      "answer_matching": {
+        "case_sensitive": false,
+        "trim_whitespace": true
+      }
+    },
+    {
+      "unit": 6,
+      "question_line": 275,
+      "cue_line": 275,
+      "asset_id": "u06_fish",
+      "asset_ids": [
+        "u06_fish"
+      ],
+      "expected_answer": "fish",
+      "accepted_answers": [
+        "fish"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "5. Do you like ________?",
+      "answer_matching": {
+        "case_sensitive": false,
+        "trim_whitespace": true
+      }
+    },
+    {
+      "unit": 6,
+      "question_line": 276,
+      "cue_line": 276,
+      "asset_id": "u06_ice_cream",
+      "asset_ids": [
+        "u06_ice_cream"
+      ],
+      "expected_answer": "ice cream",
+      "accepted_answers": [
+        "ice cream"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "6. I like ________.",
+      "answer_matching": {
+        "case_sensitive": false,
+        "trim_whitespace": true
+      }
+    }
+  ]
+}

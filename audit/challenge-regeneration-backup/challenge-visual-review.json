@@ -1,0 +1,1060 @@
+{
+  "reviewer": "root",
+  "cards": {
+    "r34_circle": {
+      "sha256": "1569a98cd7efcd5abb308f9708e2d19568c807b14fb634b705eb3fe4949ab8e6",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_square": {
+      "sha256": "1b70c61fcfeb5c1441b91585bc225398bbdd322145a7dfb45979cd52c18651b6",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_star": {
+      "sha256": "feaffc42a7021ad6bfcce89e82d718bca20d69be394ce6b098f42bccaa512f2b",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_heart": {
+      "sha256": "06951a8bf8a762909ff2e1510d7ae3e23a4b838dbe31f30f548b1ba59c0648a7",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangle": {
+      "sha256": "344b4cd9257ab70a454c473f61fcfc36e2db49aae138ea7fe8fb86bf684f62ec",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_diamond": {
+      "sha256": "b25e60691a0df8a2bfed9a638d754570410ddf374c4ce917409786b0c16ee2dc",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_oval": {
+      "sha256": "4ea84de802bc473e6f0d4649ca55a1b36aa4227439a9c3a0fd1409e4aa66b54d",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_walk": {
+      "sha256": "034d97d43e07466a2bb304ba84d7a61f83ea6e996b142094842a411ef36ed2df",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_run": {
+      "sha256": "7860589468fddef9890d0e81c061c980b14650372ba50f6ee0f3badf916b442e",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_go": {
+      "sha256": "f05cb3cb7cf7d17273357fecd6758f945522dc4a762683dbf1814260af302e54",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_stop": {
+      "sha256": "6fc2bc26cbdc10bf874340a1b8724f233b8ea99daa5b702f72c31cef22b846d8",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_take_out_pencil": {
+      "sha256": "b5fc1ce6e77abd9b1025dec612c2d5de9555358af28816293d876fbd6b730ebb",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_put_away_pencil": {
+      "sha256": "e5dec83b576ffb0f670d69692e2f63dae1dde746be617e4510a8cf402bf56119",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_open_book": {
+      "sha256": "e335dcc143da4bcc21132c18a0abe575e9ab14455c5beb99807422a2a1eaab19",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_close_book": {
+      "sha256": "cfd253d2ca2f1a0389731071139b4e4b303fb8dbca85cd40366470237f5179cd",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangles_02": {
+      "sha256": "48816cb58af1d1eadd1f1e295ee843c7a1e32cf393f2c4c639922dcefc3c5f49",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangles_03": {
+      "sha256": "c3a69895454307d54ff2053b0d2666b6f28759299d9d8f7ff2a752fd934dbfb3",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangles_04": {
+      "sha256": "f3dd8ee99285825171a15658c95d39e290f47234043cab84088b2c6d41e7a841",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangles_05": {
+      "sha256": "890074097cbe646f780aacfb526f27ffaa7b5e75365209a6589c1480baf675ac",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangles_06": {
+      "sha256": "debc58363568fcbd8e205de8100af1505b15218f7af2adadf9715fec26b0e848",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_triangles_07": {
+      "sha256": "cfac37a07a9724a3454a30b077ea154902851aabc52d7f32b0f00e9464c9650c",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_diamonds_04": {
+      "sha256": "83d45165ccc146b7c3f58d781ce7d5f4d652787820f244f14ec8d28d4f024c10",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_diamonds_05": {
+      "sha256": "d80da2b92fff47711bb4a03b16e7d690b84bde7a8339afd7b98aafeb8edc4dd2",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_diamonds_06": {
+      "sha256": "45389a2646a54ee874eb77d584bda1aef6a8c209b089380677dcfe0979e8111b",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_diamonds_07": {
+      "sha256": "1a1960ca1587c3722c507101f4a5c666d5b591f9920b59037d7d9cdd6fa5cedd",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_circles_05": {
+      "sha256": "e2010941839554faa263d2396c6f95411a8427df2ce58fd0ebe2f29fb760a5f1",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r34_ovals_07": {
+      "sha256": "60afe32a9a4a407e7289e820e8ab4a6e0c0ac386df5c6e98ff2f32c484bc2e77",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_wink": {
+      "sha256": "6a875abc6b44f7e233116991848a02bb851ca883581c4c90a6df64ed6333e87c",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_touch_knees": {
+      "sha256": "41b648e558555b6b02dc772e4372163afbf43b43a4ad0f73451220cebd69bbe2",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_touch_toes": {
+      "sha256": "02fd4c00e8eae9acbed10993a09fa7a3fd1182f68b82749244b13ae809b9934a",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_cannot_touch_toes": {
+      "sha256": "637e48f063f5aabbf4345c0e93158cba3a7bec693db7ec59ac577fde93ca3bdf",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_ride_bicycle": {
+      "sha256": "8300069efb8e719257a9a0153781a02a70acd76ce03cd124af5b1af35edf7598",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_fly_kite": {
+      "sha256": "2dc1ba5c7a3d112c4da9ebb2b6e6ced937955d4dd77c25f7986c15e59d909901",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_swim": {
+      "sha256": "2a18364d41413830f5fa9e8d294cf7e6d73a59342dfd658ca87e56d0be035eda",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_dance": {
+      "sha256": "7ffd7be212cbc463d8e9923a6ebc7d0d356d13e73aea7dc6d05fa8ec69f5fe53",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_stamp_feet": {
+      "sha256": "db2bd2b90cc8f3233222c8da0618a4f38b75a844369b222abaab79d055c96922",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_clap_hands": {
+      "sha256": "a0cfefeab2508b0533967851a6138a04f51711ce4ba8e91e820b605713de507f",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_point_board": {
+      "sha256": "dc453adf6983575079cb94f9c7232de8b67cd8ff736fd7507a23e540a8d2e8bf",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_stand_up": {
+      "sha256": "dbb045c218a360218e5e43e971c65caa4ea1d3d9821dce7fabe75f26bd559c88",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_01_sunday": {
+      "sha256": "769a0a3099f9a2f8479b8f870ba008cb712bea298dfdbc5f3dd575422270a0be",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_02_monday": {
+      "sha256": "0b4be2e9fd0b79c3dbbef2517924d997c4713ceee790fafb1b3e48407ad997f3",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_03_tuesday": {
+      "sha256": "170c04d5275203330f82737b5f33529dad0bc5232cc9af235a04e97805c588c0",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_04_wednesday": {
+      "sha256": "34a95b5b889e1b6515f3e70eb27c39744f38e1ec6b5822f00d16a270c31dee83",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_05_thursday": {
+      "sha256": "39b432531a663cfa8946433658d83aec4c4c31451b80eb6265602377b387d281",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_06_friday": {
+      "sha256": "36aac4a032c9fb28305a7b4bb8a9ed3b14935f321a6ca0083ef462bfd0f160cc",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "r78_day_07_saturday": {
+      "sha256": "ea649580b68fc4b6405e39a1c3bfe95a177a8764cdde05a01aea9be6b465ef3f",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "u01_ball": {
+      "sha256": "76ac7241e3ddc1230679c915e1750fdad8b135e00c88c47836f100117e45aacd",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_jump_rope": {
+      "sha256": "a6a1a2ee8bfd7b9911d08b3e4dfac19f340fc206637d8621f2b2887ac7bcc9a5",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_yo_yo": {
+      "sha256": "ae2a1f7a95b1c81ca33cc41fae1a0e70a6ed482139b2e747e18415c2e51d0d27",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_bicycle": {
+      "sha256": "e62ebd78e226e0d75bd347f94949b2679cd94574423701ee5a6563b3e70174c4",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_train": {
+      "sha256": "432c110e27e25415d893d81121700850ec3d377b75db46fd1978009486481ca2",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_car": {
+      "sha256": "5d0b305e9341315481196ece33e03f91b9b10f62d278862c07b07c300039f2f3",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_doll": {
+      "sha256": "808995c9ea1185d4c3613d453be9a1bad9896acd26a43c359d68cd10bf723e84",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u01_teddy_bear": {
+      "sha256": "2edd9889daed0309e9c0a3e7bb6b6111ac9f94e501909e4b77449d356311dd0d",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_red": {
+      "sha256": "2f6e97e97a00c47eb9fc9d678c129d612c715792c454c3469d376db64ef7aded",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_blue": {
+      "sha256": "bc470222ffcebf373844249ee0e7b92209ea9b4c52b9d8d5d0052181466f608c",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_yellow": {
+      "sha256": "95455c81551cea07479a1742d1b4ee6848b6d3d698921ebb8c26cd17cd6454bb",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_green": {
+      "sha256": "3d3f4d9a50d424591e4204369919265e172c01f04b1304708598b84a5420919e",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_brown": {
+      "sha256": "42e5098382f24ef3a582e1654001511b2986d73544b7b4c2d6417a783edba1d7",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_purple": {
+      "sha256": "969e2a5d92132cb26616bb795a23a0e807704696889df392e4333ed01606f7e9",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_orange": {
+      "sha256": "44e3002c249d6a18b0150c29558032a536725bc7decaeeb3cec83f11935289d4",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_black": {
+      "sha256": "1af6f29ffd7153dcf8e12fa68cb1b3792b8eaf910133a00f7115942909f2489d",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_white": {
+      "sha256": "7ca03c52dff56c2ba408fedc542817be35afd1fc16238ca15551b51ddac4722b",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_color_pink": {
+      "sha256": "871907dcbbc723c44c16e1e6299ad847f90b6170def962e28913abbce3eaaac7",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_red_train": {
+      "sha256": "6a08d2f4e19b115c992224ac8db638fb035cfb11462d9f95e2c17d56ee7b18c1",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_blue_ball": {
+      "sha256": "827d62ec75971203544a841a35a5f2b16fb688ff55c7eb39aaec93581922f28d",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_brown_teddy_bear": {
+      "sha256": "a909df81639dc93888829023325de118c598046c9447ed067b374748c2fa3726",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_green_yo_yo": {
+      "sha256": "102b2c4243781a35c3c7ea06f4593dc66d1e80501deb55b95c9a1d4237977e8e",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_green_car": {
+      "sha256": "e91ffa903305064009b3c9bd55c529648a81c0f6c0464ccfc3dfa6dcabb8e316",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_apple": {
+      "sha256": "e54bf3b221a13f0b3703e8fbe5bbe42f78ccc66ed2e1b56a554bedb3fcebf8f6",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_bird": {
+      "sha256": "959a7e7bc9b2bad09c216fcc1b1b48e8f66415e17ec61806bc9969eac7d1aa00",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_cat": {
+      "sha256": "68a3dac497362141fcd7b34ee09014eb4e51e2d00a16f35f742f0f20286da997",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u02_dog": {
+      "sha256": "42c7bb6c4f793e24a4b4945257f224aea03e4b988beaa3a529555b06fb6a818d",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u04_cars_03": {
+      "sha256": "cebe2934e95f9131d27febd7d8b6f8f1488e44f3ad81f79a537a4e5388002957",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "u04_teddy_bears_04": {
+      "sha256": "f47b8f49c51be1f9a4fddf12fccf7e39232562d28b318823d6a79a271b143108",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_cars_07": {
+      "sha256": "03be3e15be3a31adb5a9ccb6da1647987763c0f04350f5b634579c427283341f",
+      "status": "pass",
+      "notes": "Individually viewed final compressed WebP by root: semantic/color/count/action and complete target contours checked; no answer labels."
+    },
+    "u04_igloo": {
+      "sha256": "2537747b0a8ede71bdeddcf9f562bde56b6359054a93d026694c73ba1ff84f38",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "u04_jump_rope": {
+      "sha256": "9eb48f02837d0f0ea8b5c6e22ba20c2dd49b514f268b8f181735a8a156022ffd",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "u04_kangaroo": {
+      "sha256": "1b5a1e6c036ac2292b17ae920a05d7556eca9a914a34b355ebf97c0b1108a936",
+      "status": "pass",
+      "notes": "Individually viewed final compressed WebP by root: semantic/color/count/action and complete target contours checked; no answer labels."
+    },
+    "u04_lion": {
+      "sha256": "25a1c8c14f8b960f411abd07a8a4eb16910188f04f3e98da32663093865e8d14",
+      "status": "pass",
+      "notes": "Viewed individual final WebP, correct subject/color/count/action, no visible answer labels, complete target silhouette."
+    },
+    "u03_circle": {
+      "sha256": "445e68a4198813c011cd06c03d77299b9de5e76c68f25a5fcf24bb068275b5c8",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_square": {
+      "sha256": "d72f0ae172af51239b8cfc049418a1522f4720aa8db256bce33471f7ba68fbe5",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_triangle": {
+      "sha256": "ed4975ded9999e698f7ec336894f9385c36156ef6436485de66123e7df6b1a3a",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_heart": {
+      "sha256": "ca44e8d3396d916a642b70700f3a79a74c7c92f3ed65b2ad8de64bcf89d0ddfe",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_star": {
+      "sha256": "216a3f5ca5f72c4edb737d955c0ce34e784dd2f526e830e9df48481758ef200a",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_rectangle": {
+      "sha256": "f75b472302e2aad7f325616e688e4e79d01aeaaf9cab996583491ae2e4b31a11",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_diamond": {
+      "sha256": "0d964807fd164a1fbf983f35e0dd686b57a99b3d2f822eac8ab6cf81f85d4421",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_oval": {
+      "sha256": "3b2b6483724bcc3442a9d6a965e45c6afc671cec6fa5298a6d8a6b33c7201ba7",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_blue_square": {
+      "sha256": "205c30f65d490d930310221ea22b4c3adb50b5854d023d0c79130c3eb49cac08",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_purple_heart": {
+      "sha256": "0bee1917336a4443bc76fcf15df20e76e80b55feff98bd09ee2c0b5b15092e4e",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_orange_triangle": {
+      "sha256": "718886c368f8d4235a730f53586087533aa422f496029d1ef717ea1e87c51aff",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_yellow_circle": {
+      "sha256": "07834b1053b44fec267eaeba0d8c577d72e33fba49ec0848b41947948da92a73",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_green_square": {
+      "sha256": "7dc481d860fd91fd86ecf66bbb4db828688dc99f7670d0d58c12d5f29ce23308",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_pink_heart": {
+      "sha256": "f4fb0099c0651b0fbca0d0e649ab4230f3aad2a4428bb8c9b43f58de6e39bc97",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_egg": {
+      "sha256": "18e9c8105afccdcc3d1a184d15028ca323bd4bae0ed6cdf74db704e766c5bce3",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_fish": {
+      "sha256": "89b89612331217f5623b683c4a16d3c21025a25f58cb7e725020cf34e3985786",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u03_gorilla": {
+      "sha256": "23b5ceff94bde02d41311ba0318adc7b028dbb8db33a75b8e55f3283414b2ec7",
+      "status": "pass",
+      "notes": "Root viewed individual final cards; corrections rechecked. Full target shape/subject, source design/color, no answer labels. Yo-yo string endpoint retained as in source vignette."
+    },
+    "u04_dots_01": {
+      "sha256": "457d50a88e4a878674f12303a48831afdd9488f75bca6e1d156641b69c73b19e",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_dots_02": {
+      "sha256": "b088e41c620d0ddad78bfa5a1f6ee00e042a8a0373101147c17af78d7ad7d319",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_dots_03": {
+      "sha256": "9667c9c7030e6286f6c2b09bf4c1313ff27442b856cf268fcb5dbbf24bfc7887",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_dots_04": {
+      "sha256": "71f46e59d2e2e3e6e597ec5d6105942abb02a6e62d49d22322cf1c00510d964b",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_dots_05": {
+      "sha256": "c7eb1cdf9f646b3d9c18a2335c45d9b243c2dfb2a911d06c03265b9a95cf2e9b",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_rings_05": {
+      "sha256": "2c9f11b8880fab11858fa5082b42c4ab0cf70c6e3b8ef83b0fc7232ef2c5aebf",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_triangles_06": {
+      "sha256": "95b2a84d48ea81b86dd73621ce1982b6a901a9602f74cdbfdc17bc0738e098ee",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_stars_07": {
+      "sha256": "b48d3f1f2c39c7e46101202d4dca0d7e5eef5b49e6de72d5a329c119874d3527",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_circles_08": {
+      "sha256": "322f671bf30d626a161ec92bd91b83c599a0e98a1facd9a9352700e469174cab",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_hearts_09": {
+      "sha256": "27fd999ac8231c4f327cb75bf172121f8c9eae28252ca78fde47cf7031c55a20",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u04_squares_10": {
+      "sha256": "8879fc3a5494363937354ba0b36855c434c6c558d8db01818032422e985e771a",
+      "status": "pass",
+      "notes": "Root individually counted correct quantity and checked complete shapes/subjects, no numeral labels."
+    },
+    "u05_dog_01": {
+      "sha256": "e7cfa47a9a2e0cce910bd77e7fb6abfe7f48f014e429ebf33c0a9ba118fd1e79",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_dog_02": {
+      "sha256": "be87ad19d9ec478c8f258772e5bec7b2ad5747d6428e10a8078a17f8809e9de3",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_cat_01": {
+      "sha256": "9d8f96ca49a16a5d041d9d37f122f87c430c2b73502348ac520838b58a4cf350",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_cat_02": {
+      "sha256": "7820d0dfa90161bd011b35457a38388e6a6ee8304404e7a5c425b03f03269500",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_bird_01": {
+      "sha256": "9bbcd8a0b60ee38e6521e71011046913082c5c83ace1cbfe0edd78c6e44706ca",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_bird_02": {
+      "sha256": "04f4f87cc22e6e45290c32f4d95950d216778f5f54206a78882e6fa34130afc7",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_cow_01": {
+      "sha256": "0c329894c2567973680325d6d0df0abaa601ddf3ebc6cba26e23f66322e5372a",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_cow_02": {
+      "sha256": "800c111e5e4625f403efb673135567578de614886c1d3bbb0db4eab4f9a72b2f",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_rabbit_01": {
+      "sha256": "c2f2d3f3e76b5bd85e5b9308a476cd279a979948da5b09be87351bf5073a7329",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_rabbit_02": {
+      "sha256": "603034e5b402f45b7b01f993cbcda79722c2af5b57dedfde7dd859219c5146fe",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_duck_01": {
+      "sha256": "85a8569d89fbb17c380287acebc3ca221e269395963c53f2f6b1ae4ba48d5c4a",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_duck_02": {
+      "sha256": "40d3d56ee2bab6408f6056bffb4c4d509d2f405671c0b66e957d3bb81a352ebb",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_bird_03": {
+      "sha256": "f90f94e44798467192f355cb0256ec89d98b3387f457451a34ca5b0dce2b1d14",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_duck_03": {
+      "sha256": "ece02a08ad5e3aeb802c11d83a34596708abe7af7947ba2e75b115a553735c5a",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_cow_08": {
+      "sha256": "854681d76b52e66d1861c01fac83403a2b1fb6a1ba4e551b0149825e7cdcef2f",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_car_08": {
+      "sha256": "f805339d3084034933dfcd2e56f57a6215f44dee81b49319bf58e8b8262654b7",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_moon": {
+      "sha256": "aae98d78608c245b8ad1db67a49faa4f838c2e6ddf115b668c91ea8e68df5417",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_nest": {
+      "sha256": "4696fe0fe7d8feb632c5d2bb6a502655ed2b0dcbe1896aa414da56daf2e840fd",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_octopus": {
+      "sha256": "56d3aa5391ddb8684a1a3898b86605fcf48d0100ef3599de0522b39779c230b9",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u05_peach": {
+      "sha256": "af66e813aa48e66565b48660618146de6a84bbd8e7928f3cded67327c81bd13e",
+      "status": "pass",
+      "notes": "Root individually inspected all20 and repeatedly rechecked repairs. Finalcow/duck/peach built-inwholemasters; exact2/3/8groups,no neighbor fragments; rabbit/car/octopusfull; captionink removed fromdogemptyfooter. Allhashes current."
+    },
+    "u06_ice_cream": {
+      "sha256": "3ec765942cca5d2f851fb14c41b08efcfeba2bf0642b917efc8393601252d358",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_pizza": {
+      "sha256": "d56daa075780fa20201d3266e467e1fcf536deb2029e75b4a106abc795e6907e",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_cake": {
+      "sha256": "bd4704d8a863ad9a7c167bbb7cc21406af60443323f5fdc8424d2f1624154f86",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_chicken": {
+      "sha256": "9c99c3a101791aac7f4e1f4acee7915e41c9da1e46ab37763ac827d8d86a5f07",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_milk": {
+      "sha256": "bd64f5f52862e8f2f03f6d2a036b04ca970792c6945c05068ae16c5de34de04b",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_fish": {
+      "sha256": "eb2e4c82e13e40c0886b92872304e4b8affb9da299852f3d142563bc6f8c534e",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_bread": {
+      "sha256": "88ed2d87dd802ea9a6f6ae200adcf6b256f72457f4e4de97e9c1eade1b269cd0",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_rice": {
+      "sha256": "3ae940c2e43c278bebb6e654f4b0697e1d3074b30cfb89dd816423f7365b4094",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_queen": {
+      "sha256": "abcc7f7c359cf812020150c8add2b78d78590e84b7bb415dc1976dfe0cea3f2a",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_rabbit": {
+      "sha256": "447cbaeff433e16cb28b98357672cacf53b8de0abe9490e8f7109b125ac1413d",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_sun": {
+      "sha256": "ab54c680ae3498bf77895b22c8093fa7c89f82f28ff52cb0c4b713e40b4f9ccf",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_tiger": {
+      "sha256": "daf42ab9e6718150cc6bc58a64acc710add688b1ef51911ed2923d32a81d5236",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_birds": {
+      "sha256": "e2194aef062d515220310d8803b797fb9da4c899de65754b2c678187b6e03afb",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_likes_milk": {
+      "sha256": "4b94a7ba832b1eee6f1703151abd45bf96e10ff6a6ef23b167ccdea4558ba173",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u06_dislikes_fish": {
+      "sha256": "39c9437769f5862d9791c3ac9928cd2b53e3ba8530de08ce12f860dab422bc25",
+      "status": "pass",
+      "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+    },
+    "u07_head": {
+      "sha256": "dc60e7fa3677f0238912f0fcbd0c1cd34c27a80397b17d5d6715668a924abc1b",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_shoulders": {
+      "sha256": "f2fcfc044b53fc537f585e05d817a652ec6fa827daa5fa5161cf7384e24da956",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_knees": {
+      "sha256": "a19e9007787f6655a75ac28e962c1873cb1ae2aaea0363717f41449d58813daf",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_toes": {
+      "sha256": "485996601db6fa45dfdd59cc4e71c91da4eb418d6561f59ad711178b6c078d40",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_eyes": {
+      "sha256": "78314d97e6b02f68bab47032e0935958d700106eb1287f05f64ff37599019469",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_ears": {
+      "sha256": "41b6355fefa96796b3d07920fade4d8f6657996c6c7ca54db195bfdf287e21e7",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_mouth": {
+      "sha256": "24bc9c9d4e614318cabd519f2e02f1007c973ff14a68493d3530c5359cc43d48",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_nose": {
+      "sha256": "b9c95fff2ae156bea0b3c91df3e18a3d3a6de90bbb96238366b732deb60911a6",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_touch_head": {
+      "sha256": "4969acd150049af59fa5941817b1a7e5fce0462cca3f86d0fda7f9c43c5c5079",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_touch_nose": {
+      "sha256": "665abaf431a99c9a649c492e14969cc436c4dd2b691ec92ba03185c6a86f2bcc",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_touch_eyes": {
+      "sha256": "ae34b32d90b0a2bbd76d974c0fa8ede3d806f854714636afe58ba72f3365e105",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_red_circle": {
+      "sha256": "eb7663f4ee17dc75cbf604cb97afcb1812a311cdd24e08b411e63b9b535e82d0",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_umbrella": {
+      "sha256": "22337b9fedb614b3c21e22b5c1a85b2a5e6849847bed6f3ac9a42a25b9f2cbd0",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_violin": {
+      "sha256": "0b18def45cfd99ba73dcdc4c43d5ebf3cac4c0172ee59f3224afcd090dcfc9ef",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u07_watch": {
+      "sha256": "8ff3b94be136efa729a1d39f8ef423331d86f18276cd759de1d33ca2fd92899b",
+      "status": "pass",
+      "notes": "Root individually viewed15 originals then rechecked generated9 plushead/nose/mouthfinalfix. Headarrowtargetcorrect, nosefingerandmarkeronnose, moutharrowexact; fullanatomy/phonics objects, no sourceanswer labels."
+    },
+    "u08_ride_bicycle": {
+      "sha256": "65e3bffe8043e69027d0a04c80b38c01472801a4a42b173abaa8109bcfe64186",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_sing_song": {
+      "sha256": "03908d915dad1e27920b79b6ac163da79750f25789a3ee739ad2fd56c185d045",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_fly_kite": {
+      "sha256": "d1f6c8fccf20839640212a3fb757be66a43c1ad9a52769987685f9f327dac74c",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_bounce_ball": {
+      "sha256": "18555285bbb92e3a0e7d601e14d3c6c9bcb3019d2ca4b02a1e8822a6d42c87fa",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_swim": {
+      "sha256": "b0f333279f9c72bd23d57c9b72b08be3db94453b384d80b50e1dabb1c6af6e14",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_smile": {
+      "sha256": "8d7e3c7321f34fdc7791dddd688e46102b84d876f21814bd11c1ebbe9b3bc45e",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_wink": {
+      "sha256": "b52de4226b5e07274b97a3657b86ec31a0d5034f8b2fb0165d95e4be9bb2f547",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_dance": {
+      "sha256": "e5599e8eda922a89ae8608e729a4c61bb1e832384db7fbc878736693e174950f",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_cannot_fly_kite": {
+      "sha256": "1f09da044ad8a8e095b97d208a8323e3a957fe1bde8491b1b9b7b60fc15cf7c4",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_play_ball": {
+      "sha256": "b37a9b63dbba316c7bd9334743bffd91bdcf18d25ecb0af9b4c694be3073235a",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_play_tag": {
+      "sha256": "f5ead3c46e609fcec2cd8395ea7d61104e06a1b39d4904ca7478030a537f9e8f",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_jump_rope": {
+      "sha256": "7bc8ac46ec32c19378247338d70d71af8411a04698cfd5f1746193e05d8675e8",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_fox": {
+      "sha256": "0f75e4e826e73926d7ffb4541c9afc1644b8cd5c5a77b6a421d404917fa98881",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_yarn": {
+      "sha256": "02b4e02f0526551d7ce4106e8c5d2ce4c38abf77a880cb291a636fdaf2f5ce0e",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_zebra": {
+      "sha256": "d8a07a1fa82e92638ec2c8e06d071bea78e95b10a04d60ad68a17fe0eab21a01",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_make_circle": {
+      "sha256": "53b2734c88bbd308fc288f7ea554aecbf7ba876214ae101a116b3809c7fccb0b",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "u08_make_line": {
+      "sha256": "2d4fdf7a12d3d9cc0c2730bd71a010f43bf7eb494053c34c99955d2948dfd249",
+      "status": "pass",
+      "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+    },
+    "r56_cat_01": {
+      "sha256": "97d19f7b1ca779c282bbaadb0d96543447bc19cbc82c14e1daf0855a4193c8a8",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_cat_03": {
+      "sha256": "85fec0ae25e63a9a51ebc07cff425716e0e91bd4c796a3e38c3885c361329a35",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_cat_04": {
+      "sha256": "faec2ccd8389c4712f61578d82a4ba2157368d44a60ba996ed4aa7b708d462a0",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_rabbit_01": {
+      "sha256": "8cf61df8c94c376e5e32fa9506462a525db0c33462c07c581a6abe9c482973d7",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_rabbit_02": {
+      "sha256": "44de033ae4682cdf5546cfa186893eba6473f2d56cb34258cd8fd1ed38a3e86e",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_rabbit_05": {
+      "sha256": "1a8ad24bd5fcfcdbd1416fad7923f70f74a6b8eb20ec3e9b00d87a796d8eab27",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_ice_cream": {
+      "sha256": "5f00f50bc01d9e94cf6c6abd0eb31aaaad0b9a9d46936fda712754479bbc6b59",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_cake": {
+      "sha256": "a392247f84c3e9f3171d4cb1caa85feb5719bda7972da83b1893035b3955c99e",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_bread": {
+      "sha256": "875d511aadc83e766d33b298d78238533438f7461761450aa97843d26766b8bd",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_rice": {
+      "sha256": "f78f8fa694c1b2ca793bea33fe960aa5f24446b0a1c4e4f4f9706010079546ff",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_skip": {
+      "sha256": "6b9bddebb57251b716cbcd1d5733d3438afbc2db23de4768a95c8eef6a6a093b",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_jump": {
+      "sha256": "a2df5e1209a3e5b9bc81cb143b4820c170ae6a7411c240d19ee3a92b15aa5e46",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_make_line": {
+      "sha256": "48cb106577fbd102a0445918554c756ad0189c060c410583b9ce3e912ed2b7eb",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_make_circle": {
+      "sha256": "83d56a434dd3418c53d74a99d48abd29287065cd43332dcc2ac3d2fc36bc6cb7",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_sunny": {
+      "sha256": "d4a7fd1257844ec1ef48ff37084a31ff1343d476aa2da01efb67cacda63a22a3",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_cloudy": {
+      "sha256": "b17a58a72a31b3fae733bab3531caba77c5bdb9cc2310e686bf99315640b7e1d",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_windy": {
+      "sha256": "b3aa8bdfcbdf92bc036dca422b61496e187f50cb3de0b937795aef4e98ca8be6",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_rainy": {
+      "sha256": "6b99ac03b177b3a92c1e21c09729c53cb4418d69d53d7e61f6f65f5f3c8952f4",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r56_snowy": {
+      "sha256": "4e4f2814507a31283389fbcdf1f7f542a6c8c25f053b24b8bfa846b5ad704ffe",
+      "status": "pass",
+      "notes": "Root individually inspected all19, then rechecked 11 built-in corrections. Exact3/4cats and2/5rabbits, complete targets/feet/hair/food, weather distinct. Four-child circle is documented action adaptation, not animal count task."
+    },
+    "r12_car": {
+      "sha256": "130ea9bc5b27656e9b4183b2791092dcbeaaa52b1ae2af7eee529255f35db63b",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_train": {
+      "sha256": "5372f8d5d213b52e2ed6bebd8399655a960694d9bfc45cb5a503c687cec7c3e8",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_bicycle": {
+      "sha256": "3d7b65e0b8218dee2f4877cff35e36c353bc9b63b5a87fe5c6700db6cb8d8925",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_ball": {
+      "sha256": "03bd9b310eecb60406b895adb2a90ac8098af1ce4404e8f735004101c27362ed",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_green": {
+      "sha256": "dbdd8df624e9436222909a5568219d0c3f17adb4399bd4acfcaa03846b871a90",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_red": {
+      "sha256": "184a6a57281dbb066a451a05772d253a5dddc1707e3209e4117fe20ea422b068",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_purple": {
+      "sha256": "83ba028381ed638c290f12eeb4f4df5bf7aa16b82061b2df7a378f1debfb9470",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_yellow": {
+      "sha256": "8b4de827d23cc4053ff6ef6a4f92e9468b3555d074645e7a0e921d786651786d",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_paper": {
+      "sha256": "e3ebb8360fedd9f9ecc35a9e906dc7a0e688c4f869f6e2c59a283ed7961fc11c",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_scissors": {
+      "sha256": "d158a006b86b034443ef3fd0e8c9bc773bf2a9798deb8f982bd9933a2ea87807",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_glue": {
+      "sha256": "02eefb5575a91037fd73b048caf8696fd2877ed93825c2430120bc9d8cd57406",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_paint": {
+      "sha256": "1d499dc1170e94d2b26b81833d74d301d9a6cc27a450fd2082196f7b4bd4499c",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_tape": {
+      "sha256": "43a4702fda1ba1cc0dacdfb94911e965963a8b3610b97be74ca89b3f80d36eaa",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_stand_up": {
+      "sha256": "1eb9280ac05788857d51d7eda4ae1537605244703e7080941626937949275788",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_sit_down": {
+      "sha256": "74bc67c3a21331b8c809d0c76ac6915604d81f56b005556f42990975af42e3e4",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_come_here": {
+      "sha256": "e76747044d4ca16c52f0ad54345c1a2928efd551b303532aa19cf76bd3868413",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    },
+    "r12_turn_around": {
+      "sha256": "cc44258deccdc8fbf562b2a7fcfecf31ff1344207087e30e3b46e773dfcd7ffa",
+      "status": "pass",
+      "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+    }
+  }
+}

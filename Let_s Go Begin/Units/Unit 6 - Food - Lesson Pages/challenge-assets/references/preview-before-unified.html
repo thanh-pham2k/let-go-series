@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Unit 6 Food — Challenge asset preview</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f3f5f7;color:#1f2937;margin:24px}h1{margin-bottom:4px}.note{color:#4b5563}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:16px;max-width:1200px}.card{background:#fff;border:1px solid #d9dee5;border-radius:12px;padding:10px;box-shadow:0 1px 3px #0001}.card img{display:block;width:100%;aspect-ratio:1;border-radius:8px;object-fit:contain;background:#fff}.id{font-weight:700;margin-top:8px;font-size:13px}.meta{font-size:12px;color:#4b5563;margin-top:4px}table{border-collapse:collapse;background:#fff;margin-top:12px;width:100%;max-width:1200px}th,td{border:1px solid #d9dee5;padding:7px;text-align:left;vertical-align:top;font-size:12px}th{background:#e8eef5}
+</style></head>
+<body>
+<h1>Unit 6 — Food · Challenge cards</h1>
+<p class="note">15 required WebP cards. Questions, choices, answer keys, and audio remain outside the bitmaps.</p>
+<div class="grid">
+<script>
+const ids=["u06_ice_cream","u06_pizza","u06_cake","u06_chicken","u06_milk","u06_fish","u06_bread","u06_rice","u06_queen","u06_rabbit","u06_sun","u06_tiger","u06_birds","u06_likes_milk","u06_dislikes_fish"];
+const labels={u06_ice_cream:"food · ice cream",u06_pizza:"food · pizza",u06_cake:"food · cake",u06_chicken:"food · cooked chicken",u06_milk:"food · milk",u06_fish:"food · food fish",u06_bread:"food · bread",u06_rice:"food · rice",u06_queen:"phonics · queen",u06_rabbit:"phonics · rabbit",u06_sun:"phonics · sun",u06_tiger:"phonics · tiger",u06_birds:"plural group · birds",u06_likes_milk:"fixed scene · likes milk",u06_dislikes_fish:"fixed scene · dislikes fish"};
+document.write(ids.map(id=>`<div class="card"><img src="webp/${id}.webp" alt="${labels[id]}"><div class="id">${id}</div><div class="meta">${labels[id]}</div></div>`).join(""));
+</script>
+</div>
+<h2>Use map</h2>
+<table><thead><tr><th>Challenge</th><th>Section</th><th>Image IDs</th><th>Review note</th></tr></thead><tbody>
+<tr><td>1</td><td>Vocabulary Master</td><td>ice cream, pizza, cake, chicken, milk, fish, bread, rice</td><td>Recognition cards; text/audio-only subsections are outside the gallery.</td></tr>
+<tr><td>2</td><td>Listen &amp; Understand</td><td>milk, fish, bread, rice, pizza, chicken, cake</td><td>Reuse the same food IDs in listening choice rows.</td></tr>
+<tr><td>3</td><td>Fill &amp; Recall</td><td>all 8 foods</td><td>Age and repeated preference blanks stay text/personal where the source has no cue.</td></tr>
+<tr><td>4</td><td>Build &amp; Match</td><td>queen, rabbit, sun, tiger</td><td>Phonics image rows only; word-order and matching rows are UI text.</td></tr>
+<tr><td>5</td><td>Final Boss</td><td>all food cards; four phonics cards; birds; likes_milk; dislikes_fish</td><td>Fixed milk/fish scenes apply only to §9; open learner preferences use neutral food cards.</td></tr>
+</tbody></table>
+</body></html>

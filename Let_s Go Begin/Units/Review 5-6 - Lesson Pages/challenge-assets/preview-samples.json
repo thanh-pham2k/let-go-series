@@ -1,0 +1,112 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+  "samples": [
+    {
+      "id": "R56-C1-01",
+      "challenge": 1,
+      "line": 45,
+      "raw": "🖼️một con mèo, biến thể luyện số ít. Chọn từ/cụm từ đúng.",
+      "ids": [
+        "r56_cat_01"
+      ],
+      "needs_context": false,
+      "existing_prompt": null,
+      "choices": null,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "A. rabbit",
+        "B. cats",
+        "C. rabbits",
+        "D. cat"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R56-C2-01",
+      "challenge": 2,
+      "line": 196,
+      "raw": "Nghe từ/cụm từ và chọn đúng mục.",
+      "ids": [],
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn đáp án phù hợp.",
+      "options": [
+        "A. rabbit",
+        "B. cats",
+        "C. cat",
+        "D. rabbits"
+      ],
+      "teacher_audio": "Nghe từ/cụm từ và chọn đúng mục.",
+      "needs_context": false
+    },
+    {
+      "id": "R56-C3-15",
+      "challenge": 3,
+      "line": 405,
+      "raw": "🖼️nhóm 3 con mèo. Điền: `cat_`.",
+      "ids": [
+        "r56_cat_03"
+      ],
+      "needs_context": false,
+      "existing_prompt": null,
+      "choices": null,
+      "prompt": "Nhìn hình. Điền: `cat_`.",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R56-C4-05",
+      "challenge": 4,
+      "line": 485,
+      "raw": "🖼️một con mèo, biến thể luyện số ít. Điền chữ cái của thẻ phù hợp.",
+      "ids": [
+        "r56_cat_01"
+      ],
+      "needs_context": false,
+      "existing_prompt": null,
+      "choices": null,
+      "prompt": "Nhìn hình. Ghép với từ hoặc câu phù hợp.",
+      "options": [
+        "A. sunny",
+        "B. cat",
+        "C. skip",
+        "D. ice cream"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R56-C5-01",
+      "challenge": 5,
+      "line": 549,
+      "raw": "Nhóm1a có3 con mèo. Chọn từ số nhiều và số lượng.",
+      "ids": [
+        "r56_cat_03"
+      ],
+      "needs_context": false,
+      "existing_prompt": null,
+      "choices": null,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "A. cats / 3",
+        "B. cat / 3",
+        "C. cats / 4"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R56-C5-04",
+      "challenge": 5,
+      "line": 572,
+      "raw": "Người lớn chỉ/diễn: một con mèo, biến thể luyện số ít. Bé tự nói từ/cụm phù hợp.",
+      "ids": [
+        "r56_cat_01"
+      ],
+      "needs_context": false,
+      "existing_prompt": null,
+      "choices": null,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 19,
+  "debug_labels_hidden_by_default": true
+}

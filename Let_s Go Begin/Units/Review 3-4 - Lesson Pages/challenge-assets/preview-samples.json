@@ -1,0 +1,120 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+  "samples": [
+    {
+      "id": "R34-C1-01",
+      "challenge": 1,
+      "line": 45,
+      "raw": "🖼️hình tròn bé đang vẽ ở cặp 1a. Chọn từ/cụm từ đúng.",
+      "ids": [
+        "r34_circle"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "choices": [
+        "A. heart",
+        "B. diamond",
+        "C. square",
+        "D. circle"
+      ],
+      "prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "options": [
+        "A. heart",
+        "B. diamond",
+        "C. square",
+        "D. circle"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R34-C2-01",
+      "challenge": 2,
+      "line": 231,
+      "raw": "Nghe từ/cụm từ và chọn đúng mục.",
+      "ids": [],
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn đáp án phù hợp.",
+      "options": [
+        "A. oval",
+        "B. triangle",
+        "C. circle",
+        "D. star"
+      ],
+      "teacher_audio": "Nghe từ/cụm từ và chọn đúng mục.",
+      "needs_context": false
+    },
+    {
+      "id": "R34-C3-12",
+      "challenge": 3,
+      "line": 468,
+      "raw": "🖼️lấy bút chì ra. Điền: `________ out your pencil.`.",
+      "ids": [
+        "r34_take_out_pencil"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Điền: `________ out your pencil.`.",
+      "choices": [],
+      "prompt": "Nhìn hình. Điền: `________ out your pencil.`.",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R34-C4-06",
+      "challenge": 4,
+      "line": 558,
+      "raw": "🖼️hình tròn bé đang vẽ ở cặp 1a. Điền chữ cái của thẻ phù hợp.",
+      "ids": [
+        "r34_circle"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "choices": [],
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "options": [
+        "A. walk",
+        "B. Take out your pencil.",
+        "C. circle"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R34-C5-01",
+      "challenge": 5,
+      "line": 610,
+      "raw": "Nhìn nhóm 3a: gọi hình và chọn số lượng.",
+      "ids": [
+        "r34_triangles_04"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "choices": [
+        "A. triangle / 5",
+        "B. triangle / 4",
+        "C. circle / 4"
+      ],
+      "prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "options": [
+        "A. triangle / 5",
+        "B. triangle / 4",
+        "C. circle / 4"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R34-C5-04",
+      "challenge": 5,
+      "line": 633,
+      "raw": "Người lớn chỉ/diễn: hình tròn bé đang vẽ ở cặp 1a. Bé tự nói từ/cụm phù hợp.",
+      "ids": [
+        "r34_circle"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "choices": [],
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 27,
+  "debug_labels_hidden_by_default": true
+}

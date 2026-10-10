@@ -1,0 +1,1326 @@
+{
+  "schema_version": 1,
+  "unit": 4,
+  "topic": "Numbers",
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "assets": [
+    {
+      "id": "u04_dots_01",
+      "brief": "1 solid black dot",
+      "semantic": {
+        "topic": "numbers",
+        "count": 1
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 1 line 68",
+        "C5 §2 item 1 line 358"
+      ],
+      "file": "webp/u04_dots_01.webp",
+      "webp": "webp/u04_dots_01.webp",
+      "files": [
+        "webp/u04_dots_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1394,
+      "sha256": "b24a52e74b85d51f36a0199ffa883544c46593fbab016103d285abe9d6065c4e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        0,
+        795,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        291
+      ],
+      "visual_review": {
+        "sha256": "b24a52e74b85d51f36a0199ffa883544c46593fbab016103d285abe9d6065c4e",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b24a52e74b85d51f36a0199ffa883544c46593fbab016103d285abe9d6065c4e",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+        ],
+        "resized_from": [
+          362,
+          291
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_dots_02",
+      "brief": "2 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 2
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 2 line 69",
+        "C5 §2 item 2 line 360"
+      ],
+      "file": "webp/u04_dots_02.webp",
+      "webp": "webp/u04_dots_02.webp",
+      "files": [
+        "webp/u04_dots_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 2182,
+      "sha256": "cfb0150a64d3aa4ba97f327b62eb0e5d9e6dc02f1f883e2747fb68073c20107e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        362,
+        795,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        291
+      ],
+      "visual_review": {
+        "sha256": "cfb0150a64d3aa4ba97f327b62eb0e5d9e6dc02f1f883e2747fb68073c20107e",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "cfb0150a64d3aa4ba97f327b62eb0e5d9e6dc02f1f883e2747fb68073c20107e",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+        ],
+        "resized_from": [
+          362,
+          291
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_dots_03",
+      "brief": "3 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 3
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C3 §1 item 1 line 188",
+        "C5 §2 item 3 line 362"
+      ],
+      "file": "webp/u04_dots_03.webp",
+      "webp": "webp/u04_dots_03.webp",
+      "files": [
+        "webp/u04_dots_03.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 2606,
+      "sha256": "8ce33e5ea9d18bfe96e5a3f2bf623d2c9694fb03a1e8940f045955301953ecb6",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        724,
+        795,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        291
+      ],
+      "visual_review": {
+        "sha256": "8ce33e5ea9d18bfe96e5a3f2bf623d2c9694fb03a1e8940f045955301953ecb6",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "8ce33e5ea9d18bfe96e5a3f2bf623d2c9694fb03a1e8940f045955301953ecb6",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+        ],
+        "resized_from": [
+          362,
+          291
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_dots_04",
+      "brief": "4 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 4
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C5 §2 item 4 line 364"
+      ],
+      "file": "webp/u04_dots_04.webp",
+      "webp": "webp/u04_dots_04.webp",
+      "files": [
+        "webp/u04_dots_04.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 2838,
+      "sha256": "e1571f93eab8bbc76f37370cfbb130ea66d36c0a0a35c7086faa0c713694f073",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        1086,
+        795,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        291
+      ],
+      "visual_review": {
+        "sha256": "e1571f93eab8bbc76f37370cfbb130ea66d36c0a0a35c7086faa0c713694f073",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "e1571f93eab8bbc76f37370cfbb130ea66d36c0a0a35c7086faa0c713694f073",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+        ],
+        "resized_from": [
+          362,
+          291
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_dots_05",
+      "brief": "5 separated solid black dots",
+      "semantic": {
+        "topic": "numbers",
+        "count": 5
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C5 §2 item 5 line 366"
+      ],
+      "file": "webp/u04_dots_05.webp",
+      "webp": "webp/u04_dots_05.webp",
+      "files": [
+        "webp/u04_dots_05.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 3570,
+      "sha256": "818daebceb0bc5948ba00cb68dc95369d1113de49cfc4bc18fb32d4927a553f2",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "818daebceb0bc5948ba00cb68dc95369d1113de49cfc4bc18fb32d4927a553f2",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "818daebceb0bc5948ba00cb68dc95369d1113de49cfc4bc18fb32d4927a553f2",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_rings_05",
+      "brief": "5 purple double-outline rings",
+      "semantic": {
+        "topic": "numbers",
+        "count": 5
+      },
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 5 line 72",
+        "C3 §1 item 3 line 190"
+      ],
+      "file": "webp/u04_rings_05.webp",
+      "webp": "webp/u04_rings_05.webp",
+      "files": [
+        "webp/u04_rings_05.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10634,
+      "sha256": "edefaa22825f1e5fb7a9951f006c2648fd29cff8acacc7040b4513097798cd07",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "edefaa22825f1e5fb7a9951f006c2648fd29cff8acacc7040b4513097798cd07",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "edefaa22825f1e5fb7a9951f006c2648fd29cff8acacc7040b4513097798cd07",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_triangles_06",
+      "brief": "6 green outline triangles",
+      "semantic": {
+        "topic": "numbers",
+        "count": 6
+      },
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 6 line 73",
+        "C3 §1 item 4 line 191",
+        "C5 §2 item 6 line 368"
+      ],
+      "file": "webp/u04_triangles_06.webp",
+      "webp": "webp/u04_triangles_06.webp",
+      "files": [
+        "webp/u04_triangles_06.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7812,
+      "sha256": "0080b67f01075aa41cbfdbe978a343a3709d6548c361e590f5df3e8ce2507ea0",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "0080b67f01075aa41cbfdbe978a343a3709d6548c361e590f5df3e8ce2507ea0",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "0080b67f01075aa41cbfdbe978a343a3709d6548c361e590f5df3e8ce2507ea0",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_stars_07",
+      "brief": "7 orange outline stars",
+      "semantic": {
+        "topic": "numbers",
+        "count": 7
+      },
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 7 line 74",
+        "C3 §1 item 5 line 192",
+        "C5 §2 item 7 line 370"
+      ],
+      "file": "webp/u04_stars_07.webp",
+      "webp": "webp/u04_stars_07.webp",
+      "files": [
+        "webp/u04_stars_07.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11188,
+      "sha256": "8c640d7cd37f714ec8d02516a8827fb5088eee005c084a3f97d31c576068a203",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "8c640d7cd37f714ec8d02516a8827fb5088eee005c084a3f97d31c576068a203",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "8c640d7cd37f714ec8d02516a8827fb5088eee005c084a3f97d31c576068a203",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_circles_08",
+      "brief": "8 red outline circles",
+      "semantic": {
+        "topic": "numbers",
+        "count": 8
+      },
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 8 line 75",
+        "C3 §1 item 6 line 193",
+        "C5 §2 item 8 line 372"
+      ],
+      "file": "webp/u04_circles_08.webp",
+      "webp": "webp/u04_circles_08.webp",
+      "files": [
+        "webp/u04_circles_08.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8546,
+      "sha256": "17283c9b13a52e0fd4d32e9b8c2d88d6505d8fe32e247b029055de0667ea3c42",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "17283c9b13a52e0fd4d32e9b8c2d88d6505d8fe32e247b029055de0667ea3c42",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "17283c9b13a52e0fd4d32e9b8c2d88d6505d8fe32e247b029055de0667ea3c42",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_hearts_09",
+      "brief": "9 purple outline hearts",
+      "semantic": {
+        "topic": "numbers",
+        "count": 9
+      },
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 9 line 76",
+        "C3 §1 item 7 line 194",
+        "C5 §2 item 9 line 374"
+      ],
+      "file": "webp/u04_hearts_09.webp",
+      "webp": "webp/u04_hearts_09.webp",
+      "files": [
+        "webp/u04_hearts_09.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12906,
+      "sha256": "3b369011bd1a7886f340ce8ba741b471449698c9b6216a5fe20a6d9e28ba6826",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "3b369011bd1a7886f340ce8ba741b471449698c9b6216a5fe20a6d9e28ba6826",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "3b369011bd1a7886f340ce8ba741b471449698c9b6216a5fe20a6d9e28ba6826",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_squares_10",
+      "brief": "10 blue outline squares",
+      "semantic": {
+        "topic": "numbers",
+        "count": 10
+      },
+      "references": [
+        "CD1_64.png",
+        "CD1_67.png"
+      ],
+      "uses": [
+        "C1 §2 item 10 line 77",
+        "C3 §1 item 8 line 195",
+        "C5 §2 item 10 line 376"
+      ],
+      "file": "webp/u04_squares_10.webp",
+      "webp": "webp/u04_squares_10.webp",
+      "files": [
+        "webp/u04_squares_10.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5542,
+      "sha256": "42d23e5ce4da18c94d12fb6f871710e339ba43ad62658d7bb2a2c2352e5a92ff",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "42d23e5ce4da18c94d12fb6f871710e339ba43ad62658d7bb2a2c2352e5a92ff",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "42d23e5ce4da18c94d12fb6f871710e339ba43ad62658d7bb2a2c2352e5a92ff",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_cars_03",
+      "brief": "3 complete cartoon cars",
+      "semantic": {
+        "topic": "numbers",
+        "count": 3
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 3 line 70"
+      ],
+      "file": "webp/u04_cars_03.webp",
+      "webp": "webp/u04_cars_03.webp",
+      "files": [
+        "webp/u04_cars_03.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 21046,
+      "sha256": "3bb4f58e90b9fdf8704c02682bec8c6898ab7f25bec4270de0abdb077c5295d2",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "3bb4f58e90b9fdf8704c02682bec8c6898ab7f25bec4270de0abdb077c5295d2",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "3bb4f58e90b9fdf8704c02682bec8c6898ab7f25bec4270de0abdb077c5295d2",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_teddy_bears_04",
+      "brief": "4 complete cartoon teddy bears",
+      "semantic": {
+        "topic": "numbers",
+        "count": 4
+      },
+      "references": [
+        "CD1_60.png"
+      ],
+      "uses": [
+        "C1 §2 item 4 line 71",
+        "C3 §1 item 2 line 189"
+      ],
+      "file": "webp/u04_teddy_bears_04.webp",
+      "webp": "webp/u04_teddy_bears_04.webp",
+      "files": [
+        "webp/u04_teddy_bears_04.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 25452,
+      "sha256": "77d36b3fd8fe295ec4c7431edf3631da6732ada78c1516d63c77242c253f819b",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "77d36b3fd8fe295ec4c7431edf3631da6732ada78c1516d63c77242c253f819b",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "77d36b3fd8fe295ec4c7431edf3631da6732ada78c1516d63c77242c253f819b",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_cars_07",
+      "brief": "7 complete cartoon cars",
+      "semantic": {
+        "topic": "numbers",
+        "count": 7
+      },
+      "references": [
+        "built-in image_gen source references/car-generated.png; CD1_60.png style reference"
+      ],
+      "uses": [
+        "C5 §4 situation 2 lines 400, 406"
+      ],
+      "file": "webp/u04_cars_07.webp",
+      "webp": "webp/u04_cars_07.webp",
+      "files": [
+        "webp/u04_cars_07.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 25270,
+      "sha256": "ccea12eda58d0ee2f3afe51bf51eaf327b2f89853b9a9d933a08a01bbf1e35fd",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "ccea12eda58d0ee2f3afe51bf51eaf327b2f89853b9a9d933a08a01bbf1e35fd",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ccea12eda58d0ee2f3afe51bf51eaf327b2f89853b9a9d933a08a01bbf1e35fd",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_igloo",
+      "brief": "one ice-block igloo",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "references": [
+        "CD1_69.png"
+      ],
+      "uses": [
+        "C1 §4 I i line 91",
+        "C4 §3 I i line 322",
+        "C5 §7 I i line 451"
+      ],
+      "file": "webp/u04_igloo.webp",
+      "webp": "webp/u04_igloo.webp",
+      "files": [
+        "webp/u04_igloo.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12824,
+      "sha256": "4867bc7fe173987e85e142ba093e60403b4c8e5ab9ce5dd2354265c0920632a1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        724,
+        680,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "4867bc7fe173987e85e142ba093e60403b4c8e5ab9ce5dd2354265c0920632a1",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4867bc7fe173987e85e142ba093e60403b4c8e5ab9ce5dd2354265c0920632a1",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_jump_rope",
+      "brief": "one standalone jump rope with two handles",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "references": [
+        "built-in image_gen; CD1_69.png style reference"
+      ],
+      "uses": [
+        "C1 §4 J j line 92",
+        "C4 §3 J j line 323",
+        "C5 §7 J j line 452"
+      ],
+      "file": "webp/u04_jump_rope.webp",
+      "webp": "webp/u04_jump_rope.webp",
+      "files": [
+        "webp/u04_jump_rope.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17296,
+      "sha256": "b48b8420f77c1ce6ed044d93629a059f68680b3d2502251af0ed5eaf05cd5d09",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-05/master.png",
+      "crop_box": [
+        1086,
+        680,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "b48b8420f77c1ce6ed044d93629a059f68680b3d2502251af0ed5eaf05cd5d09",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b48b8420f77c1ce6ed044d93629a059f68680b3d2502251af0ed5eaf05cd5d09",
+        "status": "pass",
+        "notes": "Counts individually checked: 5 dots,5 rings,6 triangles,7 stars,8 circles,9 hearts,10 squares,3 cars,4 teddies,7 cars; igloo and rope complete.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-05\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 5,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-05/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_kangaroo",
+      "brief": "one cartoon kangaroo",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "references": [
+        "built-in image_gen source references/kangaroo-generated.png; CD1_69.png style reference"
+      ],
+      "uses": [
+        "C1 §4 K k line 93",
+        "C4 §3 K k line 324",
+        "C5 §7 K k line 453"
+      ],
+      "file": "webp/u04_kangaroo.webp",
+      "webp": "webp/u04_kangaroo.webp",
+      "files": [
+        "webp/u04_kangaroo.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11686,
+      "sha256": "21e17c84399ebf65eb96efa550309878a55c2dbd498a59d613e31995f142ab70",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        0,
+        0,
+        360,
+        400
+      ],
+      "source_crop_size": [
+        360,
+        400
+      ],
+      "visual_review": {
+        "sha256": "21e17c84399ebf65eb96efa550309878a55c2dbd498a59d613e31995f142ab70",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "21e17c84399ebf65eb96efa550309878a55c2dbd498a59d613e31995f142ab70",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+        ],
+        "resized_from": [
+          360,
+          400
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u04_lion",
+      "brief": "one cartoon lion",
+      "semantic": {
+        "topic": "numbers",
+        "count": null
+      },
+      "references": [
+        "CD1_69.png"
+      ],
+      "uses": [
+        "C1 §4 L l line 94",
+        "C4 §3 L l line 325",
+        "C5 §7 L l line 454"
+      ],
+      "file": "webp/u04_lion.webp",
+      "webp": "webp/u04_lion.webp",
+      "files": [
+        "webp/u04_lion.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15552,
+      "sha256": "81fbc2f8841f97a9400acbf67d043b5a6229b7a733198ec229a63baedbcb810e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        360,
+        0,
+        724,
+        400
+      ],
+      "source_crop_size": [
+        364,
+        400
+      ],
+      "visual_review": {
+        "sha256": "81fbc2f8841f97a9400acbf67d043b5a6229b7a733198ec229a63baedbcb810e",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "81fbc2f8841f97a9400acbf67d043b5a6229b7a733198ec229a63baedbcb810e",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+        ],
+        "resized_from": [
+          364,
+          400
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "required_ids": [
+    "u04_dots_01",
+    "u04_dots_02",
+    "u04_dots_03",
+    "u04_dots_04",
+    "u04_dots_05",
+    "u04_rings_05",
+    "u04_triangles_06",
+    "u04_stars_07",
+    "u04_circles_08",
+    "u04_hearts_09",
+    "u04_squares_10",
+    "u04_cars_03",
+    "u04_teddy_bears_04",
+    "u04_cars_07",
+    "u04_igloo",
+    "u04_jump_rope",
+    "u04_kangaroo",
+    "u04_lion"
+  ],
+  "conditional_ids": [],
+  "counts": {
+    "required": 18,
+    "complete": 18,
+    "missing": 0,
+    "native_graphic": 11,
+    "compose_from_crops": 2,
+    "compose_from_generated_source": 1,
+    "crop_or_edit": 2,
+    "generated": 3
+  },
+  "duplicate_hashes": {},
+  "visual_review": "All cards reviewed in contact-sheet.jpg and individual source/contact sheets.",
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-04\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "batch_id": "batch-02",
+  "grid": "4x3",
+  "occupied_cells": 9,
+  "asset_ids": [
+    "r56_skip",
+    "r56_jump",
+    "r56_make_line",
+    "r56_make_circle",
+    "r56_sunny",
+    "r56_cloudy",
+    "r56_windy",
+    "r56_rainy",
+    "r56_snowy"
+  ],
+  "source": "final WebP cards assembled without labels",
+  "provenance_file": "../provenance.json",
+  "provenance_refs": {
+    "r56_skip": "../provenance.json#/events/event-r56-skip-revision",
+    "r56_jump": "../provenance.json#/events/event-r56-jump-revision",
+    "r56_make_line": "../provenance.json#/events/event-r56-make-line-revision",
+    "r56_make_circle": "../provenance.json#/events/event-r56-make-circle-revision",
+    "r56_sunny": "../provenance.json#/events/event-r56-sunny-revision",
+    "r56_cloudy": "../provenance.json#/crop_operations/crop-r56_cloudy-initial",
+    "r56_windy": "../provenance.json#/crop_operations/crop-r56_windy-initial",
+    "r56_rainy": "../provenance.json#/crop_operations/crop-r56_rainy-initial",
+    "r56_snowy": "../provenance.json#/crop_operations/crop-r56_snowy-initial"
+  }
+}

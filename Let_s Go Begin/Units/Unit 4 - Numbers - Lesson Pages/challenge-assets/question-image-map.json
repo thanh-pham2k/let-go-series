@@ -1,0 +1,749 @@
+{
+  "schema_version": 1,
+  "unit": 4,
+  "topic": "Numbers",
+  "source": "..\\..\\..\\Units\\Unit 4 - Numbers(2).md",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn số → chọn số đúng",
+      "source_line": 53,
+      "image_required": false,
+      "reason": "Text-only number recognition; digits and choices are UI text.",
+      "items": [],
+      "source_excerpt": "## 1. Nhìn số → chọn số đúng\n\n1. `1` → `1 / 2 / 4 / 5`\n2. `2` → `5 / 3 / 2 / 1`\n3. `3` → `4 / 3 / 1 / 5`\n4. `4` → `2 / 5 / 4 / 3`\n5. `5` → `3 / 1 / 2 / 5`\n6. `6` → `8 / 6 / 9 / 7`\n7. `7` → `10 / 8 / 7 / 6`\n8. `8` → `9 / 8 / 6 / 10`\n9. `9` → `7 / 10 / 9 / 8`\n10. `10` → `6 / 9 / 8 / 10`"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nhìn nhóm hình → chọn số",
+      "source_line": 66,
+      "image_required": true,
+      "reason": "Each item has a dedicated visual occurrence below.",
+      "items": [
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 68,
+          "source_text": "1. ● → `1 / 2 / 3 / 4`",
+          "asset_ids": [
+            "u04_dots_01"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 69,
+          "source_text": "2. ●● → `4 / 2 / 5 / 3`",
+          "asset_ids": [
+            "u04_dots_02"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 70,
+          "source_text": "3. 🚗🚗🚗 → `2 / 5 / 3 / 4`",
+          "asset_ids": [
+            "u04_cars_03"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 71,
+          "source_text": "4. 🧸🧸🧸🧸 → `5 / 4 / 3 / 2`",
+          "asset_ids": [
+            "u04_teddy_bears_04"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 72,
+          "source_text": "5. ◎ ◎ ◎ ◎ ◎ → `3 / 4 / 5 / 1`",
+          "asset_ids": [
+            "u04_rings_05"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 73,
+          "source_text": "6. △ △ △ △ △ △ → `6 / 8 / 9 / 10`",
+          "asset_ids": [
+            "u04_triangles_06"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 74,
+          "source_text": "7. ☆ ☆ ☆ ☆ ☆ ☆ ☆ → `8 / 6 / 7 / 9`",
+          "asset_ids": [
+            "u04_stars_07"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 75,
+          "source_text": "8. ○ ○ ○ ○ ○ ○ ○ ○ → `10 / 8 / 7 / 9`",
+          "asset_ids": [
+            "u04_circles_08"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 76,
+          "source_text": "9. ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → `8 / 10 / 9 / 6`",
+          "asset_ids": [
+            "u04_hearts_09"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Nhìn nhóm hình → chọn số",
+          "line": 77,
+          "source_text": "10. □ □ □ □ □ □ □ □ □ □ → `9 / 7 / 10 / 8`",
+          "asset_ids": [
+            "u04_squares_10"
+          ],
+          "image_required": true,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 2. Nhìn nhóm hình → chọn số\n\n1. ● → `1 / 2 / 3 / 4`\n2. ●● → `4 / 2 / 5 / 3`\n3. 🚗🚗🚗 → `2 / 5 / 3 / 4`\n4. 🧸🧸🧸🧸 → `5 / 4 / 3 / 2`\n5. ◎ ◎ ◎ ◎ ◎ → `3 / 4 / 5 / 1`\n6. △ △ △ △ △ △ → `6 / 8 / 9 / 10`\n7. ☆ ☆ ☆ ☆ ☆ ☆ ☆ → `8 / 6 / 7 / 9`\n8. ○ ○ ○ ○ ○ ○ ○ ○ → `10 / 8 / 7 / 9`\n9. ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → `8 / 10 / 9 / 6`\n10. □ □ □ □ □ □ □ □ □ □ → `9 / 7 / 10 / 8`"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn số",
+      "source_line": 79,
+      "image_required": false,
+      "reason": "Audio plus UI digit choices; no raster required.",
+      "items": [],
+      "source_excerpt": "## 3. Nghe → chọn số\n\nNgười lớn đọc một số từ **1–10**. Bé chọn đúng chữ số.\n\n- `1 / 2 / 3 / 4 / 5`\n- `6 / 7 / 8 / 9 / 10`\n\nLặp lại cho đến khi bé nhận diện đủ **1–10**."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "source_line": 88,
+      "image_required": true,
+      "reason": "Phonics word objects are mapped in the occurrence list.",
+      "items": [
+        {
+          "line": 92,
+          "item": "I i",
+          "source_text": "I i → igloo / jump rope / kangaroo / lion",
+          "asset_ids": [
+            "u04_igloo",
+            "u04_jump_rope",
+            "u04_kangaroo",
+            "u04_lion"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "line": 93,
+          "item": "J j",
+          "source_text": "J j → lion / jump rope / igloo / kangaroo",
+          "asset_ids": [
+            "u04_lion",
+            "u04_jump_rope",
+            "u04_igloo",
+            "u04_kangaroo"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "line": 94,
+          "item": "K k",
+          "source_text": "K k → jump rope / kangaroo / lion / igloo",
+          "asset_ids": [
+            "u04_jump_rope",
+            "u04_kangaroo",
+            "u04_lion",
+            "u04_igloo"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "line": 95,
+          "item": "L l",
+          "source_text": "L l → kangaroo / igloo / lion / jump rope",
+          "asset_ids": [
+            "u04_kangaroo",
+            "u04_igloo",
+            "u04_lion",
+            "u04_jump_rope"
+          ],
+          "image_required": true,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 4. Letters and words\n\nGhép:\n\n- I i → `igloo / jump rope / kangaroo / lion`\n- J j → `lion / jump rope / igloo / kangaroo`\n- K k → `jump rope / kangaroo / lion / igloo`\n- L l → `kangaroo / igloo / lion / jump rope`\n\n---\n\n# Challenge 2 — Listen & Understand\n## Recognition"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 102,
+      "image_required": false,
+      "reason": "Listening-to-text translation choices.",
+      "items": [],
+      "source_excerpt": "## 1. Nghe → chọn nghĩa\n\n### 1.1 “May I come in?”\n- [ ] Em có thể vào không?\n- [ ] Dừng lại.\n\n### 1.2 “Sure! Please come in!”\n- [ ] Được! Mời vào!\n- [ ] Đi đi.\n\n### 1.3 “Please come in!”\n- [ ] Mời vào!\n- [ ] Có bao nhiêu?\n\n### 1.4 “Go.”\n- [ ] Đi.\n- [ ] Dừng lại.\n\n### 1.5 “Stop.”\n- [ ] Đi.\n- [ ] Dừng lại.\n\n### 1.6 “Let's count.”\n- [ ] Hãy đếm.\n- [ ] Mời vào.\n\n### 1.7 “How many?”\n- [ ] Có bao nhiêu?\n- [ ] Đây có phải số 5 không?"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn câu đúng",
+      "source_line": 132,
+      "image_required": false,
+      "reason": "Listening-to-text sentence choices.",
+      "items": [],
+      "source_excerpt": "## 2. Nghe → chọn câu đúng\n\nNgười lớn đọc **May I come in?**\n\n- [ ] How many?\n- [ ] May I come in?\n- [ ] Is it a 5?\n\nNgười lớn đọc **Sure! Please come in!**\n\n- [ ] Sure! Please come in!\n- [ ] Stop.\n- [ ] How many?\n\nNgười lớn đọc **Is it a 9?**\n\n- [ ] Is it a 5?\n- [ ] Is it a 9?\n- [ ] It's a 6."
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "source_line": 152,
+      "image_required": false,
+      "reason": "Dialogue answer choices are text.",
+      "items": [],
+      "source_excerpt": "## 3. Nghe câu hỏi → chọn câu trả lời\n\n### 3.1\n**May I come in?**\n- [ ] Sure! Please come in!\n- [ ] Yes, it is.\n- [ ] How many?\n\n### 3.2\n**Is it a 5?** → `5`\n- [ ] Yes, it is.\n- [ ] No, it isn't. It's a 6.\n- [ ] Please come in!\n\n### 3.3\n**Is it a 9?** → `6`\n- [ ] Yes, it is.\n- [ ] No, it isn't. It's a 6.\n- [ ] Stop."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 172,
+      "image_required": false,
+      "reason": "Child performs Go/Stop; no static raster required.",
+      "items": [],
+      "source_excerpt": "## 4. Nghe → thực hiện\n\nNgười lớn nói ngẫu nhiên:\n\n- Go.\n- Stop.\n\nBé thực hiện đúng hành động.\n\n---\n\n# Challenge 3 — Fill & Recall\n## Recall"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Đếm → chọn số",
+      "source_line": 186,
+      "image_required": true,
+      "reason": "Each item has a dedicated visual occurrence below.",
+      "items": [
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 188,
+          "source_text": "1. ● ● ● → `2 / 3 / 4`",
+          "asset_ids": [
+            "u04_dots_03"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 189,
+          "source_text": "2. 🧸 🧸 🧸 🧸 → `3 / 4 / 5`",
+          "asset_ids": [
+            "u04_teddy_bears_04"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 190,
+          "source_text": "3. ◎ ◎ ◎ ◎ ◎ → `4 / 5 / 6`",
+          "asset_ids": [
+            "u04_rings_05"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 191,
+          "source_text": "4. △ △ △ △ △ △ → `5 / 6 / 7`",
+          "asset_ids": [
+            "u04_triangles_06"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 192,
+          "source_text": "5. ☆ ☆ ☆ ☆ ☆ ☆ ☆ → `6 / 7 / 8`",
+          "asset_ids": [
+            "u04_stars_07"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 193,
+          "source_text": "6. ○ ○ ○ ○ ○ ○ ○ ○ → `7 / 8 / 9`",
+          "asset_ids": [
+            "u04_circles_08"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 194,
+          "source_text": "7. ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → `8 / 9 / 10`",
+          "asset_ids": [
+            "u04_hearts_09"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Đếm → chọn số",
+          "line": 195,
+          "source_text": "8. □ □ □ □ □ □ □ □ □ □ → `8 / 9 / 10`",
+          "asset_ids": [
+            "u04_squares_10"
+          ],
+          "image_required": true,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 1. Đếm → chọn số\n\n1. ● ● ● → `2 / 3 / 4`\n2. 🧸 🧸 🧸 🧸 → `3 / 4 / 5`\n3. ◎ ◎ ◎ ◎ ◎ → `4 / 5 / 6`\n4. △ △ △ △ △ △ → `5 / 6 / 7`\n5. ☆ ☆ ☆ ☆ ☆ ☆ ☆ → `6 / 7 / 8`\n6. ○ ○ ○ ○ ○ ○ ○ ○ → `7 / 8 / 9`\n7. ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → `8 / 9 / 10`\n8. □ □ □ □ □ □ □ □ □ □ → `8 / 9 / 10`"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Điền số còn thiếu",
+      "source_line": 197,
+      "image_required": false,
+      "reason": "Numeric sequence is UI text.",
+      "items": [],
+      "source_excerpt": "## 2. Điền số còn thiếu\n\n1. `1, 2, __, 4, 5`\n2. `1, __, 3, 4, 5`\n3. `__, 2, 3, 4, 5`\n4. `6, __, 8, 9, 10`\n5. `6, 7, 8, __, 10`"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền câu",
+      "source_line": 205,
+      "image_required": false,
+      "reason": "Sentence completion is UI text.",
+      "items": [],
+      "source_excerpt": "## 3. Chọn từ → điền câu\n\n**Kho từ:** `May · come · Sure · Please · count · many`\n\n1. ______ I come in?\n2. May I ______ in?\n3. ______! Please come in!\n4. ______ come in!\n5. Let's ______.\n6. How ______?"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ/cụm từ điền vào chỗ trống",
+      "source_line": 216,
+      "image_required": false,
+      "reason": "Listening and text options.",
+      "items": [],
+      "source_excerpt": "## 4. Nghe → chọn từ/cụm từ điền vào chỗ trống\n\nNghe: **May I come in?**\n\nMay I ______ in?\n\n- [ ] count\n- [ ] come\n- [ ] stop\n\nNghe: **Please come in!**\n\n______ come in!\n\n- [ ] Please\n- [ ] How\n- [ ] Go\n\nNghe: **How many?**\n\nHow ______?\n\n- [ ] come\n- [ ] many\n- [ ] count"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "source_line": 242,
+      "image_required": false,
+      "reason": "Dialogue completion is text; no object cue prescribed.",
+      "items": [],
+      "source_excerpt": "## 5. Giảm hint — dùng context\n\nA: May I come in?  \nB: ______________________________!\n\nA: Is it a 5? → `5`  \nB: ______________________________.\n\nA: Is it a 9? → `6`  \nB: No, ____________________. It's a ______."
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "source_line": 253,
+      "image_required": false,
+      "reason": "Counting sequence is spoken/UI text.",
+      "items": [],
+      "source_excerpt": "## 6. Count Recall\n\nHoàn thành đúng mẫu trong bài:\n\n**Let's count. 1, 2, 3, 4, ____**\n\nSau đó tự đếm:\n\n`1 → 2 → 3 → 4 → 5`\n\n`6 → 7 → 8 → 9 → 10`\n\n---\n\n# Challenge 4 — Build & Match\n## Comprehension"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 270,
+      "image_required": false,
+      "reason": "Word tiles and sentences are UI text.",
+      "items": [],
+      "source_excerpt": "## 1. Chọn từ → ghép thành câu hoàn chỉnh\n\n> Cho sẵn các từ bị xáo trộn, bé chọn và sắp xếp lại thành câu tiếng Anh có nghĩa.\n\n1. `[ come / I / May / in? ]`  \n   → ______________________________\n\n2. `[ come / Please / Sure! / in! ]`  \n   → ______________________________\n\n3. `[ come / Please / in! ]`  \n   → ______________________________\n\n4. `[ count. / Let's ]`  \n   → ______________________________\n\n5. `[ count. / Let's / 1, / 3. / 2, ]`  \n   → ______________________________\n\n6. `[ many? / How ]`  \n   → ______________________________\n\n7. `[ 5? / Is / a / it ]`  \n   → ______________________________\n\n8. `[ is. / Yes, / it ]`  \n   → ______________________________\n\n9. `[ a / Is / 9? / it ]`  \n   → ______________________________\n\n10. `[ isn't. / a / No, / 6. / It's / it ]`  \n    → ______________________________\n\n11. `[ Go. ]`  \n    → ______________________________\n\n12. `[ Stop. ]`  \n    → ______________________________"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "source_line": 310,
+      "image_required": false,
+      "reason": "Question/answer table is text.",
+      "items": [],
+      "source_excerpt": "## 2. Ghép câu hỏi → câu trả lời\n\n| Question | Answer |\n|---|---|\n| 1. May I come in? | A. Yes, it is. |\n| 2. Is it a 5? → 5 | B. Sure! Please come in! |\n| 3. Is it a 9? → 6 | C. No, it isn't. It's a 6. |"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics I–L)",
+      "source_line": 318,
+      "image_required": true,
+      "reason": "Phonics objects are mapped in the occurrence list.",
+      "items": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics I–L)",
+          "line": 322,
+          "source_text": "- i g l _ _ *(igloo)* 🛖",
+          "asset_ids": [
+            "u04_igloo"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics I–L)",
+          "line": 323,
+          "source_text": "- j _ m p   r o p e *(jump rope)* 🪢",
+          "asset_ids": [
+            "u04_jump_rope"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics I–L)",
+          "line": 324,
+          "source_text": "- k _ n g a r o o *(kangaroo)* 🦘",
+          "asset_ids": [
+            "u04_kangaroo"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics I–L)",
+          "line": 325,
+          "source_text": "- l _ o n *(lion)* 🦁",
+          "asset_ids": [
+            "u04_lion"
+          ],
+          "image_required": true,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 3. Letters & words (Phonics I–L)\n\nĐiền chữ cái còn thiếu:\n\n- i g l _ _ *(igloo)* 🛖\n- j _ m p   r o p e *(jump rope)* 🪢\n- k _ n g a r o o *(kangaroo)* 🦘\n- l _ o n *(lion)* 🦁\n\nNối chữ với từ đúng:\n- I i → `[ igloo / jump rope / kangaroo / lion ]`\n- J j → `[ jump rope / igloo / lion / kangaroo ]`\n- K k → `[ kangaroo / lion / igloo / jump rope ]`\n- L l → `[ lion / kangaroo / jump rope / igloo ]`\n\n---\n\n# Challenge 5 — Final Boss\n## Production\n\n> Giảm tối đa hint. Bé tự chọn, nói hoặc viết."
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "source_line": 340,
+      "image_required": false,
+      "reason": "Digit recognition uses UI text.",
+      "items": [],
+      "source_excerpt": "## 1. Quick Recognition\n\n`7`\n\n- [ ] 6\n- [ ] 8\n- [ ] 7\n- [ ] 9\n\n`10`\n\n- [ ] 8\n- [ ] 10\n- [ ] 6\n- [ ] 9"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Đếm không có hint",
+      "source_line": 356,
+      "image_required": true,
+      "reason": "Each item has a dedicated visual occurrence below.",
+      "items": [
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 358,
+          "source_text": "● → ______",
+          "asset_ids": [
+            "u04_dots_01"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 360,
+          "source_text": "● ● → ______",
+          "asset_ids": [
+            "u04_dots_02"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 362,
+          "source_text": "● ● ● → ______",
+          "asset_ids": [
+            "u04_dots_03"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 364,
+          "source_text": "● ● ● ● → ______",
+          "asset_ids": [
+            "u04_dots_04"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 366,
+          "source_text": "● ● ● ● ● → ______",
+          "asset_ids": [
+            "u04_dots_05"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 368,
+          "source_text": "△ △ △ △ △ △ → ______",
+          "asset_ids": [
+            "u04_triangles_06"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 370,
+          "source_text": "☆ ☆ ☆ ☆ ☆ ☆ ☆ → ______",
+          "asset_ids": [
+            "u04_stars_07"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 372,
+          "source_text": "○ ○ ○ ○ ○ ○ ○ ○ → ______",
+          "asset_ids": [
+            "u04_circles_08"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 374,
+          "source_text": "♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → ______",
+          "asset_ids": [
+            "u04_hearts_09"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Đếm không có hint",
+          "line": 376,
+          "source_text": "□ □ □ □ □ □ □ □ □ □ → ______",
+          "asset_ids": [
+            "u04_squares_10"
+          ],
+          "image_required": true,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 2. Đếm không có hint\n\n● → ______\n\n● ● → ______\n\n● ● ● → ______\n\n● ● ● ● → ______\n\n● ● ● ● ● → ______\n\n△ △ △ △ △ △ → ______\n\n☆ ☆ ☆ ☆ ☆ ☆ ☆ → ______\n\n○ ○ ○ ○ ○ ○ ○ ○ → ______\n\n♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ ♡ → ______\n\n□ □ □ □ □ □ □ □ □ □ → ______"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Tự nói chuỗi số",
+      "source_line": 378,
+      "image_required": false,
+      "reason": "Spoken number sequence; no raster required.",
+      "items": [],
+      "source_excerpt": "## 3. Tự nói chuỗi số\n\nNói theo thứ tự:\n\n`1 → ___ → ___ → ___ → 5`\n\n`6 → ___ → ___ → ___ → 10`\n\nSau đó nói toàn bộ **1–10** mà không nhìn mẫu."
+    },
+    {
+      "challenge": 5,
+      "section": "4. Conversation — tự hoàn thành",
+      "source_line": 388,
+      "image_required": true,
+      "reason": "Only situation 2 needs the seven-car visual; other situations are text/dialogue.",
+      "items": [
+        {
+          "line": 400,
+          "item": "Tình huống 1",
+          "source_text": "May I come in? / Sure! Please come in!",
+          "asset_ids": [],
+          "image_required": false,
+          "needs_context": false
+        },
+        {
+          "line": 400,
+          "item": "Tình huống 2",
+          "source_text": "How many? / 7 cars.",
+          "asset_ids": [
+            "u04_cars_07"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "line": 400,
+          "item": "Tình huống 3",
+          "source_text": "Is it a 5? / Yes, it is.",
+          "asset_ids": [],
+          "image_required": false,
+          "needs_context": false
+        },
+        {
+          "line": 400,
+          "item": "Tình huống 4",
+          "source_text": "Is it a 9? / No, it isn't. It's a 6.",
+          "asset_ids": [],
+          "image_required": false,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 4. Conversation — tự hoàn thành\n\n### Tình huống 1\n\n### Tình huống 1 (Xin phép vào)\n*Mẫu gợi ý:*\n- Bé gõ cửa: *\"May I come in?\"*\n- Người lớn: *\"Sure! Please come in!\"* (hoặc *\"Please come in!\"*)\n\nA: May I come in?  \nB: ______________________________ *(Sure! Please come in!)*\n\n### Tình huống 2 (Đếm số lượng đồ vật 🚗)\n*Mẫu gợi ý:*\n- Người lớn: *\"How many?\"*\n- Bé trả lời: *\"7 cars.\"* (hoặc *\"7.\"*)\n\nA: How many?  \nB: ______________________________. *(7 cars.)*\n\n### Tình huống 3 (Đoán số đúng 5)\n*Mẫu gợi ý:*\n- Người lớn: *\"Is it a 5?\"*\n- Bé trả lời: *\"Yes, it is.\"*\n\nA: Is it a 5?  \nB: ______________________________. *(Yes, it is.)*\n\n### Tình huống 4 (Đoán số sai 6 và 9)\n*Mẫu gợi ý:*\n- Người lớn: *\"Is it a 9?\"*\n- Bé trả lời: *\"No, it isn't. It's a 6.\"*\n\nA: Is it a 9?  \nB: ______________________________. *(No, it isn't. It's a 6.)*"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Build without hint",
+      "source_line": 424,
+      "image_required": false,
+      "reason": "Word tiles are UI text.",
+      "items": [],
+      "source_excerpt": "## 5. Build without hint\n\n`come / May / I / in`  \n→ ______________________________\n\n`many / How`  \n→ ______________________________\n\n`it / a / Is / 9`  \n→ ______________________________\n\n`6 / a / It's`  \n→ ______________________________"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "source_line": 438,
+      "image_required": false,
+      "reason": "Child performs Go/Stop; no static raster required.",
+      "items": [],
+      "source_excerpt": "## 6. Commands — Nghe và làm\n\nNgười lớn nói ngẫu nhiên:\n\n- Go. *(Bé bước đi)*\n- Stop. *(Bé đứng lại)*\n\nSau đó bé tự nói lại câu lệnh."
+    },
+    {
+      "challenge": 5,
+      "section": "7. I–L Phonics Production",
+      "source_line": 447,
+      "image_required": true,
+      "reason": "Phonics objects are mapped in the occurrence list.",
+      "items": [
+        {
+          "challenge": 5,
+          "section": "7. I–L Phonics Production",
+          "line": 451,
+          "source_text": "- I i → **igloo** 🛖",
+          "asset_ids": [
+            "u04_igloo"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "7. I–L Phonics Production",
+          "line": 452,
+          "source_text": "- J j → **jump rope** 🪢",
+          "asset_ids": [
+            "u04_jump_rope"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "7. I–L Phonics Production",
+          "line": 453,
+          "source_text": "- K k → **kangaroo** 🦘",
+          "asset_ids": [
+            "u04_kangaroo"
+          ],
+          "image_required": true,
+          "needs_context": false
+        },
+        {
+          "challenge": 5,
+          "section": "7. I–L Phonics Production",
+          "line": 454,
+          "source_text": "- L l → **lion** 🦁",
+          "asset_ids": [
+            "u04_lion"
+          ],
+          "image_required": true,
+          "needs_context": false
+        }
+      ],
+      "source_excerpt": "## 7. I–L Phonics Production\n\nNhìn chữ → tự nói to từ tương ứng:\n\n- I i → **igloo** 🛖\n- J j → **jump rope** 🪢\n- K k → **kangaroo** 🦘\n- L l → **lion** 🦁"
+    },
+    {
+      "challenge": 5,
+      "section": "8. Final Boss — Count & Ask",
+      "source_line": 456,
+      "image_required": true,
+      "reason": "Teacher points at one reusable count group; no new raster is generated beyond the mapped group cards.",
+      "items": [
+        {
+          "line": 456,
+          "item": "teacher-selected count group",
+          "source_text": "Người lớn chỉ nhóm hình và hỏi: How many?",
+          "asset_ids": [
+            "u04_dots_01",
+            "u04_dots_02",
+            "u04_dots_03",
+            "u04_dots_04",
+            "u04_dots_05",
+            "u04_rings_05",
+            "u04_triangles_06",
+            "u04_stars_07",
+            "u04_circles_08",
+            "u04_hearts_09",
+            "u04_squares_10",
+            "u04_cars_03",
+            "u04_teddy_bears_04",
+            "u04_cars_07"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "reuse_existing": true
+        }
+      ],
+      "source_excerpt": "## 8. Final Boss — Count & Ask\n\nNgười lớn chỉ nhóm hình và hỏi: **\"How many?\"**  \nBé chỉ tay đếm to: **\"1, 2, 3...\"** và nói tổng số.\n\n---\n\n# Coverage Check\n\n| Nội dung PDF | Đã kiểm tra |\n|---|---|\n| 1, 2, 3, 4, 5 | ✓ |\n| 6, 7, 8, 9, 10 | ✓ |\n| May I come in? | ✓ |\n| Sure! Please come in! | ✓ |\n| Please come in! | ✓ |\n| Go. | ✓ |\n| Stop. | ✓ |\n| Let's count. | ✓ |\n| Let's count. 1, 2, 3. | ✓ |\n| Let's count. 1, 2, 3, 4, ... | ✓ |\n| How many? | ✓ |\n| Is it a 5? | ✓ |\n| Yes, it is. | ✓ |\n| Is it a 9? | ✓ |\n| No, it isn't. It's a 6. | ✓ |\n| I i — igloo | ✓ |\n| J j — jump rope | ✓ |\n| K k — kangaroo | ✓ |\n| L l — lion | ✓ |\n\n**Phạm vi:** xem bảng đối chiếu nội dung bên trên; bộ trang học chính và Challenge luyện thêm được quản lý riêng.\n\n---\n\n<!-- challenge-audio-notes -->\n# Ghi chú audio cần bổ sung cho Challenge – Unit 4\n\n**Người bổ sung:** chủ dự án tự chuẩn bị. Các file dưới đây là tên gợi ý, chưa có audio tương ứng và chưa đánh dấu hoàn thành. Audio theo track của bài học chính đã có, không thay thế mặc định các clip ngắn này.\n\nĐây là kho bản thu theo từ vựng/câu mẫu để tái sử dụng giữa các Challenge. Mỗi dòng thu một clip; câu trùng dùng chung một file. Các mục không có bài nghe riêng có thể thu sau. Với mục chọn từ ngẫu nhiên, ứng dụng phải chọn một từ có trong các lựa chọn của câu đó; không tự mặc định đáp án nếu chưa chọn clip.\n\n| Đã có | Tên file gợi ý | Nội dung cần đọc |\n|---|---|---|\n| ☐ | `u4_may_i_come_in.mp3` | May I come in? |\n| ☐ | `u4_sure_please_come_in.mp3` | Sure! Please come in! |\n| ☐ | `u4_please_come_in.mp3` | Please come in! |\n| ☐ | `u4_let_s_count_1_2_3.mp3` | Let's count. 1, 2, 3. |\n| ☐ | `u4_let_s_count_1_2_3_4.mp3` | Let's count. 1, 2, 3, 4, ... |\n| ☐ | `u4_how_many.mp3` | How many? |\n| ☐ | `u4_is_it_a_5.mp3` | Is it a 5? |\n| ☐ | `u4_yes_it_is.mp3` | Yes, it is. |\n| ☐ | `u4_is_it_a_9.mp3` | Is it a 9? |\n| ☐ | `u4_no_it_isn_t_it_s_a_6.mp3` | No, it isn't. It's a 6. |\n| ☐ | `u4_go.mp3` | Go. |\n| ☐ | `u4_stop.mp3` | Stop. |\n| ☐ | `u4_i_i_igloo.mp3` | I i — igloo |\n| ☐ | `u4_j_j_jump_rope.mp3` | J j — jump rope |\n| ☐ | `u4_k_k_kangaroo.mp3` | K k — kangaroo |\n| ☐ | `u4_l_l_lion.mp3` | L l — lion |\n\nNếu thu hội thoại, đọc đủ hai lượt hỏi/đáp theo bài và lưu clip riêng. Giọng Boss khác giọng bài học là tùy chọn. Khi có file, bổ sung đường dẫn thực tế và nối đúng câu luyện tập; không đánh dấu chỉ vì file được liệt kê.\n<!-- /challenge-audio-notes -->\n\n## Rà soát clip nghe bắt buộc và dùng chung\n\nCác clip câu mẫu trong bảng trên là bắt buộc cho Challenge 2, Challenge 3.4 và các bài nghe lệnh. Dùng chung May I come in?, Sure! Please come in!, Please come in!, Is it a 5?, Is it a 9?, How many?, Go., Stop. giữa các câu; không cần thu bản trùng. Bảng bổ sung dưới đây vá các mục bộ dò tự động chưa liệt kê. Chưa có file nào trong checklist được tạo hoặc đánh dấu đã có.\n\n| Đã có | File gợi ý | Nội dung | Dùng cho |\n|---|---|---|---|\n| ☐ | `u4_one.mp3` | one | Challenge 1.3 |\n| ☐ | `u4_two.mp3` | two | Challenge 1.3 |\n| ☐ | `u4_three.mp3` | three | Challenge 1.3 |\n| ☐ | `u4_four.mp3` | four | Challenge 1.3 |\n| ☐ | `u4_five.mp3` | five | Challenge 1.3 |\n| ☐ | `u4_six.mp3` | six | Challenge 1.3 |\n| ☐ | `u4_seven.mp3` | seven | Challenge 1.3 |\n| ☐ | `u4_eight.mp3` | eight | Challenge 1.3 |\n| ☐ | `u4_nine.mp3` | nine | Challenge 1.3 |\n| ☐ | `u4_ten.mp3` | ten | Challenge 1.3 |\n| ☐ | `u4_lets_count.mp3` | Let's count. | Challenge 2.1.6 |\n| ☐ | `u4_igloo.mp3` | igloo | Phonics: tùy chọn |\n| ☐ | `u4_jump_rope.mp3` | jump rope | Phonics: tùy chọn |\n| ☐ | `u4_kangaroo.mp3` | kangaroo | Phonics: tùy chọn |\n| ☐ | `u4_lion.mp3` | lion | Phonics: tùy chọn |\n\nChallenge 1.3 cần đủ mười clip one–ten và chọn ngẫu nhiên trong tập lựa chọn đang hiển thị. Challenge 2.3 nghe câu hỏi dùng clip câu hỏi; nếu phát cả hội thoại thì thu riêng hai lượt May I come in? / Sure! Please come in!, Is it a 5? / Yes, it is., Is it a 9? / No, it isn't. It's a 6. Các clip Yes, it is. và No, it isn't. It's a 6. có thể tái sử dụng. Đọc đáp án mẫu, chuỗi số, bảng chữ cái A–Z và giọng Boss là tùy chọn; không thay clip nghe bắt buộc. Bài tự nói/viết không bắt buộc audio."
+    }
+  ],
+  "unresolved_context": [],
+  "coverage_note": "All 18 required IDs are reused across every visual occurrence; text/audio/action sections explicitly carry image_required=false."
+}

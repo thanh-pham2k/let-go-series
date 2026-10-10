@@ -1,0 +1,77 @@
+[
+  {
+    "set": "unit-01",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\batches\\doll-final-imagegen.json"
+    ],
+    "distinct_actual_prompts": 1
+  },
+  {
+    "set": "unit-02",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\batches\\generation-log.json"
+    ],
+    "distinct_actual_prompts": 8
+  },
+  {
+    "set": "unit-04",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\batches\\generation-log.json"
+    ],
+    "distinct_actual_prompts": 3
+  },
+  {
+    "set": "unit-05",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\references\\imagegen-repair-log.json"
+    ],
+    "distinct_actual_prompts": 4
+  },
+  {
+    "set": "unit-06",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\batches\\imagegen-provenance.json"
+    ],
+    "distinct_actual_prompts": 8
+  },
+  {
+    "set": "unit-07",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\batches\\generation-log.json"
+    ],
+    "distinct_actual_prompts": 3
+  },
+  {
+    "set": "unit-08",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\generation-log.json",
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch1-actions.json",
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch2-phonics.json",
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\batch3-conditional.json",
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\repair-cannot-fly-kite.json",
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\repair-play-tag.json"
+    ],
+    "distinct_actual_prompts": 5
+  },
+  {
+    "set": "review-1-2",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\batches\\imagegen-log.json"
+    ],
+    "distinct_actual_prompts": 9
+  },
+  {
+    "set": "review-5-6",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\provenance.json"
+    ],
+    "distinct_actual_prompts": 15
+  },
+  {
+    "set": "review-7-8",
+    "logs": [
+      "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\batches\\action-cleanup.json"
+    ],
+    "distinct_actual_prompts": 1
+  }
+]

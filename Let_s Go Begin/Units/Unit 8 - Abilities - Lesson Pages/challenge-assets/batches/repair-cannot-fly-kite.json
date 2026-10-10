@@ -1,0 +1,31 @@
+{
+  "job_id": "u08_repair_cannot_fly_kite",
+  "generation_log": "batches/generation-log.json",
+  "exact_prompt": "Use case: precise-object-edit.\nAsset type: one square educational illustration card for the Unit 8 Challenge.\nInput images: Image 1 is the edit target, the current cannot-fly-kite card. Image 2 is the character reference, the current fly-kite positive card.\nChange only the child, clothing and kite identity in Image 1 so they match Image 2: use the same black-haired boy, same red long-sleeve shirt, same light-blue shorts and white sneakers, and the same orange-yellow diamond kite with red bow tails. Keep the inability scene: the boy is worried and puzzled, the orange-yellow kite lies on the grass, the line is visibly slack and tangled on the ground, and the boy is not successfully flying it. Preserve the bright Let’s Go Begin textbook cartoon style, bold clean outlines, soft shading, child-friendly outdoor park background, and square composition. Show the full child and kite with safe margins. Do not add an X, words, labels, speech bubbles, numbers, answer text, watermark or panel ID.",
+  "reference_input_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp"
+  ],
+  "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-02bfd40d-5529-4c8a-b3d6-341087038e4f.png",
+  "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\repair-cannot-fly-kite.png",
+  "repair_id": "repair-cannot-fly-kite",
+  "tool": "built-in image_gen",
+  "target": "webp/u08_cannot_fly_kite.webp",
+  "references": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp"
+  ],
+  "reason": "Root visual QA required the negative card to use the same child, clothing and kite identity as the positive fly-kite card.",
+  "result": "Same black-haired boy, red long-sleeve shirt, light-blue shorts, white sneakers and orange-yellow kite; kite grounded with slack tangled line; no X or text.",
+  "export": {
+    "size": [
+      512,
+      512
+    ],
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "file_bytes": 42430
+  },
+  "visual_review": "passed"
+}

@@ -1,0 +1,1087 @@
+{
+  "schema_version": 1,
+  "unit": 6,
+  "topic": "Food",
+  "scope": "Challenge 1-5",
+  "asset_count": 15,
+  "required_ids": [
+    "u06_ice_cream",
+    "u06_pizza",
+    "u06_cake",
+    "u06_chicken",
+    "u06_milk",
+    "u06_fish",
+    "u06_bread",
+    "u06_rice",
+    "u06_queen",
+    "u06_rabbit",
+    "u06_sun",
+    "u06_tiger",
+    "u06_birds",
+    "u06_likes_milk",
+    "u06_dislikes_fish"
+  ],
+  "export": {
+    "format": "webp",
+    "width": 512,
+    "height": 512,
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "assets": [
+    {
+      "id": "u06_ice_cream",
+      "semantic": {
+        "type": "food",
+        "item": "ice cream"
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 276,
+          "cue_line": 276,
+          "asset_id": "u06_ice_cream",
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "expected_answer": "ice cream",
+          "accepted_answers": [
+            "ice cream"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "6. I like ________."
+        }
+      ],
+      "file": "webp/u06_ice_cream.webp",
+      "webp": "webp/u06_ice_cream.webp",
+      "files": [
+        "webp/u06_ice_cream.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8844,
+      "sha256": "f5fe707476b5c78cf0cac19740cfaa4bc7d95311e8866b9b2d1e5fb4bac33cfc",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        724,
+        680,
+        1055,
+        1086
+      ],
+      "source_crop_size": [
+        331,
+        406
+      ],
+      "visual_review": {
+        "sha256": "f5fe707476b5c78cf0cac19740cfaa4bc7d95311e8866b9b2d1e5fb4bac33cfc",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f5fe707476b5c78cf0cac19740cfaa4bc7d95311e8866b9b2d1e5fb4bac33cfc",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          331,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_pizza",
+      "semantic": {
+        "type": "food",
+        "item": "pizza"
+      },
+      "file": "webp/u06_pizza.webp",
+      "webp": "webp/u06_pizza.webp",
+      "files": [
+        "webp/u06_pizza.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 27422,
+      "sha256": "841554fbec6ee2fd2d5c6c046ea6b745cac76f33f8c7b5f5572b53ba3fd4afe6",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        1055,
+        680,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        393,
+        406
+      ],
+      "visual_review": {
+        "sha256": "841554fbec6ee2fd2d5c6c046ea6b745cac76f33f8c7b5f5572b53ba3fd4afe6",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "841554fbec6ee2fd2d5c6c046ea6b745cac76f33f8c7b5f5572b53ba3fd4afe6",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          393,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_cake",
+      "semantic": {
+        "type": "food",
+        "item": "cake"
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 273,
+          "cue_line": 273,
+          "asset_id": "u06_cake",
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "expected_answer": "cake",
+          "accepted_answers": [
+            "cake"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "3. I like ________."
+        }
+      ],
+      "file": "webp/u06_cake.webp",
+      "webp": "webp/u06_cake.webp",
+      "files": [
+        "webp/u06_cake.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 21626,
+      "sha256": "f45e2ab7e0613414333898b48651269b5250be422591e74c14df0037f3289531",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        0,
+        0,
+        370,
+        350
+      ],
+      "source_crop_size": [
+        370,
+        350
+      ],
+      "visual_review": {
+        "sha256": "f45e2ab7e0613414333898b48651269b5250be422591e74c14df0037f3289531",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "f45e2ab7e0613414333898b48651269b5250be422591e74c14df0037f3289531",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          370,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_chicken",
+      "semantic": {
+        "type": "food",
+        "item": "chicken",
+        "state": "cooked_meal"
+      },
+      "file": "webp/u06_chicken.webp",
+      "webp": "webp/u06_chicken.webp",
+      "files": [
+        "webp/u06_chicken.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18696,
+      "sha256": "252443120c7e0221482cdc77f3618fa8bbbc8d02d11e4e36cc7de0adaf0e0bc1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        370,
+        0,
+        760,
+        350
+      ],
+      "source_crop_size": [
+        390,
+        350
+      ],
+      "visual_review": {
+        "sha256": "252443120c7e0221482cdc77f3618fa8bbbc8d02d11e4e36cc7de0adaf0e0bc1",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "252443120c7e0221482cdc77f3618fa8bbbc8d02d11e4e36cc7de0adaf0e0bc1",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          390,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_milk",
+      "semantic": {
+        "type": "food",
+        "item": "milk"
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 274,
+          "cue_line": 274,
+          "asset_id": "u06_milk",
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "expected_answer": "milk",
+          "accepted_answers": [
+            "milk"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "4. Do you like ________?"
+        }
+      ],
+      "file": "webp/u06_milk.webp",
+      "webp": "webp/u06_milk.webp",
+      "files": [
+        "webp/u06_milk.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12106,
+      "sha256": "4f50a50ad1219fc42b75791595b11c7bbc943e12630246067fbdb1c6f3b2c288",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        760,
+        0,
+        1060,
+        350
+      ],
+      "source_crop_size": [
+        300,
+        350
+      ],
+      "visual_review": {
+        "sha256": "4f50a50ad1219fc42b75791595b11c7bbc943e12630246067fbdb1c6f3b2c288",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "4f50a50ad1219fc42b75791595b11c7bbc943e12630246067fbdb1c6f3b2c288",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          300,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_fish",
+      "semantic": {
+        "type": "food",
+        "item": "fish",
+        "state": "food_on_plate"
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 275,
+          "cue_line": 275,
+          "asset_id": "u06_fish",
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "expected_answer": "fish",
+          "accepted_answers": [
+            "fish"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "5. Do you like ________?"
+        }
+      ],
+      "file": "webp/u06_fish.webp",
+      "webp": "webp/u06_fish.webp",
+      "files": [
+        "webp/u06_fish.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15146,
+      "sha256": "3802ce263e16f00cfb078e6edc7f6a9034bacb511663e3ecb9abd8bcbfb6dc62",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        1060,
+        0,
+        1448,
+        350
+      ],
+      "source_crop_size": [
+        388,
+        350
+      ],
+      "visual_review": {
+        "sha256": "3802ce263e16f00cfb078e6edc7f6a9034bacb511663e3ecb9abd8bcbfb6dc62",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "3802ce263e16f00cfb078e6edc7f6a9034bacb511663e3ecb9abd8bcbfb6dc62",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          388,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_bread",
+      "semantic": {
+        "type": "food",
+        "item": "bread"
+      },
+      "file": "webp/u06_bread.webp",
+      "webp": "webp/u06_bread.webp",
+      "files": [
+        "webp/u06_bread.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11966,
+      "sha256": "53cb5ce4fbe5c02512e33a53e6175701ffd1e29f6606b034169eaf089953de04",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        0,
+        350,
+        380,
+        680
+      ],
+      "source_crop_size": [
+        380,
+        330
+      ],
+      "visual_review": {
+        "sha256": "53cb5ce4fbe5c02512e33a53e6175701ffd1e29f6606b034169eaf089953de04",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "53cb5ce4fbe5c02512e33a53e6175701ffd1e29f6606b034169eaf089953de04",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          380,
+          330
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_rice",
+      "semantic": {
+        "type": "food",
+        "item": "rice"
+      },
+      "file": "webp/u06_rice.webp",
+      "webp": "webp/u06_rice.webp",
+      "files": [
+        "webp/u06_rice.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15364,
+      "sha256": "3f2a97771727bfd324ba20f5052814c491cc71def1c79379b4f7069fe1c11446",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        380,
+        350,
+        740,
+        680
+      ],
+      "source_crop_size": [
+        360,
+        330
+      ],
+      "visual_review": {
+        "sha256": "3f2a97771727bfd324ba20f5052814c491cc71def1c79379b4f7069fe1c11446",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "3f2a97771727bfd324ba20f5052814c491cc71def1c79379b4f7069fe1c11446",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+        ],
+        "resized_from": [
+          360,
+          330
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_queen",
+      "semantic": {
+        "type": "phonics",
+        "word": "queen"
+      },
+      "file": "webp/u06_queen.webp",
+      "webp": "webp/u06_queen.webp",
+      "files": [
+        "webp/u06_queen.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 24018,
+      "sha256": "e0959ced0145d238ef05df5ddf979ef812b599a95fd63575178cc3b291ec785f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        740,
+        350,
+        1060,
+        750
+      ],
+      "source_crop_size": [
+        320,
+        400
+      ],
+      "visual_review": {
+        "sha256": "e0959ced0145d238ef05df5ddf979ef812b599a95fd63575178cc3b291ec785f",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "e0959ced0145d238ef05df5ddf979ef812b599a95fd63575178cc3b291ec785f",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+        ],
+        "resized_from": [
+          320,
+          400
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_rabbit",
+      "semantic": {
+        "type": "phonics",
+        "word": "rabbit"
+      },
+      "file": "webp/u06_rabbit.webp",
+      "webp": "webp/u06_rabbit.webp",
+      "files": [
+        "webp/u06_rabbit.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13010,
+      "sha256": "a3b67e32bf0b9cd435bc005d26ccf403ef89227f769de0bd45a52c81d89811db",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        1060,
+        350,
+        1448,
+        700
+      ],
+      "source_crop_size": [
+        388,
+        350
+      ],
+      "visual_review": {
+        "sha256": "a3b67e32bf0b9cd435bc005d26ccf403ef89227f769de0bd45a52c81d89811db",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "a3b67e32bf0b9cd435bc005d26ccf403ef89227f769de0bd45a52c81d89811db",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+        ],
+        "resized_from": [
+          388,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_sun",
+      "semantic": {
+        "type": "phonics",
+        "word": "sun"
+      },
+      "file": "webp/u06_sun.webp",
+      "webp": "webp/u06_sun.webp",
+      "files": [
+        "webp/u06_sun.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11172,
+      "sha256": "d6df64b33bcb358c52a8f57fb2ec4815e7bf73a598d5e17ed11f621b5f4e5246",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        0,
+        680,
+        370,
+        1086
+      ],
+      "source_crop_size": [
+        370,
+        406
+      ],
+      "visual_review": {
+        "sha256": "d6df64b33bcb358c52a8f57fb2ec4815e7bf73a598d5e17ed11f621b5f4e5246",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "d6df64b33bcb358c52a8f57fb2ec4815e7bf73a598d5e17ed11f621b5f4e5246",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+        ],
+        "resized_from": [
+          370,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_tiger",
+      "semantic": {
+        "type": "phonics",
+        "word": "tiger"
+      },
+      "file": "webp/u06_tiger.webp",
+      "webp": "webp/u06_tiger.webp",
+      "files": [
+        "webp/u06_tiger.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 23354,
+      "sha256": "dc654f67b10943f64e562f67418cef7f4182c8cf7ad3a38e4234e4eb5db7bf87",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        370,
+        680,
+        730,
+        1086
+      ],
+      "source_crop_size": [
+        360,
+        406
+      ],
+      "visual_review": {
+        "sha256": "dc654f67b10943f64e562f67418cef7f4182c8cf7ad3a38e4234e4eb5db7bf87",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "dc654f67b10943f64e562f67418cef7f4182c8cf7ad3a38e4234e4eb5db7bf87",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+        ],
+        "resized_from": [
+          360,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_birds",
+      "semantic": {
+        "type": "animals",
+        "item": "birds",
+        "count": 5,
+        "adaptation": "plural_group_not_counting_task"
+      },
+      "file": "webp/u06_birds.webp",
+      "webp": "webp/u06_birds.webp",
+      "files": [
+        "webp/u06_birds.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16810,
+      "sha256": "06430351f21edb166096b57761e2acc4c4d626aeee46bfd3903425fa9b286741",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        730,
+        760,
+        1080,
+        1086
+      ],
+      "source_crop_size": [
+        350,
+        326
+      ],
+      "visual_review": {
+        "sha256": "06430351f21edb166096b57761e2acc4c4d626aeee46bfd3903425fa9b286741",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "06430351f21edb166096b57761e2acc4c4d626aeee46bfd3903425fa9b286741",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          350,
+          326
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_likes_milk",
+      "semantic": {
+        "type": "food_preference_scene",
+        "food": "milk",
+        "state": "likes",
+        "response": "Yes, I do."
+      },
+      "file": "webp/u06_likes_milk.webp",
+      "webp": "webp/u06_likes_milk.webp",
+      "files": [
+        "webp/u06_likes_milk.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 19052,
+      "sha256": "9a11f9ee6040da5ef3a7962bb18d3a90bcc3dbc4beb541a70a7a2a3dc7e3d7bb",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-08/master.png",
+      "crop_box": [
+        1080,
+        700,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        368,
+        386
+      ],
+      "visual_review": {
+        "sha256": "9a11f9ee6040da5ef3a7962bb18d3a90bcc3dbc4beb541a70a7a2a3dc7e3d7bb",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "9a11f9ee6040da5ef3a7962bb18d3a90bcc3dbc4beb541a70a7a2a3dc7e3d7bb",
+        "status": "pass",
+        "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-08\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 8,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-08/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png"
+        ],
+        "resized_from": [
+          368,
+          386
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u06_dislikes_fish",
+      "semantic": {
+        "type": "food_preference_scene",
+        "food": "fish",
+        "state": "dislikes",
+        "response": "No, I don't.",
+        "fish_state": "cooked_food_on_plate"
+      },
+      "file": "webp/u06_dislikes_fish.webp",
+      "webp": "webp/u06_dislikes_fish.webp",
+      "files": [
+        "webp/u06_dislikes_fish.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 24658,
+      "sha256": "bc4e913bc8d919d1923f71122ae5eb011826d77b56febed8791b58205628bed2",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-09/master.png",
+      "crop_box": [
+        0,
+        0,
+        375,
+        378
+      ],
+      "source_crop_size": [
+        375,
+        378
+      ],
+      "visual_review": {
+        "sha256": "bc4e913bc8d919d1923f71122ae5eb011826d77b56febed8791b58205628bed2",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "bc4e913bc8d919d1923f71122ae5eb011826d77b56febed8791b58205628bed2",
+        "status": "pass",
+        "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-09\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 9,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-09/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png"
+        ],
+        "resized_from": [
+          375,
+          378
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "batches": [
+    {
+      "file": "batches/unit6-challenge-assets-contact-sheet.jpg",
+      "ids": "all 15 assets",
+      "status": "reviewed"
+    },
+    {
+      "file": "batches/imagegen-provenance.json",
+      "ids": "u06_ice_cream,u06_cake,u06_queen,u06_rabbit,u06_sun,u06_tiger,u06_likes_milk,u06_dislikes_fish",
+      "status": "prompt_tool_reference_result_logged"
+    }
+  ],
+  "notes": [
+    "All final WebP files are 512x512 and below 60 KB.",
+    "No text, answer label, speech bubble, or panel ID appears in the final cards.",
+    "Phonics and fixed preference cards were generated from the lesson visual style; ice cream and cake were full-object edits to preserve complete contours, while the remaining food and bird cards were cropped from lesson references."
+  ],
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-06\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

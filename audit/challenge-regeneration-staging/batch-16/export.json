@@ -1,0 +1,322 @@
+{
+  "batch": 16,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "r56_cake",
+      "crop_box": [
+        0,
+        0,
+        362,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17388,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cake.webp",
+      "sha256": "c400fbac7ef75e1dc6b6878c76325e51e9ba2aa552d82888429fbdffc9ea80ba"
+    },
+    {
+      "id": "r56_bread",
+      "crop_box": [
+        362,
+        0,
+        724,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10734,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_bread.webp",
+      "sha256": "f4b2d8a04f7c1b08e4f94df191d5a1b859f5abe60daf80b3a7a5e39af0272489"
+    },
+    {
+      "id": "r56_rice",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17122,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rice.webp",
+      "sha256": "fb0e7c2322504db8435f5d5ef77226a2b05defb3d80f942cfaf7d43da4621f7a"
+    },
+    {
+      "id": "r56_skip",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16950,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_skip.webp",
+      "sha256": "c2a7f466db2852142331a59cea109c8230f49bca12173df6043eaa06b46c19a1"
+    },
+    {
+      "id": "r56_jump",
+      "crop_box": [
+        0,
+        355,
+        300,
+        710
+      ],
+      "original_cell_size": [
+        300,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14084,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_jump.webp",
+      "sha256": "098938cfc833c1ca0a5dbb6009f24c72d3c762b98fcf113e930222e1e0b71ab8"
+    },
+    {
+      "id": "r56_make_line",
+      "crop_box": [
+        300,
+        355,
+        725,
+        710
+      ],
+      "original_cell_size": [
+        425,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 32550,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_make_line.webp",
+      "sha256": "83fa00bb45ac0b8cd753c16dadbe078cb23a4342f9d03c0203297a3bcc22369b"
+    },
+    {
+      "id": "r56_make_circle",
+      "crop_box": [
+        725,
+        355,
+        1065,
+        710
+      ],
+      "original_cell_size": [
+        340,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 30876,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_make_circle.webp",
+      "sha256": "c2f4f451d5557ae8396cbbac524a74c86a87720903f6834878e6d51818290f84"
+    },
+    {
+      "id": "r56_sunny",
+      "crop_box": [
+        1065,
+        355,
+        1448,
+        710
+      ],
+      "original_cell_size": [
+        383,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 28862,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_sunny.webp",
+      "sha256": "566c88af6ac67c6e176fb5a73e865f82854ed25e0d23b07502579a9c51250da6"
+    },
+    {
+      "id": "r56_cloudy",
+      "crop_box": [
+        0,
+        710,
+        370,
+        1086
+      ],
+      "original_cell_size": [
+        370,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 27702,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cloudy.webp",
+      "sha256": "c1c0834139d88caf4a78fad7a157c076cccb6f38df43eeb6c4e05b8dd81c415c"
+    },
+    {
+      "id": "r56_windy",
+      "crop_box": [
+        370,
+        710,
+        725,
+        1086
+      ],
+      "original_cell_size": [
+        355,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 34116,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_windy.webp",
+      "sha256": "a7637170cdb45e01dbaca81f4cec4895161769fa3db77aaefbdb44c5b9e07526"
+    },
+    {
+      "id": "r56_rainy",
+      "crop_box": [
+        725,
+        710,
+        1065,
+        1086
+      ],
+      "original_cell_size": [
+        340,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 29862,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rainy.webp",
+      "sha256": "07fc14a13fdad947b14150acf8df2efec2895ae103c87fd5f8728490ee3926a3"
+    },
+    {
+      "id": "r56_snowy",
+      "crop_box": [
+        1065,
+        710,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        383,
+        376
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 31484,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Cake/bread/rice correct; skip alternating legs versus jump paired legs; line versus closed circle; sunny/cloudy/windy/rainy/snowy cues distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_snowy.webp",
+      "sha256": "ef36d9336587a86dc39152940fe04a92bb07e68be2301ff8c4ce68dca0957cf7"
+    }
+  ],
+  "status": "visual_review_pass"
+}

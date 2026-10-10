@@ -1,0 +1,1270 @@
+{
+  "schema_version": 1,
+  "unit": 3,
+  "topic": "Shapes",
+  "asset_count": 17,
+  "required_asset_count": 17,
+  "missing_asset_ids": [],
+  "conditional_asset_ids": [],
+  "assets": [
+    {
+      "id": "u03_circle",
+      "semantic": {
+        "shape": "circle",
+        "color": "orange_outline",
+        "count": 1
+      },
+      "uses": [
+        76,
+        235,
+        243,
+        247,
+        289,
+        302,
+        464
+      ],
+      "file": "webp/u03_circle.webp",
+      "webp": "webp/u03_circle.webp",
+      "files": [
+        "webp/u03_circle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7508,
+      "sha256": "5b951ef44fd4a6e72b1c6cd538438d0cbe6c2795f00372a15e5352333edb8e69",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "5b951ef44fd4a6e72b1c6cd538438d0cbe6c2795f00372a15e5352333edb8e69",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5b951ef44fd4a6e72b1c6cd538438d0cbe6c2795f00372a15e5352333edb8e69",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_square",
+      "semantic": {
+        "shape": "square",
+        "color": "green_outline",
+        "count": 1
+      },
+      "uses": [
+        83,
+        243,
+        290,
+        303,
+        466
+      ],
+      "file": "webp/u03_square.webp",
+      "webp": "webp/u03_square.webp",
+      "files": [
+        "webp/u03_square.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1954,
+      "sha256": "1a607862c6688ab55dfe3c148287346588e439a02efdec66906fa3d6ce563a99",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "1a607862c6688ab55dfe3c148287346588e439a02efdec66906fa3d6ce563a99",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "1a607862c6688ab55dfe3c148287346588e439a02efdec66906fa3d6ce563a99",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_triangle",
+      "semantic": {
+        "shape": "triangle",
+        "color": "purple_outline",
+        "count": 1
+      },
+      "uses": [
+        90,
+        243,
+        291,
+        307,
+        468
+      ],
+      "file": "webp/u03_triangle.webp",
+      "webp": "webp/u03_triangle.webp",
+      "files": [
+        "webp/u03_triangle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5548,
+      "sha256": "15bc832f8eb5b3ea8be5865451e46cbd00129c9877d613d9920070f98510749d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "15bc832f8eb5b3ea8be5865451e46cbd00129c9877d613d9920070f98510749d",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "15bc832f8eb5b3ea8be5865451e46cbd00129c9877d613d9920070f98510749d",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_heart",
+      "semantic": {
+        "shape": "heart",
+        "color": "red_outline",
+        "count": 1
+      },
+      "uses": [
+        97,
+        235,
+        247,
+        292,
+        308,
+        427,
+        470,
+        553
+      ],
+      "file": "webp/u03_heart.webp",
+      "webp": "webp/u03_heart.webp",
+      "files": [
+        "webp/u03_heart.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8078,
+      "sha256": "ab6d78813d4c628b3783ae252cf35bd64170741cc30ba3e74f068ff569ffcd8a",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "ab6d78813d4c628b3783ae252cf35bd64170741cc30ba3e74f068ff569ffcd8a",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ab6d78813d4c628b3783ae252cf35bd64170741cc30ba3e74f068ff569ffcd8a",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_star",
+      "semantic": {
+        "shape": "star",
+        "color": "yellow",
+        "count": 1
+      },
+      "uses": [
+        104,
+        235,
+        239,
+        258,
+        293,
+        304,
+        346,
+        416,
+        456,
+        472,
+        502,
+        565,
+        570
+      ],
+      "file": "webp/u03_star.webp",
+      "webp": "webp/u03_star.webp",
+      "files": [
+        "webp/u03_star.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7030,
+      "sha256": "cdccf7a7a142881a6934b19c6175ffa22d6c89008cf7ae44e25b1c97d3f8b039",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        1086,
+        362,
+        1448,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "cdccf7a7a142881a6934b19c6175ffa22d6c89008cf7ae44e25b1c97d3f8b039",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "cdccf7a7a142881a6934b19c6175ffa22d6c89008cf7ae44e25b1c97d3f8b039",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_rectangle",
+      "semantic": {
+        "shape": "rectangle",
+        "color": "green",
+        "count": 1
+      },
+      "uses": [
+        111,
+        239,
+        247,
+        294,
+        305,
+        474
+      ],
+      "file": "webp/u03_rectangle.webp",
+      "webp": "webp/u03_rectangle.webp",
+      "files": [
+        "webp/u03_rectangle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 2428,
+      "sha256": "015c71ea7d3ab957724d965eaac9928b52e0b085a6303d520e81d0d974eac34f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        0,
+        724,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "015c71ea7d3ab957724d965eaac9928b52e0b085a6303d520e81d0d974eac34f",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "015c71ea7d3ab957724d965eaac9928b52e0b085a6303d520e81d0d974eac34f",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_diamond",
+      "semantic": {
+        "shape": "diamond",
+        "color": "purple",
+        "count": 1
+      },
+      "uses": [
+        118,
+        235,
+        239,
+        247,
+        264,
+        295,
+        306,
+        349,
+        417,
+        444,
+        476,
+        507,
+        573,
+        578
+      ],
+      "file": "webp/u03_diamond.webp",
+      "webp": "webp/u03_diamond.webp",
+      "files": [
+        "webp/u03_diamond.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5390,
+      "sha256": "512f2f60532f333611ba345b666e3d98800f5f747d489bdf02b6203eb36afeda",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        362,
+        724,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "512f2f60532f333611ba345b666e3d98800f5f747d489bdf02b6203eb36afeda",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "512f2f60532f333611ba345b666e3d98800f5f747d489bdf02b6203eb36afeda",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_oval",
+      "semantic": {
+        "shape": "oval",
+        "color": "blue",
+        "count": 1
+      },
+      "uses": [
+        125,
+        239,
+        243,
+        296,
+        309,
+        450,
+        478
+      ],
+      "file": "webp/u03_oval.webp",
+      "webp": "webp/u03_oval.webp",
+      "files": [
+        "webp/u03_oval.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6782,
+      "sha256": "8430afbaee5ef6a555822f6f36a57e9211af6dc45d4b14e833a7c86ec366c6d3",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        724,
+        724,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "8430afbaee5ef6a555822f6f36a57e9211af6dc45d4b14e833a7c86ec366c6d3",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "8430afbaee5ef6a555822f6f36a57e9211af6dc45d4b14e833a7c86ec366c6d3",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_blue_square",
+      "semantic": {
+        "shape": "square",
+        "color": "blue",
+        "count": 1
+      },
+      "uses": [
+        162,
+        359,
+        482
+      ],
+      "file": "webp/u03_blue_square.webp",
+      "webp": "webp/u03_blue_square.webp",
+      "files": [
+        "webp/u03_blue_square.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 2776,
+      "sha256": "6e09d8a2d155b3c4b65c2649fc3d56e4d9a7254d46f44718f2137402dbb3d385",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-03/master.png",
+      "crop_box": [
+        1086,
+        724,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "6e09d8a2d155b3c4b65c2649fc3d56e4d9a7254d46f44718f2137402dbb3d385",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "6e09d8a2d155b3c4b65c2649fc3d56e4d9a7254d46f44718f2137402dbb3d385",
+        "status": "pass",
+        "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-03\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 3,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-03/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_purple_heart",
+      "semantic": {
+        "shape": "heart",
+        "color": "purple",
+        "count": 1
+      },
+      "uses": [
+        169,
+        360,
+        485
+      ],
+      "file": "webp/u03_purple_heart.webp",
+      "webp": "webp/u03_purple_heart.webp",
+      "files": [
+        "webp/u03_purple_heart.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6844,
+      "sha256": "7087d537b82d2841197f47dcd862e8d7e3850cd0d97cf909b1c43c34cacb5233",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "7087d537b82d2841197f47dcd862e8d7e3850cd0d97cf909b1c43c34cacb5233",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "7087d537b82d2841197f47dcd862e8d7e3850cd0d97cf909b1c43c34cacb5233",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_orange_triangle",
+      "semantic": {
+        "shape": "triangle",
+        "color": "orange",
+        "count": 1
+      },
+      "uses": [
+        176,
+        361,
+        488
+      ],
+      "file": "webp/u03_orange_triangle.webp",
+      "webp": "webp/u03_orange_triangle.webp",
+      "files": [
+        "webp/u03_orange_triangle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5982,
+      "sha256": "af4db59986f1c51d8afd1c2890ef147b7c8dc610c0e96bef4812d770d2cfd7f4",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "af4db59986f1c51d8afd1c2890ef147b7c8dc610c0e96bef4812d770d2cfd7f4",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "af4db59986f1c51d8afd1c2890ef147b7c8dc610c0e96bef4812d770d2cfd7f4",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_yellow_circle",
+      "semantic": {
+        "shape": "circle",
+        "color": "yellow",
+        "count": 1
+      },
+      "uses": [
+        183,
+        362,
+        491
+      ],
+      "file": "webp/u03_yellow_circle.webp",
+      "webp": "webp/u03_yellow_circle.webp",
+      "files": [
+        "webp/u03_yellow_circle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6258,
+      "sha256": "15ff4e206ffe2281901ef93726b84f8397b1391c3fe23981f88c34dd4c251fba",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "15ff4e206ffe2281901ef93726b84f8397b1391c3fe23981f88c34dd4c251fba",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "15ff4e206ffe2281901ef93726b84f8397b1391c3fe23981f88c34dd4c251fba",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_green_square",
+      "semantic": {
+        "shape": "square",
+        "color": "green",
+        "count": 1
+      },
+      "uses": [
+        363,
+        494
+      ],
+      "file": "webp/u03_green_square.webp",
+      "webp": "webp/u03_green_square.webp",
+      "files": [
+        "webp/u03_green_square.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 2634,
+      "sha256": "23562cdd246741e01f872ff0a04a7024301e705be5c4cd1a18f91a48cd246fdc",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "23562cdd246741e01f872ff0a04a7024301e705be5c4cd1a18f91a48cd246fdc",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "23562cdd246741e01f872ff0a04a7024301e705be5c4cd1a18f91a48cd246fdc",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_pink_heart",
+      "semantic": {
+        "shape": "heart",
+        "color": "pink",
+        "count": 1
+      },
+      "uses": [
+        364,
+        418,
+        497,
+        581,
+        586
+      ],
+      "file": "webp/u03_pink_heart.webp",
+      "webp": "webp/u03_pink_heart.webp",
+      "files": [
+        "webp/u03_pink_heart.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6966,
+      "sha256": "9a6561c6619c8aa53696d43b1be8b941caa2f26fb86c79bfc1451faf824148f2",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "9a6561c6619c8aa53696d43b1be8b941caa2f26fb86c79bfc1451faf824148f2",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "9a6561c6619c8aa53696d43b1be8b941caa2f26fb86c79bfc1451faf824148f2",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_egg",
+      "semantic": {
+        "object": "egg",
+        "count": 1
+      },
+      "uses": [
+        424,
+        550
+      ],
+      "file": "webp/u03_egg.webp",
+      "webp": "webp/u03_egg.webp",
+      "files": [
+        "webp/u03_egg.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11074,
+      "sha256": "bb3f472076a5f1780e0428faf918fa0d5b4abb10e7075a212b47ea0a4dd00f6f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "bb3f472076a5f1780e0428faf918fa0d5b4abb10e7075a212b47ea0a4dd00f6f",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "bb3f472076a5f1780e0428faf918fa0d5b4abb10e7075a212b47ea0a4dd00f6f",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_fish",
+      "semantic": {
+        "object": "fish",
+        "count": 1
+      },
+      "uses": [
+        425,
+        551
+      ],
+      "file": "webp/u03_fish.webp",
+      "webp": "webp/u03_fish.webp",
+      "files": [
+        "webp/u03_fish.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15348,
+      "sha256": "5db42703db35c9a5bd7ead94b1e543598b0935e9f900c2ce2ee936a701fdd148",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "source_crop_size": [
+        362,
+        362
+      ],
+      "visual_review": {
+        "sha256": "5db42703db35c9a5bd7ead94b1e543598b0935e9f900c2ce2ee936a701fdd148",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5db42703db35c9a5bd7ead94b1e543598b0935e9f900c2ce2ee936a701fdd148",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+        ],
+        "resized_from": [
+          362,
+          362
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u03_gorilla",
+      "semantic": {
+        "object": "gorilla",
+        "count": 1
+      },
+      "uses": [
+        426,
+        552
+      ],
+      "file": "webp/u03_gorilla.webp",
+      "webp": "webp/u03_gorilla.webp",
+      "files": [
+        "webp/u03_gorilla.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18032,
+      "sha256": "7c91d2154aa0baf705fdfb4adb50d7e65da4322051e080b753846c813506bf3f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-04/master.png",
+      "crop_box": [
+        1086,
+        380,
+        1448,
+        775
+      ],
+      "source_crop_size": [
+        362,
+        395
+      ],
+      "visual_review": {
+        "sha256": "7c91d2154aa0baf705fdfb4adb50d7e65da4322051e080b753846c813506bf3f",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "7c91d2154aa0baf705fdfb4adb50d7e65da4322051e080b753846c813506bf3f",
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-04\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 4,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-04/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+        ],
+        "resized_from": [
+          362,
+          395
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "duplicate_check": {
+    "distinct_sha256_count": 17,
+    "duplicate_pixel_content_ids": [],
+    "result": "pass"
+  },
+  "batches": [
+    {
+      "file": "batches/batch-01-basic-shapes.png",
+      "ids": [
+        "u03_circle",
+        "u03_square",
+        "u03_triangle",
+        "u03_heart",
+        "u03_star",
+        "u03_rectangle",
+        "u03_diamond",
+        "u03_oval"
+      ],
+      "grid": "4x2",
+      "occupied_cells": 8
+    },
+    {
+      "file": "batches/batch-02-colored-shapes.png",
+      "ids": [
+        "u03_blue_square",
+        "u03_purple_heart",
+        "u03_orange_triangle",
+        "u03_yellow_circle",
+        "u03_green_square",
+        "u03_pink_heart"
+      ],
+      "grid": "3x2",
+      "occupied_cells": 6
+    },
+    {
+      "file": "batches/batch-03-phonics-crops.png",
+      "ids": [
+        "u03_egg",
+        "u03_fish",
+        "u03_gorilla"
+      ],
+      "grid": "3x1",
+      "occupied_cells": 3,
+      "source": "CD1_52.png"
+    }
+  ],
+  "export_policy": {
+    "default_size": "512x512",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "png_cards": "optional"
+  },
+  "adaptation_notes": "The source has six color blanks but no visual cue. Per the approved unit prompt, attach the C5§3 sequence to make each blank deterministic: 3.6.1 blue square, 3.6.2 purple heart, 3.6.3 orange triangle, 3.6.4 yellow circle, 3.6.5 green square, 3.6.6 pink heart. This is recorded as an output adaptation; the source Markdown remains unchanged.",
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-03\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

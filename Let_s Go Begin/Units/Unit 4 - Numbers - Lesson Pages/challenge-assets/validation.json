@@ -1,0 +1,228 @@
+{
+  "required": 18,
+  "complete": true,
+  "missing": [],
+  "conditional": [],
+  "checks": [
+    {
+      "id": "u04_dots_01",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 914,
+      "under_target": true,
+      "sha256": "457d50a88e4a878674f12303a48831afdd9488f75bca6e1d156641b69c73b19e"
+    },
+    {
+      "id": "u04_dots_02",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 1288,
+      "under_target": true,
+      "sha256": "b088e41c620d0ddad78bfa5a1f6ee00e042a8a0373101147c17af78d7ad7d319"
+    },
+    {
+      "id": "u04_dots_03",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 1632,
+      "under_target": true,
+      "sha256": "9667c9c7030e6286f6c2b09bf4c1313ff27442b856cf268fcb5dbbf24bfc7887"
+    },
+    {
+      "id": "u04_dots_04",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 1958,
+      "under_target": true,
+      "sha256": "71f46e59d2e2e3e6e597ec5d6105942abb02a6e62d49d22322cf1c00510d964b"
+    },
+    {
+      "id": "u04_dots_05",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 2318,
+      "under_target": true,
+      "sha256": "c7eb1cdf9f646b3d9c18a2335c45d9b243c2dfb2a911d06c03265b9a95cf2e9b"
+    },
+    {
+      "id": "u04_rings_05",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 6224,
+      "under_target": true,
+      "sha256": "2c9f11b8880fab11858fa5082b42c4ab0cf70c6e3b8ef83b0fc7232ef2c5aebf"
+    },
+    {
+      "id": "u04_triangles_06",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 3646,
+      "under_target": true,
+      "sha256": "95b2a84d48ea81b86dd73621ce1982b6a901a9602f74cdbfdc17bc0738e098ee"
+    },
+    {
+      "id": "u04_stars_07",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 6476,
+      "under_target": true,
+      "sha256": "b48d3f1f2c39c7e46101202d4dca0d7e5eef5b49e6de72d5a329c119874d3527"
+    },
+    {
+      "id": "u04_circles_08",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 7280,
+      "under_target": true,
+      "sha256": "322f671bf30d626a161ec92bd91b83c599a0e98a1facd9a9352700e469174cab"
+    },
+    {
+      "id": "u04_hearts_09",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 7122,
+      "under_target": true,
+      "sha256": "27fd999ac8231c4f327cb75bf172121f8c9eae28252ca78fde47cf7031c55a20"
+    },
+    {
+      "id": "u04_squares_10",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 2410,
+      "under_target": true,
+      "sha256": "8879fc3a5494363937354ba0b36855c434c6c558d8db01818032422e985e771a"
+    },
+    {
+      "id": "u04_cars_03",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 12604,
+      "under_target": true,
+      "sha256": "cebe2934e95f9131d27febd7d8b6f8f1488e44f3ad81f79a537a4e5388002957"
+    },
+    {
+      "id": "u04_teddy_bears_04",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 14688,
+      "under_target": true,
+      "sha256": "f47b8f49c51be1f9a4fddf12fccf7e39232562d28b318823d6a79a271b143108"
+    },
+    {
+      "id": "u04_cars_07",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 18722,
+      "under_target": true,
+      "sha256": "03be3e15be3a31adb5a9ccb6da1647987763c0f04350f5b634579c427283341f"
+    },
+    {
+      "id": "u04_igloo",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 6978,
+      "under_target": true,
+      "sha256": "2537747b0a8ede71bdeddcf9f562bde56b6359054a93d026694c73ba1ff84f38"
+    },
+    {
+      "id": "u04_jump_rope",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 13272,
+      "under_target": true,
+      "sha256": "9eb48f02837d0f0ea8b5c6e22ba20c2dd49b514f268b8f181735a8a156022ffd"
+    },
+    {
+      "id": "u04_kangaroo",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 11620,
+      "under_target": true,
+      "sha256": "1b5a1e6c036ac2292b17ae920a05d7556eca9a914a34b355ebf97c0b1108a936"
+    },
+    {
+      "id": "u04_lion",
+      "exists": true,
+      "width": 512,
+      "height": 512,
+      "bytes": 8964,
+      "under_target": true,
+      "sha256": "25a1c8c14f8b960f411abd07a8a4eb16910188f04f3e98da32663093865e8d14"
+    }
+  ],
+  "duplicate_hashes": {},
+  "occurrence_coverage": "all inventory visual occurrences mapped; every non-visual Challenge section is explicitly image_required=false",
+  "asset_count": 18,
+  "webp_count": 18,
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "u04_dots_01": 1394,
+      "u04_dots_02": 2182,
+      "u04_dots_03": 2606,
+      "u04_dots_04": 2838,
+      "u04_dots_05": 3570,
+      "u04_rings_05": 10634,
+      "u04_triangles_06": 7812,
+      "u04_stars_07": 11188,
+      "u04_circles_08": 8546,
+      "u04_hearts_09": 12906,
+      "u04_squares_10": 5542,
+      "u04_cars_03": 21046,
+      "u04_teddy_bears_04": 25452,
+      "u04_cars_07": 25270,
+      "u04_igloo": 12824,
+      "u04_jump_rope": 17296,
+      "u04_kangaroo": 11686,
+      "u04_lion": 15552
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 18
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 18,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 25452,
+    "over_60kb": [],
+    "unique_hashes": 18,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

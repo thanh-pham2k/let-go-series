@@ -1,0 +1,99 @@
+{
+  "batch": 12,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      362,
+      360
+    ],
+    [
+      362,
+      0,
+      724,
+      360
+    ],
+    [
+      724,
+      0,
+      1086,
+      360
+    ],
+    [
+      1086,
+      0,
+      1448,
+      360
+    ],
+    [
+      0,
+      360,
+      362,
+      680
+    ],
+    [
+      362,
+      360,
+      724,
+      680
+    ],
+    [
+      724,
+      360,
+      1086,
+      680
+    ],
+    [
+      1086,
+      360,
+      1448,
+      680
+    ],
+    [
+      0,
+      680,
+      362,
+      1086
+    ],
+    [
+      362,
+      680,
+      724,
+      1086
+    ],
+    [
+      724,
+      680,
+      1086,
+      1086
+    ],
+    [
+      1086,
+      680,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+  },
+  "retry_reason": null
+}

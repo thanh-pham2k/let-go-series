@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Row1: girl lightblue blouse yellow skirt walking TOWARD welcoming teacher waving at desk; SAME girl turning body away with curved motion arrow no words; front-facing outline circle; front-facing outline square. Row2 yellow fivepoint star, pink heart, green triangle, blue diamond rhombus (not gem). Row3 purple horizontal oval, brown-haired boy red hoodie yellow sleeves turquoise shorts walking slow with one foot on ground; SAME boy RUNNING fast arms pumping airborne long stride; green pedestrian signal showing walking-person icon and child walking beneath, NO letters GO. Use clean simple square framing. All subjects incl teacher/desk and feet fully in each cell.
+Row 1, column 1: Bé đi về phía cô giáo/người đang gọi, 6a; có người gọi để thấy hướng
+Row 1, column 2: Bé quay người, 6b; vệt xoay nhẹ rõ
+Row 1, column 3: Một hình circle chính xác theo Review; không số/nhãn
+Row 1, column 4: Một hình square chính xác theo Review; không số/nhãn
+Row 2, column 1: Một hình star chính xác theo Review; không số/nhãn
+Row 2, column 2: Một hình heart chính xác theo Review; không số/nhãn
+Row 2, column 3: Một hình triangle chính xác theo Review; không số/nhãn
+Row 2, column 4: Một hình diamond chính xác theo Review; không số/nhãn
+Row 3, column 1: Một hình oval chính xác theo Review; không số/nhãn
+Row 3, column 2: Bé đi bộ, 5a; khác chạy
+Row 3, column 3: Bé chạy, 5b; khác đi bộ
+Row 3, column 4: Đèn xanh cho phép đi, 6a; không chữ GO

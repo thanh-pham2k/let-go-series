@@ -1,0 +1,322 @@
+{
+  "batch": 4,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u03_purple_heart",
+      "crop_box": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 6844,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_purple_heart.webp",
+      "sha256": "7087d537b82d2841197f47dcd862e8d7e3850cd0d97cf909b1c43c34cacb5233"
+    },
+    {
+      "id": "u03_orange_triangle",
+      "crop_box": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5982,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_orange_triangle.webp",
+      "sha256": "af4db59986f1c51d8afd1c2890ef147b7c8dc610c0e96bef4812d770d2cfd7f4"
+    },
+    {
+      "id": "u03_yellow_circle",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 6258,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_yellow_circle.webp",
+      "sha256": "15ff4e206ffe2281901ef93726b84f8397b1391c3fe23981f88c34dd4c251fba"
+    },
+    {
+      "id": "u03_green_square",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 2634,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_green_square.webp",
+      "sha256": "23562cdd246741e01f872ff0a04a7024301e705be5c4cd1a18f91a48cd246fdc"
+    },
+    {
+      "id": "u03_pink_heart",
+      "crop_box": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 6966,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_pink_heart.webp",
+      "sha256": "9a6561c6619c8aa53696d43b1be8b941caa2f26fb86c79bfc1451faf824148f2"
+    },
+    {
+      "id": "u03_egg",
+      "crop_box": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11074,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_egg.webp",
+      "sha256": "bb3f472076a5f1780e0428faf918fa0d5b4abb10e7075a212b47ea0a4dd00f6f"
+    },
+    {
+      "id": "u03_fish",
+      "crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15348,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_fish.webp",
+      "sha256": "5db42703db35c9a5bd7ead94b1e543598b0935e9f900c2ce2ee936a701fdd148"
+    },
+    {
+      "id": "u03_gorilla",
+      "crop_box": [
+        1086,
+        380,
+        1448,
+        775
+      ],
+      "original_cell_size": [
+        362,
+        395
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18032,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_gorilla.webp",
+      "sha256": "7c91d2154aa0baf705fdfb4adb50d7e65da4322051e080b753846c813506bf3f"
+    },
+    {
+      "id": "u04_dots_01",
+      "crop_box": [
+        0,
+        795,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        291
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 1394,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_01.webp",
+      "sha256": "b24a52e74b85d51f36a0199ffa883544c46593fbab016103d285abe9d6065c4e"
+    },
+    {
+      "id": "u04_dots_02",
+      "crop_box": [
+        362,
+        795,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        291
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 2182,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_02.webp",
+      "sha256": "cfb0150a64d3aa4ba97f327b62eb0e5d9e6dc02f1f883e2747fb68073c20107e"
+    },
+    {
+      "id": "u04_dots_03",
+      "crop_box": [
+        724,
+        795,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        291
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 2606,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_03.webp",
+      "sha256": "8ce33e5ea9d18bfe96e5a3f2bf623d2c9694fb03a1e8940f045955301953ecb6"
+    },
+    {
+      "id": "u04_dots_04",
+      "crop_box": [
+        1086,
+        795,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        291
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 2838,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Five colored shapes, egg, live fish, complete gorilla; dot groups exactly 1,2,3,4."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_04.webp",
+      "sha256": "e1571f93eab8bbc76f37370cfbb130ea66d36c0a0a35c7086faa0c713694f073"
+    }
+  ],
+  "status": "visual_review_pass"
+}

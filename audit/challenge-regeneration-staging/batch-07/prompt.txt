@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Group constraints: ducks white orange beak/feet, bird blue-purple white belly like animal master, cows black-white pink muzzle identical. Eight cows EXACTLY two rows of four; eight orange cars EXACTLY two rows four. Three birds one row three, three ducks one row three. Moon yellow round cratered disc; empty woven nest no birds; octopus PURPLE exactly eight distinct visible arms (four left, four right), no extra limbs; peach orange with leaf. Icecream three-scoop cone white/pink/chocolate; pizza whole round on blue plate. Keep every group well inside its cell.
+Row 1, column 1: Đúng 1 con duck; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 1, column 2: Đúng 2 con duck; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.
+Row 1, column 3: Đúng 3 bird; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.
+Row 1, column 4: Đúng 3 duck; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.
+Row 2, column 1: Đúng 8 cow; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.
+Row 2, column 2: Đúng 8 car; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.
+Row 2, column 3: Một moon theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.
+Row 2, column 4: Một nest theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.
+Row 3, column 1: Một octopus theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.
+Row 3, column 2: Một peach theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.
+Row 3, column 3: Một món ice_cream theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).
+Row 3, column 4: Một món pizza theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).

@@ -1,0 +1,133 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+  "samples": [
+    {
+      "id": "R78-C1-01",
+      "challenge": 1,
+      "line": 41,
+      "raw": "🖼️bé nháy một mắt ở cặp 1a. Chọn từ/cụm từ đúng.",
+      "ids": [
+        "r78_wink"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "choices": [
+        "A. dance",
+        "B. wink",
+        "C. swim",
+        "D. touch your knees"
+      ],
+      "prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "options": [
+        "A. dance",
+        "B. wink",
+        "C. swim",
+        "D. touch your knees"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R78-C2-17",
+      "challenge": 2,
+      "line": 346,
+      "raw": "Nghe tên ngày: chọn số THẺ trong mục Say these., không chọn ngày tháng.",
+      "ids": [
+        "r78_day_01_sunday",
+        "r78_day_02_monday",
+        "r78_day_03_tuesday",
+        "r78_day_04_wednesday",
+        "r78_day_05_thursday",
+        "r78_day_06_friday",
+        "r78_day_07_saturday"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nghe audio hoặc người lớn đọc, rồi chọn câu trả lời.",
+      "choices": [
+        "A. 1",
+        "B. 3",
+        "C. 2"
+      ],
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn câu trả lời.",
+      "options": [
+        "A. 1",
+        "B. 3",
+        "C. 2"
+      ],
+      "teacher_audio": "Nghe câu mẫu và chọn ý nghĩa."
+    },
+    {
+      "id": "R78-C3-11",
+      "challenge": 3,
+      "line": 471,
+      "raw": "🖼️đi xe đạp. Điền: `ride a ________`.",
+      "ids": [
+        "r78_ride_bicycle"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Điền: `ride a ________`.",
+      "choices": [],
+      "prompt": "Nhìn hình. Điền: `ride a ________`.",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R78-C4-08",
+      "challenge": 4,
+      "line": 571,
+      "raw": "🖼️bé nháy một mắt ở cặp 1a. Điền chữ cái của thẻ phù hợp.",
+      "ids": [
+        "r78_wink"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "choices": [],
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "options": [
+        "A. Sunday",
+        "B. wink"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R78-C5-01",
+      "challenge": 5,
+      "line": 618,
+      "raw": "Nhìn thẻ ngày 2 và hình 3a. Chọn cặp đúng.",
+      "ids": [
+        "r78_ride_bicycle",
+        "r78_day_02_monday"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "choices": [
+        "A. Monday / ride a bicycle",
+        "B. Monday / fly a kite",
+        "C. Tuesday / ride a bicycle"
+      ],
+      "prompt": "Nhìn hình. Chọn đáp án phù hợp.",
+      "options": [
+        "A. Monday / ride a bicycle",
+        "B. Monday / fly a kite",
+        "C. Tuesday / ride a bicycle"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R78-C5-04",
+      "challenge": 5,
+      "line": 641,
+      "raw": "Người lớn chỉ/diễn: bé nháy một mắt ở cặp 1a. Bé tự nói từ/cụm phù hợp.",
+      "ids": [
+        "r78_wink"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "choices": [],
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời của em.",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 19,
+  "debug_labels_hidden_by_default": true
+}

@@ -1,0 +1,102 @@
+{
+  "batch": 8,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      370,
+      350
+    ],
+    [
+      370,
+      0,
+      760,
+      350
+    ],
+    [
+      760,
+      0,
+      1060,
+      350
+    ],
+    [
+      1060,
+      0,
+      1448,
+      350
+    ],
+    [
+      0,
+      350,
+      380,
+      680
+    ],
+    [
+      380,
+      350,
+      740,
+      680
+    ],
+    [
+      740,
+      350,
+      1060,
+      750
+    ],
+    [
+      1060,
+      350,
+      1448,
+      700
+    ],
+    [
+      0,
+      680,
+      370,
+      1086
+    ],
+    [
+      370,
+      680,
+      730,
+      1086
+    ],
+    [
+      730,
+      760,
+      1080,
+      1086
+    ],
+    [
+      1080,
+      700,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Correct food set including fish fillet rather than live fish; queen, rabbit, sun, tiger, two birds, girl visibly liking milk."
+  },
+  "retry_reason": null
+}

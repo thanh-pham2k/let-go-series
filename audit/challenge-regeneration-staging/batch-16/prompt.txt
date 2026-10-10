@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Row1 cake slice two yellow layers chocolate icing on blue plate; one bread slice; white rice in pink striped bowl; brown-haired orange-red-shirt blue-pants boy SKIPPING alternating step-hop one foot high one leg extended. Row2 same boy JUMPING BOTH feet off ground knees together bent; FOUR kids straight line; SAME four kids holding hands closed circle overhead view; SUNNY weather square vignette girl at blue-shutter window looking at bright sun green trees. Row3 CLOUDY same window/tree gray cloud-filled sky no rain; WINDY same girl window pink scarf/hair/leaves streaming sideways visible wind curves; RAINY samewindow raindrops falling green trees; SNOWY samewindow girl purple sweater snowflakes and snow-covered trees. White gutters between independent scenes. No words or extra scene outside cell.
+Row 1, column 1: Bánh 3b
+Row 1, column 2: Lát bánh mì 4a
+Row 1, column 3: Bát cơm 4b
+Row 1, column 4: Bé nhảy chân sáo 5a, chân luân phiên; khác jump
+Row 2, column 1: Bé nhảy bằng hai chân 5b; khác skip
+Row 2, column 2: Các bé xếp một hàng thẳng, 6a
+Row 2, column 3: Các bé xếp vòng tròn khép kín, 6b
+Row 2, column 4: Cảnh có nắng, hình 1 Weather
+Row 3, column 1: Cảnh nhiều mây, hình 2
+Row 3, column 2: Cảnh có gió làm lá/khăn bay, hình 3; không chỉ một đám mây
+Row 3, column 3: Cảnh mưa với hạt mưa rõ, hình 4
+Row 3, column 4: Cảnh tuyết với bông tuyết/tuyết phủ rõ, hình 5

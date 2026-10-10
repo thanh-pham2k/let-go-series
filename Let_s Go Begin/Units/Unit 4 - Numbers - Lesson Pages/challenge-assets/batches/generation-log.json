@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "unit": 4,
+  "tool": "built-in image_gen",
+  "records": [
+    {
+      "asset_id": "u04_jump_rope",
+      "purpose": "standalone phonics object; no child action scene",
+      "tool_call": {
+        "function": "functions.image_gen__imagegen",
+        "transparent_background": true,
+        "referenced_image_paths": null,
+        "num_last_images_to_include": null,
+        "input_images_passed": false
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+      ],
+      "style_context_role": "The lesson page was viewed before generation as a visual style reference; it was not passed as an image input to the tool.",
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational bitmap card. Create one standalone children's textbook cartoon illustration of a jump rope as an object only, no child and no hands. Match the supplied Let’s Go Begin Unit 4 reference style: bright colors, clean bold dark outlines, soft shading, friendly simple 2D cartoon, centered and fully visible on transparent background. The rope should be a complete loop with two small colorful handles, clear and easy to identify at 512x512. No text, no letters, no numbers, no labels, no watermark, no extra objects.",
+      "result": {
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-6e5f-7d90-82fa-23481e4f77ee\\exec-3c38cbde-eacf-4a4b-aa7c-ffaba02ce992.png",
+        "mode": "RGBA",
+        "dimensions": [1254, 1254],
+        "alpha_bbox": [0, 40, 1253, 1238],
+        "copied_to": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\references\\jump-rope-generated.png"
+      },
+      "finalization": {
+        "operation": "alpha-bbox crop, contain on white 512x512 card, WebP quality 80 method 6",
+        "final_webp": "webp/u04_jump_rope.webp",
+        "batch_role": "single generated source; no multi-panel crop",
+        "visual_review": "accepted after source and final WebP inspection"
+      }
+    },
+    {
+      "asset_id": "u04_cars_07",
+      "purpose": "exactly seven complete cars for C5 Challenge 4 situation 2",
+      "tool_call": {
+        "function": "functions.image_gen__imagegen",
+        "transparent_background": true,
+        "referenced_image_paths": null,
+        "num_last_images_to_include": null,
+        "input_images_passed": false
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+      ],
+      "style_context_role": "The lesson page was viewed before generation as a visual style reference; it was not passed as an image input to the tool.",
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational bitmap card. Create exactly one complete toy car, fully visible from bumper to bumper and including all four wheels, in the same bright 2D textbook cartoon style as the supplied Let’s Go Begin Unit 4 Numbers references: clean bold dark outlines, soft shading, colorful friendly child-learning illustration. Use a simple three-quarter side view with a blue body, yellow windows, orange wheels, and a small star decoration. Center the entire car with generous transparent margin. No cropped edges, no other cars, no people, no road, no background objects, no text, no numbers, no labels, no watermark.",
+      "result": {
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-6e5f-7d90-82fa-23481e4f77ee\\exec-f0ccbe1b-77d2-4a0d-a33e-dfbc5bb5271b.png",
+        "mode": "RGBA",
+        "dimensions": [1536, 1024],
+        "alpha_bbox": [115, 62, 1493, 1024],
+        "copied_to": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\references\\car-generated.png"
+      },
+      "finalization": {
+        "operation": "alpha-bbox crop to one complete master, resize contain to 138x110, compose seven non-overlapping copies at [(22,32),(187,32),(352,32),(22,190),(187,190),(352,190),(187,348)] on a white 512x512 card, then WebP quality 80 method 6",
+        "final_webp": "webp/u04_cars_07.webp",
+        "batch_role": "one generated clean master composed exactly seven times; no source-page fragments",
+        "visual_review": "accepted after individual final WebP inspection; seven complete cars visible"
+      }
+    },
+    {
+      "asset_id": "u04_kangaroo",
+      "purpose": "complete phonics K object with no clipped nose or ears",
+      "tool_call": {
+        "function": "functions.image_gen__imagegen",
+        "transparent_background": true,
+        "referenced_image_paths": null,
+        "num_last_images_to_include": null,
+        "input_images_passed": false
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+      ],
+      "style_context_role": "The lesson page was viewed before generation as a visual style reference; it was not passed as an image input to the tool.",
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational bitmap card. Create exactly one complete friendly cartoon kangaroo, fully visible from the tips of both ears to the end of the tail and paws, with generous transparent margin. Match the supplied Let’s Go Begin Unit 4 phonics reference style: bright simple 2D children's textbook illustration, clean bold dark outlines, soft shading, warm brown kangaroo, no cropping at the nose, ears, tail, or feet. No child, no other animals, no background, no text, no letters, no numbers, no labels, no watermark.",
+      "result": {
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-6e5f-7d90-82fa-23481e4f77ee\\exec-19bc11ee-0995-4521-bbb9-1ed16ece2a66.png",
+        "mode": "RGBA",
+        "dimensions": [1312, 1199],
+        "alpha_bbox": [0, 0, 1292, 1183],
+        "copied_to": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\references\\kangaroo-generated.png"
+      },
+      "finalization": {
+        "operation": "alpha-bbox contain on white 512x512 card, WebP quality 80 method 6",
+        "final_webp": "webp/u04_kangaroo.webp",
+        "batch_role": "single generated source; no source-page crop retained",
+        "visual_review": "accepted after individual final WebP inspection; ears, nose, tail, and feet complete"
+      }
+    }
+  ]
+}

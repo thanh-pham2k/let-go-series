@@ -1,0 +1,322 @@
+{
+  "batch": 10,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u07_red_circle",
+      "crop_box": [
+        0,
+        0,
+        362,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5198,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_red_circle.webp",
+      "sha256": "95606127b47312c4df0b0a19aa9bfb984a52ea5410e37b1229665cc366f5b5e0"
+    },
+    {
+      "id": "u07_umbrella",
+      "crop_box": [
+        362,
+        0,
+        724,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14404,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_umbrella.webp",
+      "sha256": "87f222b0cd797498e09bf0354f299d77f193dcf31d43dfc032984957cf6fb31c"
+    },
+    {
+      "id": "u07_violin",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 20976,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_violin.webp",
+      "sha256": "4626764a11b445ef23de3a5f0138ff0c6a536451dadc07a89936e20ffdbda8de"
+    },
+    {
+      "id": "u07_watch",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        355
+      ],
+      "original_cell_size": [
+        362,
+        355
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16804,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_watch.webp",
+      "sha256": "05fb00e128768d452fccd697c2eef85fbb81b627c460038affdc0c833756867f"
+    },
+    {
+      "id": "u08_ride_bicycle",
+      "crop_box": [
+        0,
+        355,
+        362,
+        722
+      ],
+      "original_cell_size": [
+        362,
+        367
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 28596,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_ride_bicycle.webp",
+      "sha256": "89bfdd78d73eb0a3c76782e65e157854f6007adf69abb720c2458f8818be956e"
+    },
+    {
+      "id": "u08_sing_song",
+      "crop_box": [
+        362,
+        355,
+        724,
+        722
+      ],
+      "original_cell_size": [
+        362,
+        367
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18648,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_sing_song.webp",
+      "sha256": "336458d1120f382cd15f2ceaab4a28461ab920f54099c3267cf64856f39c9145"
+    },
+    {
+      "id": "u08_fly_kite",
+      "crop_box": [
+        724,
+        355,
+        1086,
+        722
+      ],
+      "original_cell_size": [
+        362,
+        367
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17720,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp",
+      "sha256": "5a1402b665739b86b5dfbbe32eb94a90cc949037740a895d6e4181546a3b8337"
+    },
+    {
+      "id": "u08_bounce_ball",
+      "crop_box": [
+        1086,
+        355,
+        1448,
+        722
+      ],
+      "original_cell_size": [
+        362,
+        367
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 23942,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_bounce_ball.webp",
+      "sha256": "79d81f1b099feab3e1e2ccf2f495461f1565a8c0e9dbcb91d7bb6e655afc8317"
+    },
+    {
+      "id": "u08_swim",
+      "crop_box": [
+        0,
+        722,
+        400,
+        1086
+      ],
+      "original_cell_size": [
+        400,
+        364
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 25382,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_swim.webp",
+      "sha256": "0d93c7971cea9df50ab2e67eb1ca4c8c328f791fbeff92dcdcf037f769627586"
+    },
+    {
+      "id": "u08_smile",
+      "crop_box": [
+        400,
+        722,
+        690,
+        1086
+      ],
+      "original_cell_size": [
+        290,
+        364
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17026,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_smile.webp",
+      "sha256": "14e9bc52ec46f627620db7a0f2f8096131091220b12eca2516287f698623d44b"
+    },
+    {
+      "id": "u08_wink",
+      "crop_box": [
+        690,
+        722,
+        1100,
+        1086
+      ],
+      "original_cell_size": [
+        410,
+        364
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16258,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_wink.webp",
+      "sha256": "ff46455383b050c7687b84ff36b60de145a0d183e8c6347702bd4b6687dbae3b"
+    },
+    {
+      "id": "u08_dance",
+      "crop_box": [
+        1100,
+        722,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        348,
+        364
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16312,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_dance.webp",
+      "sha256": "c86ce346cd45e8d6970a3177bffb0e2fc87342d3a6ed901cfe0768823bd6ad75"
+    }
+  ],
+  "status": "visual_review_pass"
+}

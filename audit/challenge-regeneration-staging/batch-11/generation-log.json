@@ -1,0 +1,104 @@
+{
+  "batch": 11,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      350,
+      395
+    ],
+    [
+      350,
+      0,
+      724,
+      395
+    ],
+    [
+      724,
+      0,
+      1086,
+      395
+    ],
+    [
+      1086,
+      0,
+      1448,
+      395
+    ],
+    [
+      0,
+      395,
+      362,
+      760
+    ],
+    [
+      362,
+      395,
+      724,
+      760
+    ],
+    [
+      724,
+      395,
+      1086,
+      760
+    ],
+    [
+      1086,
+      395,
+      1448,
+      760
+    ],
+    [
+      0,
+      760,
+      380,
+      1086
+    ],
+    [
+      380,
+      760,
+      720,
+      1086
+    ],
+    [
+      720,
+      760,
+      1090,
+      1086
+    ],
+    [
+      1090,
+      760,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+  },
+  "retry_reason": null
+}

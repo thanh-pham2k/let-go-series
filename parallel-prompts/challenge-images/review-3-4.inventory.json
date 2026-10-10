@@ -1,0 +1,1721 @@
+{
+  "review": "3-4",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages",
+  "assets": [
+    {
+      "id": "r34_circle",
+      "brief": "Một hình circle chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-01",
+        "R34-C4-06",
+        "R34-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_circle.webp"
+      ]
+    },
+    {
+      "id": "r34_square",
+      "brief": "Một hình square chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-02",
+        "R34-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_square.webp"
+      ]
+    },
+    {
+      "id": "r34_star",
+      "brief": "Một hình star chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-03",
+        "R34-C5-06"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_star.webp"
+      ]
+    },
+    {
+      "id": "r34_heart",
+      "brief": "Một hình heart chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-04",
+        "R34-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_heart.webp"
+      ]
+    },
+    {
+      "id": "r34_triangle",
+      "brief": "Một hình triangle chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-05",
+        "R34-C1-16",
+        "R34-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangle.webp"
+      ]
+    },
+    {
+      "id": "r34_diamond",
+      "brief": "Một hình diamond chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-06",
+        "R34-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamond.webp"
+      ]
+    },
+    {
+      "id": "r34_oval",
+      "brief": "Một hình oval chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-07",
+        "R34-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_oval.webp"
+      ]
+    },
+    {
+      "id": "r34_walk",
+      "brief": "Bé đi bộ, 5a; khác chạy",
+      "uses": [
+        "R34-C1-08",
+        "R34-C4-07",
+        "R34-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_walk.webp"
+      ]
+    },
+    {
+      "id": "r34_run",
+      "brief": "Bé chạy, 5b; khác đi bộ",
+      "uses": [
+        "R34-C1-09",
+        "R34-C5-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_run.webp"
+      ]
+    },
+    {
+      "id": "r34_go",
+      "brief": "Đèn xanh cho phép đi, 6a; không chữ GO",
+      "uses": [
+        "R34-C1-10",
+        "R34-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_go.webp"
+      ]
+    },
+    {
+      "id": "r34_stop",
+      "brief": "Đèn đỏ yêu cầu dừng, 6b; không chữ STOP",
+      "uses": [
+        "R34-C1-11",
+        "R34-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_stop.webp"
+      ]
+    },
+    {
+      "id": "r34_take_out_pencil",
+      "brief": "Bé lấy bút chì ra khỏi hộp, hình 1 Classroom Commands; hướng tay/vật rõ",
+      "uses": [
+        "R34-C1-12",
+        "R34-C3-12",
+        "R34-C3-16",
+        "R34-C4-08",
+        "R34-C5-15",
+        "R34-C5-23"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_take_out_pencil.webp"
+      ]
+    },
+    {
+      "id": "r34_put_away_pencil",
+      "brief": "Bé cất bút chì vào hộp, hình 2; khác lấy ra",
+      "uses": [
+        "R34-C1-13",
+        "R34-C3-13",
+        "R34-C5-16"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_put_away_pencil.webp"
+      ]
+    },
+    {
+      "id": "r34_open_book",
+      "brief": "Bé đang mở sách, hình 3; chuyển động mở rõ",
+      "uses": [
+        "R34-C1-14",
+        "R34-C3-14",
+        "R34-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_open_book.webp"
+      ]
+    },
+    {
+      "id": "r34_close_book",
+      "brief": "Bé đang đóng sách, hình 4; khác mở",
+      "uses": [
+        "R34-C1-15",
+        "R34-C3-15",
+        "R34-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_close_book.webp"
+      ]
+    },
+    {
+      "id": "r34_triangles_02",
+      "brief": "Đúng 2 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_02.webp"
+      ]
+    },
+    {
+      "id": "r34_triangles_03",
+      "brief": "Đúng 3 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_03.webp"
+      ]
+    },
+    {
+      "id": "r34_triangles_04",
+      "brief": "Đúng 4 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-19",
+        "R34-C4-09",
+        "R34-C5-01"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_04.webp"
+      ]
+    },
+    {
+      "id": "r34_triangles_05",
+      "brief": "Đúng 5 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_05.webp"
+      ]
+    },
+    {
+      "id": "r34_triangles_06",
+      "brief": "Đúng 6 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_06.webp"
+      ]
+    },
+    {
+      "id": "r34_triangles_07",
+      "brief": "Đúng 7 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_triangles_07.webp"
+      ]
+    },
+    {
+      "id": "r34_diamonds_04",
+      "brief": "Đúng 4 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_04.webp"
+      ]
+    },
+    {
+      "id": "r34_diamonds_05",
+      "brief": "Đúng 5 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_05.webp"
+      ]
+    },
+    {
+      "id": "r34_diamonds_06",
+      "brief": "Đúng 6 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-19",
+        "R34-C4-11",
+        "R34-C5-03"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_06.webp"
+      ]
+    },
+    {
+      "id": "r34_diamonds_07",
+      "brief": "Đúng 7 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_diamonds_07.webp"
+      ]
+    },
+    {
+      "id": "r34_circles_05",
+      "brief": "Đúng 5 hình tròn, nhóm nguồn 3b",
+      "uses": [
+        "R34-C4-10",
+        "R34-C5-02"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_circles_05.webp"
+      ]
+    },
+    {
+      "id": "r34_ovals_07",
+      "brief": "Đúng 7 oval, nhóm nguồn 4b",
+      "uses": [
+        "R34-C4-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r34_ovals_07.webp"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "R34-C1-01",
+      "challenge": 1,
+      "line": 44,
+      "source_prompt": "🖼️hình tròn bé đang vẽ ở cặp 1a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_circle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-02",
+      "challenge": 1,
+      "line": 52,
+      "source_prompt": "🖼️hình vuông ở cặp 1b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_square"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-03",
+      "challenge": 1,
+      "line": 60,
+      "source_prompt": "🖼️ngôi sao ở cặp 2a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_star"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-04",
+      "challenge": 1,
+      "line": 68,
+      "source_prompt": "🖼️trái tim ở cặp 2b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_heart"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-05",
+      "challenge": 1,
+      "line": 76,
+      "source_prompt": "🖼️tam giác trong nhóm 3a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-06",
+      "challenge": 1,
+      "line": 84,
+      "source_prompt": "🖼️hình thoi trong nhóm 4a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamond"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-07",
+      "challenge": 1,
+      "line": 92,
+      "source_prompt": "🖼️hình bầu dục trong nhóm 4b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_oval"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-08",
+      "challenge": 1,
+      "line": 102,
+      "source_prompt": "🖼️bé đi bộ ở cặp 5a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_walk"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-09",
+      "challenge": 1,
+      "line": 110,
+      "source_prompt": "🖼️bé chạy ở cặp 5b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_run"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-10",
+      "challenge": 1,
+      "line": 118,
+      "source_prompt": "🖼️đèn xanh cho phép đi ở cặp 6a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_go"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-11",
+      "challenge": 1,
+      "line": 126,
+      "source_prompt": "🖼️đèn đỏ yêu cầu dừng ở cặp 6b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_stop"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-12",
+      "challenge": 1,
+      "line": 136,
+      "source_prompt": "🖼️bé lấy bút chì ra, hình 1 Classroom Commands. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_take_out_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-13",
+      "challenge": 1,
+      "line": 144,
+      "source_prompt": "🖼️bé cất bút chì vào hộp, hình 2. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_put_away_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-14",
+      "challenge": 1,
+      "line": 152,
+      "source_prompt": "🖼️bé mở sách, hình 3. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_open_book"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-15",
+      "challenge": 1,
+      "line": 160,
+      "source_prompt": "🖼️bé đóng sách, hình 4. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_close_book"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-16",
+      "challenge": 1,
+      "line": 172,
+      "source_prompt": "Đếm: △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-17",
+      "challenge": 1,
+      "line": 179,
+      "source_prompt": "Đếm: △ △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_02"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-18",
+      "challenge": 1,
+      "line": 186,
+      "source_prompt": "Đếm: △ △ △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_03"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-19",
+      "challenge": 1,
+      "line": 193,
+      "source_prompt": "Đếm: △ △ △ △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_04"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-20",
+      "challenge": 1,
+      "line": 200,
+      "source_prompt": "Đếm: △ △ △ △ △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-21",
+      "challenge": 1,
+      "line": 207,
+      "source_prompt": "Đếm: △ △ △ △ △ △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_06"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C1-22",
+      "challenge": 1,
+      "line": 214,
+      "source_prompt": "Đếm: △ △ △ △ △ △ △",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_07"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C2-01",
+      "challenge": 2,
+      "line": 230,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-02",
+      "challenge": 2,
+      "line": 240,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-03",
+      "challenge": 2,
+      "line": 250,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-04",
+      "challenge": 2,
+      "line": 260,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-05",
+      "challenge": 2,
+      "line": 270,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-06",
+      "challenge": 2,
+      "line": 280,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-07",
+      "challenge": 2,
+      "line": 292,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-08",
+      "challenge": 2,
+      "line": 301,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-09",
+      "challenge": 2,
+      "line": 310,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-10",
+      "challenge": 2,
+      "line": 319,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-11",
+      "challenge": 2,
+      "line": 328,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-12",
+      "challenge": 2,
+      "line": 337,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-13",
+      "challenge": 2,
+      "line": 346,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-14",
+      "challenge": 2,
+      "line": 355,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-15",
+      "challenge": 2,
+      "line": 364,
+      "source_prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-16",
+      "challenge": 2,
+      "line": 373,
+      "source_prompt": "Nghe số lượng và chọn số.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-17",
+      "challenge": 2,
+      "line": 382,
+      "source_prompt": "Nghe số lượng và chọn số.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C2-18",
+      "challenge": 2,
+      "line": 391,
+      "source_prompt": "Nghe số lượng và chọn số.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-01",
+      "challenge": 3,
+      "line": 407,
+      "source_prompt": "Hoàn thành từ: `c_rcle`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-02",
+      "challenge": 3,
+      "line": 412,
+      "source_prompt": "Hoàn thành từ: `sq_are`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-03",
+      "challenge": 3,
+      "line": 417,
+      "source_prompt": "Hoàn thành từ: `st_r`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-04",
+      "challenge": 3,
+      "line": 422,
+      "source_prompt": "Hoàn thành từ: `h_art`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-05",
+      "challenge": 3,
+      "line": 427,
+      "source_prompt": "Hoàn thành từ: `tr_angle`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-06",
+      "challenge": 3,
+      "line": 432,
+      "source_prompt": "Hoàn thành từ: `d_amond`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-07",
+      "challenge": 3,
+      "line": 437,
+      "source_prompt": "Hoàn thành từ: `_val`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-08",
+      "challenge": 3,
+      "line": 442,
+      "source_prompt": "Hoàn thành từ: `w_lk`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-09",
+      "challenge": 3,
+      "line": 447,
+      "source_prompt": "Hoàn thành từ: `r_n`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-10",
+      "challenge": 3,
+      "line": 452,
+      "source_prompt": "Hoàn thành từ: `g_`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-11",
+      "challenge": 3,
+      "line": 457,
+      "source_prompt": "Hoàn thành từ: `st_p`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C3-12",
+      "challenge": 3,
+      "line": 467,
+      "source_prompt": "🖼️lấy bút chì ra. Điền: `________ out your pencil.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_take_out_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-13",
+      "challenge": 3,
+      "line": 472,
+      "source_prompt": "🖼️cất bút chì đi. Điền: `________ away your pencil.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_put_away_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-14",
+      "challenge": 3,
+      "line": 477,
+      "source_prompt": "🖼️bé đang mở sách. Điền: `________ your book.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_open_book"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-15",
+      "challenge": 3,
+      "line": 482,
+      "source_prompt": "🖼️bé đang đóng sách. Điền: `________ your book.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_close_book"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-16",
+      "challenge": 3,
+      "line": 487,
+      "source_prompt": "🖼️lấy bút chì ra. Điền: `Please take ________ your pencil.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_take_out_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-17",
+      "challenge": 3,
+      "line": 492,
+      "source_prompt": "Đếm và điền số: ◆ ◆ ◆ ◆",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamonds_04"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-18",
+      "challenge": 3,
+      "line": 497,
+      "source_prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ◆",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamonds_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-19",
+      "challenge": 3,
+      "line": 502,
+      "source_prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ◆ ◆",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamonds_06"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-20",
+      "challenge": 3,
+      "line": 507,
+      "source_prompt": "Đếm và điền số: ◆ ◆ ◆ ◆ ◆ ◆ ◆",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamonds_07"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C3-21",
+      "challenge": 3,
+      "line": 512,
+      "source_prompt": "Nghe câu mẫu và điền: `Please take ________ your pencil.`",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C4-01",
+      "challenge": 4,
+      "line": 528,
+      "source_prompt": "Các thẻ: `pencil. / your / out / Take`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C4-02",
+      "challenge": 4,
+      "line": 533,
+      "source_prompt": "Các thẻ: `your / Put / away / pencil.`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C4-03",
+      "challenge": 4,
+      "line": 538,
+      "source_prompt": "Các thẻ: `Open / book. / your`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C4-04",
+      "challenge": 4,
+      "line": 543,
+      "source_prompt": "Các thẻ: `your / Close / book.`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C4-05",
+      "challenge": 4,
+      "line": 548,
+      "source_prompt": "Các thẻ: `your / pencil. / take / Please / out`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C4-06",
+      "challenge": 4,
+      "line": 557,
+      "source_prompt": "🖼️hình tròn bé đang vẽ ở cặp 1a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_circle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C4-07",
+      "challenge": 4,
+      "line": 562,
+      "source_prompt": "🖼️bé đi bộ ở cặp 5a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_walk"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C4-08",
+      "challenge": 4,
+      "line": 567,
+      "source_prompt": "🖼️bé lấy bút chì ra, hình 1 Classroom Commands. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_take_out_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C4-09",
+      "challenge": 4,
+      "line": 574,
+      "source_prompt": "Nhìn nhóm 3a: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_04"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C4-10",
+      "challenge": 4,
+      "line": 581,
+      "source_prompt": "Nhìn nhóm 3b: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_circles_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C4-11",
+      "challenge": 4,
+      "line": 588,
+      "source_prompt": "Nhìn nhóm 4a: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamonds_06"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C4-12",
+      "challenge": 4,
+      "line": 595,
+      "source_prompt": "Nhìn nhóm 4b: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_ovals_07"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-01",
+      "challenge": 5,
+      "line": 609,
+      "source_prompt": "Nhìn nhóm 3a: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangles_04"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-02",
+      "challenge": 5,
+      "line": 616,
+      "source_prompt": "Nhìn nhóm 3b: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_circles_05"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-03",
+      "challenge": 5,
+      "line": 623,
+      "source_prompt": "Nhìn nhóm 4a: gọi hình và chọn số lượng.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamonds_06"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-04",
+      "challenge": 5,
+      "line": 632,
+      "source_prompt": "Người lớn chỉ/diễn: hình tròn bé đang vẽ ở cặp 1a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_circle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-05",
+      "challenge": 5,
+      "line": 637,
+      "source_prompt": "Người lớn chỉ/diễn: hình vuông ở cặp 1b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_square"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-06",
+      "challenge": 5,
+      "line": 642,
+      "source_prompt": "Người lớn chỉ/diễn: ngôi sao ở cặp 2a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_star"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-07",
+      "challenge": 5,
+      "line": 647,
+      "source_prompt": "Người lớn chỉ/diễn: trái tim ở cặp 2b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_heart"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-08",
+      "challenge": 5,
+      "line": 652,
+      "source_prompt": "Người lớn chỉ/diễn: tam giác trong nhóm 3a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_triangle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-09",
+      "challenge": 5,
+      "line": 657,
+      "source_prompt": "Người lớn chỉ/diễn: hình thoi trong nhóm 4a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_diamond"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-10",
+      "challenge": 5,
+      "line": 662,
+      "source_prompt": "Người lớn chỉ/diễn: hình bầu dục trong nhóm 4b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_oval"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-11",
+      "challenge": 5,
+      "line": 667,
+      "source_prompt": "Người lớn chỉ/diễn: bé đi bộ ở cặp 5a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_walk"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-12",
+      "challenge": 5,
+      "line": 672,
+      "source_prompt": "Người lớn chỉ/diễn: bé chạy ở cặp 5b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_run"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-13",
+      "challenge": 5,
+      "line": 677,
+      "source_prompt": "Người lớn chỉ/diễn: đèn xanh cho phép đi ở cặp 6a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_go"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-14",
+      "challenge": 5,
+      "line": 682,
+      "source_prompt": "Người lớn chỉ/diễn: đèn đỏ yêu cầu dừng ở cặp 6b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_stop"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-15",
+      "challenge": 5,
+      "line": 687,
+      "source_prompt": "Người lớn chỉ/diễn: bé lấy bút chì ra, hình 1 Classroom Commands. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_take_out_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-16",
+      "challenge": 5,
+      "line": 692,
+      "source_prompt": "Người lớn chỉ/diễn: bé cất bút chì vào hộp, hình 2. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_put_away_pencil"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-17",
+      "challenge": 5,
+      "line": 697,
+      "source_prompt": "Người lớn chỉ/diễn: bé mở sách, hình 3. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_open_book"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-18",
+      "challenge": 5,
+      "line": 702,
+      "source_prompt": "Người lớn chỉ/diễn: bé đóng sách, hình 4. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_close_book"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R34-C5-19",
+      "challenge": 5,
+      "line": 707,
+      "source_prompt": "Người lớn chỉ nhóm nguồn 4 hình triangle, che nhãn/số. Bé nói hình và số lượng.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C5-20",
+      "challenge": 5,
+      "line": 712,
+      "source_prompt": "Người lớn chỉ nhóm nguồn 5 hình circle, che nhãn/số. Bé nói hình và số lượng.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C5-21",
+      "challenge": 5,
+      "line": 717,
+      "source_prompt": "Người lớn chỉ nhóm nguồn 6 hình diamond, che nhãn/số. Bé nói hình và số lượng.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C5-22",
+      "challenge": 5,
+      "line": 722,
+      "source_prompt": "Người lớn chỉ nhóm nguồn 7 hình oval, che nhãn/số. Bé nói hình và số lượng.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R34-C5-23",
+      "challenge": 5,
+      "line": 733,
+      "source_prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Bé đóng vai giáo viên: nhìn người lớn sắp lấy bút chì, nói lệnh có Please.",
+      "image_required": true,
+      "asset_ids": [
+        "r34_take_out_pencil"
+      ],
+      "mode": "all_required"
+    }
+  ],
+  "source_notes": "Nguồn có4 tam giác,5 hình tròn,6 hình thoi,7 oval. Các nhóm ký hiệu1–3 bên dưới là biến thể luyện đếm, không phải cặp gốc CD1_71. Open/Close có cùng đuôi your book nên bài điền phải kèm ngữ cảnh để chỉ có một đáp án. Please take out your pencil. giữ như mẫu lịch sự trong nguồn.",
+  "status": "missing_dedicated_challenge_assets_and_mapping"
+}

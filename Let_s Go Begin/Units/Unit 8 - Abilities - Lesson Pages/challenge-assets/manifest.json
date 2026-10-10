@@ -1,0 +1,1261 @@
+{
+  "schema_version": "1.0",
+  "unit": 8,
+  "topic": "Abilities",
+  "scope": "Challenge 1–5",
+  "generated_at": "2026-10-10",
+  "required_asset_count": 15,
+  "conditional_asset_count": 2,
+  "generation_log": "batches/generation-log.json",
+  "assets": [
+    {
+      "id": "u08_ride_bicycle",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=ride_bicycle; subject=child; state=positive",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        90,
+        158,
+        232,
+        236,
+        244,
+        293,
+        464,
+        495,
+        515,
+        539
+      ],
+      "file": "webp/u08_ride_bicycle.webp",
+      "webp": "webp/u08_ride_bicycle.webp",
+      "files": [
+        "webp/u08_ride_bicycle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 28596,
+      "sha256": "89bfdd78d73eb0a3c76782e65e157854f6007adf69abb720c2458f8818be956e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        0,
+        355,
+        362,
+        722
+      ],
+      "source_crop_size": [
+        362,
+        367
+      ],
+      "visual_review": {
+        "sha256": "89bfdd78d73eb0a3c76782e65e157854f6007adf69abb720c2458f8818be956e",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "89bfdd78d73eb0a3c76782e65e157854f6007adf69abb720c2458f8818be956e",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+        ],
+        "resized_from": [
+          362,
+          367
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_sing_song",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=sing_song; subject=child; state=positive",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        97,
+        236,
+        244,
+        294,
+        465,
+        517
+      ],
+      "file": "webp/u08_sing_song.webp",
+      "webp": "webp/u08_sing_song.webp",
+      "files": [
+        "webp/u08_sing_song.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18648,
+      "sha256": "336458d1120f382cd15f2ceaab4a28461ab920f54099c3267cf64856f39c9145",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        362,
+        355,
+        724,
+        722
+      ],
+      "source_crop_size": [
+        362,
+        367
+      ],
+      "visual_review": {
+        "sha256": "336458d1120f382cd15f2ceaab4a28461ab920f54099c3267cf64856f39c9145",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "336458d1120f382cd15f2ceaab4a28461ab920f54099c3267cf64856f39c9145",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+        ],
+        "resized_from": [
+          362,
+          367
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_fly_kite",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=fly_kite; subject=child; state=positive; prop=kite",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        104,
+        163,
+        232,
+        236,
+        295,
+        466,
+        501,
+        519,
+        533
+      ],
+      "file": "webp/u08_fly_kite.webp",
+      "webp": "webp/u08_fly_kite.webp",
+      "files": [
+        "webp/u08_fly_kite.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17720,
+      "sha256": "5a1402b665739b86b5dfbbe32eb94a90cc949037740a895d6e4181546a3b8337",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        724,
+        355,
+        1086,
+        722
+      ],
+      "source_crop_size": [
+        362,
+        367
+      ],
+      "visual_review": {
+        "sha256": "5a1402b665739b86b5dfbbe32eb94a90cc949037740a895d6e4181546a3b8337",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "5a1402b665739b86b5dfbbe32eb94a90cc949037740a895d6e4181546a3b8337",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+        ],
+        "resized_from": [
+          362,
+          367
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_bounce_ball",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=bounce_ball; subject=child; state=positive; prop=basketball",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        111,
+        232,
+        240,
+        296,
+        467,
+        521
+      ],
+      "file": "webp/u08_bounce_ball.webp",
+      "webp": "webp/u08_bounce_ball.webp",
+      "files": [
+        "webp/u08_bounce_ball.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 23942,
+      "sha256": "79d81f1b099feab3e1e2ccf2f495461f1565a8c0e9dbcb91d7bb6e655afc8317",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        1086,
+        355,
+        1448,
+        722
+      ],
+      "source_crop_size": [
+        362,
+        367
+      ],
+      "visual_review": {
+        "sha256": "79d81f1b099feab3e1e2ccf2f495461f1565a8c0e9dbcb91d7bb6e655afc8317",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "79d81f1b099feab3e1e2ccf2f495461f1565a8c0e9dbcb91d7bb6e655afc8317",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+        ],
+        "resized_from": [
+          362,
+          367
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_swim",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=swim; subject=child; state=positive; environment=water",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        118,
+        232,
+        240,
+        244,
+        297,
+        468,
+        523,
+        549
+      ],
+      "file": "webp/u08_swim.webp",
+      "webp": "webp/u08_swim.webp",
+      "files": [
+        "webp/u08_swim.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 25382,
+      "sha256": "0d93c7971cea9df50ab2e67eb1ca4c8c328f791fbeff92dcdcf037f769627586",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        0,
+        722,
+        400,
+        1086
+      ],
+      "source_crop_size": [
+        400,
+        364
+      ],
+      "visual_review": {
+        "sha256": "0d93c7971cea9df50ab2e67eb1ca4c8c328f791fbeff92dcdcf037f769627586",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "0d93c7971cea9df50ab2e67eb1ca4c8c328f791fbeff92dcdcf037f769627586",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+        ],
+        "resized_from": [
+          400,
+          364
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_smile",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=smile; subject=child_face; eyes=both_open",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        125,
+        240,
+        298,
+        469,
+        525
+      ],
+      "file": "webp/u08_smile.webp",
+      "webp": "webp/u08_smile.webp",
+      "files": [
+        "webp/u08_smile.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17026,
+      "sha256": "14e9bc52ec46f627620db7a0f2f8096131091220b12eca2516287f698623d44b",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        400,
+        722,
+        690,
+        1086
+      ],
+      "source_crop_size": [
+        290,
+        364
+      ],
+      "visual_review": {
+        "sha256": "14e9bc52ec46f627620db7a0f2f8096131091220b12eca2516287f698623d44b",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "14e9bc52ec46f627620db7a0f2f8096131091220b12eca2516287f698623d44b",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+        ],
+        "resized_from": [
+          290,
+          364
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_wink",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=wink; subject=child_face; eyes=one_closed_one_open",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        132,
+        240,
+        299,
+        470,
+        507,
+        527
+      ],
+      "file": "webp/u08_wink.webp",
+      "webp": "webp/u08_wink.webp",
+      "files": [
+        "webp/u08_wink.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16258,
+      "sha256": "ff46455383b050c7687b84ff36b60de145a0d183e8c6347702bd4b6687dbae3b",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        690,
+        722,
+        1100,
+        1086
+      ],
+      "source_crop_size": [
+        410,
+        364
+      ],
+      "visual_review": {
+        "sha256": "ff46455383b050c7687b84ff36b60de145a0d183e8c6347702bd4b6687dbae3b",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ff46455383b050c7687b84ff36b60de145a0d183e8c6347702bd4b6687dbae3b",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+        ],
+        "resized_from": [
+          410,
+          364
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_dance",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=dance; subject=child; state=positive",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        139,
+        236,
+        244,
+        300,
+        471,
+        529,
+        544
+      ],
+      "file": "webp/u08_dance.webp",
+      "webp": "webp/u08_dance.webp",
+      "files": [
+        "webp/u08_dance.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16312,
+      "sha256": "c86ce346cd45e8d6970a3177bffb0e2fc87342d3a6ed901cfe0768823bd6ad75",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-10/master.png",
+      "crop_box": [
+        1100,
+        722,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        348,
+        364
+      ],
+      "visual_review": {
+        "sha256": "c86ce346cd45e8d6970a3177bffb0e2fc87342d3a6ed901cfe0768823bd6ad75",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c86ce346cd45e8d6970a3177bffb0e2fc87342d3a6ed901cfe0768823bd6ad75",
+        "status": "pass",
+        "notes": "Watch is wristwatch; bicycle pedaling, singing, flying kite, bouncing ball, swimming/dancing distinct; smile both eyes open, wink exactly one eye shut.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-10\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 10,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-10/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+        ],
+        "resized_from": [
+          348,
+          364
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_cannot_fly_kite",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=fly_kite; subject=child; state=negative; kite=grounded; string=slack",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+      ],
+      "uses": [
+        168,
+        536
+      ],
+      "file": "webp/u08_cannot_fly_kite.webp",
+      "webp": "webp/u08_cannot_fly_kite.webp",
+      "files": [
+        "webp/u08_cannot_fly_kite.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17686,
+      "sha256": "2572eebf1c6946e7ad0c2c70b805ec745b174abc41d688cff59e1be03133eeb3",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        0,
+        0,
+        350,
+        395
+      ],
+      "source_crop_size": [
+        350,
+        395
+      ],
+      "visual_review": {
+        "sha256": "2572eebf1c6946e7ad0c2c70b805ec745b174abc41d688cff59e1be03133eeb3",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "2572eebf1c6946e7ad0c2c70b805ec745b174abc41d688cff59e1be03133eeb3",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+        ],
+        "resized_from": [
+          350,
+          395
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_play_ball",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=play_ball; subjects=two_children; prop=ball; state=shared_game",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "uses": [
+        556
+      ],
+      "file": "webp/u08_play_ball.webp",
+      "webp": "webp/u08_play_ball.webp",
+      "files": [
+        "webp/u08_play_ball.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 22116,
+      "sha256": "227d152e6c92e8a0e436eca3cac96a385f098ba310f65f52941d57cffab71a1c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        350,
+        0,
+        724,
+        395
+      ],
+      "source_crop_size": [
+        374,
+        395
+      ],
+      "visual_review": {
+        "sha256": "227d152e6c92e8a0e436eca3cac96a385f098ba310f65f52941d57cffab71a1c",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "227d152e6c92e8a0e436eca3cac96a385f098ba310f65f52941d57cffab71a1c",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+        ],
+        "resized_from": [
+          374,
+          395
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_play_tag",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=play_tag; subjects=two_children; state=chase_and_tag",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "uses": [
+        561
+      ],
+      "file": "webp/u08_play_tag.webp",
+      "webp": "webp/u08_play_tag.webp",
+      "files": [
+        "webp/u08_play_tag.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 23872,
+      "sha256": "1768f32c7e62cf9c5eb9834cda17969615f6915b60055fbfe79f02c94795fd0c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        395
+      ],
+      "source_crop_size": [
+        362,
+        395
+      ],
+      "visual_review": {
+        "sha256": "1768f32c7e62cf9c5eb9834cda17969615f6915b60055fbfe79f02c94795fd0c",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "1768f32c7e62cf9c5eb9834cda17969615f6915b60055fbfe79f02c94795fd0c",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+        ],
+        "resized_from": [
+          362,
+          395
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_jump_rope",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=jump_rope; subject=child; prop=rope; state=active_jump",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "uses": [
+        566
+      ],
+      "file": "webp/u08_jump_rope.webp",
+      "webp": "webp/u08_jump_rope.webp",
+      "files": [
+        "webp/u08_jump_rope.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18186,
+      "sha256": "95ce1fe66e076e0cb5ae77f5668bd5526435527182346865c4a50929b81c22e7",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        395
+      ],
+      "source_crop_size": [
+        362,
+        395
+      ],
+      "visual_review": {
+        "sha256": "95ce1fe66e076e0cb5ae77f5668bd5526435527182346865c4a50929b81c22e7",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "95ce1fe66e076e0cb5ae77f5668bd5526435527182346865c4a50929b81c22e7",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+        ],
+        "resized_from": [
+          362,
+          395
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_fox",
+      "required": true,
+      "kind": "generated_from_reference",
+      "semantic": "phonics=fox; subject=full_body_fox",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "uses": [
+        477,
+        617
+      ],
+      "file": "webp/u08_fox.webp",
+      "webp": "webp/u08_fox.webp",
+      "files": [
+        "webp/u08_fox.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17684,
+      "sha256": "39d5ad1a6f0cc058de8fce0c256972e314c7b865781e8c9bb0f715380aa476c1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        0,
+        395,
+        362,
+        760
+      ],
+      "source_crop_size": [
+        362,
+        365
+      ],
+      "visual_review": {
+        "sha256": "39d5ad1a6f0cc058de8fce0c256972e314c7b865781e8c9bb0f715380aa476c1",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "39d5ad1a6f0cc058de8fce0c256972e314c7b865781e8c9bb0f715380aa476c1",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+        ],
+        "resized_from": [
+          362,
+          365
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_yarn",
+      "required": true,
+      "kind": "generated_from_reference",
+      "semantic": "phonics=yarn; subject=blue_yarn_ball",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "uses": [
+        478,
+        618
+      ],
+      "file": "webp/u08_yarn.webp",
+      "webp": "webp/u08_yarn.webp",
+      "files": [
+        "webp/u08_yarn.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 14982,
+      "sha256": "0af5fff86aeb6d7c70a7de3189c67c6fec7bf4ba7a80d199eb2ce6e08e9c23bf",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        362,
+        395,
+        724,
+        760
+      ],
+      "source_crop_size": [
+        362,
+        365
+      ],
+      "visual_review": {
+        "sha256": "0af5fff86aeb6d7c70a7de3189c67c6fec7bf4ba7a80d199eb2ce6e08e9c23bf",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "0af5fff86aeb6d7c70a7de3189c67c6fec7bf4ba7a80d199eb2ce6e08e9c23bf",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+        ],
+        "resized_from": [
+          362,
+          365
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_zebra",
+      "required": true,
+      "kind": "generated_from_reference",
+      "semantic": "phonics=zebra; subject=full_body_zebra",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "uses": [
+        479,
+        619
+      ],
+      "file": "webp/u08_zebra.webp",
+      "webp": "webp/u08_zebra.webp",
+      "files": [
+        "webp/u08_zebra.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 16572,
+      "sha256": "964d64ecd4346e6a33da6c3d526448f21f520ecd960955965940ccff170a891c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        724,
+        395,
+        1086,
+        760
+      ],
+      "source_crop_size": [
+        362,
+        365
+      ],
+      "visual_review": {
+        "sha256": "964d64ecd4346e6a33da6c3d526448f21f520ecd960955965940ccff170a891c",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "964d64ecd4346e6a33da6c3d526448f21f520ecd960955965940ccff170a891c",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+        ],
+        "resized_from": [
+          362,
+          365
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_make_circle",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "command=make_circle; subjects=five_children; formation=closed_circle",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "uses": [
+        390
+      ],
+      "fixed_cue_uses": [
+        {
+          "unit": 8,
+          "question_line": 390,
+          "cue_line": 390,
+          "asset_id": "u08_make_circle",
+          "asset_ids": [
+            "u08_make_circle"
+          ],
+          "expected_answer": "circle",
+          "accepted_answers": [
+            "circle"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "5. Make a ________."
+        }
+      ],
+      "file": "webp/u08_make_circle.webp",
+      "webp": "webp/u08_make_circle.webp",
+      "files": [
+        "webp/u08_make_circle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 31358,
+      "sha256": "8e2dd014657fdbaa315913db1a206453ddecf390bc96d452830599cba152dcaf",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        1086,
+        395,
+        1448,
+        760
+      ],
+      "source_crop_size": [
+        362,
+        365
+      ],
+      "visual_review": {
+        "sha256": "8e2dd014657fdbaa315913db1a206453ddecf390bc96d452830599cba152dcaf",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "8e2dd014657fdbaa315913db1a206453ddecf390bc96d452830599cba152dcaf",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+        ],
+        "resized_from": [
+          362,
+          365
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u08_make_line",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "command=make_line; subjects=four_children; formation=straight_line",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "uses": [
+        391
+      ],
+      "fixed_cue_uses": [
+        {
+          "unit": 8,
+          "question_line": 391,
+          "cue_line": 391,
+          "asset_id": "u08_make_line",
+          "asset_ids": [
+            "u08_make_line"
+          ],
+          "expected_answer": "line",
+          "accepted_answers": [
+            "line"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "6. Make a ________."
+        }
+      ],
+      "file": "webp/u08_make_line.webp",
+      "webp": "webp/u08_make_line.webp",
+      "files": [
+        "webp/u08_make_line.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 32018,
+      "sha256": "527a82dd6f3f774b820664c130d97aa5b9a8157b5c994a9984c1a6e326a973df",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-11/master.png",
+      "crop_box": [
+        0,
+        760,
+        380,
+        1086
+      ],
+      "source_crop_size": [
+        380,
+        326
+      ],
+      "visual_review": {
+        "sha256": "527a82dd6f3f774b820664c130d97aa5b9a8157b5c994a9984c1a6e326a973df",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "527a82dd6f3f774b820664c130d97aa5b9a8157b5c994a9984c1a6e326a973df",
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-11\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 11,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-11/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+        ],
+        "resized_from": [
+          380,
+          326
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "dedup": {
+    "duplicate_sha256_groups": [],
+    "same_semantic_reuse": "Repeated questions point to the same ID; no duplicate pixel assets inside Unit 8."
+  },
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-08\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

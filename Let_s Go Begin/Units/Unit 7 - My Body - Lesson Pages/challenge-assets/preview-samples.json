@@ -1,0 +1,138 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 58",
+      "challenge": 1,
+      "line": 58,
+      "raw": "👤 *(phần đầu)*",
+      "ids": [
+        "u07_head"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "head",
+        "shoulders",
+        "knees",
+        "toes"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 196",
+      "challenge": 2,
+      "line": 196,
+      "raw": "`👤 / 👀 / 👃 / 👄`",
+      "ids": [
+        "u07_head",
+        "u07_eyes",
+        "u07_mouth",
+        "u07_nose"
+      ],
+      "needs_context": false,
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn hình/câu trả lời phù hợp.",
+      "options": [
+        "Hình A",
+        "Hình B",
+        "Hình C",
+        "Hình D"
+      ],
+      "teacher_audio": "Nghe: **head**"
+    },
+    {
+      "id": "C3 · dòng 248",
+      "challenge": 3,
+      "line": 248,
+      "raw": "1. h _ a d *(head)* 👤",
+      "ids": [
+        "u07_head"
+      ],
+      "needs_context": false,
+      "prompt": "h _ a d",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C3 · cue dòng 308",
+      "challenge": 3,
+      "line": 309,
+      "raw": "B: I can touch my ____________________.",
+      "ids": [
+        "u07_touch_head"
+      ],
+      "prompt": "B: I can touch my ____________________.",
+      "options": [],
+      "teacher_audio": "Đáp án: head",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · cue dòng 311",
+      "challenge": 3,
+      "line": 312,
+      "raw": "B: I can touch my ____________________.",
+      "ids": [
+        "u07_touch_eyes"
+      ],
+      "prompt": "B: I can touch my ____________________.",
+      "options": [],
+      "teacher_audio": "Đáp án: eyes",
+      "needs_context": false
+    },
+    {
+      "id": "C4 · dòng 370",
+      "challenge": 4,
+      "line": 370,
+      "raw": "| 1. head | A. 👤 (đầu) |",
+      "ids": [
+        "u07_head"
+      ],
+      "needs_context": false,
+      "prompt": "head",
+      "options": [
+        "A. 👤 (đầu)",
+        "B. 🧍 (hai vai)",
+        "C. 🦵 (đầu gối)",
+        "D. 🦶 (ngón chân)",
+        "E. 👀 (mắt)",
+        "F. 👂 (tai)",
+        "G. 👄 (miệng)",
+        "H. 👃 (mũi)"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 401",
+      "challenge": 5,
+      "line": 401,
+      "raw": "👀",
+      "ids": [
+        "u07_eyes"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "ears",
+        "eyes",
+        "nose",
+        "mouth"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 421",
+      "challenge": 5,
+      "line": 421,
+      "raw": "👤 *(đầu)* → ____________________",
+      "ids": [
+        "u07_head"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ____________________",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 15,
+  "debug_labels_hidden_by_default": true
+}

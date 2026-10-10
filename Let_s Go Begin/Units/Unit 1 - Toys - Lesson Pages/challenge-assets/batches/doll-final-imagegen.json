@@ -1,0 +1,22 @@
+{
+  "ids": [
+    "u01_doll"
+  ],
+  "tool": "built-in image_gen",
+  "prompt": "Create a clean isolated educational illustration card by extracting ONLY the seated toy doll from the first supplied source textbook page (bottom-left toy). Use the second image as the current card edit target: restore the rounded lower contour of BOTH black shoes which is presently flat-cut at the bottom. Preserve the exact curly red hair, complete red bow, pink/yellow/white dress, striped socks, raised waving arm, seated leaning pose, face, and source bright textbook cartoon style. Both shoes and the entire red bow must be fully visible with generous white margin on all sides; no flat-cut contours. Use the complete doll in the first source image to guide the missing shoe contour. Plain white background, one doll only. No train/car/bear, no labels, words, numbers, teacher answer text, panel IDs or watermark. Square card; fit entire doll within 85 percent of canvas.",
+  "refs": [
+    "../pages/png/CD1_11.png",
+    "webp/u01_doll.webp"
+  ],
+  "result": "doll-final-imagegen.png",
+  "reason": "Restore complete rounded shoe contours; retain source doll identity and complete bow.",
+  "reference_input_paths_at_call": [
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 1 - Toys - Lesson Pages/pages/png/CD1_11.png",
+    "E:/let-go-series/Let_s Go Begin/Units/Unit 1 - Toys - Lesson Pages/challenge-assets/webp/u01_doll.webp"
+  ],
+  "input_versions": {
+    "pre_edit_card_sha256": "cc898c6d218ba8e2d11e53e03bc9a3180855a974a1a9c567ac4a3466bd8d73f6",
+    "pre_edit_snapshot_batch": "u01_toys_8_cards-before-final-doll.png",
+    "note": "The second input path was updated with corrected output later; the original crop version is retained in the pre-edit composed batch."
+  }
+}

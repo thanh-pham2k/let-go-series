@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Row1 objects: red flat circle, colorful umbrella, brown violin plus bow, wristwatch blue strap red circular bezel unlettered face with tick marks only. Row2 actions: girl red jacket blue helmet actually pedaling pink bike two complete wheels; brown-haired boy blue striped shirt orange trousers singing microphone; black-haired boy red shirt blue shorts flying orange kite with connected taut string; red-haired ponytail girl yellow shirt blue shorts red shoes bouncing basketball, ball below hand with bounce motion marks. Row3: blond boy swimming water blue splashes; red-haired green-shirt boy smiling BOTH eyes OPEN; dark-skinned girl curly pigtails green-red striped shirt winking ONE eye shut other OPEN; black-haired red-shirt boy purple trousers dancing bent lifted knee arms rhythmic. Keep kite wholly within cell and all wheels/feet visible.
+Row 1, column 1: Một hình tròn màu đỏ, không chữ, để bé chỉ/chạm trong câu I can touch the red circle.
+Row 1, column 2: Một umbrella theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.
+Row 1, column 3: Một violin theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.
+Row 1, column 4: Một watch theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.
+Row 2, column 1: Bé thực sự đang đạp xe, chân trên bàn đạp, hai bánh rõ; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 2, column 2: Bé đang hát, miệng mở, cử chỉ hát và nốt nhạc phụ vừa đủ; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 2, column 3: Bé đang thả diều bay, dây nối tay với diều rõ; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 2, column 4: Bé đập bóng xuống đất, tay/bóng/vệt chuyển động thể hiện bounce, không chỉ cầm bóng; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 3, column 1: Bé bơi trong nước, cử động rõ; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 3, column 2: Cận mặt bé cười, cả hai mắt mở; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 3, column 3: Cận mặt bé nháy đúng một mắt, mắt kia mở; không giống smile; cùng nhân vật/thiết kế trang Words; không nhãn.
+Row 3, column 4: Bé đang múa/nhảy với tư thế rõ, khác chạy hoặc đứng; cùng nhân vật/thiết kế trang Words; không nhãn.

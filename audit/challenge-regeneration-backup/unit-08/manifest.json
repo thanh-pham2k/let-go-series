@@ -1,0 +1,959 @@
+{
+  "schema_version": "1.0",
+  "unit": 8,
+  "topic": "Abilities",
+  "scope": "Challenge 1–5",
+  "generated_at": "2026-10-10",
+  "required_asset_count": 15,
+  "conditional_asset_count": 2,
+  "generation_log": "batches/generation-log.json",
+  "assets": [
+    {
+      "id": "u08_ride_bicycle",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=ride_bicycle; subject=child; state=positive",
+      "file": "webp/u08_ride_bicycle.webp",
+      "png": "png/u08_ride_bicycle.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        90,
+        158,
+        232,
+        236,
+        244,
+        293,
+        464,
+        495,
+        515,
+        539
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 34172,
+      "sha256": "65e3bffe8043e69027d0a04c80b38c01472801a4a42b173abaa8109bcfe64186",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_ride_bicycle",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "65e3bffe8043e69027d0a04c80b38c01472801a4a42b173abaa8109bcfe64186",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_sing_song",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=sing_song; subject=child; state=positive",
+      "file": "webp/u08_sing_song.webp",
+      "png": "png/u08_sing_song.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        97,
+        236,
+        244,
+        294,
+        465,
+        517
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 26398,
+      "sha256": "03908d915dad1e27920b79b6ac163da79750f25789a3ee739ad2fd56c185d045",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_sing_song",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "03908d915dad1e27920b79b6ac163da79750f25789a3ee739ad2fd56c185d045",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_fly_kite",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=fly_kite; subject=child; state=positive; prop=kite",
+      "file": "webp/u08_fly_kite.webp",
+      "png": "png/u08_fly_kite.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        104,
+        163,
+        232,
+        236,
+        295,
+        466,
+        501,
+        519,
+        533
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 25996,
+      "sha256": "d1f6c8fccf20839640212a3fb757be66a43c1ad9a52769987685f9f327dac74c",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_fly_kite",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "d1f6c8fccf20839640212a3fb757be66a43c1ad9a52769987685f9f327dac74c",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_bounce_ball",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=bounce_ball; subject=child; state=positive; prop=basketball",
+      "file": "webp/u08_bounce_ball.webp",
+      "png": "png/u08_bounce_ball.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "uses": [
+        111,
+        232,
+        240,
+        296,
+        467,
+        521
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 28580,
+      "sha256": "18555285bbb92e3a0e7d601e14d3c6c9bcb3019d2ca4b02a1e8822a6d42c87fa",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_bounce_ball",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "18555285bbb92e3a0e7d601e14d3c6c9bcb3019d2ca4b02a1e8822a6d42c87fa",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_swim",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=swim; subject=child; state=positive; environment=water",
+      "file": "webp/u08_swim.webp",
+      "png": "png/u08_swim.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        118,
+        232,
+        240,
+        244,
+        297,
+        468,
+        523,
+        549
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 30628,
+      "sha256": "b0f333279f9c72bd23d57c9b72b08be3db94453b384d80b50e1dabb1c6af6e14",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_swim",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b0f333279f9c72bd23d57c9b72b08be3db94453b384d80b50e1dabb1c6af6e14",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_smile",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=smile; subject=child_face; eyes=both_open",
+      "file": "webp/u08_smile.webp",
+      "png": "png/u08_smile.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        125,
+        240,
+        298,
+        469,
+        525
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 20938,
+      "sha256": "8d7e3c7321f34fdc7791dddd688e46102b84d876f21814bd11c1ebbe9b3bc45e",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_smile",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "8d7e3c7321f34fdc7791dddd688e46102b84d876f21814bd11c1ebbe9b3bc45e",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_wink",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=wink; subject=child_face; eyes=one_closed_one_open",
+      "file": "webp/u08_wink.webp",
+      "png": "png/u08_wink.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        132,
+        240,
+        299,
+        470,
+        507,
+        527
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 22318,
+      "sha256": "b52de4226b5e07274b97a3657b86ec31a0d5034f8b2fb0165d95e4be9bb2f547",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_wink",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b52de4226b5e07274b97a3657b86ec31a0d5034f8b2fb0165d95e4be9bb2f547",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_dance",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=dance; subject=child; state=positive",
+      "file": "webp/u08_dance.webp",
+      "png": "png/u08_dance.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "uses": [
+        139,
+        236,
+        244,
+        300,
+        471,
+        529,
+        544
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 21174,
+      "sha256": "e5599e8eda922a89ae8608e729a4c61bb1e832384db7fbc878736693e174950f",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_dance",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e5599e8eda922a89ae8608e729a4c61bb1e832384db7fbc878736693e174950f",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_cannot_fly_kite",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=fly_kite; subject=child; state=negative; kite=grounded; string=slack",
+      "file": "webp/u08_cannot_fly_kite.webp",
+      "png": "png/u08_cannot_fly_kite.png",
+      "batch": "batches/repair-cannot-fly-kite.png",
+      "repair": "Repaired to use the same black-haired boy, red shirt, blue shorts and orange-yellow kite as u08_fly_kite; kite remains grounded with slack tangled line.",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+      ],
+      "uses": [
+        168,
+        536
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 42430,
+      "sha256": "1f09da044ad8a8e095b97d208a8323e3a957fe1bde8491b1b9b7b60fc15cf7c4",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_repair_cannot_fly_kite",
+        "record_id": "u08_cannot_fly_kite",
+        "batch_master": "batches/repair-cannot-fly-kite.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-02bfd40d-5529-4c8a-b3d6-341087038e4f.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1f09da044ad8a8e095b97d208a8323e3a957fe1bde8491b1b9b7b60fc15cf7c4",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_play_ball",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=play_ball; subjects=two_children; prop=ball; state=shared_game",
+      "file": "webp/u08_play_ball.webp",
+      "png": "png/u08_play_ball.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "uses": [
+        556
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 37678,
+      "sha256": "b37a9b63dbba316c7bd9334743bffd91bdcf18d25ecb0af9b4c694be3073235a",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_play_ball",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "b37a9b63dbba316c7bd9334743bffd91bdcf18d25ecb0af9b4c694be3073235a",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_play_tag",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=play_tag; subjects=two_children; state=chase_and_tag",
+      "file": "webp/u08_play_tag.webp",
+      "png": "png/u08_play_tag.png",
+      "batch": "batches/repair-play-tag.png",
+      "repair": "Recomposed with both children fully visible, including heads, hair and feet, while preserving the reaching chase/tag action.",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "uses": [
+        561
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 52864,
+      "sha256": "f5ead3c46e609fcec2cd8395ea7d61104e06a1b39d4904ca7478030a537f9e8f",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_repair_play_tag",
+        "record_id": "u08_play_tag",
+        "batch_master": "batches/repair-play-tag.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-f1bfb061-e83b-4fb7-a867-7c50464b47e5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "f5ead3c46e609fcec2cd8395ea7d61104e06a1b39d4904ca7478030a537f9e8f",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_jump_rope",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "action=jump_rope; subject=child; prop=rope; state=active_jump",
+      "file": "webp/u08_jump_rope.webp",
+      "png": "png/u08_jump_rope.png",
+      "batch": "batches/batch1-actions.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "uses": [
+        566
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 28678,
+      "sha256": "7bc8ac46ec32c19378247338d70d71af8411a04698cfd5f1746193e05d8675e8",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch1_actions",
+        "record_id": "u08_jump_rope",
+        "batch_master": "batches/batch1-actions.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-cf98b6e3-6782-4491-8399-e54d224d2eb5.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "7bc8ac46ec32c19378247338d70d71af8411a04698cfd5f1746193e05d8675e8",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_fox",
+      "required": true,
+      "kind": "generated_from_reference",
+      "method_used": "built_in_image_gen",
+      "semantic": "phonics=fox; subject=full_body_fox",
+      "file": "webp/u08_fox.webp",
+      "png": "png/u08_fox.png",
+      "batch": "batches/batch2-phonics.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "uses": [
+        477,
+        617
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 21770,
+      "sha256": "0f75e4e826e73926d7ffb4541c9afc1644b8cd5c5a77b6a421d404917fa98881",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch2_phonics",
+        "record_id": "u08_fox",
+        "batch_master": "batches/batch2-phonics.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-95d9304b-c626-47d8-87ba-754f218df60d.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "0f75e4e826e73926d7ffb4541c9afc1644b8cd5c5a77b6a421d404917fa98881",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_yarn",
+      "required": true,
+      "kind": "generated_from_reference",
+      "method_used": "built_in_image_gen",
+      "semantic": "phonics=yarn; subject=blue_yarn_ball",
+      "file": "webp/u08_yarn.webp",
+      "png": "png/u08_yarn.png",
+      "batch": "batches/batch2-phonics.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "uses": [
+        478,
+        618
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 20030,
+      "sha256": "02b4e02f0526551d7ce4106e8c5d2ce4c38abf77a880cb291a636fdaf2f5ce0e",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch2_phonics",
+        "record_id": "u08_yarn",
+        "batch_master": "batches/batch2-phonics.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-95d9304b-c626-47d8-87ba-754f218df60d.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "02b4e02f0526551d7ce4106e8c5d2ce4c38abf77a880cb291a636fdaf2f5ce0e",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_zebra",
+      "required": true,
+      "kind": "generated_from_reference",
+      "method_used": "built_in_image_gen",
+      "semantic": "phonics=zebra; subject=full_body_zebra",
+      "file": "webp/u08_zebra.webp",
+      "png": "png/u08_zebra.png",
+      "batch": "batches/batch2-phonics.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "uses": [
+        479,
+        619
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 23974,
+      "sha256": "d8a07a1fa82e92638ec2c8e06d071bea78e95b10a04d60ad68a17fe0eab21a01",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch2_phonics",
+        "record_id": "u08_zebra",
+        "batch_master": "batches/batch2-phonics.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-95d9304b-c626-47d8-87ba-754f218df60d.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "d8a07a1fa82e92638ec2c8e06d071bea78e95b10a04d60ad68a17fe0eab21a01",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      }
+    },
+    {
+      "id": "u08_make_circle",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "command=make_circle; subjects=five_children; formation=closed_circle",
+      "file": "webp/u08_make_circle.webp",
+      "png": "png/u08_make_circle.png",
+      "batch": "batches/batch3-conditional.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "uses": [
+        390
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 34840,
+      "sha256": "53b2734c88bbd308fc288f7ea554aecbf7ba876214ae101a116b3809c7fccb0b",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch3_conditional",
+        "record_id": "u08_make_circle",
+        "batch_master": "batches/batch3-conditional.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-06cc50f0-bf1c-4078-8bbf-1c4cc587e347.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "53b2734c88bbd308fc288f7ea554aecbf7ba876214ae101a116b3809c7fccb0b",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 8,
+          "question_line": 390,
+          "cue_line": 390,
+          "asset_id": "u08_make_circle",
+          "asset_ids": [
+            "u08_make_circle"
+          ],
+          "expected_answer": "circle",
+          "accepted_answers": [
+            "circle"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "5. Make a ________."
+        }
+      ],
+      "conditional": false
+    },
+    {
+      "id": "u08_make_line",
+      "required": true,
+      "kind": "edit_or_generate",
+      "semantic": "command=make_line; subjects=four_children; formation=straight_line",
+      "file": "webp/u08_make_line.webp",
+      "png": "png/u08_make_line.png",
+      "batch": "batches/batch3-conditional.png",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "uses": [
+        391
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440
+      },
+      "dimensions": [
+        512,
+        512
+      ],
+      "file_bytes": 31518,
+      "sha256": "2d4fdf7a12d3d9cc0c2730bd71a010f43bf7eb494053c34c99955d2948dfd249",
+      "visual_review": "passed",
+      "creation_method": "built_in_image_gen",
+      "generation": {
+        "tool": "built-in image_gen",
+        "job_id": "u08_batch3_conditional",
+        "record_id": "u08_make_line",
+        "batch_master": "batches/batch3-conditional.png",
+        "generation_log": "batches/generation-log.json",
+        "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-06cc50f0-bf1c-4078-8bbf-1c4cc587e347.png"
+      },
+      "format": "WEBP",
+      "quality": 80,
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "2d4fdf7a12d3d9cc0c2730bd71a010f43bf7eb494053c34c99955d2948dfd249",
+        "status": "pass",
+        "notes": "Root individually viewed17 and recheckednegativekite/tagrepairs. Sameboyclothesandkite positive/negative, clear inabilitystate; two fullchildrenplayingtag. Allotheraction/phonics/conditionalcards pass."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 8,
+          "question_line": 391,
+          "cue_line": 391,
+          "asset_id": "u08_make_line",
+          "asset_ids": [
+            "u08_make_line"
+          ],
+          "expected_answer": "line",
+          "accepted_answers": [
+            "line"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "6. Make a ________."
+        }
+      ],
+      "conditional": false
+    }
+  ],
+  "dedup": {
+    "duplicate_sha256_groups": [],
+    "same_semantic_reuse": "Repeated questions point to the same ID; no duplicate pixel assets inside Unit 8."
+  },
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

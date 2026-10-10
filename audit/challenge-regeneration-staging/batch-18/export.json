@@ -1,0 +1,192 @@
+{
+  "batch": 18,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "r78_day_01_sunday",
+      "crop_box": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10732,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_01_sunday.webp",
+      "sha256": "3f023429653cc448c4c9addf6bc1da33bcd71fabb2ed4f45178ce3e0db7c5fef"
+    },
+    {
+      "id": "r78_day_02_monday",
+      "crop_box": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11878,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_02_monday.webp",
+      "sha256": "2a278378660aca74b31444968c2cc44076b8fd64c2bcabe850b7b812d5cbbc70"
+    },
+    {
+      "id": "r78_day_03_tuesday",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12260,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_03_tuesday.webp",
+      "sha256": "ddab03c3b1caba579f7615ac349ce766bfaa4f92d82df36180a2435cc3edf5db"
+    },
+    {
+      "id": "r78_day_04_wednesday",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10940,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_04_wednesday.webp",
+      "sha256": "7f4a23f6bb1d0a602dbe7cae2f9c2cac59684420701b21dca1501733169e41cf"
+    },
+    {
+      "id": "r78_day_05_thursday",
+      "crop_box": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11722,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_05_thursday.webp",
+      "sha256": "2ac2145408a781dede9443905a16d0fdc602519c5fc75d33ff52b868e002f7a5"
+    },
+    {
+      "id": "r78_day_06_friday",
+      "crop_box": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12066,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_06_friday.webp",
+      "sha256": "09d58da4875f30ab64a21e473ac92dc634738c3bd9a42b129198118a1d7da468"
+    },
+    {
+      "id": "r78_day_07_saturday",
+      "crop_box": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "original_cell_size": [
+        362,
+        362
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 11330,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Calendar cues exact digits1 through7 in source colors, no weekday answer names; five empty slots not exported."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_07_saturday.webp",
+      "sha256": "ab59258ed1165558932807a1075083ae84a0298eb9b5af0c38746ef70d75886d"
+    }
+  ],
+  "status": "visual_review_pass"
+}

@@ -1,0 +1,156 @@
+{
+  "schema": "challenge-assets.validation.v1",
+  "review": "Review 5-6",
+  "status": "passed",
+  "checked_at": "2026-10-10",
+  "source_check": {
+    "source_exists": true,
+    "source_line_count": 867,
+    "inventory_question_count": 88,
+    "inventory_asset_count": 19,
+    "source_locator_misses": []
+  },
+  "asset_check": {
+    "expected_ids": [
+      "r56_cat_01",
+      "r56_cat_03",
+      "r56_cat_04",
+      "r56_rabbit_01",
+      "r56_rabbit_02",
+      "r56_rabbit_05",
+      "r56_ice_cream",
+      "r56_cake",
+      "r56_bread",
+      "r56_rice",
+      "r56_skip",
+      "r56_jump",
+      "r56_make_line",
+      "r56_make_circle",
+      "r56_sunny",
+      "r56_cloudy",
+      "r56_windy",
+      "r56_rainy",
+      "r56_snowy"
+    ],
+    "present_ids": [
+      "r56_bread",
+      "r56_cake",
+      "r56_cat_01",
+      "r56_cat_03",
+      "r56_cat_04",
+      "r56_cloudy",
+      "r56_ice_cream",
+      "r56_jump",
+      "r56_make_circle",
+      "r56_make_line",
+      "r56_rabbit_01",
+      "r56_rabbit_02",
+      "r56_rabbit_05",
+      "r56_rainy",
+      "r56_rice",
+      "r56_skip",
+      "r56_snowy",
+      "r56_sunny",
+      "r56_windy"
+    ],
+    "missing_ids": [],
+    "unexpected_ids": [],
+    "all_dimensions_512x512": true,
+    "max_bytes": 35776,
+    "over_60kb": [],
+    "exact_duplicate_sha256_groups": [],
+    "visual_reviewed_count": 19,
+    "visual_review_unresolved": []
+  },
+  "mapping_check": {
+    "questions_total": 88,
+    "questions_with_asset_mapping": 56,
+    "questions_without_static_image": 32,
+    "questions_needs_context": 0,
+    "unknown_asset_refs": []
+  },
+  "provenance_counts": {
+    "crop_or_edit": 5,
+    "image_gen_edit": 11,
+    "image_gen": 3,
+    "native": 0,
+    "composite": 0
+  },
+  "notes": [
+    "Second-pass QA replaced clipped crops for 11 IDs using built-in image_gen edits from viewed lesson-page crops.",
+    "All revised cards were viewed individually at 512px after WebP export.",
+    "Single variants cat_01/rabbit_01 and five-rabbit variant rabbit_05 remain clean generated cards.",
+    "Weather cards preserve sunny/cloudy/windy/rainy/snowy visual distinctions.",
+    "Provenance records exact built-in image_gen prompts, referenced paths, results, and master/crop operations; final pixels were unchanged during documentation."
+  ],
+  "provenance_check": {
+    "file": "provenance.json",
+    "exists": true,
+    "event_count": 15,
+    "final_generated_asset_event_links": 14,
+    "superseded_events": 1,
+    "exact_prompts_preserved": true,
+    "master_crop_operations_preserved": true,
+    "manifest_generated_output_links": 14,
+    "manifest_generated_output_ids_match": true
+  },
+  "complete": true,
+  "missing": [],
+  "asset_count": 19,
+  "webp_count": 19,
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "r56_cat_01": 13884,
+      "r56_cat_03": 23798,
+      "r56_cat_04": 30370,
+      "r56_rabbit_01": 11618,
+      "r56_rabbit_02": 16788,
+      "r56_rabbit_05": 24054,
+      "r56_ice_cream": 7384,
+      "r56_cake": 17388,
+      "r56_bread": 10734,
+      "r56_rice": 17122,
+      "r56_skip": 16950,
+      "r56_jump": 14084,
+      "r56_make_line": 32550,
+      "r56_make_circle": 30876,
+      "r56_sunny": 28862,
+      "r56_cloudy": 27702,
+      "r56_windy": 34116,
+      "r56_rainy": 29862,
+      "r56_snowy": 31484
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 19
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 19,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 34116,
+    "over_60kb": [],
+    "unique_hashes": 19,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

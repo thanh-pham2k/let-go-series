@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "review": "1-2",
+  "source_question_count": 83,
+  "inventory_question_count": 83,
+  "question_ids_missing_from_source": [],
+  "question_ids_missing_from_inventory": [],
+  "source_question_ids_match_inventory": true,
+  "required_asset_count": 17,
+  "webp_count": 17,
+  "missing_asset_ids": [],
+  "unexpected_webp_ids": [],
+  "dimensions_512x512": true,
+  "oversize_files": [],
+  "duplicate_hash_groups": [],
+  "question_mappings_total": 83,
+  "question_mappings_with_required_image": 51,
+  "question_mappings_without_static_image": 32,
+  "question_mappings_missing_asset": [],
+  "visual_review_all_assets": true,
+  "contains_answer_text_or_source_markers": false,
+  "audio_created": false,
+  "source_files_modified": false,
+  "status": "complete",
+  "production_summary": {
+    "crop_count": 8,
+    "edited_with_built_in_imagegen": 9,
+    "native_graphic_count": 0,
+    "composite_count": 0,
+    "new_ai_generation_count": 0,
+    "context_open": [],
+    "missing_required_assets": []
+  },
+  "imagegen_log": "batches/imagegen-log.json",
+  "imagegen_log_exists": true,
+  "imagegen_log_entries": 9,
+  "creation_methods_present": true,
+  "creation_methods": {
+    "built_in_imagegen_edit": 9,
+    "crop_and_mask": 2,
+    "crop_from_lesson": 6
+  },
+  "root_final_audit": {
+    "card_count": 17,
+    "all_individual_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 36108,
+    "over_60kb": [],
+    "unique_hashes": 17,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

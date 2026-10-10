@@ -1,0 +1,322 @@
+{
+  "batch": 14,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "r34_stop",
+      "crop_box": [
+        0,
+        0,
+        362,
+        380
+      ],
+      "original_cell_size": [
+        362,
+        380
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 21594,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_stop.webp",
+      "sha256": "b15ac5aeb639d0551ef7a2325ffecb767be15b0e5b540186dd58093715017af1"
+    },
+    {
+      "id": "r34_take_out_pencil",
+      "crop_box": [
+        362,
+        0,
+        724,
+        380
+      ],
+      "original_cell_size": [
+        362,
+        380
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 26528,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_take_out_pencil.webp",
+      "sha256": "dab2abdb1e51e45f7807976cf0538f8a292920cdd74613901d2438c68558232f"
+    },
+    {
+      "id": "r34_put_away_pencil",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        380
+      ],
+      "original_cell_size": [
+        362,
+        380
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19408,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_put_away_pencil.webp",
+      "sha256": "75b52ba1c4252ee0520cab216b09f0e9ee62f7132089131bea5e05737614f921"
+    },
+    {
+      "id": "r34_open_book",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        380
+      ],
+      "original_cell_size": [
+        362,
+        380
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 20336,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_open_book.webp",
+      "sha256": "51b7bf8fde82b9a7ce9bcfa3187449f142f97eb5dc804d0bd5932d7010bff115"
+    },
+    {
+      "id": "r34_close_book",
+      "crop_box": [
+        0,
+        380,
+        362,
+        725
+      ],
+      "original_cell_size": [
+        362,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19060,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_close_book.webp",
+      "sha256": "16b047510b6adfae8ee560dccb2c80ed91b8485f8075f7e3f91fefeb765d72c4"
+    },
+    {
+      "id": "r34_triangles_02",
+      "crop_box": [
+        362,
+        380,
+        724,
+        725
+      ],
+      "original_cell_size": [
+        362,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5160,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_02.webp",
+      "sha256": "9001fa13b7dc992b751fc5c264da34da2f08f41d9a19d252198095ef3854dfe1"
+    },
+    {
+      "id": "r34_triangles_03",
+      "crop_box": [
+        724,
+        380,
+        1086,
+        725
+      ],
+      "original_cell_size": [
+        362,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5014,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_03.webp",
+      "sha256": "ea19f13051de7aae345f74b3f5d1d21f4d34d92b9222d4c349e8766d66b5c5b4"
+    },
+    {
+      "id": "r34_triangles_04",
+      "crop_box": [
+        1086,
+        380,
+        1448,
+        725
+      ],
+      "original_cell_size": [
+        362,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 8024,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_04.webp",
+      "sha256": "17f33d187ffaced072aebf635e9d176d4cfbd1c1a7700614b76dacfa1869efbb"
+    },
+    {
+      "id": "r34_triangles_05",
+      "crop_box": [
+        0,
+        725,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        361
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 7806,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_05.webp",
+      "sha256": "812f6dab5b0b9a60d3a82bedd701c7f67c2f7d473e5e9e6e8a46518cf4a58091"
+    },
+    {
+      "id": "r34_triangles_06",
+      "crop_box": [
+        362,
+        725,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        361
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 8632,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_06.webp",
+      "sha256": "bc4922f42503736c67d7dbadbb42c1ec85b0feec02ab635a92ac30f09df63c4e"
+    },
+    {
+      "id": "r34_triangles_07",
+      "crop_box": [
+        724,
+        725,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        361
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10676,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_07.webp",
+      "sha256": "6b0c53e2100ade62026575afb0c04ae096699a6c6a0222e297cbdacf65970e93"
+    },
+    {
+      "id": "r34_diamonds_04",
+      "crop_box": [
+        1086,
+        725,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        361
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10774,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_04.webp",
+      "sha256": "6a98effc063cf6f6e28e0b6a52f3899b335bff3787265c6c45e07761e269aaee"
+    }
+  ],
+  "status": "visual_review_pass"
+}

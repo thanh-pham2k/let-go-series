@@ -1,0 +1,138 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 90",
+      "challenge": 1,
+      "line": 90,
+      "raw": "🚲",
+      "ids": [
+        "u08_ride_bicycle"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "fly a kite",
+        "ride a bicycle",
+        "bounce a ball",
+        "swim"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 232",
+      "challenge": 2,
+      "line": 232,
+      "raw": "`🚲 / 🪁 / 🏊 / 🏀`",
+      "ids": [
+        "u08_ride_bicycle",
+        "u08_fly_kite",
+        "u08_bounce_ball",
+        "u08_swim"
+      ],
+      "needs_context": false,
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn hình/câu trả lời phù hợp.",
+      "options": [
+        "Hình A",
+        "Hình B",
+        "Hình C",
+        "Hình D"
+      ],
+      "teacher_audio": "Nghe: **ride a bicycle**"
+    },
+    {
+      "id": "C3 · dòng 293",
+      "challenge": 3,
+      "line": 293,
+      "raw": "1. r _ d e   a   b _ c y c l e *(ride a bicycle)* 🚲",
+      "ids": [
+        "u08_ride_bicycle"
+      ],
+      "needs_context": false,
+      "prompt": "r _ d e   a   b _ c y c l e",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C3 · cue dòng 390",
+      "challenge": 3,
+      "line": 390,
+      "raw": "5. Make a ________.",
+      "ids": [
+        "u08_make_circle"
+      ],
+      "prompt": "5. Make a ________.",
+      "options": [],
+      "teacher_audio": "Đáp án: circle",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · cue dòng 391",
+      "challenge": 3,
+      "line": 391,
+      "raw": "6. Make a ________.",
+      "ids": [
+        "u08_make_line"
+      ],
+      "prompt": "6. Make a ________.",
+      "options": [],
+      "teacher_audio": "Đáp án: line",
+      "needs_context": false
+    },
+    {
+      "id": "C4 · dòng 464",
+      "challenge": 4,
+      "line": 464,
+      "raw": "| 1. 🚲 | A. sing a song |",
+      "ids": [
+        "u08_ride_bicycle"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Ghép với từ hoặc câu phù hợp.",
+      "options": [
+        "A. sing a song",
+        "B. ride a bicycle",
+        "C. bounce a ball",
+        "D. fly a kite",
+        "E. wink",
+        "F. swim",
+        "G. dance",
+        "H. smile"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 495",
+      "challenge": 5,
+      "line": 495,
+      "raw": "🚲",
+      "ids": [
+        "u08_ride_bicycle"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "fly a kite",
+        "ride a bicycle",
+        "swim",
+        "dance"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 515",
+      "challenge": 5,
+      "line": 515,
+      "raw": "🚲 → ____________________",
+      "ids": [
+        "u08_ride_bicycle"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ____________________",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 17,
+  "debug_labels_hidden_by_default": true
+}

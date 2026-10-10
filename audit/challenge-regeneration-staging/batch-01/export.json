@@ -1,0 +1,322 @@
+{
+  "batch": 1,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u01_ball",
+      "crop_box": [
+        16,
+        16,
+        360,
+        359
+      ],
+      "original_cell_size": [
+        344,
+        343
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13530,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_ball.webp",
+      "sha256": "e1ba2b5d2eacb7d68051c7a410beafe65019a20722f4d48ef4ea030dbf731f67"
+    },
+    {
+      "id": "u01_jump_rope",
+      "crop_box": [
+        375,
+        16,
+        718,
+        359
+      ],
+      "original_cell_size": [
+        343,
+        343
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18436,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_jump_rope.webp",
+      "sha256": "f43a90de24235fdf19005fa6f1aab53b447cc52ad32878c34d97432cada2e61f"
+    },
+    {
+      "id": "u01_yo_yo",
+      "crop_box": [
+        732,
+        16,
+        1075,
+        359
+      ],
+      "original_cell_size": [
+        343,
+        343
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 13622,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_yo_yo.webp",
+      "sha256": "3b7e44d5530806adb6f42c6a05442a5f9c8f9ec0f00e02dfe25ad639b923ef20"
+    },
+    {
+      "id": "u01_bicycle",
+      "crop_box": [
+        1090,
+        16,
+        1433,
+        359
+      ],
+      "original_cell_size": [
+        343,
+        343
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 22140,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_bicycle.webp",
+      "sha256": "16af345666196c614b1cf885e186cfd0973cf00d22aed6d22a37f8c9f93920f5"
+    },
+    {
+      "id": "u01_train",
+      "crop_box": [
+        16,
+        373,
+        360,
+        712
+      ],
+      "original_cell_size": [
+        344,
+        339
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 20312,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_train.webp",
+      "sha256": "379a449c4eb60315e85f9dfef2b52dc0d7b0983c61c6e9c5f6f46afd798d61b1"
+    },
+    {
+      "id": "u01_car",
+      "crop_box": [
+        375,
+        373,
+        718,
+        712
+      ],
+      "original_cell_size": [
+        343,
+        339
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17566,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_car.webp",
+      "sha256": "a992485b0984be67420ccc93b4349ae3c5f3e5a0376a976f6b9a8be616fb75fe"
+    },
+    {
+      "id": "u01_doll",
+      "crop_box": [
+        732,
+        373,
+        1075,
+        712
+      ],
+      "original_cell_size": [
+        343,
+        339
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19034,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_doll.webp",
+      "sha256": "f6ac6a45e0d1516ebe6e9a85a64e3fd5fff3066ca0b0ddfcd9cbc9203b07d71f"
+    },
+    {
+      "id": "u01_teddy_bear",
+      "crop_box": [
+        1090,
+        373,
+        1433,
+        712
+      ],
+      "original_cell_size": [
+        343,
+        339
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 19512,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_teddy_bear.webp",
+      "sha256": "ecc6412fe0632c5b24ac10904102e0395b5ef569e064e85e072d139098ccca65"
+    },
+    {
+      "id": "u02_color_red",
+      "crop_box": [
+        16,
+        726,
+        360,
+        1071
+      ],
+      "original_cell_size": [
+        344,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 29012,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_red.webp",
+      "sha256": "0f4ce4793c80797707d4c4bbe4523257e6d770260d464356275fe3615e192f3c"
+    },
+    {
+      "id": "u02_color_blue",
+      "crop_box": [
+        375,
+        726,
+        718,
+        1071
+      ],
+      "original_cell_size": [
+        343,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 27496,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_blue.webp",
+      "sha256": "676c40b142372ac8ce4bae0fc6771cc454d3b815ba76514a22659516504e6316"
+    },
+    {
+      "id": "u02_color_yellow",
+      "crop_box": [
+        732,
+        726,
+        1075,
+        1071
+      ],
+      "original_cell_size": [
+        343,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14154,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_yellow.webp",
+      "sha256": "2044a28d210fd108c9ac254d1032f63fe7e03a8438a3e318b12f2fb31efbf0a6"
+    },
+    {
+      "id": "u02_color_green",
+      "crop_box": [
+        1090,
+        726,
+        1433,
+        1071
+      ],
+      "original_cell_size": [
+        343,
+        345
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 26200,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Eight complete toys, correct source designs/colors; rope handles and yo-yo string intact; four correct paint swatches."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_green.webp",
+      "sha256": "09038b91c8576edc6cbc972fb09e48bd889be8b6ef9e0af3521139ba0a838871"
+    }
+  ],
+  "status": "visual_review_pass"
+}

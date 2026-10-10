@@ -1,0 +1,101 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 67",
+      "challenge": 1,
+      "line": 67,
+      "raw": "1. 🟥 → `red / blue / green / yellow`",
+      "ids": [
+        "u02_color_red"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 116",
+      "challenge": 2,
+      "line": 116,
+      "raw": "1. **Come here.**  ",
+      "ids": [],
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn đáp án phù hợp.",
+      "options": [
+        "Lại đây.",
+        "Quay lại."
+      ],
+      "teacher_audio": "1. **Come here.**   Người lớn chọn một nội dung hợp lệ trong bài nguồn để đọc; audio Challenge sẽ bổ sung sau.",
+      "needs_context": false
+    },
+    {
+      "id": "C3 · dòng 190",
+      "challenge": 3,
+      "line": 190,
+      "raw": "1. r _ d *(red)* 🟥",
+      "ids": [
+        "u02_color_red"
+      ],
+      "needs_context": false,
+      "prompt": "r _ d",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C4 · dòng 323",
+      "challenge": 4,
+      "line": 323,
+      "raw": "| 1. What color is it? 🟪 | A. It's a green car. |",
+      "ids": [
+        "u02_color_purple"
+      ],
+      "needs_context": false,
+      "prompt": "What color is it?",
+      "options": [
+        "A. It's a green car.",
+        "B. It's purple.",
+        "C. See you later.",
+        "D. Hello, Miss Jones."
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 350",
+      "challenge": 5,
+      "line": 350,
+      "raw": "🟧 → `pink / orange / brown / yellow`",
+      "ids": [
+        "u02_color_orange"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "pink",
+        "orange",
+        "brown",
+        "yellow"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 358",
+      "challenge": 5,
+      "line": 358,
+      "raw": "🟥 → ____________________",
+      "ids": [
+        "u02_color_red"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Nói hoặc điền câu trả lời: → ____________________",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 19,
+  "debug_labels_hidden_by_default": true
+}

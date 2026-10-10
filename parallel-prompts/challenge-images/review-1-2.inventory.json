@@ -1,0 +1,1350 @@
+{
+  "review": "1-2",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages",
+  "assets": [
+    {
+      "id": "r12_car",
+      "brief": "Ô tô đồ chơi ở 1a",
+      "uses": [
+        "R12-C1-01",
+        "R12-C4-06",
+        "R12-C4-10",
+        "R12-C5-01",
+        "R12-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_car.webp"
+      ]
+    },
+    {
+      "id": "r12_train",
+      "brief": "Đoàn tàu đồ chơi ở 1b",
+      "uses": [
+        "R12-C1-02",
+        "R12-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_train.webp"
+      ]
+    },
+    {
+      "id": "r12_bicycle",
+      "brief": "Xe đạp ở 2a",
+      "uses": [
+        "R12-C1-03",
+        "R12-C5-06"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_bicycle.webp"
+      ]
+    },
+    {
+      "id": "r12_ball",
+      "brief": "Bóng ở 2b",
+      "uses": [
+        "R12-C1-04",
+        "R12-C4-11",
+        "R12-C5-02",
+        "R12-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_ball.webp"
+      ]
+    },
+    {
+      "id": "r12_green",
+      "brief": "Mảng xanh lá 3a",
+      "uses": [
+        "R12-C1-05",
+        "R12-C4-07",
+        "R12-C4-10",
+        "R12-C5-01",
+        "R12-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_green.webp"
+      ]
+    },
+    {
+      "id": "r12_red",
+      "brief": "Mảng đỏ 3b",
+      "uses": [
+        "R12-C1-06",
+        "R12-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_red.webp"
+      ]
+    },
+    {
+      "id": "r12_purple",
+      "brief": "Mảng tím 4a",
+      "uses": [
+        "R12-C1-07",
+        "R12-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_purple.webp"
+      ]
+    },
+    {
+      "id": "r12_yellow",
+      "brief": "Mảng vàng 4b",
+      "uses": [
+        "R12-C1-08",
+        "R12-C4-11",
+        "R12-C5-02",
+        "R12-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "native_graphic",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_yellow.webp"
+      ]
+    },
+    {
+      "id": "r12_paper",
+      "brief": "Một tờ giấy, hình 1 School Supplies",
+      "uses": [
+        "R12-C1-09",
+        "R12-C3-14",
+        "R12-C4-08",
+        "R12-C5-12",
+        "R12-C5-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_paper.webp"
+      ]
+    },
+    {
+      "id": "r12_scissors",
+      "brief": "Kéo học sinh, hình 2",
+      "uses": [
+        "R12-C1-10",
+        "R12-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_scissors.webp"
+      ]
+    },
+    {
+      "id": "r12_glue",
+      "brief": "Lọ keo có đầu nhọn, hình 3, không chai mỹ phẩm",
+      "uses": [
+        "R12-C1-11",
+        "R12-C4-12",
+        "R12-C5-03",
+        "R12-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_glue.webp"
+      ]
+    },
+    {
+      "id": "r12_paint",
+      "brief": "Lọ màu vẽ và cọ, hình 4",
+      "uses": [
+        "R12-C1-12",
+        "R12-C5-15"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_paint.webp"
+      ]
+    },
+    {
+      "id": "r12_tape",
+      "brief": "Hộp/cuộn băng keo đúng hình 5, không giấy vệ sinh",
+      "uses": [
+        "R12-C1-13",
+        "R12-C4-13",
+        "R12-C5-16"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_tape.webp"
+      ]
+    },
+    {
+      "id": "r12_stand_up",
+      "brief": "Bé đứng dậy, 5a",
+      "uses": [
+        "R12-C1-14",
+        "R12-C3-15",
+        "R12-C4-09",
+        "R12-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_stand_up.webp"
+      ]
+    },
+    {
+      "id": "r12_sit_down",
+      "brief": "Bé ngồi xuống ghế, 5b",
+      "uses": [
+        "R12-C1-15",
+        "R12-C3-16",
+        "R12-C4-12",
+        "R12-C5-03",
+        "R12-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_sit_down.webp"
+      ]
+    },
+    {
+      "id": "r12_come_here",
+      "brief": "Bé đi về phía cô giáo/người đang gọi, 6a; có người gọi để thấy hướng",
+      "uses": [
+        "R12-C1-16",
+        "R12-C3-17",
+        "R12-C5-19"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_come_here.webp"
+      ]
+    },
+    {
+      "id": "r12_turn_around",
+      "brief": "Bé quay người, 6b; vệt xoay nhẹ rõ",
+      "uses": [
+        "R12-C1-17",
+        "R12-C3-18",
+        "R12-C4-13",
+        "R12-C5-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+      ],
+      "method": "crop_or_edit",
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "files": [
+        "webp/r12_turn_around.webp"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "R12-C1-01",
+      "challenge": 1,
+      "line": 44,
+      "source_prompt": "🖼️ô tô ở cặp 1a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_car"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-02",
+      "challenge": 1,
+      "line": 52,
+      "source_prompt": "🖼️đoàn tàu ở cặp 1b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_train"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-03",
+      "challenge": 1,
+      "line": 60,
+      "source_prompt": "🖼️xe đạp ở cặp 2a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_bicycle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-04",
+      "challenge": 1,
+      "line": 68,
+      "source_prompt": "🖼️quả bóng ở cặp 2b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_ball"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-05",
+      "challenge": 1,
+      "line": 78,
+      "source_prompt": "🖼️ô màu xanh lá ở cặp 3a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_green"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-06",
+      "challenge": 1,
+      "line": 86,
+      "source_prompt": "🖼️ô màu đỏ ở cặp 3b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_red"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-07",
+      "challenge": 1,
+      "line": 94,
+      "source_prompt": "🖼️ô màu tím ở cặp 4a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_purple"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-08",
+      "challenge": 1,
+      "line": 102,
+      "source_prompt": "🖼️ô màu vàng ở cặp 4b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_yellow"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-09",
+      "challenge": 1,
+      "line": 112,
+      "source_prompt": "🖼️tờ giấy, hình 1 trang School Supplies. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paper"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-10",
+      "challenge": 1,
+      "line": 120,
+      "source_prompt": "🖼️chiếc kéo, hình 2. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_scissors"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-11",
+      "challenge": 1,
+      "line": 128,
+      "source_prompt": "🖼️lọ keo có đầu nhọn, hình 3. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_glue"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-12",
+      "challenge": 1,
+      "line": 136,
+      "source_prompt": "🖼️lọ màu vẽ và cọ, hình 4. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paint"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-13",
+      "challenge": 1,
+      "line": 144,
+      "source_prompt": "🖼️hộp băng keo, hình 5. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_tape"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-14",
+      "challenge": 1,
+      "line": 154,
+      "source_prompt": "🖼️bé đứng dậy ở cặp 5a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_stand_up"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-15",
+      "challenge": 1,
+      "line": 162,
+      "source_prompt": "🖼️bé ngồi xuống ở cặp 5b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_sit_down"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-16",
+      "challenge": 1,
+      "line": 170,
+      "source_prompt": "🖼️bé đi về phía cô giáo ở cặp 6a. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_come_here"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C1-17",
+      "challenge": 1,
+      "line": 178,
+      "source_prompt": "🖼️bé quay người lại ở cặp 6b. Chọn từ/cụm từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_turn_around"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C2-01",
+      "challenge": 2,
+      "line": 195,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-02",
+      "challenge": 2,
+      "line": 205,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-03",
+      "challenge": 2,
+      "line": 215,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-04",
+      "challenge": 2,
+      "line": 225,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-05",
+      "challenge": 2,
+      "line": 235,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-06",
+      "challenge": 2,
+      "line": 245,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-07",
+      "challenge": 2,
+      "line": 255,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-08",
+      "challenge": 2,
+      "line": 265,
+      "source_prompt": "Nghe từ/cụm từ và chọn đúng mục.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-09",
+      "challenge": 2,
+      "line": 277,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-10",
+      "challenge": 2,
+      "line": 286,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-11",
+      "challenge": 2,
+      "line": 295,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-12",
+      "challenge": 2,
+      "line": 304,
+      "source_prompt": "Chọn ý nghĩa của câu/lệnh vừa nghe.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C2-13",
+      "challenge": 2,
+      "line": 313,
+      "source_prompt": "Nghe câu mẫu và chọn ý nghĩa.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-01",
+      "challenge": 3,
+      "line": 329,
+      "source_prompt": "Hoàn thành từ: `c_r`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-02",
+      "challenge": 3,
+      "line": 334,
+      "source_prompt": "Hoàn thành từ: `tr_in`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-03",
+      "challenge": 3,
+      "line": 339,
+      "source_prompt": "Hoàn thành từ: `b_cycle`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-04",
+      "challenge": 3,
+      "line": 344,
+      "source_prompt": "Hoàn thành từ: `b_ll`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-05",
+      "challenge": 3,
+      "line": 349,
+      "source_prompt": "Hoàn thành từ: `gr_en`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-06",
+      "challenge": 3,
+      "line": 354,
+      "source_prompt": "Hoàn thành từ: `r_d`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-07",
+      "challenge": 3,
+      "line": 359,
+      "source_prompt": "Hoàn thành từ: `p_rple`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-08",
+      "challenge": 3,
+      "line": 364,
+      "source_prompt": "Hoàn thành từ: `y_llow`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-09",
+      "challenge": 3,
+      "line": 369,
+      "source_prompt": "Hoàn thành từ: `p_per`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-10",
+      "challenge": 3,
+      "line": 374,
+      "source_prompt": "Hoàn thành từ: `sc_ssors`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-11",
+      "challenge": 3,
+      "line": 379,
+      "source_prompt": "Hoàn thành từ: `gl_e`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-12",
+      "challenge": 3,
+      "line": 384,
+      "source_prompt": "Hoàn thành từ: `p_int`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-13",
+      "challenge": 3,
+      "line": 389,
+      "source_prompt": "Hoàn thành từ: `t_pe`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C3-14",
+      "challenge": 3,
+      "line": 399,
+      "source_prompt": "🖼️tờ giấy. Điền: `I have ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paper"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C3-15",
+      "challenge": 3,
+      "line": 404,
+      "source_prompt": "🖼️đứng lên. Điền: `________ up.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_stand_up"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C3-16",
+      "challenge": 3,
+      "line": 409,
+      "source_prompt": "🖼️ngồi xuống. Điền: `Sit ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_sit_down"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C3-17",
+      "challenge": 3,
+      "line": 414,
+      "source_prompt": "🖼️đi về phía người gọi. Điền: `Come ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_come_here"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C3-18",
+      "challenge": 3,
+      "line": 419,
+      "source_prompt": "🖼️quay người. Điền: `Turn ________.`.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_turn_around"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C3-19",
+      "challenge": 3,
+      "line": 424,
+      "source_prompt": "Nghe câu mẫu và điền: `I have ________.`",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C4-01",
+      "challenge": 4,
+      "line": 440,
+      "source_prompt": "Các thẻ: `have / I / paper.`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C4-02",
+      "challenge": 4,
+      "line": 445,
+      "source_prompt": "Các thẻ: `up. / Stand`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C4-03",
+      "challenge": 4,
+      "line": 450,
+      "source_prompt": "Các thẻ: `down. / Sit`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C4-04",
+      "challenge": 4,
+      "line": 455,
+      "source_prompt": "Các thẻ: `here. / Come`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C4-05",
+      "challenge": 4,
+      "line": 460,
+      "source_prompt": "Các thẻ: `around. / Turn`.",
+      "image_required": false,
+      "asset_ids": [],
+      "mode": "text_audio_or_live_roleplay"
+    },
+    {
+      "question_id": "R12-C4-06",
+      "challenge": 4,
+      "line": 469,
+      "source_prompt": "🖼️ô tô ở cặp 1a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_car"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-07",
+      "challenge": 4,
+      "line": 474,
+      "source_prompt": "🖼️ô màu xanh lá ở cặp 3a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_green"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-08",
+      "challenge": 4,
+      "line": 479,
+      "source_prompt": "🖼️tờ giấy, hình 1 trang School Supplies. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paper"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-09",
+      "challenge": 4,
+      "line": 484,
+      "source_prompt": "🖼️bé đứng dậy ở cặp 5a. Điền chữ cái của thẻ phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_stand_up"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-10",
+      "challenge": 4,
+      "line": 491,
+      "source_prompt": "Nhìn cặp 1a và ô màu3a. Chọn cặp từ gọi đúng hai hình.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_car",
+        "r12_green"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-11",
+      "challenge": 4,
+      "line": 498,
+      "source_prompt": "Nhìn cặp 2b và ô màu4b. Chọn cặp từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_ball",
+        "r12_yellow"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-12",
+      "challenge": 4,
+      "line": 505,
+      "source_prompt": "Nhìn hình 3 School Supplies và bé ở cặp 5b. Chọn cặp từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_glue",
+        "r12_sit_down"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C4-13",
+      "challenge": 4,
+      "line": 512,
+      "source_prompt": "Nhìn hộp băng keo và hình 6b. Chọn cặp đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_tape",
+        "r12_turn_around"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-01",
+      "challenge": 5,
+      "line": 526,
+      "source_prompt": "Nhìn cặp 1a và ô màu3a. Chọn cặp từ gọi đúng hai hình.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_car",
+        "r12_green"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-02",
+      "challenge": 5,
+      "line": 533,
+      "source_prompt": "Nhìn cặp 2b và ô màu4b. Chọn cặp từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_ball",
+        "r12_yellow"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-03",
+      "challenge": 5,
+      "line": 540,
+      "source_prompt": "Nhìn hình 3 School Supplies và bé ở cặp 5b. Chọn cặp từ đúng.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_glue",
+        "r12_sit_down"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-04",
+      "challenge": 5,
+      "line": 549,
+      "source_prompt": "Người lớn chỉ/diễn: ô tô ở cặp 1a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_car"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-05",
+      "challenge": 5,
+      "line": 554,
+      "source_prompt": "Người lớn chỉ/diễn: đoàn tàu ở cặp 1b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_train"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-06",
+      "challenge": 5,
+      "line": 559,
+      "source_prompt": "Người lớn chỉ/diễn: xe đạp ở cặp 2a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_bicycle"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-07",
+      "challenge": 5,
+      "line": 564,
+      "source_prompt": "Người lớn chỉ/diễn: quả bóng ở cặp 2b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_ball"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-08",
+      "challenge": 5,
+      "line": 569,
+      "source_prompt": "Người lớn chỉ/diễn: ô màu xanh lá ở cặp 3a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_green"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-09",
+      "challenge": 5,
+      "line": 574,
+      "source_prompt": "Người lớn chỉ/diễn: ô màu đỏ ở cặp 3b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_red"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-10",
+      "challenge": 5,
+      "line": 579,
+      "source_prompt": "Người lớn chỉ/diễn: ô màu tím ở cặp 4a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_purple"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-11",
+      "challenge": 5,
+      "line": 584,
+      "source_prompt": "Người lớn chỉ/diễn: ô màu vàng ở cặp 4b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_yellow"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-12",
+      "challenge": 5,
+      "line": 589,
+      "source_prompt": "Người lớn chỉ/diễn: tờ giấy, hình 1 trang School Supplies. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paper"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-13",
+      "challenge": 5,
+      "line": 594,
+      "source_prompt": "Người lớn chỉ/diễn: chiếc kéo, hình 2. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_scissors"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-14",
+      "challenge": 5,
+      "line": 599,
+      "source_prompt": "Người lớn chỉ/diễn: lọ keo có đầu nhọn, hình 3. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_glue"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-15",
+      "challenge": 5,
+      "line": 604,
+      "source_prompt": "Người lớn chỉ/diễn: lọ màu vẽ và cọ, hình 4. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paint"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-16",
+      "challenge": 5,
+      "line": 609,
+      "source_prompt": "Người lớn chỉ/diễn: hộp băng keo, hình 5. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_tape"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-17",
+      "challenge": 5,
+      "line": 614,
+      "source_prompt": "Người lớn chỉ/diễn: bé đứng dậy ở cặp 5a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_stand_up"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-18",
+      "challenge": 5,
+      "line": 619,
+      "source_prompt": "Người lớn chỉ/diễn: bé ngồi xuống ở cặp 5b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_sit_down"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-19",
+      "challenge": 5,
+      "line": 624,
+      "source_prompt": "Người lớn chỉ/diễn: bé đi về phía cô giáo ở cặp 6a. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_come_here"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-20",
+      "challenge": 5,
+      "line": 629,
+      "source_prompt": "Người lớn chỉ/diễn: bé quay người lại ở cặp 6b. Bé tự nói từ/cụm phù hợp.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_turn_around"
+      ],
+      "mode": "all_required"
+    },
+    {
+      "question_id": "R12-C5-21",
+      "challenge": 5,
+      "line": 640,
+      "source_prompt": "Nói câu đầy đủ theo tình huống, không nhìn câu mẫu: Người lớn đưa tờ giấy cho bé và ra hiệu giới thiệu món mình có.",
+      "image_required": true,
+      "asset_ids": [
+        "r12_paper"
+      ],
+      "mode": "all_required"
+    }
+  ],
+  "source_notes": "Giữ come here ở hình 6a, không đổi thành go. Lọ keo/hộp băng keo dùng hình nguồn, không dùng emoji chai mỹ phẩm/giấy vệ sinh. Cặp đồ chơi–màu là ghép hai hình riêng; không khẳng định ô tô nguồn có màu xanh lá. Câu nguồn chỉ có I have paper.; không ghi I have scissors/glue/paint/tape là câu đã in trong PDF.",
+  "status": "missing_dedicated_challenge_assets_and_mapping"
+}

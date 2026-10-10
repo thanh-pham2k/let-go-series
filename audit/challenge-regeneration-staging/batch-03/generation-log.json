@@ -1,0 +1,102 @@
+{
+  "batch": 3,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      362,
+      362
+    ],
+    [
+      362,
+      0,
+      724,
+      362
+    ],
+    [
+      724,
+      0,
+      1086,
+      362
+    ],
+    [
+      1086,
+      0,
+      1448,
+      362
+    ],
+    [
+      0,
+      362,
+      362,
+      724
+    ],
+    [
+      362,
+      362,
+      724,
+      724
+    ],
+    [
+      724,
+      362,
+      1086,
+      724
+    ],
+    [
+      1086,
+      362,
+      1448,
+      724
+    ],
+    [
+      0,
+      724,
+      362,
+      1086
+    ],
+    [
+      362,
+      724,
+      724,
+      1086
+    ],
+    [
+      724,
+      724,
+      1086,
+      1086
+    ],
+    [
+      1086,
+      724,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Bird/cat/dog full silhouettes; eight precise shapes plus blue square; square sides equal, rectangle elongated, diamond a rhombus."
+  },
+  "retry_reason": null
+}

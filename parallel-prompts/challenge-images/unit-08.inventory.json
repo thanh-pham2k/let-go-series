@@ -1,0 +1,1498 @@
+{
+  "schema_version": 1,
+  "unit": 8,
+  "topic": "Abilities",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "line": 87,
+      "visual_lines": [
+        90,
+        97,
+        104,
+        111,
+        118,
+        125,
+        132,
+        139
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "line": 145,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn tình huống → chọn câu",
+      "line": 156,
+      "visual_lines": [
+        158,
+        163,
+        168
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "line": 173,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 186,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "line": 228,
+      "visual_lines": [
+        232,
+        236,
+        240,
+        244
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "line": 246,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "line": 266,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "line": 289,
+      "visual_lines": [
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "line": 302,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → hoàn thành câu",
+      "line": 315,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "line": 326,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "line": 360,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "6. Let's play Recall",
+      "line": 371,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "7. Commands Recall",
+      "line": 382,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 400,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "line": 452,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "line": 460,
+      "visual_lines": [
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics X–Z)",
+      "line": 473,
+      "visual_lines": [
+        477,
+        478,
+        479
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "line": 493,
+      "visual_lines": [
+        495,
+        501,
+        507
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "line": 513,
+      "visual_lines": [
+        515,
+        517,
+        519,
+        521,
+        523,
+        525,
+        527,
+        529
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Can / Can't — tự nói",
+      "line": 531,
+      "visual_lines": [
+        533,
+        536,
+        539
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "line": 542,
+      "visual_lines": [
+        544,
+        549
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Let's play — tự hoàn thành",
+      "line": 554,
+      "visual_lines": [
+        556,
+        561,
+        566
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Build without hint",
+      "line": 571,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Command Challenge",
+      "line": 593,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "8. X–Z Phonics Production",
+      "line": 613,
+      "visual_lines": [
+        617,
+        618,
+        619
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "line": 621,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 90,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.1",
+      "source_text": "🚲",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 97,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.2",
+      "source_text": "🎤🎵",
+      "asset_ids": [
+        "u08_sing_song"
+      ]
+    },
+    {
+      "line": 104,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.3",
+      "source_text": "🪁",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 111,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.4",
+      "source_text": "🏀",
+      "asset_ids": [
+        "u08_bounce_ball"
+      ]
+    },
+    {
+      "line": 118,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.5",
+      "source_text": "🏊",
+      "asset_ids": [
+        "u08_swim"
+      ]
+    },
+    {
+      "line": 125,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.6",
+      "source_text": "😊",
+      "asset_ids": [
+        "u08_smile"
+      ]
+    },
+    {
+      "line": 132,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.7",
+      "source_text": "😉",
+      "asset_ids": [
+        "u08_wink"
+      ]
+    },
+    {
+      "line": 139,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.8",
+      "source_text": "💃",
+      "asset_ids": [
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 158,
+      "challenge": 1,
+      "section": "3. Nhìn tình huống → chọn câu",
+      "item": "",
+      "source_text": "🚲",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 163,
+      "challenge": 1,
+      "section": "3. Nhìn tình huống → chọn câu",
+      "item": "",
+      "source_text": "🪁 ✓",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 168,
+      "challenge": 1,
+      "section": "3. Nhìn tình huống → chọn câu",
+      "item": "",
+      "source_text": "🪁 ✗",
+      "asset_ids": [
+        "u08_cannot_fly_kite"
+      ]
+    },
+    {
+      "line": 232,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`🚲 / 🪁 / 🏊 / 🏀`",
+      "asset_ids": [
+        "u08_ride_bicycle",
+        "u08_fly_kite",
+        "u08_bounce_ball",
+        "u08_swim"
+      ]
+    },
+    {
+      "line": 236,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`🎤 / 🪁 / 🚲 / 💃`",
+      "asset_ids": [
+        "u08_ride_bicycle",
+        "u08_sing_song",
+        "u08_fly_kite",
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 240,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`🏀 / 🏊 / 😊 / 😉`",
+      "asset_ids": [
+        "u08_bounce_ball",
+        "u08_swim",
+        "u08_smile",
+        "u08_wink"
+      ]
+    },
+    {
+      "line": 244,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`💃 / 🏊 / 🚲 / 🎤`",
+      "asset_ids": [
+        "u08_ride_bicycle",
+        "u08_sing_song",
+        "u08_swim",
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 293,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "1. r _ d e   a   b _ c y c l e *(ride a bicycle)* 🚲",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 294,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "2. s _ n g   a   s _ n g *(sing a song)* 🎵",
+      "asset_ids": [
+        "u08_sing_song"
+      ]
+    },
+    {
+      "line": 295,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "3. f l _   a   k _ t e *(fly a kite)* 🪁",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 296,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "4. b _ u n c e   a   b _ l l *(bounce a ball)* 🏀",
+      "asset_ids": [
+        "u08_bounce_ball"
+      ]
+    },
+    {
+      "line": 297,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "5. s w _ m *(swim)* 🏊",
+      "asset_ids": [
+        "u08_swim"
+      ]
+    },
+    {
+      "line": 298,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "6. s m _ l e *(smile)* 😊",
+      "asset_ids": [
+        "u08_smile"
+      ]
+    },
+    {
+      "line": 299,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "7. w _ n k *(wink)* 😉",
+      "asset_ids": [
+        "u08_wink"
+      ]
+    },
+    {
+      "line": 300,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "8. d _ n c e *(dance)* 💃",
+      "asset_ids": [
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 464,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 1. 🚲 | A. sing a song |",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 465,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 2. 🎤 | B. ride a bicycle |",
+      "asset_ids": [
+        "u08_sing_song"
+      ]
+    },
+    {
+      "line": 466,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 3. 🪁 | C. bounce a ball |",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 467,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 4. 🏀 | D. fly a kite |",
+      "asset_ids": [
+        "u08_bounce_ball"
+      ]
+    },
+    {
+      "line": 468,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 5. 🏊 | E. wink |",
+      "asset_ids": [
+        "u08_swim"
+      ]
+    },
+    {
+      "line": 469,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 6. 😊 | F. swim |",
+      "asset_ids": [
+        "u08_smile"
+      ]
+    },
+    {
+      "line": 470,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 7. 😉 | G. dance |",
+      "asset_ids": [
+        "u08_wink"
+      ]
+    },
+    {
+      "line": 471,
+      "challenge": 4,
+      "section": "3. Ghép hành động với cụm từ",
+      "item": "",
+      "source_text": "| 8. 💃 | H. smile |",
+      "asset_ids": [
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 477,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics X–Z)",
+      "item": "",
+      "source_text": "- f _ x *(fox)* 🦊",
+      "asset_ids": [
+        "u08_fox"
+      ]
+    },
+    {
+      "line": 478,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics X–Z)",
+      "item": "",
+      "source_text": "- y _ r n *(yarn)* 🧶",
+      "asset_ids": [
+        "u08_yarn"
+      ]
+    },
+    {
+      "line": 479,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics X–Z)",
+      "item": "",
+      "source_text": "- z _ b r a *(zebra)* 🦓",
+      "asset_ids": [
+        "u08_zebra"
+      ]
+    },
+    {
+      "line": 495,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "🚲",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 501,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "🪁",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 507,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "😉",
+      "asset_ids": [
+        "u08_wink"
+      ]
+    },
+    {
+      "line": 515,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🚲 → ____________________",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 517,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🎤 → ____________________",
+      "asset_ids": [
+        "u08_sing_song"
+      ]
+    },
+    {
+      "line": 519,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🪁 → ____________________",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 521,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🏀 → ____________________",
+      "asset_ids": [
+        "u08_bounce_ball"
+      ]
+    },
+    {
+      "line": 523,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🏊 → ____________________",
+      "asset_ids": [
+        "u08_swim"
+      ]
+    },
+    {
+      "line": 525,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "😊 → ____________________",
+      "asset_ids": [
+        "u08_smile"
+      ]
+    },
+    {
+      "line": 527,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "😉 → ____________________",
+      "asset_ids": [
+        "u08_wink"
+      ]
+    },
+    {
+      "line": 529,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "💃 → ____________________",
+      "asset_ids": [
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 533,
+      "challenge": 5,
+      "section": "3. Can / Can't — tự nói",
+      "item": "",
+      "source_text": "🪁 ✓  ",
+      "asset_ids": [
+        "u08_fly_kite"
+      ]
+    },
+    {
+      "line": 536,
+      "challenge": 5,
+      "section": "3. Can / Can't — tự nói",
+      "item": "",
+      "source_text": "🪁 ✗  ",
+      "asset_ids": [
+        "u08_cannot_fly_kite"
+      ]
+    },
+    {
+      "line": 539,
+      "challenge": 5,
+      "section": "3. Can / Can't — tự nói",
+      "item": "",
+      "source_text": "🚲 ✓  ",
+      "asset_ids": [
+        "u08_ride_bicycle"
+      ]
+    },
+    {
+      "line": 544,
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "item": "",
+      "source_text": "💃",
+      "asset_ids": [
+        "u08_dance"
+      ]
+    },
+    {
+      "line": 549,
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "item": "",
+      "source_text": "🏊",
+      "asset_ids": [
+        "u08_swim"
+      ]
+    },
+    {
+      "line": 556,
+      "challenge": 5,
+      "section": "5. Let's play — tự hoàn thành",
+      "item": "",
+      "source_text": "⚽",
+      "asset_ids": [
+        "u08_play_ball"
+      ]
+    },
+    {
+      "line": 561,
+      "challenge": 5,
+      "section": "5. Let's play — tự hoàn thành",
+      "item": "",
+      "source_text": "🏃",
+      "asset_ids": [
+        "u08_play_tag"
+      ]
+    },
+    {
+      "line": 566,
+      "challenge": 5,
+      "section": "5. Let's play — tự hoàn thành",
+      "item": "",
+      "source_text": "🪢",
+      "asset_ids": [
+        "u08_jump_rope"
+      ]
+    },
+    {
+      "line": 617,
+      "challenge": 5,
+      "section": "8. X–Z Phonics Production",
+      "item": "",
+      "source_text": "- X x → **fox** 🦊",
+      "asset_ids": [
+        "u08_fox"
+      ]
+    },
+    {
+      "line": 618,
+      "challenge": 5,
+      "section": "8. X–Z Phonics Production",
+      "item": "",
+      "source_text": "- Y y → **yarn** 🧶",
+      "asset_ids": [
+        "u08_yarn"
+      ]
+    },
+    {
+      "line": 619,
+      "challenge": 5,
+      "section": "8. X–Z Phonics Production",
+      "item": "",
+      "source_text": "- Z z → **zebra** 🦓",
+      "asset_ids": [
+        "u08_zebra"
+      ]
+    },
+    {
+      "line": 390,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "5. Make a ________.  ![Hình gợi ý](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/challenge-assets/webp/u08_make_circle.webp)",
+      "asset_ids": [
+        "u08_make_circle"
+      ],
+      "note": "Đã chốt cue và đáp án theo yêu cầu người dùng; giữ nguyên stem nguồn."
+    },
+    {
+      "line": 391,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "6. Make a ________.  ![Hình gợi ý](Unit%208%20-%20Abilities%20-%20Lesson%20Pages/challenge-assets/webp/u08_make_line.webp)",
+      "asset_ids": [
+        "u08_make_line"
+      ],
+      "note": "Đã chốt cue và đáp án theo yêu cầu người dùng; giữ nguyên stem nguồn."
+    }
+  ],
+  "assets": [
+    {
+      "id": "u08_ride_bicycle",
+      "brief": "Bé thực sự đang đạp xe, chân trên bàn đạp, hai bánh rõ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_59"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        90,
+        158,
+        232,
+        236,
+        244,
+        293,
+        464,
+        495,
+        515,
+        539
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "expected_files": [
+        "webp/u08_ride_bicycle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_ride_bicycle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_sing_song",
+      "brief": "Bé đang hát, miệng mở, cử chỉ hát và nốt nhạc phụ vừa đủ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_59"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        97,
+        236,
+        244,
+        294,
+        465,
+        517
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "expected_files": [
+        "webp/u08_sing_song.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_sing_song.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_fly_kite",
+      "brief": "Bé đang thả diều bay, dây nối tay với diều rõ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_59"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        104,
+        163,
+        232,
+        236,
+        295,
+        466,
+        501,
+        519,
+        533
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "expected_files": [
+        "webp/u08_fly_kite.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_bounce_ball",
+      "brief": "Bé đập bóng xuống đất, tay/bóng/vệt chuyển động thể hiện bounce, không chỉ cầm bóng; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_59"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        111,
+        232,
+        240,
+        296,
+        467,
+        521
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+      ],
+      "expected_files": [
+        "webp/u08_bounce_ball.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_bounce_ball.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_swim",
+      "brief": "Bé bơi trong nước, cử động rõ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_63"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        118,
+        232,
+        240,
+        244,
+        297,
+        468,
+        523,
+        549
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "expected_files": [
+        "webp/u08_swim.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_swim.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_smile",
+      "brief": "Cận mặt bé cười, cả hai mắt mở; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_63"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        125,
+        240,
+        298,
+        469,
+        525
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "expected_files": [
+        "webp/u08_smile.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_smile.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_wink",
+      "brief": "Cận mặt bé nháy đúng một mắt, mắt kia mở; không giống smile; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_63"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        132,
+        240,
+        299,
+        470,
+        507,
+        527
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "expected_files": [
+        "webp/u08_wink.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_wink.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_dance",
+      "brief": "Bé đang múa/nhảy với tư thế rõ, khác chạy hoặc đứng; cùng nhân vật/thiết kế trang Words; không nhãn.",
+      "reference_tracks": [
+        "CD2_63"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        139,
+        236,
+        244,
+        300,
+        471,
+        529,
+        544
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+      ],
+      "expected_files": [
+        "webp/u08_dance.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_dance.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_cannot_fly_kite",
+      "brief": "Cùng bé/diều với fly_kite nhưng diều nằm dưới đất, dây chùng, bé bối rối không thả được; hình diễn đạt can’t, không chỉ dấu X hoặc chữ can’t.",
+      "reference_tracks": [
+        "CD2_61"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        168,
+        536
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+      ],
+      "expected_files": [
+        "webp/u08_cannot_fly_kite.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_play_ball",
+      "brief": "Hai bé chơi bóng cùng nhau; khác một bé đập bóng; không lời thoại hay nhãn.",
+      "reference_tracks": [
+        "CD2_54",
+        "CD2_55"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        556
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "expected_files": [
+        "webp/u08_play_ball.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_ball.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_play_tag",
+      "brief": "Các bé chơi đuổi bắt, một bé đưa tay đuổi/chạm bạn; không chỉ một người chạy; không lời thoại hay nhãn.",
+      "reference_tracks": [
+        "CD2_54",
+        "CD2_55"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        561
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "expected_files": [
+        "webp/u08_play_tag.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_jump_rope",
+      "brief": "Bé đang nhảy qua dây, hai tay cầm và dây đúng chuyển động; khác ảnh vật dây nhảy; không lời thoại hay nhãn.",
+      "reference_tracks": [
+        "CD2_54",
+        "CD2_55"
+      ],
+      "method": "edit_or_generate",
+      "note": "",
+      "uses": [
+        566
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+      ],
+      "expected_files": [
+        "webp/u08_jump_rope.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_jump_rope.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_fox",
+      "brief": "Một fox theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.",
+      "reference_tracks": [
+        "CD2_68"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        477,
+        617
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "expected_files": [
+        "webp/u08_fox.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fox.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_yarn",
+      "brief": "Một yarn theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.",
+      "reference_tracks": [
+        "CD2_68"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        478,
+        618
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "expected_files": [
+        "webp/u08_yarn.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_yarn.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_zebra",
+      "brief": "Một zebra theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.",
+      "reference_tracks": [
+        "CD2_68"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        479,
+        619
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+      ],
+      "expected_files": [
+        "webp/u08_zebra.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_zebra.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_make_circle",
+      "brief": "Nhóm bé xếp thành vòng tròn khép kín; không chữ.",
+      "reference_tracks": [
+        "CD2_69"
+      ],
+      "method": "edit_or_generate",
+      "note": "Đã chốt cue theo yêu cầu người dùng: câu5 circle, câu6 line; dùng lại ảnh hiện có.",
+      "uses": [
+        390
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "expected_files": [
+        "webp/u08_make_circle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_make_circle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u08_make_line",
+      "brief": "Nhóm bé xếp thành một hàng thẳng; không chữ.",
+      "reference_tracks": [
+        "CD2_69"
+      ],
+      "method": "edit_or_generate",
+      "note": "Đã chốt cue theo yêu cầu người dùng: câu5 circle, câu6 line; dùng lại ảnh hiện có.",
+      "uses": [
+        391
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+      ],
+      "expected_files": [
+        "webp/u08_make_line.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_make_line.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": [
+    "C3§2 câu 5–8 trống hoàn toàn: đề xuất nối swim, smile, wink, dance theo thứ tự từ vựng C1/C3§1; ghi adaptation.",
+    "C3§3 hai câu I ____ fly a kite thiếu cue: đề xuất nối fly_kite / cannot_fly_kite theo thứ tự bài; hai câu Can you ____ cũng cần cue dance/swim nếu có đáp án cố định.",
+    "Câu Can you swim/dance/jump hỏi khả năng của chính bé có thể Yes hoặc No: không suy diễn đáp án bằng ảnh.",
+    "Đã chốt 8 cue theo quyết định được người dùng giao; đọc audit/challenge-cue-decisions.json. Các câu đã gắn hình có expected_answer duy nhất trong mapping, không coi là context mở."
+  ]
+}

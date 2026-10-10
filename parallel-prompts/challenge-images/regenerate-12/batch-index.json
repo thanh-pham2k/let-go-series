@@ -1,0 +1,3890 @@
+{
+  "total_assets": 211,
+  "total_batches": 18,
+  "batch_capacity": 12,
+  "export": {
+    "format": "WebP",
+    "width": 512,
+    "height": 512,
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "style_references": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+  ],
+  "batches": [
+    {
+      "batch": 1,
+      "prompt_file": "batch-01.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u01_ball",
+          "brief": "Một quả bóng; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+          ],
+          "uses": [
+            69,
+            195,
+            246,
+            443,
+            465
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_ball.webp"
+        },
+        {
+          "id": "u01_jump_rope",
+          "brief": "Một dây nhảy với hai tay cầm; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+          ],
+          "uses": [
+            77,
+            196,
+            253,
+            444
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_jump_rope.webp"
+        },
+        {
+          "id": "u01_yo_yo",
+          "brief": "Một yo-yo, dây rõ; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+          ],
+          "uses": [
+            85,
+            197,
+            250,
+            390,
+            445
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_yo_yo.webp"
+        },
+        {
+          "id": "u01_bicycle",
+          "brief": "Một xe đạp đủ hai bánh; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_07.png"
+          ],
+          "uses": [
+            93,
+            198,
+            247,
+            311,
+            446
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_bicycle.webp"
+        },
+        {
+          "id": "u01_train",
+          "brief": "Một tàu hỏa đồ chơi; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+          ],
+          "uses": [
+            101,
+            199,
+            212,
+            252,
+            422,
+            447
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_train.webp"
+        },
+        {
+          "id": "u01_car",
+          "brief": "Một ô tô đồ chơi; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+          ],
+          "uses": [
+            109,
+            200,
+            249,
+            362,
+            448
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_car.webp"
+        },
+        {
+          "id": "u01_doll",
+          "brief": "Một búp bê; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+          ],
+          "uses": [
+            117,
+            201,
+            218,
+            251,
+            398,
+            449
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_doll.webp"
+        },
+        {
+          "id": "u01_teddy_bear",
+          "brief": "Một gấu bông; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.",
+          "note": "",
+          "set": "unit-01",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\pages\\png\\CD1_11.png"
+          ],
+          "uses": [
+            125,
+            202,
+            248,
+            305,
+            450,
+            465
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys - Lesson Pages\\challenge-assets\\webp\\u01_teddy_bear.webp"
+        },
+        {
+          "id": "u02_color_red",
+          "brief": "Mảng màu red, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            67,
+            190,
+            205,
+            358
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_red.webp"
+        },
+        {
+          "id": "u02_color_blue",
+          "brief": "Mảng màu blue, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            68,
+            191,
+            206,
+            360,
+            385
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_blue.webp"
+        },
+        {
+          "id": "u02_color_yellow",
+          "brief": "Mảng màu yellow, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            69,
+            192,
+            207,
+            258,
+            362
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_yellow.webp"
+        },
+        {
+          "id": "u02_color_green",
+          "brief": "Mảng màu green, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            70,
+            193,
+            208,
+            354,
+            364
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_green.webp"
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "prompt_file": "batch-02.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u02_color_brown",
+          "brief": "Mảng màu brown, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            71,
+            194,
+            209,
+            366
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_brown.webp"
+        },
+        {
+          "id": "u02_color_purple",
+          "brief": "Mảng màu purple, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            72,
+            195,
+            210,
+            255,
+            323,
+            368,
+            380,
+            454
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_purple.webp"
+        },
+        {
+          "id": "u02_color_orange",
+          "brief": "Mảng màu orange, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            73,
+            196,
+            211,
+            350,
+            370
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_orange.webp"
+        },
+        {
+          "id": "u02_color_black",
+          "brief": "Mảng màu black, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            74,
+            197,
+            212,
+            352,
+            372
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_black.webp"
+        },
+        {
+          "id": "u02_color_white",
+          "brief": "Mảng màu white, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            75,
+            198,
+            213,
+            374
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_white.webp"
+        },
+        {
+          "id": "u02_color_pink",
+          "brief": "Mảng màu pink, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_24.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_28.png"
+          ],
+          "uses": [
+            76,
+            199,
+            214,
+            376
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_color_pink.webp"
+        },
+        {
+          "id": "u02_red_train",
+          "brief": "Tàu hỏa đồ chơi màu đỏ; một vật, giữ thiết kế trang mẫu, không nhãn.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+          ],
+          "uses": [
+            90,
+            392
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_red_train.webp"
+        },
+        {
+          "id": "u02_blue_ball",
+          "brief": "Bóng màu xanh dương; một vật, giữ thiết kế trang mẫu, không nhãn.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+          ],
+          "uses": [
+            93,
+            393
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_blue_ball.webp"
+        },
+        {
+          "id": "u02_brown_teddy_bear",
+          "brief": "Gấu bông màu nâu; một vật, giữ thiết kế trang mẫu, không nhãn.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+          ],
+          "uses": [
+            96,
+            394
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_brown_teddy_bear.webp"
+        },
+        {
+          "id": "u02_green_yo_yo",
+          "brief": "Yo-yo màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+          ],
+          "uses": [
+            99,
+            395
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_green_yo_yo.webp"
+        },
+        {
+          "id": "u02_green_car",
+          "brief": "Ô tô đồ chơi màu xanh lá; một vật, giữ thiết kế trang mẫu, không nhãn.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_35.png"
+          ],
+          "uses": [
+            261,
+            324,
+            396,
+            458
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_green_car.webp"
+        },
+        {
+          "id": "u02_apple",
+          "brief": "Một apple giống minh họa phonics A–D; không chữ cái, không tên từ.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+          ],
+          "uses": [
+            332,
+            443
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_apple.webp"
+        }
+      ]
+    },
+    {
+      "batch": 3,
+      "prompt_file": "batch-03.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u02_bird",
+          "brief": "Một bird giống minh họa phonics A–D; không chữ cái, không tên từ.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+          ],
+          "uses": [
+            333,
+            444
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_bird.webp"
+        },
+        {
+          "id": "u02_cat",
+          "brief": "Một cat giống minh họa phonics A–D; không chữ cái, không tên từ.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+          ],
+          "uses": [
+            334,
+            445
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_cat.webp"
+        },
+        {
+          "id": "u02_dog",
+          "brief": "Một dog giống minh họa phonics A–D; không chữ cái, không tên từ.",
+          "note": "",
+          "set": "unit-02",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+          ],
+          "uses": [
+            335,
+            446
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\challenge-assets\\webp\\u02_dog.webp"
+        },
+        {
+          "id": "u03_circle",
+          "brief": "Một hình circle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+          ],
+          "uses": [
+            76,
+            235,
+            243,
+            247,
+            289,
+            302,
+            464
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_circle.webp"
+        },
+        {
+          "id": "u03_square",
+          "brief": "Một hình square, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+          ],
+          "uses": [
+            83,
+            243,
+            290,
+            303,
+            466
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_square.webp"
+        },
+        {
+          "id": "u03_triangle",
+          "brief": "Một hình triangle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+          ],
+          "uses": [
+            90,
+            243,
+            291,
+            307,
+            468
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_triangle.webp"
+        },
+        {
+          "id": "u03_heart",
+          "brief": "Một hình heart, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+          ],
+          "uses": [
+            97,
+            235,
+            247,
+            292,
+            308,
+            427,
+            470,
+            553
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_heart.webp"
+        },
+        {
+          "id": "u03_star",
+          "brief": "Một hình star, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+          ],
+          "uses": [
+            104,
+            235,
+            239,
+            258,
+            293,
+            304,
+            346,
+            416,
+            456,
+            472,
+            502,
+            565,
+            570
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_star.webp"
+        },
+        {
+          "id": "u03_rectangle",
+          "brief": "Một hình rectangle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+          ],
+          "uses": [
+            111,
+            239,
+            247,
+            294,
+            305,
+            474
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_rectangle.webp"
+        },
+        {
+          "id": "u03_diamond",
+          "brief": "Một hình diamond, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+          ],
+          "uses": [
+            118,
+            235,
+            239,
+            247,
+            264,
+            295,
+            306,
+            349,
+            417,
+            444,
+            476,
+            507,
+            573,
+            578
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_diamond.webp"
+        },
+        {
+          "id": "u03_oval",
+          "brief": "Một hình oval, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+          ],
+          "uses": [
+            125,
+            239,
+            243,
+            296,
+            309,
+            450,
+            478
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_oval.webp"
+        },
+        {
+          "id": "u03_blue_square",
+          "brief": "Một hình square màu blue thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+          ],
+          "uses": [
+            162,
+            359,
+            482
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_blue_square.webp"
+        }
+      ]
+    },
+    {
+      "batch": 4,
+      "prompt_file": "batch-04.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u03_purple_heart",
+          "brief": "Một hình heart màu purple thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+          ],
+          "uses": [
+            169,
+            360,
+            485
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_purple_heart.webp"
+        },
+        {
+          "id": "u03_orange_triangle",
+          "brief": "Một hình triangle màu orange thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+          ],
+          "uses": [
+            176,
+            361,
+            488
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_orange_triangle.webp"
+        },
+        {
+          "id": "u03_yellow_circle",
+          "brief": "Một hình circle màu yellow thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+          ],
+          "uses": [
+            183,
+            362,
+            491
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_yellow_circle.webp"
+        },
+        {
+          "id": "u03_green_square",
+          "brief": "Một hình square màu green thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+          ],
+          "uses": [
+            363,
+            494
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_green_square.webp"
+        },
+        {
+          "id": "u03_pink_heart",
+          "brief": "Một hình heart màu pink thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+          ],
+          "uses": [
+            364,
+            418,
+            497,
+            581,
+            586
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_pink_heart.webp"
+        },
+        {
+          "id": "u03_egg",
+          "brief": "Một egg giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+          ],
+          "uses": [
+            424,
+            550
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_egg.webp"
+        },
+        {
+          "id": "u03_fish",
+          "brief": "Một fish giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+          ],
+          "uses": [
+            425,
+            551
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_fish.webp"
+        },
+        {
+          "id": "u03_gorilla",
+          "brief": "Một gorilla giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.",
+          "note": "",
+          "set": "unit-03",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+          ],
+          "uses": [
+            426,
+            552
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_gorilla.webp"
+        },
+        {
+          "id": "u04_dots_01",
+          "brief": "Đúng 1 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+          ],
+          "uses": [
+            68,
+            358
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_01.webp"
+        },
+        {
+          "id": "u04_dots_02",
+          "brief": "Đúng 2 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+          ],
+          "uses": [
+            69,
+            360
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_02.webp"
+        },
+        {
+          "id": "u04_dots_03",
+          "brief": "Đúng 3 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+          ],
+          "uses": [
+            188,
+            362
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_03.webp"
+        },
+        {
+          "id": "u04_dots_04",
+          "brief": "Đúng 4 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+          ],
+          "uses": [
+            364
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_04.webp"
+        }
+      ]
+    },
+    {
+      "batch": 5,
+      "prompt_file": "batch-05.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u04_dots_05",
+          "brief": "Đúng 5 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png"
+          ],
+          "uses": [
+            366
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_dots_05.webp"
+        },
+        {
+          "id": "u04_rings_05",
+          "brief": "Đúng 5 hình rings, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+          ],
+          "uses": [
+            72,
+            190
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_rings_05.webp"
+        },
+        {
+          "id": "u04_triangles_06",
+          "brief": "Đúng 6 hình triangles, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+          ],
+          "uses": [
+            73,
+            191,
+            368
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_triangles_06.webp"
+        },
+        {
+          "id": "u04_stars_07",
+          "brief": "Đúng 7 hình stars, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+          ],
+          "uses": [
+            74,
+            192,
+            370
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_stars_07.webp"
+        },
+        {
+          "id": "u04_circles_08",
+          "brief": "Đúng 8 hình circles, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+          ],
+          "uses": [
+            75,
+            193,
+            372
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_circles_08.webp"
+        },
+        {
+          "id": "u04_hearts_09",
+          "brief": "Đúng 9 hình hearts, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+          ],
+          "uses": [
+            76,
+            194,
+            374
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_hearts_09.webp"
+        },
+        {
+          "id": "u04_squares_10",
+          "brief": "Đúng 10 hình squares, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_64.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_67.png"
+          ],
+          "uses": [
+            77,
+            195,
+            376
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_squares_10.webp"
+        },
+        {
+          "id": "u04_cars_03",
+          "brief": "Đúng 3 cars, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+          ],
+          "uses": [
+            70
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_cars_03.webp"
+        },
+        {
+          "id": "u04_teddy_bears_04",
+          "brief": "Đúng 4 teddy_bears, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+          ],
+          "uses": [
+            71,
+            189
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_teddy_bears_04.webp"
+        },
+        {
+          "id": "u04_cars_07",
+          "brief": "Đúng 7 cars, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_60.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_62.png"
+          ],
+          "uses": [
+            400,
+            406
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_cars_07.webp"
+        },
+        {
+          "id": "u04_igloo",
+          "brief": "Một igloo theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+          ],
+          "uses": [
+            322,
+            451
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_igloo.webp"
+        },
+        {
+          "id": "u04_jump_rope",
+          "brief": "Một jump_rope theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+          ],
+          "uses": [
+            323,
+            452
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_jump_rope.webp"
+        }
+      ]
+    },
+    {
+      "batch": 6,
+      "prompt_file": "batch-06.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u04_kangaroo",
+          "brief": "Một kangaroo theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+          ],
+          "uses": [
+            324,
+            453
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_kangaroo.webp"
+        },
+        {
+          "id": "u04_lion",
+          "brief": "Một lion theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.",
+          "note": "",
+          "set": "unit-04",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\pages\\png\\CD1_69.png"
+          ],
+          "uses": [
+            325,
+            454
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 4 - Numbers - Lesson Pages\\challenge-assets\\webp\\u04_lion.webp"
+        },
+        {
+          "id": "u05_dog_01",
+          "brief": "Đúng 1 con dog; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            63,
+            110,
+            203,
+            273,
+            470
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_dog_01.webp"
+        },
+        {
+          "id": "u05_dog_02",
+          "brief": "Đúng 2 con dog; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            111,
+            204,
+            444,
+            472
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_dog_02.webp"
+        },
+        {
+          "id": "u05_cat_01",
+          "brief": "Đúng 1 con cat; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            70,
+            112,
+            209,
+            274,
+            450,
+            474
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cat_01.webp"
+        },
+        {
+          "id": "u05_cat_02",
+          "brief": "Đúng 2 con cat; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            113,
+            205,
+            210,
+            476
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cat_02.webp"
+        },
+        {
+          "id": "u05_bird_01",
+          "brief": "Đúng 1 con bird; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            77,
+            114,
+            215,
+            275,
+            478
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_bird_01.webp"
+        },
+        {
+          "id": "u05_bird_02",
+          "brief": "Đúng 2 con bird; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            480
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_bird_02.webp"
+        },
+        {
+          "id": "u05_cow_01",
+          "brief": "Đúng 1 con cow; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+          ],
+          "uses": [
+            84,
+            116,
+            276,
+            482
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cow_01.webp"
+        },
+        {
+          "id": "u05_cow_02",
+          "brief": "Đúng 2 con cow; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+          ],
+          "uses": [
+            117,
+            223,
+            484
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cow_02.webp"
+        },
+        {
+          "id": "u05_rabbit_01",
+          "brief": "Đúng 1 con rabbit; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+          ],
+          "uses": [
+            91,
+            118,
+            211,
+            221,
+            277,
+            486
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_rabbit_01.webp"
+        },
+        {
+          "id": "u05_rabbit_02",
+          "brief": "Đúng 2 con rabbit; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+          ],
+          "uses": [
+            119,
+            222,
+            462,
+            488
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_rabbit_02.webp"
+        }
+      ]
+    },
+    {
+      "batch": 7,
+      "prompt_file": "batch-07.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u05_duck_01",
+          "brief": "Đúng 1 con duck; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+          ],
+          "uses": [
+            98,
+            120,
+            278,
+            490
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_duck_01.webp"
+        },
+        {
+          "id": "u05_duck_02",
+          "brief": "Đúng 2 con duck; mỗi con thấy toàn thân, nhóm tách rõ, không con khác hoặc con phụ trong nền. Cùng thiết kế ở bản đơn/nhóm.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+          ],
+          "uses": [
+            121,
+            217,
+            492
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_duck_02.webp"
+        },
+        {
+          "id": "u05_bird_03",
+          "brief": "Đúng 3 bird; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+          ],
+          "uses": [
+            115,
+            216,
+            456
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_bird_03.webp"
+        },
+        {
+          "id": "u05_duck_03",
+          "brief": "Đúng 3 duck; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+          ],
+          "uses": [
+            340,
+            496
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_duck_03.webp"
+        },
+        {
+          "id": "u05_cow_08",
+          "brief": "Đúng 8 cow; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+          ],
+          "uses": [
+            343,
+            501
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_cow_08.webp"
+        },
+        {
+          "id": "u05_car_08",
+          "brief": "Đúng 8 car; không thêm vật cùng loại, không số hoặc nhãn. Không sao chép cả cảnh nguồn nếu cảnh có số lượng khác.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+          ],
+          "uses": [
+            346,
+            506
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_car_08.webp"
+        },
+        {
+          "id": "u05_moon",
+          "brief": "Một moon theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+          ],
+          "uses": [
+            424,
+            549
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_moon.webp"
+        },
+        {
+          "id": "u05_nest",
+          "brief": "Một nest theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+          ],
+          "uses": [
+            425,
+            550
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_nest.webp"
+        },
+        {
+          "id": "u05_octopus",
+          "brief": "Một octopus theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+          ],
+          "uses": [
+            426,
+            551
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_octopus.webp"
+        },
+        {
+          "id": "u05_peach",
+          "brief": "Một peach theo phonics M–P; nest là tổ chim, không thêm chim làm thay đổi đối tượng chính; octopus đủ 8 tay, peach là đào.",
+          "note": "",
+          "set": "unit-05",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+          ],
+          "uses": [
+            427,
+            552
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\challenge-assets\\webp\\u05_peach.webp"
+        },
+        {
+          "id": "u06_ice_cream",
+          "brief": "Một món ice_cream theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            68,
+            136,
+            214,
+            258,
+            276,
+            420,
+            440,
+            481
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_ice_cream.webp"
+        },
+        {
+          "id": "u06_pizza",
+          "brief": "Một món pizza theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            75,
+            210,
+            218,
+            259,
+            442
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_pizza.webp"
+        }
+      ]
+    },
+    {
+      "batch": 8,
+      "prompt_file": "batch-08.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u06_cake",
+          "brief": "Một món cake theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            82,
+            141,
+            210,
+            260,
+            273,
+            444,
+            483
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_cake.webp"
+        },
+        {
+          "id": "u06_chicken",
+          "brief": "Một món chicken theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            89,
+            210,
+            218,
+            261,
+            426,
+            446
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_chicken.webp"
+        },
+        {
+          "id": "u06_milk",
+          "brief": "Một món milk theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            96,
+            206,
+            214,
+            262,
+            274,
+            448,
+            469
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_milk.webp"
+        },
+        {
+          "id": "u06_fish",
+          "brief": "Một món fish theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            103,
+            206,
+            210,
+            263,
+            275,
+            450,
+            474
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_fish.webp"
+        },
+        {
+          "id": "u06_bread",
+          "brief": "Một món bread theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            110,
+            206,
+            214,
+            218,
+            264,
+            452
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_bread.webp"
+        },
+        {
+          "id": "u06_rice",
+          "brief": "Một món rice theo tranh Food; không nhãn. Chicken là món thịt gà, fish là món cá theo trang Food (không lấy cá sống của phonics Unit 3).",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+          ],
+          "uses": [
+            117,
+            206,
+            214,
+            218,
+            265,
+            432,
+            454
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_rice.webp"
+        },
+        {
+          "id": "u06_queen",
+          "brief": "Một queen theo phonics Q–T, không chữ.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+          ],
+          "uses": [
+            400,
+            520
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_queen.webp"
+        },
+        {
+          "id": "u06_rabbit",
+          "brief": "Một rabbit theo phonics Q–T, không chữ.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+          ],
+          "uses": [
+            401,
+            521
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_rabbit.webp"
+        },
+        {
+          "id": "u06_sun",
+          "brief": "Một sun theo phonics Q–T, không chữ.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+          ],
+          "uses": [
+            402,
+            522
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_sun.webp"
+        },
+        {
+          "id": "u06_tiger",
+          "brief": "Một tiger theo phonics Q–T, không chữ.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_33.png"
+          ],
+          "uses": [
+            403,
+            523
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_tiger.webp"
+        },
+        {
+          "id": "u06_birds",
+          "brief": "Nhóm chim để thể hiện birds, không số lượng cố định trong câu. Có thể dùng 2 con tách rõ, ghi là adaptation cho số nhiều, không biến câu thành bài đếm.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+          ],
+          "uses": [
+            551,
+            556
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_birds.webp"
+        },
+        {
+          "id": "u06_likes_milk",
+          "brief": "Bé với ly sữa, biểu cảm và cử chỉ thích rõ; dùng cho tình huống mẫu Yes, I do. Không in câu trả lời hoặc dấu tick.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png"
+          ],
+          "uses": [
+            535,
+            540
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_likes_milk.webp"
+        }
+      ]
+    },
+    {
+      "batch": 9,
+      "prompt_file": "batch-09.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u06_dislikes_fish",
+          "brief": "Bé với món cá, cử chỉ nhẹ nhàng từ chối rõ; dùng cho tình huống mẫu No, I don’t. Không in câu trả lời hoặc dấu X.",
+          "note": "",
+          "set": "unit-06",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png"
+          ],
+          "uses": [
+            543,
+            548
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\challenge-assets\\webp\\u06_dislikes_fish.webp"
+        },
+        {
+          "id": "u07_head",
+          "brief": "Bộ phận head trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            58,
+            196,
+            248,
+            370,
+            421
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_head.webp"
+        },
+        {
+          "id": "u07_shoulders",
+          "brief": "Bộ phận shoulders trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            65,
+            249,
+            371,
+            423
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_shoulders.webp"
+        },
+        {
+          "id": "u07_knees",
+          "brief": "Bộ phận knees trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            72,
+            250,
+            372,
+            425
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_knees.webp"
+        },
+        {
+          "id": "u07_toes",
+          "brief": "Bộ phận toes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            79,
+            251,
+            373,
+            427
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_toes.webp"
+        },
+        {
+          "id": "u07_eyes",
+          "brief": "Bộ phận eyes trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            86,
+            196,
+            200,
+            204,
+            208,
+            252,
+            374,
+            401,
+            429
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_eyes.webp"
+        },
+        {
+          "id": "u07_ears",
+          "brief": "Bộ phận ears trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            93,
+            200,
+            204,
+            208,
+            253,
+            375,
+            413,
+            431
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_ears.webp"
+        },
+        {
+          "id": "u07_mouth",
+          "brief": "Bộ phận mouth trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            100,
+            196,
+            200,
+            204,
+            208,
+            254,
+            376,
+            433
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_mouth.webp"
+        },
+        {
+          "id": "u07_nose",
+          "brief": "Bộ phận nose trên cùng mẫu nhân vật Unit 7, có vòng sáng/mũi tên không chữ chỉ đúng vùng. shoulders/knees/toes/eyes/ears thể hiện số nhiều. Toes là ngón chân, knees là đầu gối; không chỉ toàn chân.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png"
+          ],
+          "uses": [
+            107,
+            196,
+            200,
+            204,
+            208,
+            255,
+            377,
+            407,
+            435
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_nose.webp"
+        },
+        {
+          "id": "u07_touch_head",
+          "brief": "Bé đang chạm đúng head; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+          ],
+          "uses": [
+            126,
+            308,
+            439
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_head.webp"
+        },
+        {
+          "id": "u07_touch_nose",
+          "brief": "Bé đang chạm đúng nose; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+          ],
+          "uses": [
+            131,
+            442
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_nose.webp"
+        },
+        {
+          "id": "u07_touch_eyes",
+          "brief": "Bé đang chạm đúng eyes; động tác rõ, bàn tay tự nhiên, không che mất vùng cần nhận diện. Chạm mắt nhẹ ở vùng cạnh mắt, không chọc vào nhãn cầu.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+          ],
+          "uses": [
+            136,
+            311,
+            445
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_touch_eyes.webp"
+        }
+      ]
+    },
+    {
+      "batch": 10,
+      "prompt_file": "batch-10.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u07_red_circle",
+          "brief": "Một hình tròn màu đỏ, không chữ, để bé chỉ/chạm trong câu I can touch the red circle.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_52.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_53.png"
+          ],
+          "uses": [
+            524
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_red_circle.webp"
+        },
+        {
+          "id": "u07_umbrella",
+          "brief": "Một umbrella theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+          ],
+          "uses": [
+            383,
+            492
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_umbrella.webp"
+        },
+        {
+          "id": "u07_violin",
+          "brief": "Một violin theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+          ],
+          "uses": [
+            384,
+            493
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_violin.webp"
+        },
+        {
+          "id": "u07_watch",
+          "brief": "Một watch theo phonics U–W; watch là đồng hồ đeo tay, không đồng hồ treo tường; không chữ.",
+          "note": "",
+          "set": "unit-07",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_51.png"
+          ],
+          "uses": [
+            385,
+            494
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\challenge-assets\\webp\\u07_watch.webp"
+        },
+        {
+          "id": "u08_ride_bicycle",
+          "brief": "Bé thực sự đang đạp xe, chân trên bàn đạp, hai bánh rõ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+          ],
+          "uses": [
+            90,
+            158,
+            232,
+            236,
+            244,
+            293,
+            464,
+            495,
+            515,
+            539
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_ride_bicycle.webp"
+        },
+        {
+          "id": "u08_sing_song",
+          "brief": "Bé đang hát, miệng mở, cử chỉ hát và nốt nhạc phụ vừa đủ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+          ],
+          "uses": [
+            97,
+            236,
+            244,
+            294,
+            465,
+            517
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_sing_song.webp"
+        },
+        {
+          "id": "u08_fly_kite",
+          "brief": "Bé đang thả diều bay, dây nối tay với diều rõ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+          ],
+          "uses": [
+            104,
+            163,
+            232,
+            236,
+            295,
+            466,
+            501,
+            519,
+            533
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fly_kite.webp"
+        },
+        {
+          "id": "u08_bounce_ball",
+          "brief": "Bé đập bóng xuống đất, tay/bóng/vệt chuyển động thể hiện bounce, không chỉ cầm bóng; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_59.png"
+          ],
+          "uses": [
+            111,
+            232,
+            240,
+            296,
+            467,
+            521
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_bounce_ball.webp"
+        },
+        {
+          "id": "u08_swim",
+          "brief": "Bé bơi trong nước, cử động rõ; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+          ],
+          "uses": [
+            118,
+            232,
+            240,
+            244,
+            297,
+            468,
+            523,
+            549
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_swim.webp"
+        },
+        {
+          "id": "u08_smile",
+          "brief": "Cận mặt bé cười, cả hai mắt mở; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+          ],
+          "uses": [
+            125,
+            240,
+            298,
+            469,
+            525
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_smile.webp"
+        },
+        {
+          "id": "u08_wink",
+          "brief": "Cận mặt bé nháy đúng một mắt, mắt kia mở; không giống smile; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+          ],
+          "uses": [
+            132,
+            240,
+            299,
+            470,
+            507,
+            527
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_wink.webp"
+        },
+        {
+          "id": "u08_dance",
+          "brief": "Bé đang múa/nhảy với tư thế rõ, khác chạy hoặc đứng; cùng nhân vật/thiết kế trang Words; không nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_63.png"
+          ],
+          "uses": [
+            139,
+            236,
+            244,
+            300,
+            471,
+            529,
+            544
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_dance.webp"
+        }
+      ]
+    },
+    {
+      "batch": 11,
+      "prompt_file": "batch-11.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "u08_cannot_fly_kite",
+          "brief": "Cùng bé/diều với fly_kite nhưng diều nằm dưới đất, dây chùng, bé bối rối không thả được; hình diễn đạt can’t, không chỉ dấu X hoặc chữ can’t.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_61.png"
+          ],
+          "uses": [
+            168,
+            536
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp"
+        },
+        {
+          "id": "u08_play_ball",
+          "brief": "Hai bé chơi bóng cùng nhau; khác một bé đập bóng; không lời thoại hay nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+          ],
+          "uses": [
+            556
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_ball.webp"
+        },
+        {
+          "id": "u08_play_tag",
+          "brief": "Các bé chơi đuổi bắt, một bé đưa tay đuổi/chạm bạn; không chỉ một người chạy; không lời thoại hay nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+          ],
+          "uses": [
+            561
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp"
+        },
+        {
+          "id": "u08_jump_rope",
+          "brief": "Bé đang nhảy qua dây, hai tay cầm và dây đúng chuyển động; khác ảnh vật dây nhảy; không lời thoại hay nhãn.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_54.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_55.png"
+          ],
+          "uses": [
+            566
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_jump_rope.webp"
+        },
+        {
+          "id": "u08_fox",
+          "brief": "Một fox theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+          ],
+          "uses": [
+            477,
+            617
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fox.webp"
+        },
+        {
+          "id": "u08_yarn",
+          "brief": "Một yarn theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+          ],
+          "uses": [
+            478,
+            618
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_yarn.webp"
+        },
+        {
+          "id": "u08_zebra",
+          "brief": "Một zebra theo phonics X–Z; yarn là cuộn sợi len, không dây nhảy; không chữ.",
+          "note": "",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_68.png"
+          ],
+          "uses": [
+            479,
+            619
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_zebra.webp"
+        },
+        {
+          "id": "u08_make_circle",
+          "brief": "Nhóm bé xếp thành vòng tròn khép kín; không chữ.",
+          "note": "Đã chốt cue theo yêu cầu người dùng: câu5 circle, câu6 line; dùng lại ảnh hiện có.",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+          ],
+          "uses": [
+            390
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_make_circle.webp"
+        },
+        {
+          "id": "u08_make_line",
+          "brief": "Nhóm bé xếp thành một hàng thẳng; không chữ.",
+          "note": "Đã chốt cue theo yêu cầu người dùng: câu5 circle, câu6 line; dùng lại ảnh hiện có.",
+          "set": "unit-08",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\pages\\png\\CD2_69.png"
+          ],
+          "uses": [
+            391
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_make_line.webp"
+        },
+        {
+          "id": "r12_car",
+          "brief": "Ô tô đồ chơi ở 1a",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-01",
+            "R12-C4-06",
+            "R12-C4-10",
+            "R12-C5-01",
+            "R12-C5-04"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_car.webp"
+        },
+        {
+          "id": "r12_train",
+          "brief": "Đoàn tàu đồ chơi ở 1b",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-02",
+            "R12-C5-05"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_train.webp"
+        },
+        {
+          "id": "r12_bicycle",
+          "brief": "Xe đạp ở 2a",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-03",
+            "R12-C5-06"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_bicycle.webp"
+        }
+      ]
+    },
+    {
+      "batch": 12,
+      "prompt_file": "batch-12.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "r12_ball",
+          "brief": "Bóng ở 2b",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-04",
+            "R12-C4-11",
+            "R12-C5-02",
+            "R12-C5-07"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_ball.webp"
+        },
+        {
+          "id": "r12_green",
+          "brief": "Mảng xanh lá 3a",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-05",
+            "R12-C4-07",
+            "R12-C4-10",
+            "R12-C5-01",
+            "R12-C5-08"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_green.webp"
+        },
+        {
+          "id": "r12_red",
+          "brief": "Mảng đỏ 3b",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-06",
+            "R12-C5-09"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_red.webp"
+        },
+        {
+          "id": "r12_purple",
+          "brief": "Mảng tím 4a",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-07",
+            "R12-C5-10"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_purple.webp"
+        },
+        {
+          "id": "r12_yellow",
+          "brief": "Mảng vàng 4b",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-08",
+            "R12-C4-11",
+            "R12-C5-02",
+            "R12-C5-11"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_yellow.webp"
+        },
+        {
+          "id": "r12_paper",
+          "brief": "Một tờ giấy, hình 1 School Supplies",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-09",
+            "R12-C3-14",
+            "R12-C4-08",
+            "R12-C5-12",
+            "R12-C5-21"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_paper.webp"
+        },
+        {
+          "id": "r12_scissors",
+          "brief": "Kéo học sinh, hình 2",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-10",
+            "R12-C5-13"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_scissors.webp"
+        },
+        {
+          "id": "r12_glue",
+          "brief": "Lọ keo có đầu nhọn, hình 3, không chai mỹ phẩm",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-11",
+            "R12-C4-12",
+            "R12-C5-03",
+            "R12-C5-14"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_glue.webp"
+        },
+        {
+          "id": "r12_paint",
+          "brief": "Lọ màu vẽ và cọ, hình 4",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-12",
+            "R12-C5-15"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_paint.webp"
+        },
+        {
+          "id": "r12_tape",
+          "brief": "Hộp/cuộn băng keo đúng hình 5, không giấy vệ sinh",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-13",
+            "R12-C4-13",
+            "R12-C5-16"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_tape.webp"
+        },
+        {
+          "id": "r12_stand_up",
+          "brief": "Bé đứng dậy, 5a",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-14",
+            "R12-C3-15",
+            "R12-C4-09",
+            "R12-C5-17"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_stand_up.webp"
+        },
+        {
+          "id": "r12_sit_down",
+          "brief": "Bé ngồi xuống ghế, 5b",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-15",
+            "R12-C3-16",
+            "R12-C4-12",
+            "R12-C5-03",
+            "R12-C5-18"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_sit_down.webp"
+        }
+      ]
+    },
+    {
+      "batch": 13,
+      "prompt_file": "batch-13.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "r12_come_here",
+          "brief": "Bé đi về phía cô giáo/người đang gọi, 6a; có người gọi để thấy hướng",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-16",
+            "R12-C3-17",
+            "R12-C5-19"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_come_here.webp"
+        },
+        {
+          "id": "r12_turn_around",
+          "brief": "Bé quay người, 6b; vệt xoay nhẹ rõ",
+          "note": "",
+          "set": "review-1-2",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png"
+          ],
+          "uses": [
+            "R12-C1-17",
+            "R12-C3-18",
+            "R12-C4-13",
+            "R12-C5-20"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_turn_around.webp"
+        },
+        {
+          "id": "r34_circle",
+          "brief": "Một hình circle chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-01",
+            "R34-C4-06",
+            "R34-C5-04"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_circle.webp"
+        },
+        {
+          "id": "r34_square",
+          "brief": "Một hình square chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-02",
+            "R34-C5-05"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_square.webp"
+        },
+        {
+          "id": "r34_star",
+          "brief": "Một hình star chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-03",
+            "R34-C5-06"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_star.webp"
+        },
+        {
+          "id": "r34_heart",
+          "brief": "Một hình heart chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-04",
+            "R34-C5-07"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_heart.webp"
+        },
+        {
+          "id": "r34_triangle",
+          "brief": "Một hình triangle chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-05",
+            "R34-C1-16",
+            "R34-C5-08"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangle.webp"
+        },
+        {
+          "id": "r34_diamond",
+          "brief": "Một hình diamond chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-06",
+            "R34-C5-09"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamond.webp"
+        },
+        {
+          "id": "r34_oval",
+          "brief": "Một hình oval chính xác theo Review; không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-07",
+            "R34-C5-10"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_oval.webp"
+        },
+        {
+          "id": "r34_walk",
+          "brief": "Bé đi bộ, 5a; khác chạy",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-08",
+            "R34-C4-07",
+            "R34-C5-11"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_walk.webp"
+        },
+        {
+          "id": "r34_run",
+          "brief": "Bé chạy, 5b; khác đi bộ",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-09",
+            "R34-C5-12"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_run.webp"
+        },
+        {
+          "id": "r34_go",
+          "brief": "Đèn xanh cho phép đi, 6a; không chữ GO",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-10",
+            "R34-C5-13"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_go.webp"
+        }
+      ]
+    },
+    {
+      "batch": 14,
+      "prompt_file": "batch-14.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "r34_stop",
+          "brief": "Đèn đỏ yêu cầu dừng, 6b; không chữ STOP",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-11",
+            "R34-C5-14"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_stop.webp"
+        },
+        {
+          "id": "r34_take_out_pencil",
+          "brief": "Bé lấy bút chì ra khỏi hộp, hình 1 Classroom Commands; hướng tay/vật rõ",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-12",
+            "R34-C3-12",
+            "R34-C3-16",
+            "R34-C4-08",
+            "R34-C5-15",
+            "R34-C5-23"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_take_out_pencil.webp"
+        },
+        {
+          "id": "r34_put_away_pencil",
+          "brief": "Bé cất bút chì vào hộp, hình 2; khác lấy ra",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-13",
+            "R34-C3-13",
+            "R34-C5-16"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_put_away_pencil.webp"
+        },
+        {
+          "id": "r34_open_book",
+          "brief": "Bé đang mở sách, hình 3; chuyển động mở rõ",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-14",
+            "R34-C3-14",
+            "R34-C5-17"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_open_book.webp"
+        },
+        {
+          "id": "r34_close_book",
+          "brief": "Bé đang đóng sách, hình 4; khác mở",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-15",
+            "R34-C3-15",
+            "R34-C5-18"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_close_book.webp"
+        },
+        {
+          "id": "r34_triangles_02",
+          "brief": "Đúng 2 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-17"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_02.webp"
+        },
+        {
+          "id": "r34_triangles_03",
+          "brief": "Đúng 3 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-18"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_03.webp"
+        },
+        {
+          "id": "r34_triangles_04",
+          "brief": "Đúng 4 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-19",
+            "R34-C4-09",
+            "R34-C5-01"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_04.webp"
+        },
+        {
+          "id": "r34_triangles_05",
+          "brief": "Đúng 5 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-20"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_05.webp"
+        },
+        {
+          "id": "r34_triangles_06",
+          "brief": "Đúng 6 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-21"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_06.webp"
+        },
+        {
+          "id": "r34_triangles_07",
+          "brief": "Đúng 7 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C1-22"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_triangles_07.webp"
+        },
+        {
+          "id": "r34_diamonds_04",
+          "brief": "Đúng 4 hình thoi ◆, không đá quý, không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C3-17"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_04.webp"
+        }
+      ]
+    },
+    {
+      "batch": 15,
+      "prompt_file": "batch-15.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "r34_diamonds_05",
+          "brief": "Đúng 5 hình thoi ◆, không đá quý, không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C3-18"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_05.webp"
+        },
+        {
+          "id": "r34_diamonds_06",
+          "brief": "Đúng 6 hình thoi ◆, không đá quý, không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C3-19",
+            "R34-C4-11",
+            "R34-C5-03"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_06.webp"
+        },
+        {
+          "id": "r34_diamonds_07",
+          "brief": "Đúng 7 hình thoi ◆, không đá quý, không số/nhãn",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C3-20"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_diamonds_07.webp"
+        },
+        {
+          "id": "r34_circles_05",
+          "brief": "Đúng 5 hình tròn, nhóm nguồn 3b",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C4-10",
+            "R34-C5-02"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_circles_05.webp"
+        },
+        {
+          "id": "r34_ovals_07",
+          "brief": "Đúng 7 oval, nhóm nguồn 4b",
+          "note": "",
+          "set": "review-3-4",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+          ],
+          "uses": [
+            "R34-C4-12"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\challenge-assets\\webp\\r34_ovals_07.webp"
+        },
+        {
+          "id": "r56_cat_01",
+          "brief": "Đúng 1 mèo; biến thể luyện số ít, không gán vào nhóm nguồn",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-01",
+            "R56-C3-21",
+            "R56-C4-05",
+            "R56-C5-04"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cat_01.webp"
+        },
+        {
+          "id": "r56_cat_03",
+          "brief": "Đúng 3 mèo, nhóm 1a",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-02",
+            "R56-C3-15",
+            "R56-C4-09",
+            "R56-C5-01",
+            "R56-C5-05"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cat_03.webp"
+        },
+        {
+          "id": "r56_cat_04",
+          "brief": "Đúng 4 mèo, nhóm 1b",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-02",
+            "R56-C4-10",
+            "R56-C5-02",
+            "R56-C5-05",
+            "R56-C5-21"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cat_04.webp"
+        },
+        {
+          "id": "r56_rabbit_01",
+          "brief": "Đúng 1 thỏ; biến thể luyện số ít",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-03",
+            "R56-C5-06"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rabbit_01.webp"
+        },
+        {
+          "id": "r56_rabbit_02",
+          "brief": "Đúng 2 thỏ, nhóm 2a",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-04",
+            "R56-C3-16",
+            "R56-C4-11",
+            "R56-C5-03",
+            "R56-C5-07"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rabbit_02.webp"
+        },
+        {
+          "id": "r56_rabbit_05",
+          "brief": "Đúng 5 thỏ, nhóm 2b",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-04",
+            "R56-C3-22",
+            "R56-C4-12",
+            "R56-C5-07",
+            "R56-C5-21"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rabbit_05.webp"
+        },
+        {
+          "id": "r56_ice_cream",
+          "brief": "Kem 3a",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-05",
+            "R56-C3-17",
+            "R56-C4-06",
+            "R56-C4-13",
+            "R56-C5-08"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_ice_cream.webp"
+        }
+      ]
+    },
+    {
+      "batch": 16,
+      "prompt_file": "batch-16.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "r56_cake",
+          "brief": "Bánh 3b",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-06",
+            "R56-C5-09"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cake.webp"
+        },
+        {
+          "id": "r56_bread",
+          "brief": "Lát bánh mì 4a",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-07",
+            "R56-C5-10"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_bread.webp"
+        },
+        {
+          "id": "r56_rice",
+          "brief": "Bát cơm 4b",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-08",
+            "R56-C5-11"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rice.webp"
+        },
+        {
+          "id": "r56_skip",
+          "brief": "Bé nhảy chân sáo 5a, chân luân phiên; khác jump",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-09",
+            "R56-C4-07",
+            "R56-C5-12"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_skip.webp"
+        },
+        {
+          "id": "r56_jump",
+          "brief": "Bé nhảy bằng hai chân 5b; khác skip",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-10",
+            "R56-C5-13"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_jump.webp"
+        },
+        {
+          "id": "r56_make_line",
+          "brief": "Các bé xếp một hàng thẳng, 6a",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-11",
+            "R56-C3-18",
+            "R56-C5-14"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_make_line.webp"
+        },
+        {
+          "id": "r56_make_circle",
+          "brief": "Các bé xếp vòng tròn khép kín, 6b",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-12",
+            "R56-C3-19",
+            "R56-C5-15"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_make_circle.webp"
+        },
+        {
+          "id": "r56_sunny",
+          "brief": "Cảnh có nắng, hình 1 Weather",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-13",
+            "R56-C3-20",
+            "R56-C4-08",
+            "R56-C5-16",
+            "R56-C5-22"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_sunny.webp"
+        },
+        {
+          "id": "r56_cloudy",
+          "brief": "Cảnh nhiều mây, hình 2",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-14",
+            "R56-C5-17"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_cloudy.webp"
+        },
+        {
+          "id": "r56_windy",
+          "brief": "Cảnh có gió làm lá/khăn bay, hình 3; không chỉ một đám mây",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-15",
+            "R56-C4-13",
+            "R56-C5-18"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_windy.webp"
+        },
+        {
+          "id": "r56_rainy",
+          "brief": "Cảnh mưa với hạt mưa rõ, hình 4",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-16",
+            "R56-C5-19"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_rainy.webp"
+        },
+        {
+          "id": "r56_snowy",
+          "brief": "Cảnh tuyết với bông tuyết/tuyết phủ rõ, hình 5",
+          "note": "",
+          "set": "review-5-6",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png"
+          ],
+          "uses": [
+            "R56-C1-17",
+            "R56-C5-20"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\webp\\r56_snowy.webp"
+        }
+      ]
+    },
+    {
+      "batch": 17,
+      "prompt_file": "batch-17.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 12,
+      "blank_cells": 0,
+      "cards": [
+        {
+          "id": "r78_wink",
+          "brief": "Bé nháy một mắt, mắt kia mở, 1a",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-01",
+            "R78-C4-08",
+            "R78-C5-04"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_wink.webp"
+        },
+        {
+          "id": "r78_touch_knees",
+          "brief": "Bé đặt hai tay lên đầu gối, 1b",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-02",
+            "R78-C5-05"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_touch_knees.webp"
+        },
+        {
+          "id": "r78_touch_toes",
+          "brief": "Bé cúi chạm được tới ngón chân giày, 2a; tay tiếp xúc rõ",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-03",
+            "R78-C3-13",
+            "R78-C4-13",
+            "R78-C5-06",
+            "R78-C5-22"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_touch_toes.webp"
+        },
+        {
+          "id": "r78_cannot_touch_toes",
+          "brief": "Cùng bé cúi nhưng tay chưa chạm được giày, 2b; khoảng hở rõ, không dấu X",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C4-13",
+            "R78-C5-22"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_cannot_touch_toes.webp"
+        },
+        {
+          "id": "r78_ride_bicycle",
+          "brief": "Bé thực sự đạp xe, 3a",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-04",
+            "R78-C3-11",
+            "R78-C4-10",
+            "R78-C5-01",
+            "R78-C5-07"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_ride_bicycle.webp"
+        },
+        {
+          "id": "r78_fly_kite",
+          "brief": "Bé thả diều bay, dây nối tay và diều, 3b",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-05",
+            "R78-C3-12",
+            "R78-C5-08"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_fly_kite.webp"
+        },
+        {
+          "id": "r78_swim",
+          "brief": "Bé bơi trong nước, 4a",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-06",
+            "R78-C4-11",
+            "R78-C5-02",
+            "R78-C5-09"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_swim.webp"
+        },
+        {
+          "id": "r78_dance",
+          "brief": "Bé đang nhảy múa, 4b",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-07",
+            "R78-C5-10"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_dance.webp"
+        },
+        {
+          "id": "r78_stamp_feet",
+          "brief": "Bé giậm chân, 5a; chuyển động chân rõ",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-08",
+            "R78-C5-11"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_stamp_feet.webp"
+        },
+        {
+          "id": "r78_clap_hands",
+          "brief": "Bé vỗ tay, 5b; hai bàn tay đúng",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-09",
+            "R78-C3-15",
+            "R78-C4-12",
+            "R78-C5-03",
+            "R78-C5-12"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_clap_hands.webp"
+        },
+        {
+          "id": "r78_point_board",
+          "brief": "Bé chỉ vào bảng, 6a; không đi tới bảng",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-10",
+            "R78-C3-14",
+            "R78-C5-13"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_point_board.webp"
+        },
+        {
+          "id": "r78_stand_up",
+          "brief": "Bé đứng lên, 6b",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-11",
+            "R78-C5-14"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_stand_up.webp"
+        }
+      ]
+    },
+    {
+      "batch": 18,
+      "prompt_file": "batch-18.md",
+      "rows": 3,
+      "columns": 4,
+      "occupied_cells": 7,
+      "blank_cells": 5,
+      "cards": [
+        {
+          "id": "r78_day_01_sunday",
+          "brief": "Thẻ thứ tự nguồn 1 — Sunday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-12",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C4-09",
+            "R78-C5-15"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_01_sunday.webp"
+        },
+        {
+          "id": "r78_day_02_monday",
+          "brief": "Thẻ thứ tự nguồn 2 — Monday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-13",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C3-16",
+            "R78-C4-10",
+            "R78-C5-01",
+            "R78-C5-16",
+            "R78-C5-23"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_02_monday.webp"
+        },
+        {
+          "id": "r78_day_03_tuesday",
+          "brief": "Thẻ thứ tự nguồn 3 — Tuesday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-14",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C5-17"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_03_tuesday.webp"
+        },
+        {
+          "id": "r78_day_04_wednesday",
+          "brief": "Thẻ thứ tự nguồn 4 — Wednesday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-15",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C4-11",
+            "R78-C5-02",
+            "R78-C5-18"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_04_wednesday.webp"
+        },
+        {
+          "id": "r78_day_05_thursday",
+          "brief": "Thẻ thứ tự nguồn 5 — Thursday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-16",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C5-19"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_05_thursday.webp"
+        },
+        {
+          "id": "r78_day_06_friday",
+          "brief": "Thẻ thứ tự nguồn 6 — Friday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-17",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C5-20"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_06_friday.webp"
+        },
+        {
+          "id": "r78_day_07_saturday",
+          "brief": "Thẻ thứ tự nguồn 7 — Saturday. Sunday=1 đến Saturday=7; không phải số thứ trong tiếng Việt hoặc ngày tháng. Native graphic/font, không cần image_gen.",
+          "note": "",
+          "set": "review-7-8",
+          "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8(2).md",
+          "references": [
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_70.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_71.png",
+            "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\pages\\png\\CD2_72.png"
+          ],
+          "uses": [
+            "R78-C1-18",
+            "R78-C2-17",
+            "R78-C2-18",
+            "R78-C2-19",
+            "R78-C2-20",
+            "R78-C2-21",
+            "R78-C2-22",
+            "R78-C2-23",
+            "R78-C4-12",
+            "R78-C5-03",
+            "R78-C5-21"
+          ],
+          "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 7-8 - Lesson Pages\\challenge-assets\\webp\\r78_day_07_saturday.webp"
+        }
+      ]
+    }
+  ]
+}

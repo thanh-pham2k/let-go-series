@@ -306,10 +306,10 @@ A: Oops! I'm sorry.
 B: ______________________________.
 
 A: What can you do?  
-B: I can touch my ____________________.
+B: I can touch my ____________________.  ![Hình gợi ý](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/challenge-assets/webp/u07_touch_head.webp)
 
 A: What can you do?  
-B: I can touch my ____________________.
+B: I can touch my ____________________.  ![Hình gợi ý](Unit%207%20-%20My%20Body%20-%20Lesson%20Pages/challenge-assets/webp/u07_touch_eyes.webp)
 
 ## 6. Commands Recall
 

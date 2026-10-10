@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "unit": 1,
+  "scope": "Challenge 1-5",
+  "required_asset_ids": [
+    "u01_ball",
+    "u01_jump_rope",
+    "u01_yo_yo",
+    "u01_bicycle",
+    "u01_train",
+    "u01_car",
+    "u01_doll",
+    "u01_teddy_bear"
+  ],
+  "complete": true,
+  "missing": [],
+  "conditional": [],
+  "asset_count": 8,
+  "webp_count": 8,
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "occurrence_coverage": {
+    "inventory_visual_occurrences": 41,
+    "mapped_occurrences": 41,
+    "unmapped_occurrences": [],
+    "all_challenge_sections_accounted_for": true
+  },
+  "duplicate_check": {
+    "unique_sha256": 8,
+    "duplicate_pixel_assets": [],
+    "orphan_assets": []
+  },
+  "context_open": [],
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "u01_ball": 13530,
+      "u01_jump_rope": 18436,
+      "u01_yo_yo": 13622,
+      "u01_bicycle": 22140,
+      "u01_train": 20312,
+      "u01_car": 17566,
+      "u01_doll": 19034,
+      "u01_teddy_bear": 19512
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 8
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 8,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 22140,
+    "over_60kb": [],
+    "unique_hashes": 8,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

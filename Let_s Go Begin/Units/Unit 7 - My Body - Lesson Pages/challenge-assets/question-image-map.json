@@ -1,0 +1,1108 @@
+{
+  "schema_version": 1,
+  "unit": 7,
+  "source": "Let_s Go Begin/Units/Unit 7 - My Body(2).md",
+  "scope": "Challenge 1–5 only",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "source_line": 55,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 58,
+          "asset_ids": [
+            "u07_head"
+          ]
+        },
+        {
+          "source_line": 65,
+          "asset_ids": [
+            "u07_shoulders"
+          ]
+        },
+        {
+          "source_line": 72,
+          "asset_ids": [
+            "u07_knees"
+          ]
+        },
+        {
+          "source_line": 79,
+          "asset_ids": [
+            "u07_toes"
+          ]
+        },
+        {
+          "source_line": 86,
+          "asset_ids": [
+            "u07_eyes"
+          ]
+        },
+        {
+          "source_line": 93,
+          "asset_ids": [
+            "u07_ears"
+          ]
+        },
+        {
+          "source_line": 100,
+          "asset_ids": [
+            "u07_mouth"
+          ]
+        },
+        {
+          "source_line": 107,
+          "asset_ids": [
+            "u07_nose"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "source_line": 113,
+      "image_required": false,
+      "reason": "Audio/text choices only; no dedicated raster is required."
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "source_line": 124,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 126,
+          "asset_ids": [
+            "u07_touch_head"
+          ]
+        },
+        {
+          "source_line": 131,
+          "asset_ids": [
+            "u07_touch_nose"
+          ]
+        },
+        {
+          "source_line": 136,
+          "asset_ids": [
+            "u07_touch_eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "source_line": 141,
+      "image_required": false,
+      "reason": "Letter-to-word matching is rendered as text/UI; no raster is required."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 154,
+      "image_required": false,
+      "reason": "Audio and bilingual text choices only; no raster is required."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "source_line": 192,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 196,
+          "asset_ids": [
+            "u07_head",
+            "u07_eyes",
+            "u07_nose",
+            "u07_mouth"
+          ]
+        },
+        {
+          "source_line": 200,
+          "asset_ids": [
+            "u07_ears",
+            "u07_eyes",
+            "u07_nose",
+            "u07_mouth"
+          ]
+        },
+        {
+          "source_line": 204,
+          "asset_ids": [
+            "u07_eyes",
+            "u07_ears",
+            "u07_mouth",
+            "u07_nose"
+          ]
+        },
+        {
+          "source_line": 208,
+          "asset_ids": [
+            "u07_mouth",
+            "u07_nose",
+            "u07_ears",
+            "u07_eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu → chọn phản hồi phù hợp",
+      "source_line": 210,
+      "image_required": false,
+      "reason": "Audio/text response choices only; no dedicated raster is required."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 230,
+      "image_required": false,
+      "reason": "The learner performs Stamp your feet / Clap your hands; UI does not need a raster."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "source_line": 244,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 248,
+          "asset_ids": [
+            "u07_head"
+          ]
+        },
+        {
+          "source_line": 249,
+          "asset_ids": [
+            "u07_shoulders"
+          ]
+        },
+        {
+          "source_line": 250,
+          "asset_ids": [
+            "u07_knees"
+          ]
+        },
+        {
+          "source_line": 251,
+          "asset_ids": [
+            "u07_toes"
+          ]
+        },
+        {
+          "source_line": 252,
+          "asset_ids": [
+            "u07_eyes"
+          ]
+        },
+        {
+          "source_line": 253,
+          "asset_ids": [
+            "u07_ears"
+          ]
+        },
+        {
+          "source_line": 254,
+          "asset_ids": [
+            "u07_mouth"
+          ]
+        },
+        {
+          "source_line": 255,
+          "asset_ids": [
+            "u07_nose"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "source_line": 257,
+      "image_required": false,
+      "reason": "Fill-and-recall text activity; no image marker in source."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Hoàn thành hội thoại",
+      "source_line": 267,
+      "image_required": false,
+      "reason": "Dialogue completion is text/audio only."
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "source_line": 277,
+      "image_required": false,
+      "reason": "Audio plus text choices; no dedicated raster is required."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "source_line": 303,
+      "image_required": true,
+      "needs_context": false,
+      "items": [
+        {
+          "source_line": 308,
+          "asset_ids": [
+            "u07_touch_head"
+          ],
+          "needs_context": false,
+          "expected_answer": "head",
+          "accepted_answers": [
+            "head"
+          ],
+          "image_required": true,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "answer_matching": {
+            "case_sensitive": false,
+            "trim_whitespace": true
+          }
+        },
+        {
+          "source_line": 311,
+          "asset_ids": [
+            "u07_touch_eyes"
+          ],
+          "needs_context": false,
+          "expected_answer": "eyes",
+          "accepted_answers": [
+            "eyes"
+          ],
+          "image_required": true,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "answer_matching": {
+            "case_sensitive": false,
+            "trim_whitespace": true
+          }
+        }
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "6. Commands Recall",
+      "source_line": 314,
+      "image_required": false,
+      "reason": "Text recall of feet/hands; no dedicated raster is required."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 328,
+      "image_required": false,
+      "reason": "Word-order activity is rendered as text/UI."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu → phản hồi phù hợp",
+      "source_line": 359,
+      "image_required": false,
+      "reason": "Text matching activity; no raster is required."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "source_line": 366,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 370,
+          "asset_ids": [
+            "u07_head"
+          ]
+        },
+        {
+          "source_line": 371,
+          "asset_ids": [
+            "u07_shoulders"
+          ]
+        },
+        {
+          "source_line": 372,
+          "asset_ids": [
+            "u07_knees"
+          ]
+        },
+        {
+          "source_line": 373,
+          "asset_ids": [
+            "u07_toes"
+          ]
+        },
+        {
+          "source_line": 374,
+          "asset_ids": [
+            "u07_eyes"
+          ]
+        },
+        {
+          "source_line": 375,
+          "asset_ids": [
+            "u07_ears"
+          ]
+        },
+        {
+          "source_line": 376,
+          "asset_ids": [
+            "u07_mouth"
+          ]
+        },
+        {
+          "source_line": 377,
+          "asset_ids": [
+            "u07_nose"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "source_line": 379,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 383,
+          "asset_ids": [
+            "u07_umbrella"
+          ]
+        },
+        {
+          "source_line": 384,
+          "asset_ids": [
+            "u07_violin"
+          ]
+        },
+        {
+          "source_line": 385,
+          "asset_ids": [
+            "u07_watch"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "source_line": 399,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 401,
+          "asset_ids": [
+            "u07_eyes"
+          ]
+        },
+        {
+          "source_line": 407,
+          "asset_ids": [
+            "u07_nose"
+          ]
+        },
+        {
+          "source_line": 413,
+          "asset_ids": [
+            "u07_ears"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "source_line": 419,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 421,
+          "asset_ids": [
+            "u07_head"
+          ]
+        },
+        {
+          "source_line": 423,
+          "asset_ids": [
+            "u07_shoulders"
+          ]
+        },
+        {
+          "source_line": 425,
+          "asset_ids": [
+            "u07_knees"
+          ]
+        },
+        {
+          "source_line": 427,
+          "asset_ids": [
+            "u07_toes"
+          ]
+        },
+        {
+          "source_line": 429,
+          "asset_ids": [
+            "u07_eyes"
+          ]
+        },
+        {
+          "source_line": 431,
+          "asset_ids": [
+            "u07_ears"
+          ]
+        },
+        {
+          "source_line": 433,
+          "asset_ids": [
+            "u07_mouth"
+          ]
+        },
+        {
+          "source_line": 435,
+          "asset_ids": [
+            "u07_nose"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "source_line": 437,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 439,
+          "asset_ids": [
+            "u07_touch_head"
+          ]
+        },
+        {
+          "source_line": 442,
+          "asset_ids": [
+            "u07_touch_nose"
+          ]
+        },
+        {
+          "source_line": 445,
+          "asset_ids": [
+            "u07_touch_eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "source_line": 448,
+      "image_required": false,
+      "reason": "Learner-generated question/response text; no fixed raster cue is specified."
+    },
+    {
+      "challenge": 5,
+      "section": "5. Situation — Apology",
+      "source_line": 456,
+      "image_required": false,
+      "reason": "Role-play text/audio; no fixed raster cue is specified."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Build without hint",
+      "source_line": 461,
+      "image_required": false,
+      "reason": "Word-order activity is rendered as text/UI."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Commands",
+      "source_line": 479,
+      "image_required": false,
+      "reason": "Learner performs and repeats commands; no dedicated raster is required."
+    },
+    {
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "source_line": 488,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 492,
+          "asset_ids": [
+            "u07_umbrella"
+          ]
+        },
+        {
+          "source_line": 493,
+          "asset_ids": [
+            "u07_violin"
+          ]
+        },
+        {
+          "source_line": 494,
+          "asset_ids": [
+            "u07_watch"
+          ]
+        }
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "source_line": 496,
+      "image_required": true,
+      "items": [
+        {
+          "source_line": 524,
+          "asset_ids": [
+            "u07_red_circle"
+          ],
+          "note": "Explicit red-circle target from the shared context; the other role-play lines are text/action prompts and do not require extra raster."
+        }
+      ]
+    }
+  ],
+  "inventory_visual_occurrences": [
+    {
+      "line": 58,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.1",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 65,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.2",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 72,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.3",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 79,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.4",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 86,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.5",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 93,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.6",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 100,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.7",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 107,
+      "challenge": 1,
+      "section": "1. Nhìn hình/ký hiệu → chọn từ",
+      "item": "1.8",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 126,
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "item": "",
+      "asset_ids": [
+        "u07_touch_head"
+      ]
+    },
+    {
+      "line": 131,
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "item": "",
+      "asset_ids": [
+        "u07_touch_nose"
+      ]
+    },
+    {
+      "line": 136,
+      "challenge": 1,
+      "section": "3. Nhìn hành động → chọn câu",
+      "item": "",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ]
+    },
+    {
+      "line": 196,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "asset_ids": [
+        "u07_head",
+        "u07_eyes",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 200,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes",
+        "u07_ears",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 204,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes",
+        "u07_ears",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 208,
+      "challenge": 2,
+      "section": "2. Nghe → chọn bộ phận",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes",
+        "u07_ears",
+        "u07_mouth",
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 248,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 249,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 250,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 251,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 252,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 253,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 254,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 255,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 370,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 371,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 372,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 373,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 374,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 375,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 376,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 377,
+      "challenge": 4,
+      "section": "3. Ghép từ với bộ phận cơ thể",
+      "item": "",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 383,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "item": "",
+      "asset_ids": [
+        "u07_umbrella"
+      ]
+    },
+    {
+      "line": 384,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "item": "",
+      "asset_ids": [
+        "u07_violin"
+      ]
+    },
+    {
+      "line": 385,
+      "challenge": 4,
+      "section": "4. Letters & words (Phonics U–W)",
+      "item": "",
+      "asset_ids": [
+        "u07_watch"
+      ]
+    },
+    {
+      "line": 401,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 407,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 413,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 421,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_head"
+      ]
+    },
+    {
+      "line": 423,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_shoulders"
+      ]
+    },
+    {
+      "line": 425,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_knees"
+      ]
+    },
+    {
+      "line": 427,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_toes"
+      ]
+    },
+    {
+      "line": 429,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_eyes"
+      ]
+    },
+    {
+      "line": 431,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_ears"
+      ]
+    },
+    {
+      "line": 433,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_mouth"
+      ]
+    },
+    {
+      "line": 435,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "asset_ids": [
+        "u07_nose"
+      ]
+    },
+    {
+      "line": 439,
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "item": "",
+      "asset_ids": [
+        "u07_touch_head"
+      ]
+    },
+    {
+      "line": 442,
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "item": "",
+      "asset_ids": [
+        "u07_touch_nose"
+      ]
+    },
+    {
+      "line": 445,
+      "challenge": 5,
+      "section": "3. Tự nói câu",
+      "item": "",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ]
+    },
+    {
+      "line": 492,
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "item": "",
+      "asset_ids": [
+        "u07_umbrella"
+      ]
+    },
+    {
+      "line": 493,
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "item": "",
+      "asset_ids": [
+        "u07_violin"
+      ]
+    },
+    {
+      "line": 494,
+      "challenge": 5,
+      "section": "8. U–W Phonics Production",
+      "item": "",
+      "asset_ids": [
+        "u07_watch"
+      ]
+    },
+    {
+      "line": 524,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "asset_ids": [
+        "u07_red_circle"
+      ]
+    }
+  ],
+  "coverage": {
+    "inventory_visual_occurrences": 52,
+    "mapped_visual_occurrences": 52,
+    "unresolved_context": [
+      "C3§5 lines 308 and 311 need an activity cue/order before selecting one touch action card."
+    ],
+    "all_challenge_sections_mapped": true
+  },
+  "answer_visibility": "Learner preview contains neutral prompts only; answer text stays in the source exercise and is not printed on bitmap cards.",
+  "resolved_visual_cues": [
+    {
+      "unit": 7,
+      "question_line": 308,
+      "cue_line": 309,
+      "asset_id": "u07_touch_head",
+      "asset_ids": [
+        "u07_touch_head"
+      ],
+      "expected_answer": "head",
+      "accepted_answers": [
+        "head"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "B: I can touch my ____________________.",
+      "answer_matching": {
+        "case_sensitive": false,
+        "trim_whitespace": true
+      }
+    },
+    {
+      "unit": 7,
+      "question_line": 311,
+      "cue_line": 312,
+      "asset_id": "u07_touch_eyes",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ],
+      "expected_answer": "eyes",
+      "accepted_answers": [
+        "eyes"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "B: I can touch my ____________________.",
+      "answer_matching": {
+        "case_sensitive": false,
+        "trim_whitespace": true
+      }
+    }
+  ]
+}

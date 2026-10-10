@@ -1,0 +1,82 @@
+{
+  "current_generation": "12-cell regeneration",
+  "batches": [
+    {
+      "batch": 1,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-01\\generation-log.json"
+    },
+    {
+      "batch": 2,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-02\\generation-log.json"
+    },
+    {
+      "batch": 3,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-03\\generation-log.json"
+    },
+    {
+      "batch": 4,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-04\\generation-log.json"
+    },
+    {
+      "batch": 5,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-05\\generation-log.json"
+    },
+    {
+      "batch": 6,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-06\\generation-log.json"
+    },
+    {
+      "batch": 7,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-07\\generation-log.json"
+    },
+    {
+      "batch": 8,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-08\\generation-log.json"
+    },
+    {
+      "batch": 9,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-09\\generation-log.json"
+    },
+    {
+      "batch": 10,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-10\\generation-log.json"
+    },
+    {
+      "batch": 11,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-11\\generation-log.json"
+    },
+    {
+      "batch": 12,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-12\\generation-log.json"
+    },
+    {
+      "batch": 13,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-13\\generation-log.json"
+    },
+    {
+      "batch": 14,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-14\\generation-log.json"
+    },
+    {
+      "batch": 15,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-15\\generation-log.json"
+    },
+    {
+      "batch": 16,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-16\\generation-log.json"
+    },
+    {
+      "batch": 17,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-17\\generation-log.json"
+    },
+    {
+      "batch": 18,
+      "log": "E:\\let-go-series\\audit\\challenge-regeneration-staging\\batch-18\\generation-log.json"
+    }
+  ],
+  "calls": 19,
+  "retry_batches": [
+    14
+  ],
+  "previous_index": "challenge-regeneration-backup/challenge-generation-provenance-index.json"
+}

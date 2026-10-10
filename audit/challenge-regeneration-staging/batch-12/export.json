@@ -1,0 +1,322 @@
+{
+  "batch": 12,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "r12_ball",
+      "crop_box": [
+        0,
+        0,
+        362,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18336,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_ball.webp",
+      "sha256": "6ad4cadb2825ac5fe8b9852dba4b5caec9504f4a93119e4ed58a288f0ec3d0a0"
+    },
+    {
+      "id": "r12_green",
+      "crop_box": [
+        362,
+        0,
+        724,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 35910,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_green.webp",
+      "sha256": "d52d3bf3183a5e7a126648556bddf7fd8ba34ecba8790de0aed61156f3bb1027"
+    },
+    {
+      "id": "r12_red",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 39850,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_red.webp",
+      "sha256": "f2ba40d09159dc7b447ae9a0346900a6c62527648d0bf7492c2c6afa5f3522ed"
+    },
+    {
+      "id": "r12_purple",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        360
+      ],
+      "original_cell_size": [
+        362,
+        360
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 35954,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_purple.webp",
+      "sha256": "4213eb0823161a78cb493ece4e8263672c166d0f76a6299440b301cc41ca4b9c"
+    },
+    {
+      "id": "r12_yellow",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 24192,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_yellow.webp",
+      "sha256": "c9160b98cbf74e7b0d3bb408f7304888d192f56679fe8a694c24b3782dd5a99a"
+    },
+    {
+      "id": "r12_paper",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 5140,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_paper.webp",
+      "sha256": "82c4f9b74fb6786fedf1e5aea423d2822c758b295b774511ea561d2c40c7e6e6"
+    },
+    {
+      "id": "r12_scissors",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12288,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_scissors.webp",
+      "sha256": "ea2c014fec07b479a753447144326b70db56804efa9ee275d2cf597392b35746"
+    },
+    {
+      "id": "r12_glue",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "original_cell_size": [
+        362,
+        320
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 9710,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_glue.webp",
+      "sha256": "81579d53df8b81b40271c0eebe0a7aecc6e8dd8d57a351253821f4274bc9dc0d"
+    },
+    {
+      "id": "r12_paint",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 12706,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_paint.webp",
+      "sha256": "a32c95a037612c32e961a1d4e700795e6208d45519abb0e80817ed1edaf6cf12"
+    },
+    {
+      "id": "r12_tape",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 10386,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_tape.webp",
+      "sha256": "ef23e05d6f14b54699aac580f0bc254a25cc0c5d319aec035107caf8f3eba9b9"
+    },
+    {
+      "id": "r12_stand_up",
+      "crop_box": [
+        724,
+        680,
+        1086,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 15030,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_stand_up.webp",
+      "sha256": "2fe27d497d943e3256011d871977bf27b0d12ce2d73c31d2e5878a0356d749dc"
+    },
+    {
+      "id": "r12_sit_down",
+      "crop_box": [
+        1086,
+        680,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        362,
+        406
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14732,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Review ball/colors and school supplies correct; paint/glue contain no vocabulary label; same child/chair standing versus seated clearly distinct."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_sit_down.webp",
+      "sha256": "f644c31d0b83ecb927a26f43a87f0cdb9ea3458ebe0a2fefec4c8318aad5e56d"
+    }
+  ],
+  "status": "visual_review_pass"
+}

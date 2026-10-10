@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "unit": 6,
+  "source_session": "C:/Users/Admin/.codex/sessions/2026/10/10/rollout-2026-10-10T11-45-43-01a12421-9648-79a0-80e2-02761d99e818.jsonl",
+  "records": [
+    {
+      "id": "u06_likes_milk",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_4b1ac46762b14d5d8402e10d11a8cd83",
+      "references": [],
+      "prompt": "Use case: illustration-story. Asset type: one small educational illustration card for a Vietnamese/English preschool food lesson. Create one square 1:1 card, bright textbook cartoon matching a Let's Go Begin lesson: clean bold dark outlines, soft cel shading, friendly diverse young child character, white or very light background, simple uncluttered composition, fully visible subject, no text, no letters, no numbers, no speech bubbles, no check marks, no X marks, no watermark. Show a happy young child holding a clear glass of milk close to the chest, smiling with an obvious positive liking gesture (warm smile, bright eyes, gentle thumbs-up or heart-like hands), with the milk clearly visible. This is a visual cue for the fixed model response “Yes, I do.” Do not add any other food or any written answer.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-f6603643-c7e9-4ab9-a3c2-af21a5b85916.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_dislikes_fish",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_ba6e06af266f4c2a9f07ec02178f3a09",
+      "references": [],
+      "prompt": "Use case: illustration-story. Asset type: one small educational illustration card for a Vietnamese/English preschool food lesson. Create one square 1:1 card, bright textbook cartoon matching a Let's Go Begin lesson: clean bold dark outlines, soft cel shading, friendly diverse young child character, white or very light background, simple uncluttered composition, fully visible subject, no text, no letters, no numbers, no speech bubbles, no check marks, no X marks, no watermark. Show a young child seated at a table with a clearly visible plate holding a cooked fish meal, making a gentle but unmistakable dislike/refusal gesture (slightly unhappy face, open palm raised to say no, turning away a little). The fish must be clearly recognizable as food on a plate, not a live fish and not a whole animal. This is a visual cue for the fixed model response “No, I don’t.” Do not add any other food or any written answer.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-fc6a5399-e03b-4da9-b9f6-562e9a300b08.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_queen",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_61dfd59f83fd435cbe12dbad03e2804e",
+      "references": [],
+      "prompt": "Use case: illustration-story. Asset type: small phonics picture card for a preschool English lesson. Create one square educational illustration card, bright Let's Go Begin preschool textbook cartoon style: clean bold dark outlines, soft shading, white background. Show a friendly smiling queen seated on a simple throne, full subject visible, centered. No words, no letters, no numbers, no labels, no speech bubbles, no watermark, no other objects.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-359c00c9-a216-4799-9ce5-d6fd5a71c272.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_rabbit",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_61dfd59f83fd435cbe12dbad03e2804e",
+      "references": [],
+      "prompt": "Use case: illustration-story. Asset type: small phonics picture card for a preschool English lesson. Create one square educational illustration card, bright Let's Go Begin preschool textbook cartoon style: clean bold dark outlines, soft shading, white background. Show one friendly brown rabbit sitting, full body visible, centered. No words, no letters, no numbers, no labels, no speech bubbles, no watermark, no other objects.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-4c910943-2a92-4631-8968-278fcc229054.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_sun",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_61dfd59f83fd435cbe12dbad03e2804e",
+      "references": [],
+      "prompt": "Use case: illustration-story. Asset type: small phonics picture card for a preschool English lesson. Create one square educational illustration card, bright Let's Go Begin preschool textbook cartoon style: clean bold dark outlines, soft shading, white background. Show one cheerful yellow sun with orange rays, fully visible and centered. No words, no letters, no numbers, no labels, no speech bubbles, no watermark, no other objects.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-1eed8629-2dc4-400c-ac47-12aa566afb0b.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_tiger",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_61dfd59f83fd435cbe12dbad03e2804e",
+      "references": [],
+      "prompt": "Use case: illustration-story. Asset type: small phonics picture card for a preschool English lesson. Create one square educational illustration card, bright Let's Go Begin preschool textbook cartoon style: clean bold dark outlines, soft shading, white background. Show one friendly orange tiger with black stripes sitting, full body visible, centered. No words, no letters, no numbers, no labels, no speech bubbles, no watermark, no other objects.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-684ab59c-8aca-4493-9456-4ac3c0918de3.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_ice_cream",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_9da1f5e017da4b51b4dec84a6cdc10ee",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png"
+      ],
+      "prompt": "Edit the referenced lesson-page artwork into one clean square 1:1 picture card containing ONLY the exact ice cream cone from the lower-left food panel. Reconstruct and preserve the complete original object: three intact scoops (white, pink, chocolate) with their full rounded side contours and the entire orange waffle cone ending in a pointed tip. Keep the original children's workbook illustration style, linework, colors, shading, and proportions. Remove the surrounding panel, all captions, all letters and numbers, all speech bubbles, and all neighboring characters/foods. Center the whole ice cream with generous white margin; do not crop or clip any scoop, chocolate edge, drip, cone side, or cone tip. No text, labels, or answer cues.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-2b26f58c-9a29-423d-9b52-7ff11c450124.png",
+      "result_exists": true
+    },
+    {
+      "id": "u06_cake",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_729ec5e51c8b4041afd145cde566e68c",
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png"
+      ],
+      "prompt": "Edit the referenced lesson-page artwork into one clean square 1:1 picture card containing ONLY the exact decorated cake from the lower-left food panel. Reconstruct and preserve the complete original object: the entire cake, the full oval blue-rimmed serving platter including both left and right ends, and the complete blue pedestal stand including the whole foot and oval base. Keep the original children's workbook illustration style, linework, colors, shading, and proportions. Remove the surrounding panel, all captions, all letters and numbers, all speech bubbles, and all neighboring characters/foods. Center the whole cake and serving stand with generous white margin; do not crop or clip the platter ends, stand stem, or any part of the foot. No text, labels, or answer cues.",
+      "result": "C:\\Users\\Admin\\.codex\\generated_images\\01a12421-9648-79a0-80e2-02761d99e818\\exec-7aaec16f-6b18-4373-8546-421e17eacd7f.png",
+      "result_exists": true
+    }
+  ],
+  "notes": [
+    "Prompts and call IDs were transcribed from the recorded tool-call history; no prompt was invented.",
+    "References is the exact referenced_image_paths value: empty for brand-new generated cards, CD2_25.png for the two complete-object food edits."
+  ]
+}

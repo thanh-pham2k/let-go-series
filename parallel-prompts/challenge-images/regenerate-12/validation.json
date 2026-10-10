@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "scope": "Prompt coverage and existing source/reference paths only; images have not been regenerated",
+  "assets": 211,
+  "unique_ids": 211,
+  "missing_ids": [],
+  "duplicate_ids": [],
+  "extra_ids": [],
+  "batches": 18,
+  "full_batches": 17,
+  "last_batch_assets": 7,
+  "last_batch_blank_cells": 5,
+  "source_and_reference_paths_exist": true
+}

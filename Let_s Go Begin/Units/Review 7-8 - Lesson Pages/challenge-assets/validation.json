@@ -1,0 +1,93 @@
+{
+  "required": 19,
+  "complete": true,
+  "missing": [],
+  "questions": 97,
+  "unresolved_context": [],
+  "methods": {
+    "imagegen_edit": 12,
+    "native_graphic": 7
+  },
+  "all_dimensions_512": true,
+  "over_60kb": [],
+  "unique_hashes": 19,
+  "visual_reviewed_ids": [
+    "r78_wink",
+    "r78_touch_knees",
+    "r78_touch_toes",
+    "r78_cannot_touch_toes",
+    "r78_ride_bicycle",
+    "r78_fly_kite",
+    "r78_swim",
+    "r78_dance",
+    "r78_stamp_feet",
+    "r78_clap_hands",
+    "r78_point_board",
+    "r78_stand_up",
+    "r78_day_01_sunday",
+    "r78_day_02_monday",
+    "r78_day_03_tuesday",
+    "r78_day_04_wednesday",
+    "r78_day_05_thursday",
+    "r78_day_06_friday",
+    "r78_day_07_saturday"
+  ],
+  "links_exist": true,
+  "asset_count": 19,
+  "webp_count": 19,
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "r78_wink": 16842,
+      "r78_touch_knees": 16908,
+      "r78_touch_toes": 17320,
+      "r78_cannot_touch_toes": 17790,
+      "r78_ride_bicycle": 27700,
+      "r78_fly_kite": 17760,
+      "r78_swim": 23406,
+      "r78_dance": 24532,
+      "r78_stamp_feet": 20344,
+      "r78_clap_hands": 18570,
+      "r78_point_board": 18612,
+      "r78_stand_up": 17702,
+      "r78_day_01_sunday": 10732,
+      "r78_day_02_monday": 11878,
+      "r78_day_03_tuesday": 12260,
+      "r78_day_04_wednesday": 10940,
+      "r78_day_05_thursday": 11722,
+      "r78_day_06_friday": 12066,
+      "r78_day_07_saturday": 11330
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 19
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 19,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 27700,
+    "over_60kb": [],
+    "unique_hashes": 19,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

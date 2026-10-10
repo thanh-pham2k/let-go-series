@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+CRITICAL count layouts per cell: 5 solid black dots arranged 3+2; 5 black double-outline concentric rings arranged 3+2; 6 purple outline triangles 3+3; 7 yellow stars 3+2+2; 8 black outline circles 4+4; 9 red hearts 3+3+3; 10 green squares 5+5; 3 orange toy cars 2+1; 4 brown blue-bow teddies 2+2; 7 orange toy cars 3+2+2. Maintain visible separate entire objects with no overlaps. Last row igloo white-blue dome and jump rope white orange-green handles. No letters/numbers.
+Row 1, column 1: Đúng 5 chấm tròn đặc ●, tách rời và dễ đếm. Đây là ký hiệu chấm trong bài luyện, không tự đổi thành bóng đồ chơi.
+Row 1, column 2: Đúng 5 hình rings, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.
+Row 1, column 3: Đúng 6 hình triangles, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.
+Row 1, column 4: Đúng 7 hình stars, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.
+Row 2, column 1: Đúng 8 hình circles, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.
+Row 2, column 2: Đúng 9 hình hearts, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.
+Row 2, column 3: Đúng 10 hình squares, giống ký hiệu nhóm trong bài luyện (rings = ◎; circles = ○), không số/nhãn, không chồng lên nhau.
+Row 2, column 4: Đúng 3 cars, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.
+Row 3, column 1: Đúng 4 teddy_bears, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.
+Row 3, column 2: Đúng 7 cars, từng vật trọn vẹn, tách nhau, dễ đếm; không số, không vật cùng loại trong nền.
+Row 3, column 3: Một igloo theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.
+Row 3, column 4: Một jump_rope theo phonics I–L. Igloo là nhà băng vòm (không nhà tranh dù emoji là 🛖); jump rope là vật dây nhảy, không cảnh bé nhảy.

@@ -1,0 +1,423 @@
+{
+  "schema_version": 1,
+  "unit": 2,
+  "tool": "built-in image_gen",
+  "source_session_log": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+  "records": [
+    {
+      "record_id": "u02_green_car",
+      "asset_id": "u02_green_car",
+      "state": "accepted",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_35.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_c9fc3017f5394d0d9c00ad6b65ca343e"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_35.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: one small educational challenge card. Create one square 1024x1024 illustration of a single green toy car matching the supplied Let’s Go Begin textbook reference style: bright friendly children's textbook cartoon, clean bold dark outlines, soft simple shading, rounded compact toy car, green body, pale blue windows, black wheels. Center the complete car on a plain white background with generous safe margins. No children, no room scene, no speech bubbles, no labels, no letters, no numbers, no watermark, no panel ID, no extra objects. The output must show exactly one green toy car, fully visible, suitable for cropping to a 512x512 lightweight WebP card.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 113,
+        "generation_line": 115,
+        "generation_id": "exec-d18a29d5-d035-4d68-a586-6290c1c46e57",
+        "tool_call_timestamp": "2026-10-10T04:39:29.199Z",
+        "generation_timestamp": "2026-10-10T04:39:49.704Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-d18a29d5-d035-4d68-a586-6290c1c46e57.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "91099fa0078c57c4cd455ae4687a56c7f58a4410009dea3d47b425b0a5ddee07"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-d18a29d5-d035-4d68-a586-6290c1c46e57.png",
+        "batch_master": "batches/green-car-imagegen.png",
+        "final_webp": "webp/u02_green_car.webp"
+      },
+      "finalization": {
+        "batch_master": "batches/green-car-imagegen.png",
+        "final_webp": "webp/u02_green_car.webp",
+        "visual_review": "accepted after individual final WebP inspection"
+      }
+    },
+    {
+      "record_id": "u02_red_train",
+      "asset_id": "u02_red_train",
+      "state": "accepted",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_b69500f971354455a480a661d1db808b"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: one small educational challenge card. Create one square 1024x1024 illustration of a single red toy train matching the supplied Let’s Go Begin textbook reference style: bright friendly children's textbook cartoon, clean bold dark outlines, soft shading, compact red locomotive with blue roof accents and three yellow wheels. Center the complete train on a plain white background with generous safe margins. Show exactly one train, fully visible from the side. No second train, no child, no room scene, no speech bubble, no labels, no letters, no numbers, no watermark, no panel ID, no extra objects.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 236,
+        "generation_line": 238,
+        "generation_id": "exec-a46d8506-2bcb-4e79-844c-f7fa27d7171b",
+        "tool_call_timestamp": "2026-10-10T04:41:16.976Z",
+        "generation_timestamp": "2026-10-10T04:41:38.802Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-a46d8506-2bcb-4e79-844c-f7fa27d7171b.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "d1353d7a88a9cf7885a2698c3faf92b460d594808b5af7d1b084dff472e61984"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-a46d8506-2bcb-4e79-844c-f7fa27d7171b.png",
+        "batch_master": "batches/u02_red_train-imagegen.png",
+        "final_webp": "webp/u02_red_train.webp"
+      },
+      "finalization": {
+        "batch_master": "batches/u02_red_train-imagegen.png",
+        "final_webp": "webp/u02_red_train.webp",
+        "visual_review": "accepted after individual final WebP inspection"
+      }
+    },
+    {
+      "record_id": "u02_brown_teddy_bear_initial",
+      "asset_id": "u02_brown_teddy_bear",
+      "state": "superseded",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_24ae950b0c5b45c6a110feaecce72e23"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: one small educational challenge card. Create one square 1024x1024 illustration of a single brown teddy bear toy matching the supplied Let’s Go Begin textbook reference style: bright friendly children's textbook cartoon, clean bold dark outlines, soft shading, seated plush brown teddy bear with a small colorful hat and scarf, fully visible. Center it on a plain white background with generous safe margins. Exactly one teddy bear, no partial second object, no child, no room scene, no speech bubble, no labels, no letters, no numbers, no watermark, no panel ID, no extra objects.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 243,
+        "generation_line": 245,
+        "generation_id": "exec-c9cf9881-43f4-44b9-9fb8-2afd8452298a",
+        "tool_call_timestamp": "2026-10-10T04:41:42.265Z",
+        "generation_timestamp": "2026-10-10T04:42:06.238Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-c9cf9881-43f4-44b9-9fb8-2afd8452298a.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "776e9b4aa0d75f8a5629648b129ce290ee0c40390cd64caafe8a162d27295f4f"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-c9cf9881-43f4-44b9-9fb8-2afd8452298a.png",
+        "batch_master": null,
+        "final_webp": null
+      },
+      "superseded_by": "u02_brown_teddy_bear",
+      "supersession_reason": "superseded after silhouette QA; retained only as provenance"
+    },
+    {
+      "record_id": "u02_bird",
+      "asset_id": "u02_bird",
+      "state": "accepted",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_153a15c09c1e4082a93f3859270b188d"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational challenge card. Create exactly one complete blue bird in the same bright Let’s Go Begin textbook cartoon style as the supplied reference: clean bold dark outlines, soft shading, yellow beak, blue body, one branch fully visible beneath it. Show the whole bird from beak to the very end of its tail with generous white margin on every side; do not crop any part of the silhouette. Plain white background. No adjacent panels, no other animals, no letters, no words, no labels, no watermark, no numbers.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 473,
+        "generation_line": 475,
+        "generation_id": "exec-e6207008-a3f4-47be-a702-34bfce03636b",
+        "tool_call_timestamp": "2026-10-10T04:56:38.164Z",
+        "generation_timestamp": "2026-10-10T04:57:02.177Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-e6207008-a3f4-47be-a702-34bfce03636b.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "d6724d287d1fc6d503d2d20b061a2e7b4d433b6ec9c55c556985d3c79c1e92ed"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-e6207008-a3f4-47be-a702-34bfce03636b.png",
+        "batch_master": "batches/u02_bird-imagegen.png",
+        "final_webp": "webp/u02_bird.webp"
+      },
+      "finalization": {
+        "batch_master": "batches/u02_bird-imagegen.png",
+        "final_webp": "webp/u02_bird.webp",
+        "visual_review": "accepted after individual final WebP inspection"
+      }
+    },
+    {
+      "record_id": "u02_cat",
+      "asset_id": "u02_cat",
+      "state": "accepted",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_153a15c09c1e4082a93f3859270b188d"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational challenge card. Create exactly one complete yellow-orange striped cat in the same bright Let’s Go Begin textbook cartoon style as the supplied reference: clean bold dark outlines, soft shading, seated pose, tail fully visible, both sides of the face and all whiskers fully visible. Plain white background with generous margin; no silhouette clipping. No adjacent panels, no other animals, no letters, no words, no labels, no watermark, no numbers.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 473,
+        "generation_line": 482,
+        "generation_id": "exec-24dd7904-b269-414f-96c1-f21ff769ab16",
+        "tool_call_timestamp": "2026-10-10T04:56:38.164Z",
+        "generation_timestamp": "2026-10-10T04:57:21.908Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-24dd7904-b269-414f-96c1-f21ff769ab16.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "1c2caf50a649a8cea2fa6f8f32b5952f3fa14ca097ddec552b7e6e9e15898e3a"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-24dd7904-b269-414f-96c1-f21ff769ab16.png",
+        "batch_master": "batches/u02_cat-imagegen.png",
+        "final_webp": "webp/u02_cat.webp"
+      },
+      "finalization": {
+        "batch_master": "batches/u02_cat-imagegen.png",
+        "final_webp": "webp/u02_cat.webp",
+        "visual_review": "accepted after individual final WebP inspection"
+      }
+    },
+    {
+      "record_id": "u02_dog",
+      "asset_id": "u02_dog",
+      "state": "accepted",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_153a15c09c1e4082a93f3859270b188d"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_33.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational challenge card. Create exactly one complete friendly brown dog in the same bright Let’s Go Begin textbook cartoon style as the supplied reference: clean bold dark outlines, blue collar with red tag, seated pose. Show both ears, full left and right body contours, both front paws and both hind feet fully inside the frame, with generous white margin on every side. Plain white background. No cropped edges, no adjacent panels, no other animals, no letters, no words, no labels, no watermark, no numbers.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 473,
+        "generation_line": 483,
+        "generation_id": "exec-e351f589-9326-4c39-b4f0-8747bc993171",
+        "tool_call_timestamp": "2026-10-10T04:56:38.164Z",
+        "generation_timestamp": "2026-10-10T04:57:42.549Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-e351f589-9326-4c39-b4f0-8747bc993171.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "fd59700865852f962b857165d9961e44175778845edb54c815af1340dfcc62ba"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-e351f589-9326-4c39-b4f0-8747bc993171.png",
+        "batch_master": "batches/u02_dog-imagegen.png",
+        "final_webp": "webp/u02_dog.webp"
+      },
+      "finalization": {
+        "batch_master": "batches/u02_dog-imagegen.png",
+        "final_webp": "webp/u02_dog.webp",
+        "visual_review": "accepted after individual final WebP inspection"
+      }
+    },
+    {
+      "record_id": "u02_brown_teddy_bear_parallel_initial",
+      "asset_id": "u02_brown_teddy_bear",
+      "state": "superseded",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_153a15c09c1e4082a93f3859270b188d"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational challenge card. Create exactly one anatomically clear seated brown teddy bear toy matching the supplied Let’s Go Begin textbook cartoon style: clean bold dark outlines, soft shading, one head, two ears, two arms, one torso, exactly two legs and exactly two feet/paw pads. Keep the small colorful hat and scarf. Do not add a third foot, extra limb, duplicated paw, or extra body part. Show the complete bear with generous white margin on a plain white background. No adjacent objects, no labels, no letters, no words, no watermark, no numbers.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 473,
+        "generation_line": 490,
+        "generation_id": "exec-880dd26f-97c7-423b-a12b-150e7eff646e",
+        "tool_call_timestamp": "2026-10-10T04:56:38.164Z",
+        "generation_timestamp": "2026-10-10T04:58:06.789Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-880dd26f-97c7-423b-a12b-150e7eff646e.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "75a2794d3f520ba0689e61dc75c7a9a7c84b354f7e270a88ee5d475675cd41db"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-880dd26f-97c7-423b-a12b-150e7eff646e.png",
+        "batch_master": null,
+        "final_webp": null
+      },
+      "superseded_by": "u02_brown_teddy_bear",
+      "supersession_reason": "superseded after silhouette QA; retained only as provenance"
+    },
+    {
+      "record_id": "u02_brown_teddy_bear",
+      "asset_id": "u02_brown_teddy_bear",
+      "state": "accepted",
+      "tool": "built-in image_gen",
+      "tool_call": {
+        "function": "tools.image_gen__imagegen",
+        "transparent_background": false,
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+        ],
+        "num_last_images_to_include": null,
+        "input_images_passed": true,
+        "session_call_id": "call_0K1T4YOpk69n4wXARIurmsGR"
+      },
+      "style_context_reviewed": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 2 - Colors - Lesson Pages\\pages\\png\\CD1_34.png"
+      ],
+      "exact_prompt": "Use case: illustration-story. Asset type: small educational challenge card. Create one front-facing seated brown teddy bear toy, exactly two-legged anatomy. The bear must have one head, two ears, two arms, one torso, exactly two legs, and exactly two large feet: one foot at the bottom left and one foot at the bottom right. The middle lower torso must be clear and must not contain a third foot, third leg, third paw pad, or duplicated limb. Keep the small colorful hat and scarf from the reference. Bright children’s textbook cartoon, clean bold outlines, soft shading, plain white background, generous margin, complete silhouette. No extra limbs, no extra feet, no extra paw pads, no adjacent objects, no text, no label, no number, no watermark.",
+      "session_log": {
+        "file": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-38-48-01a1241b-3f2a-7470-8b16-d2b463a7c7bc.jsonl",
+        "tool_call_line": 505,
+        "generation_line": 507,
+        "generation_id": "exec-e2a5e494-743f-4796-885b-89c17a5104af",
+        "tool_call_timestamp": "2026-10-10T04:58:38.659Z",
+        "generation_timestamp": "2026-10-10T04:59:02.532Z"
+      },
+      "result": {
+        "status": "completed",
+        "default_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-e2a5e494-743f-4796-885b-89c17a5104af.png",
+        "mode": "RGB",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "transparent_background": false,
+        "failure": null,
+        "raw_result_encoding": "base64 PNG returned in session log",
+        "raw_result_sha256": "e37a92ce6245b4ba797709ebed86da118591ed887594e589e96cff5a41920826"
+      },
+      "master_paths": {
+        "generated_source": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241b-3f2a-7470-8b16-d2b463a7c7bc\\exec-e2a5e494-743f-4796-885b-89c17a5104af.png",
+        "batch_master": "batches/u02_brown_teddy_bear-imagegen.png",
+        "final_webp": "webp/u02_brown_teddy_bear.webp"
+      },
+      "finalization": {
+        "batch_master": "batches/u02_brown_teddy_bear-imagegen.png",
+        "final_webp": "webp/u02_brown_teddy_bear.webp",
+        "visual_review": "accepted after individual final WebP inspection"
+      }
+    }
+  ],
+  "final_asset_links": {
+    "u02_green_car": "u02_green_car",
+    "u02_red_train": "u02_red_train",
+    "u02_brown_teddy_bear": "u02_brown_teddy_bear",
+    "u02_bird": "u02_bird",
+    "u02_cat": "u02_cat",
+    "u02_dog": "u02_dog"
+  },
+  "notes": [
+    "All prompts, reference paths, generation IDs, result paths and call timestamps are read from the local session log; no call was reconstructed or regenerated.",
+    "The two teddy records marked superseded are retained because both were actual completed image_gen calls. The final teddy record is the only one linked from manifest.json.",
+    "The base64 image payloads are omitted from this audit log; raw_result_sha256 binds each result to the session-log payload while keeping the repository lightweight."
+  ]
+}

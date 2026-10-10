@@ -1,0 +1,2675 @@
+{
+  "schema_version": 1,
+  "unit": 5,
+  "topic": "Animals",
+  "scope": "Challenge 1–5 only",
+  "source": "../Unit 5 - Animals(2).md",
+  "inventory": "../../../../parallel-prompts/challenge-images/unit-05.inventory.json",
+  "assets": [
+    {
+      "id": "u05_dog_01",
+      "semantic": {
+        "subject": "dog",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.1",
+          "line": 63,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 110,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 203,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 273,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 470,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.1",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-110",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-203",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-273",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-470",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_dog_01.webp",
+      "webp": "webp/u05_dog_01.webp",
+      "files": [
+        "webp/u05_dog_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10786,
+      "sha256": "248b203da5ce3d83ef9026e57e358b05f7be2ac42ae8b05504a432f6ed2d6bed",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        724,
+        0,
+        1010,
+        400
+      ],
+      "source_crop_size": [
+        286,
+        400
+      ],
+      "visual_review": {
+        "sha256": "248b203da5ce3d83ef9026e57e358b05f7be2ac42ae8b05504a432f6ed2d6bed",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "248b203da5ce3d83ef9026e57e358b05f7be2ac42ae8b05504a432f6ed2d6bed",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          286,
+          400
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_dog_02",
+      "semantic": {
+        "subject": "dog",
+        "count": 2,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 111,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 204,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 444,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 472,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-111",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-204",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-444",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-472",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_dog_02.webp",
+      "webp": "webp/u05_dog_02.webp",
+      "files": [
+        "webp/u05_dog_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17344,
+      "sha256": "e3fda3ae44870dacc1cf5023319ae83dda7fcefd2e833c25fdadc8075dba357b",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        1010,
+        0,
+        1448,
+        400
+      ],
+      "source_crop_size": [
+        438,
+        400
+      ],
+      "visual_review": {
+        "sha256": "e3fda3ae44870dacc1cf5023319ae83dda7fcefd2e833c25fdadc8075dba357b",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "e3fda3ae44870dacc1cf5023319ae83dda7fcefd2e833c25fdadc8075dba357b",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          438,
+          400
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_cat_01",
+      "semantic": {
+        "subject": "cat",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.2",
+          "line": 70,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 112,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 209,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 274,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 450,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 474,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.2",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-112",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-209",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-274",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-450",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-474",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_cat_01.webp",
+      "webp": "webp/u05_cat_01.webp",
+      "files": [
+        "webp/u05_cat_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12520,
+      "sha256": "56ea9ab03e4c56b0dbb4661b720d5d4f07166bb00297c5c62831556e842cc8e8",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        0,
+        400,
+        320,
+        710
+      ],
+      "source_crop_size": [
+        320,
+        310
+      ],
+      "visual_review": {
+        "sha256": "56ea9ab03e4c56b0dbb4661b720d5d4f07166bb00297c5c62831556e842cc8e8",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "56ea9ab03e4c56b0dbb4661b720d5d4f07166bb00297c5c62831556e842cc8e8",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          320,
+          310
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_cat_02",
+      "semantic": {
+        "subject": "cat",
+        "count": 2,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 113,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 205,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 210,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 476,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-113",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-205",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-210",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-476",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.2",
+          "adaptation_applied": true
+        }
+      ],
+      "file": "webp/u05_cat_02.webp",
+      "webp": "webp/u05_cat_02.webp",
+      "files": [
+        "webp/u05_cat_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15780,
+      "sha256": "118f563556122c9430ece1e20e4c3a35357d57c9920aa2bf936957fa616c8bd9",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        320,
+        400,
+        740,
+        710
+      ],
+      "source_crop_size": [
+        420,
+        310
+      ],
+      "visual_review": {
+        "sha256": "118f563556122c9430ece1e20e4c3a35357d57c9920aa2bf936957fa616c8bd9",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "118f563556122c9430ece1e20e4c3a35357d57c9920aa2bf936957fa616c8bd9",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          420,
+          310
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_bird_01",
+      "semantic": {
+        "subject": "bird",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.3",
+          "line": 77,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 114,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 215,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 275,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 478,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.3",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-114",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-215",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-275",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-478",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_bird_01.webp",
+      "webp": "webp/u05_bird_01.webp",
+      "files": [
+        "webp/u05_bird_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10232,
+      "sha256": "31d517be98d869186e1740c73ee2a3d4179a9fb963a5433edf7d345ab6ebe2a6",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        740,
+        400,
+        1010,
+        710
+      ],
+      "source_crop_size": [
+        270,
+        310
+      ],
+      "visual_review": {
+        "sha256": "31d517be98d869186e1740c73ee2a3d4179a9fb963a5433edf7d345ab6ebe2a6",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "31d517be98d869186e1740c73ee2a3d4179a9fb963a5433edf7d345ab6ebe2a6",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          270,
+          310
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_bird_02",
+      "semantic": {
+        "subject": "bird",
+        "count": 2,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 480,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-480",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_bird_02.webp",
+      "webp": "webp/u05_bird_02.webp",
+      "files": [
+        "webp/u05_bird_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12388,
+      "sha256": "cec2acd6e2f20893d38651a99befb0a3ff0e112f13322b2d4cf8c6b34a3cd6d8",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        1010,
+        400,
+        1448,
+        710
+      ],
+      "source_crop_size": [
+        438,
+        310
+      ],
+      "visual_review": {
+        "sha256": "cec2acd6e2f20893d38651a99befb0a3ff0e112f13322b2d4cf8c6b34a3cd6d8",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "cec2acd6e2f20893d38651a99befb0a3ff0e112f13322b2d4cf8c6b34a3cd6d8",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_07.png"
+        ],
+        "resized_from": [
+          438,
+          310
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_bird_03",
+      "semantic": {
+        "subject": "bird",
+        "count": 3,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 115,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 216,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 456,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-115",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-216",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-456",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_bird_03.webp",
+      "webp": "webp/u05_bird_03.webp",
+      "files": [
+        "webp/u05_bird_03.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15480,
+      "sha256": "dd47b1e1f1322b1a08c97c9eac57d6e7c2f136c9a40c2f4ca9f0d4834bf2fd80",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        724,
+        0,
+        1060,
+        360
+      ],
+      "source_crop_size": [
+        336,
+        360
+      ],
+      "visual_review": {
+        "sha256": "dd47b1e1f1322b1a08c97c9eac57d6e7c2f136c9a40c2f4ca9f0d4834bf2fd80",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "dd47b1e1f1322b1a08c97c9eac57d6e7c2f136c9a40c2f4ca9f0d4834bf2fd80",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+        ],
+        "resized_from": [
+          336,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_cow_01",
+      "semantic": {
+        "subject": "cow",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.4",
+          "line": 84,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 116,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 276,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 482,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.4",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-116",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-276",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-482",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_cow_01.webp",
+      "webp": "webp/u05_cow_01.webp",
+      "files": [
+        "webp/u05_cow_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13180,
+      "sha256": "b11d111784018a3b1942b91e28ac522a66bb4ad2902ad98b0d2a1a93a0368de8",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        0,
+        710,
+        305,
+        1086
+      ],
+      "source_crop_size": [
+        305,
+        376
+      ],
+      "visual_review": {
+        "sha256": "b11d111784018a3b1942b91e28ac522a66bb4ad2902ad98b0d2a1a93a0368de8",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b11d111784018a3b1942b91e28ac522a66bb4ad2902ad98b0d2a1a93a0368de8",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+        ],
+        "resized_from": [
+          305,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_cow_02",
+      "semantic": {
+        "subject": "cow",
+        "count": 2,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 117,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 223,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 484,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-117",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-223",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-484",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_cow_02.webp",
+      "webp": "webp/u05_cow_02.webp",
+      "files": [
+        "webp/u05_cow_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18084,
+      "sha256": "6cbece96da06241348cf272bfb76d0a99c4b29315142219d51d7abc519849c0e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        305,
+        710,
+        750,
+        1086
+      ],
+      "source_crop_size": [
+        445,
+        376
+      ],
+      "visual_review": {
+        "sha256": "6cbece96da06241348cf272bfb76d0a99c4b29315142219d51d7abc519849c0e",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "6cbece96da06241348cf272bfb76d0a99c4b29315142219d51d7abc519849c0e",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+        ],
+        "resized_from": [
+          445,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_cow_08",
+      "semantic": {
+        "subject": "cow",
+        "count": 8,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "",
+          "line": 501,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.3",
+          "line": 343,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "line-501",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "3. Chọn từ → điền vào chỗ trống",
+          "item": "3.3.4",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.3",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.4",
+          "adaptation_applied": true
+        }
+      ],
+      "file": "webp/u05_cow_08.webp",
+      "webp": "webp/u05_cow_08.webp",
+      "files": [
+        "webp/u05_cow_08.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 31096,
+      "sha256": "87550541e2401fcbdcd377751fb10be72a3e7d2ce395797b89fc5b9ba83448d1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "87550541e2401fcbdcd377751fb10be72a3e7d2ce395797b89fc5b9ba83448d1",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "87550541e2401fcbdcd377751fb10be72a3e7d2ce395797b89fc5b9ba83448d1",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_rabbit_01",
+      "semantic": {
+        "subject": "rabbit",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.5",
+          "line": 91,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 118,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 211,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 221,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 277,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 486,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.5",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-118",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-211",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-221",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-277",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-486",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_rabbit_01.webp",
+      "webp": "webp/u05_rabbit_01.webp",
+      "files": [
+        "webp/u05_rabbit_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 9130,
+      "sha256": "b2fdae64439f28c85aea706c57b3919f41ce51c95eed30c1422e48f642acce67",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        750,
+        710,
+        1000,
+        1086
+      ],
+      "source_crop_size": [
+        250,
+        376
+      ],
+      "visual_review": {
+        "sha256": "b2fdae64439f28c85aea706c57b3919f41ce51c95eed30c1422e48f642acce67",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b2fdae64439f28c85aea706c57b3919f41ce51c95eed30c1422e48f642acce67",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+        ],
+        "resized_from": [
+          250,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_rabbit_02",
+      "semantic": {
+        "subject": "rabbit",
+        "count": 2,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 119,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 222,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "",
+          "line": 462,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 488,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-119",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-222",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "1. Quick Recognition",
+          "item": "line-462",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-488",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_rabbit_02.webp",
+      "webp": "webp/u05_rabbit_02.webp",
+      "files": [
+        "webp/u05_rabbit_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 14378,
+      "sha256": "2a5b06826ac8a4d80cf7643fb253af80fddb6801ebd400c227614476dcf0a385",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-06/master.png",
+      "crop_box": [
+        1000,
+        710,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        448,
+        376
+      ],
+      "visual_review": {
+        "sha256": "2a5b06826ac8a4d80cf7643fb253af80fddb6801ebd400c227614476dcf0a385",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "2a5b06826ac8a4d80cf7643fb253af80fddb6801ebd400c227614476dcf0a385",
+        "status": "pass",
+        "notes": "Kangaroo/lion complete; single/pair dog,cat,bird,cow,rabbit counts and species designs match; actual whitespace crop protects all ears/tails/feet.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-06\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 6,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-06/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+        ],
+        "resized_from": [
+          448,
+          376
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_duck_01",
+      "semantic": {
+        "subject": "duck",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.6",
+          "line": 98,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 120,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "",
+          "line": 278,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 490,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "1. Nhìn hình → chọn từ",
+          "item": "1.6",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-120",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "1. Điền chữ cái còn thiếu vào từ",
+          "item": "line-278",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-490",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_duck_01.webp",
+      "webp": "webp/u05_duck_01.webp",
+      "files": [
+        "webp/u05_duck_01.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7926,
+      "sha256": "2bed6186f45a9652dd86f544908a81853f6fe45b31159672e158b49c05f64c52",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "2bed6186f45a9652dd86f544908a81853f6fe45b31159672e158b49c05f64c52",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "2bed6186f45a9652dd86f544908a81853f6fe45b31159672e158b49c05f64c52",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_duck_02",
+      "semantic": {
+        "subject": "duck",
+        "count": 2,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "",
+          "line": 121,
+          "source_visual": true
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "",
+          "line": 217,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "",
+          "line": 492,
+          "source_visual": true
+        },
+        {
+          "challenge": 1,
+          "section": "2. Một con hay nhiều con?",
+          "item": "line-121",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 2,
+          "section": "2. Nghe → chọn hình/từ",
+          "item": "line-217",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "2. Không có kho từ",
+          "item": "line-492",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_duck_02.webp",
+      "webp": "webp/u05_duck_02.webp",
+      "files": [
+        "webp/u05_duck_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13266,
+      "sha256": "7ca02ffff96a301fcdad195133b489a26a96490257cab493de8078b9308080a0",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "7ca02ffff96a301fcdad195133b489a26a96490257cab493de8078b9308080a0",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "7ca02ffff96a301fcdad195133b489a26a96490257cab493de8078b9308080a0",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_duck_03",
+      "semantic": {
+        "subject": "duck",
+        "count": 3,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "",
+          "line": 496,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.2",
+          "line": 340,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "line-496",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "3. Chọn từ → điền vào chỗ trống",
+          "item": "3.3.3",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.2",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.3",
+          "adaptation_applied": true
+        }
+      ],
+      "file": "webp/u05_duck_03.webp",
+      "webp": "webp/u05_duck_03.webp",
+      "files": [
+        "webp/u05_duck_03.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 14906,
+      "sha256": "c66f195fb00975b8c52271622a60bda38df481baa03eb1c685846eefd6be9f28",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        1060,
+        0,
+        1448,
+        360
+      ],
+      "source_crop_size": [
+        388,
+        360
+      ],
+      "visual_review": {
+        "sha256": "c66f195fb00975b8c52271622a60bda38df481baa03eb1c685846eefd6be9f28",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c66f195fb00975b8c52271622a60bda38df481baa03eb1c685846eefd6be9f28",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+        ],
+        "resized_from": [
+          388,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_car_08",
+      "semantic": {
+        "subject": "car",
+        "count": 8,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "",
+          "line": 506,
+          "source_visual": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.4",
+          "line": 346,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "3. Count & Answer",
+          "item": "line-506",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 3,
+          "section": "3. Chọn từ → điền vào chỗ trống",
+          "item": "3.3.5",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 3,
+          "section": "5. Context — giảm hint",
+          "item": "3.5.4",
+          "adaptation_applied": true
+        },
+        {
+          "challenge": 5,
+          "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+          "item": "5.7.5",
+          "adaptation_applied": true
+        }
+      ],
+      "file": "webp/u05_car_08.webp",
+      "webp": "webp/u05_car_08.webp",
+      "files": [
+        "webp/u05_car_08.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 27716,
+      "sha256": "66948a8dc78687c0f26aecfab5bb3a62287f2b70a4322d2d762ba942e2857ecd",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "66948a8dc78687c0f26aecfab5bb3a62287f2b70a4322d2d762ba942e2857ecd",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "66948a8dc78687c0f26aecfab5bb3a62287f2b70a4322d2d762ba942e2857ecd",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_moon",
+      "semantic": {
+        "subject": "moon",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 424,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 549,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-424",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-549",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_moon.webp",
+      "webp": "webp/u05_moon.webp",
+      "files": [
+        "webp/u05_moon.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6848,
+      "sha256": "50b91f26e47d2005d4e49617a343ee672df369d42790c17aeb8d915f9fc33e41",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "50b91f26e47d2005d4e49617a343ee672df369d42790c17aeb8d915f9fc33e41",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "50b91f26e47d2005d4e49617a343ee672df369d42790c17aeb8d915f9fc33e41",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_nest",
+      "semantic": {
+        "subject": "nest",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 425,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 550,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-425",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-550",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_nest.webp",
+      "webp": "webp/u05_nest.webp",
+      "files": [
+        "webp/u05_nest.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 21256,
+      "sha256": "02a58acf69cdedbc1b13401fc9bfd7e0a47d6c4c9398155b6742997f7a6b2639",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "02a58acf69cdedbc1b13401fc9bfd7e0a47d6c4c9398155b6742997f7a6b2639",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "02a58acf69cdedbc1b13401fc9bfd7e0a47d6c4c9398155b6742997f7a6b2639",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_octopus",
+      "semantic": {
+        "subject": "octopus",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 426,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 551,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-426",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-551",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_octopus.webp",
+      "webp": "webp/u05_octopus.webp",
+      "files": [
+        "webp/u05_octopus.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 17246,
+      "sha256": "75a1c018db9555154d46082ec820152a8dbd0433d6a9f2fe6e7b46b5f3622339",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "75a1c018db9555154d46082ec820152a8dbd0433d6a9f2fe6e7b46b5f3622339",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "75a1c018db9555154d46082ec820152a8dbd0433d6a9f2fe6e7b46b5f3622339",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "u05_peach",
+      "semantic": {
+        "subject": "peach",
+        "count": 1,
+        "state": "plain"
+      },
+      "uses": [
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "",
+          "line": 427,
+          "source_visual": true
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "",
+          "line": 552,
+          "source_visual": true
+        },
+        {
+          "challenge": 4,
+          "section": "3. Letters & words (Phonics M–P)",
+          "item": "line-427",
+          "adaptation_applied": false
+        },
+        {
+          "challenge": 5,
+          "section": "5. M–P Phonics Production",
+          "item": "line-552",
+          "adaptation_applied": false
+        }
+      ],
+      "file": "webp/u05_peach.webp",
+      "webp": "webp/u05_peach.webp",
+      "files": [
+        "webp/u05_peach.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10120,
+      "sha256": "26cfbc8a5b6d0e81617f482eaef25001096996f7ef7178ae622f278d8b5d8df5",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-07/master.png",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "26cfbc8a5b6d0e81617f482eaef25001096996f7ef7178ae622f278d8b5d8df5",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "26cfbc8a5b6d0e81617f482eaef25001096996f7ef7178ae622f278d8b5d8df5",
+        "status": "pass",
+        "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-07\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 7,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-07/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "required_ids": [
+    "u05_dog_01",
+    "u05_dog_02",
+    "u05_cat_01",
+    "u05_cat_02",
+    "u05_bird_01",
+    "u05_bird_02",
+    "u05_bird_03",
+    "u05_cow_01",
+    "u05_cow_02",
+    "u05_cow_08",
+    "u05_rabbit_01",
+    "u05_rabbit_02",
+    "u05_duck_01",
+    "u05_duck_02",
+    "u05_duck_03",
+    "u05_car_08",
+    "u05_moon",
+    "u05_nest",
+    "u05_octopus",
+    "u05_peach"
+  ],
+  "conditional_ids": [],
+  "visual_occurrence_count": 66,
+  "visual_occurrence_coverage": 66,
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "source_line": 60,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_cat_01",
+        "u05_cow_01",
+        "u05_dog_01",
+        "u05_duck_01",
+        "u05_rabbit_01"
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "2. Một con hay nhiều con?",
+      "source_line": 104,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nghe → chọn từ",
+      "source_line": 123,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "source_line": 151,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "source_line": 165,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình/từ",
+      "source_line": 199,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "source_line": 225,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "source_line": 255,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "source_line": 269,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_cat_01",
+        "u05_cow_01",
+        "u05_dog_01",
+        "u05_duck_01",
+        "u05_rabbit_01"
+      ]
+    },
+    {
+      "challenge": 3,
+      "section": "2. Singular → plural",
+      "source_line": 280,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "3. Chọn từ → điền vào chỗ trống",
+      "source_line": 291,
+      "mode": "adapted_assets",
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "Rows 3–5 use the authorized ordered adaptation: 3 ducks, 8 cows, 8 cars. The original source remains unchanged.",
+      "items_adapted": [
+        "3.3.3",
+        "3.3.4",
+        "3.3.5"
+      ],
+      "asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "source_had_picture": false
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "source_line": 301,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 3,
+      "section": "5. Context — giảm hint",
+      "source_line": 335,
+      "mode": "adapted_assets",
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly asks How many ducks/cows/cars; attach the later source-model groups 3 ducks, 8 cows, 8 cars.",
+      "items_adapted": [
+        "3.5.2",
+        "3.5.3",
+        "3.5.4"
+      ],
+      "asset_ids": [
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "source_had_picture": false
+    },
+    {
+      "challenge": 3,
+      "section": "6. Count Recall",
+      "source_line": 349,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "source_line": 362,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "source_line": 411,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics M–P)",
+      "source_line": 420,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_moon",
+        "u05_nest",
+        "u05_octopus",
+        "u05_peach"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "source_line": 442,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_03",
+        "u05_cat_01",
+        "u05_dog_02",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "source_line": 468,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_bird_01",
+        "u05_bird_02",
+        "u05_cat_01",
+        "u05_cat_02",
+        "u05_cow_01",
+        "u05_cow_02",
+        "u05_dog_01",
+        "u05_dog_02",
+        "u05_duck_01",
+        "u05_duck_02",
+        "u05_rabbit_01",
+        "u05_rabbit_02"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "3. Count & Answer",
+      "source_line": 494,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_car_08",
+        "u05_cow_08",
+        "u05_duck_03"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "4. Build without hint",
+      "source_line": 511,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "5. Conversation — tự nói",
+      "source_line": 529,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "source_line": 536,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "5. M–P Phonics Production",
+      "source_line": 545,
+      "mode": "mapped_assets",
+      "image_required": true,
+      "needs_context": false,
+      "asset_ids": [
+        "u05_moon",
+        "u05_nest",
+        "u05_octopus",
+        "u05_peach"
+      ]
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands — Nghe và làm",
+      "source_line": 554,
+      "mode": "no_static_image",
+      "image_required": false,
+      "needs_context": false,
+      "reason": "Text/audio response, sentence building, personal speaking, or listen-and-act task; no raster cue is required by the source."
+    },
+    {
+      "challenge": 5,
+      "section": "7. Mini Conversation — Thực hành nói theo mẫu",
+      "source_line": 563,
+      "mode": "adapted_assets",
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_note": "The source explicitly models the count answers; reuse cat_02, duck_03, cow_08 and car_08.",
+      "items_adapted": [
+        "5.7.2",
+        "5.7.3",
+        "5.7.4",
+        "5.7.5"
+      ],
+      "asset_ids": [
+        "u05_cat_02",
+        "u05_duck_03",
+        "u05_cow_08",
+        "u05_car_08"
+      ],
+      "source_had_picture": false
+    }
+  ],
+  "question_map": {
+    "file": "question-image-map.json",
+    "total": 143,
+    "no_static_image": 70,
+    "mapped_assets": 73,
+    "adapted_assets": 10,
+    "open_context": []
+  },
+  "context_issues": [
+    "C3§3 câu 3–5 How many ____? chưa có context phân biệt ducks/cows/cars. Có thể nối lần lượt nhóm 3 ducks, 8 cows, 8 cars theo thứ tự C3§4/C3§5; ghi là đề xuất adaptation, không khẳng định nguồn đã có hình.",
+    "C3§5 và C5 hội thoại đếm dùng lại duck_03/cow_08/car_08; không tạo nhóm mới mỗi lần.",
+    "C3§6 1 train, 2 trains, 3 trains là điền số nhiều bằng text; không yêu cầu thêm ba nhóm tàu."
+  ],
+  "adaptation_notes": [
+    "Applied C3§3 rows 3–5 in prompt order: u05_duck_03, u05_cow_08, u05_car_08. This adds a visual cue without changing the source Markdown.",
+    "Applied C3§5 explicit How many ducks/cows/cars questions using the later source-model groups.",
+    "Applied C5§7 explicit Mini Conversation count models using u05_cat_02, u05_duck_03, u05_cow_08 and u05_car_08."
+  ],
+  "answer_text_policy": "Learner preview shows neutral instructions and cards only; source excerpts and answer text remain in teacher/provenance details.",
+  "audio_policy": "No audio created.",
+  "open_context": [],
+  "needs_context_count": 0,
+  "adapted_question_count": 10,
+  "question_map_total": 143,
+  "question_map_no_static_image": 70,
+  "question_map_mapped_assets": 73,
+  "question_map_adapted_assets": 10,
+  "inventory_normalization_note": "Inventory lines 340/343/346 were normalized from its pseudo-section “Context bổ sung / dùng chung” to the real source section Challenge 3 §5, items 3.5.2/3.5.3/3.5.4; no source content was changed.",
+  "repair_status": {
+    "status": "complete",
+    "affected_assets_repaired": [
+      "u05_car_08",
+      "u05_cow_01",
+      "u05_cow_02",
+      "u05_cow_08",
+      "u05_dog_01",
+      "u05_dog_02",
+      "u05_duck_01",
+      "u05_duck_02",
+      "u05_duck_03",
+      "u05_octopus",
+      "u05_peach",
+      "u05_rabbit_01",
+      "u05_rabbit_02"
+    ],
+    "visual_review": "all 20 final WebP files inspected after cow, duck, peach, dog-footer repairs",
+    "debug_files": "moved to references/debug; canonical pages/png/CD2_*.png untouched",
+    "imagegen_repairs": [
+      {
+        "asset_ids": [
+          "u05_rabbit_01",
+          "u05_rabbit_02"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-7803753a-c3d2-4a6b-8e9e-440928613eeb.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon rabbit with pink inner ears, a small pink nose, and a warm light-brown patch on its back, sitting on a simple small tree stump. Match the supplied Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, soft shading, cheerful colors, white or very pale background, whole rabbit fully visible including ears, paws, body, and tail, centered with generous safe margins. No other animals, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges."
+      },
+      {
+        "asset_ids": [
+          "u05_cow_01",
+          "u05_cow_02",
+          "u05_cow_08"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-9b1aab57-4a42-4e83-b55c-27988f175318.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly black-and-white cartoon cow, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful farm colors, simple pale green farm background. Show the entire cow centered with generous safe margins: both complete ears, full head, complete four legs and hooves, full tail, no part cut by the frame. The cow should be standing naturally and clearly recognizable. No other animals, no partial objects, no badges, no numbers, no labels, no words, no speech bubbles, no watermark, no cropped edges, no border."
+      },
+      {
+        "asset_ids": [
+          "u05_duck_01",
+          "u05_duck_02",
+          "u05_duck_03"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-389e6a45-6ff7-459a-bc96-ad286c197b34.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one friendly white cartoon duck with an orange beak and orange webbed feet, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, simple pale green meadow background. Show the entire duck centered with generous safe margins: complete beak, full head, body, tail, both feet, no part touches or crosses the frame. Keep the duck large and crisp enough for a small learner card. No other animals, no partial objects, no watermarks, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border."
+      },
+      {
+        "asset_ids": [
+          "u05_peach"
+        ],
+        "tool": "image_gen.imagegen",
+        "output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a1241e-773d-7451-9639-c4b25cb6adf3\\exec-05c426bc-3fb6-4775-8d54-43086cb6353c.png",
+        "prompt": "Use case: illustration-story. Asset type: small educational picture card for a children's English vocabulary exercise. Create one standalone square illustration of exactly one whole rounded orange peach with a small green leaf and short brown stem, matching the Let's Go Begin textbook style: bright 2D children's cartoon, clean bold dark outlines, cheerful colors, soft shading, simple white or very pale background. Show the complete fruit centered with generous safe margins: smooth fully rounded left and right contour, complete bottom, leaf and stem fully visible, no flat cut edge and no part touching the frame. No other fruit, no partial objects, no watermark, no badges, no numbers, no labels, no words, no speech bubbles, no cropped edges, no border."
+      }
+    ]
+  },
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "imagegen_repair_log": "references/imagegen-repair-log.json",
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\unit-05\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

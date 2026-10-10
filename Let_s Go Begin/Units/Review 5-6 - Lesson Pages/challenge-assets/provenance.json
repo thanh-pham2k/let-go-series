@@ -1,0 +1,825 @@
+{
+  "schema": "challenge-assets.provenance.v1",
+  "review": "Review 5-6",
+  "recorded_at": "2026-10-10",
+  "session_log": "C:\\Users\\Admin\\.codex\\sessions\\2026\\10\\10\\rollout-2026-10-10T11-47-48-01a12423-7ec5-7e33-8247-c0a3ff6bde46.jsonl",
+  "source_prompt": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-5-6.md",
+  "inventory": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-5-6.inventory.json",
+  "source_masters": [
+    {
+      "operation_id": "master-cd2-35",
+      "type": "master_reference",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "used_by": [
+        "r56_cat_01",
+        "r56_cat_03",
+        "r56_cat_04",
+        "r56_rabbit_01",
+        "r56_rabbit_02",
+        "r56_rabbit_05",
+        "r56_ice_cream",
+        "r56_cake",
+        "r56_bread",
+        "r56_rice",
+        "r56_skip",
+        "r56_jump",
+        "r56_make_line",
+        "r56_make_circle"
+      ]
+    },
+    {
+      "operation_id": "master-cd2-36",
+      "type": "master_reference",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "used_by": [
+        "r56_sunny",
+        "r56_cloudy",
+        "r56_windy",
+        "r56_rainy",
+        "r56_snowy"
+      ]
+    },
+    {
+      "operation_id": "existing-card-r56-make-line",
+      "type": "intermediate_reference",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\png\\r56_make_line.png",
+      "used_by": [
+        "r56_make_line"
+      ],
+      "status": "superseded_by_second_pass_revision"
+    }
+  ],
+  "crop_operations": [
+    {
+      "operation_id": "crop-r56_cat_03-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        75,
+        220,
+        345,
+        505
+      ],
+      "output_card": "r56_cat_03",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_cat_04-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        365,
+        245,
+        620,
+        505
+      ],
+      "output_card": "r56_cat_04",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_rabbit_02-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        665,
+        240,
+        910,
+        505
+      ],
+      "output_card": "r56_rabbit_02",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_ice_cream-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        100,
+        545,
+        275,
+        775
+      ],
+      "output_card": "r56_ice_cream",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_cake-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        320,
+        575,
+        545,
+        735
+      ],
+      "output_card": "r56_cake",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_bread-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        600,
+        575,
+        850,
+        735
+      ],
+      "output_card": "r56_bread",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_rice-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        930,
+        575,
+        1135,
+        750
+      ],
+      "output_card": "r56_rice",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_skip-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        75,
+        850,
+        305,
+        1055
+      ],
+      "output_card": "r56_skip",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_jump-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        360,
+        850,
+        570,
+        1055
+      ],
+      "output_card": "r56_jump",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_make_line-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        560,
+        840,
+        900,
+        1060
+      ],
+      "output_card": "r56_make_line",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_make_circle-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        850,
+        840,
+        1160,
+        1060
+      ],
+      "output_card": "r56_make_circle",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_sunny-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "box_xyxy": [
+        55,
+        210,
+        370,
+        410
+      ],
+      "output_card": "r56_sunny",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_cloudy-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "box_xyxy": [
+        460,
+        200,
+        710,
+        445
+      ],
+      "output_card": "r56_cloudy",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_windy-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "box_xyxy": [
+        800,
+        205,
+        1140,
+        415
+      ],
+      "output_card": "r56_windy",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_rainy-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "box_xyxy": [
+        70,
+        545,
+        400,
+        720
+      ],
+      "output_card": "r56_rainy",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "crop-r56_snowy-initial",
+      "type": "source_crop",
+      "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "box_xyxy": [
+        800,
+        545,
+        1140,
+        745
+      ],
+      "output_card": "r56_snowy",
+      "stage": "initial_card_build",
+      "notes": "Crop/cleanup recorded by the initial asset build; final card may have received a later second-pass edit."
+    },
+    {
+      "operation_id": "raw-crop-cat_03",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\cat_03.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        55,
+        215,
+        365,
+        520
+      ],
+      "output_card": "r56_cat_03",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-cat_04",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\cat_04.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        330,
+        215,
+        635,
+        520
+      ],
+      "output_card": "r56_cat_04",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-rabbit_02",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\rabbit_02.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        640,
+        215,
+        925,
+        520
+      ],
+      "output_card": "r56_rabbit_02",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-bread",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\bread.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        570,
+        550,
+        875,
+        760
+      ],
+      "output_card": "r56_bread",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-rice",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\rice.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        875,
+        550,
+        1165,
+        780
+      ],
+      "output_card": "r56_rice",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-cake",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\cake.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        280,
+        545,
+        590,
+        770
+      ],
+      "output_card": "r56_cake",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-skip",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\skip.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        40,
+        815,
+        335,
+        1095
+      ],
+      "output_card": "r56_skip",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-jump",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\jump.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        300,
+        815,
+        600,
+        1095
+      ],
+      "output_card": "r56_jump",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-make_line",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\make_line.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        520,
+        810,
+        920,
+        1095
+      ],
+      "output_card": "r56_make_line",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-make_circle",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\make_circle.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png",
+      "box_xyxy": [
+        820,
+        810,
+        1170,
+        1095
+      ],
+      "output_card": "r56_make_circle",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    },
+    {
+      "operation_id": "raw-crop-sunny",
+      "type": "qa_repair_crop",
+      "source": "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\sunny.png",
+      "source_master": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_36.png",
+      "box_xyxy": [
+        35,
+        170,
+        430,
+        450
+      ],
+      "output_card": "r56_sunny",
+      "stage": "second_pass_edit_input",
+      "notes": "Viewed before built-in image_gen edit; crop was expanded to preserve full anatomy/object edges."
+    }
+  ],
+  "finalization": {
+    "operation_id": "finalize-all-cards",
+    "type": "card_normalization_and_export",
+    "input": "generated/cropped PNG result",
+    "canvas": [
+      512,
+      512
+    ],
+    "contain_box": [
+      10,
+      10,
+      502,
+      502
+    ],
+    "background": "white",
+    "resize_policy": "contain without distortion or clipping",
+    "webp": {
+      "format": "WEBP",
+      "quality": 80,
+      "method": 6,
+      "target_bytes": 61440
+    },
+    "outputs": "png/<asset_id>.png and webp/<asset_id>.webp"
+  },
+  "events": [
+    {
+      "event_id": "event-r56-cat-01",
+      "asset_id": "r56_cat_01",
+      "stage": "initial_generation",
+      "used_for_final": true,
+      "source_operation_id": "master-cd2-35",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_b799e50a12704d739bf5d79ed12c2123",
+      "session_log_line": 105,
+      "arguments": {
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png"
+        ],
+        "prompt": "Use case: illustration-story. Edit/generate a single independent educational card matching the supplied Let's Go Begin Review 5-6 reference. Create exactly one friendly orange tabby kitten, full body, standing, centered on a clean white background, matching the reference's bright textbook cartoon style, bold clean outlines, flat warm colors and soft shading. This is the singular version of the orange tabby used in the reference cat groups. Keep the whole animal visible, no other animals, no text, no labels, no number, no speech bubble, no watermark, no border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-eed21b0e-af65-49a6-9d0e-050ad1a25c14.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-eed21b0e-af65-49a6-9d0e-050ad1a25c14.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-rabbit-01",
+      "asset_id": "r56_rabbit_01",
+      "stage": "initial_generation",
+      "used_for_final": true,
+      "source_operation_id": "master-cd2-35",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_e0b633a4d6f64c6d9da1917420660bca",
+      "session_log_line": 112,
+      "arguments": {
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png"
+        ],
+        "prompt": "Use case: illustration-story. Create a single independent educational card matching the supplied Let's Go Begin Review 5-6 reference. Exactly one friendly brown cartoon rabbit, full body, side-facing and lightly running, centered on a clean white background, with the same simple bright textbook cartoon appearance, bold black outlines, flat warm brown fill, white fluffy tail, and soft shading as the rabbit drawings in the reference. Keep the whole rabbit visible, no other animals, no text, no labels, no number, no speech bubble, no watermark, no border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-66b3eca2-ee66-4a49-9926-58b1bb31c8f6.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-66b3eca2-ee66-4a49-9926-58b1bb31c8f6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-make-line-preflight",
+      "asset_id": "r56_make_line",
+      "stage": "preflight_edit_superseded",
+      "used_for_final": false,
+      "source_operation_id": "existing-card-r56-make-line",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_3c51aa0173fb44c2b8c07d951b45f787",
+      "session_log_line": 235,
+      "arguments": {
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\challenge-assets\\png\\r56_make_line.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Edit the supplied educational card only. Remove the stray black page-number mark at the upper-left edge and reconstruct that area as clean white background. Preserve every child, pose, face, clothing detail, crop, line-art style, colors, and white background exactly. Do not add or remove any people. No text, labels, numbers, letters, speech bubbles, border, or watermark.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d0db61c5-4afa-4d53-bb29-84bc811ca12f.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d0db61c5-4afa-4d53-bb29-84bc811ca12f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-rabbit-05",
+      "asset_id": "r56_rabbit_05",
+      "stage": "initial_generation",
+      "used_for_final": true,
+      "source_operation_id": "master-cd2-35",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_fd89fa39df7a477782d8a1e7d0c43314",
+      "session_log_line": 363,
+      "arguments": {
+        "referenced_image_paths": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 5-6 - Lesson Pages\\pages\\png\\CD2_35.png"
+        ],
+        "prompt": "Use case: illustration-story. Create one independent 512-square educational card matching the supplied Let's Go Begin Review 5-6 rabbit reference: exactly five separate friendly brown cartoon rabbits, all fully visible and countable, arranged in a loose group on a clean white background. Use the same simple bright textbook cartoon style, bold black outlines, warm brown fill, white fluffy tails and soft shading as the supplied rabbits. No other animals, no text, labels, numbers, speech bubbles, border or watermark. Do not crop any rabbit; leave clear white space between them.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-e76fa291-df25-43c0-96de-a9790f9b7d43.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-e76fa291-df25-43c0-96de-a9790f9b7d43.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-cat-03-revision",
+      "asset_id": "r56_cat_03",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-cat03",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_9dda0341860a4227af46805384f7bc7d",
+      "session_log_line": 562,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\cat03.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Turn this supplied Review 5-6 lesson crop into one clean independent educational picture card. Preserve exactly the three orange tabby cats shown, including every ear, tail, body, paw and face, at the same textbook cartoon style, colors and poses. Remove only the printed page number, colored answer marker and any neighboring fragment outside this three-cat group; reconstruct those areas as clean white background. Keep all three cats fully visible and countable, with generous white margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-760b8eb1-1f8e-459b-ab2f-ddc88a28d036.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-760b8eb1-1f8e-459b-ab2f-ddc88a28d036.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-cat-04-revision",
+      "asset_id": "r56_cat_04",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-cat04",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_ccc11377553648869e06c2389531dd40",
+      "session_log_line": 569,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\cat04.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly the four orange tabby cats shown, including all four ears, tails, bodies, paws and faces, with the same textbook cartoon style, colors and poses. Remove the printed page number, colored answer marker, green header arc and the neighboring fragment at the far left; reconstruct those areas as clean white background. Keep all four cats fully visible and countable with generous white margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-280a66d1-815d-452d-95ca-ec0ebb74061e.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-280a66d1-815d-452d-95ca-ec0ebb74061e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-rabbit-02-revision",
+      "asset_id": "r56_rabbit_02",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-rabbit02",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_6dec4de3c1614b53aa5a0840af318782",
+      "session_log_line": 576,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\rabbit02.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly the two brown cartoon rabbits shown, with both ears, tails, bodies, legs and faces fully visible and countable, matching the reference textbook style, colors and poses. Remove only the printed page number, colored answer marker and any edge fragments; reconstruct clean white background. Keep generous white margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-0ece8e86-39cc-4e26-80e6-bc15fe7cb8d8.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-0ece8e86-39cc-4e26-80e6-bc15fe7cb8d8.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-bread-revision",
+      "asset_id": "r56_bread",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-bread",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_4689ccdd92d1439bb13366ff29143f5f",
+      "session_log_line": 583,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\bread.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly one full slice of bread, including the entire crust, all corners and bottom edge, with the same bright textbook cartoon style, colors and shading as the reference. Remove the printed page number and any neighboring fragments; reconstruct clean white background. Center the complete bread with generous white margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d0f3fce9-2eb9-42b3-af38-f2f7a9bf6a70.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d0f3fce9-2eb9-42b3-af38-f2f7a9bf6a70.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-rice-revision",
+      "asset_id": "r56_rice",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-rice",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_3dc518c1b1c24a7dbb473246a2d86fdb",
+      "session_log_line": 590,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\rice.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly one complete colorful bowl of rice, including both rim ends, the full bowl base and all visible rice, matching the reference textbook cartoon style, colors and shading. Remove the neighboring fragment, page number and colored answer marker; reconstruct clean white background. Center the complete bowl with generous white margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d2ba2f55-c017-47b3-9a9e-064095dad9d0.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-d2ba2f55-c017-47b3-9a9e-064095dad9d0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-cake-revision",
+      "asset_id": "r56_cake",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-cake",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_495c87b7f944437ca233c016725e4466",
+      "session_log_line": 597,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\cake.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly one complete rectangular slice of layered cake on its blue plate, including the full right and bottom edges of the plate and cake, matching the reference textbook cartoon style, colors and shading. Remove the colored answer marker, page text and neighboring fragments; reconstruct clean white background. Center the complete cake and plate with generous white margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-a4ed0fd4-8c7f-4da9-974a-2407828c54a0.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-a4ed0fd4-8c7f-4da9-974a-2407828c54a0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-skip-revision",
+      "asset_id": "r56_skip",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-skip",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_2537ef9440c7449888a0630ac8cd0a53",
+      "session_log_line": 604,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\skip.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly the child doing skip, with full hair, head, body, alternating legs and both shoes completely visible, and preserve the motion lines and green ground cue. Match the reference textbook cartoon style, colors and pose. Remove the page number, answer marker, green page edge and any neighboring fragments; reconstruct clean white background. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-858059a5-2374-47cd-988e-058c98871d52.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-858059a5-2374-47cd-988e-058c98871d52.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-jump-revision",
+      "asset_id": "r56_jump",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-jump",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_c276d62b61f34835b3b2a06f8dc20c64",
+      "session_log_line": 611,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\jump.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly the child jumping with both knees bent and both feet off the ground, with full hair, head, body and shoes visible, matching the reference textbook cartoon style, colors and pose. Remove the page number, answer marker, ground fragments and neighboring pieces; reconstruct clean white background with a small green ground cue if present. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-89879075-f435-4360-80b2-e2d008b37c13.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-89879075-f435-4360-80b2-e2d008b37c13.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-make-line-revision",
+      "asset_id": "r56_make_line",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-line",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_140c5d883f2a4f81b273b6b1f89d5812",
+      "session_log_line": 618,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\line.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly the children standing in one straight line, keeping every visible child's full head, hair, body, hands and feet, matching the reference textbook cartoon style, colors and pose. Remove the printed page number, colored answer marker, neighboring partial figures and edge fragments; reconstruct clean white background. Keep the line action obvious and all children fully visible. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-99bf2ca6-3b70-40e8-ab0d-4e0e622f7921.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-99bf2ca6-3b70-40e8-ab0d-4e0e622f7921.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-make-circle-revision",
+      "asset_id": "r56_make_circle",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-circle",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_d05543cf104c40a08fdb4f9a3ede46a7",
+      "session_log_line": 625,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\circle.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 crop. Preserve exactly the children making a closed circle, with each visible child's full head, hair, body, hands and feet, matching the reference textbook cartoon style, colors and pose. Remove the printed page number, colored answer marker, neighboring partial figure and edge fragments; reconstruct clean white background. Keep the circle action obvious and all children fully visible. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-af519580-e623-4f5c-919e-c402b578015a.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-af519580-e623-4f5c-919e-c402b578015a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    },
+    {
+      "event_id": "event-r56-sunny-revision",
+      "asset_id": "r56_sunny",
+      "stage": "second_pass_edit",
+      "used_for_final": true,
+      "source_operation_id": "raw-crop-sunny",
+      "tool": "image_gen.imagegen",
+      "call_id": "call_44429dd0802442a9957ac0e4e6e8bfea",
+      "session_log_line": 646,
+      "arguments": {
+        "referenced_image_paths": [
+          "C:\\Users\\Admin\\AppData\\Local\\Temp\\review56_raw\\sunny.png"
+        ],
+        "prompt": "Use case: precise-object-edit. Make one clean independent educational picture card from this supplied Review 5-6 sunny scene. Preserve the complete child at the open window, blue shutters, bright sun with all rays and green trees, matching the reference textbook cartoon style, colors and pose. Remove the page heading and green CD2 circle, and repair the rectangular white patch/any crop damage in the upper-right sky so the sky and sun rays are continuous. Keep the full scene visible with clean white outer margin. No text, labels, numbers, speech bubbles, watermark or border.",
+        "transparent_background": false
+      },
+      "result": {
+        "status": "completed",
+        "generated_output_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-2640197e-a667-41a2-b371-aabc7fdc4ba9.png",
+        "output_hint": "Generated images are saved to C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46 as C:\\Users\\Admin\\.codex\\generated_images\\01a12423-7ec5-7e33-8247-c0a3ff6bde46\\exec-2640197e-a667-41a2-b371-aabc7fdc4ba9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+      }
+    }
+  ],
+  "adaptations": [
+    {
+      "asset_id": "r56_cat_01",
+      "type": "practice_adaptation",
+      "description": "One-cat singular variant generated from the cat-group style reference; no source claim that the lesson master contains a single cat."
+    },
+    {
+      "asset_id": "r56_rabbit_01",
+      "type": "practice_adaptation",
+      "description": "One-rabbit singular variant generated from the rabbit-group style reference; no source claim that the lesson master contains a single rabbit."
+    },
+    {
+      "asset_id": "r56_rabbit_05",
+      "type": "practice_adaptation",
+      "description": "Five-rabbit clean variant generated because the source crop clipped the lowest rabbit; no source claim that the source crop was already complete."
+    },
+    {
+      "asset_id": "r56_make_circle",
+      "type": "action_adaptation",
+      "description": "Final card shows four children making a closed circle while the original lesson crop showed three. This is an action cue adaptation; no count is asserted for this scene and it is not used as a source-count claim."
+    }
+  ],
+  "notes": [
+    "Prompts, referenced paths, call IDs, session-log locations and generated output paths are preserved for every built-in image_gen call used in this asset build, including one superseded preflight edit.",
+    "The final pixels were not regenerated during this documentation pass."
+  ]
+}

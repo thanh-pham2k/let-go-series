@@ -1,0 +1,122 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+  "samples": [
+    {
+      "id": "R12-C1-01",
+      "challenge": 1,
+      "line": 45,
+      "raw": "🖼️ô tô ở cặp 1a. Chọn từ/cụm từ đúng.",
+      "ids": [
+        "r12_car"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Look at the picture and choose the matching word or phrase.",
+      "choices": [
+        "A. ball",
+        "B. car",
+        "C. bicycle",
+        "D. train"
+      ],
+      "prompt": "Look at the picture and choose the matching word or phrase.",
+      "options": [
+        "A. ball",
+        "B. car",
+        "C. bicycle",
+        "D. train"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R12-C2-01",
+      "challenge": 2,
+      "line": 196,
+      "raw": "Nghe từ/cụm từ và chọn đúng mục.",
+      "ids": [],
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn đáp án phù hợp.",
+      "options": [
+        "A. car",
+        "B. ball",
+        "C. train",
+        "D. bicycle"
+      ],
+      "teacher_audio": "Nghe từ/cụm từ và chọn đúng mục.",
+      "needs_context": false
+    },
+    {
+      "id": "R12-C3-14",
+      "challenge": 3,
+      "line": 400,
+      "raw": "🖼️tờ giấy. Điền: `I have ________.`.",
+      "ids": [
+        "r12_paper"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Look at the picture and complete the word or sentence.",
+      "choices": [],
+      "prompt": "Nhìn hình. Điền: `I have ________.`.",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R12-C4-06",
+      "challenge": 4,
+      "line": 470,
+      "raw": "🖼️ô tô ở cặp 1a. Điền chữ cái của thẻ phù hợp.",
+      "ids": [
+        "r12_car"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Look at the picture(s) and choose the matching word or phrase.",
+      "choices": [],
+      "prompt": "Look at the picture(s) and choose the matching word or phrase.",
+      "options": [
+        "A. paper",
+        "B. car",
+        "C. stand up",
+        "D. green"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R12-C5-01",
+      "challenge": 5,
+      "line": 527,
+      "raw": "Nhìn cặp 1a và ô màu3a. Chọn cặp từ gọi đúng hai hình.",
+      "ids": [
+        "r12_car",
+        "r12_green"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Look at the picture(s) and say or choose the matching word or phrase.",
+      "choices": [
+        "A. car / red",
+        "B. train / green",
+        "C. car / green"
+      ],
+      "prompt": "Look at the picture(s) and say or choose the matching word or phrase.",
+      "options": [
+        "A. car / red",
+        "B. train / green",
+        "C. car / green"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "R12-C5-04",
+      "challenge": 5,
+      "line": 550,
+      "raw": "Người lớn chỉ/diễn: ô tô ở cặp 1a. Bé tự nói từ/cụm phù hợp.",
+      "ids": [
+        "r12_car"
+      ],
+      "needs_context": false,
+      "existing_prompt": "Look at the picture(s) and say or choose the matching word or phrase.",
+      "choices": [],
+      "prompt": "Look at the picture(s) and say or choose the matching word or phrase.",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 17,
+  "debug_labels_hidden_by_default": true
+}

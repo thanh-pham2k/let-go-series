@@ -1,0 +1,631 @@
+{
+  "schema_version": 1,
+  "unit": 6,
+  "topic": "Food",
+  "scope": "Challenge 1-5",
+  "asset_count": 15,
+  "required_ids": [
+    "u06_ice_cream",
+    "u06_pizza",
+    "u06_cake",
+    "u06_chicken",
+    "u06_milk",
+    "u06_fish",
+    "u06_bread",
+    "u06_rice",
+    "u06_queen",
+    "u06_rabbit",
+    "u06_sun",
+    "u06_tiger",
+    "u06_birds",
+    "u06_likes_milk",
+    "u06_dislikes_fish"
+  ],
+  "export": {
+    "format": "webp",
+    "width": 512,
+    "height": 512,
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "assets": [
+    {
+      "id": "u06_ice_cream",
+      "file": "webp/u06_ice_cream.webp",
+      "semantic": {
+        "type": "food",
+        "item": "ice cream"
+      },
+      "provenance": {
+        "method": "built_in_image_gen_edit",
+        "source": "built_in_image_gen",
+        "master": "references/u06_ice_cream_generated_source.png",
+        "source_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+        "edit": "complete scoops and cone tip; surrounding panel and caption removed"
+      },
+      "file_bytes": 10240,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "3ec765942cca5d2f851fb14c41b08efcfeba2bf0642b917efc8393601252d358",
+      "root_visual_review": {
+        "sha256": "3ec765942cca5d2f851fb14c41b08efcfeba2bf0642b917efc8393601252d358",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 276,
+          "cue_line": 276,
+          "asset_id": "u06_ice_cream",
+          "asset_ids": [
+            "u06_ice_cream"
+          ],
+          "expected_answer": "ice cream",
+          "accepted_answers": [
+            "ice cream"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "6. I like ________."
+        }
+      ]
+    },
+    {
+      "id": "u06_pizza",
+      "file": "webp/u06_pizza.webp",
+      "semantic": {
+        "type": "food",
+        "item": "pizza"
+      },
+      "provenance": {
+        "method": "crop_or_edit",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+        "crop_box": [
+          585,
+          405,
+          1140,
+          690
+        ]
+      },
+      "file_bytes": 13084,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "d56daa075780fa20201d3266e467e1fcf536deb2029e75b4a106abc795e6907e",
+      "root_visual_review": {
+        "sha256": "d56daa075780fa20201d3266e467e1fcf536deb2029e75b4a106abc795e6907e",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_cake",
+      "file": "webp/u06_cake.webp",
+      "semantic": {
+        "type": "food",
+        "item": "cake"
+      },
+      "provenance": {
+        "method": "built_in_image_gen_edit",
+        "source": "built_in_image_gen",
+        "master": "references/u06_cake_generated_source.png",
+        "source_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+        "edit": "complete oval platter and pedestal foot; surrounding panel and caption removed"
+      },
+      "file_bytes": 22184,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen_edit",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "bd4704d8a863ad9a7c167bbb7cc21406af60443323f5fdc8424d2f1624154f86",
+      "root_visual_review": {
+        "sha256": "bd4704d8a863ad9a7c167bbb7cc21406af60443323f5fdc8424d2f1624154f86",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 273,
+          "cue_line": 273,
+          "asset_id": "u06_cake",
+          "asset_ids": [
+            "u06_cake"
+          ],
+          "expected_answer": "cake",
+          "accepted_answers": [
+            "cake"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "3. I like ________."
+        }
+      ]
+    },
+    {
+      "id": "u06_chicken",
+      "file": "webp/u06_chicken.webp",
+      "semantic": {
+        "type": "food",
+        "item": "chicken",
+        "state": "cooked_meal"
+      },
+      "provenance": {
+        "method": "crop_or_edit",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_25.png",
+        "crop_box": [
+          560,
+          740,
+          1170,
+          1065
+        ],
+        "mask": "subject_contour_preserved; caption excluded"
+      },
+      "file_bytes": 8412,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "9c99c3a101791aac7f4e1f4acee7915e41c9da1e46ab37763ac827d8d86a5f07",
+      "root_visual_review": {
+        "sha256": "9c99c3a101791aac7f4e1f4acee7915e41c9da1e46ab37763ac827d8d86a5f07",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_milk",
+      "file": "webp/u06_milk.webp",
+      "semantic": {
+        "type": "food",
+        "item": "milk"
+      },
+      "provenance": {
+        "method": "crop_or_edit",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+        "crop_box": [
+          120,
+          350,
+          480,
+          675
+        ],
+        "mask": "subject_contour_preserved; caption and header figure excluded"
+      },
+      "file_bytes": 10442,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "bd64f5f52862e8f2f03f6d2a036b04ca970792c6945c05068ae16c5de34de04b",
+      "root_visual_review": {
+        "sha256": "bd64f5f52862e8f2f03f6d2a036b04ca970792c6945c05068ae16c5de34de04b",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 274,
+          "cue_line": 274,
+          "asset_id": "u06_milk",
+          "asset_ids": [
+            "u06_milk"
+          ],
+          "expected_answer": "milk",
+          "accepted_answers": [
+            "milk"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "4. Do you like ________?"
+        }
+      ]
+    },
+    {
+      "id": "u06_fish",
+      "file": "webp/u06_fish.webp",
+      "semantic": {
+        "type": "food",
+        "item": "fish",
+        "state": "food_on_plate"
+      },
+      "provenance": {
+        "method": "crop_or_edit",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+        "crop_box": [
+          580,
+          410,
+          1150,
+          680
+        ],
+        "mask": "subject_contour_preserved; caption and header figure excluded"
+      },
+      "file_bytes": 6912,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "eb2e4c82e13e40c0886b92872304e4b8affb9da299852f3d142563bc6f8c534e",
+      "root_visual_review": {
+        "sha256": "eb2e4c82e13e40c0886b92872304e4b8affb9da299852f3d142563bc6f8c534e",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      },
+      "fixed_cue_uses": [
+        {
+          "unit": 6,
+          "question_line": 275,
+          "cue_line": 275,
+          "asset_id": "u06_fish",
+          "asset_ids": [
+            "u06_fish"
+          ],
+          "expected_answer": "fish",
+          "accepted_answers": [
+            "fish"
+          ],
+          "image_required": true,
+          "needs_context": false,
+          "adaptation_applied": true,
+          "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+          "learner_prompt": "5. Do you like ________?"
+        }
+      ]
+    },
+    {
+      "id": "u06_bread",
+      "file": "webp/u06_bread.webp",
+      "semantic": {
+        "type": "food",
+        "item": "bread"
+      },
+      "provenance": {
+        "method": "crop_or_edit",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+        "crop_box": [
+          80,
+          705,
+          575,
+          930
+        ]
+      },
+      "file_bytes": 5648,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "88ed2d87dd802ea9a6f6ae200adcf6b256f72457f4e4de97e9c1eade1b269cd0",
+      "root_visual_review": {
+        "sha256": "88ed2d87dd802ea9a6f6ae200adcf6b256f72457f4e4de97e9c1eade1b269cd0",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_rice",
+      "file": "webp/u06_rice.webp",
+      "semantic": {
+        "type": "food",
+        "item": "rice"
+      },
+      "provenance": {
+        "method": "crop_or_edit",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_29.png",
+        "crop_box": [
+          630,
+          680,
+          1080,
+          1020
+        ],
+        "mask": "subject_contour_preserved; caption excluded"
+      },
+      "file_bytes": 9454,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "crop_from_lesson",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "3ae940c2e43c278bebb6e654f4b0697e1d3074b30cfb89dd816423f7365b4094",
+      "root_visual_review": {
+        "sha256": "3ae940c2e43c278bebb6e654f4b0697e1d3074b30cfb89dd816423f7365b4094",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_queen",
+      "file": "webp/u06_queen.webp",
+      "semantic": {
+        "type": "phonics",
+        "word": "queen"
+      },
+      "provenance": {
+        "method": "edit_or_generate",
+        "source": "built_in_image_gen",
+        "master": "references/u06_queen_generated_source.png",
+        "style_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_33.png"
+      },
+      "file_bytes": 21262,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "abcc7f7c359cf812020150c8add2b78d78590e84b7bb415dc1976dfe0cea3f2a",
+      "root_visual_review": {
+        "sha256": "abcc7f7c359cf812020150c8add2b78d78590e84b7bb415dc1976dfe0cea3f2a",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_rabbit",
+      "file": "webp/u06_rabbit.webp",
+      "semantic": {
+        "type": "phonics",
+        "word": "rabbit"
+      },
+      "provenance": {
+        "method": "edit_or_generate",
+        "source": "built_in_image_gen",
+        "master": "references/u06_rabbit_generated_source.png",
+        "style_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_33.png"
+      },
+      "file_bytes": 14434,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "447cbaeff433e16cb28b98357672cacf53b8de0abe9490e8f7109b125ac1413d",
+      "root_visual_review": {
+        "sha256": "447cbaeff433e16cb28b98357672cacf53b8de0abe9490e8f7109b125ac1413d",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_sun",
+      "file": "webp/u06_sun.webp",
+      "semantic": {
+        "type": "phonics",
+        "word": "sun"
+      },
+      "provenance": {
+        "method": "edit_or_generate",
+        "source": "built_in_image_gen",
+        "master": "references/u06_sun_generated_source.png",
+        "style_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_33.png"
+      },
+      "file_bytes": 16246,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "ab54c680ae3498bf77895b22c8093fa7c89f82f28ff52cb0c4b713e40b4f9ccf",
+      "root_visual_review": {
+        "sha256": "ab54c680ae3498bf77895b22c8093fa7c89f82f28ff52cb0c4b713e40b4f9ccf",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_tiger",
+      "file": "webp/u06_tiger.webp",
+      "semantic": {
+        "type": "phonics",
+        "word": "tiger"
+      },
+      "provenance": {
+        "method": "edit_or_generate",
+        "source": "built_in_image_gen",
+        "master": "references/u06_tiger_generated_source.png",
+        "style_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_33.png"
+      },
+      "file_bytes": 25284,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "daf42ab9e6718150cc6bc58a64acc710add688b1ef51911ed2923d32a81d5236",
+      "root_visual_review": {
+        "sha256": "daf42ab9e6718150cc6bc58a64acc710add688b1ef51911ed2923d32a81d5236",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_birds",
+      "file": "webp/u06_birds.webp",
+      "semantic": {
+        "type": "animals",
+        "item": "birds",
+        "count": 5,
+        "adaptation": "plural_group_not_counting_task"
+      },
+      "provenance": {
+        "method": "compose_from_crops",
+        "source": "E:/let-go-series/Let_s Go Begin/Units/Unit 5 - Animals - Lesson Pages/pages/png/CD2_07.png",
+        "crop_box": [
+          580,
+          875,
+          1145,
+          1085
+        ]
+      },
+      "file_bytes": 9408,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "compose_from_crops",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "e2194aef062d515220310d8803b797fb9da4c899de65754b2c678187b6e03afb",
+      "root_visual_review": {
+        "sha256": "e2194aef062d515220310d8803b797fb9da4c899de65754b2c678187b6e03afb",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_likes_milk",
+      "file": "webp/u06_likes_milk.webp",
+      "semantic": {
+        "type": "food_preference_scene",
+        "food": "milk",
+        "state": "likes",
+        "response": "Yes, I do."
+      },
+      "provenance": {
+        "method": "edit_or_generate",
+        "source": "built_in_image_gen",
+        "master": "references/u06_likes_milk_generated_source.png",
+        "style_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_31.png"
+      },
+      "file_bytes": 18492,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "4b94a7ba832b1eee6f1703151abd45bf96e10ff6a6ef23b167ccdea4558ba173",
+      "root_visual_review": {
+        "sha256": "4b94a7ba832b1eee6f1703151abd45bf96e10ff6a6ef23b167ccdea4558ba173",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    },
+    {
+      "id": "u06_dislikes_fish",
+      "file": "webp/u06_dislikes_fish.webp",
+      "semantic": {
+        "type": "food_preference_scene",
+        "food": "fish",
+        "state": "dislikes",
+        "response": "No, I don't.",
+        "fish_state": "cooked_food_on_plate"
+      },
+      "provenance": {
+        "method": "edit_or_generate",
+        "source": "built_in_image_gen",
+        "master": "references/u06_dislikes_fish_generated_source.png",
+        "style_reference": "E:/let-go-series/Let_s Go Begin/Units/Unit 6 - Food - Lesson Pages/pages/png/CD2_31.png"
+      },
+      "file_bytes": 23046,
+      "visual_review": "passed_individual_webp_review",
+      "creation_method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "sha256": "39c9437769f5862d9791c3ac9928cd2b53e3ba8530de08ce12f860dab422bc25",
+      "root_visual_review": {
+        "sha256": "39c9437769f5862d9791c3ac9928cd2b53e3ba8530de08ce12f860dab422bc25",
+        "status": "pass",
+        "notes": "Root individually inspected all15, rechecked six food revisions and final two built-in fixes. Complete scoops/cone, oval platter/foot, glass rim, bowls/plates; source style and words correctly separated."
+      }
+    }
+  ],
+  "batches": [
+    {
+      "file": "batches/unit6-challenge-assets-contact-sheet.jpg",
+      "ids": "all 15 assets",
+      "status": "reviewed"
+    },
+    {
+      "file": "batches/imagegen-provenance.json",
+      "ids": "u06_ice_cream,u06_cake,u06_queen,u06_rabbit,u06_sun,u06_tiger,u06_likes_milk,u06_dislikes_fish",
+      "status": "prompt_tool_reference_result_logged"
+    }
+  ],
+  "notes": [
+    "All final WebP files are 512x512 and below 60 KB.",
+    "No text, answer label, speech bubble, or panel ID appears in the final cards.",
+    "Phonics and fixed preference cards were generated from the lesson visual style; ice cream and cake were full-object edits to preserve complete contours, while the remaining food and bird cards were cropped from lesson references."
+  ],
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

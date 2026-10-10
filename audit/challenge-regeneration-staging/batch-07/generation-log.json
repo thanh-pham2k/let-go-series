@@ -1,0 +1,103 @@
+{
+  "batch": 7,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_11.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_13.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_17.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 5 - Animals - Lesson Pages\\pages\\png\\CD2_19.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_25.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_29.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      362,
+      360
+    ],
+    [
+      362,
+      0,
+      724,
+      360
+    ],
+    [
+      724,
+      0,
+      1060,
+      360
+    ],
+    [
+      1060,
+      0,
+      1448,
+      360
+    ],
+    [
+      0,
+      360,
+      362,
+      680
+    ],
+    [
+      362,
+      360,
+      724,
+      680
+    ],
+    [
+      724,
+      360,
+      1086,
+      680
+    ],
+    [
+      1086,
+      360,
+      1448,
+      680
+    ],
+    [
+      0,
+      680,
+      362,
+      1086
+    ],
+    [
+      362,
+      680,
+      724,
+      1086
+    ],
+    [
+      724,
+      680,
+      1055,
+      1086
+    ],
+    [
+      1055,
+      680,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Duck counts1/2/3, bird count3, cow count8, car count8; octopus eight arms; moon/nest/peach/icecream/pizza correct. Adjacent pizza fragment excluded from icecream."
+  },
+  "retry_reason": null
+}

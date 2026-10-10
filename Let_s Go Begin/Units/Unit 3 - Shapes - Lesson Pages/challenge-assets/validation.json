@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "unit": 3,
+  "checked_at": "2026-10-10",
+  "required_ids": [
+    "u03_circle",
+    "u03_square",
+    "u03_triangle",
+    "u03_heart",
+    "u03_star",
+    "u03_rectangle",
+    "u03_diamond",
+    "u03_oval",
+    "u03_blue_square",
+    "u03_purple_heart",
+    "u03_orange_triangle",
+    "u03_yellow_circle",
+    "u03_green_square",
+    "u03_pink_heart",
+    "u03_egg",
+    "u03_fish",
+    "u03_gorilla"
+  ],
+  "complete_ids": [
+    "u03_circle",
+    "u03_square",
+    "u03_triangle",
+    "u03_heart",
+    "u03_star",
+    "u03_rectangle",
+    "u03_diamond",
+    "u03_oval",
+    "u03_blue_square",
+    "u03_purple_heart",
+    "u03_orange_triangle",
+    "u03_yellow_circle",
+    "u03_green_square",
+    "u03_pink_heart",
+    "u03_egg",
+    "u03_fish",
+    "u03_gorilla"
+  ],
+  "missing_ids": [],
+  "conditional_ids": [],
+  "asset_count": 17,
+  "webp_count": 17,
+  "all_dimensions_512x512": true,
+  "all_under_60KB": true,
+  "occurrence_coverage": {
+    "inventory_visual_occurrences": 78,
+    "mapped_inventory_visual_occurrences": 78,
+    "unmapped_inventory_visual_occurrences": 0,
+    "mapped_asset_ids": [
+      "u03_blue_square",
+      "u03_circle",
+      "u03_diamond",
+      "u03_egg",
+      "u03_fish",
+      "u03_gorilla",
+      "u03_green_square",
+      "u03_heart",
+      "u03_orange_triangle",
+      "u03_oval",
+      "u03_pink_heart",
+      "u03_purple_heart",
+      "u03_rectangle",
+      "u03_square",
+      "u03_star",
+      "u03_triangle",
+      "u03_yellow_circle"
+    ]
+  },
+  "section_coverage": {
+    "total": 26,
+    "image_or_explicit_no_image": 26,
+    "uncovered_sections": []
+  },
+  "duplicate_hash_check": {
+    "distinct_sha256_count": 17,
+    "duplicate_groups": [],
+    "result": "pass"
+  },
+  "links": {
+    "mapping_targets_exist": true,
+    "preview_images_exist": true,
+    "batch_masters_exist": true
+  },
+  "context": [
+    {
+      "id": "C3§6",
+      "needs_context": false,
+      "status": "resolved_with_documented_adaptation",
+      "note": "The source has six color blanks but no visual cue. Per the approved unit prompt, attach the C5§3 sequence to make each blank deterministic: 3.6.1 blue square, 3.6.2 purple heart, 3.6.3 orange triangle, 3.6.4 yellow circle, 3.6.5 green square, 3.6.6 pink heart. This is recorded as an output adaptation; the source Markdown remains unchanged."
+    }
+  ],
+  "status": "complete",
+  "complete": true,
+  "missing": [],
+  "dimensions": {
+    "expected": [
+      512,
+      512
+    ],
+    "all_pass": true
+  },
+  "compression": {
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440,
+    "over_target": [],
+    "bytes": {
+      "u03_circle": 7508,
+      "u03_square": 1954,
+      "u03_triangle": 5548,
+      "u03_heart": 8078,
+      "u03_star": 7030,
+      "u03_rectangle": 2428,
+      "u03_diamond": 5390,
+      "u03_oval": 6782,
+      "u03_blue_square": 2776,
+      "u03_purple_heart": 6844,
+      "u03_orange_triangle": 5982,
+      "u03_yellow_circle": 6258,
+      "u03_green_square": 2634,
+      "u03_pink_heart": 6966,
+      "u03_egg": 11074,
+      "u03_fish": 15348,
+      "u03_gorilla": 18032
+    }
+  },
+  "provenance": {
+    "built_in_image_gen": 17
+  },
+  "visual_review": {
+    "reviewed_at_512": true,
+    "content_pass": true,
+    "method": "Every final WebP decoded and inspected at 512px in original-resolution grids; repairs separately rechecked"
+  },
+  "root_final_audit": {
+    "card_count": 17,
+    "all_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 18032,
+    "over_60kb": [],
+    "unique_hashes": 17,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

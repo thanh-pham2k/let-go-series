@@ -1,0 +1,322 @@
+{
+  "batch": 11,
+  "master_size": [
+    1448,
+    1086
+  ],
+  "assets": [
+    {
+      "id": "u08_cannot_fly_kite",
+      "crop_box": [
+        0,
+        0,
+        350,
+        395
+      ],
+      "original_cell_size": [
+        350,
+        395
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17686,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_cannot_fly_kite.webp",
+      "sha256": "2572eebf1c6946e7ad0c2c70b805ec745b174abc41d688cff59e1be03133eeb3"
+    },
+    {
+      "id": "u08_play_ball",
+      "crop_box": [
+        350,
+        0,
+        724,
+        395
+      ],
+      "original_cell_size": [
+        374,
+        395
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 22116,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_ball.webp",
+      "sha256": "227d152e6c92e8a0e436eca3cac96a385f098ba310f65f52941d57cffab71a1c"
+    },
+    {
+      "id": "u08_play_tag",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        395
+      ],
+      "original_cell_size": [
+        362,
+        395
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 23872,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp",
+      "sha256": "1768f32c7e62cf9c5eb9834cda17969615f6915b60055fbfe79f02c94795fd0c"
+    },
+    {
+      "id": "u08_jump_rope",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        395
+      ],
+      "original_cell_size": [
+        362,
+        395
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18186,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_jump_rope.webp",
+      "sha256": "95ce1fe66e076e0cb5ae77f5668bd5526435527182346865c4a50929b81c22e7"
+    },
+    {
+      "id": "u08_fox",
+      "crop_box": [
+        0,
+        395,
+        362,
+        760
+      ],
+      "original_cell_size": [
+        362,
+        365
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 17684,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_fox.webp",
+      "sha256": "39d5ad1a6f0cc058de8fce0c256972e314c7b865781e8c9bb0f715380aa476c1"
+    },
+    {
+      "id": "u08_yarn",
+      "crop_box": [
+        362,
+        395,
+        724,
+        760
+      ],
+      "original_cell_size": [
+        362,
+        365
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 14982,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_yarn.webp",
+      "sha256": "0af5fff86aeb6d7c70a7de3189c67c6fec7bf4ba7a80d199eb2ce6e08e9c23bf"
+    },
+    {
+      "id": "u08_zebra",
+      "crop_box": [
+        724,
+        395,
+        1086,
+        760
+      ],
+      "original_cell_size": [
+        362,
+        365
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 16572,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_zebra.webp",
+      "sha256": "964d64ecd4346e6a33da6c3d526448f21f520ecd960955965940ccff170a891c"
+    },
+    {
+      "id": "u08_make_circle",
+      "crop_box": [
+        1086,
+        395,
+        1448,
+        760
+      ],
+      "original_cell_size": [
+        362,
+        365
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 31358,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_make_circle.webp",
+      "sha256": "8e2dd014657fdbaa315913db1a206453ddecf390bc96d452830599cba152dcaf"
+    },
+    {
+      "id": "u08_make_line",
+      "crop_box": [
+        0,
+        760,
+        380,
+        1086
+      ],
+      "original_cell_size": [
+        380,
+        326
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 32018,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_make_line.webp",
+      "sha256": "527a82dd6f3f774b820664c130d97aa5b9a8157b5c994a9984c1a6e326a973df"
+    },
+    {
+      "id": "r12_car",
+      "crop_box": [
+        380,
+        760,
+        720,
+        1086
+      ],
+      "original_cell_size": [
+        340,
+        326
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 18022,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_car.webp",
+      "sha256": "b7f515475edd86825d2118cc1727aed3c8a1d7e27eec5a6667f1f8246d7ba24d"
+    },
+    {
+      "id": "r12_train",
+      "crop_box": [
+        720,
+        760,
+        1090,
+        1086
+      ],
+      "original_cell_size": [
+        370,
+        326
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 28164,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_train.webp",
+      "sha256": "8448938e308819fd589f24a40f813c11f92a4aa200e55090256c6defae9fe7b2"
+    },
+    {
+      "id": "r12_bicycle",
+      "crop_box": [
+        1090,
+        760,
+        1448,
+        1086
+      ],
+      "original_cell_size": [
+        358,
+        326
+      ],
+      "export_size": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "bytes": 24320,
+      "visual_review": {
+        "status": "pass",
+        "notes": "Negative kite same child and orange kite grounded with slack string; playing ball/tag/jumping rope distinct; fox/yarn/zebra full; closed four-child circle and straight line; review toys match reference."
+      },
+      "output": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\challenge-assets\\webp\\r12_bicycle.webp",
+      "sha256": "5dfd4354c22e04febba79b558859e909e49a8804fa5848c42465588fcdea07e8"
+    }
+  ],
+  "status": "visual_review_pass"
+}

@@ -1,0 +1,336 @@
+{
+  "schema_version": 1,
+  "unit": 2,
+  "status": "complete",
+  "required_assets": 19,
+  "complete_assets": 19,
+  "missing_assets": [],
+  "conditional_assets": [],
+  "checks": [
+    {
+      "id": "u02_color_red",
+      "file": "webp/u02_color_red.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1604,
+      "within_60kb": true,
+      "sha256": "2f6e97e97a00c47eb9fc9d678c129d612c715792c454c3469d376db64ef7aded",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_blue",
+      "file": "webp/u02_color_blue.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1566,
+      "within_60kb": true,
+      "sha256": "bc470222ffcebf373844249ee0e7b92209ea9b4c52b9d8d5d0052181466f608c",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_yellow",
+      "file": "webp/u02_color_yellow.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1688,
+      "within_60kb": true,
+      "sha256": "95455c81551cea07479a1742d1b4ee6848b6d3d698921ebb8c26cd17cd6454bb",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_green",
+      "file": "webp/u02_color_green.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1570,
+      "within_60kb": true,
+      "sha256": "3d3f4d9a50d424591e4204369919265e172c01f04b1304708598b84a5420919e",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_brown",
+      "file": "webp/u02_color_brown.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1578,
+      "within_60kb": true,
+      "sha256": "42e5098382f24ef3a582e1654001511b2986d73544b7b4c2d6417a783edba1d7",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_purple",
+      "file": "webp/u02_color_purple.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1474,
+      "within_60kb": true,
+      "sha256": "969e2a5d92132cb26616bb795a23a0e807704696889df392e4333ed01606f7e9",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_orange",
+      "file": "webp/u02_color_orange.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1720,
+      "within_60kb": true,
+      "sha256": "44e3002c249d6a18b0150c29558032a536725bc7decaeeb3cec83f11935289d4",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_black",
+      "file": "webp/u02_color_black.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1196,
+      "within_60kb": true,
+      "sha256": "1af6f29ffd7153dcf8e12fa68cb1b3792b8eaf910133a00f7115942909f2489d",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_white",
+      "file": "webp/u02_color_white.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1110,
+      "within_60kb": true,
+      "sha256": "7ca03c52dff56c2ba408fedc542817be35afd1fc16238ca15551b51ddac4722b",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_color_pink",
+      "file": "webp/u02_color_pink.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 1594,
+      "within_60kb": true,
+      "sha256": "871907dcbbc723c44c16e1e6299ad847f90b6170def962e28913abbce3eaaac7",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_red_train",
+      "file": "webp/u02_red_train.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 12118,
+      "within_60kb": true,
+      "sha256": "6a08d2f4e19b115c992224ac8db638fb035cfb11462d9f95e2c17d56ee7b18c1",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_blue_ball",
+      "file": "webp/u02_blue_ball.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 8724,
+      "within_60kb": true,
+      "sha256": "827d62ec75971203544a841a35a5f2b16fb688ff55c7eb39aaec93581922f28d",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_brown_teddy_bear",
+      "file": "webp/u02_brown_teddy_bear.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 19144,
+      "within_60kb": true,
+      "sha256": "a909df81639dc93888829023325de118c598046c9447ed067b374748c2fa3726",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_green_yo_yo",
+      "file": "webp/u02_green_yo_yo.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 12346,
+      "within_60kb": true,
+      "sha256": "102b2c4243781a35c3c7ea06f4593dc66d1e80501deb55b95c9a1d4237977e8e",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_green_car",
+      "file": "webp/u02_green_car.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 13872,
+      "within_60kb": true,
+      "sha256": "e91ffa903305064009b3c9bd55c529648a81c0f6c0464ccfc3dfa6dcabb8e316",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_apple",
+      "file": "webp/u02_apple.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 9514,
+      "within_60kb": true,
+      "sha256": "e54bf3b221a13f0b3703e8fbe5bbe42f78ccc66ed2e1b56a554bedb3fcebf8f6",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_bird",
+      "file": "webp/u02_bird.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 14356,
+      "within_60kb": true,
+      "sha256": "959a7e7bc9b2bad09c216fcc1b1b48e8f66415e17ec61806bc9969eac7d1aa00",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_cat",
+      "file": "webp/u02_cat.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 15180,
+      "within_60kb": true,
+      "sha256": "68a3dac497362141fcd7b34ee09014eb4e51e2d00a16f35f742f0f20286da997",
+      "visual_reviewed": true
+    },
+    {
+      "id": "u02_dog",
+      "file": "webp/u02_dog.webp",
+      "exists": true,
+      "dimensions": [
+        512,
+        512
+      ],
+      "format": "WEBP",
+      "bytes": 13696,
+      "within_60kb": true,
+      "sha256": "42c7bb6c4f793e24a4b4945257f224aea03e4b988beaa3a529555b06fb6a818d",
+      "visual_reviewed": true
+    }
+  ],
+  "occurrence_coverage": {
+    "inventory_visual_occurrences": 69,
+    "mapped_visual_occurrences": 69,
+    "unresolved_context": [],
+    "duplicate_pixel_ids": []
+  },
+  "section_coverage": {
+    "total": 26,
+    "mapped_or_explicit_no_image": 26,
+    "unmapped": []
+  },
+  "notes": [
+    "Every final WebP card was opened and reviewed individually at 512px after compression; the four revised silhouettes (brown teddy bear, bird, cat, dog) were rechecked after export.",
+    "Red train, brown teddy bear, green car, bird, cat and dog use reviewed single-subject built-in image_gen cards because source-page crops contained neighboring fragments, clipped silhouettes or were too small; their source pages remain recorded as style references.",
+    "No audio or source Markdown was modified."
+  ],
+  "final_qa": {
+    "opened_individually_after_final_webp_export": [
+      "u02_color_red",
+      "u02_color_blue",
+      "u02_color_yellow",
+      "u02_color_green",
+      "u02_color_brown",
+      "u02_color_purple",
+      "u02_color_orange",
+      "u02_color_black",
+      "u02_color_white",
+      "u02_color_pink",
+      "u02_red_train",
+      "u02_blue_ball",
+      "u02_brown_teddy_bear",
+      "u02_green_yo_yo",
+      "u02_green_car",
+      "u02_apple",
+      "u02_bird",
+      "u02_cat",
+      "u02_dog"
+    ],
+    "silhouette_reviewed_after_revision": [
+      "u02_brown_teddy_bear",
+      "u02_bird",
+      "u02_cat",
+      "u02_dog"
+    ],
+    "known_issues": []
+  },
+  "root_final_audit": {
+    "card_count": 19,
+    "all_individual_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 19144,
+    "over_60kb": [],
+    "unique_hashes": 19,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

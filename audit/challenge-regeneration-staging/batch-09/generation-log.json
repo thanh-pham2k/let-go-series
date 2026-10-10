@@ -1,0 +1,102 @@
+{
+  "batch": 9,
+  "tool": "built-in image_gen",
+  "calls": 1,
+  "accepted_master": "master.png",
+  "master_dimensions": [
+    1448,
+    1086
+  ],
+  "rows": 3,
+  "columns": 4,
+  "occupied_cells": 12,
+  "blank_cells": 0,
+  "prompt_file": "prompt.txt",
+  "source_reference_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 6 - Food - Lesson Pages\\pages\\png\\CD2_31.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_42.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_44.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_46.png",
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 7 - My Body - Lesson Pages\\pages\\png\\CD2_48.png"
+  ],
+  "actual_crop_boxes": [
+    [
+      0,
+      0,
+      375,
+      378
+    ],
+    [
+      375,
+      0,
+      724,
+      378
+    ],
+    [
+      724,
+      0,
+      1086,
+      378
+    ],
+    [
+      1086,
+      0,
+      1448,
+      378
+    ],
+    [
+      0,
+      378,
+      362,
+      708
+    ],
+    [
+      362,
+      378,
+      724,
+      708
+    ],
+    [
+      724,
+      378,
+      1086,
+      708
+    ],
+    [
+      1086,
+      378,
+      1448,
+      708
+    ],
+    [
+      0,
+      708,
+      362,
+      1086
+    ],
+    [
+      362,
+      708,
+      724,
+      1086
+    ],
+    [
+      724,
+      708,
+      1086,
+      1086
+    ],
+    [
+      1086,
+      708,
+      1448,
+      1086
+    ]
+  ],
+  "visual_review": {
+    "status": "pass",
+    "method": "Root inspected every decoded compressed card at 512px in lossless full-size QA grids; targeted crop repairs viewed separately",
+    "notes": "Same body character; target highlights correctly identify head, both shoulders/knees/toes/eyes/ears, mouth/nose; touch head/nose/both eyes correct; five toes on each close-up foot."
+  },
+  "retry_reason": null
+}

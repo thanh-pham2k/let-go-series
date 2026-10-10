@@ -1,0 +1,1907 @@
+{
+  "review": "3-4",
+  "assets": [
+    {
+      "id": "r34_circle",
+      "brief": "Một hình circle chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-01",
+        "R34-C4-06",
+        "R34-C5-04"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "circle",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_circle.webp",
+      "webp": "webp/r34_circle.webp",
+      "files": [
+        "webp/r34_circle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 4394,
+      "sha256": "58b99244ce8130a8f5edd9ae529c71570f654a161437a7a2d37f254155953633",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "58b99244ce8130a8f5edd9ae529c71570f654a161437a7a2d37f254155953633",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "58b99244ce8130a8f5edd9ae529c71570f654a161437a7a2d37f254155953633",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_square",
+      "brief": "Một hình square chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-02",
+        "R34-C5-05"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "square",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_square.webp",
+      "webp": "webp/r34_square.webp",
+      "files": [
+        "webp/r34_square.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 1112,
+      "sha256": "032074cc7087a371064ca0ac000db4273ec5116a42aac78dcbffa049907e8811",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        360
+      ],
+      "source_crop_size": [
+        362,
+        360
+      ],
+      "visual_review": {
+        "sha256": "032074cc7087a371064ca0ac000db4273ec5116a42aac78dcbffa049907e8811",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "032074cc7087a371064ca0ac000db4273ec5116a42aac78dcbffa049907e8811",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          360
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_star",
+      "brief": "Một hình star chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-03",
+        "R34-C5-06"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "star",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_star.webp",
+      "webp": "webp/r34_star.webp",
+      "files": [
+        "webp/r34_star.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 9428,
+      "sha256": "67accc2d41ff2ecbf03a3256de62ed0f487287016f31e8465f866f3394aeae18",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        0,
+        360,
+        362,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "67accc2d41ff2ecbf03a3256de62ed0f487287016f31e8465f866f3394aeae18",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "67accc2d41ff2ecbf03a3256de62ed0f487287016f31e8465f866f3394aeae18",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_heart",
+      "brief": "Một hình heart chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-04",
+        "R34-C5-07"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "heart",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_heart.webp",
+      "webp": "webp/r34_heart.webp",
+      "files": [
+        "webp/r34_heart.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8514,
+      "sha256": "b792890fe0d6a01c0a66f31d407eaa2475e589c35c7945cdd75f6bfd493cfd1d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        362,
+        360,
+        724,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "b792890fe0d6a01c0a66f31d407eaa2475e589c35c7945cdd75f6bfd493cfd1d",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b792890fe0d6a01c0a66f31d407eaa2475e589c35c7945cdd75f6bfd493cfd1d",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangle",
+      "brief": "Một hình triangle chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-05",
+        "R34-C1-16",
+        "R34-C5-08"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangle.webp",
+      "webp": "webp/r34_triangle.webp",
+      "files": [
+        "webp/r34_triangle.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 9174,
+      "sha256": "7168d93ba1701fe719877d8580beb54297c749168e3b24e65f5cc574d459c451",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        724,
+        360,
+        1086,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "7168d93ba1701fe719877d8580beb54297c749168e3b24e65f5cc574d459c451",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "7168d93ba1701fe719877d8580beb54297c749168e3b24e65f5cc574d459c451",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_diamond",
+      "brief": "Một hình diamond chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-06",
+        "R34-C5-09"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "diamond",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_diamond.webp",
+      "webp": "webp/r34_diamond.webp",
+      "files": [
+        "webp/r34_diamond.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7414,
+      "sha256": "c2048335f427b6bee362e2a8bf7ef209f522c1130ab723afb3285637af0922ca",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        1086,
+        360,
+        1448,
+        680
+      ],
+      "source_crop_size": [
+        362,
+        320
+      ],
+      "visual_review": {
+        "sha256": "c2048335f427b6bee362e2a8bf7ef209f522c1130ab723afb3285637af0922ca",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "c2048335f427b6bee362e2a8bf7ef209f522c1130ab723afb3285637af0922ca",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          320
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_oval",
+      "brief": "Một hình oval chính xác theo Review; không số/nhãn",
+      "uses": [
+        "R34-C1-07",
+        "R34-C5-10"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "oval",
+      "count": 1,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_oval.webp",
+      "webp": "webp/r34_oval.webp",
+      "files": [
+        "webp/r34_oval.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 6974,
+      "sha256": "2be9cf8eace893920ad866284a2034e9505e38f86853aa713ce67731c30c0a37",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        0,
+        680,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "2be9cf8eace893920ad866284a2034e9505e38f86853aa713ce67731c30c0a37",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "2be9cf8eace893920ad866284a2034e9505e38f86853aa713ce67731c30c0a37",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_walk",
+      "brief": "Bé đi bộ, 5a; khác chạy",
+      "uses": [
+        "R34-C1-08",
+        "R34-C4-07",
+        "R34-C5-11"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_walk.webp",
+      "webp": "webp/r34_walk.webp",
+      "files": [
+        "webp/r34_walk.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 13488,
+      "sha256": "144697f7b5f3c7ec5387b4a5f6ae8d6cc7067b209c2d186c1b7e87d36c546cbe",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        362,
+        680,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "144697f7b5f3c7ec5387b4a5f6ae8d6cc7067b209c2d186c1b7e87d36c546cbe",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "144697f7b5f3c7ec5387b4a5f6ae8d6cc7067b209c2d186c1b7e87d36c546cbe",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_run",
+      "brief": "Bé chạy, 5b; khác đi bộ",
+      "uses": [
+        "R34-C1-09",
+        "R34-C5-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_run.webp",
+      "webp": "webp/r34_run.webp",
+      "files": [
+        "webp/r34_run.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 15948,
+      "sha256": "cc973c390529124c176fab96680c84218e5360ae6adb7340313fa88150954d41",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        724,
+        680,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "cc973c390529124c176fab96680c84218e5360ae6adb7340313fa88150954d41",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "cc973c390529124c176fab96680c84218e5360ae6adb7340313fa88150954d41",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_go",
+      "brief": "Đèn xanh cho phép đi, 6a; không chữ GO",
+      "uses": [
+        "R34-C1-10",
+        "R34-C5-13"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_go.webp",
+      "webp": "webp/r34_go.webp",
+      "files": [
+        "webp/r34_go.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 18564,
+      "sha256": "acccd26f4cc00dc7674f9a1eb39d9c424a0ed2c2bcd12b43e88dfe6baad64c38",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-13/master.png",
+      "crop_box": [
+        1086,
+        680,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        406
+      ],
+      "visual_review": {
+        "sha256": "acccd26f4cc00dc7674f9a1eb39d9c424a0ed2c2bcd12b43e88dfe6baad64c38",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "acccd26f4cc00dc7674f9a1eb39d9c424a0ed2c2bcd12b43e88dfe6baad64c38",
+        "status": "pass",
+        "notes": "Girl approaches teacher versus turning; circle/square/star/heart/triangle/diamond/oval correct; walking versus running; green pedestrian signal correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-13\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 13,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-13/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          406
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_stop",
+      "brief": "Đèn đỏ yêu cầu dừng, 6b; không chữ STOP",
+      "uses": [
+        "R34-C1-11",
+        "R34-C5-14"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_stop.webp",
+      "webp": "webp/r34_stop.webp",
+      "files": [
+        "webp/r34_stop.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 21594,
+      "sha256": "b15ac5aeb639d0551ef7a2325ffecb767be15b0e5b540186dd58093715017af1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        380
+      ],
+      "source_crop_size": [
+        362,
+        380
+      ],
+      "visual_review": {
+        "sha256": "b15ac5aeb639d0551ef7a2325ffecb767be15b0e5b540186dd58093715017af1",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "b15ac5aeb639d0551ef7a2325ffecb767be15b0e5b540186dd58093715017af1",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          380
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_take_out_pencil",
+      "brief": "Bé lấy bút chì ra khỏi hộp, hình 1 Classroom Commands; hướng tay/vật rõ",
+      "uses": [
+        "R34-C1-12",
+        "R34-C3-12",
+        "R34-C3-16",
+        "R34-C4-08",
+        "R34-C5-15",
+        "R34-C5-23"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_take_out_pencil.webp",
+      "webp": "webp/r34_take_out_pencil.webp",
+      "files": [
+        "webp/r34_take_out_pencil.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 26528,
+      "sha256": "dab2abdb1e51e45f7807976cf0538f8a292920cdd74613901d2438c68558232f",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        380
+      ],
+      "source_crop_size": [
+        362,
+        380
+      ],
+      "visual_review": {
+        "sha256": "dab2abdb1e51e45f7807976cf0538f8a292920cdd74613901d2438c68558232f",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "dab2abdb1e51e45f7807976cf0538f8a292920cdd74613901d2438c68558232f",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          380
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_put_away_pencil",
+      "brief": "Bé cất bút chì vào hộp, hình 2; khác lấy ra",
+      "uses": [
+        "R34-C1-13",
+        "R34-C3-13",
+        "R34-C5-16"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_put_away_pencil.webp",
+      "webp": "webp/r34_put_away_pencil.webp",
+      "files": [
+        "webp/r34_put_away_pencil.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 19408,
+      "sha256": "75b52ba1c4252ee0520cab216b09f0e9ee62f7132089131bea5e05737614f921",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        380
+      ],
+      "source_crop_size": [
+        362,
+        380
+      ],
+      "visual_review": {
+        "sha256": "75b52ba1c4252ee0520cab216b09f0e9ee62f7132089131bea5e05737614f921",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "75b52ba1c4252ee0520cab216b09f0e9ee62f7132089131bea5e05737614f921",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          380
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_open_book",
+      "brief": "Bé đang mở sách, hình 3; chuyển động mở rõ",
+      "uses": [
+        "R34-C1-14",
+        "R34-C3-14",
+        "R34-C5-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_open_book.webp",
+      "webp": "webp/r34_open_book.webp",
+      "files": [
+        "webp/r34_open_book.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 20336,
+      "sha256": "51b7bf8fde82b9a7ce9bcfa3187449f142f97eb5dc804d0bd5932d7010bff115",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        380
+      ],
+      "source_crop_size": [
+        362,
+        380
+      ],
+      "visual_review": {
+        "sha256": "51b7bf8fde82b9a7ce9bcfa3187449f142f97eb5dc804d0bd5932d7010bff115",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "51b7bf8fde82b9a7ce9bcfa3187449f142f97eb5dc804d0bd5932d7010bff115",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          380
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_close_book",
+      "brief": "Bé đang đóng sách, hình 4; khác mở",
+      "uses": [
+        "R34-C1-15",
+        "R34-C3-15",
+        "R34-C5-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "adaptation_notes": "Clean crop from canonical regenerated lesson, excluding item labels. Contain may upscale this source artwork; no claim of added detail.",
+      "file": "webp/r34_close_book.webp",
+      "webp": "webp/r34_close_book.webp",
+      "files": [
+        "webp/r34_close_book.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 19060,
+      "sha256": "16b047510b6adfae8ee560dccb2c80ed91b8485f8075f7e3f91fefeb765d72c4",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        0,
+        380,
+        362,
+        725
+      ],
+      "source_crop_size": [
+        362,
+        345
+      ],
+      "visual_review": {
+        "sha256": "16b047510b6adfae8ee560dccb2c80ed91b8485f8075f7e3f91fefeb765d72c4",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "16b047510b6adfae8ee560dccb2c80ed91b8485f8075f7e3f91fefeb765d72c4",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          345
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangles_02",
+      "brief": "Đúng 2 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 2,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangles_02.webp",
+      "webp": "webp/r34_triangles_02.webp",
+      "files": [
+        "webp/r34_triangles_02.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5160,
+      "sha256": "9001fa13b7dc992b751fc5c264da34da2f08f41d9a19d252198095ef3854dfe1",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        362,
+        380,
+        724,
+        725
+      ],
+      "source_crop_size": [
+        362,
+        345
+      ],
+      "visual_review": {
+        "sha256": "9001fa13b7dc992b751fc5c264da34da2f08f41d9a19d252198095ef3854dfe1",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "9001fa13b7dc992b751fc5c264da34da2f08f41d9a19d252198095ef3854dfe1",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          345
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangles_03",
+      "brief": "Đúng 3 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 3,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangles_03.webp",
+      "webp": "webp/r34_triangles_03.webp",
+      "files": [
+        "webp/r34_triangles_03.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 5014,
+      "sha256": "ea19f13051de7aae345f74b3f5d1d21f4d34d92b9222d4c349e8766d66b5c5b4",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        724,
+        380,
+        1086,
+        725
+      ],
+      "source_crop_size": [
+        362,
+        345
+      ],
+      "visual_review": {
+        "sha256": "ea19f13051de7aae345f74b3f5d1d21f4d34d92b9222d4c349e8766d66b5c5b4",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "ea19f13051de7aae345f74b3f5d1d21f4d34d92b9222d4c349e8766d66b5c5b4",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          345
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangles_04",
+      "brief": "Đúng 4 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-19",
+        "R34-C4-09",
+        "R34-C5-01"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 4,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangles_04.webp",
+      "webp": "webp/r34_triangles_04.webp",
+      "files": [
+        "webp/r34_triangles_04.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8024,
+      "sha256": "17f33d187ffaced072aebf635e9d176d4cfbd1c1a7700614b76dacfa1869efbb",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        1086,
+        380,
+        1448,
+        725
+      ],
+      "source_crop_size": [
+        362,
+        345
+      ],
+      "visual_review": {
+        "sha256": "17f33d187ffaced072aebf635e9d176d4cfbd1c1a7700614b76dacfa1869efbb",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "17f33d187ffaced072aebf635e9d176d4cfbd1c1a7700614b76dacfa1869efbb",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          345
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangles_05",
+      "brief": "Đúng 5 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 5,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangles_05.webp",
+      "webp": "webp/r34_triangles_05.webp",
+      "files": [
+        "webp/r34_triangles_05.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 7806,
+      "sha256": "812f6dab5b0b9a60d3a82bedd701c7f67c2f7d473e5e9e6e8a46518cf4a58091",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        0,
+        725,
+        362,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        361
+      ],
+      "visual_review": {
+        "sha256": "812f6dab5b0b9a60d3a82bedd701c7f67c2f7d473e5e9e6e8a46518cf4a58091",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "812f6dab5b0b9a60d3a82bedd701c7f67c2f7d473e5e9e6e8a46518cf4a58091",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          361
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangles_06",
+      "brief": "Đúng 6 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-21"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 6,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangles_06.webp",
+      "webp": "webp/r34_triangles_06.webp",
+      "files": [
+        "webp/r34_triangles_06.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 8632,
+      "sha256": "bc4922f42503736c67d7dbadbb42c1ec85b0feec02ab635a92ac30f09df63c4e",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        362,
+        725,
+        724,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        361
+      ],
+      "visual_review": {
+        "sha256": "bc4922f42503736c67d7dbadbb42c1ec85b0feec02ab635a92ac30f09df63c4e",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "bc4922f42503736c67d7dbadbb42c1ec85b0feec02ab635a92ac30f09df63c4e",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          361
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_triangles_07",
+      "brief": "Đúng 7 tam giác △ tách rõ, không số/nhãn; biến thể luyện đếm",
+      "uses": [
+        "R34-C1-22"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "triangle",
+      "count": 7,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_triangles_07.webp",
+      "webp": "webp/r34_triangles_07.webp",
+      "files": [
+        "webp/r34_triangles_07.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10676,
+      "sha256": "6b0c53e2100ade62026575afb0c04ae096699a6c6a0222e297cbdacf65970e93",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        724,
+        725,
+        1086,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        361
+      ],
+      "visual_review": {
+        "sha256": "6b0c53e2100ade62026575afb0c04ae096699a6c6a0222e297cbdacf65970e93",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "6b0c53e2100ade62026575afb0c04ae096699a6c6a0222e297cbdacf65970e93",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          361
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_diamonds_04",
+      "brief": "Đúng 4 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-17"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "diamond",
+      "count": 4,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_diamonds_04.webp",
+      "webp": "webp/r34_diamonds_04.webp",
+      "files": [
+        "webp/r34_diamonds_04.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10774,
+      "sha256": "6a98effc063cf6f6e28e0b6a52f3899b335bff3787265c6c45e07761e269aaee",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-14/master.png",
+      "crop_box": [
+        1086,
+        725,
+        1448,
+        1086
+      ],
+      "source_crop_size": [
+        362,
+        361
+      ],
+      "visual_review": {
+        "sha256": "6a98effc063cf6f6e28e0b6a52f3899b335bff3787265c6c45e07761e269aaee",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "6a98effc063cf6f6e28e0b6a52f3899b335bff3787265c6c45e07761e269aaee",
+        "status": "pass",
+        "notes": "Red STOP hand corrected by full-batch retry; pencil out/up versus away/down, open versus shut book; triangle counts2,3,4,5,6,7 and four diamonds checked.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-14\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 14,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-14/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          361
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_diamonds_05",
+      "brief": "Đúng 5 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-18"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "diamond",
+      "count": 5,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_diamonds_05.webp",
+      "webp": "webp/r34_diamonds_05.webp",
+      "files": [
+        "webp/r34_diamonds_05.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11164,
+      "sha256": "57bf4b8a2dde5bcc12f7ee5f7c3b94be42d25237bb569d1c83a912fbc98e4116",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        0,
+        0,
+        362,
+        350
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "57bf4b8a2dde5bcc12f7ee5f7c3b94be42d25237bb569d1c83a912fbc98e4116",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "57bf4b8a2dde5bcc12f7ee5f7c3b94be42d25237bb569d1c83a912fbc98e4116",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_diamonds_06",
+      "brief": "Đúng 6 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-19",
+        "R34-C4-11",
+        "R34-C5-03"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "diamond",
+      "count": 6,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_diamonds_06.webp",
+      "webp": "webp/r34_diamonds_06.webp",
+      "files": [
+        "webp/r34_diamonds_06.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12276,
+      "sha256": "d163fee9fe203274f151f6f414fdc4f0548fabdf884f98342a82f6cbd8e1251c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        362,
+        0,
+        724,
+        350
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "d163fee9fe203274f151f6f414fdc4f0548fabdf884f98342a82f6cbd8e1251c",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "d163fee9fe203274f151f6f414fdc4f0548fabdf884f98342a82f6cbd8e1251c",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_diamonds_07",
+      "brief": "Đúng 7 hình thoi ◆, không đá quý, không số/nhãn",
+      "uses": [
+        "R34-C3-20"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "diamond",
+      "count": 7,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_diamonds_07.webp",
+      "webp": "webp/r34_diamonds_07.webp",
+      "files": [
+        "webp/r34_diamonds_07.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 12728,
+      "sha256": "d18914cac05b2f6e2646ebe4086a3b6b84f19ef5733b816a05f81757941a844c",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        724,
+        0,
+        1086,
+        350
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "d18914cac05b2f6e2646ebe4086a3b6b84f19ef5733b816a05f81757941a844c",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "d18914cac05b2f6e2646ebe4086a3b6b84f19ef5733b816a05f81757941a844c",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_circles_05",
+      "brief": "Đúng 5 hình tròn, nhóm nguồn 3b",
+      "uses": [
+        "R34-C4-10",
+        "R34-C5-02"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "circle",
+      "count": 5,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_circles_05.webp",
+      "webp": "webp/r34_circles_05.webp",
+      "files": [
+        "webp/r34_circles_05.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 10834,
+      "sha256": "7717b08c51be3a3ff94f81b2f0617147c198f2a598b568d03aea13637c06a84a",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        1086,
+        0,
+        1448,
+        350
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "7717b08c51be3a3ff94f81b2f0617147c198f2a598b568d03aea13637c06a84a",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "7717b08c51be3a3ff94f81b2f0617147c198f2a598b568d03aea13637c06a84a",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    },
+    {
+      "id": "r34_ovals_07",
+      "brief": "Đúng 7 oval, nhóm nguồn 4b",
+      "uses": [
+        "R34-C4-12"
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+      ],
+      "shape": "oval",
+      "count": 7,
+      "adaptation_notes": "Deterministic unlabeled geometric card with source palette; count variants preserve exercise semantics and are not claimed as original PDF artwork.",
+      "file": "webp/r34_ovals_07.webp",
+      "webp": "webp/r34_ovals_07.webp",
+      "files": [
+        "webp/r34_ovals_07.webp"
+      ],
+      "creation_method": "built_in_image_gen",
+      "method": "built_in_image_gen",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "webp_method": 6,
+      "file_bytes": 11630,
+      "sha256": "91bb21fd50f719ca09b201a930d60559163e98eb2e96acd88929affc2f12654d",
+      "batch": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "generated_master": "../../../../audit/challenge-regeneration-staging/batch-15/master.png",
+      "crop_box": [
+        0,
+        350,
+        362,
+        700
+      ],
+      "source_crop_size": [
+        362,
+        350
+      ],
+      "visual_review": {
+        "sha256": "91bb21fd50f719ca09b201a930d60559163e98eb2e96acd88929affc2f12654d",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "root_visual_review": {
+        "sha256": "91bb21fd50f719ca09b201a930d60559163e98eb2e96acd88929affc2f12654d",
+        "status": "pass",
+        "notes": "Diamond counts5/6/7, five circles, seven ovals; cat counts1/3/4; rabbit counts1/2/5; icecream correct.",
+        "evidence": "audit\\challenge-regeneration-staging\\batch-15\\qa-512.png"
+      },
+      "contains_text": false,
+      "provenance": {
+        "tool": "built-in image_gen",
+        "batch": 15,
+        "generation_log": "../../../../audit/challenge-regeneration-staging/batch-15/generation-log.json",
+        "source_references": [
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_71.png",
+          "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 3-4 - Lesson Pages\\pages\\png\\CD1_72.png"
+        ],
+        "resized_from": [
+          362,
+          350
+        ],
+        "upscaled": true
+      }
+    }
+  ],
+  "source_inventory": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-3-4.inventory.json",
+  "root_final_audit": {
+    "all_cards_reviewed_at_512": true,
+    "file_hashes_bound_to_reviews": true,
+    "regenerated": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  },
+  "format": {
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "target_bytes": 61440
+  },
+  "regeneration": {
+    "batch_capacity": 12,
+    "total_batches": 18,
+    "last_batch_occupied": 7,
+    "old_cards_backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup\\review-3-4\\webp",
+    "masters_location": "E:\\let-go-series\\audit\\challenge-regeneration-staging",
+    "active_format": "WebP only; older masters/optional PNGs are historical references"
+  }
+}

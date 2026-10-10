@@ -1,0 +1,29 @@
+{
+  "job_id": "u08_repair_play_tag",
+  "generation_log": "batches/generation-log.json",
+  "exact_prompt": "Use case: precise-object-edit.\nAsset type: one square educational illustration card for the Unit 8 Challenge.\nInput image: Image 1 is the current play-tag card and is a style/scene reference.\nRecompose the scene so both children are fully visible inside the square with generous safe margins: show both complete heads and hair, both torsos, both legs and both feet, with no body or hair clipped at any edge. Keep the same two-child tag action: one child reaches toward the other in a playful chase, clearly playing tag, not simply running alone. Preserve the bright textbook cartoon style, bold clean outlines, soft shading, grassy outdoor background and friendly expressions. Do not add text, labels, numbers, speech bubbles, watermarks, answer hints or panel IDs.",
+  "reference_input_paths": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp"
+  ],
+  "actual_result_path": "C:\\Users\\Admin\\.codex\\generated_images\\01a12422-b12b-7c53-9c6c-f310777a75a4\\exec-f1bfb061-e83b-4fb7-a867-7c50464b47e5.png",
+  "workspace_batch_path": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\batches\\repair-play-tag.png",
+  "repair_id": "repair-play-tag",
+  "tool": "built-in image_gen",
+  "target": "webp/u08_play_tag.webp",
+  "references": [
+    "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 8 - Abilities - Lesson Pages\\challenge-assets\\webp\\u08_play_tag.webp"
+  ],
+  "reason": "Root visual QA found the left child clipped at the edge.",
+  "result": "Both children fully visible with complete heads, hair, torsos, legs and feet, generous margins, and clear reaching chase/tag action.",
+  "export": {
+    "size": [
+      512,
+      512
+    ],
+    "format": "webp",
+    "quality": 80,
+    "method": 6,
+    "file_bytes": 52864
+  },
+  "visual_review": "passed"
+}

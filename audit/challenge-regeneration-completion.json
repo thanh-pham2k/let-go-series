@@ -1,0 +1,30 @@
+{
+  "status": "integrated",
+  "assets": 211,
+  "sets": 12,
+  "batches": 18,
+  "generation_calls": 19,
+  "retried_batches": [
+    14
+  ],
+  "full_batches": 17,
+  "last_batch_assets": 7,
+  "last_batch_blank_cells": 5,
+  "all_dimensions": [
+    512,
+    512
+  ],
+  "format": "WEBP",
+  "total_bytes": 3437244,
+  "max_bytes": 39850,
+  "duplicate_ids": [],
+  "duplicate_hashes": [],
+  "missing": [],
+  "all_replaced": true,
+  "protected_source_files": 1467,
+  "protected_source_hashes_unchanged": true,
+  "source_resolution_note": "Masters1448x1086; card crops roughly350px, upscaled with contain to512",
+  "visual_review": "pass at512px",
+  "backup": "E:\\let-go-series\\audit\\challenge-regeneration-backup",
+  "masters": "E:\\let-go-series\\audit\\challenge-regeneration-staging"
+}

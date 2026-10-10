@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+Follow Review 7-8 characters exactly. Row1 red-haired boy green shirt blue pants winking ONE eye; SAME boy leaning with two hands on two knees; ponytail girl pink shirt blue shorts white knee socks bending straight legs fingertips visibly TOUCH toe tips of green shoes; SAME girl SAME posture but fingers end well ABOVE shoes (visible gap at least hand length), worried expression, cannot touch. Row2 blond helmet girl red shirt purple pants riding green bicycle two wheels; same blond girl redshirt purplepants running flying RED kite taut string; brown-haired boy swimming; SAME boy red dotted swim shorts dancing beside water with crossed rhythmic arms legs bent, distinct from swim. Row3 curly brown-haired pink-shirt blue-pants girl stomping one foot downward near ground with foot impact marks; SAME girl clapping two hands together chest level with clap marks; darkskinned shortblackhair boy yellowshirt bluepants sitting desk pointing directly toward green board; SAME boy standing upright beside chair/desk. No labels/checks/X. Entire figures feet and bicycle wheels visible.
+Row 1, column 1: Bé nháy một mắt, mắt kia mở, 1a
+Row 1, column 2: Bé đặt hai tay lên đầu gối, 1b
+Row 1, column 3: Bé cúi chạm được tới ngón chân giày, 2a; tay tiếp xúc rõ
+Row 1, column 4: Cùng bé cúi nhưng tay chưa chạm được giày, 2b; khoảng hở rõ, không dấu X
+Row 2, column 1: Bé thực sự đạp xe, 3a
+Row 2, column 2: Bé thả diều bay, dây nối tay và diều, 3b
+Row 2, column 3: Bé bơi trong nước, 4a
+Row 2, column 4: Bé đang nhảy múa, 4b
+Row 3, column 1: Bé giậm chân, 5a; chuyển động chân rõ
+Row 3, column 2: Bé vỗ tay, 5b; hai bàn tay đúng
+Row 3, column 3: Bé chỉ vào bảng, 6a; không đi tới bảng
+Row 3, column 4: Bé đứng lên, 6b

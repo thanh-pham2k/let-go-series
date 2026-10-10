@@ -1,0 +1,114 @@
+{
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 1 - Toys(5).md",
+  "samples": [
+    {
+      "id": "C1 · dòng 69",
+      "challenge": 1,
+      "line": 69,
+      "raw": "🖼️ Hình quả bóng",
+      "ids": [
+        "u01_ball"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình và chọn từ/cụm từ đúng.",
+      "options": [
+        "a train",
+        "a ball",
+        "a doll",
+        "a car"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C2 · dòng 195",
+      "challenge": 2,
+      "line": 195,
+      "raw": "- It's a ball.",
+      "ids": [
+        "u01_ball",
+        "u01_jump_rope",
+        "u01_yo_yo",
+        "u01_bicycle",
+        "u01_train",
+        "u01_car",
+        "u01_doll",
+        "u01_teddy_bear"
+      ],
+      "needs_context": false,
+      "prompt": "Nghe audio hoặc người lớn đọc, rồi chọn hình/câu trả lời phù hợp.",
+      "options": [
+        "Hình A",
+        "Hình B",
+        "Hình C",
+        "Hình D",
+        "Hình E",
+        "Hình F",
+        "Hình G",
+        "Hình H"
+      ],
+      "teacher_audio": "## 2. Nghe câu → chọn đồ vật"
+    },
+    {
+      "id": "C3 · dòng 246",
+      "challenge": 3,
+      "line": 246,
+      "raw": "1. It's a __________. 🖼️ ball",
+      "ids": [
+        "u01_ball"
+      ],
+      "needs_context": false,
+      "prompt": "It's a __________.",
+      "options": [],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C4 · dòng 362",
+      "challenge": 4,
+      "line": 362,
+      "raw": "| 2. What is it? 🖼️ car | B. I'm Jenny. |",
+      "ids": [
+        "u01_car"
+      ],
+      "needs_context": false,
+      "prompt": "What is it?",
+      "options": [
+        "A. It's a car.",
+        "B. I'm Jenny."
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 390",
+      "challenge": 5,
+      "line": 390,
+      "raw": "🖼️ yo-yo",
+      "ids": [
+        "u01_yo_yo"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [
+        "a train",
+        "a yo-yo",
+        "a ball",
+        "a car"
+      ],
+      "teacher_audio": ""
+    },
+    {
+      "id": "C5 · dòng 443",
+      "challenge": 5,
+      "line": 443,
+      "raw": "1. 🖼️ ball → ______________________________",
+      "ids": [
+        "u01_ball"
+      ],
+      "needs_context": false,
+      "prompt": "Nhìn hình. Tự nói từ hoặc một câu phù hợp.",
+      "options": [],
+      "teacher_audio": ""
+    }
+  ],
+  "gallery_count": 8,
+  "debug_labels_hidden_by_default": true
+}

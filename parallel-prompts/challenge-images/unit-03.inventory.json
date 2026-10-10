@@ -1,0 +1,1730 @@
+{
+  "schema_version": 1,
+  "unit": 3,
+  "topic": "Shapes",
+  "source": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes(2).md",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages",
+  "scope": "Challenge 1–5 only; lesson pages are immutable references",
+  "sections": [
+    {
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "line": 73,
+      "visual_lines": [
+        76,
+        83,
+        90,
+        97,
+        104,
+        111,
+        118,
+        125
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "2. Nghe → chọn từ",
+      "line": 131,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "line": 159,
+      "visual_lines": [
+        162,
+        169,
+        176,
+        183
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 1,
+      "section": "4. Letters and words",
+      "line": 189,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "1. Nghe → chọn nghĩa",
+      "line": 203,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "line": 229,
+      "visual_lines": [
+        235,
+        239,
+        243,
+        247
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "line": 249,
+      "visual_lines": [
+        258,
+        264
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 2,
+      "section": "4. Nghe → thực hiện",
+      "line": 269,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "line": 285,
+      "visual_lines": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "line": 298,
+      "visual_lines": [
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "3. Hoàn thành hội thoại",
+      "line": 311,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "4. Nghe → chọn từ điền vào chỗ trống",
+      "line": 318,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "line": 344,
+      "visual_lines": [
+        346,
+        349
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 3,
+      "section": "6. Shape + color recall",
+      "line": 355,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "1. Chọn từ → ghép thành câu hoàn chỉnh",
+      "line": 371,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "line": 411,
+      "visual_lines": [
+        416,
+        417,
+        418
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics E–H)",
+      "line": 420,
+      "visual_lines": [
+        424,
+        425,
+        426,
+        427
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "line": 442,
+      "visual_lines": [
+        444,
+        450,
+        456
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "line": 462,
+      "visual_lines": [
+        464,
+        466,
+        468,
+        470,
+        472,
+        474,
+        476,
+        478
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "line": 480,
+      "visual_lines": [
+        482,
+        485,
+        488,
+        491,
+        494,
+        497
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "line": 500,
+      "visual_lines": [
+        502,
+        507
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "5. Conversation",
+      "line": 512,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "6. Commands",
+      "line": 517,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "7. Build without hint",
+      "line": 528,
+      "visual_lines": [],
+      "status": "text_audio_action_or_context_review"
+    },
+    {
+      "challenge": 5,
+      "section": "8. E–H Phonics Production",
+      "line": 546,
+      "visual_lines": [
+        550,
+        551,
+        552,
+        553
+      ],
+      "status": "has_visual_mapping"
+    },
+    {
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "line": 555,
+      "visual_lines": [
+        565,
+        570,
+        573,
+        578,
+        581,
+        586
+      ],
+      "status": "has_visual_mapping"
+    }
+  ],
+  "visual_occurrences": [
+    {
+      "line": 76,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.1",
+      "source_text": "⭕",
+      "asset_ids": [
+        "u03_circle"
+      ]
+    },
+    {
+      "line": 83,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.2",
+      "source_text": "⬜",
+      "asset_ids": [
+        "u03_square"
+      ]
+    },
+    {
+      "line": 90,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.3",
+      "source_text": "🔺",
+      "asset_ids": [
+        "u03_triangle"
+      ]
+    },
+    {
+      "line": 97,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.4",
+      "source_text": "❤️",
+      "asset_ids": [
+        "u03_heart"
+      ]
+    },
+    {
+      "line": 104,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.5",
+      "source_text": "⭐",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 111,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.6",
+      "source_text": "▭",
+      "asset_ids": [
+        "u03_rectangle"
+      ]
+    },
+    {
+      "line": 118,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.7",
+      "source_text": "◆",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 125,
+      "challenge": 1,
+      "section": "1. Nhìn hình → chọn từ",
+      "item": "1.8",
+      "source_text": "⬭",
+      "asset_ids": [
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 162,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "3.1",
+      "source_text": "🟦 hình vuông",
+      "asset_ids": [
+        "u03_blue_square"
+      ]
+    },
+    {
+      "line": 169,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "3.2",
+      "source_text": "💜 hình trái tim",
+      "asset_ids": [
+        "u03_purple_heart"
+      ]
+    },
+    {
+      "line": 176,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "3.3",
+      "source_text": "🟧 hình tam giác",
+      "asset_ids": [
+        "u03_orange_triangle"
+      ]
+    },
+    {
+      "line": 183,
+      "challenge": 1,
+      "section": "3. Nhìn hình → chọn cụm từ",
+      "item": "3.4",
+      "source_text": "🟡 hình tròn",
+      "asset_ids": [
+        "u03_yellow_circle"
+      ]
+    },
+    {
+      "line": 235,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`⭐ / ⭕ / ◆ / ❤️`",
+      "asset_ids": [
+        "u03_circle",
+        "u03_heart",
+        "u03_star",
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 239,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`⬭ / ◆ / ▭ / ⭐`",
+      "asset_ids": [
+        "u03_star",
+        "u03_rectangle",
+        "u03_diamond",
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 243,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`⬭ / ⭕ / ⬜ / 🔺`",
+      "asset_ids": [
+        "u03_circle",
+        "u03_square",
+        "u03_triangle",
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 247,
+      "challenge": 2,
+      "section": "2. Nghe → chọn hình",
+      "item": "",
+      "source_text": "`◆ / ▭ / ❤️ / ⭕`",
+      "asset_ids": [
+        "u03_circle",
+        "u03_heart",
+        "u03_rectangle",
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 258,
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "item": "3.2",
+      "source_text": "**Is it a star?** ⭐",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 264,
+      "challenge": 2,
+      "section": "3. Nghe câu hỏi → chọn câu trả lời",
+      "item": "3.3",
+      "source_text": "**Is it a rectangle?** ◆",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 289,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "1. c _ r c l e *(circle)* ⭕",
+      "asset_ids": [
+        "u03_circle"
+      ]
+    },
+    {
+      "line": 290,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "2. s q u _ r e *(square)* ⬜",
+      "asset_ids": [
+        "u03_square"
+      ]
+    },
+    {
+      "line": 291,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "3. t r _ a n g l e *(triangle)* 🔺",
+      "asset_ids": [
+        "u03_triangle"
+      ]
+    },
+    {
+      "line": 292,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "4. h _ a r t *(heart)* ❤️",
+      "asset_ids": [
+        "u03_heart"
+      ]
+    },
+    {
+      "line": 293,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "5. s t _ r *(star)* ⭐",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 294,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "6. r _ c t a n g l e *(rectangle)* ▭",
+      "asset_ids": [
+        "u03_rectangle"
+      ]
+    },
+    {
+      "line": 295,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "7. d _ a m o n d *(diamond)* ◆",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 296,
+      "challenge": 3,
+      "section": "1. Điền chữ cái còn thiếu vào từ",
+      "item": "",
+      "source_text": "8. o v _ l *(oval)* ⬭",
+      "asset_ids": [
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 302,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "1. Draw a __________. ⭕",
+      "asset_ids": [
+        "u03_circle"
+      ]
+    },
+    {
+      "line": 303,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "2. Draw a __________. ⬜",
+      "asset_ids": [
+        "u03_square"
+      ]
+    },
+    {
+      "line": 304,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "3. Is it a __________? ⭐",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 305,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "4. Is it a __________? ▭",
+      "asset_ids": [
+        "u03_rectangle"
+      ]
+    },
+    {
+      "line": 306,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "5. It's a __________. ◆",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 307,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "6. __________ 🔺",
+      "asset_ids": [
+        "u03_triangle"
+      ]
+    },
+    {
+      "line": 308,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "7. __________ ❤️",
+      "asset_ids": [
+        "u03_heart"
+      ]
+    },
+    {
+      "line": 309,
+      "challenge": 3,
+      "section": "2. Chọn từ → điền vào chỗ trống",
+      "item": "",
+      "source_text": "8. __________ ⬭",
+      "asset_ids": [
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 346,
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "item": "",
+      "source_text": "A: Is it a star? ⭐  ",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 349,
+      "challenge": 3,
+      "section": "5. Giảm hint — dùng context",
+      "item": "",
+      "source_text": "A: Is it a rectangle? ◆  ",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 416,
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "",
+      "source_text": "| 2. Is it a star? ⭐ | B. I'm fine, thank you. |",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 417,
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "",
+      "source_text": "| 3. Is it a rectangle? ◆ | C. No, it isn't. It's a diamond. |",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 418,
+      "challenge": 4,
+      "section": "2. Ghép câu hỏi → câu trả lời",
+      "item": "",
+      "source_text": "| 4. Is it a red square? 🩷❤️ | D. No, it isn't. It's a pink heart. |",
+      "asset_ids": [
+        "u03_pink_heart"
+      ]
+    },
+    {
+      "line": 424,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics E–H)",
+      "item": "",
+      "source_text": "- e g _ *(egg)* 🥚",
+      "asset_ids": [
+        "u03_egg"
+      ]
+    },
+    {
+      "line": 425,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics E–H)",
+      "item": "",
+      "source_text": "- f _ s h *(fish)* 🐟",
+      "asset_ids": [
+        "u03_fish"
+      ]
+    },
+    {
+      "line": 426,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics E–H)",
+      "item": "",
+      "source_text": "- g o r _ l l a *(gorilla)* 🦍",
+      "asset_ids": [
+        "u03_gorilla"
+      ]
+    },
+    {
+      "line": 427,
+      "challenge": 4,
+      "section": "3. Letters & words (Phonics E–H)",
+      "item": "",
+      "source_text": "- h _ a r t *(heart)* ❤️",
+      "asset_ids": [
+        "u03_heart"
+      ]
+    },
+    {
+      "line": 444,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "◆",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 450,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "⬭",
+      "asset_ids": [
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 456,
+      "challenge": 5,
+      "section": "1. Quick Recognition",
+      "item": "",
+      "source_text": "⭐",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 464,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "⭕ → ____________________",
+      "asset_ids": [
+        "u03_circle"
+      ]
+    },
+    {
+      "line": 466,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "⬜ → ____________________",
+      "asset_ids": [
+        "u03_square"
+      ]
+    },
+    {
+      "line": 468,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "🔺 → ____________________",
+      "asset_ids": [
+        "u03_triangle"
+      ]
+    },
+    {
+      "line": 470,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "❤️ → ____________________",
+      "asset_ids": [
+        "u03_heart"
+      ]
+    },
+    {
+      "line": 472,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "⭐ → ____________________",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 474,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "▭ → ____________________",
+      "asset_ids": [
+        "u03_rectangle"
+      ]
+    },
+    {
+      "line": 476,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "◆ → ____________________",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 478,
+      "challenge": 5,
+      "section": "2. Không có kho từ",
+      "item": "",
+      "source_text": "⬭ → ____________________",
+      "asset_ids": [
+        "u03_oval"
+      ]
+    },
+    {
+      "line": 482,
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "item": "",
+      "source_text": "🟦 hình vuông  ",
+      "asset_ids": [
+        "u03_blue_square"
+      ]
+    },
+    {
+      "line": 485,
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "item": "",
+      "source_text": "💜 hình trái tim  ",
+      "asset_ids": [
+        "u03_purple_heart"
+      ]
+    },
+    {
+      "line": 488,
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "item": "",
+      "source_text": "🟧 hình tam giác  ",
+      "asset_ids": [
+        "u03_orange_triangle"
+      ]
+    },
+    {
+      "line": 491,
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "item": "",
+      "source_text": "🟡 hình tròn  ",
+      "asset_ids": [
+        "u03_yellow_circle"
+      ]
+    },
+    {
+      "line": 494,
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "item": "",
+      "source_text": "🟩 hình vuông  ",
+      "asset_ids": [
+        "u03_green_square"
+      ]
+    },
+    {
+      "line": 497,
+      "challenge": 5,
+      "section": "3. Shape + color production",
+      "item": "",
+      "source_text": "🩷 hình trái tim  ",
+      "asset_ids": [
+        "u03_pink_heart"
+      ]
+    },
+    {
+      "line": 502,
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "item": "",
+      "source_text": "⭐",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 507,
+      "challenge": 5,
+      "section": "4. Hỏi – đáp không hint",
+      "item": "",
+      "source_text": "◆",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 550,
+      "challenge": 5,
+      "section": "8. E–H Phonics Production",
+      "item": "",
+      "source_text": "- E e → **egg** 🥚",
+      "asset_ids": [
+        "u03_egg"
+      ]
+    },
+    {
+      "line": 551,
+      "challenge": 5,
+      "section": "8. E–H Phonics Production",
+      "item": "",
+      "source_text": "- F f → **fish** 🐟",
+      "asset_ids": [
+        "u03_fish"
+      ]
+    },
+    {
+      "line": 552,
+      "challenge": 5,
+      "section": "8. E–H Phonics Production",
+      "item": "",
+      "source_text": "- G g → **gorilla** 🦍",
+      "asset_ids": [
+        "u03_gorilla"
+      ]
+    },
+    {
+      "line": 553,
+      "challenge": 5,
+      "section": "8. E–H Phonics Production",
+      "item": "",
+      "source_text": "- H h → **heart** ❤️",
+      "asset_ids": [
+        "u03_heart"
+      ]
+    },
+    {
+      "line": 565,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "### Tình huống 2 — Đoán hình đúng (⭐)",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 570,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "A: Is it a star? ⭐  ",
+      "asset_ids": [
+        "u03_star"
+      ]
+    },
+    {
+      "line": 573,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "### Tình huống 3 — Đoán hình sai (◆)",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 578,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "A: Is it a rectangle? ◆  ",
+      "asset_ids": [
+        "u03_diamond"
+      ]
+    },
+    {
+      "line": 581,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "### Tình huống 4 — Đoán hình kết hợp màu sắc (🩷❤️)",
+      "asset_ids": [
+        "u03_pink_heart"
+      ]
+    },
+    {
+      "line": 586,
+      "challenge": 5,
+      "section": "9. Mini Conversation — Thực hành nói theo mẫu",
+      "item": "",
+      "source_text": "A: Is it a red square? 🩷❤️  ",
+      "asset_ids": [
+        "u03_pink_heart"
+      ]
+    },
+    {
+      "line": 359,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "1. a ________ square",
+      "asset_ids": [
+        "u03_blue_square"
+      ],
+      "note": "Đề xuất context theo C5§3; nguồn chưa gắn hình tại đây."
+    },
+    {
+      "line": 360,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "2. a ________ heart",
+      "asset_ids": [
+        "u03_purple_heart"
+      ],
+      "note": "Đề xuất context theo C5§3; nguồn chưa gắn hình tại đây."
+    },
+    {
+      "line": 361,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "3. an ________ triangle",
+      "asset_ids": [
+        "u03_orange_triangle"
+      ],
+      "note": "Đề xuất context theo C5§3; nguồn chưa gắn hình tại đây."
+    },
+    {
+      "line": 362,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "4. a ________ circle",
+      "asset_ids": [
+        "u03_yellow_circle"
+      ],
+      "note": "Đề xuất context theo C5§3; nguồn chưa gắn hình tại đây."
+    },
+    {
+      "line": 363,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "5. a ________ square",
+      "asset_ids": [
+        "u03_green_square"
+      ],
+      "note": "Đề xuất context theo C5§3; nguồn chưa gắn hình tại đây."
+    },
+    {
+      "line": 364,
+      "challenge": null,
+      "section": "Context bổ sung / dùng chung",
+      "item": "",
+      "source_text": "6. a ________ heart",
+      "asset_ids": [
+        "u03_pink_heart"
+      ],
+      "note": "Đề xuất context theo C5§3; nguồn chưa gắn hình tại đây."
+    }
+  ],
+  "assets": [
+    {
+      "id": "u03_circle",
+      "brief": "Một hình circle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        76,
+        235,
+        243,
+        247,
+        289,
+        302,
+        464
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+      ],
+      "expected_files": [
+        "webp/u03_circle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_circle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_square",
+      "brief": "Một hình square, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        83,
+        243,
+        290,
+        303,
+        466
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+      ],
+      "expected_files": [
+        "webp/u03_square.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_square.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_triangle",
+      "brief": "Một hình triangle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        90,
+        243,
+        291,
+        307,
+        468
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+      ],
+      "expected_files": [
+        "webp/u03_triangle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_triangle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_heart",
+      "brief": "Một hình heart, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_43"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        97,
+        235,
+        247,
+        292,
+        308,
+        427,
+        470,
+        553
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_43.png"
+      ],
+      "expected_files": [
+        "webp/u03_heart.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_heart.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_star",
+      "brief": "Một hình star, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        104,
+        235,
+        239,
+        258,
+        293,
+        304,
+        346,
+        416,
+        456,
+        472,
+        502,
+        565,
+        570
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+      ],
+      "expected_files": [
+        "webp/u03_star.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_star.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_rectangle",
+      "brief": "Một hình rectangle, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        111,
+        239,
+        247,
+        294,
+        305,
+        474
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+      ],
+      "expected_files": [
+        "webp/u03_rectangle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_rectangle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_diamond",
+      "brief": "Một hình diamond, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        118,
+        235,
+        239,
+        247,
+        264,
+        295,
+        306,
+        349,
+        417,
+        444,
+        476,
+        507,
+        573,
+        578
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+      ],
+      "expected_files": [
+        "webp/u03_diamond.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_diamond.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_oval",
+      "brief": "Một hình oval, hình học chính xác và rõ; màu không phải mục tiêu câu hỏi. Giữ hình dạng/màu cơ bản theo trang Words; diamond là hình thoi, không phải đá quý.",
+      "reference_tracks": [
+        "CD1_47"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        125,
+        239,
+        243,
+        296,
+        309,
+        450,
+        478
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_47.png"
+      ],
+      "expected_files": [
+        "webp/u03_oval.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_oval.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_blue_square",
+      "brief": "Một hình square màu blue thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        162,
+        359,
+        482
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+      ],
+      "expected_files": [
+        "webp/u03_blue_square.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_blue_square.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_purple_heart",
+      "brief": "Một hình heart màu purple thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        169,
+        360,
+        485
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+      ],
+      "expected_files": [
+        "webp/u03_purple_heart.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_purple_heart.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_orange_triangle",
+      "brief": "Một hình triangle màu orange thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        176,
+        361,
+        488
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+      ],
+      "expected_files": [
+        "webp/u03_orange_triangle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_orange_triangle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_yellow_circle",
+      "brief": "Một hình circle màu yellow thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        183,
+        362,
+        491
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+      ],
+      "expected_files": [
+        "webp/u03_yellow_circle.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_yellow_circle.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_green_square",
+      "brief": "Một hình square màu green thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        363,
+        494
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+      ],
+      "expected_files": [
+        "webp/u03_green_square.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_green_square.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_pink_heart",
+      "brief": "Một hình heart màu pink thuần, không vật phụ; giữ cùng nét viền/hình học của bộ Shapes.",
+      "reference_tracks": [
+        "CD1_53",
+        "CD1_54"
+      ],
+      "method": "native_graphic",
+      "note": "",
+      "uses": [
+        364,
+        418,
+        497,
+        581,
+        586
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_53.png",
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_54.png"
+      ],
+      "expected_files": [
+        "webp/u03_pink_heart.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_pink_heart.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_egg",
+      "brief": "Một egg giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.",
+      "reference_tracks": [
+        "CD1_52"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        424,
+        550
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+      ],
+      "expected_files": [
+        "webp/u03_egg.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_egg.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_fish",
+      "brief": "Một fish giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.",
+      "reference_tracks": [
+        "CD1_52"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        425,
+        551
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+      ],
+      "expected_files": [
+        "webp/u03_fish.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_fish.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    },
+    {
+      "id": "u03_gorilla",
+      "brief": "Một gorilla giống phonics E–H; fish là cá sống, gorilla rõ dáng khỉ đột; không chữ.",
+      "reference_tracks": [
+        "CD1_52"
+      ],
+      "method": "crop_or_edit",
+      "note": "",
+      "uses": [
+        426,
+        552
+      ],
+      "references": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\pages\\png\\CD1_52.png"
+      ],
+      "expected_files": [
+        "webp/u03_gorilla.webp"
+      ],
+      "export": {
+        "format": "webp",
+        "size": [
+          512,
+          512
+        ],
+        "quality": 80,
+        "method": 6,
+        "target_bytes": 61440,
+        "png_optional": true
+      },
+      "existing_challenge_files": [
+        "E:\\let-go-series\\Let_s Go Begin\\Units\\Unit 3 - Shapes - Lesson Pages\\challenge-assets\\webp\\u03_gorilla.webp"
+      ],
+      "status": "existing_dedicated_asset"
+    }
+  ],
+  "context_issues": [
+    "C3§6: hai câu square và hai câu heart trùng dạng; dùng bộ 6 hình của C5§3 theo thứ tự blue square, purple heart, orange triangle, yellow circle, green square, pink heart. Đây là đề xuất nối context dựa trên C5, phải ghi adaptation_notes."
+  ]
+}

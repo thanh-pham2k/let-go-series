@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-10",
+  "units": [
+    {
+      "unit": 1,
+      "topic": "Toys",
+      "required": 8,
+      "conditional": 0,
+      "visual_occurrences": 41,
+      "sections": 20
+    },
+    {
+      "unit": 2,
+      "topic": "Colors",
+      "required": 19,
+      "conditional": 0,
+      "visual_occurrences": 69,
+      "sections": 26
+    },
+    {
+      "unit": 3,
+      "topic": "Shapes",
+      "required": 17,
+      "conditional": 0,
+      "visual_occurrences": 78,
+      "sections": 26
+    },
+    {
+      "unit": 4,
+      "topic": "Numbers",
+      "required": 18,
+      "conditional": 0,
+      "visual_occurrences": 38,
+      "sections": 25
+    },
+    {
+      "unit": 5,
+      "topic": "Animals",
+      "required": 20,
+      "conditional": 0,
+      "visual_occurrences": 66,
+      "sections": 26
+    },
+    {
+      "unit": 6,
+      "topic": "Food",
+      "required": 15,
+      "conditional": 0,
+      "visual_occurrences": 55,
+      "sections": 26
+    },
+    {
+      "unit": 7,
+      "topic": "My Body",
+      "required": 15,
+      "conditional": 0,
+      "visual_occurrences": 54,
+      "sections": 27
+    },
+    {
+      "unit": 8,
+      "topic": "Abilities",
+      "required": 17,
+      "conditional": 0,
+      "visual_occurrences": 58,
+      "sections": 28
+    }
+  ],
+  "required": 129,
+  "conditional": 0,
+  "checks": {
+    "unit_count": 8,
+    "unique_asset_ids": 129,
+    "unmapped_visual_marker_lines": 0,
+    "dangling_asset_ids": 0,
+    "all_reference_images_exist": true,
+    "all_assets_have_source_evidence": true
+  },
+  "limitations": [
+    "Counts describe planned dedicated assets, not images already generated.",
+    "Marker coverage is not proof that every exercise has unambiguous pedagogy; see context_issues.",
+    "Same visual is reused within a Unit. Cross-unit IDs may have the same noun, but distinct source artwork/context; reuse immutable lesson art where safe. Do not create another asset per exercise."
+  ]
+}

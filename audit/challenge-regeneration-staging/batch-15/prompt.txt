@@ -1,0 +1,14 @@
+Use case: illustration-story. Create ONE regenerated educational illustration master sheet. References are style/object-design guides only; discard labels. EXACTLY 4 columns x 3 rows, equal square cells on white, landscape 4:3, largest supported resolution, straight white gutters, NO drawn grid borders. Bright Let's Go Begin 2D textbook cartoon, clean bold outlines and soft shading; consistent objects, child design/clothes across cards. Entire subjects visible with 10% safe white margins. No text, labels, letters, numbers, watermarks, answer hints, or objects crossing cells. EXACT quantities/actions/colors as specified. Uniform color swatches use textured square paint patch. Empty slots remain white.
+EXACT quantities: row1 blue diamonds5 (3+2), blue diamonds6 (3+3), blue diamonds7 (3+2+2), RED filled circles5 (3+2); row2 PURPLE horizontal ovals7 (3+2+2), ONE golden orange tabby cat white muzzle/paws, THREE same cats (2+1) separated fully visible, FOUR same cats (2+2). row3 ONE warm brown rabbit white tail, TWO same rabbits side-by-side, FIVE same rabbits (3+2), ONE white soft-serve icecream waffle cone. All repeated species same colors/design; no extra cat/rabbit in background, no numerals. Keep groups within 80% cell extents with large white gutters.
+Row 1, column 1: Đúng 5 hình thoi ◆, không đá quý, không số/nhãn
+Row 1, column 2: Đúng 6 hình thoi ◆, không đá quý, không số/nhãn
+Row 1, column 3: Đúng 7 hình thoi ◆, không đá quý, không số/nhãn
+Row 1, column 4: Đúng 5 hình tròn, nhóm nguồn 3b
+Row 2, column 1: Đúng 7 oval, nhóm nguồn 4b
+Row 2, column 2: Đúng 1 mèo; biến thể luyện số ít, không gán vào nhóm nguồn
+Row 2, column 3: Đúng 3 mèo, nhóm 1a
+Row 2, column 4: Đúng 4 mèo, nhóm 1b
+Row 3, column 1: Đúng 1 thỏ; biến thể luyện số ít
+Row 3, column 2: Đúng 2 thỏ, nhóm 2a
+Row 3, column 3: Đúng 5 thỏ, nhóm 2b
+Row 3, column 4: Kem 3a

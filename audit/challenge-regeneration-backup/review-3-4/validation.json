@@ -1,0 +1,63 @@
+{
+  "required": 27,
+  "complete": 27,
+  "missing": [],
+  "conditional": [],
+  "questions": 96,
+  "mapped_visual_questions": 61,
+  "unresolved_context": [],
+  "all_dimensions_512": true,
+  "unique_hashes": 27,
+  "over_60kb": [],
+  "min_bytes": 904,
+  "max_bytes": 22372,
+  "total_bytes": 202320,
+  "visual_reviewed_ids": [
+    "r34_circle",
+    "r34_square",
+    "r34_star",
+    "r34_heart",
+    "r34_triangle",
+    "r34_diamond",
+    "r34_oval",
+    "r34_walk",
+    "r34_run",
+    "r34_go",
+    "r34_stop",
+    "r34_take_out_pencil",
+    "r34_put_away_pencil",
+    "r34_open_book",
+    "r34_close_book",
+    "r34_triangles_02",
+    "r34_triangles_03",
+    "r34_triangles_04",
+    "r34_triangles_05",
+    "r34_triangles_06",
+    "r34_triangles_07",
+    "r34_diamonds_04",
+    "r34_diamonds_05",
+    "r34_diamonds_06",
+    "r34_diamonds_07",
+    "r34_circles_05",
+    "r34_ovals_07"
+  ],
+  "methods": {
+    "crop": 8,
+    "native_graphic": 19,
+    "imagegen": 0
+  },
+  "mapping_links_exist": true,
+  "root_final_audit": {
+    "card_count": 27,
+    "all_individual_visual_reviews_pass": true,
+    "all_dimensions": [
+      512,
+      512
+    ],
+    "all_links_exist": true,
+    "max_bytes": 22372,
+    "over_60kb": [],
+    "unique_hashes": 27,
+    "contact_sheet_regenerated_from_final_webps": true
+  }
+}

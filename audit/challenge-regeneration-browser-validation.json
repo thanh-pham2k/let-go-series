@@ -1,0 +1,130 @@
+{
+  "status": "pass",
+  "pages": [
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 15,
+      "debugLabelsVisible": 0,
+      "images": 23,
+      "teacherOpen": 0,
+      "title": "Review 1-2 — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 14,
+      "debugLabelsVisible": 0,
+      "images": 32,
+      "teacherOpen": 0,
+      "title": "Review 3-4 — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 15,
+      "debugLabelsVisible": 0,
+      "images": 24,
+      "teacherOpen": 0,
+      "title": "Review 5-6 — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 12,
+      "debugLabelsVisible": 0,
+      "images": 32,
+      "teacherOpen": 0,
+      "title": "Review 7-8 — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 18,
+      "debugLabelsVisible": 0,
+      "images": 21,
+      "teacherOpen": 0,
+      "title": "Unit 1 — Toys — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 14,
+      "debugLabelsVisible": 0,
+      "images": 24,
+      "teacherOpen": 0,
+      "title": "Unit 2 — Colors — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 2,
+      "broken": [],
+      "choices": 16,
+      "debugLabelsVisible": 0,
+      "images": 26,
+      "teacherOpen": 0,
+      "title": "Unit 3 — Shapes — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 3,
+      "broken": [],
+      "choices": 9,
+      "debugLabelsVisible": 0,
+      "images": 23,
+      "teacherOpen": 0,
+      "title": "Unit 4 — Numbers — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 3,
+      "broken": [],
+      "choices": 11,
+      "debugLabelsVisible": 0,
+      "images": 28,
+      "teacherOpen": 0,
+      "title": "Unit 5 — Animals — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 7,
+      "broken": [],
+      "choices": 12,
+      "debugLabelsVisible": 0,
+      "images": 28,
+      "teacherOpen": 0,
+      "title": "Unit 6 — Food — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 4,
+      "broken": [],
+      "choices": 20,
+      "debugLabelsVisible": 0,
+      "images": 26,
+      "teacherOpen": 0,
+      "title": "Unit 7 — My Body — Challenge preview"
+    },
+    {
+      "badDimensions": [],
+      "blanks": 4,
+      "broken": [],
+      "choices": 20,
+      "debugLabelsVisible": 0,
+      "images": 28,
+      "teacherOpen": 0,
+      "title": "Unit 8 — Abilities — Challenge preview"
+    }
+  ],
+  "interaction": {
+    "blankValue": "test",
+    "choiceChecked": true,
+    "teacherOpen": 0
+  }
+}

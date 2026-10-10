@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-10",
+  "reviews": [
+    {
+      "review": "1-2",
+      "assets": 17,
+      "questions": 83,
+      "visual_questions": 51,
+      "all_questions_have_record": true,
+      "unmapped_visual_questions": 0,
+      "all_references_exist": true,
+      "status": "missing_dedicated_challenge_assets_and_mapping"
+    },
+    {
+      "review": "3-4",
+      "assets": 27,
+      "questions": 96,
+      "visual_questions": 57,
+      "all_questions_have_record": true,
+      "unmapped_visual_questions": 0,
+      "all_references_exist": true,
+      "status": "missing_dedicated_challenge_assets_and_mapping"
+    },
+    {
+      "review": "5-6",
+      "assets": 19,
+      "questions": 88,
+      "visual_questions": 56,
+      "all_questions_have_record": true,
+      "unmapped_visual_questions": 0,
+      "all_references_exist": true,
+      "status": "missing_dedicated_challenge_assets_and_mapping"
+    },
+    {
+      "review": "7-8",
+      "assets": 19,
+      "questions": 97,
+      "visual_questions": 60,
+      "all_questions_have_record": true,
+      "unmapped_visual_questions": 0,
+      "all_references_exist": true,
+      "status": "missing_dedicated_challenge_assets_and_mapping"
+    }
+  ],
+  "total_assets": 82
+}

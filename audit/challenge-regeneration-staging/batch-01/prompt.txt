@@ -1,0 +1,13 @@
+Use case: illustration-story. Regenerate reference artwork into ONE new educational master sheet. Reference images are style and object design guides only; remove all their labels. Landscape 4:3 canvas, largest supported resolution. EXACT 4 columns by 3 rows of square white cells; equal cells with white gutters. Clean bright 2D textbook cartoon, consistent bold outlines, gentle soft shading, full subjects centered with 10% safe white margin. No text, numbers, labels, borders, watermarks, or cross-cell objects. Row1 ball orange/blue/purple; rope white with orange-green handles; yoyo purple with yellow spiral; bicycle red. Row2 train blue engine red wheels orange carriage; car orange; doll pink dress curly brown hair red bow; teddy brown blue bow. Row3 four uniform square paint swatches red, blue, yellow, green. EACH CELL as follows:
+Row 1, column 1: Một quả bóng; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 1, column 2: Một dây nhảy với hai tay cầm; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 1, column 3: Một yo-yo, dây rõ; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 1, column 4: Một xe đạp đủ hai bánh; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 2, column 1: Một tàu hỏa đồ chơi; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 2, column 2: Một ô tô đồ chơi; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 2, column 3: Một búp bê; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 2, column 4: Một gấu bông; giữ thiết kế/màu của hình từ vựng Unit 1, không có người hoặc món khác.
+Row 3, column 1: Mảng màu red, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 3, column 2: Mảng màu blue, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 3, column 3: Mảng màu yellow, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.
+Row 3, column 4: Mảng màu green, cùng hình dạng/kích thước với 9 mảng còn lại; màu trắng có viền xám mảnh để nhìn được trên nền trắng.

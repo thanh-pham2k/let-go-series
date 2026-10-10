@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-10",
+  "authorization": "User asked assistant to decide to remove ambiguity.",
+  "decisions": [
+    {
+      "unit": 6,
+      "question_line": 273,
+      "cue_line": 273,
+      "asset_id": "u06_cake",
+      "asset_ids": [
+        "u06_cake"
+      ],
+      "expected_answer": "cake",
+      "accepted_answers": [
+        "cake"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "3. I like ________."
+    },
+    {
+      "unit": 6,
+      "question_line": 274,
+      "cue_line": 274,
+      "asset_id": "u06_milk",
+      "asset_ids": [
+        "u06_milk"
+      ],
+      "expected_answer": "milk",
+      "accepted_answers": [
+        "milk"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "4. Do you like ________?"
+    },
+    {
+      "unit": 6,
+      "question_line": 275,
+      "cue_line": 275,
+      "asset_id": "u06_fish",
+      "asset_ids": [
+        "u06_fish"
+      ],
+      "expected_answer": "fish",
+      "accepted_answers": [
+        "fish"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "5. Do you like ________?"
+    },
+    {
+      "unit": 6,
+      "question_line": 276,
+      "cue_line": 276,
+      "asset_id": "u06_ice_cream",
+      "asset_ids": [
+        "u06_ice_cream"
+      ],
+      "expected_answer": "ice cream",
+      "accepted_answers": [
+        "ice cream"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "6. I like ________."
+    },
+    {
+      "unit": 7,
+      "question_line": 308,
+      "cue_line": 309,
+      "asset_id": "u07_touch_head",
+      "asset_ids": [
+        "u07_touch_head"
+      ],
+      "expected_answer": "head",
+      "accepted_answers": [
+        "head"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "B: I can touch my ____________________."
+    },
+    {
+      "unit": 7,
+      "question_line": 311,
+      "cue_line": 312,
+      "asset_id": "u07_touch_eyes",
+      "asset_ids": [
+        "u07_touch_eyes"
+      ],
+      "expected_answer": "eyes",
+      "accepted_answers": [
+        "eyes"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "B: I can touch my ____________________."
+    },
+    {
+      "unit": 8,
+      "question_line": 390,
+      "cue_line": 390,
+      "asset_id": "u08_make_circle",
+      "asset_ids": [
+        "u08_make_circle"
+      ],
+      "expected_answer": "circle",
+      "accepted_answers": [
+        "circle"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "5. Make a ________."
+    },
+    {
+      "unit": 8,
+      "question_line": 391,
+      "cue_line": 391,
+      "asset_id": "u08_make_line",
+      "asset_ids": [
+        "u08_make_line"
+      ],
+      "expected_answer": "line",
+      "accepted_answers": [
+        "line"
+      ],
+      "image_required": true,
+      "needs_context": false,
+      "adaptation_applied": true,
+      "adaptation_notes": "User authorized assistant to choose a fixed cue/answer; existing image reused, original question stem preserved.",
+      "learner_prompt": "6. Make a ________."
+    }
+  ]
+}

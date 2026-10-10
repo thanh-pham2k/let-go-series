@@ -1,0 +1,658 @@
+{
+  "schema_version": "1.0",
+  "review": "1-2",
+  "purpose": "Challenge 1-5 image assets",
+  "source_markdown": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2(3).md",
+  "inventory": "E:\\let-go-series\\parallel-prompts\\challenge-images\\review-1-2.inventory.json",
+  "lesson_folder": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages",
+  "scope": "Only Review 1-2 - Lesson Pages/challenge-assets",
+  "generated_at": "2026-10-10",
+  "assets": [
+    {
+      "id": "r12_car",
+      "brief": "toy car",
+      "file": "webp/r12_car.webp",
+      "png_master": "png/r12_car.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        75,
+        250,
+        400,
+        485
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 25680,
+      "sha256": "130ea9bc5b27656e9b4183b2791092dcbeaaa52b1ae2af7eee529255f35db63b",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full car isolated; removed neighboring train and source marks",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "130ea9bc5b27656e9b4183b2791092dcbeaaa52b1ae2af7eee529255f35db63b",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_train",
+      "brief": "toy train",
+      "file": "webp/r12_train.webp",
+      "png_master": "png/r12_train.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        320,
+        205,
+        660,
+        485
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 36108,
+      "sha256": "5372f8d5d213b52e2ed6bebd8399655a960694d9bfc45cb5a503c687cec7c3e8",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full rear car and locomotive restored; removed neighboring car and source marks",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "5372f8d5d213b52e2ed6bebd8399655a960694d9bfc45cb5a503c687cec7c3e8",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_bicycle",
+      "brief": "bicycle",
+      "file": "webp/r12_bicycle.webp",
+      "png_master": "png/r12_bicycle.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        610,
+        245,
+        970,
+        485
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 33214,
+      "sha256": "3d7b65e0b8218dee2f4877cff35e36c353bc9b63b5a87fe5c6700db6cb8d8925",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full left handlebar and wheels restored; removed source marks",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "3d7b65e0b8218dee2f4877cff35e36c353bc9b63b5a87fe5c6700db6cb8d8925",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_ball",
+      "brief": "toy ball",
+      "file": "webp/r12_ball.webp",
+      "png_master": "png/r12_ball.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        955,
+        245,
+        1195,
+        470
+      ],
+      "provenance": "crop_from_lesson",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 8148,
+      "sha256": "03bd9b310eecb60406b895adb2a90ac8098af1ce4404e8f735004101c27362ed",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "wider clean crop; full left edge retained",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "03bd9b310eecb60406b895adb2a90ac8098af1ce4404e8f735004101c27362ed",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_green",
+      "brief": "green color swatch",
+      "file": "webp/r12_green.webp",
+      "png_master": "png/r12_green.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        80,
+        545,
+        380,
+        770
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 7484,
+      "sha256": "dbdd8df624e9436222909a5568219d0c3f17adb4399bd4acfcaa03846b871a90",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full swatch restored; removed question marker",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "dbdd8df624e9436222909a5568219d0c3f17adb4399bd4acfcaa03846b871a90",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_red",
+      "brief": "red color swatch",
+      "file": "webp/r12_red.webp",
+      "png_master": "png/r12_red.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        365,
+        545,
+        640,
+        740
+      ],
+      "provenance": "crop_from_lesson",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 3206,
+      "sha256": "184a6a57281dbb066a451a05772d253a5dddc1707e3209e4117fe20ea422b068",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "wider clean crop; full left edge retained",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "184a6a57281dbb066a451a05772d253a5dddc1707e3209e4117fe20ea422b068",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_purple",
+      "brief": "purple color swatch",
+      "file": "webp/r12_purple.webp",
+      "png_master": "png/r12_purple.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        645,
+        545,
+        945,
+        770
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 6826,
+      "sha256": "83ba028381ed638c290f12eeb4f4df5bf7aa16b82061b2df7a378f1debfb9470",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full swatch restored; removed question marker",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "83ba028381ed638c290f12eeb4f4df5bf7aa16b82061b2df7a378f1debfb9470",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_yellow",
+      "brief": "yellow color swatch",
+      "file": "webp/r12_yellow.webp",
+      "png_master": "png/r12_yellow.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        925,
+        555,
+        1175,
+        745
+      ],
+      "provenance": "crop_from_lesson",
+      "batch": "batches/batch-01-toys-colors.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 2724,
+      "sha256": "8b4de827d23cc4053ff6ef6a4f92e9468b3555d074645e7a0e921d786651786d",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "crop is free of printed labels",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "8b4de827d23cc4053ff6ef6a4f92e9468b3555d074645e7a0e921d786651786d",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_paper",
+      "brief": "single sheet of paper",
+      "file": "webp/r12_paper.webp",
+      "png_master": "png/r12_paper.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png",
+      "source_crop_box": [
+        20,
+        190,
+        435,
+        480
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 8156,
+      "sha256": "e3ebb8360fedd9f9ecc35a9e906dc7a0e688c4f869f6e2c59a283ed7961fc11c",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full sheet bottom and left edges restored; removed heading/number/text",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e3ebb8360fedd9f9ecc35a9e906dc7a0e688c4f869f6e2c59a283ed7961fc11c",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_scissors",
+      "brief": "school scissors",
+      "file": "webp/r12_scissors.webp",
+      "png_master": "png/r12_scissors.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png",
+      "source_crop_box": [
+        440,
+        215,
+        780,
+        465
+      ],
+      "provenance": "crop_from_lesson",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 7274,
+      "sha256": "d158a006b86b034443ef3fd0e8c9bc773bf2a9798deb8f982bd9933a2ea87807",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "wider clean crop; full lower handles retained",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "d158a006b86b034443ef3fd0e8c9bc773bf2a9798deb8f982bd9933a2ea87807",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_glue",
+      "brief": "pointed glue bottle",
+      "file": "webp/r12_glue.webp",
+      "png_master": "png/r12_glue.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png",
+      "source_crop_box": [
+        790,
+        180,
+        1115,
+        440
+      ],
+      "provenance": "crop_from_lesson",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 6368,
+      "sha256": "02eefb5575a91037fd73b048caf8696fd2877ed93825c2430120bc9d8cd57406",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "source glue object retained; no cosmetics",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "02eefb5575a91037fd73b048caf8696fd2877ed93825c2430120bc9d8cd57406",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_paint",
+      "brief": "paint jar and brush",
+      "file": "webp/r12_paint.webp",
+      "png_master": "png/r12_paint.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png",
+      "source_crop_box": [
+        75,
+        525,
+        500,
+        710
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 8744,
+      "sha256": "1d499dc1170e94d2b26b81833d74d301d9a6cc27a450fd2082196f7b4bd4499c",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "edited with built-in image_gen to remove the printed word Red and source markers",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1d499dc1170e94d2b26b81833d74d301d9a6cc27a450fd2082196f7b4bd4499c",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_tape",
+      "brief": "green tape dispenser",
+      "file": "webp/r12_tape.webp",
+      "png_master": "png/r12_tape.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_37.png",
+      "source_crop_box": [
+        720,
+        525,
+        1085,
+        705
+      ],
+      "provenance": "crop_from_lesson",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 7300,
+      "sha256": "43a4702fda1ba1cc0dacdfb94911e965963a8b3610b97be74ca89b3f80d36eaa",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "source tape object retained; no tissue roll",
+      "creation_method": "crop_from_lesson",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "43a4702fda1ba1cc0dacdfb94911e965963a8b3610b97be74ca89b3f80d36eaa",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_stand_up",
+      "brief": "child standing up beside chair",
+      "file": "webp/r12_stand_up.webp",
+      "png_master": "png/r12_stand_up.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        115,
+        800,
+        350,
+        1090
+      ],
+      "provenance": "crop_and_mask",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 6596,
+      "sha256": "1eb9280ac05788857d51d7eda4ae1537605244703e7080941626937949275788",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "masked source question marker outside the action",
+      "creation_method": "crop_and_mask",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "1eb9280ac05788857d51d7eda4ae1537605244703e7080941626937949275788",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_sit_down",
+      "brief": "child sitting down beside chair",
+      "file": "webp/r12_sit_down.webp",
+      "png_master": "png/r12_sit_down.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        360,
+        780,
+        660,
+        1105
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 13272,
+      "sha256": "74bc67c3a21331b8c809d0c76ac6915604d81f56b005556f42990975af42e3e4",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full head/hair and body restored; removed source markers",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "74bc67c3a21331b8c809d0c76ac6915604d81f56b005556f42990975af42e3e4",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_come_here",
+      "brief": "child walking toward a teacher who is calling",
+      "file": "webp/r12_come_here.webp",
+      "png_master": "png/r12_come_here.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        675,
+        815,
+        930,
+        1080
+      ],
+      "provenance": "crop_and_mask",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 9180,
+      "sha256": "e76747044d4ca16c52f0ad54345c1a2928efd551b303532aa19cf76bd3868413",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "removed source marker; teacher and direction cue retained",
+      "creation_method": "crop_and_mask",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "e76747044d4ca16c52f0ad54345c1a2928efd551b303532aa19cf76bd3868413",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    },
+    {
+      "id": "r12_turn_around",
+      "brief": "child turning around with curved motion cue",
+      "file": "webp/r12_turn_around.webp",
+      "png_master": "png/r12_turn_around.png",
+      "source_file": "E:\\let-go-series\\Let_s Go Begin\\Units\\Review 1-2 - Lesson Pages\\pages\\png\\CD1_36.png",
+      "source_crop_box": [
+        920,
+        775,
+        1195,
+        1105
+      ],
+      "provenance": "built_in_imagegen_edit",
+      "batch": "batches/batch-02-supplies-actions.png",
+      "format": "WEBP",
+      "dimensions": [
+        512,
+        512
+      ],
+      "quality": 80,
+      "method": 6,
+      "file_bytes": 20646,
+      "sha256": "cc44258deccdc8fbf562b2a7fcfecf31ff1344207087e30e3b46e773dfcd7ffa",
+      "visual_review": true,
+      "contains_text": false,
+      "notes": "full body and feet restored; removed source markers",
+      "creation_method": "built_in_imagegen_edit",
+      "creation_log": "batches/imagegen-log.json",
+      "webp_method": 6,
+      "root_visual_review": {
+        "sha256": "cc44258deccdc8fbf562b2a7fcfecf31ff1344207087e30e3b46e773dfcd7ffa",
+        "status": "pass",
+        "notes": "Root viewed all17 originals then individually rechecked 11 repaired finals; whole objects/hair/feet restored with built-in edits or wider crops, no rectangles erase artwork. Other6 unchanged passed."
+      }
+    }
+  ],
+  "batches": [
+    {
+      "id": "batch-01-toys-colors",
+      "file": "batches/batch-01-toys-colors.png",
+      "webp": "batches/batch-01-toys-colors.webp",
+      "ids": [
+        "r12_car",
+        "r12_train",
+        "r12_bicycle",
+        "r12_ball",
+        "r12_green",
+        "r12_red",
+        "r12_purple",
+        "r12_yellow"
+      ],
+      "layout": "4x2"
+    },
+    {
+      "id": "batch-02-supplies-actions",
+      "file": "batches/batch-02-supplies-actions.png",
+      "webp": "batches/batch-02-supplies-actions.webp",
+      "ids": [
+        "r12_paper",
+        "r12_scissors",
+        "r12_glue",
+        "r12_paint",
+        "r12_tape",
+        "r12_stand_up",
+        "r12_sit_down",
+        "r12_come_here",
+        "r12_turn_around"
+      ],
+      "layout": "4x3 with 9 occupied cells"
+    }
+  ],
+  "question_count": 83,
+  "required_question_count": 51,
+  "source_question_ids_match_inventory": true,
+  "notes": [
+    "All 17 required assets are represented once; repeated questions reuse these IDs.",
+    "Crops preserve come here in 6a and keep toy/color pairs as separate visual assets.",
+    "No audio or lesson source files were changed."
+  ],
+  "production_summary": {
+    "crop_count": 8,
+    "edited_with_built_in_imagegen": 9,
+    "native_graphic_count": 0,
+    "composite_count": 0,
+    "new_ai_generation_count": 0,
+    "context_open": [],
+    "missing_required_assets": []
+  },
+  "root_final_audit": {
+    "all_cards_individually_reviewed": true,
+    "file_hashes_bound_to_reviews": true,
+    "webp_quality": 80,
+    "webp_method": 6,
+    "source_lessons_unchanged": true
+  }
+}

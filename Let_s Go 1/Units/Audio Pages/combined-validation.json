@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "track_count": 196,
+  "groups": 50,
+  "grouped_tracks": 141,
+  "standalone_tracks": 55,
+  "unique_active_images": 105,
+  "active_image_bytes": 5364572,
+  "checks": [
+    "All 50 semantically mapped illustration/model groups share one image across all related tracks",
+    "No activity groups cross a source page or section; no track belongs to two groups",
+    "All composed panels fit fully within the output canvas",
+    "Original single images and PNG crops are accessible",
+    "All per-track regenerated paths alias their whole activity image",
+    "196 global/local image mappings and 186 original audio hashes verified",
+    "12 preview scripts pass syntax checks; groups expose ordered audio playlists",
+    "ZIP contains exactly the unique active images and matching bytes"
+  ],
+  "limitations": "Composes the previously accepted regenerated artwork without redrawing it; existing AI text/detail differences may remain.",
+  "visual_review": {
+    "composites_reviewed": 50,
+    "contact_sheets": 9,
+    "reviewed_final_version": true
+  },
+  "browser_review": [
+    "CD1_11 to CD1_12 changes audio but retains combined image",
+    "Group playback button begins with CD1_11 and starts audio successfully"
+  ],
+  "playback_validation": "combined-playback-validation.json"
+}

@@ -1,0 +1,3358 @@
+{
+  "book": 5,
+  "pages": {
+    "4": {
+      "topic": "Chuẩn bị đồ ăn cho tiệc",
+      "v": [],
+      "s": [
+        [
+          "Is everything ready for the party?",
+          "Mọi thứ cho bữa tiệc đã sẵn sàng chưa?"
+        ],
+        [
+          "I think so.",
+          "Mình nghĩ rồi."
+        ],
+        [
+          "Are there any pretzels?",
+          "Có bánh pretzel không?"
+        ],
+        [
+          "Yes, there are.",
+          "Có."
+        ],
+        [
+          "How many cans are there?",
+          "Có bao nhiêu lon?"
+        ],
+        [
+          "There are ten cans of soda.",
+          "Có mười lon nước ngọt."
+        ],
+        [
+          "Should I bring some cake?",
+          "Mình có nên mang ít bánh ngọt không?"
+        ],
+        [
+          "Yes, that's a good idea.",
+          "Có, đó là ý hay."
+        ]
+      ],
+      "qa": [
+        [
+          "How many cans are there?",
+          "There are ten cans of soda."
+        ],
+        [
+          "Should I bring some cake?",
+          "Yes, that's a good idea."
+        ]
+      ]
+    },
+    "5": {
+      "topic": "Đơn vị chứa đồ ăn",
+      "v": [
+        [
+          "a can of soda",
+          "một lon nước ngọt"
+        ],
+        [
+          "a bag of pretzels",
+          "một túi bánh pretzel"
+        ],
+        [
+          "a box of cookies",
+          "một hộp bánh quy"
+        ],
+        [
+          "a piece of pizza",
+          "một miếng pizza"
+        ],
+        [
+          "a carton of juice",
+          "một hộp nước ép"
+        ],
+        [
+          "a bottle of water",
+          "một chai nước"
+        ],
+        [
+          "a bowl of rice",
+          "một bát cơm"
+        ],
+        [
+          "a cup of tea",
+          "một tách trà"
+        ]
+      ],
+      "s": [
+        [
+          "There is one can of soda.",
+          "Có một lon nước ngọt."
+        ],
+        [
+          "There are two cans of soda.",
+          "Có hai lon nước ngọt."
+        ],
+        [
+          "There isn't any soda.",
+          "Không có nước ngọt."
+        ],
+        [
+          "There aren't any cookies.",
+          "Không có bánh quy."
+        ]
+      ],
+      "qa": []
+    },
+    "6": {
+      "topic": "A little, a few, a lot of",
+      "v": [
+        [
+          "tea",
+          "trà"
+        ],
+        [
+          "pizza",
+          "bánh pizza"
+        ],
+        [
+          "popcorn",
+          "bỏng ngô"
+        ],
+        [
+          "cake",
+          "bánh ngọt"
+        ],
+        [
+          "chicken",
+          "thịt gà"
+        ],
+        [
+          "salad",
+          "xa lát"
+        ],
+        [
+          "oranges",
+          "những quả cam"
+        ],
+        [
+          "pieces of pizza",
+          "những miếng pizza"
+        ],
+        [
+          "sandwiches",
+          "những bánh mì kẹp"
+        ],
+        [
+          "grapes",
+          "nho"
+        ],
+        [
+          "bottles of water",
+          "những chai nước"
+        ],
+        [
+          "pancakes",
+          "những bánh kếp"
+        ]
+      ],
+      "s": [
+        [
+          "There is a little milk.",
+          "Có một ít sữa."
+        ],
+        [
+          "There is a lot of milk.",
+          "Có nhiều sữa."
+        ],
+        [
+          "There are a few cookies.",
+          "Có một vài bánh quy."
+        ],
+        [
+          "There are a lot of cookies.",
+          "Có nhiều bánh quy."
+        ]
+      ],
+      "qa": []
+    },
+    "7": {
+      "topic": "How much và How many",
+      "v": [],
+      "s": [
+        [
+          "How much rice is there?",
+          "Có bao nhiêu cơm?"
+        ],
+        [
+          "There is a little rice.",
+          "Có một ít cơm."
+        ],
+        [
+          "There is a lot of rice.",
+          "Có nhiều cơm."
+        ],
+        [
+          "How many bananas are there?",
+          "Có bao nhiêu quả chuối?"
+        ],
+        [
+          "There are a few bananas.",
+          "Có một vài quả chuối."
+        ],
+        [
+          "There are a lot of bananas.",
+          "Có nhiều quả chuối."
+        ],
+        [
+          "Is there a lot of soda?",
+          "Có nhiều nước ngọt không?"
+        ],
+        [
+          "Are there a lot of pretzels?",
+          "Có nhiều bánh pretzel không?"
+        ]
+      ],
+      "qa": []
+    },
+    "8": {
+      "topic": "Đọc: thức ăn của khủng long",
+      "v": [
+        [
+          "dinosaur",
+          "khủng long"
+        ],
+        [
+          "millions",
+          "hàng triệu"
+        ],
+        [
+          "flat",
+          "phẳng"
+        ],
+        [
+          "plants",
+          "thực vật"
+        ],
+        [
+          "sharp",
+          "sắc nhọn"
+        ],
+        [
+          "meat",
+          "thịt"
+        ]
+      ],
+      "s": [
+        [
+          "They study dinosaur teeth.",
+          "Họ nghiên cứu răng khủng long."
+        ],
+        [
+          "We have flat teeth and sharp teeth.",
+          "Chúng ta có răng phẳng và răng nhọn."
+        ],
+        [
+          "We can eat plants and meat.",
+          "Chúng ta có thể ăn thực vật và thịt."
+        ]
+      ],
+      "qa": [
+        [
+          "How do scientists study dinosaur food?",
+          "They study dinosaur teeth."
+        ],
+        [
+          "What did dinosaurs with sharp teeth eat?",
+          "They ate meat."
+        ],
+        [
+          "What did dinosaurs with flat teeth eat?",
+          "They ate plants."
+        ]
+      ]
+    },
+    "9": {
+      "topic": "Đọc hiểu: khủng long",
+      "v": [
+        [
+          "millions",
+          "hàng triệu"
+        ],
+        [
+          "flat teeth",
+          "răng phẳng"
+        ],
+        [
+          "sharp teeth",
+          "răng sắc nhọn"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "When did dinosaurs live?",
+          "Millions of years ago."
+        ],
+        [
+          "How do scientists study dinosaur food?",
+          "They study dinosaur teeth."
+        ],
+        [
+          "What did dinosaurs with sharp teeth eat?",
+          "They ate meat."
+        ],
+        [
+          "Are there any dinosaurs today in the reading?",
+          "No."
+        ],
+        [
+          "Did some dinosaurs eat both plants and meat?",
+          "Yes."
+        ]
+      ],
+      "note": "Trả lời theo bài đọc trang PDF 8; không mở rộng kiến thức về khủng long ngoài bài."
+    },
+    "10": {
+      "topic": "Lượng ít với danh từ đếm được và không đếm được",
+      "v": [
+        [
+          "birds",
+          "những con chim"
+        ],
+        [
+          "chicken",
+          "thịt gà"
+        ],
+        [
+          "pencils",
+          "những bút chì"
+        ],
+        [
+          "ribbon",
+          "ruy băng"
+        ],
+        [
+          "milk",
+          "sữa"
+        ],
+        [
+          "popcorn",
+          "bỏng ngô"
+        ]
+      ],
+      "s": [
+        [
+          "There are a few birds.",
+          "Có một vài con chim."
+        ],
+        [
+          "There is a little chicken.",
+          "Có một ít thịt gà."
+        ],
+        [
+          "There are a few pencils.",
+          "Có một vài bút chì."
+        ],
+        [
+          "There is a little ribbon.",
+          "Có một ít ruy băng."
+        ]
+      ],
+      "qa": []
+    },
+    "11": {
+      "topic": "So sánh số lượng và lượng",
+      "v": [],
+      "s": [
+        [
+          "There are more cats than dogs.",
+          "Có nhiều mèo hơn chó."
+        ],
+        [
+          "There is more chicken than rice.",
+          "Có nhiều thịt gà hơn cơm."
+        ],
+        [
+          "Are there more dogs than cats?",
+          "Có nhiều chó hơn mèo không?"
+        ],
+        [
+          "No, there aren't.",
+          "Không."
+        ],
+        [
+          "Is there more chicken than rice?",
+          "Có nhiều thịt gà hơn cơm không?"
+        ],
+        [
+          "Yes, there is.",
+          "Có."
+        ]
+      ],
+      "qa": []
+    },
+    "12": {
+      "topic": "So sánh tốc độ; mức độ chắc chắn",
+      "v": [],
+      "s": [
+        [
+          "People walk as fast as elephants.",
+          "Con người đi bộ nhanh bằng voi."
+        ],
+        [
+          "Which animal is faster, a horse or a zebra?",
+          "Con vật nào nhanh hơn, ngựa hay ngựa vằn?"
+        ],
+        [
+          "I'm not sure.",
+          "Mình không chắc."
+        ],
+        [
+          "A horse is faster than a zebra.",
+          "Ngựa nhanh hơn ngựa vằn."
+        ],
+        [
+          "Are you sure?",
+          "Bạn có chắc không?"
+        ],
+        [
+          "Yes, I'm sure.",
+          "Có, mình chắc."
+        ],
+        [
+          "A cat can run as fast as a polar bear.",
+          "Mèo có thể chạy nhanh bằng gấu Bắc Cực."
+        ]
+      ],
+      "qa": [],
+      "note": "Các so sánh động vật được luyện theo lời thoại sách, không yêu cầu kiến thức ngoài bài."
+    },
+    "13": {
+      "topic": "Các động vật và as…as",
+      "v": [
+        [
+          "a rhinoceros",
+          "một con tê giác"
+        ],
+        [
+          "a squirrel",
+          "một con sóc"
+        ],
+        [
+          "a wolf",
+          "một con sói"
+        ],
+        [
+          "a gazelle",
+          "một con linh dương"
+        ],
+        [
+          "a polar bear",
+          "một con gấu Bắc Cực"
+        ],
+        [
+          "a zebra",
+          "một con ngựa vằn"
+        ],
+        [
+          "a jaguar",
+          "một con báo đốm"
+        ],
+        [
+          "a skunk",
+          "một con chồn hôi"
+        ]
+      ],
+      "s": [
+        [
+          "Is a rhinoceros as fast as a polar bear?",
+          "Tê giác có nhanh bằng gấu Bắc Cực không?"
+        ],
+        [
+          "Yes, it is.",
+          "Có."
+        ],
+        [
+          "No, it isn't. It's slower.",
+          "Không. Nó chậm hơn."
+        ]
+      ],
+      "qa": []
+    },
+    "14": {
+      "topic": "More, less, most, least",
+      "v": [
+        [
+          "colorful",
+          "sặc sỡ"
+        ],
+        [
+          "graceful",
+          "duyên dáng"
+        ],
+        [
+          "delicious",
+          "ngon"
+        ],
+        [
+          "expensive",
+          "đắt"
+        ]
+      ],
+      "s": [
+        [
+          "The squirrel is less colorful than the frog.",
+          "Con sóc ít sặc sỡ hơn con ếch."
+        ],
+        [
+          "The squirrel is more colorful than the jaguar.",
+          "Con sóc sặc sỡ hơn con báo đốm."
+        ],
+        [
+          "The frog is the most colorful.",
+          "Con ếch sặc sỡ nhất."
+        ],
+        [
+          "The jaguar is the least colorful.",
+          "Con báo đốm ít sặc sỡ nhất."
+        ]
+      ],
+      "qa": []
+    },
+    "15": {
+      "topic": "Hỏi đối tượng có đặc điểm nhất",
+      "v": [
+        [
+          "the most colorful",
+          "sặc sỡ nhất"
+        ],
+        [
+          "the least colorful",
+          "ít sặc sỡ nhất"
+        ],
+        [
+          "the most graceful",
+          "duyên dáng nhất"
+        ],
+        [
+          "the most delicious",
+          "ngon nhất"
+        ]
+      ],
+      "s": [
+        [
+          "Which animal is the most colorful?",
+          "Con vật nào sặc sỡ nhất?"
+        ],
+        [
+          "The frog is the most colorful.",
+          "Con ếch sặc sỡ nhất."
+        ],
+        [
+          "Which animal is the least colorful?",
+          "Con vật nào ít sặc sỡ nhất?"
+        ],
+        [
+          "The wolf is the least colorful.",
+          "Con sói ít sặc sỡ nhất."
+        ]
+      ],
+      "qa": [
+        [
+          "Which animal is the most colorful?",
+          "The frog is the most colorful."
+        ],
+        [
+          "Which animal is the least colorful?",
+          "The wolf is the least colorful."
+        ]
+      ]
+    },
+    "16": {
+      "topic": "Đọc: đầu máy hơi nước",
+      "v": [
+        [
+          "rode",
+          "đã cưỡi"
+        ],
+        [
+          "pulled",
+          "đã kéo"
+        ],
+        [
+          "built",
+          "đã xây/chế tạo"
+        ],
+        [
+          "steam locomotive",
+          "đầu máy hơi nước"
+        ],
+        [
+          "broke down",
+          "đã hỏng"
+        ]
+      ],
+      "s": [
+        [
+          "Horses pulled the train cars.",
+          "Ngựa kéo các toa tàu."
+        ],
+        [
+          "The horse won the race.",
+          "Con ngựa đã thắng cuộc đua."
+        ]
+      ],
+      "qa": [
+        [
+          "When did Peter Cooper build a steam locomotive?",
+          "In 1830."
+        ],
+        [
+          "Why did the horse win the first race?",
+          "The locomotive broke down."
+        ],
+        [
+          "Who won the next race?",
+          "The steam locomotive."
+        ]
+      ]
+    },
+    "17": {
+      "topic": "Đọc hiểu: ngựa và tàu hỏa",
+      "v": [
+        [
+          "steam locomotive",
+          "đầu máy hơi nước"
+        ],
+        [
+          "broke down",
+          "đã hỏng"
+        ],
+        [
+          "faster",
+          "nhanh hơn"
+        ],
+        [
+          "stronger",
+          "khỏe hơn"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "When did Peter Cooper build a steam locomotive?",
+          "In 1830."
+        ],
+        [
+          "Which was faster, the locomotive or the horse?",
+          "The locomotive."
+        ],
+        [
+          "What does the locomotive broke down mean?",
+          "The locomotive stopped."
+        ],
+        [
+          "Did people ride horses a long time ago?",
+          "Yes."
+        ],
+        [
+          "Did the horse break down in the story?",
+          "No. The locomotive broke down."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 16 để trả lời."
+    },
+    "18": {
+      "topic": "So sánh giá cả, tốc độ, vẻ ngoài",
+      "v": [
+        [
+          "faster",
+          "nhanh hơn"
+        ],
+        [
+          "slower",
+          "chậm hơn"
+        ],
+        [
+          "lighter",
+          "nhẹ hơn"
+        ],
+        [
+          "heavier",
+          "nặng hơn"
+        ],
+        [
+          "more colorful",
+          "sặc sỡ hơn"
+        ],
+        [
+          "less graceful",
+          "ít duyên dáng hơn"
+        ]
+      ],
+      "s": [
+        [
+          "Which is more expensive, a bicycle or a car?",
+          "Cái nào đắt hơn, xe đạp hay ô tô?"
+        ],
+        [
+          "A car is more expensive than a bike.",
+          "Ô tô đắt hơn xe đạp."
+        ],
+        [
+          "Which one is faster?",
+          "Cái nào nhanh hơn?"
+        ],
+        [
+          "The airplane is faster.",
+          "Máy bay nhanh hơn."
+        ]
+      ],
+      "qa": []
+    },
+    "19": {
+      "topic": "Trò chơi so sánh",
+      "v": [
+        [
+          "beautiful",
+          "đẹp"
+        ],
+        [
+          "colorful",
+          "sặc sỡ"
+        ],
+        [
+          "expensive",
+          "đắt"
+        ],
+        [
+          "delicious",
+          "ngon"
+        ]
+      ],
+      "s": [
+        [
+          "The truck is the heaviest.",
+          "Xe tải nặng nhất."
+        ],
+        [
+          "The car is lighter than the truck.",
+          "Ô tô nhẹ hơn xe tải."
+        ],
+        [
+          "The car is the fastest.",
+          "Ô tô nhanh nhất."
+        ],
+        [
+          "Whose turn is it?",
+          "Đến lượt ai?"
+        ],
+        [
+          "Is it my turn?",
+          "Đến lượt mình phải không?"
+        ]
+      ],
+      "qa": []
+    },
+    "20": {
+      "topic": "Review 1–2",
+      "v": [
+        [
+          "a few",
+          "một vài"
+        ],
+        [
+          "a little",
+          "một ít"
+        ],
+        [
+          "more colorful",
+          "sặc sỡ hơn"
+        ],
+        [
+          "less expensive",
+          "ít đắt hơn"
+        ]
+      ],
+      "s": [
+        [
+          "How much rice is there?",
+          "Có bao nhiêu cơm?"
+        ],
+        [
+          "How many bananas are there?",
+          "Có bao nhiêu quả chuối?"
+        ],
+        [
+          "Which animal is the most colorful?",
+          "Con vật nào sặc sỡ nhất?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn Unit 1–2 qua hình; không suy đoán đáp án nghe gốc."
+    },
+    "21": {
+      "topic": "Read: The Birthday Mess",
+      "v": [
+        [
+          "mess",
+          "sự bừa bộn"
+        ],
+        [
+          "barks",
+          "sủa"
+        ],
+        [
+          "handprints",
+          "những dấu bàn tay"
+        ]
+      ],
+      "s": [
+        [
+          "Happy Birthday, Annie!",
+          "Chúc mừng sinh nhật Annie!"
+        ],
+        [
+          "Who made the mess?",
+          "Ai đã làm bừa bộn?"
+        ],
+        [
+          "I don’t know.",
+          "Mình không biết."
+        ],
+        [
+          "They’re smaller than handprints.",
+          "Chúng nhỏ hơn dấu bàn tay."
+        ]
+      ],
+      "qa": [
+        [
+          "Whose cake was it?",
+          "It was Annie's cake."
+        ],
+        [
+          "Who came to wish Annie a happy birthday?",
+          "Ken and Lisa."
+        ],
+        [
+          "Where are the small prints?",
+          "In the cake and on the table."
+        ]
+      ]
+    },
+    "22": {
+      "topic": "Kể về cuối tuần",
+      "v": [],
+      "s": [
+        [
+          "How was your weekend?",
+          "Cuối tuần của bạn thế nào?"
+        ],
+        [
+          "It was great. How was yours?",
+          "Rất tuyệt. Còn của bạn thì sao?"
+        ],
+        [
+          "It was pretty good.",
+          "Khá tốt."
+        ],
+        [
+          "My brother and I went for a bike ride.",
+          "Anh/em trai mình và mình đã đi xe đạp."
+        ],
+        [
+          "We went by ourselves.",
+          "Chúng mình tự đi."
+        ],
+        [
+          "I went by myself.",
+          "Mình tự đi một mình."
+        ]
+      ],
+      "qa": []
+    },
+    "23": {
+      "topic": "Hoạt động cuối tuần",
+      "v": [
+        [
+          "go for a walk",
+          "đi dạo"
+        ],
+        [
+          "go for a bike ride",
+          "đi đạp xe"
+        ],
+        [
+          "go for a swim",
+          "đi bơi"
+        ],
+        [
+          "go bowling",
+          "đi chơi bowling"
+        ],
+        [
+          "go shopping",
+          "đi mua sắm"
+        ],
+        [
+          "go skating",
+          "đi trượt pa-tanh"
+        ]
+      ],
+      "s": [
+        [
+          "What did they do on the weekend?",
+          "Họ đã làm gì vào cuối tuần?"
+        ],
+        [
+          "They went for a bike ride.",
+          "Họ đã đi đạp xe."
+        ],
+        [
+          "How was your weekend?",
+          "Cuối tuần của bạn thế nào?"
+        ]
+      ],
+      "qa": []
+    },
+    "24": {
+      "topic": "Quá khứ tiếp diễn",
+      "v": [
+        [
+          "skateboarding",
+          "đang trượt ván"
+        ],
+        [
+          "hiking",
+          "đang đi bộ đường dài"
+        ],
+        [
+          "taking pictures",
+          "đang chụp ảnh"
+        ],
+        [
+          "playing volleyball",
+          "đang chơi bóng chuyền"
+        ],
+        [
+          "running",
+          "đang chạy"
+        ],
+        [
+          "walking the dogs",
+          "đang dắt chó đi dạo"
+        ]
+      ],
+      "s": [
+        [
+          "What was he doing?",
+          "Lúc đó cậu ấy đang làm gì?"
+        ],
+        [
+          "He was skateboarding.",
+          "Lúc đó cậu ấy đang trượt ván."
+        ],
+        [
+          "They were walking the dogs.",
+          "Lúc đó họ đang dắt chó đi dạo."
+        ]
+      ],
+      "qa": []
+    },
+    "25": {
+      "topic": "Hỏi hành động đang diễn ra trong quá khứ",
+      "v": [
+        [
+          "skateboarding",
+          "đang trượt ván"
+        ],
+        [
+          "hiking",
+          "đang đi bộ đường dài"
+        ],
+        [
+          "taking pictures",
+          "đang chụp ảnh"
+        ],
+        [
+          "playing volleyball",
+          "đang chơi bóng chuyền"
+        ],
+        [
+          "running",
+          "đang chạy"
+        ],
+        [
+          "walking the dogs",
+          "đang dắt chó đi dạo"
+        ]
+      ],
+      "s": [
+        [
+          "What was he doing yesterday?",
+          "Hôm qua lúc đó cậu ấy đang làm gì?"
+        ],
+        [
+          "He was hiking.",
+          "Lúc đó cậu ấy đang đi bộ đường dài."
+        ],
+        [
+          "What were they doing yesterday?",
+          "Hôm qua lúc đó họ đang làm gì?"
+        ],
+        [
+          "They were running.",
+          "Lúc đó họ đang chạy."
+        ],
+        [
+          "Were they running yesterday?",
+          "Hôm qua lúc đó họ đang chạy phải không?"
+        ]
+      ],
+      "qa": [],
+      "note": "Các câu mẫu luyện từ hình và khung câu trên trang, không gán đáp án audio."
+    },
+    "26": {
+      "topic": "Đọc: buổi sáng của Emily",
+      "v": [
+        [
+          "chewing gum",
+          "kẹo cao su"
+        ],
+        [
+          "rang",
+          "đã reo"
+        ],
+        [
+          "slipped",
+          "đã trượt"
+        ],
+        [
+          "too short",
+          "quá ngắn"
+        ],
+        [
+          "haircut",
+          "kiểu tóc"
+        ]
+      ],
+      "s": [
+        [
+          "I had a very bad morning!",
+          "Mình đã có một buổi sáng rất tệ!"
+        ],
+        [
+          "This morning I woke up late.",
+          "Sáng nay mình dậy muộn."
+        ],
+        [
+          "I found gum in my hair!",
+          "Mình thấy kẹo cao su dính trong tóc!"
+        ],
+        [
+          "I like my short hair.",
+          "Mình thích mái tóc ngắn của mình."
+        ]
+      ],
+      "qa": [
+        [
+          "Did Emily wake up early or late?",
+          "She woke up late."
+        ],
+        [
+          "Why did she go to the beauty salon?",
+          "To fix her hair."
+        ],
+        [
+          "Does she like her short hair?",
+          "Yes, she does."
+        ]
+      ]
+    },
+    "27": {
+      "topic": "Đọc hiểu: A Very Bad Morning",
+      "v": [
+        [
+          "too short",
+          "quá ngắn"
+        ],
+        [
+          "haircut",
+          "kiểu tóc"
+        ],
+        [
+          "slipped",
+          "đã trượt"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Did Emily wake up early or late?",
+          "She woke up late."
+        ],
+        [
+          "Why did the scissors slip?",
+          "The phone rang. It surprised her, and she jumped."
+        ],
+        [
+          "Does Emily like her haircut?",
+          "Yes, she does."
+        ],
+        [
+          "Did Emily jump before the phone rang?",
+          "No. She jumped after it rang."
+        ],
+        [
+          "Was Emily studying last night?",
+          "Yes."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 26 để trả lời."
+    },
+    "28": {
+      "topic": "Hành động trong quá khứ theo giờ",
+      "v": [
+        [
+          "wake up",
+          "thức dậy"
+        ],
+        [
+          "get dressed",
+          "mặc quần áo"
+        ],
+        [
+          "eat breakfast",
+          "ăn sáng"
+        ],
+        [
+          "brush his teeth",
+          "đánh răng"
+        ],
+        [
+          "sleep",
+          "ngủ"
+        ],
+        [
+          "drink juice",
+          "uống nước ép"
+        ],
+        [
+          "leave for school",
+          "đi học"
+        ]
+      ],
+      "s": [
+        [
+          "What were they doing?",
+          "Lúc đó chúng đang làm gì?"
+        ],
+        [
+          "They were skateboarding.",
+          "Lúc đó chúng đang trượt ván."
+        ],
+        [
+          "What was he doing at 7:15 a.m.?",
+          "Lúc 7 giờ 15 sáng cậu ấy đang làm gì?"
+        ],
+        [
+          "He was waking up.",
+          "Cậu ấy đang thức dậy."
+        ]
+      ],
+      "qa": [
+        [
+          "What was he doing at 7:15 a.m.?",
+          "He was waking up."
+        ]
+      ]
+    },
+    "29": {
+      "topic": "Nơi chốn và hành động quá khứ",
+      "v": [
+        [
+          "shopping",
+          "đang mua sắm"
+        ],
+        [
+          "mailing a letter",
+          "đang gửi thư"
+        ],
+        [
+          "playing catch",
+          "đang chơi ném bắt bóng"
+        ],
+        [
+          "renting DVDs",
+          "đang thuê DVD"
+        ],
+        [
+          "borrowing books",
+          "đang mượn sách"
+        ],
+        [
+          "surfing the Internet",
+          "đang lướt Internet"
+        ]
+      ],
+      "s": [
+        [
+          "Where was she this afternoon?",
+          "Chiều nay lúc đó cô ấy ở đâu?"
+        ],
+        [
+          "She was at the department store.",
+          "Cô ấy ở cửa hàng bách hóa."
+        ],
+        [
+          "What was she doing?",
+          "Cô ấy đang làm gì lúc đó?"
+        ],
+        [
+          "She was shopping.",
+          "Cô ấy đang mua sắm."
+        ]
+      ],
+      "qa": []
+    },
+    "30": {
+      "topic": "Quên việc; đại từ trong cụm động từ",
+      "v": [],
+      "s": [
+        [
+          "I think I forgot to do something.",
+          "Mình nghĩ mình đã quên làm gì đó."
+        ],
+        [
+          "Did you forget to put on sunscreen?",
+          "Bạn đã quên bôi kem chống nắng phải không?"
+        ],
+        [
+          "No, I didn't forget. I put it on.",
+          "Không, mình không quên. Mình đã bôi rồi."
+        ],
+        [
+          "Did you turn off the radio?",
+          "Bạn đã tắt đài chưa?"
+        ],
+        [
+          "Yes, I turned it off.",
+          "Rồi, mình đã tắt."
+        ],
+        [
+          "I forgot to take off my watch.",
+          "Mình đã quên tháo đồng hồ."
+        ]
+      ],
+      "qa": []
+    },
+    "31": {
+      "topic": "Các cụm động từ",
+      "v": [
+        [
+          "put on sunscreen",
+          "bôi kem chống nắng"
+        ],
+        [
+          "take off my sandals",
+          "cởi dép xăng đan"
+        ],
+        [
+          "turn on the TV",
+          "bật ti vi"
+        ],
+        [
+          "turn off the radio",
+          "tắt đài"
+        ],
+        [
+          "turn in my homework",
+          "nộp bài tập"
+        ],
+        [
+          "turn up the heat",
+          "tăng nhiệt độ"
+        ],
+        [
+          "turn down the music",
+          "vặn nhỏ nhạc"
+        ],
+        [
+          "clean up the room",
+          "dọn phòng"
+        ]
+      ],
+      "s": [
+        [
+          "Did you turn in your homework?",
+          "Bạn đã nộp bài tập chưa?"
+        ],
+        [
+          "Yes, I turned it in.",
+          "Rồi, mình đã nộp."
+        ],
+        [
+          "No, I didn't turn it in.",
+          "Chưa, mình chưa nộp."
+        ]
+      ],
+      "qa": []
+    },
+    "32": {
+      "topic": "Trạng từ chỉ cách thức",
+      "v": [
+        [
+          "quickly",
+          "nhanh"
+        ],
+        [
+          "slowly",
+          "chậm"
+        ],
+        [
+          "carelessly",
+          "cẩu thả"
+        ],
+        [
+          "carefully",
+          "cẩn thận"
+        ],
+        [
+          "loudly",
+          "to tiếng"
+        ],
+        [
+          "quietly",
+          "khẽ"
+        ],
+        [
+          "well",
+          "giỏi/tốt"
+        ],
+        [
+          "badly",
+          "kém"
+        ]
+      ],
+      "s": [
+        [
+          "He usually walks quickly.",
+          "Cậu ấy thường đi bộ nhanh."
+        ],
+        [
+          "Does he usually speak loudly?",
+          "Cậu ấy thường nói to phải không?"
+        ],
+        [
+          "Yes, he does.",
+          "Đúng."
+        ]
+      ],
+      "qa": []
+    },
+    "33": {
+      "topic": "Hỏi cách thực hiện hoạt động",
+      "v": [
+        [
+          "quickly",
+          "nhanh"
+        ],
+        [
+          "slowly",
+          "chậm"
+        ],
+        [
+          "carelessly",
+          "cẩu thả"
+        ],
+        [
+          "carefully",
+          "cẩn thận"
+        ],
+        [
+          "loudly",
+          "to tiếng"
+        ],
+        [
+          "quietly",
+          "khẽ"
+        ],
+        [
+          "well",
+          "giỏi/tốt"
+        ],
+        [
+          "badly",
+          "kém"
+        ]
+      ],
+      "s": [
+        [
+          "Does he usually speak loudly?",
+          "Cậu ấy thường nói to phải không?"
+        ],
+        [
+          "Yes, he does.",
+          "Đúng."
+        ],
+        [
+          "How do you usually speak?",
+          "Bạn thường nói thế nào?"
+        ],
+        [
+          "How do you usually eat?",
+          "Bạn thường ăn thế nào?"
+        ],
+        [
+          "What do you do well?",
+          "Bạn làm giỏi việc gì?"
+        ]
+      ],
+      "qa": []
+    },
+    "34": {
+      "topic": "Đọc: Personality Quiz",
+      "v": [
+        [
+          "personality",
+          "tính cách"
+        ],
+        [
+          "careful",
+          "cẩn thận"
+        ],
+        [
+          "balanced",
+          "cân bằng"
+        ],
+        [
+          "busy",
+          "bận rộn"
+        ],
+        [
+          "mistakes",
+          "những lỗi sai"
+        ],
+        [
+          "in a hurry",
+          "vội vàng"
+        ]
+      ],
+      "s": [
+        [
+          "I usually eat slowly.",
+          "Mình thường ăn chậm."
+        ],
+        [
+          "I usually do it carefully.",
+          "Mình thường làm việc đó cẩn thận."
+        ],
+        [
+          "It’s usually clean.",
+          "Nó thường sạch sẽ."
+        ],
+        [
+          "I usually write quickly and carelessly.",
+          "Mình thường viết nhanh và cẩu thả."
+        ]
+      ],
+      "qa": [
+        [
+          "How many points does a careful person have in the quiz?",
+          "4 points."
+        ],
+        [
+          "How many points does a busy person have?",
+          "8 points."
+        ]
+      ]
+    },
+    "35": {
+      "topic": "Đọc hiểu: tính cách và thói quen",
+      "v": [
+        [
+          "careful person",
+          "người cẩn thận"
+        ],
+        [
+          "balanced person",
+          "người cân bằng"
+        ],
+        [
+          "busy person",
+          "người bận rộn"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Does a careful person usually eat quickly or slowly?",
+          "Slowly."
+        ],
+        [
+          "What type of person is always in a hurry?",
+          "A busy person."
+        ],
+        [
+          "How does a careful person write?",
+          "Slowly and carefully."
+        ],
+        [
+          "Does a balanced person sometimes make mistakes?",
+          "Yes."
+        ]
+      ],
+      "note": "Dùng bảng kết quả bài đọc trang PDF 34 để trả lời, không dùng làm đánh giá tâm lý."
+    },
+    "36": {
+      "topic": "Trạng từ trong câu",
+      "v": [
+        [
+          "gracefully",
+          "duyên dáng"
+        ],
+        [
+          "colorfully",
+          "sặc sỡ"
+        ],
+        [
+          "tiredly",
+          "mệt mỏi"
+        ],
+        [
+          "beautifully",
+          "hay/đẹp"
+        ]
+      ],
+      "s": [
+        [
+          "She always speaks English very quietly.",
+          "Cô ấy luôn nói tiếng Anh rất khẽ."
+        ],
+        [
+          "I usually speak English very slowly.",
+          "Mình thường nói tiếng Anh rất chậm."
+        ],
+        [
+          "I always listen carefully.",
+          "Mình luôn nghe cẩn thận."
+        ],
+        [
+          "She played the piano beautifully.",
+          "Cô ấy đã chơi piano rất hay."
+        ]
+      ],
+      "qa": []
+    },
+    "37": {
+      "topic": "Ai đã làm; làm tốt việc gì",
+      "v": [
+        [
+          "put away clothes",
+          "cất quần áo"
+        ],
+        [
+          "turn off the TV",
+          "tắt ti vi"
+        ],
+        [
+          "turn up the music",
+          "vặn to nhạc"
+        ],
+        [
+          "clean up the room",
+          "dọn phòng"
+        ],
+        [
+          "put on his jacket",
+          "mặc áo khoác của cậu ấy"
+        ]
+      ],
+      "s": [
+        [
+          "Who turned off the TV?",
+          "Ai đã tắt ti vi?"
+        ],
+        [
+          "She turned it off.",
+          "Cô ấy đã tắt."
+        ],
+        [
+          "Can he ski?",
+          "Cậu ấy có thể trượt tuyết không?"
+        ],
+        [
+          "Yes, he can. He skis well.",
+          "Có. Cậu ấy trượt tuyết giỏi."
+        ]
+      ],
+      "qa": []
+    },
+    "38": {
+      "topic": "Review 3–4",
+      "v": [
+        [
+          "skateboarding",
+          "đang trượt ván"
+        ],
+        [
+          "carefully",
+          "cẩn thận"
+        ],
+        [
+          "quickly",
+          "nhanh"
+        ],
+        [
+          "turn off the radio",
+          "tắt đài"
+        ]
+      ],
+      "s": [
+        [
+          "What was he doing?",
+          "Lúc đó cậu ấy đang làm gì?"
+        ],
+        [
+          "How do you usually eat?",
+          "Bạn thường ăn thế nào?"
+        ],
+        [
+          "Who turned off the TV?",
+          "Ai đã tắt ti vi?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình; không suy đoán đáp án nghe gốc."
+    },
+    "39": {
+      "topic": "Read: The Missing Pin",
+      "v": [
+        [
+          "pin",
+          "ghim cài"
+        ],
+        [
+          "shiny",
+          "sáng bóng"
+        ],
+        [
+          "sparkle",
+          "lấp lánh"
+        ],
+        [
+          "thief",
+          "kẻ lấy trộm"
+        ]
+      ],
+      "s": [
+        [
+          "What does it look like?",
+          "Nó trông thế nào?"
+        ],
+        [
+          "It looks like a little, shiny flower.",
+          "Nó trông như một bông hoa nhỏ sáng bóng."
+        ],
+        [
+          "I can’t find my hair clip.",
+          "Tôi không tìm thấy kẹp tóc."
+        ]
+      ],
+      "qa": [
+        [
+          "Who cannot find her lucky pin?",
+          "Wendy."
+        ],
+        [
+          "Who was in the room with Wendy?",
+          "Mrs. Hamm and the baby, Tony."
+        ],
+        [
+          "Does Tony like shiny, sparkly things?",
+          "Yes, he does."
+        ]
+      ]
+    },
+    "40": {
+      "topic": "Dự đoán nghề nghiệp tương lai",
+      "v": [],
+      "s": [
+        [
+          "What do you think you'll be in the future?",
+          "Bạn nghĩ tương lai bạn sẽ làm nghề gì?"
+        ],
+        [
+          "I think I'll be a tennis player.",
+          "Mình nghĩ mình sẽ là vận động viên quần vợt."
+        ],
+        [
+          "Maybe you'll be an engineer.",
+          "Có thể bạn sẽ là kỹ sư."
+        ],
+        [
+          "I don't think so.",
+          "Mình không nghĩ vậy."
+        ],
+        [
+          "I'm just kidding!",
+          "Mình chỉ đùa thôi!"
+        ],
+        [
+          "I think you'll be a surgeon.",
+          "Mình nghĩ bạn sẽ là bác sĩ phẫu thuật."
+        ]
+      ],
+      "qa": []
+    },
+    "41": {
+      "topic": "Các nghề tương lai",
+      "v": [
+        [
+          "a tennis player",
+          "một vận động viên quần vợt"
+        ],
+        [
+          "a surgeon",
+          "một bác sĩ phẫu thuật"
+        ],
+        [
+          "a designer",
+          "một nhà thiết kế"
+        ],
+        [
+          "a hair stylist",
+          "một nhà tạo mẫu tóc"
+        ],
+        [
+          "an animal trainer",
+          "một người huấn luyện động vật"
+        ],
+        [
+          "a movie director",
+          "một đạo diễn phim"
+        ],
+        [
+          "a lawyer",
+          "một luật sư"
+        ],
+        [
+          "a flight attendant",
+          "một tiếp viên hàng không"
+        ]
+      ],
+      "s": [
+        [
+          "What do you think she'll be?",
+          "Bạn nghĩ cô ấy sẽ làm nghề gì?"
+        ],
+        [
+          "I think she'll be a hair stylist.",
+          "Mình nghĩ cô ấy sẽ là nhà tạo mẫu tóc."
+        ],
+        [
+          "Will Lynn be a lawyer?",
+          "Lynn sẽ là luật sư phải không?"
+        ],
+        [
+          "No, I don't think so.",
+          "Không, mình không nghĩ vậy."
+        ]
+      ],
+      "qa": []
+    },
+    "42": {
+      "topic": "Dự đoán hành động",
+      "v": [
+        [
+          "get wet",
+          "bị ướt"
+        ],
+        [
+          "fall down",
+          "ngã"
+        ],
+        [
+          "sing a song",
+          "hát một bài hát"
+        ],
+        [
+          "score a goal",
+          "ghi bàn"
+        ],
+        [
+          "answer the telephone",
+          "trả lời điện thoại"
+        ],
+        [
+          "make a basket",
+          "ném bóng vào rổ"
+        ]
+      ],
+      "s": [
+        [
+          "She'll get wet.",
+          "Cô ấy sẽ bị ướt."
+        ],
+        [
+          "Will she sing a song?",
+          "Cô ấy sẽ hát một bài hát phải không?"
+        ],
+        [
+          "Yes. She probably will.",
+          "Có. Có lẽ cô ấy sẽ hát."
+        ]
+      ],
+      "qa": []
+    },
+    "43": {
+      "topic": "Will, probably, maybe",
+      "v": [
+        [
+          "get wet",
+          "bị ướt"
+        ],
+        [
+          "fall down",
+          "ngã"
+        ],
+        [
+          "sing a song",
+          "hát một bài hát"
+        ],
+        [
+          "score a goal",
+          "ghi bàn"
+        ],
+        [
+          "answer the telephone",
+          "trả lời điện thoại"
+        ],
+        [
+          "make a basket",
+          "ném bóng vào rổ"
+        ]
+      ],
+      "s": [
+        [
+          "Will she sing a song?",
+          "Cô ấy sẽ hát một bài hát phải không?"
+        ],
+        [
+          "Yes. She probably will.",
+          "Có. Có lẽ cô ấy sẽ hát."
+        ],
+        [
+          "Maybe she will.",
+          "Có thể cô ấy sẽ hát."
+        ],
+        [
+          "No. She won't.",
+          "Không. Cô ấy sẽ không hát."
+        ],
+        [
+          "What will happen next?",
+          "Chuyện gì sẽ xảy ra tiếp theo?"
+        ],
+        [
+          "I think they'll fly a kite.",
+          "Mình nghĩ họ sẽ thả diều."
+        ]
+      ],
+      "qa": []
+    },
+    "44": {
+      "topic": "Đọc: bưu thiếp của Lizzie",
+      "v": [
+        [
+          "Eiffel Tower",
+          "tháp Eiffel"
+        ],
+        [
+          "Paris",
+          "Paris"
+        ],
+        [
+          "London",
+          "Luân Đôn"
+        ],
+        [
+          "Buckingham Palace",
+          "Cung điện Buckingham"
+        ],
+        [
+          "Changing of the Guard",
+          "lễ đổi gác"
+        ],
+        [
+          "guards",
+          "những lính gác"
+        ]
+      ],
+      "s": [
+        [
+          "Yesterday, we went to the Eiffel Tower.",
+          "Hôm qua chúng mình đã đến tháp Eiffel."
+        ],
+        [
+          "Tomorrow, we’ll leave Paris and we’ll go to London.",
+          "Ngày mai chúng mình sẽ rời Paris và đi Luân Đôn."
+        ],
+        [
+          "We went to Buckingham Palace, but we didn’t see the queen.",
+          "Chúng mình đã đến Cung điện Buckingham nhưng không gặp nữ hoàng."
+        ],
+        [
+          "We watched the Changing of the Guard at the palace.",
+          "Chúng mình đã xem lễ đổi gác ở cung điện."
+        ]
+      ],
+      "qa": [
+        [
+          "Where is Buckingham Palace?",
+          "In London."
+        ],
+        [
+          "Did Lizzie see the queen?",
+          "No."
+        ],
+        [
+          "Did the guards smile?",
+          "No."
+        ]
+      ]
+    },
+    "45": {
+      "topic": "Đọc hiểu: Paris và London",
+      "v": [
+        [
+          "guards",
+          "những lính gác"
+        ],
+        [
+          "palace",
+          "cung điện"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Why is Lizzie excited?",
+          "She hopes to go to Buckingham Palace and maybe see the queen."
+        ],
+        [
+          "Where is Buckingham Palace?",
+          "In London."
+        ],
+        [
+          "What did she see in London?",
+          "The Changing of the Guard and the queen’s garden."
+        ],
+        [
+          "Did Lizzie see the queen?",
+          "No."
+        ],
+        [
+          "Did any of the guards smile?",
+          "No."
+        ]
+      ],
+      "note": "Dùng hai bưu thiếp ở trang PDF 44 để trả lời."
+    },
+    "46": {
+      "topic": "Dự đoán theo thời gian",
+      "v": [
+        [
+          "tomorrow",
+          "ngày mai"
+        ],
+        [
+          "on Tuesday",
+          "vào thứ Ba"
+        ],
+        [
+          "on Friday",
+          "vào thứ Sáu"
+        ],
+        [
+          "tonight",
+          "tối nay"
+        ],
+        [
+          "this weekend",
+          "cuối tuần này"
+        ],
+        [
+          "next weekend",
+          "cuối tuần sau"
+        ]
+      ],
+      "s": [
+        [
+          "Will he hit a home run?",
+          "Cậu ấy sẽ đánh một cú home run phải không?"
+        ],
+        [
+          "He probably won't.",
+          "Có lẽ cậu ấy sẽ không làm được."
+        ],
+        [
+          "It'll be warm and sunny tomorrow.",
+          "Ngày mai trời sẽ ấm và có nắng."
+        ]
+      ],
+      "qa": [],
+      "note": "Giữ khung will/probably của bài; luyện dự đoán bằng các hình trên trang."
+    },
+    "47": {
+      "topic": "Before và after với tương lai",
+      "v": [
+        [
+          "study",
+          "học"
+        ],
+        [
+          "go fishing",
+          "đi câu cá"
+        ],
+        [
+          "wash the dishes",
+          "rửa bát"
+        ],
+        [
+          "go swimming",
+          "đi bơi"
+        ],
+        [
+          "clean her desk",
+          "dọn bàn học của cô ấy"
+        ],
+        [
+          "go bowling",
+          "đi chơi bowling"
+        ]
+      ],
+      "s": [
+        [
+          "She'll study before she goes fishing.",
+          "Cô ấy sẽ học trước khi đi câu cá."
+        ],
+        [
+          "She'll go fishing after she studies.",
+          "Cô ấy sẽ đi câu cá sau khi học."
+        ],
+        [
+          "What will he do next?",
+          "Cậu ấy sẽ làm gì tiếp theo?"
+        ],
+        [
+          "He'll probably go to bed.",
+          "Có lẽ cậu ấy sẽ đi ngủ."
+        ]
+      ],
+      "qa": []
+    },
+    "48": {
+      "topic": "Mùa yêu thích và lý do",
+      "v": [],
+      "s": [
+        [
+          "Winter is my favorite season!",
+          "Mùa đông là mùa yêu thích của mình!"
+        ],
+        [
+          "Why do you like winter?",
+          "Tại sao bạn thích mùa đông?"
+        ],
+        [
+          "Because I like cold weather and snow.",
+          "Vì mình thích thời tiết lạnh và tuyết."
+        ],
+        [
+          "I like warm weather better.",
+          "Mình thích thời tiết ấm hơn."
+        ],
+        [
+          "I like spring because I like playing at the park with my dog Rusty!",
+          "Mình thích mùa xuân vì mình thích chơi ở công viên với chó Rusty!"
+        ]
+      ],
+      "qa": []
+    },
+    "49": {
+      "topic": "Hoạt động theo mùa",
+      "v": [
+        [
+          "ice skating",
+          "trượt băng"
+        ],
+        [
+          "skiing",
+          "trượt tuyết"
+        ],
+        [
+          "planting flowers",
+          "trồng hoa"
+        ],
+        [
+          "flying kites",
+          "thả diều"
+        ],
+        [
+          "going to the beach",
+          "đi biển"
+        ],
+        [
+          "waterskiing",
+          "trượt nước"
+        ],
+        [
+          "camping",
+          "cắm trại"
+        ],
+        [
+          "hiking",
+          "đi bộ đường dài"
+        ],
+        [
+          "winter",
+          "mùa đông"
+        ],
+        [
+          "spring",
+          "mùa xuân"
+        ],
+        [
+          "summer",
+          "mùa hè"
+        ],
+        [
+          "fall",
+          "mùa thu"
+        ]
+      ],
+      "s": [
+        [
+          "Why do you like winter?",
+          "Tại sao bạn thích mùa đông?"
+        ],
+        [
+          "I like winter because I like ice skating.",
+          "Mình thích mùa đông vì mình thích trượt băng."
+        ],
+        [
+          "Which season do you like best?",
+          "Bạn thích mùa nào nhất?"
+        ]
+      ],
+      "qa": []
+    },
+    "50": {
+      "topic": "Mốc thời gian quá khứ và tương lai",
+      "v": [
+        [
+          "yesterday",
+          "hôm qua"
+        ],
+        [
+          "today",
+          "hôm nay"
+        ],
+        [
+          "tomorrow",
+          "ngày mai"
+        ],
+        [
+          "last week",
+          "tuần trước"
+        ],
+        [
+          "this week",
+          "tuần này"
+        ],
+        [
+          "next week",
+          "tuần sau"
+        ],
+        [
+          "last month",
+          "tháng trước"
+        ],
+        [
+          "this month",
+          "tháng này"
+        ],
+        [
+          "next month",
+          "tháng sau"
+        ],
+        [
+          "last year",
+          "năm ngoái"
+        ],
+        [
+          "this year",
+          "năm nay"
+        ],
+        [
+          "next year",
+          "năm sau"
+        ]
+      ],
+      "s": [
+        [
+          "Last month she went camping.",
+          "Tháng trước cô ấy đã đi cắm trại."
+        ],
+        [
+          "Next week she'll go to the zoo.",
+          "Tuần sau cô ấy sẽ đi sở thú."
+        ]
+      ],
+      "qa": []
+    },
+    "51": {
+      "topic": "Hỏi việc đã làm và sẽ làm",
+      "v": [],
+      "s": [
+        [
+          "What did they do last month?",
+          "Tháng trước họ đã làm gì?"
+        ],
+        [
+          "They went camping.",
+          "Họ đã đi cắm trại."
+        ],
+        [
+          "What will she do next summer?",
+          "Mùa hè sau cô ấy sẽ làm gì?"
+        ],
+        [
+          "She'll go fishing.",
+          "Cô ấy sẽ đi câu cá."
+        ],
+        [
+          "What did you do yesterday?",
+          "Hôm qua bạn đã làm gì?"
+        ]
+      ],
+      "qa": []
+    },
+    "52": {
+      "topic": "Đọc: thư Maria về Costa Rica",
+      "v": [
+        [
+          "Costa Rica",
+          "Costa Rica"
+        ],
+        [
+          "dry",
+          "khô"
+        ],
+        [
+          "often",
+          "thường xuyên"
+        ],
+        [
+          "during",
+          "trong suốt"
+        ],
+        [
+          "enjoy",
+          "thích"
+        ],
+        [
+          "volcano",
+          "núi lửa"
+        ],
+        [
+          "together",
+          "cùng nhau"
+        ]
+      ],
+      "s": [
+        [
+          "There are only two seasons in Costa Rica.",
+          "Costa Rica chỉ có hai mùa."
+        ],
+        [
+          "It doesn’t rain every day.",
+          "Trời không mưa mỗi ngày."
+        ],
+        [
+          "People can go to the beach on sunny days.",
+          "Mọi người có thể đi biển vào ngày nắng."
+        ]
+      ],
+      "qa": [
+        [
+          "How many seasons are there in Costa Rica in the reading?",
+          "Two: the rainy season and the dry season."
+        ],
+        [
+          "When is Kay going to visit Maria?",
+          "During the dry season."
+        ],
+        [
+          "What can people see during the dry season?",
+          "The volcano."
+        ]
+      ]
+    },
+    "53": {
+      "topic": "Đọc hiểu: chuyến đi Costa Rica",
+      "v": [
+        [
+          "rainy season",
+          "mùa mưa"
+        ],
+        [
+          "dry season",
+          "mùa khô"
+        ],
+        [
+          "enjoy",
+          "thích"
+        ],
+        [
+          "volcano",
+          "núi lửa"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Where is Kay’s family going to go?",
+          "Costa Rica."
+        ],
+        [
+          "How many seasons are there in Costa Rica?",
+          "Two."
+        ],
+        [
+          "Do people enjoy going to the volcano?",
+          "Yes."
+        ],
+        [
+          "Is Maria sad about the visit?",
+          "No. She is happy."
+        ],
+        [
+          "Can Kay go to see the volcano during the rainy season in the reading?",
+          "No."
+        ]
+      ],
+      "note": "Dùng email ở trang PDF 52 để trả lời theo nội dung sách."
+    },
+    "54": {
+      "topic": "Quá khứ, hiện tại, tương lai",
+      "v": [],
+      "s": [
+        [
+          "What did you do last summer?",
+          "Mùa hè trước bạn đã làm gì?"
+        ],
+        [
+          "Last summer we went fishing.",
+          "Mùa hè trước chúng mình đã đi câu cá."
+        ],
+        [
+          "What are you going to do next winter?",
+          "Mùa đông sau bạn sẽ làm gì?"
+        ],
+        [
+          "Next winter we'll go skiing.",
+          "Mùa đông sau chúng mình sẽ đi trượt tuyết."
+        ],
+        [
+          "What is he doing now?",
+          "Bây giờ cậu ấy đang làm gì?"
+        ],
+        [
+          "He's doing homework.",
+          "Cậu ấy đang làm bài tập về nhà."
+        ]
+      ],
+      "qa": []
+    },
+    "55": {
+      "topic": "Lời khuyên và dự đoán",
+      "v": [
+        [
+          "go backpacking",
+          "đi du lịch ba lô"
+        ],
+        [
+          "sweep the floor",
+          "quét sàn"
+        ],
+        [
+          "borrow some books",
+          "mượn một ít sách"
+        ],
+        [
+          "play ice hockey",
+          "chơi khúc côn cầu trên băng"
+        ],
+        [
+          "play soccer",
+          "chơi bóng đá"
+        ]
+      ],
+      "s": [
+        [
+          "What should she do on her vacation?",
+          "Cô ấy nên làm gì trong kỳ nghỉ?"
+        ],
+        [
+          "She should go backpacking.",
+          "Cô ấy nên đi du lịch ba lô."
+        ],
+        [
+          "He'll probably sweep the floor.",
+          "Có lẽ cậu ấy sẽ quét sàn."
+        ]
+      ],
+      "qa": []
+    },
+    "56": {
+      "topic": "Review 5–6",
+      "v": [
+        [
+          "a surgeon",
+          "một bác sĩ phẫu thuật"
+        ],
+        [
+          "planting flowers",
+          "trồng hoa"
+        ],
+        [
+          "last month",
+          "tháng trước"
+        ],
+        [
+          "next week",
+          "tuần sau"
+        ]
+      ],
+      "s": [
+        [
+          "What do you think she'll be?",
+          "Bạn nghĩ cô ấy sẽ làm nghề gì?"
+        ],
+        [
+          "Why do you like winter?",
+          "Tại sao bạn thích mùa đông?"
+        ],
+        [
+          "What did you do last summer?",
+          "Mùa hè trước bạn đã làm gì?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình; không suy đoán đáp án nghe gốc."
+    },
+    "57": {
+      "topic": "Read: The Broken Vase",
+      "v": [
+        [
+          "vase",
+          "bình hoa"
+        ],
+        [
+          "broken",
+          "bị vỡ"
+        ],
+        [
+          "heard",
+          "đã nghe"
+        ],
+        [
+          "crash",
+          "tiếng đổ vỡ"
+        ]
+      ],
+      "s": [
+        [
+          "It’s a windy day.",
+          "Hôm nay trời có gió."
+        ],
+        [
+          "She’ll think I broke it.",
+          "Mẹ sẽ nghĩ mình đã làm vỡ nó."
+        ],
+        [
+          "I heard a crash.",
+          "Mình đã nghe một tiếng đổ vỡ."
+        ]
+      ],
+      "qa": [
+        [
+          "Whose vase was broken?",
+          "John’s mother’s vase."
+        ],
+        [
+          "Who gave her the vase?",
+          "John."
+        ],
+        [
+          "What blew across the table?",
+          "The curtain."
+        ],
+        [
+          "What happened to the vase?",
+          "The wind blew the curtain across the table and knocked the vase down."
+        ]
+      ]
+    },
+    "58": {
+      "topic": "Bánh quy và các giác quan",
+      "v": [],
+      "s": [
+        [
+          "What are you doing?",
+          "Bạn đang làm gì?"
+        ],
+        [
+          "I'm baking cookies.",
+          "Mình đang nướng bánh quy."
+        ],
+        [
+          "I forgot the flour!",
+          "Mình đã quên bột mì!"
+        ],
+        [
+          "What do they look like?",
+          "Chúng trông giống gì?"
+        ],
+        [
+          "They look like rocks.",
+          "Chúng trông giống những hòn đá."
+        ],
+        [
+          "They smell good.",
+          "Chúng có mùi thơm."
+        ],
+        [
+          "They're too hard!",
+          "Chúng cứng quá!"
+        ]
+      ],
+      "qa": []
+    },
+    "59": {
+      "topic": "Năm giác quan",
+      "v": [
+        [
+          "see",
+          "nhìn thấy"
+        ],
+        [
+          "hear",
+          "nghe thấy"
+        ],
+        [
+          "smell",
+          "ngửi"
+        ],
+        [
+          "touch",
+          "chạm"
+        ],
+        [
+          "taste",
+          "nếm"
+        ]
+      ],
+      "s": [
+        [
+          "I see a rainbow. It looks beautiful.",
+          "Mình thấy cầu vồng. Nó trông đẹp."
+        ],
+        [
+          "I hear music. It sounds wonderful.",
+          "Mình nghe nhạc. Nó nghe tuyệt."
+        ],
+        [
+          "I smell a flower. It smells good.",
+          "Mình ngửi hoa. Nó thơm."
+        ],
+        [
+          "I touch a pillow. It feels soft.",
+          "Mình chạm gối. Nó mềm."
+        ],
+        [
+          "I taste a lemon. It tastes sour.",
+          "Mình nếm chanh. Nó chua."
+        ]
+      ],
+      "qa": []
+    },
+    "60": {
+      "topic": "Tính từ cảm nhận",
+      "v": [
+        [
+          "beautiful",
+          "đẹp"
+        ],
+        [
+          "ugly",
+          "xấu"
+        ],
+        [
+          "wonderful",
+          "tuyệt vời"
+        ],
+        [
+          "awful",
+          "tệ"
+        ],
+        [
+          "sweet",
+          "ngọt"
+        ],
+        [
+          "salty",
+          "mặn"
+        ],
+        [
+          "smooth",
+          "nhẵn"
+        ],
+        [
+          "rough",
+          "sần sùi"
+        ],
+        [
+          "good",
+          "tốt/thơm"
+        ],
+        [
+          "bad",
+          "tệ/hôi"
+        ]
+      ],
+      "s": [
+        [
+          "The gazelle looks beautiful.",
+          "Con linh dương trông đẹp."
+        ],
+        [
+          "How does it smell?",
+          "Nó có mùi thế nào?"
+        ],
+        [
+          "It smells good.",
+          "Nó có mùi thơm."
+        ]
+      ],
+      "qa": []
+    },
+    "61": {
+      "topic": "Hỏi cảm nhận giác quan",
+      "v": [
+        [
+          "beautiful",
+          "đẹp"
+        ],
+        [
+          "ugly",
+          "xấu"
+        ],
+        [
+          "wonderful",
+          "tuyệt vời"
+        ],
+        [
+          "awful",
+          "tệ"
+        ],
+        [
+          "sweet",
+          "ngọt"
+        ],
+        [
+          "salty",
+          "mặn"
+        ],
+        [
+          "smooth",
+          "nhẵn"
+        ],
+        [
+          "rough",
+          "sần sùi"
+        ],
+        [
+          "good",
+          "tốt/thơm"
+        ],
+        [
+          "bad",
+          "tệ/hôi"
+        ]
+      ],
+      "s": [
+        [
+          "How does the skunk smell?",
+          "Con chồn hôi có mùi thế nào?"
+        ],
+        [
+          "It smells awful.",
+          "Nó có mùi rất tệ."
+        ],
+        [
+          "Does the gazelle look beautiful or ugly?",
+          "Con linh dương trông đẹp hay xấu?"
+        ],
+        [
+          "It looks beautiful.",
+          "Nó trông đẹp."
+        ]
+      ],
+      "qa": [
+        [
+          "How does the skunk smell?",
+          "It smells awful."
+        ],
+        [
+          "Does the gazelle look beautiful or ugly?",
+          "It looks beautiful."
+        ]
+      ]
+    },
+    "62": {
+      "topic": "Đọc: Mild or Wild",
+      "v": [
+        [
+          "classical",
+          "thuộc nhạc cổ điển"
+        ],
+        [
+          "museum",
+          "bảo tàng"
+        ],
+        [
+          "silk",
+          "lụa"
+        ],
+        [
+          "fur",
+          "lông thú"
+        ],
+        [
+          "mild",
+          "ôn hòa"
+        ],
+        [
+          "city",
+          "thành phố"
+        ],
+        [
+          "wild",
+          "sôi nổi"
+        ]
+      ],
+      "s": [
+        [
+          "Which one sounds better?",
+          "Cái nào nghe hay hơn?"
+        ],
+        [
+          "Which one looks more beautiful?",
+          "Cái nào trông đẹp hơn?"
+        ],
+        [
+          "Which one tastes better?",
+          "Cái nào có vị ngon hơn?"
+        ],
+        [
+          "Which one feels better?",
+          "Cái nào chạm vào dễ chịu hơn?"
+        ],
+        [
+          "Which one smells better?",
+          "Cái nào có mùi thơm hơn?"
+        ]
+      ],
+      "qa": [],
+      "note": "Bảng điểm là hoạt động đọc hiểu trong sách."
+    },
+    "63": {
+      "topic": "Đọc hiểu: Mild or Wild",
+      "v": [
+        [
+          "mild",
+          "ôn hòa"
+        ],
+        [
+          "wild",
+          "sôi nổi"
+        ],
+        [
+          "classical music",
+          "nhạc cổ điển"
+        ],
+        [
+          "museum",
+          "bảo tàng"
+        ],
+        [
+          "silk",
+          "lụa"
+        ],
+        [
+          "fur",
+          "lông thú"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Who likes classical music, a mild person or a wild person?",
+          "A mild person."
+        ],
+        [
+          "Do mild people like museums or beaches?",
+          "Museums."
+        ],
+        [
+          "Do wild people like silk or fur?",
+          "Fur."
+        ],
+        [
+          "Does a mild person like quiet evenings at home?",
+          "Yes."
+        ]
+      ],
+      "note": "Dùng bài đọc và thang điểm trang PDF 62."
+    },
+    "64": {
+      "topic": "Giác quan và sở thích",
+      "v": [
+        [
+          "salty food",
+          "đồ ăn mặn"
+        ],
+        [
+          "sweet food",
+          "đồ ăn ngọt"
+        ],
+        [
+          "loud music",
+          "nhạc to"
+        ],
+        [
+          "quiet music",
+          "nhạc khẽ"
+        ],
+        [
+          "a soft pillow",
+          "một chiếc gối mềm"
+        ],
+        [
+          "smooth silk",
+          "lụa nhẵn mịn"
+        ]
+      ],
+      "s": [
+        [
+          "Taste these cookies. They taste good.",
+          "Nếm bánh quy này. Chúng ngon."
+        ],
+        [
+          "Smell the roses. They smell sweet.",
+          "Ngửi hoa hồng. Chúng có mùi thơm ngọt."
+        ],
+        [
+          "Touch this pillow. It feels soft.",
+          "Chạm gối này. Nó mềm."
+        ],
+        [
+          "Which do you like better, salty food or sweet food?",
+          "Bạn thích đồ mặn hay đồ ngọt hơn?"
+        ],
+        [
+          "I like salty food better.",
+          "Mình thích đồ mặn hơn."
+        ]
+      ],
+      "qa": []
+    },
+    "65": {
+      "topic": "Nêu lý do sở thích và cảm nhận",
+      "v": [
+        [
+          "potato chips",
+          "khoai tây lát chiên"
+        ],
+        [
+          "salty food",
+          "đồ ăn mặn"
+        ],
+        [
+          "soft",
+          "mềm"
+        ],
+        [
+          "hard",
+          "cứng"
+        ]
+      ],
+      "s": [
+        [
+          "I like potato chips because I like salty food.",
+          "Mình thích khoai tây lát chiên vì mình thích đồ ăn mặn."
+        ],
+        [
+          "Does it feel hard or soft?",
+          "Chạm vào nó thấy cứng hay mềm?"
+        ],
+        [
+          "It feels soft.",
+          "Nó mềm."
+        ]
+      ],
+      "qa": []
+    },
+    "66": {
+      "topic": "Thử món ăn mới",
+      "v": [],
+      "s": [
+        [
+          "What do you think it is?",
+          "Bạn nghĩ đó là gì?"
+        ],
+        [
+          "I think it's tofu.",
+          "Mình nghĩ đó là đậu phụ."
+        ],
+        [
+          "I think it looks like old cheese.",
+          "Mình nghĩ nó trông giống phô mai cũ."
+        ],
+        [
+          "Have you ever eaten tacos before?",
+          "Bạn đã từng ăn taco chưa?"
+        ],
+        [
+          "No, I haven't, but I'll try them.",
+          "Chưa, nhưng mình sẽ thử."
+        ]
+      ],
+      "qa": []
+    },
+    "67": {
+      "topic": "Các món ăn; Have you ever",
+      "v": [
+        [
+          "fried noodles",
+          "mì xào"
+        ],
+        [
+          "fried rice",
+          "cơm chiên"
+        ],
+        [
+          "sushi",
+          "sushi"
+        ],
+        [
+          "ravioli",
+          "mì Ý nhân"
+        ],
+        [
+          "burritos",
+          "bánh burrito"
+        ],
+        [
+          "crepes",
+          "bánh crepe"
+        ],
+        [
+          "kimchi",
+          "kim chi"
+        ],
+        [
+          "tofu",
+          "đậu phụ"
+        ],
+        [
+          "tacos",
+          "bánh taco"
+        ]
+      ],
+      "s": [
+        [
+          "Have you ever eaten fried noodles?",
+          "Bạn đã từng ăn mì xào chưa?"
+        ],
+        [
+          "Yes, I have.",
+          "Rồi."
+        ],
+        [
+          "No, I haven't.",
+          "Chưa."
+        ]
+      ],
+      "qa": []
+    },
+    "68": {
+      "topic": "Trải nghiệm đến các nơi",
+      "v": [
+        [
+          "Egypt",
+          "Ai Cập"
+        ],
+        [
+          "the Amazon jungle",
+          "rừng Amazon"
+        ],
+        [
+          "Hawaii",
+          "Hawaii"
+        ],
+        [
+          "Carlsbad Caverns",
+          "hang động Carlsbad"
+        ],
+        [
+          "the Grand Canyon",
+          "Đại vực Grand Canyon"
+        ],
+        [
+          "Mt. Everest",
+          "đỉnh Everest"
+        ],
+        [
+          "Buckingham Palace",
+          "Cung điện Buckingham"
+        ],
+        [
+          "Costa Rica",
+          "Costa Rica"
+        ]
+      ],
+      "s": [
+        [
+          "I have been to Hawaii.",
+          "Mình đã đến Hawaii."
+        ],
+        [
+          "I have never been to Costa Rica.",
+          "Mình chưa từng đến Costa Rica."
+        ]
+      ],
+      "qa": []
+    },
+    "69": {
+      "topic": "Has she ever been",
+      "v": [
+        [
+          "Egypt",
+          "Ai Cập"
+        ],
+        [
+          "the Amazon jungle",
+          "rừng Amazon"
+        ],
+        [
+          "Hawaii",
+          "Hawaii"
+        ],
+        [
+          "Carlsbad Caverns",
+          "hang động Carlsbad"
+        ],
+        [
+          "the Grand Canyon",
+          "Đại vực Grand Canyon"
+        ],
+        [
+          "Mt. Everest",
+          "đỉnh Everest"
+        ],
+        [
+          "Buckingham Palace",
+          "Cung điện Buckingham"
+        ],
+        [
+          "Costa Rica",
+          "Costa Rica"
+        ]
+      ],
+      "s": [
+        [
+          "Has she ever been to Egypt?",
+          "Cô ấy đã từng đến Ai Cập chưa?"
+        ],
+        [
+          "Yes, she has.",
+          "Rồi."
+        ],
+        [
+          "No, she hasn't.",
+          "Chưa."
+        ],
+        [
+          "Where have you been?",
+          "Bạn đã đến những đâu?"
+        ],
+        [
+          "What have you eaten?",
+          "Bạn đã ăn những gì?"
+        ]
+      ],
+      "qa": []
+    },
+    "70": {
+      "topic": "Đọc: chuyến safari của Donna",
+      "v": [
+        [
+          "dawn",
+          "bình minh"
+        ],
+        [
+          "safari",
+          "chuyến tham quan động vật hoang dã"
+        ],
+        [
+          "Swahili",
+          "tiếng Swahili"
+        ],
+        [
+          "journey",
+          "chuyến đi"
+        ],
+        [
+          "crocodiles",
+          "những con cá sấu"
+        ],
+        [
+          "seen",
+          "đã nhìn thấy"
+        ]
+      ],
+      "s": [
+        [
+          "We woke up at dawn and ate breakfast.",
+          "Chúng mình thức dậy lúc bình minh và ăn sáng."
+        ],
+        [
+          "I’ve never drunk coconut milk before.",
+          "Mình chưa từng uống sữa dừa trước đây."
+        ],
+        [
+          "I took a lot of photos.",
+          "Mình đã chụp nhiều ảnh."
+        ]
+      ],
+      "qa": [
+        [
+          "Where did Donna go on a safari?",
+          "Serengeti National Park."
+        ],
+        [
+          "Did she see giraffes and elephants?",
+          "Yes."
+        ],
+        [
+          "When is she going to see crocodiles?",
+          "Tomorrow, at the Grumeti River."
+        ]
+      ]
+    },
+    "71": {
+      "topic": "Đọc hiểu: My First Safari",
+      "v": [
+        [
+          "dawn",
+          "bình minh"
+        ],
+        [
+          "early in the morning",
+          "sáng sớm"
+        ],
+        [
+          "photos",
+          "những bức ảnh"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Where did Donna go on a safari?",
+          "Serengeti National Park."
+        ],
+        [
+          "Did she see giraffes and elephants?",
+          "Yes."
+        ],
+        [
+          "When is she going to see crocodiles?",
+          "Tomorrow."
+        ],
+        [
+          "Did Donna take any photos?",
+          "Yes. She took a lot of photos."
+        ],
+        [
+          "What time is dawn?",
+          "Early in the morning."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 70 để trả lời."
+    },
+    "72": {
+      "topic": "Hỏi trải nghiệm với đồ ăn và địa điểm",
+      "v": [],
+      "s": [
+        [
+          "Have you ever eaten sushi?",
+          "Bạn đã từng ăn sushi chưa?"
+        ],
+        [
+          "No, I haven't, but I'll try it tonight.",
+          "Chưa, nhưng tối nay mình sẽ thử."
+        ],
+        [
+          "Have you ever eaten tofu?",
+          "Bạn đã từng ăn đậu phụ chưa?"
+        ],
+        [
+          "Yes, I have.",
+          "Rồi."
+        ],
+        [
+          "Have you ever been to the Grand Canyon?",
+          "Bạn đã từng đến Đại vực Grand Canyon chưa?"
+        ],
+        [
+          "Have you ever seen a dolphin?",
+          "Bạn đã từng nhìn thấy cá heo chưa?"
+        ]
+      ],
+      "qa": []
+    },
+    "73": {
+      "topic": "Kể trải nghiệm và mong muốn",
+      "v": [],
+      "s": [
+        [
+          "I have eaten sushi before.",
+          "Mình đã ăn sushi trước đây."
+        ],
+        [
+          "It was delicious.",
+          "Nó ngon."
+        ],
+        [
+          "I've never eaten sushi before.",
+          "Mình chưa từng ăn sushi."
+        ],
+        [
+          "But I want to eat it.",
+          "Nhưng mình muốn ăn thử."
+        ]
+      ],
+      "qa": []
+    },
+    "74": {
+      "topic": "Review 7–8",
+      "v": [
+        [
+          "beautiful",
+          "đẹp"
+        ],
+        [
+          "salty",
+          "mặn"
+        ],
+        [
+          "sushi",
+          "sushi"
+        ],
+        [
+          "tofu",
+          "đậu phụ"
+        ]
+      ],
+      "s": [
+        [
+          "How does it smell?",
+          "Nó có mùi thế nào?"
+        ],
+        [
+          "Have you ever eaten sushi?",
+          "Bạn đã từng ăn sushi chưa?"
+        ],
+        [
+          "Has she ever been to Egypt?",
+          "Cô ấy đã từng đến Ai Cập chưa?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình; không suy đoán đáp án nghe gốc."
+    },
+    "75": {
+      "topic": "Read: The Missing Dog",
+      "v": [
+        [
+          "dirty",
+          "bẩn"
+        ],
+        [
+          "everywhere",
+          "khắp nơi"
+        ],
+        [
+          "laundry room",
+          "phòng giặt"
+        ],
+        [
+          "started",
+          "đã bắt đầu"
+        ]
+      ],
+      "s": [
+        [
+          "Someone took Fluffy!",
+          "Có người đã lấy Fluffy!"
+        ],
+        [
+          "Have you looked for Fluffy?",
+          "Bạn đã tìm Fluffy chưa?"
+        ],
+        [
+          "She’s in the laundry room.",
+          "Mẹ đang ở phòng giặt."
+        ]
+      ],
+      "qa": [
+        [
+          "What is Fluffy?",
+          "Kim’s toy dog."
+        ],
+        [
+          "Where was Fluffy last night?",
+          "On Kim’s bed."
+        ],
+        [
+          "Where is Mom?",
+          "In the laundry room."
+        ],
+        [
+          "What is Mom doing?",
+          "She is washing their dirty clothes."
+        ],
+        [
+          "Have you looked for Fluffy?",
+          "Yes, I have."
+        ]
+      ]
+    }
+  }
+}

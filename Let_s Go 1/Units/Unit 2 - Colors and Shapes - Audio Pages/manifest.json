@@ -1,0 +1,1379 @@
+{
+  "section": "Unit 2 - Colors and Shapes",
+  "source_pdf_pages": [
+    11,
+    18
+  ],
+  "page_count": 8,
+  "track_count": 23,
+  "audio_available": 13,
+  "missing_audio": [
+    "CD1_31",
+    "CD1_32",
+    "CD1_33",
+    "CD1_34",
+    "CD1_35",
+    "CD1_36",
+    "CD1_37",
+    "CD1_38",
+    "CD1_39",
+    "CD1_40"
+  ],
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 24,
+      "source_pdf_page": 11,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.735
+      ],
+      "activity": "A. Let's talk: How are you?",
+      "kind": "dialogue",
+      "region_id": "PDF-011-0.1350-0.7350",
+      "id": "CD1_24",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 10,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_24-25.webp",
+      "page_image": "pages/PDF-011.png",
+      "audio": "audio/CD1_24.mp3",
+      "expected_audio": "audio/CD1_24.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/24 - (Third ed) - Track 24.mp3",
+      "audio_sha256": "9995ebbbf7e72a860d61b0fab7667c48d7ed93750784528d9979cec55449967c",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        224,
+        1199,
+        1219
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 25.24,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_24.png",
+      "image_bytes": 73716,
+      "image_sha256": "878fb59d50831a86967f68550609ba7a55c0b49f33c017bd1a2d7c711cefc378",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_24.webp",
+      "related_track_ids": [
+        "CD1_24",
+        "CD1_25"
+      ],
+      "activity_group": "CD1_24-25"
+    },
+    {
+      "disc": 1,
+      "track": 25,
+      "source_pdf_page": 11,
+      "crop_normalized": [
+        0,
+        0.735,
+        1,
+        0.925
+      ],
+      "activity": "How are you? I’m fine",
+      "kind": "sentence",
+      "region_id": "PDF-011-0.7350-0.9250",
+      "id": "CD1_25",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 10,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_24-25.webp",
+      "page_image": "pages/PDF-011.png",
+      "audio": "audio/CD1_25.mp3",
+      "expected_audio": "audio/CD1_25.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/25 - (Third ed) - Track 25.mp3",
+      "audio_sha256": "3384869ea238ac51fd5b1d80af222a0878a315181b08ef3eaebe0694df7b21e8",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        1219,
+        1199,
+        1535
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 13.666667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_25.png",
+      "image_bytes": 73716,
+      "image_sha256": "878fb59d50831a86967f68550609ba7a55c0b49f33c017bd1a2d7c711cefc378",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_25.webp",
+      "related_track_ids": [
+        "CD1_24",
+        "CD1_25"
+      ],
+      "activity_group": "CD1_24-25"
+    },
+    {
+      "disc": 1,
+      "track": 26,
+      "source_pdf_page": 12,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.405
+      ],
+      "activity": "B. Hi! How Are You?",
+      "kind": "song",
+      "region_id": "PDF-012-0.0150-0.4050",
+      "id": "CD1_26",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 11,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "regenerated/CD1_26.webp",
+      "page_image": "pages/PDF-012.png",
+      "audio": "audio/CD1_26.mp3",
+      "expected_audio": "audio/CD1_26.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/26 - (Third ed) - Track 26.mp3",
+      "audio_sha256": "48f1435871def9ebeb726a4fc08816ff4a8b781daaf6d223914a25997836d102",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1199,
+        1613
+      ],
+      "crop_pixels": [
+        0,
+        24,
+        1199,
+        653
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 61.533333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_26.png",
+      "image_bytes": 33384,
+      "image_sha256": "62c7b63aead46731fc0eb70e34b59937d53b6843a6923053865d89b09f75876a",
+      "generation_batch": "batch-03",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_26.webp",
+      "related_track_ids": [
+        "CD1_26"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 27,
+      "source_pdf_page": 12,
+      "crop_normalized": [
+        0,
+        0.405,
+        1,
+        0.75
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-012-0.4050-0.7500",
+      "id": "CD1_27",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 11,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_27-29.webp",
+      "page_image": "pages/PDF-012.png",
+      "audio": "audio/CD1_27.mp3",
+      "expected_audio": "audio/CD1_27.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/27 - (Third ed) - Track 27.mp3",
+      "audio_sha256": "c255bff14da3084303e105df566787413912cfebe6f59562878d14cd586a6eca",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1613
+      ],
+      "crop_pixels": [
+        0,
+        653,
+        1199,
+        1210
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 26.506667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_27.png",
+      "image_bytes": 57080,
+      "image_sha256": "8307ae71c4b9ae8c040a3574c7bc5c30ff72325499eb07f3cd229979a885a637",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_27.webp",
+      "related_track_ids": [
+        "CD1_27",
+        "CD1_28",
+        "CD1_29"
+      ],
+      "activity_group": "CD1_27-29"
+    },
+    {
+      "disc": 1,
+      "track": 28,
+      "source_pdf_page": 12,
+      "crop_normalized": [
+        0,
+        0.75,
+        1,
+        0.925
+      ],
+      "activity": "Please take out your book",
+      "kind": "sentence+actions",
+      "region_id": "PDF-012-0.7500-0.9250",
+      "id": "CD1_28",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 11,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_27-29.webp",
+      "page_image": "pages/PDF-012.png",
+      "audio": "audio/CD1_28.mp3",
+      "expected_audio": "audio/CD1_28.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/28 - (Third ed) - Track 28.mp3",
+      "audio_sha256": "d157c88f6e7b029684808ebdf46547d90d4480b9c5a219cebdb2c58ed1d81348",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1613
+      ],
+      "crop_pixels": [
+        0,
+        1210,
+        1199,
+        1492
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 37.08,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_28.png",
+      "image_bytes": 57080,
+      "image_sha256": "8307ae71c4b9ae8c040a3574c7bc5c30ff72325499eb07f3cd229979a885a637",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_28.webp",
+      "related_track_ids": [
+        "CD1_27",
+        "CD1_28",
+        "CD1_29"
+      ],
+      "activity_group": "CD1_27-29"
+    },
+    {
+      "disc": 1,
+      "track": 29,
+      "source_pdf_page": 12,
+      "crop_normalized": [
+        0,
+        0.75,
+        1,
+        0.925
+      ],
+      "activity": "Please take out your book",
+      "kind": "sentence+actions",
+      "region_id": "PDF-012-0.7500-0.9250",
+      "id": "CD1_29",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 11,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_27-29.webp",
+      "page_image": "pages/PDF-012.png",
+      "audio": "audio/CD1_29.mp3",
+      "expected_audio": "audio/CD1_29.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/29 - (Third ed) - Track 29.mp3",
+      "audio_sha256": "fd5a0ea970c472866f733cf84d6d6eaafdde70dd6871c3658d2bfd5e485a97c3",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1613
+      ],
+      "crop_pixels": [
+        0,
+        1210,
+        1199,
+        1492
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 31.266667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_29.png",
+      "image_bytes": 57080,
+      "image_sha256": "8307ae71c4b9ae8c040a3574c7bc5c30ff72325499eb07f3cd229979a885a637",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_29.webp",
+      "related_track_ids": [
+        "CD1_27",
+        "CD1_28",
+        "CD1_29"
+      ],
+      "activity_group": "CD1_27-29"
+    },
+    {
+      "disc": 1,
+      "track": 30,
+      "source_pdf_page": 13,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.685
+      ],
+      "activity": "A. Colors",
+      "kind": "words",
+      "region_id": "PDF-013-0.1350-0.6850",
+      "id": "CD1_30",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 12,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_30-32.webp",
+      "page_image": "pages/PDF-013.png",
+      "audio": "audio/CD1_30.mp3",
+      "expected_audio": "audio/CD1_30.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/30 - (Third ed) - Track 30.mp3",
+      "audio_sha256": "0da073c57fa076cab3827da95b63194f5a7896eb4e44c619f5ea68cbb229fcba",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1154
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 58.32,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_30.png",
+      "image_bytes": 49088,
+      "image_sha256": "6b6e0dd22bc796b364033d403359ef97785bcab4b701a414f10386bca3419f25",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_30.webp",
+      "related_track_ids": [
+        "CD1_30",
+        "CD1_31",
+        "CD1_32"
+      ],
+      "activity_group": "CD1_30-32"
+    },
+    {
+      "disc": 1,
+      "track": 31,
+      "source_pdf_page": 13,
+      "crop_normalized": [
+        0,
+        0.685,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s yellow",
+      "kind": "sentence+words",
+      "region_id": "PDF-013-0.6850-0.9250",
+      "id": "CD1_31",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 12,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_30-32.webp",
+      "page_image": "pages/PDF-013.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_31.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1154,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_31.png",
+      "image_bytes": 49088,
+      "image_sha256": "6b6e0dd22bc796b364033d403359ef97785bcab4b701a414f10386bca3419f25",
+      "generation_batch": "batch-03",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_31.webp",
+      "related_track_ids": [
+        "CD1_30",
+        "CD1_31",
+        "CD1_32"
+      ],
+      "activity_group": "CD1_30-32"
+    },
+    {
+      "disc": 1,
+      "track": 32,
+      "source_pdf_page": 13,
+      "crop_normalized": [
+        0,
+        0.685,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s yellow",
+      "kind": "sentence+words",
+      "region_id": "PDF-013-0.6850-0.9250",
+      "id": "CD1_32",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 12,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_30-32.webp",
+      "page_image": "pages/PDF-013.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_32.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1154,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_32.png",
+      "image_bytes": 49088,
+      "image_sha256": "6b6e0dd22bc796b364033d403359ef97785bcab4b701a414f10386bca3419f25",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_32.webp",
+      "related_track_ids": [
+        "CD1_30",
+        "CD1_31",
+        "CD1_32"
+      ],
+      "activity_group": "CD1_30-32"
+    },
+    {
+      "disc": 1,
+      "track": 33,
+      "source_pdf_page": 14,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.425
+      ],
+      "activity": "C. What color is this?",
+      "kind": "question+picture",
+      "region_id": "PDF-014-0.0150-0.4250",
+      "id": "CD1_33",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 13,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_33-35.webp",
+      "page_image": "pages/PDF-014.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_33.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        768
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        716
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_33.png",
+      "image_bytes": 60268,
+      "image_sha256": "abd16de56526280b06b92a83fe7ccdb8b2e14859cf8052dfcfde089182a34020",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_33.webp",
+      "related_track_ids": [
+        "CD1_33",
+        "CD1_34",
+        "CD1_35"
+      ],
+      "activity_group": "CD1_33-35"
+    },
+    {
+      "disc": 1,
+      "track": 34,
+      "source_pdf_page": 14,
+      "crop_normalized": [
+        0,
+        0.425,
+        1,
+        0.55
+      ],
+      "activity": "What color is this? It’s gray",
+      "kind": "question+model",
+      "region_id": "PDF-014-0.4250-0.5500",
+      "id": "CD1_34",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 13,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_33-35.webp",
+      "page_image": "pages/PDF-014.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_34.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        768
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        716,
+        1224,
+        926
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_34.png",
+      "image_bytes": 60268,
+      "image_sha256": "abd16de56526280b06b92a83fe7ccdb8b2e14859cf8052dfcfde089182a34020",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_34.webp",
+      "related_track_ids": [
+        "CD1_33",
+        "CD1_34",
+        "CD1_35"
+      ],
+      "activity_group": "CD1_33-35"
+    },
+    {
+      "disc": 1,
+      "track": 35,
+      "source_pdf_page": 14,
+      "crop_normalized": [
+        0,
+        0.425,
+        1,
+        0.55
+      ],
+      "activity": "What color is this? It’s gray",
+      "kind": "question+model",
+      "region_id": "PDF-014-0.4250-0.5500",
+      "id": "CD1_35",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 13,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_33-35.webp",
+      "page_image": "pages/PDF-014.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_35.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        768
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        716,
+        1224,
+        926
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_35.png",
+      "image_bytes": 60268,
+      "image_sha256": "abd16de56526280b06b92a83fe7ccdb8b2e14859cf8052dfcfde089182a34020",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_35.webp",
+      "related_track_ids": [
+        "CD1_33",
+        "CD1_34",
+        "CD1_35"
+      ],
+      "activity_group": "CD1_33-35"
+    },
+    {
+      "disc": 1,
+      "track": 36,
+      "source_pdf_page": 14,
+      "crop_normalized": [
+        0,
+        0.55,
+        1,
+        0.925
+      ],
+      "activity": "D. What Color Is This?",
+      "kind": "song",
+      "region_id": "PDF-014-0.5500-0.9250",
+      "id": "CD1_36",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 13,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "regenerated/CD1_36.webp",
+      "page_image": "pages/PDF-014.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_36.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        926,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_36.png",
+      "image_bytes": 28466,
+      "image_sha256": "ce96afa996be30c997ac6d00502a31a70be0cfb629c557afdaef95e02557a353",
+      "generation_batch": "batch-04",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_36.webp",
+      "related_track_ids": [
+        "CD1_36"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 37,
+      "source_pdf_page": 15,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.705
+      ],
+      "activity": "A. Shapes",
+      "kind": "words",
+      "region_id": "PDF-015-0.1350-0.7050",
+      "id": "CD1_37",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 14,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_37-39.webp",
+      "page_image": "pages/PDF-015.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_37.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1187
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_37.png",
+      "image_bytes": 38678,
+      "image_sha256": "db23ef4973dcd1a5380bd2c9d6e19ddd1189d7ee03cff3076a80b34b66719285",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_37.webp",
+      "related_track_ids": [
+        "CD1_37",
+        "CD1_38",
+        "CD1_39"
+      ],
+      "activity_group": "CD1_37-39"
+    },
+    {
+      "disc": 1,
+      "track": 38,
+      "source_pdf_page": 15,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. This is a triangle / an oval",
+      "kind": "sentence+words",
+      "region_id": "PDF-015-0.7050-0.9250",
+      "id": "CD1_38",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 14,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_37-39.webp",
+      "page_image": "pages/PDF-015.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_38.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_38.png",
+      "image_bytes": 38678,
+      "image_sha256": "db23ef4973dcd1a5380bd2c9d6e19ddd1189d7ee03cff3076a80b34b66719285",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_38.webp",
+      "related_track_ids": [
+        "CD1_37",
+        "CD1_38",
+        "CD1_39"
+      ],
+      "activity_group": "CD1_37-39"
+    },
+    {
+      "disc": 1,
+      "track": 39,
+      "source_pdf_page": 15,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. This is a triangle / an oval",
+      "kind": "sentence+words",
+      "region_id": "PDF-015-0.7050-0.9250",
+      "id": "CD1_39",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 14,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_37-39.webp",
+      "page_image": "pages/PDF-015.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_39.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_39.png",
+      "image_bytes": 38678,
+      "image_sha256": "db23ef4973dcd1a5380bd2c9d6e19ddd1189d7ee03cff3076a80b34b66719285",
+      "generation_batch": "batch-04",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_39.webp",
+      "related_track_ids": [
+        "CD1_37",
+        "CD1_38",
+        "CD1_39"
+      ],
+      "activity_group": "CD1_37-39"
+    },
+    {
+      "disc": 1,
+      "track": 40,
+      "source_pdf_page": 16,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.425
+      ],
+      "activity": "C. Is this an oval?",
+      "kind": "question+picture",
+      "region_id": "PDF-016-0.0150-0.4250",
+      "id": "CD1_40",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 15,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_40-42.webp",
+      "page_image": "pages/PDF-016.png",
+      "audio": null,
+      "expected_audio": "audio/CD1_40.mp3",
+      "audio_status": "missing_source",
+      "source_audio": null,
+      "audio_sha256": null,
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1219,
+        716
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": null,
+      "streams": [],
+      "source_crop_image": "tracks/CD1_40.png",
+      "image_bytes": 71434,
+      "image_sha256": "f7ff624611287cca5b2e1aa89ffd05247aa333c78681229b3794559b068c9baa",
+      "generation_batch": "batch-05",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_40.webp",
+      "related_track_ids": [
+        "CD1_40",
+        "CD1_41",
+        "CD1_42"
+      ],
+      "activity_group": "CD1_40-42"
+    },
+    {
+      "disc": 1,
+      "track": 41,
+      "source_pdf_page": 16,
+      "crop_normalized": [
+        0,
+        0.425,
+        1,
+        0.615
+      ],
+      "activity": "Is this a star / circle?",
+      "kind": "question+model",
+      "region_id": "PDF-016-0.4250-0.6150",
+      "id": "CD1_41",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 15,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_40-42.webp",
+      "page_image": "pages/PDF-016.png",
+      "audio": "audio/CD1_41.mp3",
+      "expected_audio": "audio/CD1_41.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/41 - (Third ed) - Track 41.mp3",
+      "audio_sha256": "afd3c347a07c0d68e805d67d230c8e7ce35d724c07bef9b5d34c6ddeb90046e4",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        716,
+        1219,
+        1036
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 63.026667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_41.png",
+      "image_bytes": 71434,
+      "image_sha256": "f7ff624611287cca5b2e1aa89ffd05247aa333c78681229b3794559b068c9baa",
+      "generation_batch": "batch-05",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_41.webp",
+      "related_track_ids": [
+        "CD1_40",
+        "CD1_41",
+        "CD1_42"
+      ],
+      "activity_group": "CD1_40-42"
+    },
+    {
+      "disc": 1,
+      "track": 42,
+      "source_pdf_page": 16,
+      "crop_normalized": [
+        0,
+        0.425,
+        1,
+        0.615
+      ],
+      "activity": "Is this a star / circle?",
+      "kind": "question+model",
+      "region_id": "PDF-016-0.4250-0.6150",
+      "id": "CD1_42",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 15,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "combined/CD1_40-42.webp",
+      "page_image": "pages/PDF-016.png",
+      "audio": "audio/CD1_42.mp3",
+      "expected_audio": "audio/CD1_42.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/42 - (Third ed) - Track 42.mp3",
+      "audio_sha256": "e87a2c73e46fa050b8e1e17b9506f62d1d988b36df8a6fd25bd31fe78186ac26",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        716,
+        1219,
+        1036
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 54.373333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_42.png",
+      "image_bytes": 71434,
+      "image_sha256": "f7ff624611287cca5b2e1aa89ffd05247aa333c78681229b3794559b068c9baa",
+      "generation_batch": "batch-05",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD1_42.webp",
+      "related_track_ids": [
+        "CD1_40",
+        "CD1_41",
+        "CD1_42"
+      ],
+      "activity_group": "CD1_40-42"
+    },
+    {
+      "disc": 1,
+      "track": 43,
+      "source_pdf_page": 17,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.385
+      ],
+      "activity": "A. Alphabet A–C",
+      "kind": "alphabet",
+      "region_id": "PDF-017-0.1350-0.3850",
+      "id": "CD1_43",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 16,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "regenerated/CD1_43.webp",
+      "page_image": "pages/PDF-017.png",
+      "audio": "audio/CD1_43.mp3",
+      "expected_audio": "audio/CD1_43.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/43 - (Third ed) - Track 43.mp3",
+      "audio_sha256": "1cc62dde72d13d652b5b0483afc169d018933b82a4513c02204bdf65977eac83",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1106,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        224,
+        1106,
+        639
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.56,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_43.png",
+      "image_bytes": 23918,
+      "image_sha256": "9bc3284af6a37207fb30046373ca7518ad765e5275b7f97fc7f05df5d0421703",
+      "generation_batch": "batch-05",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_43.webp",
+      "related_track_ids": [
+        "CD1_43"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 44,
+      "source_pdf_page": 17,
+      "crop_normalized": [
+        0,
+        0.385,
+        1,
+        0.925
+      ],
+      "activity": "B. What’s this? What color is it?",
+      "kind": "practice",
+      "region_id": "PDF-017-0.3850-0.9250",
+      "id": "CD1_44",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 16,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "regenerated/CD1_44.webp",
+      "page_image": "pages/PDF-017.png",
+      "audio": "audio/CD1_44.mp3",
+      "expected_audio": "audio/CD1_44.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/44 - (Third ed) - Track 44.mp3",
+      "audio_sha256": "8bc352bd9d2ecaadb655abdf33f3acaba24e911a3fadfbb2d82bbbb4aaabb0c8",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1106,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        639,
+        1106,
+        1535
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 25.84,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_44.png",
+      "image_bytes": 34098,
+      "image_sha256": "640179e6ccc95909ada5e8db987cd030f885cc5886720da4fecd9e1cb5ee8609",
+      "generation_batch": "batch-05",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_44.webp",
+      "related_track_ids": [
+        "CD1_44"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 45,
+      "source_pdf_page": 18,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.485
+      ],
+      "activity": "C. This is a blue crayon",
+      "kind": "practice",
+      "region_id": "PDF-018-0.0150-0.4850",
+      "id": "CD1_45",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 17,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "regenerated/CD1_45.webp",
+      "page_image": "pages/PDF-018.png",
+      "audio": "audio/CD1_45.mp3",
+      "expected_audio": "audio/CD1_45.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/45 - (Third ed) - Track 45.mp3",
+      "audio_sha256": "1bad1f6a45b3a96bedc4d7581d5949a28f219ed61df2eaa496800bed093ee1ce",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        817
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 52.693333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_45.png",
+      "image_bytes": 27214,
+      "image_sha256": "328ae1d8c210d30a2c355ef0883fc513aebfceb13606715089e92a1e48c3442f",
+      "generation_batch": "batch-05",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_45.webp",
+      "related_track_ids": [
+        "CD1_45"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 46,
+      "source_pdf_page": 18,
+      "crop_normalized": [
+        0,
+        0.485,
+        1,
+        0.925
+      ],
+      "activity": "D. The Black Cat Song",
+      "kind": "song",
+      "region_id": "PDF-018-0.4850-0.9250",
+      "id": "CD1_46",
+      "section": "Unit 2 - Colors and Shapes",
+      "printed_page": 17,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 2 - Colors and Shapes.pdf",
+      "image": "regenerated/CD1_46.webp",
+      "page_image": "pages/PDF-018.png",
+      "audio": "audio/CD1_46.mp3",
+      "expected_audio": "audio/CD1_46.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/46 - (Third ed) - Track 46.mp3",
+      "audio_sha256": "53317f14c5636e3720c2c6e021c3297c907c7994e511c76af772445571041167",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        817,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 62.226667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_46.png",
+      "image_bytes": 34152,
+      "image_sha256": "9852d69812943456157138456b71a2e56a24772a069ec24f7741e3933adde9da",
+      "generation_batch": "batch-05",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_46.webp",
+      "related_track_ids": [
+        "CD1_46"
+      ]
+    }
+  ],
+  "image_variant": "combined-activity-webp",
+  "activity_groups": [
+    "CD1_24-25",
+    "CD1_27-29",
+    "CD1_30-32",
+    "CD1_33-35",
+    "CD1_37-39",
+    "CD1_40-42"
+  ]
+}

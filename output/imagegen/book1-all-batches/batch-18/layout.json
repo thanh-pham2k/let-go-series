@@ -1,0 +1,1 @@
+{"x_cuts":[0,0.265,0.532,0.775,1],"y_cuts":[0,0.56,1],"reason":"Generated park picture and bug activity are wider than nominal cells; use actual content gutters so no objects or text are clipped."}

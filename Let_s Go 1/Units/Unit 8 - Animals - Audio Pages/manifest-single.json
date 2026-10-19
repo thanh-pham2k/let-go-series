@@ -1,0 +1,1369 @@
+{
+  "section": "Unit 8 - Animals",
+  "source_pdf_pages": [
+    65,
+    72
+  ],
+  "page_count": 8,
+  "track_count": 22,
+  "audio_available": 22,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 2,
+      "track": 74,
+      "source_pdf_page": 65,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.7
+      ],
+      "activity": "A. Let's talk: favorite color",
+      "kind": "dialogue",
+      "region_id": "PDF-065-0.1350-0.7000",
+      "id": "CD2_74",
+      "section": "Unit 8 - Animals",
+      "printed_page": 64,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_74.webp",
+      "page_image": "pages/PDF-065.png",
+      "audio": "audio/CD2_74.mp3",
+      "expected_audio": "audio/CD2_74.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/74 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "4369ac25b8ff05efe5324a630e4fc74da2956d102f47d146edde27d96b167d65",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        224,
+        1199,
+        1161
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 24.64,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_74.png",
+      "image_bytes": 68776,
+      "image_sha256": "ad11424cda04ba191de78ae4254d74566c1982e0f2eec107a48d816e927c7f17",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_74.webp",
+      "related_track_ids": [
+        "CD2_74",
+        "CD2_75"
+      ],
+      "activity_group": "CD2_74-75"
+    },
+    {
+      "disc": 2,
+      "track": 75,
+      "source_pdf_page": 65,
+      "crop_normalized": [
+        0,
+        0.7,
+        1,
+        0.925
+      ],
+      "activity": "What’s your favorite color?",
+      "kind": "sentence",
+      "region_id": "PDF-065-0.7000-0.9250",
+      "id": "CD2_75",
+      "section": "Unit 8 - Animals",
+      "printed_page": 64,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_75.webp",
+      "page_image": "pages/PDF-065.png",
+      "audio": "audio/CD2_75.mp3",
+      "expected_audio": "audio/CD2_75.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/75 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "c0c67e2b5f68af841e917f5f9a8ca3aa2dd3fb4729ac9dede7a1291275e91460",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1199,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        1161,
+        1199,
+        1535
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 13.933333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_75.png",
+      "image_bytes": 68776,
+      "image_sha256": "ad11424cda04ba191de78ae4254d74566c1982e0f2eec107a48d816e927c7f17",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_75.webp",
+      "related_track_ids": [
+        "CD2_74",
+        "CD2_75"
+      ],
+      "activity_group": "CD2_74-75"
+    },
+    {
+      "disc": 2,
+      "track": 76,
+      "source_pdf_page": 66,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.395
+      ],
+      "activity": "B. What’s Your Favorite Color?",
+      "kind": "song",
+      "region_id": "PDF-066-0.0150-0.3950",
+      "id": "CD2_76",
+      "section": "Unit 8 - Animals",
+      "printed_page": 65,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated/CD2_76.webp",
+      "page_image": "pages/PDF-066.png",
+      "audio": "audio/CD2_76.mp3",
+      "expected_audio": "audio/CD2_76.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/76 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "a345c82203c2c7398762053272870ca460b582c89f5b678aa67b4b4f02f66c47",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        665
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 43.506667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_76.png",
+      "image_bytes": 37696,
+      "image_sha256": "bfc04d5884c940603032202b7c3ea0776561f1da2087b935028670091e5bbed7",
+      "generation_batch": "batch-24",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_76.webp",
+      "related_track_ids": [
+        "CD2_76"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 77,
+      "source_pdf_page": 66,
+      "crop_normalized": [
+        0,
+        0.395,
+        1,
+        0.73
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-066-0.3950-0.7300",
+      "id": "CD2_77",
+      "section": "Unit 8 - Animals",
+      "printed_page": 65,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_77.webp",
+      "page_image": "pages/PDF-066.png",
+      "audio": "audio/CD2_77.mp3",
+      "expected_audio": "audio/CD2_77.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/77 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "3963e09d2131ec716747b45d449c84c820cd062dc910a5dda2ad8ce7d415c75b",
+      "image_size": [
+        768,
+        768
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        665,
+        1224,
+        1229
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 25.613333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_77.png",
+      "image_bytes": 53438,
+      "image_sha256": "1af9b4542d29f05e04f443741df3b3f4838008fe5eb53f2d25568d32e4d5e32b",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_77.webp",
+      "related_track_ids": [
+        "CD2_77",
+        "CD2_78",
+        "CD2_79"
+      ],
+      "activity_group": "CD2_77-79"
+    },
+    {
+      "disc": 2,
+      "track": 78,
+      "source_pdf_page": 66,
+      "crop_normalized": [
+        0,
+        0.73,
+        1,
+        0.925
+      ],
+      "activity": "I walk / don’t walk the dog every day",
+      "kind": "sentence+actions",
+      "region_id": "PDF-066-0.7300-0.9250",
+      "id": "CD2_78",
+      "section": "Unit 8 - Animals",
+      "printed_page": 65,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_78.webp",
+      "page_image": "pages/PDF-066.png",
+      "audio": "audio/CD2_78.mp3",
+      "expected_audio": "audio/CD2_78.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/78 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "58f7b6689d652b97fb6a944416c9f5ef5b7c0eed656353f4953a97651ac505e6",
+      "image_size": [
+        768,
+        768
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1229,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 44.586667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_78.png",
+      "image_bytes": 53438,
+      "image_sha256": "1af9b4542d29f05e04f443741df3b3f4838008fe5eb53f2d25568d32e4d5e32b",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_78.webp",
+      "related_track_ids": [
+        "CD2_77",
+        "CD2_78",
+        "CD2_79"
+      ],
+      "activity_group": "CD2_77-79"
+    },
+    {
+      "disc": 2,
+      "track": 79,
+      "source_pdf_page": 66,
+      "crop_normalized": [
+        0,
+        0.73,
+        1,
+        0.925
+      ],
+      "activity": "I walk / don’t walk the dog every day",
+      "kind": "sentence+actions",
+      "region_id": "PDF-066-0.7300-0.9250",
+      "id": "CD2_79",
+      "section": "Unit 8 - Animals",
+      "printed_page": 65,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_79.webp",
+      "page_image": "pages/PDF-066.png",
+      "audio": "audio/CD2_79.mp3",
+      "expected_audio": "audio/CD2_79.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/79 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "403a13c462f944da34e2c554a04e8c0812c47e76367642524a9f20baefadd11c",
+      "image_size": [
+        768,
+        768
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1229,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 33.12,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_79.png",
+      "image_bytes": 53438,
+      "image_sha256": "1af9b4542d29f05e04f443741df3b3f4838008fe5eb53f2d25568d32e4d5e32b",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_79.webp",
+      "related_track_ids": [
+        "CD2_77",
+        "CD2_78",
+        "CD2_79"
+      ],
+      "activity_group": "CD2_77-79"
+    },
+    {
+      "disc": 2,
+      "track": 80,
+      "source_pdf_page": 67,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.69
+      ],
+      "activity": "A. Pets",
+      "kind": "words",
+      "region_id": "PDF-067-0.1350-0.6900",
+      "id": "CD2_80",
+      "section": "Unit 8 - Animals",
+      "printed_page": 66,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_80.webp",
+      "page_image": "pages/PDF-067.png",
+      "audio": "audio/CD2_80.mp3",
+      "expected_audio": "audio/CD2_80.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/80 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "fcfc44d1bf398f29e731f4b1511ca66420373bd624c627da34fa28337ffb3213",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1212,
+        1162
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 62.826667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_80.png",
+      "image_bytes": 66170,
+      "image_sha256": "032132ee478d8393c3a14853de84ea5b55b1b0c2fb33a6808e5319b2577a3e5e",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_80.webp",
+      "related_track_ids": [
+        "CD2_80",
+        "CD2_81",
+        "CD2_82"
+      ],
+      "activity_group": "CD2_80-82"
+    },
+    {
+      "disc": 2,
+      "track": 81,
+      "source_pdf_page": 67,
+      "crop_normalized": [
+        0,
+        0.69,
+        1,
+        0.925
+      ],
+      "activity": "B. I like dogs",
+      "kind": "sentence+words",
+      "region_id": "PDF-067-0.6900-0.9250",
+      "id": "CD2_81",
+      "section": "Unit 8 - Animals",
+      "printed_page": 66,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_81.webp",
+      "page_image": "pages/PDF-067.png",
+      "audio": "audio/CD2_81.mp3",
+      "expected_audio": "audio/CD2_81.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/81 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "09115b4635c7fb770e2aaa4e08278c28622157ddf11b7f663100ebc80f016aa4",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1162,
+        1212,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 28.96,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_81.png",
+      "image_bytes": 66170,
+      "image_sha256": "032132ee478d8393c3a14853de84ea5b55b1b0c2fb33a6808e5319b2577a3e5e",
+      "generation_batch": "batch-24",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_81.webp",
+      "related_track_ids": [
+        "CD2_80",
+        "CD2_81",
+        "CD2_82"
+      ],
+      "activity_group": "CD2_80-82"
+    },
+    {
+      "disc": 2,
+      "track": 82,
+      "source_pdf_page": 67,
+      "crop_normalized": [
+        0,
+        0.69,
+        1,
+        0.925
+      ],
+      "activity": "B. I like dogs",
+      "kind": "sentence+words",
+      "region_id": "PDF-067-0.6900-0.9250",
+      "id": "CD2_82",
+      "section": "Unit 8 - Animals",
+      "printed_page": 66,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_82.webp",
+      "page_image": "pages/PDF-067.png",
+      "audio": "audio/CD2_82.mp3",
+      "expected_audio": "audio/CD2_82.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/82 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "81ac277dc2508670e2ffb84e8e9f0dbb6711a89f973c85586de3234db5c93b04",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1162,
+        1212,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 27.586667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_82.png",
+      "image_bytes": 66170,
+      "image_sha256": "032132ee478d8393c3a14853de84ea5b55b1b0c2fb33a6808e5319b2577a3e5e",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_82.webp",
+      "related_track_ids": [
+        "CD2_80",
+        "CD2_81",
+        "CD2_82"
+      ],
+      "activity_group": "CD2_80-82"
+    },
+    {
+      "disc": 2,
+      "track": 83,
+      "source_pdf_page": 68,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.45
+      ],
+      "activity": "C. What do you like?",
+      "kind": "question+picture",
+      "region_id": "PDF-068-0.0150-0.4500",
+      "id": "CD2_83",
+      "section": "Unit 8 - Animals",
+      "printed_page": 67,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_83.webp",
+      "page_image": "pages/PDF-068.png",
+      "audio": "audio/CD2_83.mp3",
+      "expected_audio": "audio/CD2_83.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/83 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "e798460a2695a77d1f142b73abba7656107da0a2aa7f2146098b55e99a2f9b46",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1219,
+        758
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 57.56,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_83.png",
+      "image_bytes": 79292,
+      "image_sha256": "a72bf4a4439e0cebc17f185477c31b7be7f2f2b8b7a35a7107747cd50b33b8d4",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_83.webp",
+      "related_track_ids": [
+        "CD2_83",
+        "CD2_84",
+        "CD2_85"
+      ],
+      "activity_group": "CD2_83-85"
+    },
+    {
+      "disc": 2,
+      "track": 84,
+      "source_pdf_page": 68,
+      "crop_normalized": [
+        0,
+        0.45,
+        1,
+        0.585
+      ],
+      "activity": "What do you like? I like frogs",
+      "kind": "question+model",
+      "region_id": "PDF-068-0.4500-0.5850",
+      "id": "CD2_84",
+      "section": "Unit 8 - Animals",
+      "printed_page": 67,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_84.webp",
+      "page_image": "pages/PDF-068.png",
+      "audio": "audio/CD2_84.mp3",
+      "expected_audio": "audio/CD2_84.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/84 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "f35dba29e426345cc97c5b8edeb1ff93722008dcce85238843a56ed6f12c3b08",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        758,
+        1219,
+        985
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 39.32,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_84.png",
+      "image_bytes": 79292,
+      "image_sha256": "a72bf4a4439e0cebc17f185477c31b7be7f2f2b8b7a35a7107747cd50b33b8d4",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_84.webp",
+      "related_track_ids": [
+        "CD2_83",
+        "CD2_84",
+        "CD2_85"
+      ],
+      "activity_group": "CD2_83-85"
+    },
+    {
+      "disc": 2,
+      "track": 85,
+      "source_pdf_page": 68,
+      "crop_normalized": [
+        0,
+        0.45,
+        1,
+        0.585
+      ],
+      "activity": "What do you like? I like frogs",
+      "kind": "question+model",
+      "region_id": "PDF-068-0.4500-0.5850",
+      "id": "CD2_85",
+      "section": "Unit 8 - Animals",
+      "printed_page": 67,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_85.webp",
+      "page_image": "pages/PDF-068.png",
+      "audio": "audio/CD2_85.mp3",
+      "expected_audio": "audio/CD2_85.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/85 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "beca26e1ba877ac477579f36b0d3b753362462db7469965e0b9dd5ca21829cdf",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        758,
+        1219,
+        985
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 41.986667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_85.png",
+      "image_bytes": 79292,
+      "image_sha256": "a72bf4a4439e0cebc17f185477c31b7be7f2f2b8b7a35a7107747cd50b33b8d4",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_85.webp",
+      "related_track_ids": [
+        "CD2_83",
+        "CD2_84",
+        "CD2_85"
+      ],
+      "activity_group": "CD2_83-85"
+    },
+    {
+      "disc": 2,
+      "track": 86,
+      "source_pdf_page": 69,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.685
+      ],
+      "activity": "A. Animals",
+      "kind": "words",
+      "region_id": "PDF-069-0.1350-0.6850",
+      "id": "CD2_86",
+      "section": "Unit 8 - Animals",
+      "printed_page": 68,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_86.webp",
+      "page_image": "pages/PDF-069.png",
+      "audio": "audio/CD2_86.mp3",
+      "expected_audio": "audio/CD2_86.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/86 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "510b66bf947d4bc19367f1a81222b318b4d1584c60376c611adabebba75e8f69",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1154
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 65.76,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_86.png",
+      "image_bytes": 77772,
+      "image_sha256": "150c2802021ff7f39aeee0439c0603a09740b32c4f520b53e2dc3c9cb8353cf4",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_86.webp",
+      "related_track_ids": [
+        "CD2_86",
+        "CD2_87",
+        "CD2_88"
+      ],
+      "activity_group": "CD2_86-88"
+    },
+    {
+      "disc": 2,
+      "track": 87,
+      "source_pdf_page": 69,
+      "crop_normalized": [
+        0,
+        0.685,
+        1,
+        0.925
+      ],
+      "activity": "B. I like monkeys / I don’t like bears",
+      "kind": "sentence+words",
+      "region_id": "PDF-069-0.6850-0.9250",
+      "id": "CD2_87",
+      "section": "Unit 8 - Animals",
+      "printed_page": 68,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_87.webp",
+      "page_image": "pages/PDF-069.png",
+      "audio": "audio/CD2_87.mp3",
+      "expected_audio": "audio/CD2_87.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/87 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "4801b1218902ca1cdbfd64cfebc83bdc4ec62cb760b321696d12aae76f1536d2",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1154,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 57.32,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_87.png",
+      "image_bytes": 77772,
+      "image_sha256": "150c2802021ff7f39aeee0439c0603a09740b32c4f520b53e2dc3c9cb8353cf4",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_87.webp",
+      "related_track_ids": [
+        "CD2_86",
+        "CD2_87",
+        "CD2_88"
+      ],
+      "activity_group": "CD2_86-88"
+    },
+    {
+      "disc": 2,
+      "track": 88,
+      "source_pdf_page": 69,
+      "crop_normalized": [
+        0,
+        0.685,
+        1,
+        0.925
+      ],
+      "activity": "B. I like monkeys / I don’t like bears",
+      "kind": "sentence+words",
+      "region_id": "PDF-069-0.6850-0.9250",
+      "id": "CD2_88",
+      "section": "Unit 8 - Animals",
+      "printed_page": 68,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_88.webp",
+      "page_image": "pages/PDF-069.png",
+      "audio": "audio/CD2_88.mp3",
+      "expected_audio": "audio/CD2_88.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/88 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "82a0dce02253ee47d119c3041e87c2db8fae1a09d439ae672ca5250cd783b164",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1154,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 45.493333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_88.png",
+      "image_bytes": 77772,
+      "image_sha256": "150c2802021ff7f39aeee0439c0603a09740b32c4f520b53e2dc3c9cb8353cf4",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_88.webp",
+      "related_track_ids": [
+        "CD2_86",
+        "CD2_87",
+        "CD2_88"
+      ],
+      "activity_group": "CD2_86-88"
+    },
+    {
+      "disc": 2,
+      "track": 89,
+      "source_pdf_page": 70,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.695
+      ],
+      "activity": "C. Do you like giraffes / lions?",
+      "kind": "question+picture",
+      "region_id": "PDF-070-0.0150-0.6950",
+      "id": "CD2_89",
+      "section": "Unit 8 - Animals",
+      "printed_page": 69,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_89.webp",
+      "page_image": "pages/PDF-070.png",
+      "audio": "audio/CD2_89.mp3",
+      "expected_audio": "audio/CD2_89.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/89 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "817e2aad65c29ab99d807cafac77fba175d0e14c6ccf5b6e8bc1aaf29808acb3",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1219,
+        1170
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 63.04,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_89.png",
+      "image_bytes": 119464,
+      "image_sha256": "91a55e2a5be6467961a5328a551633f822c176201b9e2dbf2740eb32c188d7fa",
+      "generation_batch": "batch-25",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_89.webp",
+      "related_track_ids": [
+        "CD2_89",
+        "CD2_90",
+        "CD2_91"
+      ],
+      "activity_group": "CD2_89-91"
+    },
+    {
+      "disc": 2,
+      "track": 90,
+      "source_pdf_page": 70,
+      "crop_normalized": [
+        0,
+        0.695,
+        1,
+        0.925
+      ],
+      "activity": "Do you like elephants / tigers?",
+      "kind": "question+model",
+      "region_id": "PDF-070-0.6950-0.9250",
+      "id": "CD2_90",
+      "section": "Unit 8 - Animals",
+      "printed_page": 69,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_90.webp",
+      "page_image": "pages/PDF-070.png",
+      "audio": "audio/CD2_90.mp3",
+      "expected_audio": "audio/CD2_90.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/90 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "41b291eb8b252edb2e41572a2e6f6a5d7bfbbb357bbb031cd27f91c70b44afb5",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1170,
+        1219,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 47.16,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_90.png",
+      "image_bytes": 119464,
+      "image_sha256": "91a55e2a5be6467961a5328a551633f822c176201b9e2dbf2740eb32c188d7fa",
+      "generation_batch": "batch-26",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_90.webp",
+      "related_track_ids": [
+        "CD2_89",
+        "CD2_90",
+        "CD2_91"
+      ],
+      "activity_group": "CD2_89-91"
+    },
+    {
+      "disc": 2,
+      "track": 91,
+      "source_pdf_page": 70,
+      "crop_normalized": [
+        0,
+        0.695,
+        1,
+        0.925
+      ],
+      "activity": "Do you like elephants / tigers?",
+      "kind": "question+model",
+      "region_id": "PDF-070-0.6950-0.9250",
+      "id": "CD2_91",
+      "section": "Unit 8 - Animals",
+      "printed_page": 69,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated-single/CD2_91.webp",
+      "page_image": "pages/PDF-070.png",
+      "audio": "audio/CD2_91.mp3",
+      "expected_audio": "audio/CD2_91.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/91 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "55027e2ec98377b3b89a62fcdc12a4e00513be1d3aaa14642ef6eaaacabf0228",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1219,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1170,
+        1219,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 30.346667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_91.png",
+      "image_bytes": 119464,
+      "image_sha256": "91a55e2a5be6467961a5328a551633f822c176201b9e2dbf2740eb32c188d7fa",
+      "generation_batch": "batch-26",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_91.webp",
+      "related_track_ids": [
+        "CD2_89",
+        "CD2_90",
+        "CD2_91"
+      ],
+      "activity_group": "CD2_89-91"
+    },
+    {
+      "disc": 2,
+      "track": 92,
+      "source_pdf_page": 71,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.379
+      ],
+      "activity": "A. Alphabet V–Z",
+      "kind": "alphabet",
+      "region_id": "PDF-071-0.1350-0.3790",
+      "id": "CD2_92",
+      "section": "Unit 8 - Animals",
+      "printed_page": 70,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated/CD2_92.webp",
+      "page_image": "pages/PDF-071.png",
+      "audio": "audio/CD2_92.mp3",
+      "expected_audio": "audio/CD2_92.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/92 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "4d8fe67a87f80002576c55225abe360b70938f431d04883961742565a7f1b13f",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1212,
+        638
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 57.893333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_92.png",
+      "image_bytes": 23912,
+      "image_sha256": "5622fea3cccd7e879ef3ccb1d8e2c866a03fe3de91d7c4ae5a72c2a22133358b",
+      "generation_batch": "batch-26",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_92.webp",
+      "related_track_ids": [
+        "CD2_92"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 93,
+      "source_pdf_page": 71,
+      "crop_normalized": [
+        0,
+        0.379,
+        1,
+        0.925
+      ],
+      "activity": "B. Do you like giraffes?",
+      "kind": "practice",
+      "region_id": "PDF-071-0.3790-0.9250",
+      "id": "CD2_93",
+      "section": "Unit 8 - Animals",
+      "printed_page": 70,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated/CD2_93.webp",
+      "page_image": "pages/PDF-071.png",
+      "audio": "audio/CD2_93.mp3",
+      "expected_audio": "audio/CD2_93.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/93 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "260c5846dfdff299bc2321ca96e243305499253ae652cfc77e15a5edfd249de5",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        638,
+        1212,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 19.066667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_93.png",
+      "image_bytes": 47582,
+      "image_sha256": "dbc4d44d4c40af467423c276a77001062dbe3b2d4c4e3906afc28df60513c019",
+      "generation_batch": "batch-26",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_93.webp",
+      "related_track_ids": [
+        "CD2_93"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 94,
+      "source_pdf_page": 72,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.54
+      ],
+      "activity": "C. What do you like / want?",
+      "kind": "practice",
+      "region_id": "PDF-072-0.0150-0.5400",
+      "id": "CD2_94",
+      "section": "Unit 8 - Animals",
+      "printed_page": 71,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated/CD2_94.webp",
+      "page_image": "pages/PDF-072.png",
+      "audio": "audio/CD2_94.mp3",
+      "expected_audio": "audio/CD2_94.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/94 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "86651cf0880decac0ee668cda1520bdb8187201631d126991d9d34a339bba18d",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        909
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 22.48,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_94.png",
+      "image_bytes": 54692,
+      "image_sha256": "c1b9094e0af266beb2eba71fa6dadf608ffe8c2b0a8a1da38bbd484603774062",
+      "generation_batch": "batch-26",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_94.webp",
+      "related_track_ids": [
+        "CD2_94"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 95,
+      "source_pdf_page": 72,
+      "crop_normalized": [
+        0,
+        0.54,
+        1,
+        0.925
+      ],
+      "activity": "D. I Like Turtles",
+      "kind": "song",
+      "region_id": "PDF-072-0.5400-0.9250",
+      "id": "CD2_95",
+      "section": "Unit 8 - Animals",
+      "printed_page": 71,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 8 - Animals.pdf",
+      "image": "regenerated/CD2_95.webp",
+      "page_image": "pages/PDF-072.png",
+      "audio": "audio/CD2_95.mp3",
+      "expected_audio": "audio/CD2_95.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/95 - (CD2) - (3 ED-LAST 5 TRACKS).mp3",
+      "audio_sha256": "6ad977d6d529576db4a768b8c6fca68ce0704e882cb627507cf44a1ad11c0595",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        909,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 71.746667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_95.png",
+      "image_bytes": 34644,
+      "image_sha256": "90c8df3f07159a2ba69ebbb996b1eca727a5470a18f97664b8655f577253cfca",
+      "generation_batch": "batch-26",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_95.webp",
+      "related_track_ids": [
+        "CD2_95"
+      ]
+    }
+  ],
+  "image_variant": "single-batch-regenerated-webp",
+  "activity_groups": [
+    "CD2_74-75",
+    "CD2_77-79",
+    "CD2_80-82",
+    "CD2_83-85",
+    "CD2_86-88",
+    "CD2_89-91"
+  ]
+}

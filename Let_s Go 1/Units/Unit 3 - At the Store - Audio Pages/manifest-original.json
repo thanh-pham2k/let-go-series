@@ -1,0 +1,1163 @@
+{
+  "section": "Unit 3 - At the Store",
+  "source_pdf_pages": [
+    21,
+    28
+  ],
+  "page_count": 8,
+  "track_count": 23,
+  "audio_available": 23,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 50,
+      "source_pdf_page": 21,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.735
+      ],
+      "activity": "A. Let's talk: This is my friend",
+      "kind": "dialogue",
+      "region_id": "PDF-021-0.1350-0.7350",
+      "id": "CD1_50",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 20,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_50.png",
+      "page_image": "pages/PDF-021.png",
+      "audio": "audio/CD1_50.mp3",
+      "expected_audio": "audio/CD1_50.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/50 - (Third ed) - Track 50.mp3",
+      "audio_sha256": "5480ec0619fa09a4d85aaaa95ea9677b000e24ad500b1af22b592664546af5ae",
+      "image_size": [
+        1224,
+        1011
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1238
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 26.56,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 51,
+      "source_pdf_page": 21,
+      "crop_normalized": [
+        0,
+        0.735,
+        1,
+        0.925
+      ],
+      "activity": "This is my friend, Sarah",
+      "kind": "sentence",
+      "region_id": "PDF-021-0.7350-0.9250",
+      "id": "CD1_51",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 20,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_51.png",
+      "page_image": "pages/PDF-021.png",
+      "audio": "audio/CD1_51.mp3",
+      "expected_audio": "audio/CD1_51.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/51 - (Third ed) - Track 51.mp3",
+      "audio_sha256": "698bc9846a92cecdffde01eab93f9ae5e365d5c871b9a088df6c6deded4261cd",
+      "image_size": [
+        1224,
+        320
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1238,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 9.266667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 52,
+      "source_pdf_page": 22,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.405
+      ],
+      "activity": "B. This Is My Friend",
+      "kind": "song",
+      "region_id": "PDF-022-0.0150-0.4050",
+      "id": "CD1_52",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 21,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_52.png",
+      "page_image": "pages/PDF-022.png",
+      "audio": "audio/CD1_52.mp3",
+      "expected_audio": "audio/CD1_52.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/52 - (Third ed) - Track 52.mp3",
+      "audio_sha256": "f513d2dc8cfadf7fc0a142559f13d35b03c1b7b42cd5cb475bb74d2bcee2fce6",
+      "image_size": [
+        1224,
+        657
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        682
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 38.226667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 53,
+      "source_pdf_page": 22,
+      "crop_normalized": [
+        0,
+        0.405,
+        1,
+        0.75
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-022-0.4050-0.7500",
+      "id": "CD1_53",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 21,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_53.png",
+      "page_image": "pages/PDF-022.png",
+      "audio": "audio/CD1_53.mp3",
+      "expected_audio": "audio/CD1_53.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/53 - (Third ed) - Track 53.mp3",
+      "audio_sha256": "8713191b48d082688315482c1a26cb8f042a1f083bc5f1db28b577a7922d44c7",
+      "image_size": [
+        1224,
+        581
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        682,
+        1224,
+        1263
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 25.613333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 54,
+      "source_pdf_page": 22,
+      "crop_normalized": [
+        0,
+        0.75,
+        1,
+        0.925
+      ],
+      "activity": "I can count to ten",
+      "kind": "sentence+actions",
+      "region_id": "PDF-022-0.7500-0.9250",
+      "id": "CD1_54",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 21,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_54.png",
+      "page_image": "pages/PDF-022.png",
+      "audio": "audio/CD1_54.mp3",
+      "expected_audio": "audio/CD1_54.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/54 - (Third ed) - Track 54.mp3",
+      "audio_sha256": "7a3ebf8b4e0a25787cf7e6eea086ed5fff5cc3a6504e1ab73e26a03bc3025128",
+      "image_size": [
+        1224,
+        295
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1263,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 20.546667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 55,
+      "source_pdf_page": 22,
+      "crop_normalized": [
+        0,
+        0.75,
+        1,
+        0.925
+      ],
+      "activity": "I can count to ten",
+      "kind": "sentence+actions",
+      "region_id": "PDF-022-0.7500-0.9250",
+      "id": "CD1_55",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 21,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_55.png",
+      "page_image": "pages/PDF-022.png",
+      "audio": "audio/CD1_55.mp3",
+      "expected_audio": "audio/CD1_55.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/55 - (Third ed) - Track 55.mp3",
+      "audio_sha256": "9d003053b32648f6d5d5e1c6ab30a02738444ac3dfaf9a506695f2bd93eafede",
+      "image_size": [
+        1224,
+        295
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1263,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 24.08,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 56,
+      "source_pdf_page": 23,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.68
+      ],
+      "activity": "A. Crayons, markers, notebooks, pencil cases",
+      "kind": "words",
+      "region_id": "PDF-023-0.1350-0.6800",
+      "id": "CD1_56",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 22,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_56.png",
+      "page_image": "pages/PDF-023.png",
+      "audio": "audio/CD1_56.mp3",
+      "expected_audio": "audio/CD1_56.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/56 - (Third ed) - Track 56.mp3",
+      "audio_sha256": "e8f87325b6d3f26fbd01b6c8098a48229f6dffd1f5be63037d49b0cb03ed6ab1",
+      "image_size": [
+        1224,
+        918
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1145
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.24,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 57,
+      "source_pdf_page": 23,
+      "crop_normalized": [
+        0,
+        0.68,
+        1,
+        0.925
+      ],
+      "activity": "B. One crayon / Three crayons",
+      "kind": "sentence+words",
+      "region_id": "PDF-023-0.6800-0.9250",
+      "id": "CD1_57",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 22,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_57.png",
+      "page_image": "pages/PDF-023.png",
+      "audio": "audio/CD1_57.mp3",
+      "expected_audio": "audio/CD1_57.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/57 - (Third ed) - Track 57.mp3",
+      "audio_sha256": "d3425a889c1511ad207bdcfb9a3f9c340998ef1c2232eb2c5f4461bbdcecbb57",
+      "image_size": [
+        1224,
+        413
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1145,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 35.693333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 58,
+      "source_pdf_page": 23,
+      "crop_normalized": [
+        0,
+        0.68,
+        1,
+        0.925
+      ],
+      "activity": "B. One crayon / Three crayons",
+      "kind": "sentence+words",
+      "region_id": "PDF-023-0.6800-0.9250",
+      "id": "CD1_58",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 22,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_58.png",
+      "page_image": "pages/PDF-023.png",
+      "audio": "audio/CD1_58.mp3",
+      "expected_audio": "audio/CD1_58.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/58 - (Third ed) - Track 58.mp3",
+      "audio_sha256": "37500f603efb2cdeb18a82f6a6d03b91769128ea2aa13253666a1b068a475ee4",
+      "image_size": [
+        1224,
+        413
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1145,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 31.946667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 59,
+      "source_pdf_page": 24,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.39
+      ],
+      "activity": "C. How many crayons / notebooks?",
+      "kind": "question+picture",
+      "region_id": "PDF-024-0.0150-0.3900",
+      "id": "CD1_59",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 23,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_59.png",
+      "page_image": "pages/PDF-024.png",
+      "audio": "audio/CD1_59.mp3",
+      "expected_audio": "audio/CD1_59.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/59 - (Third ed) - Track 59.mp3",
+      "audio_sha256": "de3cf0d7c76582cdf72bd093a8797e49d673173ead0f4564470cf85570b9a8d3",
+      "image_size": [
+        1224,
+        632
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        657
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 79.626667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 60,
+      "source_pdf_page": 24,
+      "crop_normalized": [
+        0,
+        0.39,
+        1,
+        0.51
+      ],
+      "activity": "How many? One / Three",
+      "kind": "question+model",
+      "region_id": "PDF-024-0.3900-0.5100",
+      "id": "CD1_60",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 23,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_60.png",
+      "page_image": "pages/PDF-024.png",
+      "audio": "audio/CD1_60.mp3",
+      "expected_audio": "audio/CD1_60.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/60 - (Third ed) - Track 60.mp3",
+      "audio_sha256": "4439bc455df79643ec867eefadb4b71359dcc0c2857fb77964e95bab6a069f81",
+      "image_size": [
+        1224,
+        202
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        657,
+        1224,
+        859
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 51.36,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 61,
+      "source_pdf_page": 24,
+      "crop_normalized": [
+        0,
+        0.39,
+        1,
+        0.51
+      ],
+      "activity": "How many? One / Three",
+      "kind": "question+model",
+      "region_id": "PDF-024-0.3900-0.5100",
+      "id": "CD1_61",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 23,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_61.png",
+      "page_image": "pages/PDF-024.png",
+      "audio": "audio/CD1_61.mp3",
+      "expected_audio": "audio/CD1_61.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/61 - (Third ed) - Track 61.mp3",
+      "audio_sha256": "9b22a17cef079e6b60ee5cec7626545dd51283753f364eb1f8ab39c0b4a9b146",
+      "image_size": [
+        1224,
+        202
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        657,
+        1224,
+        859
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 50.173333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 62,
+      "source_pdf_page": 24,
+      "crop_normalized": [
+        0,
+        0.515,
+        1,
+        0.925
+      ],
+      "activity": "D. How Many?",
+      "kind": "song",
+      "region_id": "PDF-024-0.5150-0.9250",
+      "id": "CD1_62",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 23,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_62.png",
+      "page_image": "pages/PDF-024.png",
+      "audio": "audio/CD1_62.mp3",
+      "expected_audio": "audio/CD1_62.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/62 - (Third ed) - Track 62.mp3",
+      "audio_sha256": "759ee87e9afe1903b6df6b6e7e7b04ef0d881e322819b9560d149c14eb5a9606",
+      "image_size": [
+        1224,
+        691
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        867,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 50.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 63,
+      "source_pdf_page": 25,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.705
+      ],
+      "activity": "A. CDs, video games, cell phones, computers",
+      "kind": "words",
+      "region_id": "PDF-025-0.1350-0.7050",
+      "id": "CD1_63",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 24,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_63.png",
+      "page_image": "pages/PDF-025.png",
+      "audio": "audio/CD1_63.mp3",
+      "expected_audio": "audio/CD1_63.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/63 - (Third ed) - Track 63.mp3",
+      "audio_sha256": "7058c96f27739e56398efeb02addb7b8d4d8014528ffb160de35b4670a6c9c14",
+      "image_size": [
+        1106,
+        932
+      ],
+      "source_page_size": [
+        1106,
+        1636
+      ],
+      "crop_pixels": [
+        0,
+        221,
+        1106,
+        1153
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 47.72,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 64,
+      "source_pdf_page": 25,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s a CD / They’re CDs",
+      "kind": "sentence+words",
+      "region_id": "PDF-025-0.7050-0.9250",
+      "id": "CD1_64",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 24,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_64.png",
+      "page_image": "pages/PDF-025.png",
+      "audio": "audio/CD1_64.mp3",
+      "expected_audio": "audio/CD1_64.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/64 - (Third ed) - Track 64.mp3",
+      "audio_sha256": "971a730db48e7242f17bf1427a7a8de5bf4029ba3338acece8aa18cbf85ee138",
+      "image_size": [
+        1106,
+        360
+      ],
+      "source_page_size": [
+        1106,
+        1636
+      ],
+      "crop_pixels": [
+        0,
+        1153,
+        1106,
+        1513
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 44.52,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 65,
+      "source_pdf_page": 25,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s a CD / They’re CDs",
+      "kind": "sentence+words",
+      "region_id": "PDF-025-0.7050-0.9250",
+      "id": "CD1_65",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 24,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_65.png",
+      "page_image": "pages/PDF-025.png",
+      "audio": "audio/CD1_65.mp3",
+      "expected_audio": "audio/CD1_65.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/65 - (Third ed) - Track 65.mp3",
+      "audio_sha256": "9ad50e790d3a3ff3bc6e6cd3771a145d3ac0dd1f7972b4e563b8f8cb79300522",
+      "image_size": [
+        1106,
+        360
+      ],
+      "source_page_size": [
+        1106,
+        1636
+      ],
+      "crop_pixels": [
+        0,
+        1153,
+        1106,
+        1513
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 29.72,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 66,
+      "source_pdf_page": 26,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.425
+      ],
+      "activity": "C. What’s this / What are these?",
+      "kind": "question+picture",
+      "region_id": "PDF-026-0.0150-0.5200",
+      "id": "CD1_66",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 25,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_66.png",
+      "page_image": "pages/PDF-026.png",
+      "audio": "audio/CD1_66.mp3",
+      "expected_audio": "audio/CD1_66.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/66 - (Third ed) - Track 66.mp3",
+      "audio_sha256": "be9e485100e7b7c628beba1a78c00b1aba73cbbd09af4cc9ec7a1aa14650b545",
+      "image_size": [
+        1224,
+        685
+      ],
+      "source_page_size": [
+        1224,
+        1671
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        710
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 77.386667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 67,
+      "source_pdf_page": 26,
+      "crop_normalized": [
+        0,
+        0.425,
+        1,
+        0.61
+      ],
+      "activity": "It’s a cell phone / They’re video games",
+      "kind": "question+model",
+      "region_id": "PDF-026-0.5200-0.6250",
+      "id": "CD1_67",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 25,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_67.png",
+      "page_image": "pages/PDF-026.png",
+      "audio": "audio/CD1_67.mp3",
+      "expected_audio": "audio/CD1_67.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/67 - (Third ed) - Track 67.mp3",
+      "audio_sha256": "dd1a54de79b7c4619aac45e6a5cb2046147daa702462d3382f80076421718e40",
+      "image_size": [
+        1224,
+        309
+      ],
+      "source_page_size": [
+        1224,
+        1671
+      ],
+      "crop_pixels": [
+        0,
+        710,
+        1224,
+        1019
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 56.373333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 68,
+      "source_pdf_page": 26,
+      "crop_normalized": [
+        0,
+        0.425,
+        1,
+        0.61
+      ],
+      "activity": "It’s a cell phone / They’re video games",
+      "kind": "question+model",
+      "region_id": "PDF-026-0.5200-0.6250",
+      "id": "CD1_68",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 25,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_68.png",
+      "page_image": "pages/PDF-026.png",
+      "audio": "audio/CD1_68.mp3",
+      "expected_audio": "audio/CD1_68.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/68 - (Third ed) - Track 68.mp3",
+      "audio_sha256": "0104bd0a6687cb8144d2ee1e789b8734db4347ea945a43423c94d3fa685e7b99",
+      "image_size": [
+        1224,
+        309
+      ],
+      "source_page_size": [
+        1224,
+        1671
+      ],
+      "crop_pixels": [
+        0,
+        710,
+        1224,
+        1019
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 69,
+      "source_pdf_page": 27,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.385
+      ],
+      "activity": "A. Alphabet D–F",
+      "kind": "alphabet",
+      "region_id": "PDF-027-0.1350-0.3850",
+      "id": "CD1_69",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 26,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_69.png",
+      "page_image": "pages/PDF-027.png",
+      "audio": "audio/CD1_69.mp3",
+      "expected_audio": "audio/CD1_69.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/69 - (Third ed) - Track 69.mp3",
+      "audio_sha256": "5b57f991e66afce973f112024ac8208b2548f6f5b98692a9f24dfa0cc3471950",
+      "image_size": [
+        1224,
+        421
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        648
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 37.0,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 70,
+      "source_pdf_page": 27,
+      "crop_normalized": [
+        0,
+        0.385,
+        1,
+        0.925
+      ],
+      "activity": "B. Ask and answer: this / these",
+      "kind": "practice",
+      "region_id": "PDF-027-0.3850-0.9250",
+      "id": "CD1_70",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 26,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_70.png",
+      "page_image": "pages/PDF-027.png",
+      "audio": "audio/CD1_70.mp3",
+      "expected_audio": "audio/CD1_70.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/70 - (Third ed) - Track 70.mp3",
+      "audio_sha256": "bbdcca2b0be642c8015a4cb082a29f966367d355dff82e6c474ec32eeb11a2cc",
+      "image_size": [
+        1224,
+        910
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        648,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 19.333333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 71,
+      "source_pdf_page": 28,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.525
+      ],
+      "activity": "C. What color are these?",
+      "kind": "practice",
+      "region_id": "PDF-028-0.0150-0.5250",
+      "id": "CD1_71",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 27,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_71.png",
+      "page_image": "pages/PDF-028.png",
+      "audio": "audio/CD1_71.mp3",
+      "expected_audio": "audio/CD1_71.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/71 - (Third ed) - Track 71.mp3",
+      "audio_sha256": "46346dc489cee26254b1fa969ac36fd725bfa3b19bc5cccb15a25779868e0f6c",
+      "image_size": [
+        1199,
+        823
+      ],
+      "source_page_size": [
+        1199,
+        1613
+      ],
+      "crop_pixels": [
+        0,
+        24,
+        1199,
+        847
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 12.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 72,
+      "source_pdf_page": 28,
+      "crop_normalized": [
+        0,
+        0.525,
+        1,
+        0.925
+      ],
+      "activity": "D. What’s This?",
+      "kind": "song",
+      "region_id": "PDF-028-0.5250-0.9250",
+      "id": "CD1_72",
+      "section": "Unit 3 - At the Store",
+      "printed_page": 27,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 3 - At the Store.pdf",
+      "image": "tracks/CD1_72.png",
+      "page_image": "pages/PDF-028.png",
+      "audio": "audio/CD1_72.mp3",
+      "expected_audio": "audio/CD1_72.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/72 - (Third ed) - Track 72.mp3",
+      "audio_sha256": "cb0bbd1ed1299a071897eb1fff2e6ab4dad0d47b62ff4b717c92dabb1f2be555",
+      "image_size": [
+        1199,
+        645
+      ],
+      "source_page_size": [
+        1199,
+        1613
+      ],
+      "crop_pixels": [
+        0,
+        847,
+        1199,
+        1492
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 31.186667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    }
+  ]
+}

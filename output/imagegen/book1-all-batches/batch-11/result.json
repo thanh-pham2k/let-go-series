@@ -1,0 +1,54 @@
+{
+  "job": "batch-11",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-11\\generated.png",
+  "tracks": [
+    {
+      "id": "CD1_81",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_81.webp",
+      "bytes": 12468,
+      "sha256": "a4a1fcf88bd8c3ae6eccf8e43e1d08d12ab5844cacda9bc3828024e1566d83ee"
+    },
+    {
+      "id": "CD1_82",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_82.webp",
+      "bytes": 49712,
+      "sha256": "6d288b9ca70368e701a00e14ad067972baf3dbfeeb1f8c1bab233d562f448f88"
+    },
+    {
+      "id": "CD1_83",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_83.webp",
+      "bytes": 12128,
+      "sha256": "db6def6e6cddf2f19a49ab37c326022af5c085561507022ba19a559602a6ac0e"
+    },
+    {
+      "id": "CD1_84",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_84.webp",
+      "bytes": 12116,
+      "sha256": "cded8e11cdccda3638dad35ce68c7edf494e3f8715d88194e6ba18e3c1d61624"
+    },
+    {
+      "id": "CD1_85",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_85.webp",
+      "bytes": 32288,
+      "sha256": "15f96cf64ad13f40a652bcc7e2c0edf8c30ab435db12efe814d7cd7e47c02ebb"
+    },
+    {
+      "id": "CD1_86",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_86.webp",
+      "bytes": 10796,
+      "sha256": "4796398794188a67e5f0408d771f1a5125c1cb8290b345a7df07868e6059863d"
+    },
+    {
+      "id": "CD1_87",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_87.webp",
+      "bytes": 10978,
+      "sha256": "99fb5b4a33a2ab6ba60dbc51835db5dc7702f786095f8b3347e64b18a9d93ae0"
+    },
+    {
+      "id": "CD1_88",
+      "image": "Unit 4 - People at Home - Audio Pages/regenerated/CD1_88.webp",
+      "bytes": 42810,
+      "sha256": "6435d4d36e5fda989097b361d0b89828759c1616860b25cad30bb8ce8341b2fb"
+    }
+  ]
+}

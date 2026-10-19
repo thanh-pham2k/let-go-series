@@ -1,0 +1,128 @@
+{
+  "book": 2,
+  "source": "Oxford - Let_s Go 2 Student_s Book 3rd Edition.pdf",
+  "numbering": "PDF, one-based; preserve requested ranges even if unit boundaries differ in source",
+  "source_sha256": "b902f4b2a519bf31d5ca52277738ecb5c67f1496f684113f30f136437be032a5",
+  "sections": [
+    {
+      "name": "Unit 1 - At School",
+      "start": 5,
+      "end": 12,
+      "printed_start": 2,
+      "printed_end": 9,
+      "kind": "Unit",
+      "unit": 1,
+      "pdf": "Unit 1 - At School.pdf"
+    },
+    {
+      "name": "Unit 2 - My Things",
+      "start": 13,
+      "end": 20,
+      "printed_start": 10,
+      "printed_end": 17,
+      "kind": "Unit",
+      "unit": 2,
+      "pdf": "Unit 2 - My Things.pdf"
+    },
+    {
+      "name": "Review 1-2",
+      "start": 21,
+      "end": 22,
+      "printed_start": 18,
+      "printed_end": 19,
+      "kind": "Review",
+      "unit": 2,
+      "pdf": "Review 1-2.pdf"
+    },
+    {
+      "name": "Unit 3 - My House",
+      "start": 23,
+      "end": 30,
+      "printed_start": 20,
+      "printed_end": 27,
+      "kind": "Unit",
+      "unit": 3,
+      "pdf": "Unit 3 - My House.pdf"
+    },
+    {
+      "name": "Unit 4 - Things to Eat",
+      "start": 31,
+      "end": 38,
+      "printed_start": 28,
+      "printed_end": 35,
+      "kind": "Unit",
+      "unit": 4,
+      "pdf": "Unit 4 - Things to Eat.pdf"
+    },
+    {
+      "name": "Review 3-4",
+      "start": 39,
+      "end": 40,
+      "printed_start": 36,
+      "printed_end": 37,
+      "kind": "Review",
+      "unit": 4,
+      "pdf": "Review 3-4.pdf"
+    },
+    {
+      "name": "Unit 5 - Occupations",
+      "start": 41,
+      "end": 46,
+      "printed_start": 38,
+      "printed_end": 43,
+      "kind": "Unit",
+      "unit": 5,
+      "pdf": "Unit 5 - Occupations.pdf"
+    },
+    {
+      "name": "Unit 6 - Locations",
+      "start": 47,
+      "end": 56,
+      "printed_start": 44,
+      "printed_end": 53,
+      "kind": "Unit",
+      "unit": 6,
+      "pdf": "Unit 6 - Locations.pdf"
+    },
+    {
+      "name": "Review 5-6",
+      "start": 57,
+      "end": 58,
+      "printed_start": 54,
+      "printed_end": 55,
+      "kind": "Review",
+      "unit": 6,
+      "pdf": "Review 5-6.pdf"
+    },
+    {
+      "name": "Unit 7 - Doing Things",
+      "start": 59,
+      "end": 66,
+      "printed_start": 56,
+      "printed_end": 63,
+      "kind": "Unit",
+      "unit": 7,
+      "pdf": "Unit 7 - Doing Things.pdf"
+    },
+    {
+      "name": "Unit 8 - After School",
+      "start": 67,
+      "end": 74,
+      "printed_start": 64,
+      "printed_end": 71,
+      "kind": "Unit",
+      "unit": 8,
+      "pdf": "Unit 8 - After School.pdf"
+    },
+    {
+      "name": "Review 7-8",
+      "start": 75,
+      "end": 76,
+      "printed_start": 72,
+      "printed_end": 73,
+      "kind": "Review",
+      "unit": 8,
+      "pdf": "Review 7-8.pdf"
+    }
+  ]
+}

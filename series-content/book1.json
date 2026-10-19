@@ -1,0 +1,3305 @@
+{
+  "book": 1,
+  "pages": {
+    "3": {
+      "topic": "Chào hỏi và giới thiệu tên",
+      "v": [],
+      "s": [
+        [
+          "Hello. I'm Scott.",
+          "Xin chào. Mình là Scott."
+        ],
+        [
+          "What's your name?",
+          "Tên bạn là gì?"
+        ],
+        [
+          "My name is Kate.",
+          "Tên mình là Kate."
+        ],
+        [
+          "My name is Andy.",
+          "Tên mình là Andy."
+        ]
+      ],
+      "qa": [
+        [
+          "What's your name?",
+          "My name is Kate."
+        ]
+      ]
+    },
+    "4": {
+      "topic": "The Hello Song; chỉ dẫn trong lớp",
+      "v": [
+        [
+          "stand up",
+          "đứng lên"
+        ],
+        [
+          "sit down",
+          "ngồi xuống"
+        ],
+        [
+          "make a circle",
+          "xếp thành vòng tròn"
+        ],
+        [
+          "make a line",
+          "xếp thành hàng"
+        ]
+      ],
+      "s": [
+        [
+          "Hello, Scott!",
+          "Xin chào Scott!"
+        ],
+        [
+          "What's your name?",
+          "Tên bạn là gì?"
+        ],
+        [
+          "My name is Scott.",
+          "Tên mình là Scott."
+        ]
+      ],
+      "qa": []
+    },
+    "5": {
+      "topic": "Đồ dùng học tập",
+      "v": [
+        [
+          "a pencil",
+          "một bút chì"
+        ],
+        [
+          "a pen",
+          "một bút mực"
+        ],
+        [
+          "a bag",
+          "một chiếc cặp"
+        ],
+        [
+          "a book",
+          "một quyển sách"
+        ],
+        [
+          "a desk",
+          "một bàn học"
+        ],
+        [
+          "a chair",
+          "một cái ghế"
+        ],
+        [
+          "a ruler",
+          "một cái thước"
+        ],
+        [
+          "an eraser",
+          "một cục tẩy"
+        ]
+      ],
+      "s": [
+        [
+          "It's a pencil.",
+          "Đó là một bút chì."
+        ],
+        [
+          "It's an eraser.",
+          "Đó là một cục tẩy."
+        ]
+      ],
+      "qa": []
+    },
+    "6": {
+      "topic": "Hỏi đồ vật là gì",
+      "v": [
+        [
+          "a pencil",
+          "một bút chì"
+        ],
+        [
+          "a pen",
+          "một bút mực"
+        ],
+        [
+          "a bag",
+          "một chiếc cặp"
+        ],
+        [
+          "a book",
+          "một quyển sách"
+        ],
+        [
+          "a desk",
+          "một bàn học"
+        ],
+        [
+          "a chair",
+          "một cái ghế"
+        ],
+        [
+          "a ruler",
+          "một cái thước"
+        ],
+        [
+          "an eraser",
+          "một cục tẩy"
+        ]
+      ],
+      "s": [
+        [
+          "What's this?",
+          "Đây là cái gì?"
+        ],
+        [
+          "It's a pencil.",
+          "Đây là một bút chì."
+        ]
+      ],
+      "qa": []
+    },
+    "7": {
+      "topic": "Thêm đồ vật trong lớp",
+      "v": [
+        [
+          "a map",
+          "một bản đồ"
+        ],
+        [
+          "a marker",
+          "một bút dạ"
+        ],
+        [
+          "a globe",
+          "một quả địa cầu"
+        ],
+        [
+          "a table",
+          "một cái bàn"
+        ],
+        [
+          "a board",
+          "một cái bảng"
+        ],
+        [
+          "a wastebasket",
+          "một sọt rác"
+        ],
+        [
+          "a poster",
+          "một áp phích"
+        ],
+        [
+          "a crayon",
+          "một bút sáp"
+        ]
+      ],
+      "s": [
+        [
+          "It's a map.",
+          "Đó là một bản đồ."
+        ]
+      ],
+      "qa": []
+    },
+    "8": {
+      "topic": "Câu hỏi xác nhận đồ vật",
+      "v": [
+        [
+          "a book",
+          "một quyển sách"
+        ],
+        [
+          "a marker",
+          "một bút dạ"
+        ]
+      ],
+      "s": [
+        [
+          "Is this a book?",
+          "Đây có phải một quyển sách không?"
+        ],
+        [
+          "Yes, it is.",
+          "Đúng vậy."
+        ],
+        [
+          "No, it isn't.",
+          "Không phải."
+        ],
+        [
+          "It's a marker.",
+          "Đó là một bút dạ."
+        ]
+      ],
+      "qa": []
+    },
+    "9": {
+      "topic": "Bảng chữ cái; my và your",
+      "v": [
+        [
+          "a pencil",
+          "một bút chì"
+        ],
+        [
+          "a ruler",
+          "một cái thước"
+        ],
+        [
+          "an eraser",
+          "một cục tẩy"
+        ],
+        [
+          "a book",
+          "một quyển sách"
+        ],
+        [
+          "A a",
+          "chữ A hoa và a thường"
+        ],
+        [
+          "B b",
+          "chữ B hoa và b thường"
+        ],
+        [
+          "C c",
+          "chữ C hoa và c thường"
+        ],
+        [
+          "D d",
+          "chữ D hoa và d thường"
+        ],
+        [
+          "E e",
+          "chữ E hoa và e thường"
+        ],
+        [
+          "F f",
+          "chữ F hoa và f thường"
+        ],
+        [
+          "G g",
+          "chữ G hoa và g thường"
+        ],
+        [
+          "H h",
+          "chữ H hoa và h thường"
+        ],
+        [
+          "I i",
+          "chữ I hoa và i thường"
+        ],
+        [
+          "J j",
+          "chữ J hoa và j thường"
+        ],
+        [
+          "K k",
+          "chữ K hoa và k thường"
+        ],
+        [
+          "L l",
+          "chữ L hoa và l thường"
+        ],
+        [
+          "M m",
+          "chữ M hoa và m thường"
+        ],
+        [
+          "N n",
+          "chữ N hoa và n thường"
+        ],
+        [
+          "O o",
+          "chữ O hoa và o thường"
+        ],
+        [
+          "P p",
+          "chữ P hoa và p thường"
+        ],
+        [
+          "Q q",
+          "chữ Q hoa và q thường"
+        ],
+        [
+          "R r",
+          "chữ R hoa và r thường"
+        ],
+        [
+          "S s",
+          "chữ S hoa và s thường"
+        ],
+        [
+          "T t",
+          "chữ T hoa và t thường"
+        ],
+        [
+          "U u",
+          "chữ U hoa và u thường"
+        ],
+        [
+          "V v",
+          "chữ V hoa và v thường"
+        ],
+        [
+          "W w",
+          "chữ W hoa và w thường"
+        ],
+        [
+          "X x",
+          "chữ X hoa và x thường"
+        ],
+        [
+          "Y y",
+          "chữ Y hoa và y thường"
+        ],
+        [
+          "Z z",
+          "chữ Z hoa và z thường"
+        ]
+      ],
+      "s": [
+        [
+          "This is my pencil.",
+          "Đây là bút chì của mình."
+        ],
+        [
+          "This is your pencil.",
+          "Đây là bút chì của bạn."
+        ],
+        [
+          "I like English!",
+          "Mình thích tiếng Anh!"
+        ]
+      ],
+      "qa": [],
+      "note": "Đọc và ghép chữ hoa–chữ thường A–Z trực tiếp trên bảng chữ cái của trang nguồn."
+    },
+    "10": {
+      "topic": "Hỏi đồ vật có phải của bạn không",
+      "v": [
+        [
+          "a pencil",
+          "một bút chì"
+        ],
+        [
+          "an eraser",
+          "một cục tẩy"
+        ],
+        [
+          "a book",
+          "một quyển sách"
+        ],
+        [
+          "a pen",
+          "một bút mực"
+        ],
+        [
+          "a ruler",
+          "một cái thước"
+        ]
+      ],
+      "s": [
+        [
+          "Is this your eraser?",
+          "Đây có phải cục tẩy của bạn không?"
+        ],
+        [
+          "Yes, it is.",
+          "Đúng vậy."
+        ],
+        [
+          "Is this your pen?",
+          "Đây có phải bút mực của bạn không?"
+        ],
+        [
+          "No, it isn't.",
+          "Không phải."
+        ]
+      ],
+      "qa": [
+        [
+          "Is this your eraser?",
+          "Yes, it is."
+        ],
+        [
+          "Is this your pen?",
+          "No, it isn't."
+        ]
+      ]
+    },
+    "11": {
+      "topic": "Hỏi thăm sức khỏe",
+      "v": [],
+      "s": [
+        [
+          "How are you?",
+          "Bạn khỏe không?"
+        ],
+        [
+          "I'm fine. How are you?",
+          "Mình khỏe. Bạn khỏe không?"
+        ],
+        [
+          "I'm fine. Thank you.",
+          "Mình khỏe. Cảm ơn bạn."
+        ]
+      ],
+      "qa": [
+        [
+          "How are you?",
+          "I'm fine. Thank you."
+        ]
+      ]
+    },
+    "12": {
+      "topic": "Hỏi thăm; chỉ dẫn lịch sự",
+      "v": [
+        [
+          "fine",
+          "khỏe"
+        ],
+        [
+          "great",
+          "rất khỏe"
+        ],
+        [
+          "OK",
+          "ổn"
+        ],
+        [
+          "take out your book",
+          "lấy sách ra"
+        ],
+        [
+          "put away your book",
+          "cất sách đi"
+        ],
+        [
+          "draw a picture",
+          "vẽ một bức tranh"
+        ],
+        [
+          "point to the poster",
+          "chỉ vào áp phích"
+        ]
+      ],
+      "s": [
+        [
+          "How are you?",
+          "Bạn khỏe không?"
+        ],
+        [
+          "I'm fine.",
+          "Mình khỏe."
+        ],
+        [
+          "Please take out your book.",
+          "Làm ơn lấy sách ra."
+        ]
+      ],
+      "qa": []
+    },
+    "13": {
+      "topic": "Màu sắc",
+      "v": [
+        [
+          "yellow",
+          "màu vàng"
+        ],
+        [
+          "blue",
+          "màu xanh dương"
+        ],
+        [
+          "red",
+          "màu đỏ"
+        ],
+        [
+          "green",
+          "màu xanh lá"
+        ],
+        [
+          "purple",
+          "màu tím"
+        ],
+        [
+          "orange",
+          "màu cam"
+        ],
+        [
+          "brown",
+          "màu nâu"
+        ],
+        [
+          "pink",
+          "màu hồng"
+        ],
+        [
+          "black",
+          "màu đen"
+        ],
+        [
+          "white",
+          "màu trắng"
+        ],
+        [
+          "gray",
+          "màu xám"
+        ]
+      ],
+      "s": [
+        [
+          "It's yellow.",
+          "Nó màu vàng."
+        ]
+      ],
+      "qa": []
+    },
+    "14": {
+      "topic": "Hỏi và trả lời màu sắc",
+      "v": [
+        [
+          "yellow",
+          "màu vàng"
+        ],
+        [
+          "blue",
+          "màu xanh dương"
+        ],
+        [
+          "red",
+          "màu đỏ"
+        ],
+        [
+          "green",
+          "màu xanh lá"
+        ],
+        [
+          "purple",
+          "màu tím"
+        ],
+        [
+          "orange",
+          "màu cam"
+        ],
+        [
+          "brown",
+          "màu nâu"
+        ],
+        [
+          "pink",
+          "màu hồng"
+        ],
+        [
+          "black",
+          "màu đen"
+        ],
+        [
+          "white",
+          "màu trắng"
+        ]
+      ],
+      "s": [
+        [
+          "What color is this?",
+          "Cái này màu gì?"
+        ],
+        [
+          "It's yellow.",
+          "Nó màu vàng."
+        ]
+      ],
+      "qa": []
+    },
+    "15": {
+      "topic": "Các hình dạng",
+      "v": [
+        [
+          "a triangle",
+          "một hình tam giác"
+        ],
+        [
+          "a square",
+          "một hình vuông"
+        ],
+        [
+          "a circle",
+          "một hình tròn"
+        ],
+        [
+          "a star",
+          "một hình ngôi sao"
+        ],
+        [
+          "a heart",
+          "một hình trái tim"
+        ],
+        [
+          "a rectangle",
+          "một hình chữ nhật"
+        ],
+        [
+          "a diamond",
+          "một hình thoi"
+        ],
+        [
+          "an oval",
+          "một hình bầu dục"
+        ]
+      ],
+      "s": [
+        [
+          "It's a triangle.",
+          "Đó là một hình tam giác."
+        ]
+      ],
+      "qa": []
+    },
+    "16": {
+      "topic": "Xác nhận hình dạng và màu sắc",
+      "v": [
+        [
+          "an oval",
+          "một hình bầu dục"
+        ],
+        [
+          "a triangle",
+          "một hình tam giác"
+        ],
+        [
+          "a square",
+          "một hình vuông"
+        ],
+        [
+          "a circle",
+          "một hình tròn"
+        ],
+        [
+          "a star",
+          "một hình ngôi sao"
+        ]
+      ],
+      "s": [
+        [
+          "Is this an oval?",
+          "Đây có phải hình bầu dục không?"
+        ],
+        [
+          "No, it isn't. It's a triangle.",
+          "Không phải. Đó là hình tam giác."
+        ],
+        [
+          "Yes, it is.",
+          "Đúng vậy."
+        ]
+      ],
+      "qa": []
+    },
+    "17": {
+      "topic": "Chữ A–C; đồ vật và màu",
+      "v": [
+        [
+          "apple",
+          "quả táo"
+        ],
+        [
+          "ant",
+          "con kiến"
+        ],
+        [
+          "bag",
+          "cái cặp"
+        ],
+        [
+          "box",
+          "cái hộp"
+        ],
+        [
+          "cat",
+          "con mèo"
+        ],
+        [
+          "computer",
+          "máy tính"
+        ],
+        [
+          "circle",
+          "hình tròn"
+        ],
+        [
+          "circus",
+          "rạp xiếc"
+        ]
+      ],
+      "s": [
+        [
+          "What's this?",
+          "Đây là cái gì?"
+        ],
+        [
+          "It's a pen.",
+          "Đây là một bút mực."
+        ],
+        [
+          "What color is it?",
+          "Nó màu gì?"
+        ],
+        [
+          "It's red. It's a red pen.",
+          "Nó màu đỏ. Đó là một bút mực đỏ."
+        ]
+      ],
+      "qa": [
+        [
+          "What's this?",
+          "It's a pen."
+        ],
+        [
+          "What color is it?",
+          "It's red. It's a red pen."
+        ]
+      ]
+    },
+    "18": {
+      "topic": "Màu và đồ vật; The Black Cat Song",
+      "v": [
+        [
+          "green grass",
+          "cỏ xanh"
+        ],
+        [
+          "blue sky",
+          "bầu trời xanh"
+        ],
+        [
+          "white clouds",
+          "mây trắng"
+        ],
+        [
+          "black cats",
+          "những con mèo đen"
+        ],
+        [
+          "yellow eyes",
+          "những đôi mắt vàng"
+        ],
+        [
+          "red birds",
+          "những con chim đỏ"
+        ]
+      ],
+      "s": [
+        [
+          "This is a blue crayon.",
+          "Đây là một bút sáp xanh dương."
+        ]
+      ],
+      "qa": []
+    },
+    "19": {
+      "topic": "Review 1–2: đồ dùng, màu, hình",
+      "v": [
+        [
+          "a ruler",
+          "một cái thước"
+        ],
+        [
+          "a book",
+          "một quyển sách"
+        ],
+        [
+          "a triangle",
+          "một hình tam giác"
+        ],
+        [
+          "a star",
+          "một hình ngôi sao"
+        ]
+      ],
+      "s": [
+        [
+          "What's this?",
+          "Đây là cái gì?"
+        ],
+        [
+          "What color is this?",
+          "Cái này màu gì?"
+        ],
+        [
+          "Is this a book?",
+          "Đây có phải một quyển sách không?"
+        ]
+      ],
+      "qa": [],
+      "note": "Bài nghe gốc Listen and circle không có đáp án suy đoán. Các câu bổ sung ôn mẫu câu Unit 1–2 bằng hình trên trang."
+    },
+    "20": {
+      "topic": "Số đếm 0–20",
+      "v": [
+        [
+          "zero",
+          "số 0"
+        ],
+        [
+          "one",
+          "số 1"
+        ],
+        [
+          "two",
+          "số 2"
+        ],
+        [
+          "three",
+          "số 3"
+        ],
+        [
+          "four",
+          "số 4"
+        ],
+        [
+          "five",
+          "số 5"
+        ],
+        [
+          "six",
+          "số 6"
+        ],
+        [
+          "seven",
+          "số 7"
+        ],
+        [
+          "eight",
+          "số 8"
+        ],
+        [
+          "nine",
+          "số 9"
+        ],
+        [
+          "ten",
+          "số 10"
+        ],
+        [
+          "eleven",
+          "số 11"
+        ],
+        [
+          "twelve",
+          "số 12"
+        ],
+        [
+          "thirteen",
+          "số 13"
+        ],
+        [
+          "fourteen",
+          "số 14"
+        ],
+        [
+          "fifteen",
+          "số 15"
+        ],
+        [
+          "sixteen",
+          "số 16"
+        ],
+        [
+          "seventeen",
+          "số 17"
+        ],
+        [
+          "eighteen",
+          "số 18"
+        ],
+        [
+          "nineteen",
+          "số 19"
+        ],
+        [
+          "twenty",
+          "số 20"
+        ]
+      ],
+      "s": [],
+      "qa": [],
+      "note": "Trang thứ hai trong phạm vi Review bạn chỉ định là Let’s Learn About Numbers 0–20 trong sách gốc."
+    },
+    "21": {
+      "topic": "Giới thiệu bạn",
+      "v": [],
+      "s": [
+        [
+          "Hi, Scott.",
+          "Chào Scott."
+        ],
+        [
+          "This is my friend, Sarah.",
+          "Đây là bạn mình tên Sarah."
+        ],
+        [
+          "Hello, Sarah!",
+          "Xin chào Sarah!"
+        ]
+      ],
+      "qa": []
+    },
+    "22": {
+      "topic": "Giới thiệu bạn; hoạt động lớp học",
+      "v": [
+        [
+          "count to ten",
+          "đếm đến mười"
+        ],
+        [
+          "write the word",
+          "viết từ"
+        ],
+        [
+          "read a book",
+          "đọc sách"
+        ],
+        [
+          "say the alphabet",
+          "đọc bảng chữ cái"
+        ]
+      ],
+      "s": [
+        [
+          "This is my friend, Sarah.",
+          "Đây là bạn mình tên Sarah."
+        ],
+        [
+          "This is my friend, Scott.",
+          "Đây là bạn mình tên Scott."
+        ],
+        [
+          "Hello, Sarah!",
+          "Xin chào Sarah!"
+        ],
+        [
+          "Hi, Scott!",
+          "Chào Scott!"
+        ]
+      ],
+      "qa": []
+    },
+    "23": {
+      "topic": "Đồ dùng số ít và số nhiều",
+      "v": [
+        [
+          "a crayon",
+          "một bút sáp"
+        ],
+        [
+          "crayons",
+          "những bút sáp"
+        ],
+        [
+          "a marker",
+          "một bút dạ"
+        ],
+        [
+          "markers",
+          "những bút dạ"
+        ],
+        [
+          "a notebook",
+          "một quyển vở"
+        ],
+        [
+          "notebooks",
+          "những quyển vở"
+        ],
+        [
+          "a pencil case",
+          "một hộp bút"
+        ],
+        [
+          "pencil cases",
+          "những hộp bút"
+        ]
+      ],
+      "s": [
+        [
+          "How many crayons?",
+          "Có bao nhiêu bút sáp?"
+        ],
+        [
+          "Three crayons.",
+          "Ba bút sáp."
+        ]
+      ],
+      "qa": []
+    },
+    "24": {
+      "topic": "Hỏi số lượng đồ dùng",
+      "v": [
+        [
+          "crayons",
+          "những bút sáp"
+        ],
+        [
+          "markers",
+          "những bút dạ"
+        ],
+        [
+          "a pencil case",
+          "một hộp bút"
+        ],
+        [
+          "notebooks",
+          "những quyển vở"
+        ]
+      ],
+      "s": [
+        [
+          "How many notebooks?",
+          "Có bao nhiêu quyển vở?"
+        ],
+        [
+          "Three notebooks.",
+          "Ba quyển vở."
+        ]
+      ],
+      "qa": [
+        [
+          "How many notebooks?",
+          "Three notebooks."
+        ]
+      ]
+    },
+    "25": {
+      "topic": "Thiết bị số ít và số nhiều",
+      "v": [
+        [
+          "a CD",
+          "một đĩa CD"
+        ],
+        [
+          "CDs",
+          "những đĩa CD"
+        ],
+        [
+          "a video game",
+          "một trò chơi điện tử"
+        ],
+        [
+          "video games",
+          "những trò chơi điện tử"
+        ],
+        [
+          "a cell phone",
+          "một điện thoại di động"
+        ],
+        [
+          "cell phones",
+          "những điện thoại di động"
+        ],
+        [
+          "a computer",
+          "một máy tính"
+        ],
+        [
+          "computers",
+          "những máy tính"
+        ]
+      ],
+      "s": [
+        [
+          "It's a CD.",
+          "Đó là một đĩa CD."
+        ],
+        [
+          "They're CDs.",
+          "Đó là những đĩa CD."
+        ]
+      ],
+      "qa": []
+    },
+    "26": {
+      "topic": "What is this / What are these",
+      "v": [
+        [
+          "a video game",
+          "một trò chơi điện tử"
+        ],
+        [
+          "video games",
+          "những trò chơi điện tử"
+        ],
+        [
+          "a CD",
+          "một đĩa CD"
+        ],
+        [
+          "CDs",
+          "những đĩa CD"
+        ]
+      ],
+      "s": [
+        [
+          "What's this?",
+          "Đây là cái gì?"
+        ],
+        [
+          "It's a video game.",
+          "Đây là một trò chơi điện tử."
+        ],
+        [
+          "What are these?",
+          "Đây là những cái gì?"
+        ],
+        [
+          "They're video games.",
+          "Đây là những trò chơi điện tử."
+        ]
+      ],
+      "qa": []
+    },
+    "27": {
+      "topic": "Chữ D–F; xác định nhiều đồ vật",
+      "v": [
+        [
+          "dog",
+          "con chó"
+        ],
+        [
+          "diamond",
+          "hình thoi"
+        ],
+        [
+          "elephant",
+          "con voi"
+        ],
+        [
+          "egg",
+          "quả trứng"
+        ],
+        [
+          "five",
+          "số năm"
+        ],
+        [
+          "fish",
+          "con cá"
+        ]
+      ],
+      "s": [
+        [
+          "What's this?",
+          "Đây là cái gì?"
+        ],
+        [
+          "It's a ruler.",
+          "Đây là một cái thước."
+        ],
+        [
+          "What are these?",
+          "Đây là những cái gì?"
+        ],
+        [
+          "They're pencils.",
+          "Đây là những bút chì."
+        ]
+      ],
+      "qa": [
+        [
+          "What's this?",
+          "It's a ruler."
+        ],
+        [
+          "What are these?",
+          "They're pencils."
+        ]
+      ]
+    },
+    "28": {
+      "topic": "Màu của nhiều đồ vật",
+      "v": [
+        [
+          "pink circles",
+          "những hình tròn hồng"
+        ],
+        [
+          "a blue CD",
+          "một đĩa CD xanh dương"
+        ],
+        [
+          "a red CD",
+          "một đĩa CD đỏ"
+        ],
+        [
+          "green CDs",
+          "những đĩa CD xanh lá"
+        ]
+      ],
+      "s": [
+        [
+          "What color are these?",
+          "Những cái này màu gì?"
+        ],
+        [
+          "They're pink.",
+          "Chúng màu hồng."
+        ],
+        [
+          "They're pink circles.",
+          "Đó là những hình tròn hồng."
+        ],
+        [
+          "How many CDs?",
+          "Có bao nhiêu đĩa CD?"
+        ],
+        [
+          "Ten!",
+          "Mười!"
+        ]
+      ],
+      "qa": []
+    },
+    "29": {
+      "topic": "Gặp gỡ người thân của bạn",
+      "v": [],
+      "s": [
+        [
+          "Hi, Mom! I'm home.",
+          "Chào mẹ! Con về rồi."
+        ],
+        [
+          "This is my friend, Scott.",
+          "Đây là bạn con tên Scott."
+        ],
+        [
+          "It's nice to meet you, Mrs. Hill.",
+          "Rất vui được gặp cô Hill."
+        ],
+        [
+          "It's nice to meet you, too.",
+          "Cô cũng rất vui được gặp cháu."
+        ]
+      ],
+      "qa": []
+    },
+    "30": {
+      "topic": "Giới thiệu người thân; khả năng",
+      "v": [
+        [
+          "find my book",
+          "tìm sách của mình"
+        ],
+        [
+          "reach the bookshelf",
+          "với tới giá sách"
+        ],
+        [
+          "see the board",
+          "nhìn thấy bảng"
+        ],
+        [
+          "hear the teacher",
+          "nghe thấy giáo viên"
+        ]
+      ],
+      "s": [
+        [
+          "This is my mother.",
+          "Đây là mẹ mình."
+        ],
+        [
+          "This is my sister.",
+          "Đây là chị/em gái mình."
+        ],
+        [
+          "I can find my book.",
+          "Mình có thể tìm sách của mình."
+        ],
+        [
+          "I can't reach the bookshelf.",
+          "Mình không thể với tới giá sách."
+        ]
+      ],
+      "qa": []
+    },
+    "31": {
+      "topic": "Thành viên gia đình",
+      "v": [
+        [
+          "grandmother",
+          "bà"
+        ],
+        [
+          "mother",
+          "mẹ"
+        ],
+        [
+          "sister",
+          "chị/em gái"
+        ],
+        [
+          "baby sister",
+          "em gái bé"
+        ],
+        [
+          "grandfather",
+          "ông"
+        ],
+        [
+          "father",
+          "bố"
+        ],
+        [
+          "brother",
+          "anh/em trai"
+        ]
+      ],
+      "s": [
+        [
+          "She's my grandmother.",
+          "Bà ấy là bà của mình."
+        ],
+        [
+          "He's my grandfather.",
+          "Ông ấy là ông của mình."
+        ]
+      ],
+      "qa": []
+    },
+    "32": {
+      "topic": "Hỏi người đó là ai",
+      "v": [
+        [
+          "mother",
+          "mẹ"
+        ],
+        [
+          "father",
+          "bố"
+        ],
+        [
+          "grandmother",
+          "bà"
+        ],
+        [
+          "grandfather",
+          "ông"
+        ],
+        [
+          "sister",
+          "chị/em gái"
+        ],
+        [
+          "brother",
+          "anh/em trai"
+        ]
+      ],
+      "s": [
+        [
+          "Who's she?",
+          "Cô ấy là ai?"
+        ],
+        [
+          "She's my mother.",
+          "Cô ấy là mẹ mình."
+        ],
+        [
+          "Who's he?",
+          "Ông ấy là ai?"
+        ],
+        [
+          "He's my grandfather.",
+          "Ông ấy là ông của mình."
+        ]
+      ],
+      "qa": []
+    },
+    "33": {
+      "topic": "Miêu tả người",
+      "v": [
+        [
+          "tall",
+          "cao"
+        ],
+        [
+          "short",
+          "thấp"
+        ],
+        [
+          "young",
+          "trẻ"
+        ],
+        [
+          "old",
+          "già"
+        ],
+        [
+          "pretty",
+          "xinh đẹp"
+        ],
+        [
+          "ugly",
+          "xấu xí"
+        ],
+        [
+          "thin",
+          "gầy"
+        ],
+        [
+          "fat",
+          "béo"
+        ]
+      ],
+      "s": [
+        [
+          "He's tall.",
+          "Anh ấy cao."
+        ],
+        [
+          "She's short.",
+          "Cô ấy thấp."
+        ]
+      ],
+      "qa": []
+    },
+    "34": {
+      "topic": "Xác nhận đặc điểm của người",
+      "v": [
+        [
+          "short",
+          "thấp"
+        ],
+        [
+          "tall",
+          "cao"
+        ],
+        [
+          "old",
+          "già"
+        ],
+        [
+          "young",
+          "trẻ"
+        ]
+      ],
+      "s": [
+        [
+          "Is he short?",
+          "Anh ấy có thấp không?"
+        ],
+        [
+          "Yes, he is.",
+          "Có."
+        ],
+        [
+          "No, he isn't. He's tall.",
+          "Không. Anh ấy cao."
+        ],
+        [
+          "Is she tall?",
+          "Cô ấy có cao không?"
+        ]
+      ],
+      "qa": []
+    },
+    "35": {
+      "topic": "Chữ G–I; xác nhận người thân",
+      "v": [
+        [
+          "girl",
+          "bé gái"
+        ],
+        [
+          "garden",
+          "khu vườn"
+        ],
+        [
+          "giraffe",
+          "con hươu cao cổ"
+        ],
+        [
+          "hat",
+          "cái mũ"
+        ],
+        [
+          "house",
+          "ngôi nhà"
+        ],
+        [
+          "ink",
+          "mực"
+        ],
+        [
+          "igloo",
+          "nhà tuyết"
+        ]
+      ],
+      "s": [
+        [
+          "Is she your mother?",
+          "Cô ấy có phải mẹ của bạn không?"
+        ],
+        [
+          "No, she isn't. She's my sister.",
+          "Không. Đó là chị/em gái mình."
+        ],
+        [
+          "My father is tall and thin.",
+          "Bố mình cao và gầy."
+        ]
+      ],
+      "qa": []
+    },
+    "36": {
+      "topic": "Nói về gia đình",
+      "v": [
+        [
+          "baby brother",
+          "em trai bé"
+        ],
+        [
+          "father",
+          "bố"
+        ],
+        [
+          "mother",
+          "mẹ"
+        ],
+        [
+          "grandmother",
+          "bà"
+        ],
+        [
+          "sister",
+          "chị/em gái"
+        ]
+      ],
+      "s": [
+        [
+          "This is my sister.",
+          "Đây là chị/em gái mình."
+        ],
+        [
+          "She's tall and pretty.",
+          "Chị ấy cao và xinh đẹp."
+        ],
+        [
+          "My sister is tall and pretty.",
+          "Chị mình cao và xinh đẹp."
+        ]
+      ],
+      "qa": []
+    },
+    "37": {
+      "topic": "Review 3–4",
+      "v": [
+        [
+          "a CD",
+          "một đĩa CD"
+        ],
+        [
+          "a computer",
+          "một máy tính"
+        ],
+        [
+          "tall",
+          "cao"
+        ],
+        [
+          "short",
+          "thấp"
+        ]
+      ],
+      "s": [
+        [
+          "What are these?",
+          "Đây là những cái gì?"
+        ],
+        [
+          "Who's she?",
+          "Cô ấy là ai?"
+        ],
+        [
+          "Is he tall?",
+          "Anh ấy có cao không?"
+        ]
+      ],
+      "qa": [],
+      "note": "Câu hỏi bổ sung dựa trên nội dung ôn Unit 3–4. Không gán đáp án cho audio gốc chưa đối chiếu."
+    },
+    "38": {
+      "topic": "Các bộ phận cơ thể",
+      "v": [
+        [
+          "nose",
+          "mũi"
+        ],
+        [
+          "eye",
+          "mắt"
+        ],
+        [
+          "shoulder",
+          "vai"
+        ],
+        [
+          "elbow",
+          "khuỷu tay"
+        ],
+        [
+          "leg",
+          "chân"
+        ],
+        [
+          "toe",
+          "ngón chân"
+        ],
+        [
+          "foot",
+          "bàn chân"
+        ],
+        [
+          "ear",
+          "tai"
+        ],
+        [
+          "arm",
+          "cánh tay"
+        ],
+        [
+          "head",
+          "đầu"
+        ],
+        [
+          "mouth",
+          "miệng"
+        ],
+        [
+          "finger",
+          "ngón tay"
+        ],
+        [
+          "hand",
+          "bàn tay"
+        ],
+        [
+          "knee",
+          "đầu gối"
+        ],
+        [
+          "fingers",
+          "những ngón tay"
+        ],
+        [
+          "toes",
+          "những ngón chân"
+        ],
+        [
+          "feet",
+          "những bàn chân"
+        ]
+      ],
+      "s": [
+        [
+          "Touch your nose!",
+          "Chạm vào mũi của bạn!"
+        ]
+      ],
+      "qa": [],
+      "note": "Trang thứ hai thuộc phạm vi Review là Let’s Learn About Parts of the Body."
+    },
+    "39": {
+      "topic": "Sinh nhật và tuổi",
+      "v": [],
+      "s": [
+        [
+          "Happy birthday, Jenny!",
+          "Chúc mừng sinh nhật Jenny!"
+        ],
+        [
+          "How old are you?",
+          "Bạn bao nhiêu tuổi?"
+        ],
+        [
+          "I'm seven years old.",
+          "Mình bảy tuổi."
+        ]
+      ],
+      "qa": []
+    },
+    "40": {
+      "topic": "Bài hát sinh nhật; hoạt động với đồ chơi",
+      "v": [
+        [
+          "ride a bicycle",
+          "đi xe đạp"
+        ],
+        [
+          "fly a kite",
+          "thả diều"
+        ],
+        [
+          "jump rope",
+          "nhảy dây"
+        ],
+        [
+          "play with a yo-yo",
+          "chơi yo-yo"
+        ]
+      ],
+      "s": [
+        [
+          "It's my birthday today.",
+          "Hôm nay là sinh nhật mình."
+        ],
+        [
+          "Now I'm seven years old.",
+          "Giờ mình bảy tuổi."
+        ],
+        [
+          "What can you do?",
+          "Bạn có thể làm gì?"
+        ],
+        [
+          "I can ride a bicycle.",
+          "Mình có thể đi xe đạp."
+        ]
+      ],
+      "qa": []
+    },
+    "41": {
+      "topic": "Đồ chơi",
+      "v": [
+        [
+          "a yo-yo",
+          "một yo-yo"
+        ],
+        [
+          "a ball",
+          "một quả bóng"
+        ],
+        [
+          "a kite",
+          "một con diều"
+        ],
+        [
+          "a doll",
+          "một búp bê"
+        ],
+        [
+          "a car",
+          "một ô tô đồ chơi"
+        ],
+        [
+          "a robot",
+          "một rô-bốt"
+        ],
+        [
+          "a bicycle",
+          "một xe đạp"
+        ],
+        [
+          "a jump rope",
+          "một dây nhảy"
+        ],
+        [
+          "a puzzle",
+          "một bộ xếp hình"
+        ],
+        [
+          "a bat",
+          "một gậy bóng chày"
+        ]
+      ],
+      "s": [
+        [
+          "It's a yo-yo.",
+          "Đó là một yo-yo."
+        ]
+      ],
+      "qa": []
+    },
+    "42": {
+      "topic": "Hỏi và đoán đồ chơi",
+      "v": [
+        [
+          "a yo-yo",
+          "một yo-yo"
+        ],
+        [
+          "a ball",
+          "một quả bóng"
+        ],
+        [
+          "a kite",
+          "một con diều"
+        ],
+        [
+          "a doll",
+          "một búp bê"
+        ],
+        [
+          "a car",
+          "một ô tô đồ chơi"
+        ],
+        [
+          "a robot",
+          "một rô-bốt"
+        ],
+        [
+          "a bicycle",
+          "một xe đạp"
+        ],
+        [
+          "a puzzle",
+          "một bộ xếp hình"
+        ]
+      ],
+      "s": [
+        [
+          "What is it?",
+          "Đó là cái gì?"
+        ],
+        [
+          "I don't know.",
+          "Mình không biết."
+        ],
+        [
+          "It's a yo-yo.",
+          "Đó là một yo-yo."
+        ]
+      ],
+      "qa": []
+    },
+    "43": {
+      "topic": "Miêu tả đồ chơi",
+      "v": [
+        [
+          "little",
+          "nhỏ"
+        ],
+        [
+          "big",
+          "to"
+        ],
+        [
+          "new",
+          "mới"
+        ],
+        [
+          "old",
+          "cũ"
+        ],
+        [
+          "long",
+          "dài"
+        ],
+        [
+          "short",
+          "ngắn"
+        ],
+        [
+          "round",
+          "tròn"
+        ],
+        [
+          "square",
+          "vuông"
+        ]
+      ],
+      "s": [
+        [
+          "It's little.",
+          "Nó nhỏ."
+        ]
+      ],
+      "qa": []
+    },
+    "44": {
+      "topic": "Xác nhận đặc điểm đồ chơi",
+      "v": [
+        [
+          "a round yo-yo",
+          "một yo-yo tròn"
+        ],
+        [
+          "a new doll",
+          "một búp bê mới"
+        ],
+        [
+          "an old doll",
+          "một búp bê cũ"
+        ]
+      ],
+      "s": [
+        [
+          "Is it a round yo-yo?",
+          "Đó có phải một yo-yo tròn không?"
+        ],
+        [
+          "Yes, it is.",
+          "Đúng vậy."
+        ],
+        [
+          "Is it a new doll?",
+          "Đó có phải một búp bê mới không?"
+        ],
+        [
+          "No, it isn't. It's an old doll.",
+          "Không phải. Đó là một búp bê cũ."
+        ]
+      ],
+      "qa": [
+        [
+          "Is it a round yo-yo?",
+          "Yes, it is."
+        ],
+        [
+          "Is it a new doll?",
+          "No, it isn't. It's an old doll."
+        ]
+      ]
+    },
+    "45": {
+      "topic": "Chữ J–M; trò chơi đoán hình",
+      "v": [
+        [
+          "juice",
+          "nước ép"
+        ],
+        [
+          "jump rope",
+          "dây nhảy"
+        ],
+        [
+          "kite",
+          "con diều"
+        ],
+        [
+          "kangaroo",
+          "con chuột túi"
+        ],
+        [
+          "lion",
+          "con sư tử"
+        ],
+        [
+          "lemon",
+          "quả chanh vàng"
+        ],
+        [
+          "map",
+          "bản đồ"
+        ],
+        [
+          "mother",
+          "mẹ"
+        ]
+      ],
+      "s": [
+        [
+          "Is it a triangle?",
+          "Đó có phải hình tam giác không?"
+        ],
+        [
+          "No, it isn't.",
+          "Không phải."
+        ],
+        [
+          "Is it a star?",
+          "Đó có phải hình ngôi sao không?"
+        ],
+        [
+          "Yes, it is.",
+          "Đúng vậy."
+        ]
+      ],
+      "qa": [
+        [
+          "Is it a triangle?",
+          "No, it isn't."
+        ],
+        [
+          "Is it a star?",
+          "Yes, it is."
+        ]
+      ]
+    },
+    "46": {
+      "topic": "Xác nhận nhiều đồ vật",
+      "v": [
+        [
+          "pencils",
+          "những bút chì"
+        ],
+        [
+          "pens",
+          "những bút mực"
+        ],
+        [
+          "crayons",
+          "những bút sáp"
+        ]
+      ],
+      "s": [
+        [
+          "Are they pencils?",
+          "Đó có phải những bút chì không?"
+        ],
+        [
+          "Yes, they are.",
+          "Đúng vậy."
+        ],
+        [
+          "Are they pens?",
+          "Đó có phải những bút mực không?"
+        ],
+        [
+          "No, they aren't.",
+          "Không phải."
+        ]
+      ],
+      "qa": []
+    },
+    "47": {
+      "topic": "Thời tiết",
+      "v": [
+        [
+          "sunny",
+          "có nắng"
+        ],
+        [
+          "rainy",
+          "có mưa"
+        ],
+        [
+          "windy",
+          "có gió"
+        ],
+        [
+          "cloudy",
+          "nhiều mây"
+        ],
+        [
+          "snowy",
+          "có tuyết"
+        ]
+      ],
+      "s": [
+        [
+          "How's the weather?",
+          "Thời tiết thế nào?"
+        ],
+        [
+          "It's sunny.",
+          "Trời có nắng."
+        ]
+      ],
+      "qa": []
+    },
+    "48": {
+      "topic": "Thời tiết; khả năng chơi bóng",
+      "v": [
+        [
+          "throw a ball",
+          "ném bóng"
+        ],
+        [
+          "catch a ball",
+          "bắt bóng"
+        ],
+        [
+          "hit a ball",
+          "đánh bóng"
+        ],
+        [
+          "kick a ball",
+          "đá bóng"
+        ]
+      ],
+      "s": [
+        [
+          "How's the weather?",
+          "Thời tiết thế nào?"
+        ],
+        [
+          "It's sunny today.",
+          "Hôm nay trời có nắng."
+        ],
+        [
+          "Can you throw a ball?",
+          "Bạn có thể ném bóng không?"
+        ],
+        [
+          "Yes, I can.",
+          "Có, mình có thể."
+        ],
+        [
+          "No, I can't.",
+          "Không, mình không thể."
+        ]
+      ],
+      "qa": []
+    },
+    "49": {
+      "topic": "Đếm cảnh vật ngoài trời",
+      "v": [
+        [
+          "a flower",
+          "một bông hoa"
+        ],
+        [
+          "flowers",
+          "những bông hoa"
+        ],
+        [
+          "a tree",
+          "một cái cây"
+        ],
+        [
+          "trees",
+          "những cái cây"
+        ],
+        [
+          "a cloud",
+          "một đám mây"
+        ],
+        [
+          "clouds",
+          "những đám mây"
+        ],
+        [
+          "a puddle",
+          "một vũng nước"
+        ],
+        [
+          "puddles",
+          "những vũng nước"
+        ]
+      ],
+      "s": [
+        [
+          "There's one flower.",
+          "Có một bông hoa."
+        ],
+        [
+          "There are four trees.",
+          "Có bốn cái cây."
+        ]
+      ],
+      "qa": []
+    },
+    "50": {
+      "topic": "Hỏi số lượng cảnh vật",
+      "v": [
+        [
+          "flowers",
+          "những bông hoa"
+        ],
+        [
+          "trees",
+          "những cái cây"
+        ],
+        [
+          "clouds",
+          "những đám mây"
+        ],
+        [
+          "puddles",
+          "những vũng nước"
+        ]
+      ],
+      "s": [
+        [
+          "How many flowers are there?",
+          "Có bao nhiêu bông hoa?"
+        ],
+        [
+          "There are three flowers.",
+          "Có ba bông hoa."
+        ],
+        [
+          "How many trees are there?",
+          "Có bao nhiêu cái cây?"
+        ]
+      ],
+      "qa": []
+    },
+    "51": {
+      "topic": "Vị trí",
+      "v": [
+        [
+          "in",
+          "ở trong"
+        ],
+        [
+          "on",
+          "ở trên"
+        ],
+        [
+          "under",
+          "ở dưới"
+        ],
+        [
+          "by",
+          "ở cạnh"
+        ]
+      ],
+      "s": [
+        [
+          "The bug is in the bag.",
+          "Con bọ ở trong túi."
+        ],
+        [
+          "The bug is on the bag.",
+          "Con bọ ở trên túi."
+        ],
+        [
+          "The bugs are under the bag.",
+          "Những con bọ ở dưới túi."
+        ],
+        [
+          "The bugs are by the bag.",
+          "Những con bọ ở cạnh túi."
+        ]
+      ],
+      "qa": []
+    },
+    "52": {
+      "topic": "Hỏi vị trí",
+      "v": [
+        [
+          "on the flowers",
+          "ở trên những bông hoa"
+        ],
+        [
+          "by the tree",
+          "ở cạnh cái cây"
+        ],
+        [
+          "in the puddle",
+          "ở trong vũng nước"
+        ],
+        [
+          "under the tree",
+          "ở dưới cái cây"
+        ]
+      ],
+      "s": [
+        [
+          "Where are the bugs?",
+          "Những con bọ ở đâu?"
+        ],
+        [
+          "They're on the flowers.",
+          "Chúng ở trên những bông hoa."
+        ],
+        [
+          "Where's the tree?",
+          "Cái cây ở đâu?"
+        ],
+        [
+          "It's in the puddle.",
+          "Nó ở trong vũng nước."
+        ]
+      ],
+      "qa": [
+        [
+          "Where are the bugs?",
+          "They're on the flowers."
+        ],
+        [
+          "Where's the tree?",
+          "It's in the puddle."
+        ]
+      ]
+    },
+    "53": {
+      "topic": "Chữ N–Q; Is there",
+      "v": [
+        [
+          "nut",
+          "hạt"
+        ],
+        [
+          "notebook",
+          "quyển vở"
+        ],
+        [
+          "octopus",
+          "con bạch tuộc"
+        ],
+        [
+          "omelet",
+          "trứng ốp lết"
+        ],
+        [
+          "pencil",
+          "bút chì"
+        ],
+        [
+          "picture",
+          "bức tranh"
+        ],
+        [
+          "queen",
+          "nữ hoàng"
+        ],
+        [
+          "question",
+          "câu hỏi"
+        ]
+      ],
+      "s": [
+        [
+          "Is there a doll in the bag?",
+          "Có một búp bê trong túi không?"
+        ],
+        [
+          "Yes, there is.",
+          "Có."
+        ],
+        [
+          "No, there isn't.",
+          "Không có."
+        ]
+      ],
+      "qa": []
+    },
+    "54": {
+      "topic": "Are there",
+      "v": [
+        [
+          "bats",
+          "những gậy bóng chày"
+        ],
+        [
+          "in the bag",
+          "ở trong túi"
+        ]
+      ],
+      "s": [
+        [
+          "Are there bats in the bag?",
+          "Có những gậy bóng chày trong túi không?"
+        ],
+        [
+          "Yes, there are.",
+          "Có."
+        ],
+        [
+          "No, there aren't.",
+          "Không có."
+        ]
+      ],
+      "qa": []
+    },
+    "55": {
+      "topic": "Review 5–6",
+      "v": [
+        [
+          "a kite",
+          "một con diều"
+        ],
+        [
+          "a ball",
+          "một quả bóng"
+        ],
+        [
+          "rainy",
+          "có mưa"
+        ],
+        [
+          "sunny",
+          "có nắng"
+        ]
+      ],
+      "s": [
+        [
+          "How old are you?",
+          "Bạn bao nhiêu tuổi?"
+        ],
+        [
+          "How's the weather?",
+          "Thời tiết thế nào?"
+        ],
+        [
+          "Where's the ball?",
+          "Quả bóng ở đâu?"
+        ]
+      ],
+      "qa": [],
+      "note": "Dùng hình trên trang để ôn Unit 5–6; không suy đoán câu trả lời của bài nghe gốc."
+    },
+    "56": {
+      "topic": "Các ngày trong tuần",
+      "v": [
+        [
+          "Sunday",
+          "Chủ nhật"
+        ],
+        [
+          "Monday",
+          "thứ Hai"
+        ],
+        [
+          "Tuesday",
+          "thứ Ba"
+        ],
+        [
+          "Wednesday",
+          "thứ Tư"
+        ],
+        [
+          "Thursday",
+          "thứ Năm"
+        ],
+        [
+          "Friday",
+          "thứ Sáu"
+        ],
+        [
+          "Saturday",
+          "thứ Bảy"
+        ]
+      ],
+      "s": [
+        [
+          "What day is it today?",
+          "Hôm nay là thứ mấy?"
+        ],
+        [
+          "Today is Monday.",
+          "Hôm nay là thứ Hai."
+        ]
+      ],
+      "qa": [
+        [
+          "What day is it today?",
+          "Today is Monday."
+        ]
+      ],
+      "note": "Trang thứ hai thuộc phạm vi Review là Let’s Learn About Days of the Week."
+    },
+    "57": {
+      "topic": "Mời đồ uống và cảm ơn",
+      "v": [],
+      "s": [
+        [
+          "I'm thirsty. I want juice.",
+          "Mình khát. Mình muốn nước ép."
+        ],
+        [
+          "Here you are.",
+          "Của bạn đây."
+        ],
+        [
+          "Thank you.",
+          "Cảm ơn bạn."
+        ],
+        [
+          "You're welcome.",
+          "Không có gì."
+        ]
+      ],
+      "qa": [
+        [
+          "Thank you.",
+          "You're welcome."
+        ]
+      ]
+    },
+    "58": {
+      "topic": "Muốn ăn uống; thói quen",
+      "v": [
+        [
+          "wash my hands",
+          "rửa tay"
+        ],
+        [
+          "eat bread",
+          "ăn bánh mì"
+        ],
+        [
+          "drink milk",
+          "uống sữa"
+        ],
+        [
+          "brush my teeth",
+          "đánh răng"
+        ]
+      ],
+      "s": [
+        [
+          "I want an apple.",
+          "Mình muốn một quả táo."
+        ],
+        [
+          "I wash my hands every day.",
+          "Mình rửa tay mỗi ngày."
+        ]
+      ],
+      "qa": []
+    },
+    "59": {
+      "topic": "Đồ ăn và đồ uống",
+      "v": [
+        [
+          "an orange",
+          "một quả cam"
+        ],
+        [
+          "a banana",
+          "một quả chuối"
+        ],
+        [
+          "a soda",
+          "một nước ngọt"
+        ],
+        [
+          "a milkshake",
+          "một sữa lắc"
+        ],
+        [
+          "a cookie",
+          "một bánh quy"
+        ],
+        [
+          "a sandwich",
+          "một bánh mì kẹp"
+        ],
+        [
+          "an egg",
+          "một quả trứng"
+        ],
+        [
+          "a salad",
+          "một phần xa lát"
+        ]
+      ],
+      "s": [
+        [
+          "I want a banana.",
+          "Mình muốn một quả chuối."
+        ],
+        [
+          "I want an orange.",
+          "Mình muốn một quả cam."
+        ]
+      ],
+      "qa": []
+    },
+    "60": {
+      "topic": "Hỏi muốn món gì",
+      "v": [
+        [
+          "an orange",
+          "một quả cam"
+        ],
+        [
+          "a banana",
+          "một quả chuối"
+        ],
+        [
+          "a soda",
+          "một nước ngọt"
+        ],
+        [
+          "a milkshake",
+          "một sữa lắc"
+        ],
+        [
+          "a cookie",
+          "một bánh quy"
+        ],
+        [
+          "a sandwich",
+          "một bánh mì kẹp"
+        ],
+        [
+          "an egg",
+          "một quả trứng"
+        ],
+        [
+          "a salad",
+          "một phần xa lát"
+        ]
+      ],
+      "s": [
+        [
+          "What do you want?",
+          "Bạn muốn gì?"
+        ],
+        [
+          "I want a banana.",
+          "Mình muốn một quả chuối."
+        ]
+      ],
+      "qa": []
+    },
+    "61": {
+      "topic": "Muốn và không muốn đồ ăn",
+      "v": [
+        [
+          "chicken",
+          "thịt gà"
+        ],
+        [
+          "fish",
+          "cá"
+        ],
+        [
+          "pizza",
+          "bánh pizza"
+        ],
+        [
+          "bread",
+          "bánh mì"
+        ],
+        [
+          "rice",
+          "cơm"
+        ],
+        [
+          "milk",
+          "sữa"
+        ],
+        [
+          "cake",
+          "bánh ngọt"
+        ],
+        [
+          "ice cream",
+          "kem"
+        ]
+      ],
+      "s": [
+        [
+          "I want chicken.",
+          "Mình muốn thịt gà."
+        ],
+        [
+          "I don't want fish.",
+          "Mình không muốn cá."
+        ]
+      ],
+      "qa": []
+    },
+    "62": {
+      "topic": "Do you want",
+      "v": [
+        [
+          "cake",
+          "bánh ngọt"
+        ],
+        [
+          "rice",
+          "cơm"
+        ],
+        [
+          "fish",
+          "cá"
+        ],
+        [
+          "milk",
+          "sữa"
+        ]
+      ],
+      "s": [
+        [
+          "Do you want cake?",
+          "Bạn có muốn bánh ngọt không?"
+        ],
+        [
+          "Yes, I do.",
+          "Có."
+        ],
+        [
+          "Do you want rice?",
+          "Bạn có muốn cơm không?"
+        ],
+        [
+          "No, I don't. I want milk.",
+          "Không. Mình muốn sữa."
+        ]
+      ],
+      "qa": [
+        [
+          "Do you want cake?",
+          "Yes, I do."
+        ],
+        [
+          "Do you want rice?",
+          "No, I don't. I want milk."
+        ]
+      ]
+    },
+    "63": {
+      "topic": "Chữ R–U; đồ vật mong muốn",
+      "v": [
+        [
+          "rocket",
+          "tên lửa"
+        ],
+        [
+          "rainbow",
+          "cầu vồng"
+        ],
+        [
+          "sun",
+          "mặt trời"
+        ],
+        [
+          "socks",
+          "những chiếc tất"
+        ],
+        [
+          "towel",
+          "khăn"
+        ],
+        [
+          "teapot",
+          "ấm trà"
+        ],
+        [
+          "umbrella",
+          "cái ô"
+        ],
+        [
+          "umpire",
+          "trọng tài"
+        ]
+      ],
+      "s": [
+        [
+          "I want a new car.",
+          "Mình muốn một ô tô mới."
+        ],
+        [
+          "Do you want a little, yellow kite?",
+          "Bạn có muốn một con diều nhỏ màu vàng không?"
+        ],
+        [
+          "No, I don't. I want a big, red kite.",
+          "Không. Mình muốn một con diều to màu đỏ."
+        ]
+      ],
+      "qa": []
+    },
+    "64": {
+      "topic": "Miêu tả thứ mình muốn",
+      "v": [
+        [
+          "big",
+          "to"
+        ],
+        [
+          "thin",
+          "mỏng"
+        ],
+        [
+          "pretty",
+          "đẹp"
+        ],
+        [
+          "an orange bicycle",
+          "một xe đạp màu cam"
+        ]
+      ],
+      "s": [
+        [
+          "What do you want?",
+          "Bạn muốn gì?"
+        ],
+        [
+          "I want a big car.",
+          "Mình muốn một ô tô to."
+        ],
+        [
+          "I want an orange bicycle.",
+          "Mình muốn một xe đạp màu cam."
+        ]
+      ],
+      "qa": []
+    },
+    "65": {
+      "topic": "Hỏi màu yêu thích",
+      "v": [
+        [
+          "red",
+          "màu đỏ"
+        ],
+        [
+          "blue",
+          "màu xanh dương"
+        ],
+        [
+          "green",
+          "màu xanh lá"
+        ]
+      ],
+      "s": [
+        [
+          "What's your favorite color?",
+          "Màu yêu thích của bạn là gì?"
+        ],
+        [
+          "Red.",
+          "Màu đỏ."
+        ],
+        [
+          "I like red.",
+          "Mình thích màu đỏ."
+        ]
+      ],
+      "qa": []
+    },
+    "66": {
+      "topic": "Màu yêu thích; chăm sóc động vật",
+      "v": [
+        [
+          "walk the dog",
+          "dắt chó đi dạo"
+        ],
+        [
+          "feed the turtle",
+          "cho rùa ăn"
+        ],
+        [
+          "brush the horse",
+          "chải lông ngựa"
+        ],
+        [
+          "pet the cat",
+          "vuốt ve mèo"
+        ]
+      ],
+      "s": [
+        [
+          "My favorite color is red.",
+          "Màu yêu thích của mình là đỏ."
+        ],
+        [
+          "My favorite color is pink.",
+          "Màu yêu thích của mình là hồng."
+        ],
+        [
+          "My favorite color is green.",
+          "Màu yêu thích của mình là xanh lá."
+        ]
+      ],
+      "qa": []
+    },
+    "67": {
+      "topic": "Động vật nuôi; I like",
+      "v": [
+        [
+          "a dog",
+          "một con chó"
+        ],
+        [
+          "dogs",
+          "những con chó"
+        ],
+        [
+          "a cat",
+          "một con mèo"
+        ],
+        [
+          "cats",
+          "những con mèo"
+        ],
+        [
+          "a bird",
+          "một con chim"
+        ],
+        [
+          "birds",
+          "những con chim"
+        ],
+        [
+          "a rabbit",
+          "một con thỏ"
+        ],
+        [
+          "rabbits",
+          "những con thỏ"
+        ],
+        [
+          "a turtle",
+          "một con rùa"
+        ],
+        [
+          "turtles",
+          "những con rùa"
+        ],
+        [
+          "a frog",
+          "một con ếch"
+        ],
+        [
+          "frogs",
+          "những con ếch"
+        ]
+      ],
+      "s": [
+        [
+          "I like dogs.",
+          "Mình thích chó."
+        ]
+      ],
+      "qa": []
+    },
+    "68": {
+      "topic": "Hỏi thích con vật gì",
+      "v": [
+        [
+          "dogs",
+          "những con chó"
+        ],
+        [
+          "cats",
+          "những con mèo"
+        ],
+        [
+          "birds",
+          "những con chim"
+        ],
+        [
+          "rabbits",
+          "những con thỏ"
+        ],
+        [
+          "turtles",
+          "những con rùa"
+        ],
+        [
+          "frogs",
+          "những con ếch"
+        ]
+      ],
+      "s": [
+        [
+          "What do you like?",
+          "Bạn thích gì?"
+        ],
+        [
+          "I like dogs.",
+          "Mình thích chó."
+        ]
+      ],
+      "qa": []
+    },
+    "69": {
+      "topic": "Thêm động vật; không thích",
+      "v": [
+        [
+          "a monkey",
+          "một con khỉ"
+        ],
+        [
+          "monkeys",
+          "những con khỉ"
+        ],
+        [
+          "a lion",
+          "một con sư tử"
+        ],
+        [
+          "lions",
+          "những con sư tử"
+        ],
+        [
+          "a tiger",
+          "một con hổ"
+        ],
+        [
+          "tigers",
+          "những con hổ"
+        ],
+        [
+          "a bear",
+          "một con gấu"
+        ],
+        [
+          "bears",
+          "những con gấu"
+        ],
+        [
+          "a giraffe",
+          "một con hươu cao cổ"
+        ],
+        [
+          "giraffes",
+          "những con hươu cao cổ"
+        ],
+        [
+          "an elephant",
+          "một con voi"
+        ],
+        [
+          "elephants",
+          "những con voi"
+        ]
+      ],
+      "s": [
+        [
+          "I like monkeys.",
+          "Mình thích khỉ."
+        ],
+        [
+          "I don't like lions.",
+          "Mình không thích sư tử."
+        ]
+      ],
+      "qa": []
+    },
+    "70": {
+      "topic": "Hỏi có thích con vật không",
+      "v": [
+        [
+          "elephants",
+          "những con voi"
+        ],
+        [
+          "tigers",
+          "những con hổ"
+        ],
+        [
+          "lions",
+          "những con sư tử"
+        ],
+        [
+          "monkeys",
+          "những con khỉ"
+        ]
+      ],
+      "s": [
+        [
+          "Do you like elephants?",
+          "Bạn có thích voi không?"
+        ],
+        [
+          "Yes, I do.",
+          "Có."
+        ],
+        [
+          "Do you like tigers?",
+          "Bạn có thích hổ không?"
+        ],
+        [
+          "No, I don't.",
+          "Không."
+        ]
+      ],
+      "qa": [
+        [
+          "Do you like elephants?",
+          "Yes, I do."
+        ],
+        [
+          "Do you like tigers?",
+          "No, I don't."
+        ]
+      ]
+    },
+    "71": {
+      "topic": "Chữ V–Z; hỏi sở thích",
+      "v": [
+        [
+          "vacuum",
+          "máy hút bụi"
+        ],
+        [
+          "van",
+          "xe tải nhỏ"
+        ],
+        [
+          "water",
+          "nước"
+        ],
+        [
+          "wig",
+          "tóc giả"
+        ],
+        [
+          "fox",
+          "con cáo"
+        ],
+        [
+          "box",
+          "cái hộp"
+        ],
+        [
+          "yo-yo",
+          "yo-yo"
+        ],
+        [
+          "yarn",
+          "sợi len"
+        ],
+        [
+          "zoo",
+          "sở thú"
+        ],
+        [
+          "zebra",
+          "con ngựa vằn"
+        ]
+      ],
+      "s": [
+        [
+          "Do you like giraffes?",
+          "Bạn có thích hươu cao cổ không?"
+        ],
+        [
+          "Yes, I do.",
+          "Có."
+        ],
+        [
+          "No, I don't.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "72": {
+      "topic": "Phân biệt like và want",
+      "v": [
+        [
+          "turtles",
+          "những con rùa"
+        ],
+        [
+          "a turtle",
+          "một con rùa"
+        ]
+      ],
+      "s": [
+        [
+          "What do you like?",
+          "Bạn thích gì?"
+        ],
+        [
+          "I like turtles.",
+          "Mình thích rùa."
+        ],
+        [
+          "What do you want?",
+          "Bạn muốn gì?"
+        ],
+        [
+          "I want a turtle.",
+          "Mình muốn một con rùa."
+        ],
+        [
+          "I like turtles, too.",
+          "Mình cũng thích rùa."
+        ]
+      ],
+      "qa": [
+        [
+          "What do you like?",
+          "I like turtles."
+        ],
+        [
+          "What do you want?",
+          "I want a turtle."
+        ]
+      ]
+    },
+    "73": {
+      "topic": "Review 7–8",
+      "v": [
+        [
+          "a sandwich",
+          "một bánh mì kẹp"
+        ],
+        [
+          "a rabbit",
+          "một con thỏ"
+        ],
+        [
+          "chicken",
+          "thịt gà"
+        ],
+        [
+          "a tiger",
+          "một con hổ"
+        ]
+      ],
+      "s": [
+        [
+          "What do you want?",
+          "Bạn muốn gì?"
+        ],
+        [
+          "What do you like?",
+          "Bạn thích gì?"
+        ],
+        [
+          "Do you like tigers?",
+          "Bạn có thích hổ không?"
+        ]
+      ],
+      "qa": [],
+      "note": "Câu hỏi bổ sung ôn Unit 7–8; bài nghe gốc chỉ chấm sau khi nghe đúng audio."
+    },
+    "74": {
+      "topic": "Cảm xúc và trạng thái",
+      "v": [
+        [
+          "happy",
+          "vui"
+        ],
+        [
+          "sad",
+          "buồn"
+        ],
+        [
+          "angry",
+          "tức giận"
+        ],
+        [
+          "tired",
+          "mệt"
+        ],
+        [
+          "sick",
+          "ốm"
+        ],
+        [
+          "scared",
+          "sợ"
+        ],
+        [
+          "hungry",
+          "đói"
+        ],
+        [
+          "thirsty",
+          "khát"
+        ],
+        [
+          "hot",
+          "nóng"
+        ],
+        [
+          "cold",
+          "lạnh"
+        ]
+      ],
+      "s": [
+        [
+          "Are you happy?",
+          "Bạn có vui không?"
+        ]
+      ],
+      "qa": [],
+      "note": "Trang thứ hai thuộc phạm vi Review là Let’s Learn About Feelings."
+    }
+  }
+}

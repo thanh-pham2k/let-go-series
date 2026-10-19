@@ -1,0 +1,48 @@
+{
+  "job": "batch-05",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-05\\generated.png",
+  "tracks": [
+    {
+      "id": "CD1_40",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_40.webp",
+      "bytes": 36376,
+      "sha256": "0ee12355ab17d792cdee9ed1664ad76ef2e5af68ad19974fd9f93361df6c08d7"
+    },
+    {
+      "id": "CD1_41",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_41.webp",
+      "bytes": 11214,
+      "sha256": "ee74820b81e625b6b815db5ff0bfd16547228a642bc90fdd19d238bb6b153ac2"
+    },
+    {
+      "id": "CD1_42",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_42.webp",
+      "bytes": 10204,
+      "sha256": "303152fa5598781f187001a746a20f602f16884e92f446c7befa6c4a3b36ca8c"
+    },
+    {
+      "id": "CD1_43",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_43.webp",
+      "bytes": 23918,
+      "sha256": "9bc3284af6a37207fb30046373ca7518ad765e5275b7f97fc7f05df5d0421703"
+    },
+    {
+      "id": "CD1_44",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_44.webp",
+      "bytes": 34098,
+      "sha256": "640179e6ccc95909ada5e8db987cd030f885cc5886720da4fecd9e1cb5ee8609"
+    },
+    {
+      "id": "CD1_45",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_45.webp",
+      "bytes": 27214,
+      "sha256": "328ae1d8c210d30a2c355ef0883fc513aebfceb13606715089e92a1e48c3442f"
+    },
+    {
+      "id": "CD1_46",
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/regenerated/CD1_46.webp",
+      "bytes": 34152,
+      "sha256": "9852d69812943456157138456b71a2e56a24772a069ec24f7741e3933adde9da"
+    }
+  ]
+}

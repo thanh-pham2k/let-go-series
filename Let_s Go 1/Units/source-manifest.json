@@ -1,0 +1,128 @@
+{
+  "book": 1,
+  "source": "Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+  "numbering": "PDF, one-based; preserve requested ranges even if unit boundaries differ in source",
+  "source_sha256": "082c3aabe4da9595fb3003724f4abc79344a96b9a9b6f0acc0d4e410f8d8fbce",
+  "sections": [
+    {
+      "name": "Unit 1 - Things for School",
+      "start": 3,
+      "end": 10,
+      "printed_start": 2,
+      "printed_end": 9,
+      "kind": "Unit",
+      "unit": 1,
+      "pdf": "Unit 1 - Things for School.pdf"
+    },
+    {
+      "name": "Unit 2 - Colors and Shapes",
+      "start": 11,
+      "end": 18,
+      "printed_start": 10,
+      "printed_end": 17,
+      "kind": "Unit",
+      "unit": 2,
+      "pdf": "Unit 2 - Colors and Shapes.pdf"
+    },
+    {
+      "name": "Review 1-2",
+      "start": 19,
+      "end": 20,
+      "printed_start": 18,
+      "printed_end": 19,
+      "kind": "Review",
+      "unit": 2,
+      "pdf": "Review 1-2.pdf"
+    },
+    {
+      "name": "Unit 3 - At the Store",
+      "start": 21,
+      "end": 28,
+      "printed_start": 20,
+      "printed_end": 27,
+      "kind": "Unit",
+      "unit": 3,
+      "pdf": "Unit 3 - At the Store.pdf"
+    },
+    {
+      "name": "Unit 4 - People at Home",
+      "start": 29,
+      "end": 36,
+      "printed_start": 28,
+      "printed_end": 35,
+      "kind": "Unit",
+      "unit": 4,
+      "pdf": "Unit 4 - People at Home.pdf"
+    },
+    {
+      "name": "Review 3-4",
+      "start": 37,
+      "end": 38,
+      "printed_start": 36,
+      "printed_end": 37,
+      "kind": "Review",
+      "unit": 4,
+      "pdf": "Review 3-4.pdf"
+    },
+    {
+      "name": "Unit 5 - Birthday and Toys",
+      "start": 39,
+      "end": 46,
+      "printed_start": 38,
+      "printed_end": 45,
+      "kind": "Unit",
+      "unit": 5,
+      "pdf": "Unit 5 - Birthday and Toys.pdf"
+    },
+    {
+      "name": "Unit 6 - Outdoors",
+      "start": 47,
+      "end": 54,
+      "printed_start": 46,
+      "printed_end": 53,
+      "kind": "Unit",
+      "unit": 6,
+      "pdf": "Unit 6 - Outdoors.pdf"
+    },
+    {
+      "name": "Review 5-6",
+      "start": 55,
+      "end": 56,
+      "printed_start": 54,
+      "printed_end": 55,
+      "kind": "Review",
+      "unit": 6,
+      "pdf": "Review 5-6.pdf"
+    },
+    {
+      "name": "Unit 7 - Food",
+      "start": 57,
+      "end": 64,
+      "printed_start": 56,
+      "printed_end": 63,
+      "kind": "Unit",
+      "unit": 7,
+      "pdf": "Unit 7 - Food.pdf"
+    },
+    {
+      "name": "Unit 8 - Animals",
+      "start": 65,
+      "end": 72,
+      "printed_start": 64,
+      "printed_end": 71,
+      "kind": "Unit",
+      "unit": 8,
+      "pdf": "Unit 8 - Animals.pdf"
+    },
+    {
+      "name": "Review 7-8",
+      "start": 73,
+      "end": 74,
+      "printed_start": 72,
+      "printed_end": 73,
+      "kind": "Review",
+      "unit": 8,
+      "pdf": "Review 7-8.pdf"
+    }
+  ]
+}

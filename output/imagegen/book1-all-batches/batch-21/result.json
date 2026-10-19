@@ -1,0 +1,54 @@
+{
+  "job": "batch-21",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-21\\generated.png",
+  "tracks": [
+    {
+      "id": "CD2_51",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_51.webp",
+      "bytes": 39592,
+      "sha256": "b8268c109d90f0aade944f7d5a6c83afe41a8b95f025969b5ad2b463b5b955bc"
+    },
+    {
+      "id": "CD2_52",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_52.webp",
+      "bytes": 7580,
+      "sha256": "8eff966dce5d1977bbc7aac998bc6b46c564ed2467ed3cbf80d73ccc089df80d"
+    },
+    {
+      "id": "CD2_53",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_53.webp",
+      "bytes": 34678,
+      "sha256": "538dcd469897620c8569b0a8a7302d096028340505853859782d0c91e3a78ae3"
+    },
+    {
+      "id": "CD2_54",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_54.webp",
+      "bytes": 22788,
+      "sha256": "254e9ef99332fc54cbae1e8a384f7af72214d36e4a52899097d5055debd03e3b"
+    },
+    {
+      "id": "CD2_55",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_55.webp",
+      "bytes": 7020,
+      "sha256": "9d5db619d191f24df0df253d192d54373509585478ebb6a448af1f9f7079dd1b"
+    },
+    {
+      "id": "CD2_56",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_56.webp",
+      "bytes": 7060,
+      "sha256": "441ee812b390b9a93c2bc4be0b8494e1ade2c7c7032657cc67a264c353ea2655"
+    },
+    {
+      "id": "CD2_57",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_57.webp",
+      "bytes": 32296,
+      "sha256": "ec1d12de1e4e8a03b1cb073206d2607ac693ad1f9946891839da07d380eff0df"
+    },
+    {
+      "id": "CD2_58",
+      "image": "Unit 7 - Food - Audio Pages/regenerated/CD2_58.webp",
+      "bytes": 9618,
+      "sha256": "cfb77b6afe630a336230de940a45f78a05125808009165857fb319f6d809345f"
+    }
+  ]
+}

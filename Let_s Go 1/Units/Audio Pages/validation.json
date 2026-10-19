@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "scope": "All 8 Units and 4 Reviews in Let_s Go 1/Units; original PDF pages 3–74",
+  "page_images": 72,
+  "track_images": 196,
+  "mapped_audio_track_ids": 196,
+  "discs": {
+    "CD1": "02–99",
+    "CD2": "02–99"
+  },
+  "source_mp3_copies": 186,
+  "missing_source_mp3": [
+    "CD1_31",
+    "CD1_32",
+    "CD1_33",
+    "CD1_34",
+    "CD1_35",
+    "CD1_36",
+    "CD1_37",
+    "CD1_38",
+    "CD1_39",
+    "CD1_40"
+  ],
+  "missing_mp3_blocks_image_completion": false,
+  "excluded_intro_track_ids": [
+    "CD1_01",
+    "CD2_01"
+  ],
+  "checks": [
+    "Distinct printed activities have no overlapping unmasked crop pixels",
+    "72 full-page PNGs pixel-identical to original PDF renders",
+    "196 unique track IDs cover CD1/CD2 02–99 exactly once",
+    "196 PNG crops match recorded source regions and neighbouring-region clipping",
+    "all section manifests and asset paths resolve",
+    "186 copied MP3s byte-identical to source; source-missing MP3s explicitly flagged",
+    "all 12 preview scripts pass JavaScript syntax checks"
+  ],
+  "visual_review": {
+    "source_pages_mapped": 72,
+    "method": "Printed CD icons checked on all source page contact sheets; per-activity rectangles reviewed on boundary overlays; final crop samples reviewed including dialogue, song, action, alphabet, practice and review layouts.",
+    "original_scan_limitations": "Some source pages already have clipped text at the outer page edge. Extracts preserve source content; missing original scan content is not invented."
+  },
+  "errors": []
+}

@@ -1,0 +1,192 @@
+{
+  "section": "Review 1-2",
+  "source_pdf_pages": [
+    19,
+    20
+  ],
+  "page_count": 2,
+  "track_count": 3,
+  "audio_available": 3,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 47,
+      "source_pdf_page": 19,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.925
+      ],
+      "activity": "A. Listen and circle: Units 1–2",
+      "kind": "review",
+      "region_id": "PDF-019-0.0850-0.9250",
+      "id": "CD1_47",
+      "section": "Review 1-2",
+      "printed_page": 18,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 1-2.pdf",
+      "image": "regenerated/CD1_47.webp",
+      "page_image": "pages/PDF-019.png",
+      "audio": "audio/CD1_47.mp3",
+      "expected_audio": "audio/CD1_47.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/47 - (Third ed) - Track 47.mp3",
+      "audio_sha256": "4a9fc54797939a35cb6cdce06172c01409ba7caab390b319d6d6658e7801ef25",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 66.213333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_47.png",
+      "image_bytes": 38146,
+      "image_sha256": "5286f1f275f0d833cc84feb31f10ab90e69b1e5973e404e31b843cb03833e639",
+      "generation_batch": "batch-06",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_47.webp",
+      "related_track_ids": [
+        "CD1_47"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 48,
+      "source_pdf_page": 20,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.48
+      ],
+      "activity": "A. Count to ten",
+      "kind": "numbers",
+      "region_id": "PDF-020-0.0850-0.4800",
+      "id": "CD1_48",
+      "section": "Review 1-2",
+      "printed_page": 19,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 1-2.pdf",
+      "image": "regenerated/CD1_48.webp",
+      "page_image": "pages/PDF-020.png",
+      "audio": "audio/CD1_48.mp3",
+      "expected_audio": "audio/CD1_48.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/48 - (Third ed) - Track 48.mp3",
+      "audio_sha256": "0cf2b5beda0dac3f370bf963ac9f8e2ac5119778a038b6c730d1a609565cadd8",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1682
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        807
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 39.586667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_48.png",
+      "image_bytes": 18244,
+      "image_sha256": "c870050585ff91cb495611666a880f4292453a71411b3061bbfb9c07839344c9",
+      "generation_batch": "batch-06",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_48.webp",
+      "related_track_ids": [
+        "CD1_48"
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 49,
+      "source_pdf_page": 20,
+      "crop_normalized": [
+        0,
+        0.48,
+        1,
+        0.925
+      ],
+      "activity": "B. Count to twenty",
+      "kind": "numbers",
+      "region_id": "PDF-020-0.4800-0.9250",
+      "id": "CD1_49",
+      "section": "Review 1-2",
+      "printed_page": 19,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 1-2.pdf",
+      "image": "regenerated/CD1_49.webp",
+      "page_image": "pages/PDF-020.png",
+      "audio": "audio/CD1_49.mp3",
+      "expected_audio": "audio/CD1_49.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/49 - (Third ed) - Track 49.mp3",
+      "audio_sha256": "e7dabebbb30b519090af8c5b0aa15ad4a93ec9535889e76ece8462bf900a99fd",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1682
+      ],
+      "crop_pixels": [
+        0,
+        807,
+        1224,
+        1556
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 32.186667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD1_49.png",
+      "image_bytes": 31916,
+      "image_sha256": "9ba6c853ef2433fe71ae161260f398dcfab6754b817b9cb0cf8f347e387b0d57",
+      "generation_batch": "batch-06",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD1_49.webp",
+      "related_track_ids": [
+        "CD1_49"
+      ]
+    }
+  ],
+  "image_variant": "single-batch-regenerated-webp",
+  "activity_groups": []
+}

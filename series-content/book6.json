@@ -1,0 +1,3352 @@
+{
+  "book": 6,
+  "pages": {
+    "4": {
+      "topic": "Sở hữu và nhận diện người",
+      "v": [
+        [
+          "mine",
+          "của mình"
+        ],
+        [
+          "yours",
+          "của bạn"
+        ],
+        [
+          "his",
+          "của cậu ấy"
+        ],
+        [
+          "hers",
+          "của cô ấy"
+        ],
+        [
+          "ours",
+          "của chúng mình"
+        ],
+        [
+          "theirs",
+          "của họ"
+        ]
+      ],
+      "s": [
+        [
+          "Whose mittens are those?",
+          "Những găng tay kia của ai?"
+        ],
+        [
+          "They're Anna's mittens.",
+          "Đó là găng tay của Anna."
+        ],
+        [
+          "Which girl is Anna?",
+          "Cô bé nào là Anna?"
+        ],
+        [
+          "She's the girl who is watering the plants.",
+          "Đó là cô bé đang tưới cây."
+        ],
+        [
+          "Whose hat is that?",
+          "Chiếc mũ kia của ai?"
+        ],
+        [
+          "It's hers.",
+          "Nó của cô ấy."
+        ]
+      ],
+      "qa": []
+    },
+    "5": {
+      "topic": "Mệnh đề who với hoạt động",
+      "v": [
+        [
+          "watering the plants",
+          "đang tưới cây"
+        ],
+        [
+          "feeding the fish",
+          "đang cho cá ăn"
+        ],
+        [
+          "writing on the board",
+          "đang viết trên bảng"
+        ],
+        [
+          "talking to the teacher",
+          "đang nói chuyện với giáo viên"
+        ],
+        [
+          "reading a textbook",
+          "đang đọc sách giáo khoa"
+        ],
+        [
+          "writing an essay",
+          "đang viết bài luận"
+        ],
+        [
+          "doing some homework",
+          "đang làm bài tập"
+        ],
+        [
+          "looking for something",
+          "đang tìm thứ gì đó"
+        ]
+      ],
+      "s": [
+        [
+          "Anna is the girl who is watering the plants.",
+          "Anna là cô bé đang tưới cây."
+        ],
+        [
+          "Which girl is Anna?",
+          "Cô bé nào là Anna?"
+        ]
+      ],
+      "qa": [
+        [
+          "Which girl is Anna?",
+          "She's the girl who is watering the plants."
+        ]
+      ]
+    },
+    "6": {
+      "topic": "Hành động khi chuông reo",
+      "v": [
+        [
+          "talking on his cell phone",
+          "đang nói chuyện trên điện thoại di động"
+        ],
+        [
+          "listening to music",
+          "đang nghe nhạc"
+        ],
+        [
+          "taking a nap",
+          "đang ngủ trưa"
+        ],
+        [
+          "reading a magazine",
+          "đang đọc tạp chí"
+        ],
+        [
+          "cleaning his room",
+          "đang dọn phòng"
+        ],
+        [
+          "writing a message",
+          "đang viết tin nhắn"
+        ]
+      ],
+      "s": [
+        [
+          "He was talking on his cell phone when the bell rang.",
+          "Cậu ấy đang nói chuyện điện thoại khi chuông reo."
+        ],
+        [
+          "When the bell rang, he was talking on his cell phone.",
+          "Khi chuông reo, cậu ấy đang nói chuyện điện thoại."
+        ]
+      ],
+      "qa": []
+    },
+    "7": {
+      "topic": "What was he doing when",
+      "v": [
+        [
+          "talking on his cell phone",
+          "đang nói chuyện trên điện thoại di động"
+        ],
+        [
+          "listening to music",
+          "đang nghe nhạc"
+        ],
+        [
+          "taking a nap",
+          "đang ngủ trưa"
+        ],
+        [
+          "reading a magazine",
+          "đang đọc tạp chí"
+        ],
+        [
+          "cleaning his room",
+          "đang dọn phòng"
+        ],
+        [
+          "writing a message",
+          "đang viết tin nhắn"
+        ]
+      ],
+      "s": [
+        [
+          "What was he doing when the bell rang?",
+          "Cậu ấy đang làm gì khi chuông reo?"
+        ],
+        [
+          "He was talking on his cell phone.",
+          "Cậu ấy đang nói chuyện điện thoại."
+        ],
+        [
+          "Was he talking on his cell phone when the bell rang?",
+          "Cậu ấy đang nói chuyện điện thoại khi chuông reo phải không?"
+        ],
+        [
+          "Yes, he was.",
+          "Đúng."
+        ],
+        [
+          "No, he wasn't.",
+          "Không."
+        ]
+      ],
+      "qa": [
+        [
+          "What was he doing when the bell rang?",
+          "He was talking on his cell phone."
+        ]
+      ]
+    },
+    "8": {
+      "topic": "Đọc: phát minh kem que",
+      "v": [
+        [
+          "ice pops",
+          "những que kem"
+        ],
+        [
+          "invented",
+          "đã phát minh"
+        ],
+        [
+          "outside",
+          "ở bên ngoài"
+        ],
+        [
+          "mixed",
+          "đã trộn"
+        ],
+        [
+          "stick",
+          "que"
+        ],
+        [
+          "frozen",
+          "đông đá"
+        ]
+      ],
+      "s": [
+        [
+          "He was mixing his drink when his mother called.",
+          "Cậu ấy đang khuấy đồ uống khi mẹ gọi."
+        ],
+        [
+          "Frank forgot to take his drink with him.",
+          "Frank quên mang đồ uống vào cùng."
+        ]
+      ],
+      "qa": [
+        [
+          "Who invented the ice pop in the reading?",
+          "Frank."
+        ],
+        [
+          "How old was Frank?",
+          "Eleven."
+        ],
+        [
+          "When did he invent it?",
+          "In 1905."
+        ],
+        [
+          "What happened to the soda water in the morning?",
+          "It was frozen."
+        ]
+      ]
+    },
+    "9": {
+      "topic": "Đọc hiểu: ice pops",
+      "v": [
+        [
+          "invent",
+          "phát minh"
+        ],
+        [
+          "soda powder",
+          "bột pha nước ngọt"
+        ],
+        [
+          "stick",
+          "que"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Who invented the ice pop?",
+          "Frank."
+        ],
+        [
+          "How did Frank make soda water?",
+          "He added soda powder to water and mixed it with a stick."
+        ],
+        [
+          "Why did Frank leave the water outside?",
+          "His mother called, and he forgot to take it inside."
+        ],
+        [
+          "What happened to the water?",
+          "It was frozen."
+        ],
+        [
+          "Did Frank want to make an ice pop?",
+          "No."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 8."
+    },
+    "10": {
+      "topic": "Đại từ sở hữu với quần áo",
+      "v": [
+        [
+          "boots",
+          "ủng"
+        ],
+        [
+          "socks",
+          "tất"
+        ],
+        [
+          "coat",
+          "áo khoác"
+        ],
+        [
+          "gloves",
+          "găng tay"
+        ],
+        [
+          "scarf",
+          "khăn quàng"
+        ],
+        [
+          "jeans",
+          "quần bò"
+        ]
+      ],
+      "s": [
+        [
+          "Whose boots are these?",
+          "Những chiếc ủng này của ai?"
+        ],
+        [
+          "They're mine.",
+          "Chúng của mình."
+        ],
+        [
+          "Whose scarf is it?",
+          "Chiếc khăn quàng này của ai?"
+        ],
+        [
+          "It's Anna's scarf. It's hers.",
+          "Đó là khăn của Anna. Nó của cô ấy."
+        ],
+        [
+          "Whose jeans are they?",
+          "Chiếc quần bò này của ai?"
+        ],
+        [
+          "They're Jeff's jeans. They're his.",
+          "Đó là quần của Jeff. Nó của cậu ấy."
+        ]
+      ],
+      "qa": []
+    },
+    "11": {
+      "topic": "Hành động khi chuông cửa reo",
+      "v": [
+        [
+          "watch TV",
+          "xem ti vi"
+        ],
+        [
+          "listen to music",
+          "nghe nhạc"
+        ],
+        [
+          "wash her face",
+          "rửa mặt"
+        ],
+        [
+          "read a book",
+          "đọc sách"
+        ],
+        [
+          "do homework",
+          "làm bài tập"
+        ],
+        [
+          "eat spaghetti",
+          "ăn mì Ý"
+        ]
+      ],
+      "s": [
+        [
+          "She was reading a book when the doorbell rang.",
+          "Cô ấy đang đọc sách khi chuông cửa reo."
+        ],
+        [
+          "He was doing homework when the doorbell rang.",
+          "Cậu ấy đang làm bài tập khi chuông cửa reo."
+        ]
+      ],
+      "qa": [],
+      "note": "Câu luyện bổ sung từ hình và khung quá khứ tiếp diễn + when trên trang; không phải lời thoại nguyên văn."
+    },
+    "12": {
+      "topic": "Chuyến đi xem xiếc",
+      "v": [],
+      "s": [
+        [
+          "You went to the circus last weekend, didn't you?",
+          "Cuối tuần trước bạn đã đi xem xiếc phải không?"
+        ],
+        [
+          "Yes, I did. It was wonderful!",
+          "Đúng. Nó tuyệt lắm!"
+        ],
+        [
+          "What did the jugglers do?",
+          "Những người tung hứng đã làm gì?"
+        ],
+        [
+          "They juggled balls, fruit, and chairs.",
+          "Họ đã tung hứng bóng, trái cây và ghế."
+        ],
+        [
+          "Were the clowns funny?",
+          "Những chú hề có hài hước không?"
+        ],
+        [
+          "Yes, they were.",
+          "Có."
+        ],
+        [
+          "I was amazed.",
+          "Mình rất kinh ngạc."
+        ]
+      ],
+      "qa": []
+    },
+    "13": {
+      "topic": "Đặc điểm sự vật và cảm xúc",
+      "v": [
+        [
+          "amazing",
+          "gây kinh ngạc"
+        ],
+        [
+          "amazed",
+          "cảm thấy kinh ngạc"
+        ],
+        [
+          "interesting",
+          "thú vị"
+        ],
+        [
+          "interested",
+          "cảm thấy thích thú"
+        ],
+        [
+          "frightening",
+          "đáng sợ"
+        ],
+        [
+          "frightened",
+          "cảm thấy sợ"
+        ],
+        [
+          "disappointing",
+          "gây thất vọng"
+        ],
+        [
+          "disappointed",
+          "cảm thấy thất vọng"
+        ]
+      ],
+      "s": [
+        [
+          "The acrobats were amazing.",
+          "Những diễn viên nhào lộn rất đáng kinh ngạc."
+        ],
+        [
+          "She was amazed.",
+          "Cô ấy cảm thấy kinh ngạc."
+        ],
+        [
+          "Backstage was interesting.",
+          "Hậu trường rất thú vị."
+        ],
+        [
+          "He was interested.",
+          "Cậu ấy cảm thấy thích thú."
+        ]
+      ],
+      "qa": []
+    },
+    "14": {
+      "topic": "Lời nói trực tiếp và tường thuật",
+      "v": [],
+      "s": [
+        [
+          "The clowns are silly.",
+          "Những chú hề ngớ ngẩn."
+        ],
+        [
+          "The acrobat is beautiful.",
+          "Diễn viên nhào lộn xinh đẹp."
+        ],
+        [
+          "He said the acrobat was beautiful.",
+          "Cậu ấy nói diễn viên nhào lộn xinh đẹp."
+        ],
+        [
+          "The T-shirt is expensive.",
+          "Chiếc áo phông đắt."
+        ],
+        [
+          "The ice cream is delicious.",
+          "Kem ngon."
+        ],
+        [
+          "He said the ice cream was delicious.",
+          "Cậu ấy nói kem ngon."
+        ]
+      ],
+      "qa": []
+    },
+    "15": {
+      "topic": "What did he say",
+      "v": [],
+      "s": [
+        [
+          "What did he say?",
+          "Cậu ấy đã nói gì?"
+        ],
+        [
+          "He said it was delicious.",
+          "Cậu ấy nói nó ngon."
+        ],
+        [
+          "He said he was sad.",
+          "Cậu ấy nói cậu ấy buồn."
+        ],
+        [
+          "They said they were amazed.",
+          "Họ nói họ kinh ngạc."
+        ],
+        [
+          "Did he say he was sad?",
+          "Cậu ấy có nói cậu ấy buồn không?"
+        ]
+      ],
+      "qa": [],
+      "note": "Luyện tường thuật bằng các khung said…was/were của trang; các câu hoàn chỉnh là ví dụ luyện thêm trong phạm vi bài."
+    },
+    "16": {
+      "topic": "Đọc: Circus Camp",
+      "v": [
+        [
+          "know how to",
+          "biết cách"
+        ],
+        [
+          "am able to",
+          "có thể"
+        ],
+        [
+          "somersault",
+          "cú lộn người"
+        ],
+        [
+          "trampoline",
+          "bạt nhún"
+        ],
+        [
+          "trapeze",
+          "xà đu"
+        ],
+        [
+          "handstand",
+          "động tác trồng cây chuối"
+        ],
+        [
+          "acrobatics",
+          "nhào lộn"
+        ]
+      ],
+      "s": [
+        [
+          "I’m having a lot of fun at circus camp.",
+          "Mình đang rất vui ở trại xiếc."
+        ],
+        [
+          "At first, everything was hard.",
+          "Ban đầu mọi thứ đều khó."
+        ],
+        [
+          "Now, I’m stronger.",
+          "Bây giờ mình khỏe hơn."
+        ],
+        [
+          "I can juggle three balls easily.",
+          "Mình có thể tung hứng ba quả bóng dễ dàng."
+        ]
+      ],
+      "qa": [
+        [
+          "Where is Maya now?",
+          "At circus camp."
+        ],
+        [
+          "How many balls can she juggle?",
+          "Three."
+        ],
+        [
+          "When is the circus show going to be?",
+          "Next Saturday."
+        ]
+      ]
+    },
+    "17": {
+      "topic": "Đọc hiểu: Circus Camp",
+      "v": [
+        [
+          "am able to",
+          "có thể"
+        ],
+        [
+          "handstand",
+          "động tác trồng cây chuối"
+        ],
+        [
+          "stronger",
+          "khỏe hơn"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Where is Maya now?",
+          "At circus camp."
+        ],
+        [
+          "At first, was everything easy or hard?",
+          "Hard."
+        ],
+        [
+          "Is Maya able to do a handstand?",
+          "Yes, but she can’t stay up."
+        ],
+        [
+          "Is she stronger now?",
+          "Yes."
+        ],
+        [
+          "How many balls can she juggle?",
+          "Three."
+        ],
+        [
+          "When is the circus show going to be?",
+          "Next Saturday."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 16."
+    },
+    "18": {
+      "topic": "-ing và -ed với trải nghiệm",
+      "v": [
+        [
+          "exciting",
+          "hào hứng"
+        ],
+        [
+          "excited",
+          "cảm thấy hào hứng"
+        ],
+        [
+          "boring",
+          "nhàm chán"
+        ],
+        [
+          "bored",
+          "cảm thấy chán"
+        ],
+        [
+          "tiring",
+          "gây mệt"
+        ],
+        [
+          "tired",
+          "cảm thấy mệt"
+        ]
+      ],
+      "s": [
+        [
+          "The circus was amazing.",
+          "Buổi xiếc thật đáng kinh ngạc."
+        ],
+        [
+          "I was amazed.",
+          "Mình cảm thấy kinh ngạc."
+        ],
+        [
+          "Grandma thought it was boring.",
+          "Bà nghĩ nó nhàm chán."
+        ],
+        [
+          "She was really bored.",
+          "Bà thực sự cảm thấy chán."
+        ],
+        [
+          "The kids said it was exciting.",
+          "Bọn trẻ nói nó hào hứng."
+        ],
+        [
+          "They were very excited!",
+          "Chúng rất hào hứng!"
+        ]
+      ],
+      "qa": []
+    },
+    "19": {
+      "topic": "Trò chơi tường thuật",
+      "v": [],
+      "s": [
+        [
+          "She said she was happy.",
+          "Cô ấy nói cô ấy vui."
+        ],
+        [
+          "He said the cookies were delicious.",
+          "Cậu ấy nói bánh quy ngon."
+        ],
+        [
+          "The tennis game was exciting.",
+          "Trận quần vợt hào hứng."
+        ],
+        [
+          "The party was amazing.",
+          "Bữa tiệc đáng kinh ngạc."
+        ],
+        [
+          "Who's next?",
+          "Ai tiếp theo?"
+        ],
+        [
+          "It's your turn.",
+          "Đến lượt bạn."
+        ],
+        [
+          "Try again.",
+          "Thử lại nhé."
+        ]
+      ],
+      "qa": []
+    },
+    "20": {
+      "topic": "Review 1–2",
+      "v": [
+        [
+          "amazed",
+          "cảm thấy kinh ngạc"
+        ],
+        [
+          "amazing",
+          "gây kinh ngạc"
+        ],
+        [
+          "disappointed",
+          "cảm thấy thất vọng"
+        ],
+        [
+          "disappointing",
+          "gây thất vọng"
+        ]
+      ],
+      "s": [
+        [
+          "I was amazed.",
+          "Mình cảm thấy kinh ngạc."
+        ],
+        [
+          "It was amazing.",
+          "Nó đáng kinh ngạc."
+        ],
+        [
+          "It was disappointing.",
+          "Nó gây thất vọng."
+        ],
+        [
+          "I was disappointed.",
+          "Mình cảm thấy thất vọng."
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn nội dung in trên trang; không tự chọn đáp án nghe gốc."
+    },
+    "21": {
+      "topic": "Read: The Secret Message",
+      "v": [
+        [
+          "message",
+          "tin nhắn"
+        ],
+        [
+          "code",
+          "mật mã"
+        ],
+        [
+          "secret",
+          "bí mật"
+        ],
+        [
+          "substitution",
+          "thay thế"
+        ],
+        [
+          "instead of",
+          "thay vì"
+        ],
+        [
+          "snacks",
+          "đồ ăn nhẹ"
+        ]
+      ],
+      "s": [
+        [
+          "I’m trying to read this message.",
+          "Mình đang cố đọc tin nhắn này."
+        ],
+        [
+          "My parents use codes to write secret messages.",
+          "Bố mẹ mình dùng mật mã để viết tin nhắn bí mật."
+        ],
+        [
+          "Write the letter before it in the alphabet.",
+          "Viết chữ cái đứng trước nó trong bảng chữ cái."
+        ]
+      ],
+      "qa": [
+        [
+          "What kind of code is it?",
+          "A substitution code."
+        ],
+        [
+          "What does Ij mean in the code?",
+          "Hi."
+        ],
+        [
+          "Who will get the snacks and sodas?",
+          "JJ."
+        ]
+      ]
+    },
+    "22": {
+      "topic": "Chọn quà sinh nhật cho mẹ",
+      "v": [],
+      "s": [
+        [
+          "What should I get for her?",
+          "Mình nên mua gì cho mẹ?"
+        ],
+        [
+          "I bought her a necklace.",
+          "Mình đã mua cho mẹ một vòng cổ."
+        ],
+        [
+          "You should get her something different.",
+          "Bạn nên mua cho mẹ thứ khác."
+        ],
+        [
+          "You could get her a cookbook.",
+          "Bạn có thể mua cho mẹ một sách dạy nấu ăn."
+        ],
+        [
+          "They're on sale!",
+          "Chúng đang giảm giá!"
+        ],
+        [
+          "She'll love it!",
+          "Mẹ sẽ thích nó!"
+        ]
+      ],
+      "qa": [
+        [
+          "What should I get for her?",
+          "You could get her a scarf."
+        ]
+      ]
+    },
+    "23": {
+      "topic": "Quà tặng và người nhận",
+      "v": [
+        [
+          "a scarf",
+          "một khăn quàng"
+        ],
+        [
+          "a necklace",
+          "một vòng cổ"
+        ],
+        [
+          "a bracelet",
+          "một vòng tay"
+        ],
+        [
+          "a box of chocolates",
+          "một hộp sô cô la"
+        ],
+        [
+          "a skateboard",
+          "một ván trượt"
+        ],
+        [
+          "a cookbook",
+          "một sách dạy nấu ăn"
+        ],
+        [
+          "a DVD",
+          "một đĩa DVD"
+        ],
+        [
+          "a watch",
+          "một đồng hồ đeo tay"
+        ]
+      ],
+      "s": [
+        [
+          "I bought a scarf for her last year.",
+          "Năm trước mình đã mua khăn cho cô ấy."
+        ],
+        [
+          "I bought her a scarf last year.",
+          "Năm trước mình đã mua cho cô ấy một chiếc khăn."
+        ],
+        [
+          "What could she get her grandmother?",
+          "Cô ấy có thể mua gì cho bà?"
+        ],
+        [
+          "She could get her a necklace or a scarf.",
+          "Cô ấy có thể mua cho bà vòng cổ hoặc khăn."
+        ]
+      ],
+      "qa": []
+    },
+    "24": {
+      "topic": "Động từ và người nhận",
+      "v": [
+        [
+          "buy her a DVD",
+          "mua cho cô ấy DVD"
+        ],
+        [
+          "send her a postcard",
+          "gửi cho cô ấy bưu thiếp"
+        ],
+        [
+          "give him a package",
+          "đưa cho cậu ấy bưu kiện"
+        ],
+        [
+          "show him a picture",
+          "cho cậu ấy xem tranh"
+        ],
+        [
+          "print her a picture",
+          "in cho cô ấy tranh"
+        ],
+        [
+          "sell her a watch",
+          "bán cho cô ấy đồng hồ"
+        ]
+      ],
+      "s": [
+        [
+          "He bought a DVD for her.",
+          "Cậu ấy đã mua DVD cho cô ấy."
+        ],
+        [
+          "He bought her a DVD.",
+          "Cậu ấy đã mua cho cô ấy một DVD."
+        ]
+      ],
+      "qa": []
+    },
+    "25": {
+      "topic": "Hỏi đã làm gì cho người khác",
+      "v": [
+        [
+          "buy her a DVD",
+          "mua cho cô ấy DVD"
+        ],
+        [
+          "send her a postcard",
+          "gửi cho cô ấy bưu thiếp"
+        ],
+        [
+          "give him a package",
+          "đưa cho cậu ấy bưu kiện"
+        ],
+        [
+          "show him a picture",
+          "cho cậu ấy xem tranh"
+        ],
+        [
+          "print her a picture",
+          "in cho cô ấy tranh"
+        ],
+        [
+          "sell her a watch",
+          "bán cho cô ấy đồng hồ"
+        ]
+      ],
+      "s": [
+        [
+          "What did she do?",
+          "Cô ấy đã làm gì?"
+        ],
+        [
+          "She bought him a DVD.",
+          "Cô ấy đã mua cho cậu ấy một DVD."
+        ],
+        [
+          "Did she buy him a DVD?",
+          "Cô ấy đã mua DVD cho cậu ấy phải không?"
+        ],
+        [
+          "Yes, she did.",
+          "Đúng."
+        ],
+        [
+          "No, she didn't.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "26": {
+      "topic": "Đọc: bất ngờ sinh nhật mẹ",
+      "v": [
+        [
+          "plan",
+          "kế hoạch"
+        ],
+        [
+          "alarm clock",
+          "đồng hồ báo thức"
+        ],
+        [
+          "surprise",
+          "sự bất ngờ"
+        ],
+        [
+          "yell",
+          "hét lớn"
+        ],
+        [
+          "college",
+          "trường cao đẳng/đại học"
+        ]
+      ],
+      "s": [
+        [
+          "She will be able to sleep late.",
+          "Mẹ sẽ có thể ngủ dậy muộn."
+        ],
+        [
+          "Then we’ll make her breakfast.",
+          "Sau đó chúng mình sẽ làm bữa sáng cho mẹ."
+        ],
+        [
+          "I’ll call you when we leave the movie.",
+          "Mình sẽ gọi khi chúng mình rời rạp phim."
+        ]
+      ],
+      "qa": [
+        [
+          "When is Mom’s birthday?",
+          "Tomorrow."
+        ],
+        [
+          "Who wrote the email?",
+          "Beth."
+        ],
+        [
+          "Who is coming home from college?",
+          "Mark."
+        ],
+        [
+          "Where will the surprise happen?",
+          "At the restaurant."
+        ]
+      ]
+    },
+    "27": {
+      "topic": "Đọc hiểu: Mom’s Birthday",
+      "v": [
+        [
+          "yell",
+          "nói/hét lớn"
+        ],
+        [
+          "surprise",
+          "sự bất ngờ"
+        ],
+        [
+          "college",
+          "trường cao đẳng/đại học"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "When is their mother’s birthday?",
+          "Tomorrow."
+        ],
+        [
+          "Who is coming to the restaurant?",
+          "Mark."
+        ],
+        [
+          "Does Mark live at home?",
+          "No. He is at college."
+        ],
+        [
+          "Are they going to cook dinner for their mother?",
+          "No. They will bring her to a restaurant."
+        ],
+        [
+          "When will Beth call Mark?",
+          "When they leave the movie."
+        ]
+      ],
+      "note": "Dùng email trang PDF 26."
+    },
+    "28": {
+      "topic": "Gợi ý quà tặng",
+      "v": [
+        [
+          "music player",
+          "máy nghe nhạc"
+        ],
+        [
+          "camera",
+          "máy ảnh"
+        ],
+        [
+          "watch",
+          "đồng hồ"
+        ],
+        [
+          "fishing pole",
+          "cần câu"
+        ],
+        [
+          "book",
+          "sách"
+        ],
+        [
+          "T-shirt",
+          "áo phông"
+        ],
+        [
+          "wallet",
+          "ví"
+        ]
+      ],
+      "s": [
+        [
+          "What should I get her?",
+          "Mình nên mua gì cho mẹ?"
+        ],
+        [
+          "You could make her a birthday cake.",
+          "Bạn có thể làm bánh sinh nhật cho mẹ."
+        ],
+        [
+          "You should take her out to dinner!",
+          "Bạn nên đưa mẹ đi ăn tối!"
+        ],
+        [
+          "Great idea! She'll love it!",
+          "Ý hay! Mẹ sẽ thích lắm!"
+        ]
+      ],
+      "qa": []
+    },
+    "29": {
+      "topic": "Should và shouldn’t; việc đã làm",
+      "v": [],
+      "s": [
+        [
+          "What should she do?",
+          "Cô ấy nên làm gì?"
+        ],
+        [
+          "She should give her teacher a picture.",
+          "Cô ấy nên tặng giáo viên một bức tranh."
+        ],
+        [
+          "What shouldn't she do?",
+          "Cô ấy không nên làm gì?"
+        ],
+        [
+          "She shouldn't give her teacher an apple.",
+          "Cô ấy không nên tặng giáo viên một quả táo."
+        ],
+        [
+          "What did she do?",
+          "Cô ấy đã làm gì?"
+        ],
+        [
+          "She gave her teacher a picture.",
+          "Cô ấy đã tặng giáo viên một bức tranh."
+        ]
+      ],
+      "qa": []
+    },
+    "30": {
+      "topic": "Hỏi địa điểm; xin phép mang đồ uống",
+      "v": [],
+      "s": [
+        [
+          "We're looking for the bookstore.",
+          "Chúng mình đang tìm hiệu sách."
+        ],
+        [
+          "Is it near here?",
+          "Nó có gần đây không?"
+        ],
+        [
+          "It's next to the bakery.",
+          "Nó ở cạnh tiệm bánh."
+        ],
+        [
+          "Can I help you?",
+          "Tôi có thể giúp gì cho các cháu?"
+        ],
+        [
+          "No, thank you. We're just looking.",
+          "Không, cảm ơn. Chúng cháu chỉ xem thôi."
+        ],
+        [
+          "Can we bring our drinks inside?",
+          "Chúng cháu có thể mang đồ uống vào trong không?"
+        ],
+        [
+          "Yes, you can.",
+          "Có, các cháu có thể."
+        ]
+      ],
+      "qa": [
+        [
+          "Is it near here?",
+          "Yes, it is. It's next to the bakery."
+        ]
+      ]
+    },
+    "31": {
+      "topic": "Vị trí trong thị trấn",
+      "v": [
+        [
+          "on the corner",
+          "ở góc phố"
+        ],
+        [
+          "across the street",
+          "ở bên kia đường"
+        ],
+        [
+          "over there",
+          "ở đằng kia"
+        ],
+        [
+          "around the corner",
+          "ở vòng qua góc phố"
+        ]
+      ],
+      "s": [
+        [
+          "Where’s the bank?",
+          "Ngân hàng ở đâu?"
+        ],
+        [
+          "It’s over there.",
+          "Nó ở đằng kia."
+        ],
+        [
+          "It’s next to the library.",
+          "Nó ở cạnh thư viện."
+        ],
+        [
+          "Where’s the clinic?",
+          "Phòng khám ở đâu?"
+        ],
+        [
+          "It’s on the corner.",
+          "Nó ở góc phố."
+        ]
+      ],
+      "qa": []
+    },
+    "32": {
+      "topic": "Chỉ đường",
+      "v": [
+        [
+          "Go straight.",
+          "Đi thẳng."
+        ],
+        [
+          "Go to the corner.",
+          "Đi đến góc phố."
+        ],
+        [
+          "Turn left.",
+          "Rẽ trái."
+        ],
+        [
+          "Turn right.",
+          "Rẽ phải."
+        ],
+        [
+          "Go two blocks.",
+          "Đi hai dãy nhà."
+        ],
+        [
+          "Cross the street.",
+          "Băng qua đường."
+        ]
+      ],
+      "s": [
+        [
+          "How do I get to the park?",
+          "Mình đi đến công viên thế nào?"
+        ],
+        [
+          "Go two blocks and turn right.",
+          "Đi hai dãy nhà rồi rẽ phải."
+        ]
+      ],
+      "qa": []
+    },
+    "33": {
+      "topic": "Chỉ đường trên bản đồ",
+      "v": [
+        [
+          "park",
+          "công viên"
+        ],
+        [
+          "DVD store",
+          "cửa hàng DVD"
+        ],
+        [
+          "restaurant",
+          "nhà hàng"
+        ],
+        [
+          "airport",
+          "sân bay"
+        ],
+        [
+          "bank",
+          "ngân hàng"
+        ],
+        [
+          "bookstore",
+          "hiệu sách"
+        ],
+        [
+          "pet store",
+          "cửa hàng thú nuôi"
+        ],
+        [
+          "bakery",
+          "tiệm bánh"
+        ]
+      ],
+      "s": [
+        [
+          "How do I get to the park?",
+          "Mình đi đến công viên thế nào?"
+        ],
+        [
+          "Go two blocks and turn right.",
+          "Đi hai dãy nhà rồi rẽ phải."
+        ]
+      ],
+      "qa": [
+        [
+          "How do I get to the park?",
+          "Go two blocks and turn right."
+        ]
+      ]
+    },
+    "34": {
+      "topic": "Đọc: Treasure Hunt bằng GPS",
+      "v": [
+        [
+          "treasure box",
+          "hộp kho báu"
+        ],
+        [
+          "bush",
+          "bụi cây"
+        ],
+        [
+          "GPS device",
+          "thiết bị GPS"
+        ],
+        [
+          "geocache",
+          "chỗ giấu kho báu của trò chơi"
+        ],
+        [
+          "website",
+          "trang web"
+        ]
+      ],
+      "s": [
+        [
+          "They pulled the treasure box from under the bush.",
+          "Họ kéo hộp kho báu từ dưới bụi cây."
+        ],
+        [
+          "I like finding treasure.",
+          "Mình thích tìm kho báu."
+        ],
+        [
+          "I like seeing new places.",
+          "Mình thích thấy những nơi mới."
+        ]
+      ],
+      "qa": [
+        [
+          "What did Nick and Kristen find?",
+          "A treasure box."
+        ],
+        [
+          "Where did they find it?",
+          "Under a bush."
+        ],
+        [
+          "How did they find it?",
+          "They used a website and a GPS device."
+        ]
+      ]
+    },
+    "35": {
+      "topic": "Đọc hiểu: GPS treasure hunt",
+      "v": [
+        [
+          "shouted",
+          "đã nói to/hét lên"
+        ],
+        [
+          "GPS device",
+          "thiết bị GPS"
+        ],
+        [
+          "bush",
+          "bụi cây"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "What did Nick and Kristen find?",
+          "A treasure box."
+        ],
+        [
+          "Where did they find it?",
+          "Under a bush."
+        ],
+        [
+          "How did they find it?",
+          "With a website and a GPS device."
+        ],
+        [
+          "Is it always easy to find the treasure?",
+          "No."
+        ],
+        [
+          "Do people use a GPS device to hunt for treasure in the reading?",
+          "Yes."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 34; không cập nhật số liệu ngoài sách."
+    },
+    "36": {
+      "topic": "Kể lại đường đi",
+      "v": [
+        [
+          "walked two blocks",
+          "đã đi bộ hai dãy nhà"
+        ],
+        [
+          "turned right",
+          "đã rẽ phải"
+        ],
+        [
+          "crossed the street",
+          "đã băng qua đường"
+        ],
+        [
+          "traffic light",
+          "đèn giao thông"
+        ]
+      ],
+      "s": [
+        [
+          "He stopped for a minute at the traffic light.",
+          "Cậu ấy dừng một phút ở đèn giao thông."
+        ],
+        [
+          "He crossed the street when the light turned green.",
+          "Cậu ấy băng qua đường khi đèn chuyển xanh."
+        ],
+        [
+          "What did Tom do first?",
+          "Tom đã làm gì đầu tiên?"
+        ],
+        [
+          "He went straight.",
+          "Cậu ấy đi thẳng."
+        ]
+      ],
+      "qa": []
+    },
+    "37": {
+      "topic": "Hỏi chi tiết một hành trình",
+      "v": [],
+      "s": [
+        [
+          "Where did he go?",
+          "Cậu ấy đã đi đâu?"
+        ],
+        [
+          "He went to the bookstore.",
+          "Cậu ấy đã đi hiệu sách."
+        ],
+        [
+          "Who did she talk to?",
+          "Cô ấy đã nói chuyện với ai?"
+        ],
+        [
+          "She talked to Alan.",
+          "Cô ấy đã nói chuyện với Alan."
+        ],
+        [
+          "Where did they stop?",
+          "Họ đã dừng ở đâu?"
+        ],
+        [
+          "They stopped on the corner.",
+          "Họ đã dừng ở góc phố."
+        ],
+        [
+          "How many blocks did she walk?",
+          "Cô ấy đã đi bộ mấy dãy nhà?"
+        ],
+        [
+          "She walked two blocks.",
+          "Cô ấy đã đi bộ hai dãy nhà."
+        ]
+      ],
+      "qa": [
+        [
+          "Where did he go?",
+          "He went to the bookstore."
+        ],
+        [
+          "Who did she talk to?",
+          "She talked to Alan."
+        ],
+        [
+          "Where did they stop?",
+          "They stopped on the corner."
+        ],
+        [
+          "How many blocks did she walk?",
+          "She walked two blocks."
+        ]
+      ]
+    },
+    "38": {
+      "topic": "Review 3–4",
+      "v": [
+        [
+          "a scarf",
+          "một khăn quàng"
+        ],
+        [
+          "a bracelet",
+          "một vòng tay"
+        ],
+        [
+          "turn left",
+          "rẽ trái"
+        ],
+        [
+          "cross the street",
+          "băng qua đường"
+        ]
+      ],
+      "s": [
+        [
+          "What should she do?",
+          "Cô ấy nên làm gì?"
+        ],
+        [
+          "What did she do?",
+          "Cô ấy đã làm gì?"
+        ],
+        [
+          "How do I get to the park?",
+          "Mình đi đến công viên thế nào?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình; không suy đoán đáp án nghe gốc."
+    },
+    "39": {
+      "topic": "Read: The Text Message",
+      "v": [
+        [
+          "ticket",
+          "vé"
+        ],
+        [
+          "text",
+          "tin nhắn"
+        ],
+        [
+          "prefer",
+          "thích hơn"
+        ],
+        [
+          "a while",
+          "một lúc"
+        ]
+      ],
+      "s": [
+        [
+          "I’m late.",
+          "Mình đến muộn."
+        ],
+        [
+          "Please wait.",
+          "Làm ơn chờ."
+        ],
+        [
+          "We’ll probably be waiting for a while.",
+          "Có lẽ chúng mình sẽ phải đợi một lúc."
+        ]
+      ],
+      "qa": [
+        [
+          "Who is late?",
+          "Olivia."
+        ],
+        [
+          "Who receives the text message?",
+          "JJ."
+        ],
+        [
+          "Has Everett ever sent a text message?",
+          "No."
+        ],
+        [
+          "What does IM L8 mean?",
+          "I’m late."
+        ],
+        [
+          "What does PLS W8 mean?",
+          "Please wait."
+        ]
+      ]
+    },
+    "40": {
+      "topic": "Gặp Anh; quốc tịch và homestay",
+      "v": [],
+      "s": [
+        [
+          "Have you met Anh?",
+          "Bạn đã gặp Anh chưa?"
+        ],
+        [
+          "No, I haven't.",
+          "Chưa."
+        ],
+        [
+          "She's from Vietnam, isn't she?",
+          "Bạn ấy đến từ Việt Nam phải không?"
+        ],
+        [
+          "Yes, she is. She's Vietnamese.",
+          "Đúng. Bạn ấy là người Việt Nam."
+        ],
+        [
+          "What is she like?",
+          "Tính cách bạn ấy thế nào?"
+        ],
+        [
+          "She is really nice.",
+          "Bạn ấy rất dễ mến."
+        ],
+        [
+          "She speaks Vietnamese and a little English.",
+          "Bạn ấy nói tiếng Việt và một ít tiếng Anh."
+        ]
+      ],
+      "qa": []
+    },
+    "41": {
+      "topic": "Quốc gia và quốc tịch",
+      "v": [
+        [
+          "Australia",
+          "Úc"
+        ],
+        [
+          "Australian",
+          "người Úc"
+        ],
+        [
+          "Vietnam",
+          "Việt Nam"
+        ],
+        [
+          "Vietnamese",
+          "người Việt Nam"
+        ],
+        [
+          "Thailand",
+          "Thái Lan"
+        ],
+        [
+          "Thai",
+          "người Thái"
+        ],
+        [
+          "Mexico",
+          "Mexico"
+        ],
+        [
+          "Mexican",
+          "người Mexico"
+        ]
+      ],
+      "s": [
+        [
+          "She's from Australia, isn't she?",
+          "Cô ấy đến từ Úc phải không?"
+        ],
+        [
+          "Yes, she is. She's Australian.",
+          "Đúng. Cô ấy là người Úc."
+        ],
+        [
+          "No, she isn't. She's Thai.",
+          "Không. Cô ấy là người Thái."
+        ],
+        [
+          "What country are you from?",
+          "Bạn đến từ nước nào?"
+        ]
+      ],
+      "qa": []
+    },
+    "42": {
+      "topic": "Ngôn ngữ và món ăn; bị động",
+      "v": [
+        [
+          "Brazil",
+          "Brazil"
+        ],
+        [
+          "Portuguese",
+          "tiếng Bồ Đào Nha"
+        ],
+        [
+          "black beans",
+          "đậu đen"
+        ],
+        [
+          "France",
+          "Pháp"
+        ],
+        [
+          "French",
+          "tiếng Pháp"
+        ],
+        [
+          "croissants",
+          "bánh sừng bò"
+        ],
+        [
+          "Italy",
+          "Ý"
+        ],
+        [
+          "Italian",
+          "tiếng Ý"
+        ],
+        [
+          "spaghetti",
+          "mì Ý"
+        ]
+      ],
+      "s": [
+        [
+          "People in Brazil speak Portuguese.",
+          "Người dân Brazil nói tiếng Bồ Đào Nha."
+        ],
+        [
+          "Portuguese is spoken in Brazil.",
+          "Tiếng Bồ Đào Nha được nói ở Brazil."
+        ],
+        [
+          "People in Brazil eat black beans.",
+          "Người dân Brazil ăn đậu đen."
+        ],
+        [
+          "Black beans are eaten in Brazil.",
+          "Đậu đen được ăn ở Brazil."
+        ]
+      ],
+      "qa": []
+    },
+    "43": {
+      "topic": "Hỏi ngôn ngữ và món ăn",
+      "v": [
+        [
+          "Vietnamese",
+          "tiếng Việt"
+        ],
+        [
+          "noodles and rice",
+          "mì và cơm"
+        ],
+        [
+          "Italian",
+          "tiếng Ý"
+        ],
+        [
+          "spaghetti and ravioli",
+          "mì Ý và ravioli"
+        ],
+        [
+          "Spanish",
+          "tiếng Tây Ban Nha"
+        ],
+        [
+          "tacos and burritos",
+          "taco và burrito"
+        ],
+        [
+          "English",
+          "tiếng Anh"
+        ],
+        [
+          "steak and potatoes",
+          "bít tết và khoai tây"
+        ]
+      ],
+      "s": [
+        [
+          "What language is spoken in Vietnam?",
+          "Ngôn ngữ nào được nói ở Việt Nam?"
+        ],
+        [
+          "Vietnamese is spoken in Vietnam.",
+          "Tiếng Việt được nói ở Việt Nam."
+        ],
+        [
+          "What foods are eaten in Vietnam?",
+          "Những món ăn nào được ăn ở Việt Nam?"
+        ],
+        [
+          "Noodles and rice are eaten in Vietnam.",
+          "Mì và cơm được ăn ở Việt Nam."
+        ]
+      ],
+      "qa": []
+    },
+    "44": {
+      "topic": "Đọc: lịch sử chocolate",
+      "v": [
+        [
+          "cacao",
+          "ca cao"
+        ],
+        [
+          "bitter",
+          "đắng"
+        ],
+        [
+          "spicy",
+          "cay"
+        ],
+        [
+          "the Spanish",
+          "người Tây Ban Nha"
+        ],
+        [
+          "sugar",
+          "đường"
+        ],
+        [
+          "Europe",
+          "châu Âu"
+        ],
+        [
+          "pastries",
+          "bánh ngọt"
+        ],
+        [
+          "created",
+          "đã tạo ra"
+        ],
+        [
+          "cheaper",
+          "rẻ hơn"
+        ]
+      ],
+      "s": [
+        [
+          "Spanish people added sugar to their chocolate.",
+          "Người Tây Ban Nha thêm đường vào chocolate."
+        ],
+        [
+          "Chocolate also became cheaper.",
+          "Chocolate cũng trở nên rẻ hơn."
+        ]
+      ],
+      "qa": [
+        [
+          "Who made the first chocolate in the reading?",
+          "Ancient Mexican people."
+        ],
+        [
+          "What was their chocolate like?",
+          "Bitter and spicy."
+        ],
+        [
+          "Who added sugar to chocolate?",
+          "Spanish people."
+        ]
+      ]
+    },
+    "45": {
+      "topic": "Đọc hiểu: The History of Chocolate",
+      "v": [
+        [
+          "created",
+          "đã làm ra"
+        ],
+        [
+          "cheaper",
+          "rẻ hơn"
+        ],
+        [
+          "rich people",
+          "những người giàu"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Did the Spanish make the first chocolate?",
+          "No. The Mexicans made it."
+        ],
+        [
+          "Was the first chocolate a candy bar?",
+          "No. It was a drink."
+        ],
+        [
+          "Did the Spanish like sweet chocolate?",
+          "Yes."
+        ],
+        [
+          "Did chocolate become cheaper?",
+          "Yes."
+        ],
+        [
+          "Why did only rich people drink chocolate at first?",
+          "Cacao and sugar were very expensive."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 44."
+    },
+    "46": {
+      "topic": "Chuyển chủ động thành bị động",
+      "v": [
+        [
+          "found",
+          "đã tìm thấy"
+        ],
+        [
+          "broken",
+          "bị làm vỡ"
+        ],
+        [
+          "lost",
+          "bị mất"
+        ],
+        [
+          "drawn",
+          "được vẽ"
+        ],
+        [
+          "bought",
+          "được mua"
+        ],
+        [
+          "rented",
+          "được thuê"
+        ]
+      ],
+      "s": [
+        [
+          "Kelly found the money.",
+          "Kelly đã tìm thấy tiền."
+        ],
+        [
+          "The money was found by Kelly.",
+          "Tiền được Kelly tìm thấy."
+        ],
+        [
+          "The money was found.",
+          "Tiền đã được tìm thấy."
+        ],
+        [
+          "Mark broke the window.",
+          "Mark đã làm vỡ cửa sổ."
+        ],
+        [
+          "Jodie drew the picture.",
+          "Jodie đã vẽ bức tranh."
+        ]
+      ],
+      "qa": []
+    },
+    "47": {
+      "topic": "Bị động khi không nêu người làm",
+      "v": [
+        [
+          "set",
+          "đặt/cài"
+        ],
+        [
+          "painted",
+          "được sơn"
+        ],
+        [
+          "eaten",
+          "được ăn"
+        ],
+        [
+          "made",
+          "được làm"
+        ]
+      ],
+      "s": [
+        [
+          "The alarm was set.",
+          "Báo thức đã được cài."
+        ],
+        [
+          "What happened?",
+          "Chuyện gì đã xảy ra?"
+        ],
+        [
+          "Someone set the alarm.",
+          "Có người đã cài báo thức."
+        ]
+      ],
+      "qa": []
+    },
+    "48": {
+      "topic": "Already, yet, for và since",
+      "v": [],
+      "s": [
+        [
+          "Where was this picture taken?",
+          "Bức ảnh này được chụp ở đâu?"
+        ],
+        [
+          "That was taken in Rome.",
+          "Nó được chụp ở Rome."
+        ],
+        [
+          "She hasn't moved yet.",
+          "Cô ấy vẫn chưa chuyển đi."
+        ],
+        [
+          "How long has she lived there?",
+          "Cô ấy đã sống ở đó bao lâu?"
+        ],
+        [
+          "She has lived there since last January.",
+          "Cô ấy đã sống ở đó từ tháng Một vừa rồi."
+        ],
+        [
+          "Has she already moved?",
+          "Cô ấy đã chuyển đi rồi phải không?"
+        ],
+        [
+          "Yes, she has already moved.",
+          "Đúng, cô ấy đã chuyển đi rồi."
+        ]
+      ],
+      "qa": []
+    },
+    "49": {
+      "topic": "Khoảng thời gian và mốc bắt đầu",
+      "v": [
+        [
+          "since yesterday evening",
+          "từ tối hôm qua"
+        ],
+        [
+          "since last year",
+          "từ năm ngoái"
+        ],
+        [
+          "since last summer",
+          "từ mùa hè trước"
+        ],
+        [
+          "for two days",
+          "trong hai ngày"
+        ],
+        [
+          "for three months",
+          "trong ba tháng"
+        ],
+        [
+          "for a long time",
+          "trong một thời gian dài"
+        ]
+      ],
+      "s": [
+        [
+          "How long has he been at the hotel?",
+          "Cậu ấy đã ở khách sạn bao lâu?"
+        ],
+        [
+          "He has been at the hotel since yesterday evening.",
+          "Cậu ấy đã ở khách sạn từ tối hôm qua."
+        ],
+        [
+          "How long have you studied English?",
+          "Bạn đã học tiếng Anh bao lâu?"
+        ]
+      ],
+      "qa": []
+    },
+    "50": {
+      "topic": "Hiện tại hoàn thành tiếp diễn",
+      "v": [
+        [
+          "practicing the piano",
+          "đang tập đàn piano"
+        ],
+        [
+          "doing homework",
+          "đang làm bài tập"
+        ],
+        [
+          "cleaning his room",
+          "đang dọn phòng"
+        ],
+        [
+          "talking on the phone",
+          "đang nói chuyện điện thoại"
+        ],
+        [
+          "playing soccer",
+          "đang chơi bóng đá"
+        ],
+        [
+          "visiting Hong Kong",
+          "đang thăm Hồng Kông"
+        ]
+      ],
+      "s": [
+        [
+          "She has been practicing the piano for 30 minutes.",
+          "Cô ấy đã tập piano được 30 phút."
+        ],
+        [
+          "They’ve been visiting Hong Kong since last week.",
+          "Họ đã ở thăm Hồng Kông từ tuần trước."
+        ]
+      ],
+      "qa": []
+    },
+    "51": {
+      "topic": "How long has / have…been",
+      "v": [
+        [
+          "for two hours",
+          "được hai giờ"
+        ],
+        [
+          "since last Thursday",
+          "từ thứ Năm tuần trước"
+        ],
+        [
+          "since 3:00",
+          "từ 3 giờ"
+        ],
+        [
+          "for three minutes",
+          "được ba phút"
+        ],
+        [
+          "since noon",
+          "từ buổi trưa"
+        ],
+        [
+          "for three and a half hours",
+          "được ba giờ rưỡi"
+        ]
+      ],
+      "s": [
+        [
+          "How long has he been doing homework?",
+          "Cậu ấy đã làm bài tập bao lâu?"
+        ],
+        [
+          "He has been doing homework for two hours.",
+          "Cậu ấy đã làm bài tập được hai giờ."
+        ],
+        [
+          "How long have they been practicing soccer?",
+          "Họ đã tập bóng đá bao lâu?"
+        ],
+        [
+          "They’ve been practicing soccer since 3:00.",
+          "Họ đã tập bóng đá từ 3 giờ."
+        ]
+      ],
+      "qa": []
+    },
+    "52": {
+      "topic": "Đọc: leo núi của Johnny",
+      "v": [
+        [
+          "Colorado",
+          "Colorado"
+        ],
+        [
+          "homesick",
+          "nhớ nhà"
+        ],
+        [
+          "neighbor",
+          "hàng xóm"
+        ],
+        [
+          "Seven Summits",
+          "bảy đỉnh núi cao nhất của bảy châu lục"
+        ],
+        [
+          "continents",
+          "những châu lục"
+        ],
+        [
+          "camped",
+          "đã cắm trại"
+        ],
+        [
+          "promised",
+          "đã hứa"
+        ]
+      ],
+      "s": [
+        [
+          "I’ve been on a home stay in Colorado for three months.",
+          "Mình đã ở homestay tại Colorado được ba tháng."
+        ],
+        [
+          "I’m not homesick anymore!",
+          "Mình không còn nhớ nhà nữa!"
+        ],
+        [
+          "Alex is my neighbor.",
+          "Alex là hàng xóm của mình."
+        ]
+      ],
+      "qa": [
+        [
+          "How long has Johnny been on a home stay?",
+          "Three months."
+        ],
+        [
+          "Who is Alex?",
+          "His neighbor."
+        ],
+        [
+          "Which mountains has Alex climbed?",
+          "The Seven Summits."
+        ]
+      ]
+    },
+    "53": {
+      "topic": "Đọc hiểu: chuyến leo núi",
+      "v": [
+        [
+          "promised",
+          "đã hứa"
+        ],
+        [
+          "homesick",
+          "nhớ nhà"
+        ],
+        [
+          "neighbor",
+          "hàng xóm"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "How long has Johnny been on a home stay?",
+          "Three months."
+        ],
+        [
+          "Has he been homesick?",
+          "Yes, but he is not homesick anymore."
+        ],
+        [
+          "Who is Alex?",
+          "His neighbor."
+        ],
+        [
+          "Which mountains has Alex climbed?",
+          "The Seven Summits."
+        ],
+        [
+          "Did Johnny and Alex climb the Seven Summits together?",
+          "No. They hiked up a mountain last weekend."
+        ]
+      ],
+      "note": "Dùng bài đọc trang PDF 52."
+    },
+    "54": {
+      "topic": "For và since trong các tình huống",
+      "v": [],
+      "s": [
+        [
+          "How long have you been waiting for Ken?",
+          "Bạn đã đợi Ken bao lâu?"
+        ],
+        [
+          "I've been waiting for Ken since ten.",
+          "Mình đã đợi Ken từ 10 giờ."
+        ],
+        [
+          "How long has Anne been taking a bath?",
+          "Anne đã tắm bao lâu?"
+        ],
+        [
+          "She's been taking a bath for an hour and a half.",
+          "Cô ấy đã tắm được một tiếng rưỡi."
+        ],
+        [
+          "She has been swimming for 30 minutes.",
+          "Cô ấy đã bơi được 30 phút."
+        ],
+        [
+          "He has lived in Bangkok since 2006.",
+          "Cậu ấy đã sống ở Bangkok từ năm 2006."
+        ]
+      ],
+      "qa": []
+    },
+    "55": {
+      "topic": "Already và yet",
+      "v": [
+        [
+          "walked the dog",
+          "đã dắt chó đi dạo"
+        ],
+        [
+          "washed her hands",
+          "đã rửa tay"
+        ],
+        [
+          "cleaned her room",
+          "đã dọn phòng"
+        ],
+        [
+          "done his homework",
+          "đã làm bài tập"
+        ],
+        [
+          "fed the dog",
+          "đã cho chó ăn"
+        ],
+        [
+          "taken a bath",
+          "đã tắm"
+        ],
+        [
+          "eaten dinner",
+          "đã ăn tối"
+        ],
+        [
+          "gone shopping",
+          "đã đi mua sắm"
+        ]
+      ],
+      "s": [
+        [
+          "He has already walked the dog.",
+          "Cậu ấy đã dắt chó đi dạo rồi."
+        ],
+        [
+          "He hasn't walked the dog yet.",
+          "Cậu ấy vẫn chưa dắt chó đi dạo."
+        ],
+        [
+          "Has he walked the dog yet?",
+          "Cậu ấy đã dắt chó đi dạo chưa?"
+        ],
+        [
+          "Yes, he has.",
+          "Rồi."
+        ],
+        [
+          "No, he hasn't.",
+          "Chưa."
+        ]
+      ],
+      "qa": []
+    },
+    "56": {
+      "topic": "Review 5–6",
+      "v": [],
+      "s": [
+        [
+          "Portuguese is spoken in Brazil.",
+          "Tiếng Bồ Đào Nha được nói ở Brazil."
+        ],
+        [
+          "People in France speak French.",
+          "Người dân Pháp nói tiếng Pháp."
+        ],
+        [
+          "Ravioli is eaten in Italy.",
+          "Ravioli được ăn ở Ý."
+        ],
+        [
+          "Rice is eaten in Vietnam.",
+          "Cơm được ăn ở Việt Nam."
+        ],
+        [
+          "She has lived in Paris for two years.",
+          "Cô ấy đã sống ở Paris được hai năm."
+        ]
+      ],
+      "qa": [],
+      "note": "Câu bổ sung dùng nội dung in trên trang; không tự chọn đáp án nghe gốc."
+    },
+    "57": {
+      "topic": "Read: The Hidden Gold",
+      "v": [
+        [
+          "mirror writing",
+          "chữ viết qua gương"
+        ],
+        [
+          "backward",
+          "ngược"
+        ],
+        [
+          "fireplace",
+          "lò sưởi"
+        ],
+        [
+          "Fool’s Gold",
+          "vàng giả"
+        ]
+      ],
+      "s": [
+        [
+          "It’s mirror writing.",
+          "Đó là chữ viết qua gương."
+        ],
+        [
+          "The writing is backward.",
+          "Chữ viết bị ngược."
+        ],
+        [
+          "It’s not gold.",
+          "Nó không phải vàng."
+        ]
+      ],
+      "qa": [
+        [
+          "What does Everett use to read the writing?",
+          "A mirror."
+        ],
+        [
+          "Where do they look for the rocks?",
+          "In the fireplace."
+        ],
+        [
+          "What is inside the bag?",
+          "Shiny gold-colored rocks: Fool’s Gold."
+        ],
+        [
+          "Is it real gold?",
+          "No."
+        ]
+      ]
+    },
+    "58": {
+      "topic": "Khả năng khi còn nhỏ",
+      "v": [],
+      "s": [
+        [
+          "Could you swim when you were two?",
+          "Bạn đã có thể bơi khi hai tuổi chưa?"
+        ],
+        [
+          "Yes, I could.",
+          "Rồi."
+        ],
+        [
+          "When did you learn how to swim?",
+          "Bạn đã học bơi khi nào?"
+        ],
+        [
+          "I learned how to swim when I was one year old.",
+          "Mình đã học bơi khi một tuổi."
+        ],
+        [
+          "My mother taught me.",
+          "Mẹ đã dạy mình."
+        ],
+        [
+          "I've never learned how.",
+          "Mình chưa từng học bơi."
+        ]
+      ],
+      "qa": [
+        [
+          "When did Scott learn how to swim?",
+          "When he was one year old."
+        ],
+        [
+          "Who taught Scott?",
+          "His mother."
+        ]
+      ]
+    },
+    "59": {
+      "topic": "Học các kỹ năng",
+      "v": [
+        [
+          "learn how to walk",
+          "học đi"
+        ],
+        [
+          "learn how to write his name",
+          "học viết tên"
+        ],
+        [
+          "learn how to read",
+          "học đọc"
+        ],
+        [
+          "learn how to ride a bicycle",
+          "học đi xe đạp"
+        ],
+        [
+          "learn how to swim",
+          "học bơi"
+        ],
+        [
+          "learn how to ice skate",
+          "học trượt băng"
+        ],
+        [
+          "learn how to do a handstand",
+          "học trồng cây chuối"
+        ],
+        [
+          "learn how to ski",
+          "học trượt tuyết"
+        ]
+      ],
+      "s": [
+        [
+          "When did she learn how to walk?",
+          "Cô ấy đã học đi khi nào?"
+        ],
+        [
+          "She learned how to walk when she was one year old.",
+          "Cô ấy đã học đi khi một tuổi."
+        ]
+      ],
+      "qa": []
+    },
+    "60": {
+      "topic": "Tính cách",
+      "v": [
+        [
+          "outgoing",
+          "cởi mở"
+        ],
+        [
+          "shy",
+          "nhút nhát"
+        ],
+        [
+          "generous",
+          "hào phóng"
+        ],
+        [
+          "selfish",
+          "ích kỷ"
+        ],
+        [
+          "studious",
+          "chăm học"
+        ],
+        [
+          "lazy",
+          "lười biếng"
+        ]
+      ],
+      "s": [
+        [
+          "Amy and Brad are outgoing.",
+          "Amy và Brad cởi mở."
+        ],
+        [
+          "They're outgoing people.",
+          "Họ là những người cởi mở."
+        ]
+      ],
+      "qa": []
+    },
+    "61": {
+      "topic": "Tính cách thường thấy và đôi lúc",
+      "v": [
+        [
+          "outgoing",
+          "cởi mở"
+        ],
+        [
+          "shy",
+          "nhút nhát"
+        ],
+        [
+          "generous",
+          "hào phóng"
+        ],
+        [
+          "selfish",
+          "ích kỷ"
+        ],
+        [
+          "studious",
+          "chăm học"
+        ],
+        [
+          "lazy",
+          "lười biếng"
+        ]
+      ],
+      "s": [
+        [
+          "What are they like?",
+          "Tính cách họ thế nào?"
+        ],
+        [
+          "They're usually outgoing, but sometimes they're shy.",
+          "Họ thường cởi mở nhưng đôi lúc nhút nhát."
+        ],
+        [
+          "What are you like?",
+          "Tính cách bạn thế nào?"
+        ],
+        [
+          "I'm usually generous, but sometimes I'm selfish.",
+          "Mình thường hào phóng nhưng đôi lúc ích kỷ."
+        ]
+      ],
+      "qa": []
+    },
+    "62": {
+      "topic": "Đọc: Personality Quiz",
+      "v": [
+        [
+          "introduce",
+          "giới thiệu"
+        ],
+        [
+          "team",
+          "đội"
+        ],
+        [
+          "athletic",
+          "thích/có khả năng thể thao"
+        ],
+        [
+          "perfect",
+          "hoàn hảo"
+        ],
+        [
+          "generally",
+          "nhìn chung"
+        ]
+      ],
+      "s": [
+        [
+          "What do you like to do in your free time?",
+          "Bạn thích làm gì trong thời gian rảnh?"
+        ],
+        [
+          "What’s your idea of a perfect party?",
+          "Theo bạn, bữa tiệc hoàn hảo thế nào?"
+        ],
+        [
+          "What do you like best about school?",
+          "Bạn thích nhất điều gì ở trường?"
+        ]
+      ],
+      "qa": [
+        [
+          "What is the score range for a generally shy person?",
+          "4–6 points."
+        ],
+        [
+          "What is the score range for a generally athletic person?",
+          "7–9 points."
+        ],
+        [
+          "What is the score range for a generally outgoing person?",
+          "10–12 points."
+        ]
+      ]
+    },
+    "63": {
+      "topic": "Đọc hiểu: tính cách",
+      "v": [
+        [
+          "perfect",
+          "hoàn hảo/tốt nhất"
+        ],
+        [
+          "generally",
+          "nhìn chung"
+        ],
+        [
+          "athletic",
+          "thích/có khả năng thể thao"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Does an outgoing person generally like to talk to other people?",
+          "Yes."
+        ],
+        [
+          "Does an athletic person generally like to play outdoors?",
+          "Yes."
+        ],
+        [
+          "Does a kind person like to help people?",
+          "Yes."
+        ],
+        [
+          "What does perfect mean in the question?",
+          "The best."
+        ],
+        [
+          "Does a generally athletic person like sports and people?",
+          "Yes."
+        ]
+      ],
+      "note": "Trả lời theo bảng kết quả bài đọc trang PDF 62."
+    },
+    "64": {
+      "topic": "Tuổi lúc học kỹ năng",
+      "v": [],
+      "s": [
+        [
+          "How old were you when you learned to run?",
+          "Bạn bao nhiêu tuổi khi học chạy?"
+        ],
+        [
+          "I learned to run when I was one.",
+          "Mình đã học chạy khi một tuổi."
+        ],
+        [
+          "I was two when I went to the zoo.",
+          "Mình hai tuổi khi đi sở thú."
+        ],
+        [
+          "When did you learn how to swim?",
+          "Bạn đã học bơi khi nào?"
+        ],
+        [
+          "I learned how to swim when I was five.",
+          "Mình đã học bơi khi năm tuổi."
+        ],
+        [
+          "I was five when I learned how to swim.",
+          "Mình năm tuổi khi học bơi."
+        ]
+      ],
+      "qa": []
+    },
+    "65": {
+      "topic": "Could và was able to",
+      "v": [
+        [
+          "can",
+          "có thể"
+        ],
+        [
+          "can’t",
+          "không thể"
+        ],
+        [
+          "could",
+          "đã có thể"
+        ],
+        [
+          "couldn’t",
+          "đã không thể"
+        ],
+        [
+          "was able to",
+          "đã có thể"
+        ],
+        [
+          "wasn’t able to",
+          "đã không thể"
+        ]
+      ],
+      "s": [
+        [
+          "She was able to ride a bicycle when she was five.",
+          "Cô ấy đã có thể đi xe đạp khi năm tuổi."
+        ],
+        [
+          "Could she ride a bicycle when she was five?",
+          "Cô ấy đã có thể đi xe đạp khi năm tuổi chưa?"
+        ],
+        [
+          "Yes, she could.",
+          "Rồi."
+        ],
+        [
+          "No, she couldn't.",
+          "Chưa."
+        ]
+      ],
+      "qa": []
+    },
+    "66": {
+      "topic": "Mong muốn tương lai",
+      "v": [],
+      "s": [
+        [
+          "I'd like to visit the Amazon jungle someday.",
+          "Một ngày nào đó mình muốn đến rừng Amazon."
+        ],
+        [
+          "I'd like to see a rainforest.",
+          "Mình muốn thấy rừng mưa nhiệt đới."
+        ],
+        [
+          "What would you do there?",
+          "Bạn sẽ làm gì ở đó?"
+        ],
+        [
+          "I'd look at the plants and animals.",
+          "Mình sẽ xem cây và động vật."
+        ],
+        [
+          "I'd like to climb Mt. Everest.",
+          "Mình muốn leo Everest."
+        ],
+        [
+          "I think it would be fun.",
+          "Mình nghĩ việc đó sẽ vui."
+        ]
+      ],
+      "qa": []
+    },
+    "67": {
+      "topic": "Những trải nghiệm muốn có",
+      "v": [
+        [
+          "visit the Amazon jungle",
+          "đến thăm rừng Amazon"
+        ],
+        [
+          "climb Mt. Everest",
+          "leo đỉnh Everest"
+        ],
+        [
+          "dive to the bottom of the ocean",
+          "lặn xuống đáy đại dương"
+        ],
+        [
+          "see the pyramids of Egypt",
+          "xem kim tự tháp Ai Cập"
+        ],
+        [
+          "ride an elephant",
+          "cưỡi voi"
+        ],
+        [
+          "travel to the moon",
+          "du hành lên Mặt Trăng"
+        ]
+      ],
+      "s": [
+        [
+          "What would you like to do someday?",
+          "Một ngày nào đó bạn muốn làm gì?"
+        ],
+        [
+          "I’d like to visit the Amazon jungle.",
+          "Mình muốn đến thăm rừng Amazon."
+        ]
+      ],
+      "qa": []
+    },
+    "68": {
+      "topic": "If I could… I’d",
+      "v": [
+        [
+          "go to Antarctica",
+          "đi Nam Cực"
+        ],
+        [
+          "go to Mars",
+          "đi sao Hỏa"
+        ],
+        [
+          "meet a TV star",
+          "gặp ngôi sao truyền hình"
+        ],
+        [
+          "meet a sports star",
+          "gặp ngôi sao thể thao"
+        ],
+        [
+          "buy a pony",
+          "mua ngựa con"
+        ],
+        [
+          "buy a motorbike",
+          "mua xe máy"
+        ],
+        [
+          "go kayaking",
+          "đi chèo thuyền kayak"
+        ],
+        [
+          "go skydiving",
+          "đi nhảy dù"
+        ]
+      ],
+      "s": [
+        [
+          "If I could go anywhere, I’d go to Antarctica.",
+          "Nếu có thể đi bất cứ đâu, mình sẽ đi Nam Cực."
+        ],
+        [
+          "If I could meet anyone, I’d meet a TV star.",
+          "Nếu có thể gặp bất cứ ai, mình sẽ gặp ngôi sao truyền hình."
+        ],
+        [
+          "If I could buy anything, I’d buy a pony.",
+          "Nếu có thể mua bất cứ thứ gì, mình sẽ mua ngựa con."
+        ],
+        [
+          "If I could do anything, I’d go kayaking.",
+          "Nếu có thể làm bất cứ điều gì, mình sẽ đi chèo kayak."
+        ]
+      ],
+      "qa": []
+    },
+    "69": {
+      "topic": "Hỏi giả định",
+      "v": [
+        [
+          "go to Hawaii",
+          "đi Hawaii"
+        ],
+        [
+          "go surfing",
+          "đi lướt sóng"
+        ],
+        [
+          "meet a rock star",
+          "gặp ngôi sao nhạc rock"
+        ],
+        [
+          "buy a car",
+          "mua ô tô"
+        ],
+        [
+          "meet a movie director",
+          "gặp đạo diễn phim"
+        ],
+        [
+          "go to London",
+          "đi Luân Đôn"
+        ]
+      ],
+      "s": [
+        [
+          "If you could go anywhere, where would you go?",
+          "Nếu có thể đi bất cứ đâu, bạn sẽ đi đâu?"
+        ],
+        [
+          "I’d go to Hawaii.",
+          "Mình sẽ đi Hawaii."
+        ],
+        [
+          "If you could buy anything, what would you buy?",
+          "Nếu có thể mua bất cứ thứ gì, bạn sẽ mua gì?"
+        ],
+        [
+          "I’d buy a little plane.",
+          "Mình sẽ mua một máy bay nhỏ."
+        ]
+      ],
+      "qa": []
+    },
+    "70": {
+      "topic": "Đọc: những nơi muốn đến",
+      "v": [
+        [
+          "Alaska",
+          "Alaska"
+        ],
+        [
+          "glaciers",
+          "những sông băng"
+        ],
+        [
+          "Galapagos Islands",
+          "quần đảo Galapagos"
+        ],
+        [
+          "giant tortoises",
+          "những con rùa khổng lồ"
+        ],
+        [
+          "Mayan",
+          "thuộc người Maya"
+        ],
+        [
+          "Kenya",
+          "Kenya"
+        ],
+        [
+          "wild",
+          "hoang dã"
+        ],
+        [
+          "India",
+          "Ấn Độ"
+        ],
+        [
+          "Taj Mahal",
+          "Taj Mahal"
+        ]
+      ],
+      "s": [
+        [
+          "I’d like to go to Alaska.",
+          "Mình muốn đi Alaska."
+        ],
+        [
+          "I’d love to ski there.",
+          "Mình rất muốn trượt tuyết ở đó."
+        ],
+        [
+          "I’d go to India.",
+          "Mình sẽ đi Ấn Độ."
+        ]
+      ],
+      "qa": [
+        [
+          "Where can you see giant tortoises in the reading?",
+          "The Galapagos Islands."
+        ],
+        [
+          "What can you do in Alaska?",
+          "Ski and see glaciers."
+        ],
+        [
+          "Where can you visit the Taj Mahal?",
+          "In India."
+        ],
+        [
+          "Which two countries have pyramids in the reading?",
+          "Mexico and Egypt."
+        ]
+      ]
+    },
+    "71": {
+      "topic": "Đọc hiểu: Places I’d Like to Go",
+      "v": [
+        [
+          "giant tortoises",
+          "những con rùa khổng lồ"
+        ],
+        [
+          "glaciers",
+          "những sông băng"
+        ],
+        [
+          "pyramids",
+          "những kim tự tháp"
+        ]
+      ],
+      "s": [],
+      "qa": [
+        [
+          "Where can you see giant tortoises?",
+          "The Galapagos Islands."
+        ],
+        [
+          "What can you do in Alaska?",
+          "Ski and see glaciers."
+        ],
+        [
+          "Where can you visit the Taj Mahal?",
+          "In India."
+        ],
+        [
+          "Which two countries have pyramids in the reading?",
+          "Mexico and Egypt."
+        ],
+        [
+          "What does one refer to in I’ve never seen one before?",
+          "A glacier."
+        ]
+      ],
+      "note": "Dùng các ô bài đọc trang PDF 70."
+    },
+    "72": {
+      "topic": "Trò chơi ôn tập – nửa đầu",
+      "v": [
+        [
+          "roll a die",
+          "tung xúc xắc"
+        ],
+        [
+          "move your marker",
+          "di chuyển quân chơi"
+        ],
+        [
+          "follow the directions",
+          "làm theo chỉ dẫn"
+        ]
+      ],
+      "s": [
+        [
+          "What did you do yesterday?",
+          "Hôm qua bạn đã làm gì?"
+        ],
+        [
+          "When did you learn how to ride a bike?",
+          "Bạn đã học đi xe đạp khi nào?"
+        ],
+        [
+          "What are you like?",
+          "Tính cách bạn thế nào?"
+        ],
+        [
+          "If you could meet anyone, who would you meet?",
+          "Nếu có thể gặp bất cứ ai, bạn sẽ gặp ai?"
+        ]
+      ],
+      "qa": [],
+      "note": "Trang trò chơi ôn nhiều khung đã học. Với câu cá nhân, dùng thông tin thật và chỉ các mẫu đã học."
+    },
+    "73": {
+      "topic": "Trò chơi ôn tập – nửa sau",
+      "v": [
+        [
+          "Ask a question.",
+          "Đặt một câu hỏi."
+        ],
+        [
+          "Answer the question.",
+          "Trả lời câu hỏi."
+        ],
+        [
+          "Make a sentence.",
+          "Đặt một câu."
+        ],
+        [
+          "Go back 3 spaces.",
+          "Lùi ba ô."
+        ],
+        [
+          "Go ahead 3 spaces.",
+          "Tiến ba ô."
+        ],
+        [
+          "Cross the bridge.",
+          "Qua cầu."
+        ]
+      ],
+      "s": [
+        [
+          "Have you ever visited another country?",
+          "Bạn đã từng đến nước khác chưa?"
+        ],
+        [
+          "How long have you been studying English?",
+          "Bạn đã học tiếng Anh bao lâu?"
+        ],
+        [
+          "If you could go anywhere, where would you go?",
+          "Nếu có thể đi bất cứ đâu, bạn sẽ đi đâu?"
+        ]
+      ],
+      "qa": []
+    },
+    "74": {
+      "topic": "Review 7–8",
+      "v": [
+        [
+          "visit Mars",
+          "đến sao Hỏa"
+        ],
+        [
+          "meet a rock star",
+          "gặp ngôi sao nhạc rock"
+        ],
+        [
+          "ride a bicycle",
+          "đi xe đạp"
+        ],
+        [
+          "do a somersault",
+          "lộn người"
+        ]
+      ],
+      "s": [
+        [
+          "He would like to visit Mars.",
+          "Cậu ấy muốn đến sao Hỏa."
+        ],
+        [
+          "She would like to go to Hawaii.",
+          "Cô ấy muốn đi Hawaii."
+        ],
+        [
+          "He would like to meet a rock star.",
+          "Cậu ấy muốn gặp ngôi sao nhạc rock."
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn nội dung in trên trang; không tự chọn True/False của audio gốc."
+    },
+    "75": {
+      "topic": "Read: The Surprise Party",
+      "v": [
+        [
+          "puzzled",
+          "bối rối"
+        ],
+        [
+          "figure it out",
+          "tìm ra lời giải"
+        ],
+        [
+          "North",
+          "hướng Bắc"
+        ],
+        [
+          "West",
+          "hướng Tây"
+        ],
+        [
+          "latitude",
+          "vĩ độ"
+        ],
+        [
+          "longitude",
+          "kinh độ"
+        ],
+        [
+          "website",
+          "trang web"
+        ],
+        [
+          "city",
+          "thành phố"
+        ],
+        [
+          "zoom",
+          "phóng to"
+        ]
+      ],
+      "s": [
+        [
+          "My mother gave me this birthday card.",
+          "Mẹ đã tặng mình thiệp sinh nhật này."
+        ],
+        [
+          "We type in the numbers and press the button.",
+          "Chúng mình nhập số rồi bấm nút."
+        ],
+        [
+          "Happy Birthday, Everett!",
+          "Chúc mừng sinh nhật Everett!"
+        ]
+      ],
+      "qa": [
+        [
+          "Why does Everett look puzzled?",
+          "He cannot figure out the numbers on his birthday card."
+        ],
+        [
+          "What do N and W stand for?",
+          "North and West."
+        ],
+        [
+          "Where do the numbers lead them?",
+          "To the park."
+        ],
+        [
+          "What is at the park?",
+          "A surprise birthday party for Everett."
+        ]
+      ]
+    }
+  }
+}

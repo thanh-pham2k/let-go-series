@@ -1,0 +1,54 @@
+{
+  "job": "batch-08",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-08\\generated.png",
+  "tracks": [
+    {
+      "id": "CD1_58",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_58.webp",
+      "bytes": 10412,
+      "sha256": "4692fea721d62d6a1468f59b478633aea21087be57a17bad93c87ef450eb93bd"
+    },
+    {
+      "id": "CD1_59",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_59.webp",
+      "bytes": 41258,
+      "sha256": "f657b1dcf18b9a40ad69f4f90f06ffebb8d29ade023bff9865616a772b98774a"
+    },
+    {
+      "id": "CD1_60",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_60.webp",
+      "bytes": 9382,
+      "sha256": "4810063c5f98af49c4d5203083df5f839796e0e0b316f5e744ee73b3a57b16e9"
+    },
+    {
+      "id": "CD1_61",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_61.webp",
+      "bytes": 9372,
+      "sha256": "27e7b2132c8046214855d3eeaba90de223eee8388cd8220d6f3052c8664fefb9"
+    },
+    {
+      "id": "CD1_62",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_62.webp",
+      "bytes": 35616,
+      "sha256": "13713c509e52b9ad53c5042d271bdc3873839185a04e7d2340d5c3cd8cfdc0df"
+    },
+    {
+      "id": "CD1_63",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_63.webp",
+      "bytes": 36818,
+      "sha256": "f823a1cb31af11b94469018b3ef13fd3a8acd8e3be91569724973e330e3a6e30"
+    },
+    {
+      "id": "CD1_64",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_64.webp",
+      "bytes": 11542,
+      "sha256": "22debd7b08792310c1cd1c157fc4fd30f90849fe5ee867ae5c34a08739cee0b4"
+    },
+    {
+      "id": "CD1_65",
+      "image": "Unit 3 - At the Store - Audio Pages/regenerated/CD1_65.webp",
+      "bytes": 11498,
+      "sha256": "7565766ddc80e3f8b6947a71da1aba9cdfd2d39ffcfa8fa9cabe1396e6e6eff6"
+    }
+  ]
+}

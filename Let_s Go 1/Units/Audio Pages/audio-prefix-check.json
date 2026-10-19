@@ -1,0 +1,113 @@
+{
+  "method": "tiny.en ASR of first 18 seconds; sampled tracks only; machine output may contain errors",
+  "samples": [
+    {
+      "id": "CD1_01",
+      "sample_seconds": 18,
+      "text": " Track 1. Let's go Student Book 1. By Ritzko Nakata.",
+      "source": "01 - (Third ed) - Track 1.mp3"
+    },
+    {
+      "id": "CD1_02",
+      "sample_seconds": 18,
+      "text": " Track 2 Unit 1 Things for School Let's Start A. Let's Talk We're going to have a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little",
+      "source": "02 - (Third ed) - Track 2.mp3"
+    },
+    {
+      "id": "CD1_04",
+      "sample_seconds": 18,
+      "text": " Track 4. Be. Let's sing. The Hello Song.",
+      "source": "04 - (Third ed) - Track 4.mp3"
+    },
+    {
+      "id": "CD1_24",
+      "sample_seconds": 18,
+      "text": " Track 24. Unit 2. Colors and shapes. Let's start. A. Let's talk. Hi Andy. How are you? I'm fine. How are you?",
+      "source": "24 - (Third ed) - Track 24.mp3"
+    },
+    {
+      "id": "CD1_50",
+      "sample_seconds": 18,
+      "text": " Track 50 Unit 3. At the store. Let's start. A. Let's talk. Hi, Scott. This is my friend Sarah. Hello, Sarah.",
+      "source": "50 - (Third ed) - Track 50.mp3"
+    },
+    {
+      "id": "CD1_73",
+      "sample_seconds": 18,
+      "text": " Track 73, Unit 4, People at Home. Let's start. Let's talk. Hi, Mom. I'm home. This is my friend Scott. This is...",
+      "source": "73 - (Third ed) - Track 73.mp3"
+    },
+    {
+      "id": "CD1_97",
+      "sample_seconds": 18,
+      "text": " Track 97. Let's learn about parts of the body. A. Practice the words. Touch your nose. Number 1. Nose.",
+      "source": "97 - (Third ed) - Track 97.mp3"
+    },
+    {
+      "id": "CD1_99",
+      "sample_seconds": 18,
+      "text": " Track 99. Be. Say these. Finger. Fingers. Tow. Tells. Foot. Be.",
+      "source": "99 - (Third ed) - Track 99.mp3"
+    },
+    {
+      "id": "CD2_01",
+      "sample_seconds": 18,
+      "text": " Track 1. Let's go Student Book 1. By Ritzko N",
+      "source": "01 - (CD2) - (Unit5-8).mp3"
+    },
+    {
+      "id": "CD2_02",
+      "sample_seconds": 18,
+      "text": " Track 2 Unit 5 Birthday and Toys Let's start! A. Let's talk! Happy Birthday Jenny! How old are you?",
+      "source": "02 - (CD2) - (Unit5-8).mp3"
+    },
+    {
+      "id": "CD2_25",
+      "sample_seconds": 18,
+      "text": " Track 25 Unit 6 Outdoors Let's Start A. Let's Talk How's the weather? It's sunny!",
+      "source": "25 - (CD2) - (Unit5-8).mp3"
+    },
+    {
+      "id": "CD2_51",
+      "sample_seconds": 18,
+      "text": " Track 51. Unit 7. Food. Let's start. A. Let's talk. I'm hungry. I want an apple. I'm thirsty. I want juice.",
+      "source": "51 - (CD2) - (Unit5-8).mp3"
+    },
+    {
+      "id": "CD2_74",
+      "sample_seconds": 18,
+      "text": " Track 74 Unit 8 Animals Let's Start A. Let's Talk What's your favorite color? Red. What about you?",
+      "source": "74 - (CD2) - (Unit5-8).mp3"
+    },
+    {
+      "id": "CD2_95",
+      "sample_seconds": 18,
+      "text": " Track 95. D. Listen and sing. I like turtles. I like turtles, what about you? I like turtles too.",
+      "source": "95 - (CD2) - (3 ED-LAST 5 TRACKS).mp3"
+    },
+    {
+      "id": "CD2_96",
+      "sample_seconds": 18,
+      "text": " Track 96 Unit 7 and 8 Listen and Review A Listen and Circle Number 1 What do you want? I want to soda.",
+      "source": "96 - (CD2) - (3 ED-LAST 5 TRACKS).mp3"
+    },
+    {
+      "id": "CD2_97",
+      "sample_seconds": 18,
+      "text": " Track 97. Be. Listen and number. Number 1. I like monkeys. Number 2. I like tigers. Number 3. I like...",
+      "source": "97 - (CD2) - (3 ED-LAST 5 TRACKS).mp3"
+    },
+    {
+      "id": "CD2_98",
+      "sample_seconds": 18,
+      "text": " Track 98. Let's learn about feelings. A. Ask and answer. Are you happy? Yes I am. No I'm not. Number 1.",
+      "source": "98 - (CD2) - (3 ED-LAST 5 TRACKS).mp3"
+    },
+    {
+      "id": "CD2_99",
+      "sample_seconds": 18,
+      "text": " Track 99. Be. Say these. Number 1. Hungry. I'm hungry. Number 2. Thirsty. I'm thirsty.",
+      "source": "99 - (CD2) - (3 ED-LAST 5 TRACKS).mp3"
+    }
+  ]
+}

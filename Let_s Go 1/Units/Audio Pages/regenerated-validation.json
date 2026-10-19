@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "images": 196,
+  "sections": 12,
+  "new_sheet_generations": 27,
+  "accepted_sample_images": 8,
+  "size": [
+    512,
+    512
+  ],
+  "total_bytes": 4441872,
+  "errors": [],
+  "scope": "Checks format, size, coverage, provenance, mapping and preview syntax. Does not certify identical text or object counts after AI regeneration."
+}

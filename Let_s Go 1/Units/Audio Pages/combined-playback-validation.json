@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "groupsTested": 50,
+  "checks": [
+    "All available group audio tracks play in order",
+    "Missing MP3 tracks are skipped; all-missing groups disable playlist",
+    "Playback stops at the end of each group",
+    "Selecting CD1_12 uses CD1_12.mp3 with shared CD1_11-13.webp"
+  ]
+}

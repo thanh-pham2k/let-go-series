@@ -1,0 +1,1113 @@
+{
+  "section": "Unit 4 - People at Home",
+  "source_pdf_pages": [
+    29,
+    36
+  ],
+  "page_count": 8,
+  "track_count": 22,
+  "audio_available": 22,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 73,
+      "source_pdf_page": 29,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.725
+      ],
+      "activity": "A. Let's talk: Nice to meet you",
+      "kind": "dialogue",
+      "region_id": "PDF-029-0.1350-0.7250",
+      "id": "CD1_73",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 28,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_73.png",
+      "page_image": "pages/PDF-029.png",
+      "audio": "audio/CD1_73.mp3",
+      "expected_audio": "audio/CD1_73.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/73 - (Third ed) - Track 73.mp3",
+      "audio_sha256": "6d7bc66ec1f69759235094eab837d898d4f50df075984837d7e6ef2ecaf1b994",
+      "image_size": [
+        1224,
+        994
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1221
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 26.88,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 74,
+      "source_pdf_page": 29,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "It’s nice to meet you, too",
+      "kind": "sentence",
+      "region_id": "PDF-029-0.7250-0.9250",
+      "id": "CD1_74",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 28,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_74.png",
+      "page_image": "pages/PDF-029.png",
+      "audio": "audio/CD1_74.mp3",
+      "expected_audio": "audio/CD1_74.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/74 - (Third ed) - Track 74.mp3",
+      "audio_sha256": "31a9e1fa57f41f50899d063ac07b7f7e40bb7ace3c93f3f60ab5a4401f6cfa87",
+      "image_size": [
+        1224,
+        337
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 14.64,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 75,
+      "source_pdf_page": 30,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.37
+      ],
+      "activity": "B. The Family Song",
+      "kind": "song",
+      "region_id": "PDF-030-0.0150-0.3700",
+      "id": "CD1_75",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 29,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_75.png",
+      "page_image": "pages/PDF-030.png",
+      "audio": "audio/CD1_75.mp3",
+      "expected_audio": "audio/CD1_75.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/75 - (Third ed) - Track 75.mp3",
+      "audio_sha256": "85852259c38ff1dd67cafb97e6c525b37df63397eb631dd14efb148b2a698d90",
+      "image_size": [
+        1224,
+        598
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        623
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 76,
+      "source_pdf_page": 30,
+      "crop_normalized": [
+        0,
+        0.37,
+        1,
+        0.725
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-030-0.3700-0.7250",
+      "id": "CD1_76",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 29,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_76.png",
+      "page_image": "pages/PDF-030.png",
+      "audio": "audio/CD1_76.mp3",
+      "expected_audio": "audio/CD1_76.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/76 - (Third ed) - Track 76.mp3",
+      "audio_sha256": "cfea50a8dd6118f431a8191d6f12ce555c0eb695083f92af850f4f4dd8d8414d",
+      "image_size": [
+        1224,
+        598
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        623,
+        1224,
+        1221
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 27.306667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 77,
+      "source_pdf_page": 30,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "I can / can’t find my book",
+      "kind": "sentence+actions",
+      "region_id": "PDF-030-0.7250-0.9250",
+      "id": "CD1_77",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 29,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_77.png",
+      "page_image": "pages/PDF-030.png",
+      "audio": "audio/CD1_77.mp3",
+      "expected_audio": "audio/CD1_77.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/77 - (Third ed) - Track 77.mp3",
+      "audio_sha256": "2a8519d0d9b87141314beff3164c698ffa9e33eed79ce938c96f7933b24564e2",
+      "image_size": [
+        1224,
+        337
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 41.72,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 78,
+      "source_pdf_page": 30,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "I can / can’t find my book",
+      "kind": "sentence+actions",
+      "region_id": "PDF-030-0.7250-0.9250",
+      "id": "CD1_78",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 29,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_78.png",
+      "page_image": "pages/PDF-030.png",
+      "audio": "audio/CD1_78.mp3",
+      "expected_audio": "audio/CD1_78.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/78 - (Third ed) - Track 78.mp3",
+      "audio_sha256": "9fcf1dc85dd60476171742589d3b142efe95581dfdae38a71a613d48ce39066e",
+      "image_size": [
+        1224,
+        337
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 29.493333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 79,
+      "source_pdf_page": 31,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.685
+      ],
+      "activity": "A. Family",
+      "kind": "words",
+      "region_id": "PDF-031-0.1350-0.6850",
+      "id": "CD1_79",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 30,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_79.png",
+      "page_image": "pages/PDF-031.png",
+      "audio": "audio/CD1_79.mp3",
+      "expected_audio": "audio/CD1_79.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/79 - (Third ed) - Track 79.mp3",
+      "audio_sha256": "15232f56828f01e1d6d08de544f616c90ee8dd32802835316d0adc33c52d2262",
+      "image_size": [
+        1224,
+        927
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1154
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 40.44,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 80,
+      "source_pdf_page": 31,
+      "crop_normalized": [
+        0,
+        0.685,
+        1,
+        0.925
+      ],
+      "activity": "B. She’s my grandmother / He’s my grandfather",
+      "kind": "sentence+words",
+      "region_id": "PDF-031-0.6850-0.9250",
+      "id": "CD1_80",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 30,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_80.png",
+      "page_image": "pages/PDF-031.png",
+      "audio": "audio/CD1_80.mp3",
+      "expected_audio": "audio/CD1_80.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/80 - (Third ed) - Track 80.mp3",
+      "audio_sha256": "9acd57c1e3fdcf98d6aad4d6b51a85cdf227075d4a05eadda31f2994408291d8",
+      "image_size": [
+        1224,
+        404
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1154,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 41.96,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 81,
+      "source_pdf_page": 31,
+      "crop_normalized": [
+        0,
+        0.685,
+        1,
+        0.925
+      ],
+      "activity": "B. She’s my grandmother / He’s my grandfather",
+      "kind": "sentence+words",
+      "region_id": "PDF-031-0.6850-0.9250",
+      "id": "CD1_81",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 30,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_81.png",
+      "page_image": "pages/PDF-031.png",
+      "audio": "audio/CD1_81.mp3",
+      "expected_audio": "audio/CD1_81.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/81 - (Third ed) - Track 81.mp3",
+      "audio_sha256": "23b613b3120d2644eac4ac92c8a08b988e9f58a470e47a7931735e96380a9547",
+      "image_size": [
+        1224,
+        404
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1154,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 27.72,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 82,
+      "source_pdf_page": 32,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.69
+      ],
+      "activity": "C. Who’s she / he?",
+      "kind": "question+picture",
+      "region_id": "PDF-032-0.0150-0.6900",
+      "id": "CD1_82",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 31,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_82.png",
+      "page_image": "pages/PDF-032.png",
+      "audio": "audio/CD1_82.mp3",
+      "expected_audio": "audio/CD1_82.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/82 - (Third ed) - Track 82.mp3",
+      "audio_sha256": "dca670c50ffc1b5c59abc547b18adf2b9a235827ad0a61be064dd21626b9e6b6",
+      "image_size": [
+        1224,
+        1137
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        1162
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 65.826667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 83,
+      "source_pdf_page": 32,
+      "crop_normalized": [
+        0,
+        0.69,
+        1,
+        0.925
+      ],
+      "activity": "Who’s she / he? She’s my sister / He’s my father",
+      "kind": "question+model",
+      "region_id": "PDF-032-0.6900-0.9250",
+      "id": "CD1_83",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 31,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_83.png",
+      "page_image": "pages/PDF-032.png",
+      "audio": "audio/CD1_83.mp3",
+      "expected_audio": "audio/CD1_83.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/83 - (Third ed) - Track 83.mp3",
+      "audio_sha256": "4bf90536a8539f3ada61a92e2e2fdcef25b8c0b21f99625a94101e24b1e3724a",
+      "image_size": [
+        1224,
+        396
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1162,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 55.693333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 84,
+      "source_pdf_page": 32,
+      "crop_normalized": [
+        0,
+        0.69,
+        1,
+        0.925
+      ],
+      "activity": "Who’s she / he? She’s my sister / He’s my father",
+      "kind": "question+model",
+      "region_id": "PDF-032-0.6900-0.9250",
+      "id": "CD1_84",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 31,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_84.png",
+      "page_image": "pages/PDF-032.png",
+      "audio": "audio/CD1_84.mp3",
+      "expected_audio": "audio/CD1_84.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/84 - (Third ed) - Track 84.mp3",
+      "audio_sha256": "87c244bd34f51e06b671dc4907cfa276531c0c794d4a46b7164e07eca0646774",
+      "image_size": [
+        1224,
+        396
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1162,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 43.986667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 85,
+      "source_pdf_page": 33,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.705
+      ],
+      "activity": "A. Describing people",
+      "kind": "words",
+      "region_id": "PDF-033-0.1350-0.7050",
+      "id": "CD1_85",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 32,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_85.png",
+      "page_image": "pages/PDF-033.png",
+      "audio": "audio/CD1_85.mp3",
+      "expected_audio": "audio/CD1_85.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/85 - (Third ed) - Track 85.mp3",
+      "audio_sha256": "e92148717485118c9994ea3d3a697713d6a3311f545fcb7107786171bffd3d9e",
+      "image_size": [
+        1224,
+        960
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1187
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 44.0,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 86,
+      "source_pdf_page": 33,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. He’s tall / She’s short",
+      "kind": "sentence+words",
+      "region_id": "PDF-033-0.7050-0.9250",
+      "id": "CD1_86",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 32,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_86.png",
+      "page_image": "pages/PDF-033.png",
+      "audio": "audio/CD1_86.mp3",
+      "expected_audio": "audio/CD1_86.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/86 - (Third ed) - Track 86.mp3",
+      "audio_sha256": "e93f835d0dea51d7e26e92a953a8d738b86298b4931314084cbc69c07a096caa",
+      "image_size": [
+        1224,
+        371
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 43.933333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 87,
+      "source_pdf_page": 33,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. He’s tall / She’s short",
+      "kind": "sentence+words",
+      "region_id": "PDF-033-0.7050-0.9250",
+      "id": "CD1_87",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 32,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_87.png",
+      "page_image": "pages/PDF-033.png",
+      "audio": "audio/CD1_87.mp3",
+      "expected_audio": "audio/CD1_87.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/87 - (Third ed) - Track 87.mp3",
+      "audio_sha256": "a63a2e8a56d571c8b25ecc8a626eb44472d82e553a68735c8d476b61f8c77430",
+      "image_size": [
+        1224,
+        371
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 30.96,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 88,
+      "source_pdf_page": 34,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.395
+      ],
+      "activity": "C. Is she pretty / Is he old?",
+      "kind": "question+picture",
+      "region_id": "PDF-034-0.0150-0.3950",
+      "id": "CD1_88",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 33,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_88.png",
+      "page_image": "pages/PDF-034.png",
+      "audio": "audio/CD1_88.mp3",
+      "expected_audio": "audio/CD1_88.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/88 - (Third ed) - Track 88.mp3",
+      "audio_sha256": "58e8d4f22c8470409722e1971da7722f0d657befe6136f349a95eaf4f00d1f42",
+      "image_size": [
+        1224,
+        640
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        665
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 80.84,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 89,
+      "source_pdf_page": 34,
+      "crop_normalized": [
+        0,
+        0.395,
+        1,
+        0.545
+      ],
+      "activity": "Is he short? Yes / No",
+      "kind": "question+model",
+      "region_id": "PDF-034-0.3950-0.5450",
+      "id": "CD1_89",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 33,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_89.png",
+      "page_image": "pages/PDF-034.png",
+      "audio": "audio/CD1_89.mp3",
+      "expected_audio": "audio/CD1_89.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/89 - (Third ed) - Track 89.mp3",
+      "audio_sha256": "d8cd9063062682390d85e23cbe93daf6a408a2fc7591084c9aa5c9ca58008923",
+      "image_size": [
+        1224,
+        253
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        665,
+        1224,
+        918
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 64.16,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 90,
+      "source_pdf_page": 34,
+      "crop_normalized": [
+        0,
+        0.395,
+        1,
+        0.545
+      ],
+      "activity": "Is he short? Yes / No",
+      "kind": "question+model",
+      "region_id": "PDF-034-0.3950-0.5450",
+      "id": "CD1_90",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 33,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_90.png",
+      "page_image": "pages/PDF-034.png",
+      "audio": "audio/CD1_90.mp3",
+      "expected_audio": "audio/CD1_90.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/90 - (Third ed) - Track 90.mp3",
+      "audio_sha256": "36e15b728dd7af90e96f01440143f74efd49c93ea717efd5e0f302d570f32e8d",
+      "image_size": [
+        1224,
+        253
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        665,
+        1224,
+        918
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 49.226667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 91,
+      "source_pdf_page": 34,
+      "crop_normalized": [
+        0,
+        0.545,
+        1,
+        0.925
+      ],
+      "activity": "D. Is He Short? Is He Tall?",
+      "kind": "song",
+      "region_id": "PDF-034-0.5450-0.9250",
+      "id": "CD1_91",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 33,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_91.png",
+      "page_image": "pages/PDF-034.png",
+      "audio": "audio/CD1_91.mp3",
+      "expected_audio": "audio/CD1_91.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/91 - (Third ed) - Track 91.mp3",
+      "audio_sha256": "85e6d86c534c211d7c103fed09f954617bc1bd2927f594de9c9597886b15ca86",
+      "image_size": [
+        1224,
+        640
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        918,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 73.48,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 92,
+      "source_pdf_page": 35,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.389
+      ],
+      "activity": "A. Alphabet G–I",
+      "kind": "alphabet",
+      "region_id": "PDF-035-0.1350-0.3890",
+      "id": "CD1_92",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 34,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_92.png",
+      "page_image": "pages/PDF-035.png",
+      "audio": "audio/CD1_92.mp3",
+      "expected_audio": "audio/CD1_92.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/92 - (Third ed) - Track 92.mp3",
+      "audio_sha256": "235b38d4ca5d452529607014b1516574dbeea604326279770e46915b9978d652",
+      "image_size": [
+        1224,
+        428
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        655
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 45.986667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 93,
+      "source_pdf_page": 35,
+      "crop_normalized": [
+        0,
+        0.389,
+        1,
+        0.925
+      ],
+      "activity": "B. Listen and number: family",
+      "kind": "listening",
+      "region_id": "PDF-035-0.3890-0.9250",
+      "id": "CD1_93",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 34,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_93.png",
+      "page_image": "pages/PDF-035.png",
+      "audio": "audio/CD1_93.mp3",
+      "expected_audio": "audio/CD1_93.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/93 - (Third ed) - Track 93.mp3",
+      "audio_sha256": "a0787497a6ffdb402af9e840019c5437dfb86aa1ea518dd4a0017a72c6a642f5",
+      "image_size": [
+        1224,
+        903
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        655,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 71.16,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 94,
+      "source_pdf_page": 36,
+      "crop_normalized": [
+        0,
+        0.46,
+        1,
+        0.925
+      ],
+      "activity": "D. Talk about your family",
+      "kind": "practice",
+      "region_id": "PDF-036-0.4600-0.9250",
+      "id": "CD1_94",
+      "section": "Unit 4 - People at Home",
+      "printed_page": 35,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 4 - People at Home.pdf",
+      "image": "tracks/CD1_94.png",
+      "page_image": "pages/PDF-036.png",
+      "audio": "audio/CD1_94.mp3",
+      "expected_audio": "audio/CD1_94.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/94 - (Third ed) - Track 94.mp3",
+      "audio_sha256": "eee006a21e1e6b2a01033536aab060a9cac64b5454b82d7804f5d33ba9ea2ce7",
+      "image_size": [
+        1224,
+        783
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        775,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 10.92,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    }
+  ]
+}

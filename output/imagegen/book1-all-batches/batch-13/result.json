@@ -1,0 +1,36 @@
+{
+  "job": "batch-13",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-13\\generated.png",
+  "tracks": [
+    {
+      "id": "CD1_95",
+      "image": "Review 3-4 - Audio Pages/regenerated/CD1_95.webp",
+      "bytes": 28892,
+      "sha256": "14e77ac94ebd310134ce11d05287da912c16069c0eefa349a087d14032139b6c"
+    },
+    {
+      "id": "CD1_96",
+      "image": "Review 3-4 - Audio Pages/regenerated/CD1_96.webp",
+      "bytes": 25350,
+      "sha256": "f1ea2e715e087d098465611f0fac57b2e648b3a27d32aee58b5bcb566615a911"
+    },
+    {
+      "id": "CD1_97",
+      "image": "Review 3-4 - Audio Pages/regenerated/CD1_97.webp",
+      "bytes": 27810,
+      "sha256": "9f7fa0b19f3a81f6fa3d42ed4e05e7f5c386e109ce22853c7733cda5e6cc7f51"
+    },
+    {
+      "id": "CD1_98",
+      "image": "Review 3-4 - Audio Pages/regenerated/CD1_98.webp",
+      "bytes": 4418,
+      "sha256": "1aff1dffd3d09a52e8b92d6624ef49f94a386fe15226bddd30baaf4823d427b4"
+    },
+    {
+      "id": "CD1_99",
+      "image": "Review 3-4 - Audio Pages/regenerated/CD1_99.webp",
+      "bytes": 15974,
+      "sha256": "f2eadd278698fd4eb78bdef1327c3814f0bc6a33d490e039fee989d6ba135644"
+    }
+  ]
+}

@@ -1,0 +1,1428 @@
+{
+  "section": "Unit 5 - Birthday and Toys",
+  "source_pdf_pages": [
+    39,
+    46
+  ],
+  "page_count": 8,
+  "track_count": 23,
+  "audio_available": 23,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 2,
+      "track": 2,
+      "source_pdf_page": 39,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.725
+      ],
+      "activity": "A. Let's talk: Happy birthday",
+      "kind": "dialogue",
+      "region_id": "PDF-039-0.1350-0.7250",
+      "id": "CD2_02",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 38,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_02-03.webp",
+      "page_image": "pages/PDF-039.png",
+      "audio": "audio/CD2_02.mp3",
+      "expected_audio": "audio/CD2_02.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/02 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "2a6a762b39b2042739a3d79e65cb8cce4e60abdeeec86094320ea8099d4c3673",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1221
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 28.24,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_02.png",
+      "image_bytes": 82462,
+      "image_sha256": "a19de1a50274599cb0d913799e2e7c0dfbc2d92da100cbbcefce7528c2216f9a",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_02.webp",
+      "related_track_ids": [
+        "CD2_02",
+        "CD2_03"
+      ],
+      "activity_group": "CD2_02-03"
+    },
+    {
+      "disc": 2,
+      "track": 3,
+      "source_pdf_page": 39,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "How old are you? I’m seven years old",
+      "kind": "sentence",
+      "region_id": "PDF-039-0.7250-0.9250",
+      "id": "CD2_03",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 38,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_02-03.webp",
+      "page_image": "pages/PDF-039.png",
+      "audio": "audio/CD2_03.mp3",
+      "expected_audio": "audio/CD2_03.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/03 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "9564bceb526fb4f8b39ae9790d0be2438abcd0506b54b271a5ac5f5cb9ac6057",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 13.28,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_03.png",
+      "image_bytes": 82462,
+      "image_sha256": "a19de1a50274599cb0d913799e2e7c0dfbc2d92da100cbbcefce7528c2216f9a",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_03.webp",
+      "related_track_ids": [
+        "CD2_02",
+        "CD2_03"
+      ],
+      "activity_group": "CD2_02-03"
+    },
+    {
+      "disc": 2,
+      "track": 4,
+      "source_pdf_page": 40,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.37
+      ],
+      "activity": "B. The Happy Birthday Song",
+      "kind": "song",
+      "region_id": "PDF-040-0.0150-0.3700",
+      "id": "CD2_04",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 39,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "regenerated/CD2_04.webp",
+      "page_image": "pages/PDF-040.png",
+      "audio": "audio/CD2_04.mp3",
+      "expected_audio": "audio/CD2_04.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/04 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "2d35666a272d1db9eae2712961ee5d01e14973e54573a89e747ffe53d8085479",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        623
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.613333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_04.png",
+      "image_bytes": 42882,
+      "image_sha256": "384d435de077e5763bd73df2e65b551869fa3aabf87d37448fa38074630ad5ce",
+      "generation_batch": "batch-14",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_04.webp",
+      "related_track_ids": [
+        "CD2_04"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 5,
+      "source_pdf_page": 40,
+      "crop_normalized": [
+        0,
+        0.37,
+        1,
+        0.725
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-040-0.3700-0.7250",
+      "id": "CD2_05",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 39,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_05-07.webp",
+      "page_image": "pages/PDF-040.png",
+      "audio": "audio/CD2_05.mp3",
+      "expected_audio": "audio/CD2_05.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/05 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "3c6a4d2de6b8259d2c43f78b1f401f991a1a2425408b7fa3fb22a4b701895da3",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        623,
+        1224,
+        1221
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 27.186667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_05.png",
+      "image_bytes": 59210,
+      "image_sha256": "99e5f6431097d2d63da2a46758f4bd55b0bafb5496304cbaee6d97884a22ed77",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_05.webp",
+      "related_track_ids": [
+        "CD2_05",
+        "CD2_06",
+        "CD2_07"
+      ],
+      "activity_group": "CD2_05-07"
+    },
+    {
+      "disc": 2,
+      "track": 6,
+      "source_pdf_page": 40,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "What can you do? I can ride a bicycle",
+      "kind": "sentence+actions",
+      "region_id": "PDF-040-0.7250-0.9250",
+      "id": "CD2_06",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 39,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_05-07.webp",
+      "page_image": "pages/PDF-040.png",
+      "audio": "audio/CD2_06.mp3",
+      "expected_audio": "audio/CD2_06.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/06 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "f7fbf63fa5d3bd76b705ca0fafb63d4c38428b3c2e3e01a90d9b3953fa8f21ee",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 28.133333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_06.png",
+      "image_bytes": 59210,
+      "image_sha256": "99e5f6431097d2d63da2a46758f4bd55b0bafb5496304cbaee6d97884a22ed77",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_06.webp",
+      "related_track_ids": [
+        "CD2_05",
+        "CD2_06",
+        "CD2_07"
+      ],
+      "activity_group": "CD2_05-07"
+    },
+    {
+      "disc": 2,
+      "track": 7,
+      "source_pdf_page": 40,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "What can you do? I can ride a bicycle",
+      "kind": "sentence+actions",
+      "region_id": "PDF-040-0.7250-0.9250",
+      "id": "CD2_07",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 39,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_05-07.webp",
+      "page_image": "pages/PDF-040.png",
+      "audio": "audio/CD2_07.mp3",
+      "expected_audio": "audio/CD2_07.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/07 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "1e0977e94d5135e74b464ed9a2f2610da8c3b3a443dbaea696e869eaa179c616",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 31.946667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_07.png",
+      "image_bytes": 59210,
+      "image_sha256": "99e5f6431097d2d63da2a46758f4bd55b0bafb5496304cbaee6d97884a22ed77",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_07.webp",
+      "related_track_ids": [
+        "CD2_05",
+        "CD2_06",
+        "CD2_07"
+      ],
+      "activity_group": "CD2_05-07"
+    },
+    {
+      "disc": 2,
+      "track": 8,
+      "source_pdf_page": 41,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.69
+      ],
+      "activity": "A. Toys",
+      "kind": "words",
+      "region_id": "PDF-041-0.1350-0.6900",
+      "id": "CD2_08",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 40,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_08-10.webp",
+      "page_image": "pages/PDF-041.png",
+      "audio": "audio/CD2_08.mp3",
+      "expected_audio": "audio/CD2_08.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/08 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "ae9d321398d6077d742c16f59e9fa864ac0a11988027cfc81d3e5845f7b29d1a",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1162
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 55.96,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_08.png",
+      "image_bytes": 55114,
+      "image_sha256": "2e78efdc868716de82bfb67fb0244fc9a0dbc51656ed65dc7bf6e4013c0f39c5",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_08.webp",
+      "related_track_ids": [
+        "CD2_08",
+        "CD2_09",
+        "CD2_10"
+      ],
+      "activity_group": "CD2_08-10"
+    },
+    {
+      "disc": 2,
+      "track": 9,
+      "source_pdf_page": 41,
+      "crop_normalized": [
+        0,
+        0.69,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s a yo-yo",
+      "kind": "sentence+words",
+      "region_id": "PDF-041-0.6900-0.9250",
+      "id": "CD2_09",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 40,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_08-10.webp",
+      "page_image": "pages/PDF-041.png",
+      "audio": "audio/CD2_09.mp3",
+      "expected_audio": "audio/CD2_09.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/09 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "520054cad4344d4d5e124b687894dd1e47353664632a45ad859063a5b4efb86e",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1162,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 41.8,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_09.png",
+      "image_bytes": 55114,
+      "image_sha256": "2e78efdc868716de82bfb67fb0244fc9a0dbc51656ed65dc7bf6e4013c0f39c5",
+      "generation_batch": "batch-14",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_09.webp",
+      "related_track_ids": [
+        "CD2_08",
+        "CD2_09",
+        "CD2_10"
+      ],
+      "activity_group": "CD2_08-10"
+    },
+    {
+      "disc": 2,
+      "track": 10,
+      "source_pdf_page": 41,
+      "crop_normalized": [
+        0,
+        0.69,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s a yo-yo",
+      "kind": "sentence+words",
+      "region_id": "PDF-041-0.6900-0.9250",
+      "id": "CD2_10",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 40,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_08-10.webp",
+      "page_image": "pages/PDF-041.png",
+      "audio": "audio/CD2_10.mp3",
+      "expected_audio": "audio/CD2_10.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/10 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "7b8733b0f82192dedefaa2a3e1bb850fbaf3fe15a11c031749a3b4d228954844",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1162,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 35.76,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_10.png",
+      "image_bytes": 55114,
+      "image_sha256": "2e78efdc868716de82bfb67fb0244fc9a0dbc51656ed65dc7bf6e4013c0f39c5",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_10.webp",
+      "related_track_ids": [
+        "CD2_08",
+        "CD2_09",
+        "CD2_10"
+      ],
+      "activity_group": "CD2_08-10"
+    },
+    {
+      "disc": 2,
+      "track": 11,
+      "source_pdf_page": 42,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.475
+      ],
+      "activity": "C. What is it?",
+      "kind": "question+picture",
+      "region_id": "PDF-042-0.0150-0.4750",
+      "id": "CD2_11",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 41,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_11-13.webp",
+      "page_image": "pages/PDF-042.png",
+      "audio": "audio/CD2_11.mp3",
+      "expected_audio": "audio/CD2_11.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/11 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "dfd9c917a567da57d1b16b3f74b6118bd1733e41cc50b0e8f3975dd87a276b39",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        800
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 79.533333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_11.png",
+      "image_bytes": 107794,
+      "image_sha256": "703034274f06b17cf491a76b35e51766cd9a602b29ea44affd040932a4c92996",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_11.webp",
+      "related_track_ids": [
+        "CD2_11",
+        "CD2_12",
+        "CD2_13"
+      ],
+      "activity_group": "CD2_11-13"
+    },
+    {
+      "disc": 2,
+      "track": 12,
+      "source_pdf_page": 42,
+      "crop_normalized": [
+        0,
+        0.475,
+        1,
+        0.625
+      ],
+      "activity": "What is it? I don’t know",
+      "kind": "question+model",
+      "region_id": "PDF-042-0.4750-0.6250",
+      "id": "CD2_12",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 41,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_11-13.webp",
+      "page_image": "pages/PDF-042.png",
+      "audio": "audio/CD2_12.mp3",
+      "expected_audio": "audio/CD2_12.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/12 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "75825c227b1bf60655c62cfbb68d8b1094599981c1230913169bdb30bd757784",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        800,
+        1224,
+        1052
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 53.426667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_12.png",
+      "image_bytes": 107794,
+      "image_sha256": "703034274f06b17cf491a76b35e51766cd9a602b29ea44affd040932a4c92996",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_12.webp",
+      "related_track_ids": [
+        "CD2_11",
+        "CD2_12",
+        "CD2_13"
+      ],
+      "activity_group": "CD2_11-13"
+    },
+    {
+      "disc": 2,
+      "track": 13,
+      "source_pdf_page": 42,
+      "crop_normalized": [
+        0,
+        0.475,
+        1,
+        0.625
+      ],
+      "activity": "What is it? I don’t know",
+      "kind": "question+model",
+      "region_id": "PDF-042-0.4750-0.6250",
+      "id": "CD2_13",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 41,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_11-13.webp",
+      "page_image": "pages/PDF-042.png",
+      "audio": "audio/CD2_13.mp3",
+      "expected_audio": "audio/CD2_13.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/13 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "24a1a390dccff98e94cff5d6d0f2171b8eac778233a90e0332ed774ea8ab1fec",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        800,
+        1224,
+        1052
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 57.586667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_13.png",
+      "image_bytes": 107794,
+      "image_sha256": "703034274f06b17cf491a76b35e51766cd9a602b29ea44affd040932a4c92996",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_13.webp",
+      "related_track_ids": [
+        "CD2_11",
+        "CD2_12",
+        "CD2_13"
+      ],
+      "activity_group": "CD2_11-13"
+    },
+    {
+      "disc": 2,
+      "track": 14,
+      "source_pdf_page": 43,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.705
+      ],
+      "activity": "A. Describing toys",
+      "kind": "words",
+      "region_id": "PDF-043-0.1350-0.7050",
+      "id": "CD2_14",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 42,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_14-16.webp",
+      "page_image": "pages/PDF-043.png",
+      "audio": "audio/CD2_14.mp3",
+      "expected_audio": "audio/CD2_14.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/14 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "dfc586e456caa3696b036b91e9518c82432eec67309b01d70bbf4ce9f8566d42",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1187
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 44.386667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_14.png",
+      "image_bytes": 46692,
+      "image_sha256": "0f0161c4cb9714538bad117f4bd2832ec0a5c15e83cdaebb5a528a2a6d358df8",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_14.webp",
+      "related_track_ids": [
+        "CD2_14",
+        "CD2_15",
+        "CD2_16"
+      ],
+      "activity_group": "CD2_14-16"
+    },
+    {
+      "disc": 2,
+      "track": 15,
+      "source_pdf_page": 43,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s little",
+      "kind": "sentence+words",
+      "region_id": "PDF-043-0.7050-0.9250",
+      "id": "CD2_15",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 42,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_14-16.webp",
+      "page_image": "pages/PDF-043.png",
+      "audio": "audio/CD2_15.mp3",
+      "expected_audio": "audio/CD2_15.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/15 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "3f655a25d0dcf57fb6825cdd25e3779480090cc1b48ad8d149fa3281dff8c442",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 33.786667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_15.png",
+      "image_bytes": 46692,
+      "image_sha256": "0f0161c4cb9714538bad117f4bd2832ec0a5c15e83cdaebb5a528a2a6d358df8",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_15.webp",
+      "related_track_ids": [
+        "CD2_14",
+        "CD2_15",
+        "CD2_16"
+      ],
+      "activity_group": "CD2_14-16"
+    },
+    {
+      "disc": 2,
+      "track": 16,
+      "source_pdf_page": 43,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. It’s little",
+      "kind": "sentence+words",
+      "region_id": "PDF-043-0.7050-0.9250",
+      "id": "CD2_16",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 42,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_14-16.webp",
+      "page_image": "pages/PDF-043.png",
+      "audio": "audio/CD2_16.mp3",
+      "expected_audio": "audio/CD2_16.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/16 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "62c2952ba5be4fadd6d9e24b63328674faede53704011d57050099472d6a4258",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 29.826667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_16.png",
+      "image_bytes": 46692,
+      "image_sha256": "0f0161c4cb9714538bad117f4bd2832ec0a5c15e83cdaebb5a528a2a6d358df8",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_16.webp",
+      "related_track_ids": [
+        "CD2_14",
+        "CD2_15",
+        "CD2_16"
+      ],
+      "activity_group": "CD2_14-16"
+    },
+    {
+      "disc": 2,
+      "track": 17,
+      "source_pdf_page": 44,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.395
+      ],
+      "activity": "C. Is it a long pencil / new doll?",
+      "kind": "question+picture",
+      "region_id": "PDF-044-0.0150-0.3950",
+      "id": "CD2_17",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 43,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_17-19.webp",
+      "page_image": "pages/PDF-044.png",
+      "audio": "audio/CD2_17.mp3",
+      "expected_audio": "audio/CD2_17.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/17 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "73e9b205959097307669e263c11ad460791a84bfbe96d20804802e55a6604344",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        665
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 83.72,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_17.png",
+      "image_bytes": 81010,
+      "image_sha256": "a0af65663f80482c4b3961307836271d150ee4c3e275098b2296ed1d7f675ef1",
+      "generation_batch": "batch-15",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_17.webp",
+      "related_track_ids": [
+        "CD2_17",
+        "CD2_18",
+        "CD2_19"
+      ],
+      "activity_group": "CD2_17-19"
+    },
+    {
+      "disc": 2,
+      "track": 18,
+      "source_pdf_page": 44,
+      "crop_normalized": [
+        0,
+        0.395,
+        1,
+        0.555
+      ],
+      "activity": "Is it a round yo-yo / new doll?",
+      "kind": "question+model",
+      "region_id": "PDF-044-0.3950-0.5550",
+      "id": "CD2_18",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 43,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_17-19.webp",
+      "page_image": "pages/PDF-044.png",
+      "audio": "audio/CD2_18.mp3",
+      "expected_audio": "audio/CD2_18.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/18 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "d17c33feee1a9db79bddc9be5b09e864e8b6bdbf19b8b96d562a28f38c291b4d",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        665,
+        1224,
+        935
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 67.826667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_18.png",
+      "image_bytes": 81010,
+      "image_sha256": "a0af65663f80482c4b3961307836271d150ee4c3e275098b2296ed1d7f675ef1",
+      "generation_batch": "batch-16",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_18.webp",
+      "related_track_ids": [
+        "CD2_17",
+        "CD2_18",
+        "CD2_19"
+      ],
+      "activity_group": "CD2_17-19"
+    },
+    {
+      "disc": 2,
+      "track": 19,
+      "source_pdf_page": 44,
+      "crop_normalized": [
+        0,
+        0.395,
+        1,
+        0.555
+      ],
+      "activity": "Is it a round yo-yo / new doll?",
+      "kind": "question+model",
+      "region_id": "PDF-044-0.3950-0.5550",
+      "id": "CD2_19",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 43,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "combined/CD2_17-19.webp",
+      "page_image": "pages/PDF-044.png",
+      "audio": "audio/CD2_19.mp3",
+      "expected_audio": "audio/CD2_19.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/19 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "4e274d1c953b287c6d24cb18eabd19fdf3ee2491282cd38e1251d6b9f2266667",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        665,
+        1224,
+        935
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 57.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_19.png",
+      "image_bytes": 81010,
+      "image_sha256": "a0af65663f80482c4b3961307836271d150ee4c3e275098b2296ed1d7f675ef1",
+      "generation_batch": "batch-16",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_19.webp",
+      "related_track_ids": [
+        "CD2_17",
+        "CD2_18",
+        "CD2_19"
+      ],
+      "activity_group": "CD2_17-19"
+    },
+    {
+      "disc": 2,
+      "track": 20,
+      "source_pdf_page": 44,
+      "crop_normalized": [
+        0,
+        0.555,
+        1,
+        0.925
+      ],
+      "activity": "D. No, It Isn’t. Yes, It Is.",
+      "kind": "song",
+      "region_id": "PDF-044-0.5550-0.9250",
+      "id": "CD2_20",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 43,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "regenerated/CD2_20.webp",
+      "page_image": "pages/PDF-044.png",
+      "audio": "audio/CD2_20.mp3",
+      "expected_audio": "audio/CD2_20.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/20 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "b07188a06fdc5d1194b5990c178da6da526fee855014d92f80a8187a74d6132e",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        935,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 47.426667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_20.png",
+      "image_bytes": 30786,
+      "image_sha256": "6ff3612b5bd9c5d469c5f0c06c29e7049fa4e19eeaa8f1af48802865d9395585",
+      "generation_batch": "batch-16",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_20.webp",
+      "related_track_ids": [
+        "CD2_20"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 21,
+      "source_pdf_page": 45,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.385
+      ],
+      "activity": "A. Alphabet J–M",
+      "kind": "alphabet",
+      "region_id": "PDF-045-0.1350-0.3850",
+      "id": "CD2_21",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 44,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "regenerated/CD2_21.webp",
+      "page_image": "pages/PDF-045.png",
+      "audio": "audio/CD2_21.mp3",
+      "expected_audio": "audio/CD2_21.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/21 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "2a25f8a8e8f7e747e56cfbcf62621de22dd9bcf98bac07c4c50a011ab326f955",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1083,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        224,
+        1083,
+        639
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 47.0,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_21.png",
+      "image_bytes": 22404,
+      "image_sha256": "c56757d07259e6adb342982cf42b4550222bb23bde1a4e2211712e18ddec2dc9",
+      "generation_batch": "batch-16",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_21.webp",
+      "related_track_ids": [
+        "CD2_21"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 22,
+      "source_pdf_page": 45,
+      "crop_normalized": [
+        0,
+        0.385,
+        1,
+        0.925
+      ],
+      "activity": "B. Guess the shape",
+      "kind": "practice",
+      "region_id": "PDF-045-0.3850-0.9250",
+      "id": "CD2_22",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 44,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "regenerated/CD2_22.webp",
+      "page_image": "pages/PDF-045.png",
+      "audio": "audio/CD2_22.mp3",
+      "expected_audio": "audio/CD2_22.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/22 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "e071554bef8ddd1a2d894a8dca84ab5eed518cd1621f3724491fd97f4a76b591",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1083,
+        1659
+      ],
+      "crop_pixels": [
+        0,
+        639,
+        1083,
+        1535
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 21.64,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_22.png",
+      "image_bytes": 40954,
+      "image_sha256": "eb68a689e1e9caa583bfb15ea2b9603e634e92951fe0d258f9d92dcc49b5b86c",
+      "generation_batch": "batch-16",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_22.webp",
+      "related_track_ids": [
+        "CD2_22"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 23,
+      "source_pdf_page": 46,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.53
+      ],
+      "activity": "C. What are these? Are they pencils?",
+      "kind": "practice",
+      "region_id": "PDF-046-0.0150-0.5300",
+      "id": "CD2_23",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 45,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "regenerated/CD2_23.webp",
+      "page_image": "pages/PDF-046.png",
+      "audio": "audio/CD2_23.mp3",
+      "expected_audio": "audio/CD2_23.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/23 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "6fea8917d2e963b9e86a19ce8e7b91c11e9f127c76cb194f01c5a2de8d26dfa3",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        893
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 21.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_23.png",
+      "image_bytes": 45372,
+      "image_sha256": "5bc2d24342613fc8012d7fef7a8a9007b8f491b7f7b17b0e5258cd13e224a2e4",
+      "generation_batch": "batch-16",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_23.webp",
+      "related_track_ids": [
+        "CD2_23"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 24,
+      "source_pdf_page": 46,
+      "crop_normalized": [
+        0,
+        0.53,
+        1,
+        0.925
+      ],
+      "activity": "D. Listen and number: toys",
+      "kind": "listening",
+      "region_id": "PDF-046-0.5300-0.9250",
+      "id": "CD2_24",
+      "section": "Unit 5 - Birthday and Toys",
+      "printed_page": 45,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 5 - Birthday and Toys.pdf",
+      "image": "regenerated/CD2_24.webp",
+      "page_image": "pages/PDF-046.png",
+      "audio": "audio/CD2_24.mp3",
+      "expected_audio": "audio/CD2_24.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/24 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "27213d334b765d1811537c528eeabea0d9cf4827e35b74a6d39e968a0569aa1b",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        893,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 92.4,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_24.png",
+      "image_bytes": 31228,
+      "image_sha256": "4a8c82655b9913e23d2d7c9642e31e2d260d184b727b8d5699c87ac0afddb643",
+      "generation_batch": "batch-16",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_24.webp",
+      "related_track_ids": [
+        "CD2_24"
+      ]
+    }
+  ],
+  "image_variant": "combined-activity-webp",
+  "activity_groups": [
+    "CD2_02-03",
+    "CD2_05-07",
+    "CD2_08-10",
+    "CD2_11-13",
+    "CD2_14-16",
+    "CD2_17-19"
+  ]
+}

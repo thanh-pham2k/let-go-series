@@ -1,0 +1,168 @@
+{
+  "book": 5,
+  "source": "Oxford - Let_s Go 5 Student_s Book 3rd Edition.pdf",
+  "numbering": "PDF, one-based; preserve requested ranges even if unit boundaries differ in source",
+  "source_sha256": "9afc7caa2252a3e0251d4be0451c188751114cbfa1d31880e2ce117e17b611f2",
+  "sections": [
+    {
+      "name": "Unit 1 - Food",
+      "start": 4,
+      "end": 11,
+      "printed_start": 2,
+      "printed_end": 9,
+      "kind": "Unit",
+      "unit": 1,
+      "pdf": "Unit 1 - Food.pdf"
+    },
+    {
+      "name": "Unit 2 - At the Zoo",
+      "start": 12,
+      "end": 19,
+      "printed_start": 10,
+      "printed_end": 17,
+      "kind": "Unit",
+      "unit": 2,
+      "pdf": "Unit 2 - At the Zoo.pdf"
+    },
+    {
+      "name": "Review 1-2",
+      "start": 20,
+      "end": 20,
+      "printed_start": 18,
+      "printed_end": 18,
+      "kind": "Review",
+      "unit": 2,
+      "pdf": "Review 1-2.pdf"
+    },
+    {
+      "name": "Read 1-2",
+      "start": 21,
+      "end": 21,
+      "printed_start": 19,
+      "printed_end": 19,
+      "kind": "Read",
+      "unit": 2,
+      "pdf": "Read 1-2.pdf"
+    },
+    {
+      "name": "Unit 3 - The Weekend",
+      "start": 22,
+      "end": 29,
+      "printed_start": 20,
+      "printed_end": 27,
+      "kind": "Unit",
+      "unit": 3,
+      "pdf": "Unit 3 - The Weekend.pdf"
+    },
+    {
+      "name": "Unit 4 - Activities",
+      "start": 30,
+      "end": 37,
+      "printed_start": 28,
+      "printed_end": 35,
+      "kind": "Unit",
+      "unit": 4,
+      "pdf": "Unit 4 - Activities.pdf"
+    },
+    {
+      "name": "Review 3-4",
+      "start": 38,
+      "end": 38,
+      "printed_start": 36,
+      "printed_end": 36,
+      "kind": "Review",
+      "unit": 4,
+      "pdf": "Review 3-4.pdf"
+    },
+    {
+      "name": "Read 3-4",
+      "start": 39,
+      "end": 39,
+      "printed_start": 37,
+      "printed_end": 37,
+      "kind": "Read",
+      "unit": 4,
+      "pdf": "Read 3-4.pdf"
+    },
+    {
+      "name": "Unit 5 - The Future",
+      "start": 40,
+      "end": 47,
+      "printed_start": 38,
+      "printed_end": 45,
+      "kind": "Unit",
+      "unit": 5,
+      "pdf": "Unit 5 - The Future.pdf"
+    },
+    {
+      "name": "Unit 6 - Seasons",
+      "start": 48,
+      "end": 55,
+      "printed_start": 46,
+      "printed_end": 53,
+      "kind": "Unit",
+      "unit": 6,
+      "pdf": "Unit 6 - Seasons.pdf"
+    },
+    {
+      "name": "Review 5-6",
+      "start": 56,
+      "end": 56,
+      "printed_start": 54,
+      "printed_end": 54,
+      "kind": "Review",
+      "unit": 6,
+      "pdf": "Review 5-6.pdf"
+    },
+    {
+      "name": "Read 5-6",
+      "start": 57,
+      "end": 57,
+      "printed_start": 55,
+      "printed_end": 55,
+      "kind": "Read",
+      "unit": 6,
+      "pdf": "Read 5-6.pdf"
+    },
+    {
+      "name": "Unit 7 - The Five Senses",
+      "start": 58,
+      "end": 65,
+      "printed_start": 56,
+      "printed_end": 63,
+      "kind": "Unit",
+      "unit": 7,
+      "pdf": "Unit 7 - The Five Senses.pdf"
+    },
+    {
+      "name": "Unit 8 - New Experiences",
+      "start": 66,
+      "end": 73,
+      "printed_start": 64,
+      "printed_end": 71,
+      "kind": "Unit",
+      "unit": 8,
+      "pdf": "Unit 8 - New Experiences.pdf"
+    },
+    {
+      "name": "Review 7-8",
+      "start": 74,
+      "end": 74,
+      "printed_start": 72,
+      "printed_end": 72,
+      "kind": "Review",
+      "unit": 8,
+      "pdf": "Review 7-8.pdf"
+    },
+    {
+      "name": "Read 7-8",
+      "start": 75,
+      "end": 75,
+      "printed_start": 73,
+      "printed_end": 73,
+      "kind": "Read",
+      "unit": 8,
+      "pdf": "Read 7-8.pdf"
+    }
+  ]
+}

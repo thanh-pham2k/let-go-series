@@ -1,0 +1,54 @@
+{
+  "job": "batch-01",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-01\\generated.png",
+  "tracks": [
+    {
+      "id": "CD1_10",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_10.webp",
+      "bytes": 10770,
+      "sha256": "e6523db26644bf212dc15aadd30b65743e264856aa7ef3aaa5133af26f19ebc0"
+    },
+    {
+      "id": "CD1_11",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_11.webp",
+      "bytes": 56076,
+      "sha256": "e0eb24e287b6be7ae3b357958d1914120be4ee2dd51af8cf33e8c9b1af1535e5"
+    },
+    {
+      "id": "CD1_12",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_12.webp",
+      "bytes": 9118,
+      "sha256": "3e06e2804d7c5bb6029766951194c310d7642e7b5673a7945dc183fe8fb97467"
+    },
+    {
+      "id": "CD1_13",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_13.webp",
+      "bytes": 9102,
+      "sha256": "8fd0325b6640011405373761ca1547657826d0ad3f4807b1e1148180bf68af24"
+    },
+    {
+      "id": "CD1_14",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_14.webp",
+      "bytes": 34342,
+      "sha256": "d7e22f821a37c4b48f5d3b90562a73cf68c382af5af273993949d5cf68a57499"
+    },
+    {
+      "id": "CD1_15",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_15.webp",
+      "bytes": 8750,
+      "sha256": "676f4f2248d5a909c8b398726e59b7b36f1af64b0d61def1b935d49c5645d6e8"
+    },
+    {
+      "id": "CD1_16",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_16.webp",
+      "bytes": 9036,
+      "sha256": "6e7fc03eb1ee04b0156517f8b7c406a0a75cd56cb5ac18c15eb678877182437f"
+    },
+    {
+      "id": "CD1_17",
+      "image": "Unit 1 - Things for School - Audio Pages/regenerated/CD1_17.webp",
+      "bytes": 41546,
+      "sha256": "a19bd0d44dd047d40fc79ba8d9c7880d3c41ff9029850a6f36845ea3faefa489"
+    }
+  ]
+}

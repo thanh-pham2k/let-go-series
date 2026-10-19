@@ -1,0 +1,3406 @@
+{
+  "book": 3,
+  "pages": {
+    "5": {
+      "topic": "Mời và chia sẻ đồ ăn",
+      "v": [],
+      "s": [
+        [
+          "I don't have any potato chips.",
+          "Mình không có khoai tây lát chiên."
+        ],
+        [
+          "Do you want some?",
+          "Bạn có muốn một ít không?"
+        ],
+        [
+          "Yes, I do.",
+          "Có."
+        ],
+        [
+          "Sure.",
+          "Được chứ."
+        ],
+        [
+          "Do you want some grapes?",
+          "Bạn có muốn một ít nho không?"
+        ]
+      ],
+      "qa": []
+    },
+    "6": {
+      "topic": "Some và any với đồ ăn",
+      "v": [
+        [
+          "popcorn",
+          "bỏng ngô"
+        ],
+        [
+          "candy",
+          "kẹo"
+        ],
+        [
+          "peanuts",
+          "đậu phộng"
+        ],
+        [
+          "crackers",
+          "bánh quy giòn"
+        ]
+      ],
+      "s": [
+        [
+          "I have some candy.",
+          "Mình có một ít kẹo."
+        ],
+        [
+          "I have some grapes.",
+          "Mình có một ít nho."
+        ],
+        [
+          "I don't have any popcorn.",
+          "Mình không có bỏng ngô."
+        ],
+        [
+          "Do you want some peanuts?",
+          "Bạn có muốn một ít đậu phộng không?"
+        ]
+      ],
+      "qa": []
+    },
+    "7": {
+      "topic": "Vật liệu học tập",
+      "v": [
+        [
+          "chalk",
+          "phấn"
+        ],
+        [
+          "tape",
+          "băng dính"
+        ],
+        [
+          "paint",
+          "sơn màu"
+        ],
+        [
+          "scissors",
+          "kéo"
+        ],
+        [
+          "glue",
+          "keo dán"
+        ],
+        [
+          "paper",
+          "giấy"
+        ],
+        [
+          "string",
+          "dây"
+        ],
+        [
+          "ribbon",
+          "ruy băng"
+        ]
+      ],
+      "s": [
+        [
+          "He has some chalk.",
+          "Cậu ấy có một ít phấn."
+        ],
+        [
+          "He has some paper.",
+          "Cậu ấy có một ít giấy."
+        ],
+        [
+          "He doesn't have any glue.",
+          "Cậu ấy không có keo dán."
+        ]
+      ],
+      "qa": []
+    },
+    "8": {
+      "topic": "Hỏi đồ dùng người khác có",
+      "v": [
+        [
+          "chalk",
+          "phấn"
+        ],
+        [
+          "tape",
+          "băng dính"
+        ],
+        [
+          "paint",
+          "sơn màu"
+        ],
+        [
+          "scissors",
+          "kéo"
+        ],
+        [
+          "glue",
+          "keo dán"
+        ],
+        [
+          "paper",
+          "giấy"
+        ],
+        [
+          "string",
+          "dây"
+        ],
+        [
+          "ribbon",
+          "ruy băng"
+        ]
+      ],
+      "s": [
+        [
+          "What does he have?",
+          "Cậu ấy có gì?"
+        ],
+        [
+          "He has some string.",
+          "Cậu ấy có một ít dây."
+        ],
+        [
+          "Does she have any glue?",
+          "Cô ấy có keo dán không?"
+        ],
+        [
+          "Yes, she does.",
+          "Có."
+        ],
+        [
+          "No, she doesn't.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "9": {
+      "topic": "Đồ dùng của nhiều người",
+      "v": [
+        [
+          "magnets",
+          "những nam châm"
+        ],
+        [
+          "calculators",
+          "những máy tính bỏ túi"
+        ],
+        [
+          "scissors",
+          "kéo"
+        ],
+        [
+          "colored pencils",
+          "những bút chì màu"
+        ],
+        [
+          "rubber bands",
+          "những dây chun"
+        ],
+        [
+          "push pins",
+          "những đinh ghim"
+        ],
+        [
+          "paint brushes",
+          "những cọ vẽ"
+        ],
+        [
+          "staplers",
+          "những dập ghim"
+        ]
+      ],
+      "s": [
+        [
+          "They have some magnets.",
+          "Họ có một ít nam châm."
+        ],
+        [
+          "They don't have any paint brushes.",
+          "Họ không có cọ vẽ."
+        ]
+      ],
+      "qa": []
+    },
+    "10": {
+      "topic": "What do they have",
+      "v": [
+        [
+          "magnets",
+          "những nam châm"
+        ],
+        [
+          "calculators",
+          "những máy tính bỏ túi"
+        ],
+        [
+          "scissors",
+          "kéo"
+        ],
+        [
+          "colored pencils",
+          "những bút chì màu"
+        ],
+        [
+          "rubber bands",
+          "những dây chun"
+        ],
+        [
+          "push pins",
+          "những đinh ghim"
+        ],
+        [
+          "paint brushes",
+          "những cọ vẽ"
+        ],
+        [
+          "staplers",
+          "những dập ghim"
+        ]
+      ],
+      "s": [
+        [
+          "What do they have?",
+          "Họ có gì?"
+        ],
+        [
+          "They have some magnets.",
+          "Họ có một ít nam châm."
+        ],
+        [
+          "Do they have any paint brushes?",
+          "Họ có cọ vẽ không?"
+        ],
+        [
+          "Yes, they do.",
+          "Có."
+        ],
+        [
+          "No, they don't.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "11": {
+      "topic": "Muốn một ít đồ ăn; mời lịch sự",
+      "v": [
+        [
+          "ice cream",
+          "kem"
+        ],
+        [
+          "cake",
+          "bánh ngọt"
+        ],
+        [
+          "pizza",
+          "bánh pizza"
+        ],
+        [
+          "stew",
+          "món hầm"
+        ],
+        [
+          "cookies",
+          "những bánh quy"
+        ],
+        [
+          "crackers",
+          "những bánh quy giòn"
+        ],
+        [
+          "peanuts",
+          "đậu phộng"
+        ],
+        [
+          "potato chips",
+          "khoai tây lát chiên"
+        ]
+      ],
+      "s": [
+        [
+          "He wants some cookies.",
+          "Cậu ấy muốn một ít bánh quy."
+        ],
+        [
+          "She doesn't want any crackers.",
+          "Cô ấy không muốn bánh quy giòn."
+        ],
+        [
+          "Do you want some cookies?",
+          "Bạn có muốn một ít bánh quy không?"
+        ],
+        [
+          "Yes, please!",
+          "Có, làm ơn!"
+        ],
+        [
+          "No, thank you.",
+          "Không, cảm ơn bạn."
+        ]
+      ],
+      "qa": []
+    },
+    "12": {
+      "topic": "Đọc: Emma và Anna chia sẻ",
+      "v": [
+        [
+          "a CD",
+          "một đĩa CD"
+        ],
+        [
+          "a CD player",
+          "một máy nghe CD"
+        ],
+        [
+          "share",
+          "chia sẻ"
+        ]
+      ],
+      "s": [
+        [
+          "Emma has a new CD.",
+          "Emma có một đĩa CD mới."
+        ],
+        [
+          "She doesn't have a CD player.",
+          "Bạn ấy không có máy nghe CD."
+        ],
+        [
+          "Anna has a CD player.",
+          "Anna có một máy nghe CD."
+        ],
+        [
+          "They can share the CD player and the CD.",
+          "Họ có thể dùng chung máy nghe CD và đĩa CD."
+        ]
+      ],
+      "qa": [
+        [
+          "What does Emma have?",
+          "She has a new CD."
+        ],
+        [
+          "Whose CD player is it?",
+          "It's Anna's CD player."
+        ],
+        [
+          "What can they share?",
+          "They can share the CD player and the CD."
+        ]
+      ]
+    },
+    "13": {
+      "topic": "Hỏi đường trong trường",
+      "v": [],
+      "s": [
+        [
+          "Excuse me. Where's the office?",
+          "Xin lỗi, văn phòng ở đâu?"
+        ],
+        [
+          "It's next to the gym.",
+          "Nó ở cạnh phòng thể dục."
+        ],
+        [
+          "I'm going there now.",
+          "Mình đang đến đó."
+        ],
+        [
+          "Come with me.",
+          "Đi cùng mình nhé."
+        ],
+        [
+          "Thanks for your help.",
+          "Cảm ơn bạn đã giúp."
+        ],
+        [
+          "You're welcome.",
+          "Không có gì."
+        ]
+      ],
+      "qa": [
+        [
+          "Where's the office?",
+          "It's next to the gym."
+        ]
+      ]
+    },
+    "14": {
+      "topic": "Các phòng và vị trí",
+      "v": [
+        [
+          "music room",
+          "phòng âm nhạc"
+        ],
+        [
+          "science room",
+          "phòng khoa học"
+        ],
+        [
+          "art room",
+          "phòng mỹ thuật"
+        ],
+        [
+          "classroom",
+          "phòng học"
+        ],
+        [
+          "next to",
+          "ở cạnh"
+        ],
+        [
+          "across from",
+          "ở đối diện"
+        ],
+        [
+          "between",
+          "ở giữa"
+        ]
+      ],
+      "s": [
+        [
+          "Where's the lunchroom?",
+          "Phòng ăn trưa ở đâu?"
+        ],
+        [
+          "It's across from the science room.",
+          "Nó ở đối diện phòng khoa học."
+        ],
+        [
+          "It's between the art room and the office.",
+          "Nó ở giữa phòng mỹ thuật và văn phòng."
+        ]
+      ],
+      "qa": []
+    },
+    "15": {
+      "topic": "Was và is; nơi chốn trong trường",
+      "v": [
+        [
+          "in the pool",
+          "ở trong hồ bơi"
+        ],
+        [
+          "on the stairs",
+          "ở trên cầu thang"
+        ],
+        [
+          "in the computer lab",
+          "ở phòng máy tính"
+        ],
+        [
+          "in the hallway",
+          "ở hành lang"
+        ],
+        [
+          "in the auditorium",
+          "ở hội trường"
+        ],
+        [
+          "in the nurse’s office",
+          "ở phòng y tế"
+        ],
+        [
+          "in the restroom",
+          "ở nhà vệ sinh"
+        ],
+        [
+          "on the playground",
+          "ở sân chơi"
+        ]
+      ],
+      "s": [
+        [
+          "He was in the pool this morning.",
+          "Cậu ấy đã ở hồ bơi sáng nay."
+        ],
+        [
+          "He is in the auditorium now.",
+          "Bây giờ cậu ấy ở hội trường."
+        ]
+      ],
+      "qa": []
+    },
+    "16": {
+      "topic": "Hỏi vị trí trước đây và bây giờ",
+      "v": [
+        [
+          "in the pool",
+          "ở trong hồ bơi"
+        ],
+        [
+          "on the stairs",
+          "ở trên cầu thang"
+        ],
+        [
+          "in the computer lab",
+          "ở phòng máy tính"
+        ],
+        [
+          "in the hallway",
+          "ở hành lang"
+        ],
+        [
+          "in the auditorium",
+          "ở hội trường"
+        ],
+        [
+          "in the nurse’s office",
+          "ở phòng y tế"
+        ],
+        [
+          "in the restroom",
+          "ở nhà vệ sinh"
+        ],
+        [
+          "on the playground",
+          "ở sân chơi"
+        ]
+      ],
+      "s": [
+        [
+          "Where was he this morning?",
+          "Sáng nay cậu ấy đã ở đâu?"
+        ],
+        [
+          "He was in the pool.",
+          "Cậu ấy đã ở hồ bơi."
+        ],
+        [
+          "Where is he now?",
+          "Bây giờ cậu ấy ở đâu?"
+        ],
+        [
+          "He is in the auditorium.",
+          "Cậu ấy ở hội trường."
+        ],
+        [
+          "Was she in the pool this morning?",
+          "Sáng nay cô ấy đã ở hồ bơi phải không?"
+        ]
+      ],
+      "qa": []
+    },
+    "17": {
+      "topic": "Were; nơi chốn ngoài trường",
+      "v": [
+        [
+          "at the bakery",
+          "ở tiệm bánh"
+        ],
+        [
+          "at the clinic",
+          "ở phòng khám"
+        ],
+        [
+          "at the factory",
+          "ở nhà máy"
+        ],
+        [
+          "at the repair shop",
+          "ở cửa hàng sửa chữa"
+        ],
+        [
+          "at the bookstore",
+          "ở hiệu sách"
+        ],
+        [
+          "at the airport",
+          "ở sân bay"
+        ],
+        [
+          "at the train station",
+          "ở ga tàu"
+        ],
+        [
+          "at the bus stop",
+          "ở trạm xe buýt"
+        ]
+      ],
+      "s": [
+        [
+          "They were at the airport yesterday.",
+          "Hôm qua họ đã ở sân bay."
+        ]
+      ],
+      "qa": []
+    },
+    "18": {
+      "topic": "Hỏi nhiều người trước đây và bây giờ",
+      "v": [
+        [
+          "at the bakery",
+          "ở tiệm bánh"
+        ],
+        [
+          "at the clinic",
+          "ở phòng khám"
+        ],
+        [
+          "at the factory",
+          "ở nhà máy"
+        ],
+        [
+          "at the repair shop",
+          "ở cửa hàng sửa chữa"
+        ],
+        [
+          "at the bookstore",
+          "ở hiệu sách"
+        ],
+        [
+          "at the airport",
+          "ở sân bay"
+        ],
+        [
+          "at the train station",
+          "ở ga tàu"
+        ],
+        [
+          "at the bus stop",
+          "ở trạm xe buýt"
+        ]
+      ],
+      "s": [
+        [
+          "Where were they yesterday?",
+          "Hôm qua họ đã ở đâu?"
+        ],
+        [
+          "They were at the bakery.",
+          "Họ đã ở tiệm bánh."
+        ],
+        [
+          "Where are they now?",
+          "Bây giờ họ ở đâu?"
+        ],
+        [
+          "They're at the factory.",
+          "Họ ở nhà máy."
+        ],
+        [
+          "Were they at the clinic yesterday?",
+          "Hôm qua họ đã ở phòng khám phải không?"
+        ],
+        [
+          "No, they weren't.",
+          "Không."
+        ]
+      ],
+      "qa": [
+        [
+          "Where were they yesterday?",
+          "They were at the bakery."
+        ],
+        [
+          "Where are they now?",
+          "They're at the factory."
+        ]
+      ]
+    },
+    "19": {
+      "topic": "Thời tiết hôm qua và hôm nay",
+      "v": [
+        [
+          "sunny",
+          "có nắng"
+        ],
+        [
+          "windy",
+          "có gió"
+        ],
+        [
+          "cloudy",
+          "nhiều mây"
+        ],
+        [
+          "snowy",
+          "có tuyết"
+        ],
+        [
+          "rainy",
+          "có mưa"
+        ]
+      ],
+      "s": [
+        [
+          "It was sunny yesterday.",
+          "Hôm qua trời có nắng."
+        ],
+        [
+          "It's rainy today.",
+          "Hôm nay trời có mưa."
+        ],
+        [
+          "How was the weather yesterday?",
+          "Hôm qua thời tiết thế nào?"
+        ],
+        [
+          "It was windy.",
+          "Trời có gió."
+        ],
+        [
+          "How's the weather today?",
+          "Hôm nay thời tiết thế nào?"
+        ],
+        [
+          "It's sunny.",
+          "Trời có nắng."
+        ]
+      ],
+      "qa": []
+    },
+    "20": {
+      "topic": "Đọc: bướm và ếch",
+      "v": [
+        [
+          "butterfly",
+          "con bướm"
+        ],
+        [
+          "caterpillar",
+          "con sâu bướm"
+        ],
+        [
+          "frog",
+          "con ếch"
+        ],
+        [
+          "tadpole",
+          "con nòng nọc"
+        ]
+      ],
+      "s": [
+        [
+          "It was a caterpillar.",
+          "Trước đây nó là con sâu bướm."
+        ],
+        [
+          "It was a little tadpole.",
+          "Trước đây nó là một con nòng nọc nhỏ."
+        ]
+      ],
+      "qa": [
+        [
+          "What was the butterfly?",
+          "It was a caterpillar."
+        ],
+        [
+          "What was the frog?",
+          "It was a little tadpole."
+        ],
+        [
+          "Was the butterfly a caterpillar?",
+          "Yes, it was."
+        ]
+      ]
+    },
+    "21": {
+      "topic": "Review 1–2",
+      "v": [
+        [
+          "chalk",
+          "phấn"
+        ],
+        [
+          "scissors",
+          "kéo"
+        ],
+        [
+          "at the bakery",
+          "ở tiệm bánh"
+        ],
+        [
+          "at the airport",
+          "ở sân bay"
+        ]
+      ],
+      "s": [
+        [
+          "What do they have?",
+          "Họ có gì?"
+        ],
+        [
+          "Where were they yesterday?",
+          "Hôm qua họ đã ở đâu?"
+        ],
+        [
+          "Where are they now?",
+          "Bây giờ họ ở đâu?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình và mẫu câu Unit 1–2; không gán đáp án cho audio gốc."
+    },
+    "22": {
+      "topic": "Read: Tony",
+      "v": [
+        [
+          "laptop computer",
+          "máy tính xách tay"
+        ],
+        [
+          "online",
+          "trực tuyến"
+        ],
+        [
+          "geography",
+          "địa lý"
+        ]
+      ],
+      "s": [
+        [
+          "My name is Tony.",
+          "Tên mình là Tony."
+        ],
+        [
+          "I live in the United States.",
+          "Mình sống ở Hoa Kỳ."
+        ],
+        [
+          "I go to a small school.",
+          "Mình học ở một trường nhỏ."
+        ],
+        [
+          "We study English, science, and geography online.",
+          "Chúng mình học tiếng Anh, khoa học và địa lý trực tuyến."
+        ]
+      ],
+      "qa": [
+        [
+          "Where does Tony live?",
+          "He lives in the United States."
+        ],
+        [
+          "How many students are there?",
+          "There are twelve students."
+        ],
+        [
+          "Does every student have a laptop computer?",
+          "Yes."
+        ]
+      ]
+    },
+    "23": {
+      "topic": "Nơi ở trong tòa nhà",
+      "v": [
+        [
+          "apartment building",
+          "tòa nhà căn hộ"
+        ],
+        [
+          "second floor",
+          "tầng hai"
+        ]
+      ],
+      "s": [
+        [
+          "She lives in that apartment building.",
+          "Cô ấy sống trong tòa nhà căn hộ kia."
+        ],
+        [
+          "Really? So do I.",
+          "Thật sao? Mình cũng vậy."
+        ],
+        [
+          "My grandmother lives on the second floor.",
+          "Bà mình sống ở tầng hai."
+        ]
+      ],
+      "qa": []
+    },
+    "24": {
+      "topic": "Số thứ tự và tầng nhà",
+      "v": [
+        [
+          "first",
+          "thứ nhất"
+        ],
+        [
+          "second",
+          "thứ hai"
+        ],
+        [
+          "third",
+          "thứ ba"
+        ],
+        [
+          "fourth",
+          "thứ tư"
+        ],
+        [
+          "fifth",
+          "thứ năm"
+        ],
+        [
+          "sixth",
+          "thứ sáu"
+        ],
+        [
+          "seventh",
+          "thứ bảy"
+        ],
+        [
+          "eighth",
+          "thứ tám"
+        ],
+        [
+          "ninth",
+          "thứ chín"
+        ],
+        [
+          "tenth",
+          "thứ mười"
+        ]
+      ],
+      "s": [
+        [
+          "He lives on the third floor.",
+          "Cậu ấy sống ở tầng ba."
+        ],
+        [
+          "Where does she live?",
+          "Cô ấy sống ở đâu?"
+        ],
+        [
+          "She lives on the second floor.",
+          "Cô ấy sống ở tầng hai."
+        ]
+      ],
+      "qa": []
+    },
+    "25": {
+      "topic": "Các phòng trong nhà",
+      "v": [
+        [
+          "a bedroom",
+          "một phòng ngủ"
+        ],
+        [
+          "a bathroom",
+          "một phòng tắm"
+        ],
+        [
+          "a living room",
+          "một phòng khách"
+        ],
+        [
+          "an entryway",
+          "một lối vào"
+        ],
+        [
+          "a dining room",
+          "một phòng ăn"
+        ],
+        [
+          "a kitchen",
+          "một nhà bếp"
+        ],
+        [
+          "a garage",
+          "một nhà để xe"
+        ],
+        [
+          "a basement",
+          "một tầng hầm"
+        ]
+      ],
+      "s": [
+        [
+          "There is a basement in my house.",
+          "Có một tầng hầm trong nhà mình."
+        ],
+        [
+          "There are three bedrooms in my house.",
+          "Có ba phòng ngủ trong nhà mình."
+        ]
+      ],
+      "qa": []
+    },
+    "26": {
+      "topic": "Hỏi nhà có phòng gì",
+      "v": [
+        [
+          "a bedroom",
+          "một phòng ngủ"
+        ],
+        [
+          "a bathroom",
+          "một phòng tắm"
+        ],
+        [
+          "a living room",
+          "một phòng khách"
+        ],
+        [
+          "an entryway",
+          "một lối vào"
+        ],
+        [
+          "a dining room",
+          "một phòng ăn"
+        ],
+        [
+          "a kitchen",
+          "một nhà bếp"
+        ],
+        [
+          "a garage",
+          "một nhà để xe"
+        ],
+        [
+          "a basement",
+          "một tầng hầm"
+        ]
+      ],
+      "s": [
+        [
+          "Is there a kitchen in his house?",
+          "Có một nhà bếp trong nhà cậu ấy không?"
+        ],
+        [
+          "Yes, there is.",
+          "Có."
+        ],
+        [
+          "No, there isn't.",
+          "Không có."
+        ],
+        [
+          "Now there aren't any chairs in our bedroom.",
+          "Bây giờ không còn chiếc ghế nào trong phòng ngủ của chúng mình."
+        ]
+      ],
+      "qa": []
+    },
+    "27": {
+      "topic": "Đồ dùng thể thao",
+      "v": [
+        [
+          "a skateboard",
+          "một ván trượt"
+        ],
+        [
+          "a scooter",
+          "một xe trượt chân"
+        ],
+        [
+          "a unicycle",
+          "một xe đạp một bánh"
+        ],
+        [
+          "a sled",
+          "một xe trượt tuyết"
+        ],
+        [
+          "skis",
+          "những ván trượt tuyết"
+        ],
+        [
+          "a snowboard",
+          "một ván trượt tuyết đơn"
+        ],
+        [
+          "in-line skates",
+          "giày trượt pa-tanh một hàng bánh"
+        ],
+        [
+          "ice skates",
+          "giày trượt băng"
+        ]
+      ],
+      "s": [
+        [
+          "Where's the snowboard?",
+          "Ván trượt tuyết đơn ở đâu?"
+        ],
+        [
+          "It's in the garage.",
+          "Nó ở trong nhà để xe."
+        ]
+      ],
+      "qa": []
+    },
+    "28": {
+      "topic": "Hỏi vị trí đồ dùng thể thao",
+      "v": [
+        [
+          "a skateboard",
+          "một ván trượt"
+        ],
+        [
+          "a scooter",
+          "một xe trượt chân"
+        ],
+        [
+          "a unicycle",
+          "một xe đạp một bánh"
+        ],
+        [
+          "a sled",
+          "một xe trượt tuyết"
+        ],
+        [
+          "skis",
+          "những ván trượt tuyết"
+        ],
+        [
+          "a snowboard",
+          "một ván trượt tuyết đơn"
+        ],
+        [
+          "in-line skates",
+          "giày trượt pa-tanh một hàng bánh"
+        ],
+        [
+          "ice skates",
+          "giày trượt băng"
+        ]
+      ],
+      "s": [
+        [
+          "Where is the snowboard?",
+          "Ván trượt tuyết đơn ở đâu?"
+        ],
+        [
+          "It's in the garage.",
+          "Nó ở trong nhà để xe."
+        ],
+        [
+          "Where are the skis?",
+          "Những ván trượt tuyết ở đâu?"
+        ],
+        [
+          "They're in the kitchen.",
+          "Chúng ở trong nhà bếp."
+        ],
+        [
+          "Are the skis in the living room?",
+          "Những ván trượt tuyết có ở phòng khách không?"
+        ]
+      ],
+      "qa": []
+    },
+    "29": {
+      "topic": "Vị trí trước đây và bây giờ",
+      "v": [
+        [
+          "under the desk",
+          "ở dưới bàn học"
+        ],
+        [
+          "on the bookshelf",
+          "ở trên giá sách"
+        ],
+        [
+          "next to",
+          "ở cạnh"
+        ],
+        [
+          "between",
+          "ở giữa"
+        ]
+      ],
+      "s": [
+        [
+          "The books were under the desk.",
+          "Những quyển sách đã ở dưới bàn học."
+        ],
+        [
+          "Now they're on the bookshelf.",
+          "Bây giờ chúng ở trên giá sách."
+        ],
+        [
+          "Where were the books?",
+          "Những quyển sách trước đó ở đâu?"
+        ],
+        [
+          "Where are they now?",
+          "Bây giờ chúng ở đâu?"
+        ]
+      ],
+      "qa": [
+        [
+          "Where were the books?",
+          "They were under the desk."
+        ],
+        [
+          "Where are they now?",
+          "They're on the bookshelf."
+        ]
+      ]
+    },
+    "30": {
+      "topic": "Đọc: thú nuôi của Brett",
+      "v": [
+        [
+          "lizards",
+          "những con thằn lằn"
+        ],
+        [
+          "birds",
+          "những con chim"
+        ],
+        [
+          "dogs",
+          "những con chó"
+        ]
+      ],
+      "s": [
+        [
+          "Brett has a lot of pets in his house.",
+          "Brett có nhiều thú nuôi trong nhà."
+        ],
+        [
+          "His lizards are in his bedroom.",
+          "Những con thằn lằn ở phòng ngủ của bạn ấy."
+        ],
+        [
+          "His birds are in the living room.",
+          "Những con chim ở phòng khách."
+        ],
+        [
+          "Brett walks his dogs every day after school.",
+          "Brett dắt chó đi dạo mỗi ngày sau giờ học."
+        ]
+      ],
+      "qa": [
+        [
+          "What does Brett like?",
+          "He likes animals."
+        ],
+        [
+          "Where are his lizards?",
+          "They are in his bedroom."
+        ],
+        [
+          "What does Brett do after school?",
+          "He walks his dogs."
+        ]
+      ]
+    },
+    "31": {
+      "topic": "Chọn chiếc mũ; same và different",
+      "v": [],
+      "s": [
+        [
+          "Which hat do you like?",
+          "Bạn thích chiếc mũ nào?"
+        ],
+        [
+          "Is this one the same?",
+          "Chiếc này có giống không?"
+        ],
+        [
+          "Yes, it's the same.",
+          "Có, nó giống."
+        ],
+        [
+          "No, it's different.",
+          "Không, nó khác."
+        ]
+      ],
+      "qa": []
+    },
+    "32": {
+      "topic": "Họa tiết trang phục",
+      "v": [
+        [
+          "striped",
+          "có sọc"
+        ],
+        [
+          "polka dot",
+          "có chấm bi"
+        ],
+        [
+          "plaid",
+          "có họa tiết kẻ sọc đan"
+        ],
+        [
+          "checked",
+          "có họa tiết ô vuông"
+        ]
+      ],
+      "s": [
+        [
+          "Which hat do you like?",
+          "Bạn thích chiếc mũ nào?"
+        ],
+        [
+          "I like the striped one.",
+          "Mình thích chiếc có sọc."
+        ],
+        [
+          "I don't know.",
+          "Mình không biết."
+        ],
+        [
+          "What about this one?",
+          "Chiếc này thì sao?"
+        ]
+      ],
+      "qa": []
+    },
+    "33": {
+      "topic": "Trang phục đang mặc",
+      "v": [
+        [
+          "a blouse",
+          "một áo kiểu nữ"
+        ],
+        [
+          "a skirt",
+          "một chân váy"
+        ],
+        [
+          "a dress",
+          "một váy liền"
+        ],
+        [
+          "a shirt",
+          "một áo sơ mi"
+        ],
+        [
+          "pants",
+          "quần dài"
+        ],
+        [
+          "shorts",
+          "quần đùi"
+        ],
+        [
+          "shoes",
+          "giày"
+        ],
+        [
+          "socks",
+          "tất"
+        ]
+      ],
+      "s": [
+        [
+          "He's wearing a shirt.",
+          "Cậu ấy đang mặc áo sơ mi."
+        ],
+        [
+          "She's not wearing shorts.",
+          "Cô ấy không mặc quần đùi."
+        ]
+      ],
+      "qa": []
+    },
+    "34": {
+      "topic": "Hỏi đang mặc gì",
+      "v": [
+        [
+          "a blouse",
+          "một áo kiểu nữ"
+        ],
+        [
+          "a skirt",
+          "một chân váy"
+        ],
+        [
+          "a dress",
+          "một váy liền"
+        ],
+        [
+          "a shirt",
+          "một áo sơ mi"
+        ],
+        [
+          "pants",
+          "quần dài"
+        ],
+        [
+          "shorts",
+          "quần đùi"
+        ],
+        [
+          "shoes",
+          "giày"
+        ],
+        [
+          "socks",
+          "tất"
+        ]
+      ],
+      "s": [
+        [
+          "What is he wearing?",
+          "Cậu ấy đang mặc gì?"
+        ],
+        [
+          "He's wearing a shirt.",
+          "Cậu ấy đang mặc áo sơ mi."
+        ],
+        [
+          "What is she wearing?",
+          "Cô ấy đang mặc gì?"
+        ],
+        [
+          "What are they wearing?",
+          "Họ đang mặc gì?"
+        ]
+      ],
+      "qa": []
+    },
+    "35": {
+      "topic": "Thêm trang phục; sở hữu",
+      "v": [
+        [
+          "a t-shirt",
+          "một áo phông"
+        ],
+        [
+          "a jacket",
+          "một áo khoác"
+        ],
+        [
+          "a sweater",
+          "một áo len"
+        ],
+        [
+          "a sweatshirt",
+          "một áo nỉ"
+        ],
+        [
+          "jeans",
+          "quần bò"
+        ],
+        [
+          "pajamas",
+          "đồ ngủ"
+        ],
+        [
+          "slippers",
+          "dép đi trong nhà"
+        ],
+        [
+          "boots",
+          "ủng"
+        ]
+      ],
+      "s": [
+        [
+          "This is my sweatshirt.",
+          "Đây là áo nỉ của mình."
+        ],
+        [
+          "These are my jeans.",
+          "Đây là quần bò của mình."
+        ]
+      ],
+      "qa": []
+    },
+    "36": {
+      "topic": "Whose với trang phục",
+      "v": [
+        [
+          "a t-shirt",
+          "một áo phông"
+        ],
+        [
+          "a jacket",
+          "một áo khoác"
+        ],
+        [
+          "a sweater",
+          "một áo len"
+        ],
+        [
+          "a sweatshirt",
+          "một áo nỉ"
+        ],
+        [
+          "jeans",
+          "quần bò"
+        ],
+        [
+          "pajamas",
+          "đồ ngủ"
+        ],
+        [
+          "slippers",
+          "dép đi trong nhà"
+        ],
+        [
+          "boots",
+          "ủng"
+        ]
+      ],
+      "s": [
+        [
+          "Whose sweatshirt is this?",
+          "Áo nỉ này của ai?"
+        ],
+        [
+          "It's Amy's sweatshirt.",
+          "Đó là áo nỉ của Amy."
+        ],
+        [
+          "Whose pajamas are these?",
+          "Đồ ngủ này của ai?"
+        ],
+        [
+          "They're Jimmy's pajamas.",
+          "Đó là đồ ngủ của Jimmy."
+        ],
+        [
+          "Are these her jeans?",
+          "Đây có phải quần bò của cô ấy không?"
+        ]
+      ],
+      "qa": [
+        [
+          "Whose sweatshirt is this?",
+          "It's Amy's sweatshirt."
+        ],
+        [
+          "Whose pajamas are these?",
+          "They're Jimmy's pajamas."
+        ]
+      ]
+    },
+    "37": {
+      "topic": "Miêu tả trang phục chi tiết",
+      "v": [],
+      "s": [
+        [
+          "He's wearing a sweatshirt.",
+          "Cậu ấy đang mặc một áo nỉ."
+        ],
+        [
+          "He's wearing a blue sweatshirt.",
+          "Cậu ấy đang mặc một áo nỉ xanh dương."
+        ],
+        [
+          "He's wearing a big, old, blue sweatshirt.",
+          "Cậu ấy đang mặc một áo nỉ to, cũ, màu xanh dương."
+        ],
+        [
+          "She's wearing a little, new, yellow t-shirt.",
+          "Cô ấy đang mặc một áo phông nhỏ, mới, màu vàng."
+        ]
+      ],
+      "qa": []
+    },
+    "38": {
+      "topic": "Đọc: quần áo của Matt",
+      "v": [
+        [
+          "uniform",
+          "đồng phục"
+        ],
+        [
+          "t-shirt",
+          "áo phông"
+        ],
+        [
+          "shorts",
+          "quần đùi"
+        ],
+        [
+          "pajamas",
+          "đồ ngủ"
+        ]
+      ],
+      "s": [
+        [
+          "Matt wears a uniform to school every day.",
+          "Matt mặc đồng phục đến trường mỗi ngày."
+        ],
+        [
+          "He wears different pajamas every night.",
+          "Bạn ấy mặc đồ ngủ khác nhau mỗi đêm."
+        ]
+      ],
+      "qa": [
+        [
+          "What does Matt wear to school every day?",
+          "He wears a uniform."
+        ],
+        [
+          "Does he wear different t-shirts and shorts after school?",
+          "No. He wears the same t-shirt and shorts."
+        ],
+        [
+          "What does he wear at night?",
+          "He wears pajamas."
+        ]
+      ]
+    },
+    "39": {
+      "topic": "Review 3–4",
+      "v": [
+        [
+          "a garage",
+          "một nhà để xe"
+        ],
+        [
+          "a sweater",
+          "một áo len"
+        ],
+        [
+          "a skateboard",
+          "một ván trượt"
+        ],
+        [
+          "striped",
+          "có sọc"
+        ]
+      ],
+      "s": [
+        [
+          "Where does she live?",
+          "Cô ấy sống ở đâu?"
+        ],
+        [
+          "What are they wearing?",
+          "Họ đang mặc gì?"
+        ],
+        [
+          "Whose sweatshirt is this?",
+          "Áo nỉ này của ai?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình Unit 3–4; không gán đáp án cho audio gốc."
+    },
+    "40": {
+      "topic": "Read: Megan",
+      "v": [
+        [
+          "beach",
+          "bãi biển"
+        ],
+        [
+          "summer vacation",
+          "kỳ nghỉ hè"
+        ]
+      ],
+      "s": [
+        [
+          "My name is Megan.",
+          "Tên mình là Megan."
+        ],
+        [
+          "I live in New Zealand.",
+          "Mình sống ở New Zealand."
+        ],
+        [
+          "My brother and I go to the same school.",
+          "Anh/em trai mình và mình học cùng trường."
+        ],
+        [
+          "Our summer vacation is in December and January.",
+          "Kỳ nghỉ hè của chúng mình vào tháng Mười Hai và tháng Một."
+        ],
+        [
+          "We like to go to the beach.",
+          "Chúng mình thích đi biển."
+        ]
+      ],
+      "qa": [
+        [
+          "Where does Megan live?",
+          "She lives in New Zealand."
+        ],
+        [
+          "When is her summer vacation?",
+          "It is in December and January."
+        ]
+      ]
+    },
+    "41": {
+      "topic": "Giờ khởi hành",
+      "v": [],
+      "s": [
+        [
+          "What time does the train leave?",
+          "Tàu hỏa khởi hành lúc mấy giờ?"
+        ],
+        [
+          "It leaves at 9:15.",
+          "Nó khởi hành lúc 9 giờ 15."
+        ],
+        [
+          "This is going to be fun.",
+          "Chuyến này sẽ vui đây."
+        ],
+        [
+          "I can't wait!",
+          "Mình nóng lòng quá!"
+        ]
+      ],
+      "qa": [
+        [
+          "What time does the train leave?",
+          "It leaves at 9:15."
+        ]
+      ]
+    },
+    "42": {
+      "topic": "Lịch phương tiện",
+      "v": [
+        [
+          "train",
+          "tàu hỏa"
+        ],
+        [
+          "bus",
+          "xe buýt"
+        ],
+        [
+          "plane",
+          "máy bay"
+        ],
+        [
+          "boat",
+          "thuyền"
+        ]
+      ],
+      "s": [
+        [
+          "What time does the train leave?",
+          "Tàu hỏa khởi hành lúc mấy giờ?"
+        ],
+        [
+          "It leaves at 5:30 p.m.",
+          "Nó khởi hành lúc 5 giờ 30 chiều."
+        ],
+        [
+          "What time does the bus leave?",
+          "Xe buýt khởi hành lúc mấy giờ?"
+        ],
+        [
+          "It leaves at 11:45 a.m.",
+          "Nó khởi hành lúc 11 giờ 45 trưa."
+        ]
+      ],
+      "qa": []
+    },
+    "43": {
+      "topic": "Phương tiện đến trường; always và never",
+      "v": [
+        [
+          "take a bus",
+          "đi xe buýt"
+        ],
+        [
+          "take a train",
+          "đi tàu hỏa"
+        ],
+        [
+          "take a taxi",
+          "đi taxi"
+        ],
+        [
+          "take a subway",
+          "đi tàu điện ngầm"
+        ],
+        [
+          "ride a bicycle",
+          "đi xe đạp"
+        ],
+        [
+          "walk",
+          "đi bộ"
+        ],
+        [
+          "always",
+          "luôn luôn"
+        ],
+        [
+          "never",
+          "không bao giờ"
+        ]
+      ],
+      "s": [
+        [
+          "I always take a bus to school.",
+          "Mình luôn đi xe buýt đến trường."
+        ],
+        [
+          "I never ride a bicycle to school.",
+          "Mình không bao giờ đi xe đạp đến trường."
+        ]
+      ],
+      "qa": []
+    },
+    "44": {
+      "topic": "Tần suất đi đến trường",
+      "v": [
+        [
+          "take a bus",
+          "đi xe buýt"
+        ],
+        [
+          "take a train",
+          "đi tàu hỏa"
+        ],
+        [
+          "take a taxi",
+          "đi taxi"
+        ],
+        [
+          "take a subway",
+          "đi tàu điện ngầm"
+        ],
+        [
+          "ride a bicycle",
+          "đi xe đạp"
+        ],
+        [
+          "walk",
+          "đi bộ"
+        ],
+        [
+          "always",
+          "luôn luôn"
+        ],
+        [
+          "never",
+          "không bao giờ"
+        ]
+      ],
+      "s": [
+        [
+          "Does he ever walk to school?",
+          "Cậu ấy có bao giờ đi bộ đến trường không?"
+        ],
+        [
+          "Yes, he does.",
+          "Có."
+        ],
+        [
+          "No, he doesn't.",
+          "Không."
+        ],
+        [
+          "We always walk to school.",
+          "Chúng mình luôn đi bộ đến trường."
+        ],
+        [
+          "They never take a taxi.",
+          "Họ không bao giờ đi taxi."
+        ]
+      ],
+      "qa": []
+    },
+    "45": {
+      "topic": "Lái phương tiện tại nơi làm việc",
+      "v": [
+        [
+          "drive a police car",
+          "lái xe cảnh sát"
+        ],
+        [
+          "drive a fire engine",
+          "lái xe cứu hỏa"
+        ],
+        [
+          "drive a truck",
+          "lái xe tải"
+        ],
+        [
+          "drive a car",
+          "lái ô tô"
+        ],
+        [
+          "drive a tractor",
+          "lái máy kéo"
+        ],
+        [
+          "ride a motorcycle",
+          "đi xe máy"
+        ],
+        [
+          "fly an airplane",
+          "lái máy bay"
+        ],
+        [
+          "fly a helicopter",
+          "lái trực thăng"
+        ],
+        [
+          "usually",
+          "thường xuyên"
+        ],
+        [
+          "sometimes",
+          "thỉnh thoảng"
+        ]
+      ],
+      "s": [
+        [
+          "He usually flies an airplane at work.",
+          "Anh ấy thường lái máy bay khi làm việc."
+        ],
+        [
+          "She sometimes flies a helicopter at work.",
+          "Cô ấy thỉnh thoảng lái trực thăng khi làm việc."
+        ]
+      ],
+      "qa": []
+    },
+    "46": {
+      "topic": "Tần suất đi làm và điều khiển phương tiện",
+      "v": [
+        [
+          "drive a police car",
+          "lái xe cảnh sát"
+        ],
+        [
+          "drive a fire engine",
+          "lái xe cứu hỏa"
+        ],
+        [
+          "drive a truck",
+          "lái xe tải"
+        ],
+        [
+          "drive a car",
+          "lái ô tô"
+        ],
+        [
+          "drive a tractor",
+          "lái máy kéo"
+        ],
+        [
+          "ride a motorcycle",
+          "đi xe máy"
+        ],
+        [
+          "fly an airplane",
+          "lái máy bay"
+        ],
+        [
+          "fly a helicopter",
+          "lái trực thăng"
+        ],
+        [
+          "usually",
+          "thường xuyên"
+        ],
+        [
+          "sometimes",
+          "thỉnh thoảng"
+        ]
+      ],
+      "s": [
+        [
+          "Does he ever drive a fire engine at work?",
+          "Anh ấy có bao giờ lái xe cứu hỏa khi làm việc không?"
+        ],
+        [
+          "He usually takes a train to work.",
+          "Anh ấy thường đi tàu hỏa đến chỗ làm."
+        ],
+        [
+          "Sometimes he drives a car.",
+          "Thỉnh thoảng anh ấy lái ô tô."
+        ],
+        [
+          "She usually rides a motorcycle to work.",
+          "Cô ấy thường đi xe máy đến chỗ làm."
+        ],
+        [
+          "Sometimes she takes a taxi.",
+          "Thỉnh thoảng cô ấy đi taxi."
+        ]
+      ],
+      "qa": [
+        [
+          "Does he ever drive a fire engine at work?",
+          "He usually drives a fire engine at work."
+        ]
+      ]
+    },
+    "47": {
+      "topic": "Tần suất và nơi hoạt động",
+      "v": [
+        [
+          "always",
+          "luôn luôn"
+        ],
+        [
+          "usually",
+          "thường xuyên"
+        ],
+        [
+          "sometimes",
+          "thỉnh thoảng"
+        ],
+        [
+          "never",
+          "không bao giờ"
+        ],
+        [
+          "play baseball",
+          "chơi bóng chày"
+        ],
+        [
+          "do homework",
+          "làm bài tập về nhà"
+        ]
+      ],
+      "s": [
+        [
+          "He always plays baseball at the park.",
+          "Cậu ấy luôn chơi bóng chày ở công viên."
+        ],
+        [
+          "They always play baseball at the park.",
+          "Họ luôn chơi bóng chày ở công viên."
+        ]
+      ],
+      "qa": []
+    },
+    "48": {
+      "topic": "Đọc: Officer Smith",
+      "v": [
+        [
+          "at night",
+          "vào ban đêm"
+        ],
+        [
+          "in the morning",
+          "vào buổi sáng"
+        ]
+      ],
+      "s": [
+        [
+          "Officer Smith always goes to work at night.",
+          "Cảnh sát Smith luôn đi làm vào ban đêm."
+        ],
+        [
+          "He usually flies a helicopter.",
+          "Ông ấy thường lái trực thăng."
+        ],
+        [
+          "He sometimes eats pizza at work.",
+          "Ông ấy thỉnh thoảng ăn pizza tại chỗ làm."
+        ],
+        [
+          "He never drinks milk.",
+          "Ông ấy không bao giờ uống sữa."
+        ]
+      ],
+      "qa": [
+        [
+          "When does Officer Smith go to work?",
+          "He goes to work at night."
+        ],
+        [
+          "What does he eat at work?",
+          "He sometimes eats pizza."
+        ],
+        [
+          "Does he go to bed at night?",
+          "No. He goes to bed in the morning."
+        ]
+      ]
+    },
+    "49": {
+      "topic": "Nơi đang đến",
+      "v": [],
+      "s": [
+        [
+          "Where are you going?",
+          "Bạn đang đi đâu?"
+        ],
+        [
+          "I'm going to the library.",
+          "Mình đang đi thư viện."
+        ],
+        [
+          "Are you going home?",
+          "Bạn đang về nhà phải không?"
+        ],
+        [
+          "No, I'm not. I'm going to the park.",
+          "Không. Mình đang đi công viên."
+        ],
+        [
+          "Have fun!",
+          "Chúc vui vẻ!"
+        ],
+        [
+          "Thanks. See you later.",
+          "Cảm ơn. Hẹn gặp lại."
+        ]
+      ],
+      "qa": []
+    },
+    "50": {
+      "topic": "Các điểm đến vui chơi",
+      "v": [
+        [
+          "a concert",
+          "một buổi hòa nhạc"
+        ],
+        [
+          "a movie",
+          "một buổi chiếu phim"
+        ],
+        [
+          "an amusement park",
+          "một công viên giải trí"
+        ],
+        [
+          "a water park",
+          "một công viên nước"
+        ]
+      ],
+      "s": [
+        [
+          "Where are you going?",
+          "Bạn đang đi đâu?"
+        ],
+        [
+          "I'm going to a concert.",
+          "Mình đang đi xem hòa nhạc."
+        ],
+        [
+          "Are you going to the zoo?",
+          "Bạn đang đi sở thú phải không?"
+        ],
+        [
+          "No, I'm not.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "51": {
+      "topic": "Hoạt động cuối tuần",
+      "v": [
+        [
+          "go to a pet store",
+          "đi cửa hàng thú nuôi"
+        ],
+        [
+          "go bowling",
+          "đi chơi bowling"
+        ],
+        [
+          "go shopping",
+          "đi mua sắm"
+        ],
+        [
+          "watch movies",
+          "xem phim"
+        ],
+        [
+          "play with friends",
+          "chơi với bạn"
+        ],
+        [
+          "clean my room",
+          "dọn phòng mình"
+        ],
+        [
+          "sleep late",
+          "ngủ dậy muộn"
+        ],
+        [
+          "stay home",
+          "ở nhà"
+        ]
+      ],
+      "s": [
+        [
+          "I always clean my room on the weekend.",
+          "Mình luôn dọn phòng vào cuối tuần."
+        ]
+      ],
+      "qa": []
+    },
+    "52": {
+      "topic": "Hỏi thói quen cuối tuần",
+      "v": [
+        [
+          "go to a pet store",
+          "đi cửa hàng thú nuôi"
+        ],
+        [
+          "go bowling",
+          "đi chơi bowling"
+        ],
+        [
+          "go shopping",
+          "đi mua sắm"
+        ],
+        [
+          "watch movies",
+          "xem phim"
+        ],
+        [
+          "play with friends",
+          "chơi với bạn"
+        ],
+        [
+          "clean my room",
+          "dọn phòng mình"
+        ],
+        [
+          "sleep late",
+          "ngủ dậy muộn"
+        ],
+        [
+          "stay home",
+          "ở nhà"
+        ]
+      ],
+      "s": [
+        [
+          "What does he do on the weekend?",
+          "Cậu ấy làm gì vào cuối tuần?"
+        ],
+        [
+          "He always goes bowling.",
+          "Cậu ấy luôn đi chơi bowling."
+        ],
+        [
+          "What do you sometimes do on Sundays?",
+          "Bạn thỉnh thoảng làm gì vào các Chủ nhật?"
+        ],
+        [
+          "Do you ever sleep late on Mondays?",
+          "Bạn có bao giờ ngủ dậy muộn vào các thứ Hai không?"
+        ]
+      ],
+      "qa": []
+    },
+    "53": {
+      "topic": "Trước và sau giờ học",
+      "v": [
+        [
+          "play tennis",
+          "chơi quần vợt"
+        ],
+        [
+          "read e-mail",
+          "đọc thư điện tử"
+        ],
+        [
+          "do gymnastics",
+          "tập thể dục dụng cụ"
+        ],
+        [
+          "study English",
+          "học tiếng Anh"
+        ],
+        [
+          "do homework",
+          "làm bài tập về nhà"
+        ],
+        [
+          "practice karate",
+          "tập karate"
+        ],
+        [
+          "before school",
+          "trước giờ học"
+        ],
+        [
+          "after school",
+          "sau giờ học"
+        ]
+      ],
+      "s": [
+        [
+          "He usually reads e-mail before school.",
+          "Cậu ấy thường đọc thư điện tử trước giờ học."
+        ],
+        [
+          "I always play tennis after school.",
+          "Mình luôn chơi quần vợt sau giờ học."
+        ]
+      ],
+      "qa": []
+    },
+    "54": {
+      "topic": "Hỏi khi nào thực hiện hoạt động",
+      "v": [
+        [
+          "play tennis",
+          "chơi quần vợt"
+        ],
+        [
+          "read e-mail",
+          "đọc thư điện tử"
+        ],
+        [
+          "do gymnastics",
+          "tập thể dục dụng cụ"
+        ],
+        [
+          "study English",
+          "học tiếng Anh"
+        ],
+        [
+          "do homework",
+          "làm bài tập về nhà"
+        ],
+        [
+          "practice karate",
+          "tập karate"
+        ],
+        [
+          "before school",
+          "trước giờ học"
+        ],
+        [
+          "after school",
+          "sau giờ học"
+        ]
+      ],
+      "s": [
+        [
+          "When does he do gymnastics?",
+          "Cậu ấy tập thể dục dụng cụ khi nào?"
+        ],
+        [
+          "He always does gymnastics before school.",
+          "Cậu ấy luôn tập thể dục dụng cụ trước giờ học."
+        ],
+        [
+          "Does he ever practice karate after school?",
+          "Cậu ấy có bao giờ tập karate sau giờ học không?"
+        ],
+        [
+          "Yes, he does.",
+          "Có."
+        ],
+        [
+          "No, he doesn't.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "55": {
+      "topic": "Thời điểm thực hiện thói quen",
+      "v": [
+        [
+          "in the evening",
+          "vào buổi tối"
+        ],
+        [
+          "in the morning",
+          "vào buổi sáng"
+        ],
+        [
+          "at night",
+          "vào ban đêm"
+        ],
+        [
+          "on Saturdays",
+          "vào các thứ Bảy"
+        ]
+      ],
+      "s": [
+        [
+          "He always studies English on Saturdays.",
+          "Cậu ấy luôn học tiếng Anh vào các thứ Bảy."
+        ],
+        [
+          "They usually play tennis in the afternoon.",
+          "Họ thường chơi quần vợt vào buổi chiều."
+        ],
+        [
+          "When do they do homework?",
+          "Họ làm bài tập về nhà khi nào?"
+        ],
+        [
+          "They do homework in the morning.",
+          "Họ làm bài tập về nhà vào buổi sáng."
+        ]
+      ],
+      "qa": [
+        [
+          "When do they do homework?",
+          "They do homework in the morning."
+        ]
+      ]
+    },
+    "56": {
+      "topic": "Đọc: lịch bận rộn của Julie",
+      "v": [
+        [
+          "busy",
+          "bận rộn"
+        ],
+        [
+          "free",
+          "rảnh rỗi"
+        ],
+        [
+          "swim practice",
+          "buổi tập bơi"
+        ]
+      ],
+      "s": [
+        [
+          "Julie is a busy girl.",
+          "Julie là một cô bé bận rộn."
+        ],
+        [
+          "Before school, she goes to swim practice.",
+          "Trước giờ học, bạn ấy đi tập bơi."
+        ],
+        [
+          "After school, she studies English.",
+          "Sau giờ học, bạn ấy học tiếng Anh."
+        ],
+        [
+          "On Sundays, she is free.",
+          "Vào các Chủ nhật, bạn ấy rảnh."
+        ]
+      ],
+      "qa": [
+        [
+          "When does Julie leave her house?",
+          "She leaves her house every morning at 6:00 a.m."
+        ],
+        [
+          "What does she do before school?",
+          "She goes to swim practice."
+        ],
+        [
+          "When is she free?",
+          "She is free on Sundays."
+        ]
+      ]
+    },
+    "57": {
+      "topic": "Review 5–6",
+      "v": [
+        [
+          "take a bus",
+          "đi xe buýt"
+        ],
+        [
+          "go bowling",
+          "đi chơi bowling"
+        ],
+        [
+          "always",
+          "luôn luôn"
+        ],
+        [
+          "sometimes",
+          "thỉnh thoảng"
+        ]
+      ],
+      "s": [
+        [
+          "What time does the train leave?",
+          "Tàu hỏa khởi hành lúc mấy giờ?"
+        ],
+        [
+          "Where are you going?",
+          "Bạn đang đi đâu?"
+        ],
+        [
+          "What does he do on the weekend?",
+          "Cậu ấy làm gì vào cuối tuần?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình Unit 5–6; không suy đoán đáp án nghe gốc."
+    },
+    "58": {
+      "topic": "Read: Kevin",
+      "v": [
+        [
+          "accordion",
+          "đàn accordion"
+        ],
+        [
+          "harp",
+          "đàn hạc"
+        ],
+        [
+          "fiddle",
+          "đàn vĩ cầm"
+        ]
+      ],
+      "s": [
+        [
+          "I live in Ireland.",
+          "Mình sống ở Ireland."
+        ],
+        [
+          "My father plays the accordion.",
+          "Bố mình chơi đàn accordion."
+        ],
+        [
+          "My mother plays the harp.",
+          "Mẹ mình chơi đàn hạc."
+        ],
+        [
+          "I play the fiddle.",
+          "Mình chơi đàn vĩ cầm."
+        ],
+        [
+          "My sister dances.",
+          "Chị/em gái mình nhảy múa."
+        ],
+        [
+          "We practice every day.",
+          "Chúng mình luyện tập mỗi ngày."
+        ]
+      ],
+      "qa": [
+        [
+          "Where does Kevin live?",
+          "He lives in Ireland."
+        ],
+        [
+          "What does Kevin play?",
+          "He plays the fiddle."
+        ]
+      ]
+    },
+    "59": {
+      "topic": "Hỏi nghề của bố mẹ",
+      "v": [],
+      "s": [
+        [
+          "What does your father do?",
+          "Bố bạn làm nghề gì?"
+        ],
+        [
+          "He's an office worker.",
+          "Bố mình là nhân viên văn phòng."
+        ],
+        [
+          "What does an office worker do?",
+          "Nhân viên văn phòng làm gì?"
+        ],
+        [
+          "I'm not sure.",
+          "Mình không chắc."
+        ]
+      ],
+      "qa": []
+    },
+    "60": {
+      "topic": "Nghề nghiệp của người thân",
+      "v": [
+        [
+          "a pilot",
+          "một phi công"
+        ],
+        [
+          "a zookeeper",
+          "một người chăm sóc thú ở sở thú"
+        ],
+        [
+          "an astronomer",
+          "một nhà thiên văn học"
+        ],
+        [
+          "a baseball player",
+          "một cầu thủ bóng chày"
+        ]
+      ],
+      "s": [
+        [
+          "What does your father do?",
+          "Bố bạn làm nghề gì?"
+        ],
+        [
+          "He's a pilot.",
+          "Bố mình là phi công."
+        ],
+        [
+          "What does your mother do?",
+          "Mẹ bạn làm nghề gì?"
+        ],
+        [
+          "She's an astronomer.",
+          "Mẹ mình là nhà thiên văn học."
+        ]
+      ],
+      "qa": []
+    },
+    "61": {
+      "topic": "Nghề nghiệp",
+      "v": [
+        [
+          "a veterinarian",
+          "một bác sĩ thú y"
+        ],
+        [
+          "a mechanic",
+          "một thợ sửa xe"
+        ],
+        [
+          "a salesclerk",
+          "một nhân viên bán hàng"
+        ],
+        [
+          "a factory worker",
+          "một công nhân nhà máy"
+        ],
+        [
+          "a photographer",
+          "một nhiếp ảnh gia"
+        ],
+        [
+          "a fisherman",
+          "một ngư dân"
+        ]
+      ],
+      "s": [
+        [
+          "He's a veterinarian.",
+          "Anh ấy là bác sĩ thú y."
+        ],
+        [
+          "She's a veterinarian.",
+          "Cô ấy là bác sĩ thú y."
+        ]
+      ],
+      "qa": []
+    },
+    "62": {
+      "topic": "What’s his / her job",
+      "v": [
+        [
+          "a veterinarian",
+          "một bác sĩ thú y"
+        ],
+        [
+          "a mechanic",
+          "một thợ sửa xe"
+        ],
+        [
+          "a salesclerk",
+          "một nhân viên bán hàng"
+        ],
+        [
+          "a factory worker",
+          "một công nhân nhà máy"
+        ],
+        [
+          "a photographer",
+          "một nhiếp ảnh gia"
+        ],
+        [
+          "a fisherman",
+          "một ngư dân"
+        ]
+      ],
+      "s": [
+        [
+          "What's his job?",
+          "Nghề của anh ấy là gì?"
+        ],
+        [
+          "He's a veterinarian.",
+          "Anh ấy là bác sĩ thú y."
+        ],
+        [
+          "What's her job?",
+          "Nghề của cô ấy là gì?"
+        ],
+        [
+          "She's a photographer.",
+          "Cô ấy là nhiếp ảnh gia."
+        ]
+      ],
+      "qa": []
+    },
+    "63": {
+      "topic": "Công việc cụ thể",
+      "v": [
+        [
+          "help animals",
+          "giúp động vật"
+        ],
+        [
+          "fix cars",
+          "sửa ô tô"
+        ],
+        [
+          "sell things",
+          "bán hàng"
+        ],
+        [
+          "make things",
+          "làm ra đồ vật"
+        ],
+        [
+          "take pictures",
+          "chụp ảnh"
+        ],
+        [
+          "catch fish",
+          "bắt cá"
+        ]
+      ],
+      "s": [
+        [
+          "A photographer takes pictures.",
+          "Nhiếp ảnh gia chụp ảnh."
+        ],
+        [
+          "A fisherman catches fish.",
+          "Ngư dân bắt cá."
+        ]
+      ],
+      "qa": []
+    },
+    "64": {
+      "topic": "Nghề, công việc và nơi làm việc",
+      "v": [
+        [
+          "help animals",
+          "giúp động vật"
+        ],
+        [
+          "fix cars",
+          "sửa ô tô"
+        ],
+        [
+          "sell things",
+          "bán hàng"
+        ],
+        [
+          "make things",
+          "làm ra đồ vật"
+        ],
+        [
+          "take pictures",
+          "chụp ảnh"
+        ],
+        [
+          "catch fish",
+          "bắt cá"
+        ]
+      ],
+      "s": [
+        [
+          "What does a salesclerk do?",
+          "Nhân viên bán hàng làm gì?"
+        ],
+        [
+          "A salesclerk sells things.",
+          "Nhân viên bán hàng bán hàng hóa."
+        ],
+        [
+          "A mechanic fixes cars in a garage.",
+          "Thợ sửa xe sửa ô tô trong ga ra."
+        ],
+        [
+          "A salesclerk sells things in a store.",
+          "Nhân viên bán hàng bán hàng trong cửa hàng."
+        ]
+      ],
+      "qa": [
+        [
+          "What does a salesclerk do?",
+          "A salesclerk sells things."
+        ]
+      ]
+    },
+    "65": {
+      "topic": "Trò chơi đoán nghề",
+      "v": [],
+      "s": [
+        [
+          "I work in a store.",
+          "Mình làm việc trong cửa hàng."
+        ],
+        [
+          "I sell things.",
+          "Mình bán hàng."
+        ],
+        [
+          "What's my job?",
+          "Nghề của mình là gì?"
+        ],
+        [
+          "You're a salesclerk!",
+          "Bạn là nhân viên bán hàng!"
+        ],
+        [
+          "I wear a uniform.",
+          "Mình mặc đồng phục."
+        ],
+        [
+          "I drive a police car.",
+          "Mình lái xe cảnh sát."
+        ],
+        [
+          "You're a police officer!",
+          "Bạn là cảnh sát!"
+        ]
+      ],
+      "qa": []
+    },
+    "66": {
+      "topic": "Đọc: nhiếp ảnh gia Maya",
+      "v": [
+        [
+          "animal photographer",
+          "nhiếp ảnh gia động vật"
+        ],
+        [
+          "outside",
+          "ở ngoài trời"
+        ]
+      ],
+      "s": [
+        [
+          "Maya is an animal photographer.",
+          "Maya là nhiếp ảnh gia động vật."
+        ],
+        [
+          "She takes pictures of animals every day.",
+          "Cô ấy chụp ảnh động vật mỗi ngày."
+        ],
+        [
+          "She never takes pictures of people.",
+          "Cô ấy không bao giờ chụp ảnh người."
+        ],
+        [
+          "Be careful, Maya!",
+          "Hãy cẩn thận, Maya!"
+        ]
+      ],
+      "qa": [
+        [
+          "What does Maya do?",
+          "She is an animal photographer."
+        ],
+        [
+          "Does she ever work outside?",
+          "Yes. She usually takes pictures outside."
+        ],
+        [
+          "Is she taking a picture of a tree?",
+          "No. She is taking a picture of a lion."
+        ]
+      ]
+    },
+    "67": {
+      "topic": "Sở thích thể thao",
+      "v": [],
+      "s": [
+        [
+          "Do you like sports?",
+          "Bạn có thích thể thao không?"
+        ],
+        [
+          "Yes, I do.",
+          "Có."
+        ],
+        [
+          "Which sports do you like?",
+          "Bạn thích những môn thể thao nào?"
+        ],
+        [
+          "I like football and soccer.",
+          "Mình thích bóng bầu dục Mỹ và bóng đá."
+        ],
+        [
+          "Which sport do you like more?",
+          "Bạn thích môn thể thao nào hơn?"
+        ],
+        [
+          "I like soccer more.",
+          "Mình thích bóng đá hơn."
+        ]
+      ],
+      "qa": [
+        [
+          "Which sports do you like?",
+          "I like football and soccer."
+        ],
+        [
+          "Which sport do you like more?",
+          "I like soccer more."
+        ]
+      ]
+    },
+    "68": {
+      "topic": "Các môn thể thao",
+      "v": [
+        [
+          "football",
+          "bóng bầu dục Mỹ"
+        ],
+        [
+          "baseball",
+          "bóng chày"
+        ],
+        [
+          "basketball",
+          "bóng rổ"
+        ],
+        [
+          "volleyball",
+          "bóng chuyền"
+        ],
+        [
+          "track",
+          "điền kinh"
+        ],
+        [
+          "tennis",
+          "quần vợt"
+        ],
+        [
+          "soccer",
+          "bóng đá"
+        ]
+      ],
+      "s": [
+        [
+          "Which do you like more, football or soccer?",
+          "Bạn thích bóng bầu dục Mỹ hay bóng đá hơn?"
+        ],
+        [
+          "I like soccer more.",
+          "Mình thích bóng đá hơn."
+        ],
+        [
+          "What about you?",
+          "Còn bạn thì sao?"
+        ]
+      ],
+      "qa": []
+    },
+    "69": {
+      "topic": "Trước đây và bây giờ; đặc điểm",
+      "v": [
+        [
+          "small",
+          "nhỏ"
+        ],
+        [
+          "big",
+          "to"
+        ],
+        [
+          "light",
+          "nhẹ"
+        ],
+        [
+          "heavy",
+          "nặng"
+        ],
+        [
+          "weak",
+          "yếu"
+        ],
+        [
+          "strong",
+          "khỏe"
+        ],
+        [
+          "slow",
+          "chậm"
+        ],
+        [
+          "fast",
+          "nhanh"
+        ]
+      ],
+      "s": [
+        [
+          "He was small. Now he's big.",
+          "Trước đây cậu ấy nhỏ. Bây giờ cậu ấy to."
+        ],
+        [
+          "Is he fast?",
+          "Cậu ấy có nhanh không?"
+        ],
+        [
+          "Yes, he is.",
+          "Có."
+        ]
+      ],
+      "qa": []
+    },
+    "70": {
+      "topic": "Hỏi đặc điểm trước đây và bây giờ",
+      "v": [
+        [
+          "small",
+          "nhỏ"
+        ],
+        [
+          "big",
+          "to"
+        ],
+        [
+          "light",
+          "nhẹ"
+        ],
+        [
+          "heavy",
+          "nặng"
+        ],
+        [
+          "weak",
+          "yếu"
+        ],
+        [
+          "strong",
+          "khỏe"
+        ],
+        [
+          "slow",
+          "chậm"
+        ],
+        [
+          "fast",
+          "nhanh"
+        ]
+      ],
+      "s": [
+        [
+          "Is he big?",
+          "Cậu ấy có to không?"
+        ],
+        [
+          "Was he small?",
+          "Trước đây cậu ấy có nhỏ không?"
+        ],
+        [
+          "Yes, he was.",
+          "Có."
+        ],
+        [
+          "They were slow.",
+          "Trước đây họ chậm."
+        ],
+        [
+          "Now they're fast.",
+          "Bây giờ họ nhanh."
+        ]
+      ],
+      "qa": []
+    },
+    "71": {
+      "topic": "Vận động viên và so sánh",
+      "v": [
+        [
+          "a swimmer",
+          "một vận động viên bơi"
+        ],
+        [
+          "a baseball player",
+          "một cầu thủ bóng chày"
+        ],
+        [
+          "a volleyball player",
+          "một cầu thủ bóng chuyền"
+        ],
+        [
+          "a runner",
+          "một vận động viên chạy"
+        ],
+        [
+          "a gymnast",
+          "một vận động viên thể dục dụng cụ"
+        ],
+        [
+          "a football player",
+          "một cầu thủ bóng bầu dục Mỹ"
+        ]
+      ],
+      "s": [
+        [
+          "The swimmer is bigger than the gymnast.",
+          "Vận động viên bơi to hơn vận động viên thể dục dụng cụ."
+        ],
+        [
+          "The gymnast is smaller than the swimmer.",
+          "Vận động viên thể dục dụng cụ nhỏ hơn vận động viên bơi."
+        ],
+        [
+          "Who is faster?",
+          "Ai nhanh hơn?"
+        ],
+        [
+          "The runner is faster.",
+          "Vận động viên chạy nhanh hơn."
+        ]
+      ],
+      "qa": []
+    },
+    "72": {
+      "topic": "So sánh đặc điểm",
+      "v": [
+        [
+          "stronger",
+          "khỏe hơn"
+        ],
+        [
+          "weaker",
+          "yếu hơn"
+        ],
+        [
+          "heavier",
+          "nặng hơn"
+        ],
+        [
+          "lighter",
+          "nhẹ hơn"
+        ],
+        [
+          "bigger",
+          "to hơn"
+        ],
+        [
+          "smaller",
+          "nhỏ hơn"
+        ]
+      ],
+      "s": [
+        [
+          "Who is stronger?",
+          "Ai khỏe hơn?"
+        ],
+        [
+          "The volleyball player is stronger.",
+          "Cầu thủ bóng chuyền khỏe hơn."
+        ],
+        [
+          "Is the swimmer stronger?",
+          "Vận động viên bơi có khỏe hơn không?"
+        ],
+        [
+          "No, he isn't.",
+          "Không."
+        ]
+      ],
+      "qa": []
+    },
+    "73": {
+      "topic": "So sánh hai đồ vật",
+      "v": [
+        [
+          "small",
+          "nhỏ"
+        ],
+        [
+          "big",
+          "to"
+        ],
+        [
+          "short",
+          "thấp"
+        ],
+        [
+          "tall",
+          "cao"
+        ],
+        [
+          "light",
+          "nhẹ"
+        ],
+        [
+          "heavy",
+          "nặng"
+        ],
+        [
+          "slow",
+          "chậm"
+        ],
+        [
+          "fast",
+          "nhanh"
+        ],
+        [
+          "young",
+          "trẻ"
+        ],
+        [
+          "old",
+          "già"
+        ],
+        [
+          "strong",
+          "khỏe"
+        ],
+        [
+          "weak",
+          "yếu"
+        ]
+      ],
+      "s": [
+        [
+          "The car is smaller than the truck.",
+          "Ô tô nhỏ hơn xe tải."
+        ],
+        [
+          "The truck is bigger than the car.",
+          "Xe tải to hơn ô tô."
+        ],
+        [
+          "Which one is bigger, the car or the truck?",
+          "Cái nào to hơn, ô tô hay xe tải?"
+        ]
+      ],
+      "qa": [
+        [
+          "Which one is bigger, the car or the truck?",
+          "The truck is bigger than the car."
+        ]
+      ]
+    },
+    "74": {
+      "topic": "Đọc: vận động viên trượt tuyết Jim",
+      "v": [
+        [
+          "skier",
+          "vận động viên trượt tuyết"
+        ],
+        [
+          "skiing",
+          "trượt tuyết"
+        ],
+        [
+          "jumping",
+          "nhảy"
+        ]
+      ],
+      "s": [
+        [
+          "Jim is a skier.",
+          "Jim là vận động viên trượt tuyết."
+        ],
+        [
+          "He likes skiing and jumping.",
+          "Cậu ấy thích trượt tuyết và nhảy."
+        ],
+        [
+          "He was short and weak.",
+          "Trước đây cậu ấy thấp và yếu."
+        ],
+        [
+          "Now he is tall and strong.",
+          "Bây giờ cậu ấy cao và khỏe."
+        ]
+      ],
+      "qa": [
+        [
+          "What does Jim like to do?",
+          "He likes skiing and jumping."
+        ],
+        [
+          "Is he weak?",
+          "No. He is strong now."
+        ],
+        [
+          "Is Jim going to be in the Winter Games?",
+          "Yes, he is."
+        ]
+      ]
+    },
+    "75": {
+      "topic": "Review 7–8",
+      "v": [
+        [
+          "a photographer",
+          "một nhiếp ảnh gia"
+        ],
+        [
+          "a fisherman",
+          "một ngư dân"
+        ],
+        [
+          "strong",
+          "khỏe"
+        ],
+        [
+          "fast",
+          "nhanh"
+        ]
+      ],
+      "s": [
+        [
+          "What's his job?",
+          "Nghề của anh ấy là gì?"
+        ],
+        [
+          "What does a fisherman do?",
+          "Ngư dân làm gì?"
+        ],
+        [
+          "Who is faster?",
+          "Ai nhanh hơn?"
+        ]
+      ],
+      "qa": [],
+      "note": "Ôn qua hình Unit 7–8; không suy đoán đáp án nghe gốc."
+    },
+    "76": {
+      "topic": "Read: Melissa",
+      "v": [
+        [
+          "tour guide",
+          "hướng dẫn viên du lịch"
+        ],
+        [
+          "tourists",
+          "những khách du lịch"
+        ]
+      ],
+      "s": [
+        [
+          "My name is Melissa.",
+          "Tên mình là Melissa."
+        ],
+        [
+          "I live in Canada.",
+          "Mình sống ở Canada."
+        ],
+        [
+          "My mother is a tour guide.",
+          "Mẹ mình là hướng dẫn viên du lịch."
+        ],
+        [
+          "She helps tourists.",
+          "Mẹ mình giúp khách du lịch."
+        ],
+        [
+          "Sometimes I help my mother.",
+          "Thỉnh thoảng mình giúp mẹ."
+        ],
+        [
+          "I like to help tourists, too.",
+          "Mình cũng thích giúp khách du lịch."
+        ]
+      ],
+      "qa": [
+        [
+          "Where does Melissa live?",
+          "She lives in Canada."
+        ],
+        [
+          "What does her mother do?",
+          "She is a tour guide."
+        ]
+      ]
+    }
+  }
+}

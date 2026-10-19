@@ -1,0 +1,24 @@
+{
+  "job": "batch-06",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-06\\generated.png",
+  "tracks": [
+    {
+      "id": "CD1_47",
+      "image": "Review 1-2 - Audio Pages/regenerated/CD1_47.webp",
+      "bytes": 38146,
+      "sha256": "5286f1f275f0d833cc84feb31f10ab90e69b1e5973e404e31b843cb03833e639"
+    },
+    {
+      "id": "CD1_48",
+      "image": "Review 1-2 - Audio Pages/regenerated/CD1_48.webp",
+      "bytes": 18244,
+      "sha256": "c870050585ff91cb495611666a880f4292453a71411b3061bbfb9c07839344c9"
+    },
+    {
+      "id": "CD1_49",
+      "image": "Review 1-2 - Audio Pages/regenerated/CD1_49.webp",
+      "bytes": 31916,
+      "sha256": "9ba6c853ef2433fe71ae161260f398dcfab6754b817b9cb0cf8f347e387b0d57"
+    }
+  ]
+}

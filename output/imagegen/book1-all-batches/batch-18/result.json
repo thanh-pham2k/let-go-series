@@ -1,0 +1,54 @@
+{
+  "job": "batch-18",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-18\\generated.png",
+  "tracks": [
+    {
+      "id": "CD2_33",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_33.webp",
+      "bytes": 10458,
+      "sha256": "577364924ad0ce1176e2725686c42adbd43b6421e593ad4cc70c0bec53f437bc"
+    },
+    {
+      "id": "CD2_34",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_34.webp",
+      "bytes": 62262,
+      "sha256": "d2af2b89da9c158ef9c54691fae7a76d0e8f1be690ba0644a21ff73da36e3899"
+    },
+    {
+      "id": "CD2_35",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_35.webp",
+      "bytes": 10130,
+      "sha256": "dc77b732025a12dea319b27b3672ef0da5e3db1d99ee4e9a6f21d2d45d194e98"
+    },
+    {
+      "id": "CD2_36",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_36.webp",
+      "bytes": 10072,
+      "sha256": "5dfbe83b438d1e6a6abc60ca99773fe435bbeca0f15a146057ee4de0f8e2cd6e"
+    },
+    {
+      "id": "CD2_37",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_37.webp",
+      "bytes": 17886,
+      "sha256": "152a917586cbda2cba03d551c05134e7f7aaa2743e5e1cfa3f5f17ea629e804f"
+    },
+    {
+      "id": "CD2_38",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_38.webp",
+      "bytes": 25768,
+      "sha256": "36f419b3ff12c32698be665b44595eb067bc5cd6619082370a3f64f6bb7b44d7"
+    },
+    {
+      "id": "CD2_39",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_39.webp",
+      "bytes": 8888,
+      "sha256": "78863072c8d5a968d8d87fc7cc6a26d67a4aab0ba069867c53a194b7bbed5a6d"
+    },
+    {
+      "id": "CD2_40",
+      "image": "Unit 6 - Outdoors - Audio Pages/regenerated/CD2_40.webp",
+      "bytes": 9864,
+      "sha256": "19c2e4c0bf5571212750afe78e9a25abef0929b6eb22ddf1e2c1eb63657cdbc4"
+    }
+  ]
+}

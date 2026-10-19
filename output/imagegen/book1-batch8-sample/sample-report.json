@@ -1,0 +1,45 @@
+{
+  "generation_calls": 1,
+  "input_layout": "4x2",
+  "output_size_per_tile": [
+    512,
+    512
+  ],
+  "webp_quality": 85,
+  "files": [
+    {
+      "file": "CD1_02-sample.webp",
+      "bytes": 42908
+    },
+    {
+      "file": "CD1_03-sample.webp",
+      "bytes": 9770
+    },
+    {
+      "file": "CD1_04-sample.webp",
+      "bytes": 37964
+    },
+    {
+      "file": "CD1_05-sample.webp",
+      "bytes": 26262
+    },
+    {
+      "file": "CD1_06-sample.webp",
+      "bytes": 8156
+    },
+    {
+      "file": "CD1_07-sample.webp",
+      "bytes": 8176
+    },
+    {
+      "file": "CD1_08-sample.webp",
+      "bytes": 24038
+    },
+    {
+      "file": "CD1_09-sample.webp",
+      "bytes": 11764
+    }
+  ],
+  "total_bytes": 169038,
+  "review": "Sample only. AI omitted action label 2. sit down, corrupted label 4 and some track badges. Not approved for replacing source assets."
+}

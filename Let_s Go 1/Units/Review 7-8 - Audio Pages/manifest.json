@@ -1,0 +1,251 @@
+{
+  "section": "Review 7-8",
+  "source_pdf_pages": [
+    73,
+    74
+  ],
+  "page_count": 2,
+  "track_count": 4,
+  "audio_available": 4,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 2,
+      "track": 96,
+      "source_pdf_page": 73,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.59
+      ],
+      "activity": "A. Listen and circle: Units 7–8",
+      "kind": "review",
+      "region_id": "PDF-073-0.0850-0.5900",
+      "id": "CD2_96",
+      "section": "Review 7-8",
+      "printed_page": 72,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 7-8.pdf",
+      "image": "regenerated/CD2_96.webp",
+      "page_image": "pages/PDF-073.png",
+      "audio": "audio/CD2_96.mp3",
+      "expected_audio": "audio/CD2_96.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/96 - (CD2) - (3 ED-LAST 5 TRACKS).mp3",
+      "audio_sha256": "dd3b96dff078d0122f20c4a04fd7c80e146ae7697df1ec0e047a2a88ac00165f",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        994
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 53.973333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_96.png",
+      "image_bytes": 33000,
+      "image_sha256": "c0c01feb010e51b6c488585109a6948a8b2f091984ad8101e35560b308a288d8",
+      "generation_batch": "batch-27",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_96.webp",
+      "related_track_ids": [
+        "CD2_96"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 97,
+      "source_pdf_page": 73,
+      "crop_normalized": [
+        0,
+        0.59,
+        1,
+        0.925
+      ],
+      "activity": "B. Listen and number: animals",
+      "kind": "review",
+      "region_id": "PDF-073-0.5900-0.9250",
+      "id": "CD2_97",
+      "section": "Review 7-8",
+      "printed_page": 72,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 7-8.pdf",
+      "image": "regenerated/CD2_97.webp",
+      "page_image": "pages/PDF-073.png",
+      "audio": "audio/CD2_97.mp3",
+      "expected_audio": "audio/CD2_97.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/97 - (CD2) - (3 ED-LAST 5 TRACKS).mp3",
+      "audio_sha256": "3bf0ff8455220c6fec1e188f5fb7ab52347c3f3960868a3a778d9a17e2e58b59",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        994,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 37.68,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_97.png",
+      "image_bytes": 25500,
+      "image_sha256": "1e6bd5a7677e0da6b3d9bf1ef5401fe59aa85c5830afde15d8c5f460957641c7",
+      "generation_batch": "batch-27",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_97.webp",
+      "related_track_ids": [
+        "CD2_97"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 98,
+      "source_pdf_page": 74,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.635
+      ],
+      "activity": "A. Feelings: Are you happy?",
+      "kind": "question+words",
+      "region_id": "PDF-074-0.0850-0.6350",
+      "id": "CD2_98",
+      "section": "Review 7-8",
+      "printed_page": 73,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 7-8.pdf",
+      "image": "regenerated/CD2_98.webp",
+      "page_image": "pages/PDF-074.png",
+      "audio": "audio/CD2_98.mp3",
+      "expected_audio": "audio/CD2_98.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/98 - (CD2) - (3 ED-LAST 5 TRACKS).mp3",
+      "audio_sha256": "20815f79e2625132255ea0662c36a3fc37a35526c92cd9aa6ad9c313834d6c9b",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        1069
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.6,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_98.png",
+      "image_bytes": 35570,
+      "image_sha256": "8f9841262968f8d37b9ca4419ac68114cae8e017e9b7240f85b57b2b37ba442b",
+      "generation_batch": "batch-27",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_98.webp",
+      "related_track_ids": [
+        "CD2_98"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 99,
+      "source_pdf_page": 74,
+      "crop_normalized": [
+        0,
+        0.635,
+        1,
+        0.925
+      ],
+      "activity": "B. Hungry, thirsty, hot, cold",
+      "kind": "words",
+      "region_id": "PDF-074-0.6350-0.9250",
+      "id": "CD2_99",
+      "section": "Review 7-8",
+      "printed_page": 73,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 7-8.pdf",
+      "image": "regenerated/CD2_99.webp",
+      "page_image": "pages/PDF-074.png",
+      "audio": "audio/CD2_99.mp3",
+      "expected_audio": "audio/CD2_99.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/99 - (CD2) - (3 ED-LAST 5 TRACKS).mp3",
+      "audio_sha256": "8b36dd06a8dbe36023ee6ab8cfebc2a9bbb960582e319616c1a40d4366a0b987",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1069,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 48.653333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_99.png",
+      "image_bytes": 17126,
+      "image_sha256": "3f9cea8e5c0e0373701f4cda77a300327c600445f8692a19bc8db2d347f46139",
+      "generation_batch": "batch-27",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_99.webp",
+      "related_track_ids": [
+        "CD2_99"
+      ]
+    }
+  ],
+  "image_variant": "combined-activity-webp",
+  "activity_groups": []
+}

@@ -1,0 +1,1428 @@
+{
+  "section": "Unit 7 - Food",
+  "source_pdf_pages": [
+    57,
+    64
+  ],
+  "page_count": 8,
+  "track_count": 23,
+  "audio_available": 23,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 2,
+      "track": 51,
+      "source_pdf_page": 57,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.7
+      ],
+      "activity": "A. Let's talk: Food",
+      "kind": "dialogue",
+      "region_id": "PDF-057-0.1350-0.7000",
+      "id": "CD2_51",
+      "section": "Unit 7 - Food",
+      "printed_page": 56,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_51-52.webp",
+      "page_image": "pages/PDF-057.png",
+      "audio": "audio/CD2_51.mp3",
+      "expected_audio": "audio/CD2_51.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/51 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "bc45893edbb2dcc992a867fee362eaf3e9b140aea3f35eed25dfb3e64e59aaea",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1179
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 26.066667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_51.png",
+      "image_bytes": 73228,
+      "image_sha256": "31864d775c47c06c7c99864042c2560f117e13aa15f8ab281796dc9548fd2174",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_51.webp",
+      "related_track_ids": [
+        "CD2_51",
+        "CD2_52"
+      ],
+      "activity_group": "CD2_51-52"
+    },
+    {
+      "disc": 2,
+      "track": 52,
+      "source_pdf_page": 57,
+      "crop_normalized": [
+        0,
+        0.7,
+        1,
+        0.925
+      ],
+      "activity": "Here you are. Thank you. You’re welcome",
+      "kind": "sentence",
+      "region_id": "PDF-057-0.7000-0.9250",
+      "id": "CD2_52",
+      "section": "Unit 7 - Food",
+      "printed_page": 56,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_51-52.webp",
+      "page_image": "pages/PDF-057.png",
+      "audio": "audio/CD2_52.mp3",
+      "expected_audio": "audio/CD2_52.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/52 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "06dee1b1e73f60b88364eb94766eea6de3075cb64956af00fa3f4abf8fae0cc8",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1179,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 14.773333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_52.png",
+      "image_bytes": 73228,
+      "image_sha256": "31864d775c47c06c7c99864042c2560f117e13aa15f8ab281796dc9548fd2174",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_52.webp",
+      "related_track_ids": [
+        "CD2_51",
+        "CD2_52"
+      ],
+      "activity_group": "CD2_51-52"
+    },
+    {
+      "disc": 2,
+      "track": 53,
+      "source_pdf_page": 58,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.42
+      ],
+      "activity": "B. I Want An Apple",
+      "kind": "song",
+      "region_id": "PDF-058-0.0150-0.4200",
+      "id": "CD2_53",
+      "section": "Unit 7 - Food",
+      "printed_page": 57,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "regenerated/CD2_53.webp",
+      "page_image": "pages/PDF-058.png",
+      "audio": "audio/CD2_53.mp3",
+      "expected_audio": "audio/CD2_53.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/53 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "f25b050a57e3b274c6463db9fdb75f3dcaa0f531e82cdea94468ce2f5390504e",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        707
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 44.24,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_53.png",
+      "image_bytes": 34678,
+      "image_sha256": "538dcd469897620c8569b0a8a7302d096028340505853859782d0c91e3a78ae3",
+      "generation_batch": "batch-21",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_53.webp",
+      "related_track_ids": [
+        "CD2_53"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 54,
+      "source_pdf_page": 58,
+      "crop_normalized": [
+        0,
+        0.42,
+        1,
+        0.75
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-058-0.4200-0.7500",
+      "id": "CD2_54",
+      "section": "Unit 7 - Food",
+      "printed_page": 57,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_54-56.webp",
+      "page_image": "pages/PDF-058.png",
+      "audio": "audio/CD2_54.mp3",
+      "expected_audio": "audio/CD2_54.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/54 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "3f02bd9773e149afc2426065dba2b6fd70ea29633d10fe13a2e9ea6528fde91f",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        707,
+        1224,
+        1263
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 26.56,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_54.png",
+      "image_bytes": 45528,
+      "image_sha256": "0dba318db89c6a4d0a12c9b798c3d07ed82cb9b3e64769bf11e95d5428148642",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_54.webp",
+      "related_track_ids": [
+        "CD2_54",
+        "CD2_55",
+        "CD2_56"
+      ],
+      "activity_group": "CD2_54-56"
+    },
+    {
+      "disc": 2,
+      "track": 55,
+      "source_pdf_page": 58,
+      "crop_normalized": [
+        0,
+        0.75,
+        1,
+        0.925
+      ],
+      "activity": "I wash my hands every day",
+      "kind": "sentence+actions",
+      "region_id": "PDF-058-0.7500-0.9250",
+      "id": "CD2_55",
+      "section": "Unit 7 - Food",
+      "printed_page": 57,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_54-56.webp",
+      "page_image": "pages/PDF-058.png",
+      "audio": "audio/CD2_55.mp3",
+      "expected_audio": "audio/CD2_55.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/55 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "07d6b8cd827d3476d41b145b30c2b9c9f1a53c5c384c3ed3bb1af106a4038c35",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1263,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 22.64,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_55.png",
+      "image_bytes": 45528,
+      "image_sha256": "0dba318db89c6a4d0a12c9b798c3d07ed82cb9b3e64769bf11e95d5428148642",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_55.webp",
+      "related_track_ids": [
+        "CD2_54",
+        "CD2_55",
+        "CD2_56"
+      ],
+      "activity_group": "CD2_54-56"
+    },
+    {
+      "disc": 2,
+      "track": 56,
+      "source_pdf_page": 58,
+      "crop_normalized": [
+        0,
+        0.75,
+        1,
+        0.925
+      ],
+      "activity": "I wash my hands every day",
+      "kind": "sentence+actions",
+      "region_id": "PDF-058-0.7500-0.9250",
+      "id": "CD2_56",
+      "section": "Unit 7 - Food",
+      "printed_page": 57,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_54-56.webp",
+      "page_image": "pages/PDF-058.png",
+      "audio": "audio/CD2_56.mp3",
+      "expected_audio": "audio/CD2_56.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/56 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "cda484c2e1aacab6cffac82ea163a2401ed99abcabb12189dd594cc86e3cac6d",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1263,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 20.106667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_56.png",
+      "image_bytes": 45528,
+      "image_sha256": "0dba318db89c6a4d0a12c9b798c3d07ed82cb9b3e64769bf11e95d5428148642",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_56.webp",
+      "related_track_ids": [
+        "CD2_54",
+        "CD2_55",
+        "CD2_56"
+      ],
+      "activity_group": "CD2_54-56"
+    },
+    {
+      "disc": 2,
+      "track": 57,
+      "source_pdf_page": 59,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.68
+      ],
+      "activity": "A. Food and drinks",
+      "kind": "words",
+      "region_id": "PDF-059-0.1350-0.6800",
+      "id": "CD2_57",
+      "section": "Unit 7 - Food",
+      "printed_page": 58,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_57-59.webp",
+      "page_image": "pages/PDF-059.png",
+      "audio": "audio/CD2_57.mp3",
+      "expected_audio": "audio/CD2_57.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/57 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "3d5b8eaef37371cdb716861b6db1f33f1694d27816dbc8e6a90aa85429ecc9d5",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1145
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.72,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_57.png",
+      "image_bytes": 64608,
+      "image_sha256": "48c89f2920665e5f212f6654b48dc1a6943ca14d99b509aa3550207728cbe20b",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_57.webp",
+      "related_track_ids": [
+        "CD2_57",
+        "CD2_58",
+        "CD2_59"
+      ],
+      "activity_group": "CD2_57-59"
+    },
+    {
+      "disc": 2,
+      "track": 58,
+      "source_pdf_page": 59,
+      "crop_normalized": [
+        0,
+        0.68,
+        1,
+        0.925
+      ],
+      "activity": "B. I want a banana / an orange",
+      "kind": "sentence+words",
+      "region_id": "PDF-059-0.6800-0.9250",
+      "id": "CD2_58",
+      "section": "Unit 7 - Food",
+      "printed_page": 58,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_57-59.webp",
+      "page_image": "pages/PDF-059.png",
+      "audio": "audio/CD2_58.mp3",
+      "expected_audio": "audio/CD2_58.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/58 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "c6bad3bff0ed425898821ed49db8699b79cab4e6ede09e1ae98391a103c2d167",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1145,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 39.573333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_58.png",
+      "image_bytes": 64608,
+      "image_sha256": "48c89f2920665e5f212f6654b48dc1a6943ca14d99b509aa3550207728cbe20b",
+      "generation_batch": "batch-21",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_58.webp",
+      "related_track_ids": [
+        "CD2_57",
+        "CD2_58",
+        "CD2_59"
+      ],
+      "activity_group": "CD2_57-59"
+    },
+    {
+      "disc": 2,
+      "track": 59,
+      "source_pdf_page": 59,
+      "crop_normalized": [
+        0,
+        0.68,
+        1,
+        0.925
+      ],
+      "activity": "B. I want a banana / an orange",
+      "kind": "sentence+words",
+      "region_id": "PDF-059-0.6800-0.9250",
+      "id": "CD2_59",
+      "section": "Unit 7 - Food",
+      "printed_page": 58,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_57-59.webp",
+      "page_image": "pages/PDF-059.png",
+      "audio": "audio/CD2_59.mp3",
+      "expected_audio": "audio/CD2_59.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/59 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "a2b3d0a30aacde514e831aea3f4cd8c7e3dc2c91e96b93db0620ebd99a4c9873",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1145,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 25.96,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_59.png",
+      "image_bytes": 64608,
+      "image_sha256": "48c89f2920665e5f212f6654b48dc1a6943ca14d99b509aa3550207728cbe20b",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_59.webp",
+      "related_track_ids": [
+        "CD2_57",
+        "CD2_58",
+        "CD2_59"
+      ],
+      "activity_group": "CD2_57-59"
+    },
+    {
+      "disc": 2,
+      "track": 60,
+      "source_pdf_page": 60,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.4
+      ],
+      "activity": "C. What do you want?",
+      "kind": "question+picture",
+      "region_id": "PDF-060-0.0150-0.4000",
+      "id": "CD2_60",
+      "section": "Unit 7 - Food",
+      "printed_page": 59,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_60-62.webp",
+      "page_image": "pages/PDF-060.png",
+      "audio": "audio/CD2_60.mp3",
+      "expected_audio": "audio/CD2_60.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/60 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "d505dd6b6d0b75dbc2431d29ca661fac1abba615c4f82d772ebe218f08082d6f",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        674
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 73.026667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_60.png",
+      "image_bytes": 86382,
+      "image_sha256": "54ac58220b964cbe605185b2fa411249b8e71828186e905d51ac4b074bc9169d",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_60.webp",
+      "related_track_ids": [
+        "CD2_60",
+        "CD2_61",
+        "CD2_62"
+      ],
+      "activity_group": "CD2_60-62"
+    },
+    {
+      "disc": 2,
+      "track": 61,
+      "source_pdf_page": 60,
+      "crop_normalized": [
+        0,
+        0.4,
+        1,
+        0.525
+      ],
+      "activity": "What do you want? I want a sandwich",
+      "kind": "question+model",
+      "region_id": "PDF-060-0.4000-0.5250",
+      "id": "CD2_61",
+      "section": "Unit 7 - Food",
+      "printed_page": 59,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_60-62.webp",
+      "page_image": "pages/PDF-060.png",
+      "audio": "audio/CD2_61.mp3",
+      "expected_audio": "audio/CD2_61.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/61 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "90e83c0f3ef722f6ff4b37238fe14deac6a2402d160b7dc82f71a0b7aecd041b",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        674,
+        1224,
+        884
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.826667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_61.png",
+      "image_bytes": 86382,
+      "image_sha256": "54ac58220b964cbe605185b2fa411249b8e71828186e905d51ac4b074bc9169d",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_61.webp",
+      "related_track_ids": [
+        "CD2_60",
+        "CD2_61",
+        "CD2_62"
+      ],
+      "activity_group": "CD2_60-62"
+    },
+    {
+      "disc": 2,
+      "track": 62,
+      "source_pdf_page": 60,
+      "crop_normalized": [
+        0,
+        0.4,
+        1,
+        0.525
+      ],
+      "activity": "What do you want? I want a sandwich",
+      "kind": "question+model",
+      "region_id": "PDF-060-0.4000-0.5250",
+      "id": "CD2_62",
+      "section": "Unit 7 - Food",
+      "printed_page": 59,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_60-62.webp",
+      "page_image": "pages/PDF-060.png",
+      "audio": "audio/CD2_62.mp3",
+      "expected_audio": "audio/CD2_62.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/62 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "b7c7ff5c600971ecd4793a40249fe66c87999e34420b5e4d85581c641cfac786",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        674,
+        1224,
+        884
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 42.186667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_62.png",
+      "image_bytes": 86382,
+      "image_sha256": "54ac58220b964cbe605185b2fa411249b8e71828186e905d51ac4b074bc9169d",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_62.webp",
+      "related_track_ids": [
+        "CD2_60",
+        "CD2_61",
+        "CD2_62"
+      ],
+      "activity_group": "CD2_60-62"
+    },
+    {
+      "disc": 2,
+      "track": 63,
+      "source_pdf_page": 60,
+      "crop_normalized": [
+        0,
+        0.525,
+        1,
+        0.925
+      ],
+      "activity": "D. What Do You Want?",
+      "kind": "song",
+      "region_id": "PDF-060-0.5250-0.9250",
+      "id": "CD2_63",
+      "section": "Unit 7 - Food",
+      "printed_page": 59,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "regenerated/CD2_63.webp",
+      "page_image": "pages/PDF-060.png",
+      "audio": "audio/CD2_63.mp3",
+      "expected_audio": "audio/CD2_63.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/63 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "d07fa64f334048f9ae26a49d9edeea99b12ef4d18ceceb85e52bc048eb514044",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        884,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 51.76,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_63.png",
+      "image_bytes": 34840,
+      "image_sha256": "82c3a49ae223122bc0155fcb75663385869811878017160fcbee8d5e561ea2b3",
+      "generation_batch": "batch-22",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_63.webp",
+      "related_track_ids": [
+        "CD2_63"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 64,
+      "source_pdf_page": 61,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.705
+      ],
+      "activity": "A. More food",
+      "kind": "words",
+      "region_id": "PDF-061-0.1350-0.7050",
+      "id": "CD2_64",
+      "section": "Unit 7 - Food",
+      "printed_page": 60,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_64-66.webp",
+      "page_image": "pages/PDF-061.png",
+      "audio": "audio/CD2_64.mp3",
+      "expected_audio": "audio/CD2_64.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/64 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "7c23356692ea72b4e6e3381aabe30872db99b8ce343571a5c6920522c6e6dfad",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1187
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 45.773333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_64.png",
+      "image_bytes": 83392,
+      "image_sha256": "d029a33200b30b68be2920f7e64e68ab99f6f407c601ca0037b0e8907ff7a831",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_64.webp",
+      "related_track_ids": [
+        "CD2_64",
+        "CD2_65",
+        "CD2_66"
+      ],
+      "activity_group": "CD2_64-66"
+    },
+    {
+      "disc": 2,
+      "track": 65,
+      "source_pdf_page": 61,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. I want chicken / I don’t want fish",
+      "kind": "sentence+words",
+      "region_id": "PDF-061-0.7050-0.9250",
+      "id": "CD2_65",
+      "section": "Unit 7 - Food",
+      "printed_page": 60,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_64-66.webp",
+      "page_image": "pages/PDF-061.png",
+      "audio": "audio/CD2_65.mp3",
+      "expected_audio": "audio/CD2_65.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/65 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "21680e2295eb32836060ff68b9c75c2e1eb49dd805ac846a265066c81a89dd1d",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 64.826667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_65.png",
+      "image_bytes": 83392,
+      "image_sha256": "d029a33200b30b68be2920f7e64e68ab99f6f407c601ca0037b0e8907ff7a831",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_65.webp",
+      "related_track_ids": [
+        "CD2_64",
+        "CD2_65",
+        "CD2_66"
+      ],
+      "activity_group": "CD2_64-66"
+    },
+    {
+      "disc": 2,
+      "track": 66,
+      "source_pdf_page": 61,
+      "crop_normalized": [
+        0,
+        0.705,
+        1,
+        0.925
+      ],
+      "activity": "B. I want chicken / I don’t want fish",
+      "kind": "sentence+words",
+      "region_id": "PDF-061-0.7050-0.9250",
+      "id": "CD2_66",
+      "section": "Unit 7 - Food",
+      "printed_page": 60,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_64-66.webp",
+      "page_image": "pages/PDF-061.png",
+      "audio": "audio/CD2_66.mp3",
+      "expected_audio": "audio/CD2_66.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/66 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "506e856360287eff29e5cc3788cfc91c54db9b50f90ef9abd1e8b1dd97ef27e0",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1187,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 42.786667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_66.png",
+      "image_bytes": 83392,
+      "image_sha256": "d029a33200b30b68be2920f7e64e68ab99f6f407c601ca0037b0e8907ff7a831",
+      "generation_batch": "batch-22",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_66.webp",
+      "related_track_ids": [
+        "CD2_64",
+        "CD2_65",
+        "CD2_66"
+      ],
+      "activity_group": "CD2_64-66"
+    },
+    {
+      "disc": 2,
+      "track": 67,
+      "source_pdf_page": 62,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.465
+      ],
+      "activity": "C. Do you want bread?",
+      "kind": "question+picture",
+      "region_id": "PDF-062-0.0150-0.4650",
+      "id": "CD2_67",
+      "section": "Unit 7 - Food",
+      "printed_page": 61,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_67-69.webp",
+      "page_image": "pages/PDF-062.png",
+      "audio": "audio/CD2_67.mp3",
+      "expected_audio": "audio/CD2_67.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/67 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "279f8aed8ee905abe556318dbcfe8b64102ea336cddd4a2609eac02f969241a0",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        783
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 82.92,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_67.png",
+      "image_bytes": 86080,
+      "image_sha256": "4af208622a533be89aff953786d8fd1e2c7e68f55fb3a5f9c2e3a2b8faac2c9d",
+      "generation_batch": "batch-23",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_67.webp",
+      "related_track_ids": [
+        "CD2_67",
+        "CD2_68",
+        "CD2_69"
+      ],
+      "activity_group": "CD2_67-69"
+    },
+    {
+      "disc": 2,
+      "track": 68,
+      "source_pdf_page": 62,
+      "crop_normalized": [
+        0,
+        0.465,
+        1,
+        0.58
+      ],
+      "activity": "Do you want cake / rice?",
+      "kind": "question+model",
+      "region_id": "PDF-062-0.4650-0.5800",
+      "id": "CD2_68",
+      "section": "Unit 7 - Food",
+      "printed_page": 61,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_67-69.webp",
+      "page_image": "pages/PDF-062.png",
+      "audio": "audio/CD2_68.mp3",
+      "expected_audio": "audio/CD2_68.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/68 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "b5fa221ba479f34c7e64ed4cea0e1661652269e22d740591da3ac37a5e65bc89",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        783,
+        1224,
+        977
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 56.84,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_68.png",
+      "image_bytes": 86080,
+      "image_sha256": "4af208622a533be89aff953786d8fd1e2c7e68f55fb3a5f9c2e3a2b8faac2c9d",
+      "generation_batch": "batch-23",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_68.webp",
+      "related_track_ids": [
+        "CD2_67",
+        "CD2_68",
+        "CD2_69"
+      ],
+      "activity_group": "CD2_67-69"
+    },
+    {
+      "disc": 2,
+      "track": 69,
+      "source_pdf_page": 62,
+      "crop_normalized": [
+        0,
+        0.465,
+        1,
+        0.58
+      ],
+      "activity": "Do you want cake / rice?",
+      "kind": "question+model",
+      "region_id": "PDF-062-0.4650-0.5800",
+      "id": "CD2_69",
+      "section": "Unit 7 - Food",
+      "printed_page": 61,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "combined/CD2_67-69.webp",
+      "page_image": "pages/PDF-062.png",
+      "audio": "audio/CD2_69.mp3",
+      "expected_audio": "audio/CD2_69.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/69 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "38624c2774a94a9317815845ad7cc4b3a575c966ea674048333d715bbe7f74a8",
+      "image_size": [
+        768,
+        1024
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        783,
+        1224,
+        977
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 44.546667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_69.png",
+      "image_bytes": 86080,
+      "image_sha256": "4af208622a533be89aff953786d8fd1e2c7e68f55fb3a5f9c2e3a2b8faac2c9d",
+      "generation_batch": "batch-23",
+      "image_method": "Deterministic composition of existing batch-regenerated artwork; no new AI generation",
+      "single_image": "regenerated-single/CD2_69.webp",
+      "related_track_ids": [
+        "CD2_67",
+        "CD2_68",
+        "CD2_69"
+      ],
+      "activity_group": "CD2_67-69"
+    },
+    {
+      "disc": 2,
+      "track": 70,
+      "source_pdf_page": 62,
+      "crop_normalized": [
+        0,
+        0.585,
+        1,
+        0.925
+      ],
+      "activity": "D. Ask your partner: food",
+      "kind": "practice",
+      "region_id": "PDF-062-0.5850-0.9250",
+      "id": "CD2_70",
+      "section": "Unit 7 - Food",
+      "printed_page": 61,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "regenerated/CD2_70.webp",
+      "page_image": "pages/PDF-062.png",
+      "audio": "audio/CD2_70.mp3",
+      "expected_audio": "audio/CD2_70.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/70 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "a33a19b164a965ce76079b787fc33a6215a8af9755d66f499d19ac7c0238f407",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        985,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 14.426667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_70.png",
+      "image_bytes": 16472,
+      "image_sha256": "cd075d19c108c865d79151cd7209b0a09e8053142605f6fcab974d539d61b4bf",
+      "generation_batch": "batch-23",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_70.webp",
+      "related_track_ids": [
+        "CD2_70"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 71,
+      "source_pdf_page": 63,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.384
+      ],
+      "activity": "A. Alphabet R–U",
+      "kind": "alphabet",
+      "region_id": "PDF-063-0.1350-0.3840",
+      "id": "CD2_71",
+      "section": "Unit 7 - Food",
+      "printed_page": 62,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "regenerated/CD2_71.webp",
+      "page_image": "pages/PDF-063.png",
+      "audio": "audio/CD2_71.mp3",
+      "expected_audio": "audio/CD2_71.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/71 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "62569ca079f88999e3edb5aeb8df68d216b570104ac203da6c3d16286f32e5cd",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        647
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 47.12,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_71.png",
+      "image_bytes": 23624,
+      "image_sha256": "f83ea02de8fd42904449549670f110e9e98e2ed66ffcb408a60c3286af3ae6a6",
+      "generation_batch": "batch-23",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_71.webp",
+      "related_track_ids": [
+        "CD2_71"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 72,
+      "source_pdf_page": 63,
+      "crop_normalized": [
+        0,
+        0.384,
+        1,
+        0.925
+      ],
+      "activity": "B. Listen and circle: I want",
+      "kind": "listening",
+      "region_id": "PDF-063-0.3840-0.9250",
+      "id": "CD2_72",
+      "section": "Unit 7 - Food",
+      "printed_page": 62,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "regenerated/CD2_72.webp",
+      "page_image": "pages/PDF-063.png",
+      "audio": "audio/CD2_72.mp3",
+      "expected_audio": "audio/CD2_72.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/72 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "46b1f4e5c976b9e2feb0baf98963cce861e80a748912f1cf412f2bef302e5949",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        647,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 38.653333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_72.png",
+      "image_bytes": 27392,
+      "image_sha256": "33551fb94d933b8c32dbe4da3412453e9485ecc3cc45e0238487e876260331e9",
+      "generation_batch": "batch-23",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_72.webp",
+      "related_track_ids": [
+        "CD2_72"
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 73,
+      "source_pdf_page": 64,
+      "crop_normalized": [
+        0,
+        0.37,
+        1,
+        0.925
+      ],
+      "activity": "D. Do you want a yellow bicycle?",
+      "kind": "practice",
+      "region_id": "PDF-064-0.3700-0.9250",
+      "id": "CD2_73",
+      "section": "Unit 7 - Food",
+      "printed_page": 63,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 7 - Food.pdf",
+      "image": "regenerated/CD2_73.webp",
+      "page_image": "pages/PDF-064.png",
+      "audio": "audio/CD2_73.mp3",
+      "expected_audio": "audio/CD2_73.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/73 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "9f9a45f00c4d12c589a1eb50003e455dd6e73d993e2b92a0d137b663e1d3171e",
+      "image_size": [
+        512,
+        512
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        623,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 16.426667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ],
+      "source_crop_image": "tracks/CD2_73.png",
+      "image_bytes": 39778,
+      "image_sha256": "ba00b36be23566447d8e02a21aa41e6844847cf1f9aef0684836bf0f0d26ba57",
+      "generation_batch": "batch-23",
+      "image_method": "AI-regenerated contact sheet, one image generation per 4x2 sheet, then crop and WebP quality 85",
+      "single_image": "regenerated/CD2_73.webp",
+      "related_track_ids": [
+        "CD2_73"
+      ]
+    }
+  ],
+  "image_variant": "combined-activity-webp",
+  "activity_groups": [
+    "CD2_51-52",
+    "CD2_54-56",
+    "CD2_57-59",
+    "CD2_60-62",
+    "CD2_64-66",
+    "CD2_67-69"
+  ]
+}

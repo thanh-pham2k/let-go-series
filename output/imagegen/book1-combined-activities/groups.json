@@ -1,0 +1,2769 @@
+{
+  "groups": [
+    {
+      "id": "CD1_02-03",
+      "section": "Unit 1 - Things for School",
+      "source_pdf_page": 3,
+      "track_ids": [
+        "CD1_02",
+        "CD1_03"
+      ],
+      "image": "Unit 1 - Things for School - Audio Pages/combined/CD1_02-03.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 81930,
+      "image_sha256": "f8a8ade726329e7af78689a1a9c3effd61dfa280658fe460edd92f84c305701a",
+      "panels": [
+        {
+          "source_track": "CD1_02",
+          "box": [
+            24,
+            57,
+            744,
+            764
+          ]
+        },
+        {
+          "source_track": "CD1_03",
+          "box": [
+            24,
+            784,
+            744,
+            967
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_02",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_02.webp",
+          "sha256": "53a56fb2b9aa04850b3cc5f0f932a4172b47fea093a7fc8755bcc7f78ac35f6f"
+        },
+        {
+          "track": "CD1_03",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_03.webp",
+          "sha256": "88ecc7b40d3b975e1cf9690b3797653429cc2559b32627c965204dc73b4fdf17"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_05-07",
+      "section": "Unit 1 - Things for School",
+      "source_pdf_page": 4,
+      "track_ids": [
+        "CD1_05",
+        "CD1_06",
+        "CD1_07"
+      ],
+      "image": "Unit 1 - Things for School - Audio Pages/combined/CD1_05-07.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 52958,
+      "image_sha256": "836f22966466db5fcb7f833d34b4d59c622e9305bd76f52f39c8dd933055e2e6",
+      "panels": [
+        {
+          "source_track": "CD1_05",
+          "box": [
+            24,
+            93,
+            744,
+            709
+          ]
+        },
+        {
+          "source_track": "CD1_06",
+          "box": [
+            24,
+            729,
+            744,
+            931
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_05",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_05.webp",
+          "sha256": "5b9e348e07cc8a7a9e368747c391a463ece36c13cb0d4979a5c64409f4a020ef"
+        },
+        {
+          "track": "CD1_06",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_06.webp",
+          "sha256": "dae8004c74190b2e3c0db82503b19cca4412e626c36b478a23ec85fb74db9701"
+        },
+        {
+          "track": "CD1_07",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_07.webp",
+          "sha256": "31294292a1a8ccda364aac8dbafd9f3e64279efa3451b11e462e90a13d6ce872"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_08-10",
+      "section": "Unit 1 - Things for School",
+      "source_pdf_page": 5,
+      "track_ids": [
+        "CD1_08",
+        "CD1_09",
+        "CD1_10"
+      ],
+      "image": "Unit 1 - Things for School - Audio Pages/combined/CD1_08-10.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 54124,
+      "image_sha256": "be9bf61d2ed47d561ab9d2566ece38fad3599b8632c557ee91d8fc98ddbbc14c",
+      "panels": [
+        {
+          "source_track": "CD1_08",
+          "box": [
+            24,
+            37,
+            744,
+            669
+          ]
+        },
+        {
+          "source_track": "CD1_09",
+          "box": [
+            24,
+            689,
+            744,
+            987
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_08",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_08.webp",
+          "sha256": "9098dcf5d43e0270f76d2f28072b7409aabbef496518207c717e6483dc276d3e"
+        },
+        {
+          "track": "CD1_09",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_09.webp",
+          "sha256": "1df13fbe61fe1449c174619c223c379b1d8eccf8fc875f0d36a378d2acbb8757"
+        },
+        {
+          "track": "CD1_10",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_10.webp",
+          "sha256": "e6523db26644bf212dc15aadd30b65743e264856aa7ef3aaa5133af26f19ebc0"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_11-13",
+      "section": "Unit 1 - Things for School",
+      "source_pdf_page": 6,
+      "track_ids": [
+        "CD1_11",
+        "CD1_12",
+        "CD1_13"
+      ],
+      "image": "Unit 1 - Things for School - Audio Pages/combined/CD1_11-13.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 104864,
+      "image_sha256": "c7dcc44eeea1dbcb95ccf8ee2ddcf0901177e12ae07d33c229c29c73fc61c77a",
+      "panels": [
+        {
+          "source_track": "CD1_11",
+          "box": [
+            31,
+            35,
+            736,
+            795
+          ]
+        },
+        {
+          "source_track": "CD1_12",
+          "box": [
+            24,
+            815,
+            744,
+            988
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_11",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_11.webp",
+          "sha256": "e0eb24e287b6be7ae3b357958d1914120be4ee2dd51af8cf33e8c9b1af1535e5"
+        },
+        {
+          "track": "CD1_12",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_12.webp",
+          "sha256": "3e06e2804d7c5bb6029766951194c310d7642e7b5673a7945dc183fe8fb97467"
+        },
+        {
+          "track": "CD1_13",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_13.webp",
+          "sha256": "8fd0325b6640011405373761ca1547657826d0ad3f4807b1e1148180bf68af24"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_14-16",
+      "section": "Unit 1 - Things for School",
+      "source_pdf_page": 7,
+      "track_ids": [
+        "CD1_14",
+        "CD1_15",
+        "CD1_16"
+      ],
+      "image": "Unit 1 - Things for School - Audio Pages/combined/CD1_14-16.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 65824,
+      "image_sha256": "ced6cce64a5f2e8237dae0a077f6b2c26fe74f297139f353893ead19e7abd2e4",
+      "panels": [
+        {
+          "source_track": "CD1_14",
+          "box": [
+            24,
+            53,
+            744,
+            677
+          ]
+        },
+        {
+          "source_track": "CD1_15",
+          "box": [
+            24,
+            697,
+            744,
+            970
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_14",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_14.webp",
+          "sha256": "d7e22f821a37c4b48f5d3b90562a73cf68c382af5af273993949d5cf68a57499"
+        },
+        {
+          "track": "CD1_15",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_15.webp",
+          "sha256": "676f4f2248d5a909c8b398726e59b7b36f1af64b0d61def1b935d49c5645d6e8"
+        },
+        {
+          "track": "CD1_16",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_16.webp",
+          "sha256": "6e7fc03eb1ee04b0156517f8b7c406a0a75cd56cb5ac18c15eb678877182437f"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_17-19",
+      "section": "Unit 1 - Things for School",
+      "source_pdf_page": 8,
+      "track_ids": [
+        "CD1_17",
+        "CD1_18",
+        "CD1_19"
+      ],
+      "image": "Unit 1 - Things for School - Audio Pages/combined/CD1_17-19.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 80888,
+      "image_sha256": "2cb2237cf4f037cdbaf5696f46645951e348216f75b990c5cece6cc8eefeb873",
+      "panels": [
+        {
+          "source_track": "CD1_17",
+          "box": [
+            24,
+            92,
+            744,
+            690
+          ]
+        },
+        {
+          "source_track": "CD1_18",
+          "box": [
+            24,
+            710,
+            744,
+            932
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_17",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_17.webp",
+          "sha256": "a19bd0d44dd047d40fc79ba8d9c7880d3c41ff9029850a6f36845ea3faefa489"
+        },
+        {
+          "track": "CD1_18",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_18.webp",
+          "sha256": "7529b9687c967f258b514896bbcb6a06fe9bc705d79ba6cd3f25d61409c577eb"
+        },
+        {
+          "track": "CD1_19",
+          "path": "Let_s Go 1/Units/Unit 1 - Things for School - Audio Pages/regenerated-single/CD1_19.webp",
+          "sha256": "62ca4045e131f25d877945c5406f7356629cc1252a81c457d08ef541791bcab8"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_24-25",
+      "section": "Unit 2 - Colors and Shapes",
+      "source_pdf_page": 11,
+      "track_ids": [
+        "CD1_24",
+        "CD1_25"
+      ],
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/combined/CD1_24-25.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 73716,
+      "image_sha256": "878fb59d50831a86967f68550609ba7a55c0b49f33c017bd1a2d7c711cefc378",
+      "panels": [
+        {
+          "source_track": "CD1_24",
+          "box": [
+            24,
+            71,
+            744,
+            752
+          ]
+        },
+        {
+          "source_track": "CD1_25",
+          "box": [
+            24,
+            772,
+            744,
+            952
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_24",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_24.webp",
+          "sha256": "e8d259bccee0e8b5e5456b61bf4a045c6dc7fbc2ec72baeb57b3f766d4b06a9b"
+        },
+        {
+          "track": "CD1_25",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_25.webp",
+          "sha256": "bb6affa7d15f2efaf95a07931beee49f2ca072ed2fbfee144a93c7a3bf242f51"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_27-29",
+      "section": "Unit 2 - Colors and Shapes",
+      "source_pdf_page": 12,
+      "track_ids": [
+        "CD1_27",
+        "CD1_28",
+        "CD1_29"
+      ],
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/combined/CD1_27-29.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 57080,
+      "image_sha256": "8307ae71c4b9ae8c040a3574c7bc5c30ff72325499eb07f3cd229979a885a637",
+      "panels": [
+        {
+          "source_track": "CD1_27",
+          "box": [
+            24,
+            114,
+            744,
+            699
+          ]
+        },
+        {
+          "source_track": "CD1_28",
+          "box": [
+            24,
+            719,
+            744,
+            909
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_27",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_27.webp",
+          "sha256": "df2d0c56e19d7b07086f4ed31bcd732e9b60e09318b5d90144d25070887f2bbc"
+        },
+        {
+          "track": "CD1_28",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_28.webp",
+          "sha256": "5148c1bd5cb44931c27c48a255ab07b8632ca3c3a70fa59f99bba912c7341eea"
+        },
+        {
+          "track": "CD1_29",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_29.webp",
+          "sha256": "dcfbbea4f6dc8393ea5381633091b4c666f548ed633d92e3ff111dd65f790d6d"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_30-32",
+      "section": "Unit 2 - Colors and Shapes",
+      "source_pdf_page": 13,
+      "track_ids": [
+        "CD1_30",
+        "CD1_31",
+        "CD1_32"
+      ],
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/combined/CD1_30-32.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 49088,
+      "image_sha256": "6b6e0dd22bc796b364033d403359ef97785bcab4b701a414f10386bca3419f25",
+      "panels": [
+        {
+          "source_track": "CD1_30",
+          "box": [
+            24,
+            41,
+            744,
+            701
+          ]
+        },
+        {
+          "source_track": "CD1_31",
+          "box": [
+            24,
+            721,
+            744,
+            982
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_30",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_30.webp",
+          "sha256": "6468cb6ffceb3d9df42fcda1a594315dea26e54add3a156221c18f03b44a2e05"
+        },
+        {
+          "track": "CD1_31",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_31.webp",
+          "sha256": "9f038ab5e33fb6205fa38ce6bd60b67ef0eeefe95b1e9626f38009e0590d12d0"
+        },
+        {
+          "track": "CD1_32",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_32.webp",
+          "sha256": "3a89f9781a55b8a1f9356de002ac6aa209c5827db3350c3ee769fc14d92706a4"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_33-35",
+      "section": "Unit 2 - Colors and Shapes",
+      "source_pdf_page": 14,
+      "track_ids": [
+        "CD1_33",
+        "CD1_34",
+        "CD1_35"
+      ],
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/combined/CD1_33-35.webp",
+      "image_size": [
+        768,
+        768
+      ],
+      "image_bytes": 60268,
+      "image_sha256": "abd16de56526280b06b92a83fe7ccdb8b2e14859cf8052dfcfde089182a34020",
+      "panels": [
+        {
+          "source_track": "CD1_33",
+          "box": [
+            24,
+            42,
+            744,
+            535
+          ]
+        },
+        {
+          "source_track": "CD1_34",
+          "box": [
+            24,
+            555,
+            744,
+            725
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_33",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_33.webp",
+          "sha256": "f439c4c716dddf1308dc611a3c509045aa44ea942d7c5b2f63b1cae23b3f0b81"
+        },
+        {
+          "track": "CD1_34",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_34.webp",
+          "sha256": "81ae6c97943ae16e18d345862900c0bb97b3f7ba5f57b5ddf08b41d89561f2e8"
+        },
+        {
+          "track": "CD1_35",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_35.webp",
+          "sha256": "0e9f5a7777f36e93873b9285482afb7e61d54b329c1c06b7666c7d5ab7e2dd98"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_37-39",
+      "section": "Unit 2 - Colors and Shapes",
+      "source_pdf_page": 15,
+      "track_ids": [
+        "CD1_37",
+        "CD1_38",
+        "CD1_39"
+      ],
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/combined/CD1_37-39.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 38678,
+      "image_sha256": "db23ef4973dcd1a5380bd2c9d6e19ddd1189d7ee03cff3076a80b34b66719285",
+      "panels": [
+        {
+          "source_track": "CD1_37",
+          "box": [
+            24,
+            80,
+            744,
+            617
+          ]
+        },
+        {
+          "source_track": "CD1_38",
+          "box": [
+            24,
+            637,
+            744,
+            943
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_37",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_37.webp",
+          "sha256": "2b70c1b90382532795b9f2409981bdeac1e864137a1b1b060b3266562fdba966"
+        },
+        {
+          "track": "CD1_38",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_38.webp",
+          "sha256": "97c41806ae8b5200b17960597688bde7aa42c5e2bc98e94668a4d00a11353631"
+        },
+        {
+          "track": "CD1_39",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_39.webp",
+          "sha256": "792f999039dd8ab7ec5939fb561472f8935c01116b1af40440cb3c977b4ce318"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_40-42",
+      "section": "Unit 2 - Colors and Shapes",
+      "source_pdf_page": 16,
+      "track_ids": [
+        "CD1_40",
+        "CD1_41",
+        "CD1_42"
+      ],
+      "image": "Unit 2 - Colors and Shapes - Audio Pages/combined/CD1_40-42.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 71434,
+      "image_sha256": "f7ff624611287cca5b2e1aa89ffd05247aa333c78681229b3794559b068c9baa",
+      "panels": [
+        {
+          "source_track": "CD1_40",
+          "box": [
+            24,
+            139,
+            744,
+            618
+          ]
+        },
+        {
+          "source_track": "CD1_41",
+          "box": [
+            24,
+            638,
+            744,
+            885
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_40",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_40.webp",
+          "sha256": "0ee12355ab17d792cdee9ed1664ad76ef2e5af68ad19974fd9f93361df6c08d7"
+        },
+        {
+          "track": "CD1_41",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_41.webp",
+          "sha256": "ee74820b81e625b6b815db5ff0bfd16547228a642bc90fdd19d238bb6b153ac2"
+        },
+        {
+          "track": "CD1_42",
+          "path": "Let_s Go 1/Units/Unit 2 - Colors and Shapes - Audio Pages/regenerated-single/CD1_42.webp",
+          "sha256": "303152fa5598781f187001a746a20f602f16884e92f446c7befa6c4a3b36ca8c"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_50-51",
+      "section": "Unit 3 - At the Store",
+      "source_pdf_page": 21,
+      "track_ids": [
+        "CD1_50",
+        "CD1_51"
+      ],
+      "image": "Unit 3 - At the Store - Audio Pages/combined/CD1_50-51.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 79024,
+      "image_sha256": "d1dcd35f861366d9cd6319044cbe7712e0048dd1d6311d669a24445d5aeb5464",
+      "panels": [
+        {
+          "source_track": "CD1_50",
+          "box": [
+            24,
+            24,
+            744,
+            768
+          ]
+        },
+        {
+          "source_track": "CD1_51",
+          "box": [
+            24,
+            788,
+            744,
+            999
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_50",
+          "path": "output/imagegen/book1-combined-activities/CD1_50-full-dialogue.png",
+          "sha256": "44fcaf9b40c46e60329136f205e4ba5db1ce6b1101404233fec20b53749982e2"
+        },
+        {
+          "track": "CD1_51",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_51.webp",
+          "sha256": "2f0df8687a48b94042a89ab8258b214d39d8e7a1033ace72a336206c86f0dd3d"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_53-55",
+      "section": "Unit 3 - At the Store",
+      "source_pdf_page": 22,
+      "track_ids": [
+        "CD1_53",
+        "CD1_54",
+        "CD1_55"
+      ],
+      "image": "Unit 3 - At the Store - Audio Pages/combined/CD1_53-55.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 49222,
+      "image_sha256": "1ebc69d0aa33b7103d9ec4f9af29d932610f1bfb83634b3d6eff545b18d1526f",
+      "panels": [
+        {
+          "source_track": "CD1_53",
+          "box": [
+            24,
+            117,
+            744,
+            698
+          ]
+        },
+        {
+          "source_track": "CD1_54",
+          "box": [
+            24,
+            718,
+            744,
+            907
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_53",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_53.webp",
+          "sha256": "946451adb9b33b5afbb2482532b4d7155a9ce7af7ae9c1ca33f822671156ea8a"
+        },
+        {
+          "track": "CD1_54",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_54.webp",
+          "sha256": "59dc919b2d1ef97b8d397bf5bbf186b5ec266dc7516c0e4e6801b1f73a2486ce"
+        },
+        {
+          "track": "CD1_55",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_55.webp",
+          "sha256": "0158f3ba06b0de87a057323fe0c17198f92c7f384548e60288f2b2c944b06034"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_56-58",
+      "section": "Unit 3 - At the Store",
+      "source_pdf_page": 23,
+      "track_ids": [
+        "CD1_56",
+        "CD1_57",
+        "CD1_58"
+      ],
+      "image": "Unit 3 - At the Store - Audio Pages/combined/CD1_56-58.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 73802,
+      "image_sha256": "35500f09e4472027f5da7678bd318f8ce0b3477736bc28bde3ea544a2c0d582d",
+      "panels": [
+        {
+          "source_track": "CD1_56",
+          "box": [
+            24,
+            45,
+            744,
+            663
+          ]
+        },
+        {
+          "source_track": "CD1_57",
+          "box": [
+            24,
+            683,
+            744,
+            978
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_56",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_56.webp",
+          "sha256": "31f066b43bc36060abdc827dfec1c016fbaf9c081f24c405f9952bf90da3f720"
+        },
+        {
+          "track": "CD1_57",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_57.webp",
+          "sha256": "4e3a2f9d73b83d39afd6da65c2350f5b80211a5ac782f6bba13f454dfba25895"
+        },
+        {
+          "track": "CD1_58",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_58.webp",
+          "sha256": "4692fea721d62d6a1468f59b478633aea21087be57a17bad93c87ef450eb93bd"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_59-61",
+      "section": "Unit 3 - At the Store",
+      "source_pdf_page": 24,
+      "track_ids": [
+        "CD1_59",
+        "CD1_60",
+        "CD1_61"
+      ],
+      "image": "Unit 3 - At the Store - Audio Pages/combined/CD1_59-61.webp",
+      "image_size": [
+        768,
+        768
+      ],
+      "image_bytes": 77052,
+      "image_sha256": "53d1d8322d12592f5d7c1c7d4515ce52eab2c130fdbcff49bcb6a9d443cbb748",
+      "panels": [
+        {
+          "source_track": "CD1_59",
+          "box": [
+            24,
+            65,
+            744,
+            525
+          ]
+        },
+        {
+          "source_track": "CD1_60",
+          "box": [
+            24,
+            545,
+            744,
+            702
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_59",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_59.webp",
+          "sha256": "f657b1dcf18b9a40ad69f4f90f06ffebb8d29ade023bff9865616a772b98774a"
+        },
+        {
+          "track": "CD1_60",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_60.webp",
+          "sha256": "4810063c5f98af49c4d5203083df5f839796e0e0b316f5e744ee73b3a57b16e9"
+        },
+        {
+          "track": "CD1_61",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_61.webp",
+          "sha256": "27e7b2132c8046214855d3eeaba90de223eee8388cd8220d6f3052c8664fefb9"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_63-65",
+      "section": "Unit 3 - At the Store",
+      "source_pdf_page": 25,
+      "track_ids": [
+        "CD1_63",
+        "CD1_64",
+        "CD1_65"
+      ],
+      "image": "Unit 3 - At the Store - Audio Pages/combined/CD1_63-65.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 71866,
+      "image_sha256": "e46fe64fb9835fdcc4022f52fb6ff6d562639e6e024144260f0b9d3c9e5bb42b",
+      "panels": [
+        {
+          "source_track": "CD1_63",
+          "box": [
+            24,
+            67,
+            744,
+            677
+          ]
+        },
+        {
+          "source_track": "CD1_64",
+          "box": [
+            24,
+            697,
+            744,
+            956
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_63",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_63.webp",
+          "sha256": "f823a1cb31af11b94469018b3ef13fd3a8acd8e3be91569724973e330e3a6e30"
+        },
+        {
+          "track": "CD1_64",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_64.webp",
+          "sha256": "22debd7b08792310c1cd1c157fc4fd30f90849fe5ee867ae5c34a08739cee0b4"
+        },
+        {
+          "track": "CD1_65",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_65.webp",
+          "sha256": "7565766ddc80e3f8b6947a71da1aba9cdfd2d39ffcfa8fa9cabe1396e6e6eff6"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_66-68",
+      "section": "Unit 3 - At the Store",
+      "source_pdf_page": 26,
+      "track_ids": [
+        "CD1_66",
+        "CD1_67",
+        "CD1_68"
+      ],
+      "image": "Unit 3 - At the Store - Audio Pages/combined/CD1_66-68.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 78422,
+      "image_sha256": "e6f15ff438c74e17516e173aa05dadfaf7ec70f8276a09338d26266e84ea96dc",
+      "panels": [
+        {
+          "source_track": "CD1_66",
+          "box": [
+            24,
+            146,
+            744,
+            635
+          ]
+        },
+        {
+          "source_track": "CD1_67",
+          "box": [
+            24,
+            655,
+            744,
+            878
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_66",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_66.webp",
+          "sha256": "f682f5fce54f4b87936712297a8b13f0c47ba3133d7eabebbe64e96e9799549b"
+        },
+        {
+          "track": "CD1_67",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_67.webp",
+          "sha256": "4dada9cca3b5cfff084a5f52185f085cc2cffcde5faf724f6e7af4830c9c5cc7"
+        },
+        {
+          "track": "CD1_68",
+          "path": "Let_s Go 1/Units/Unit 3 - At the Store - Audio Pages/regenerated-single/CD1_68.webp",
+          "sha256": "4f842c75cc83c4d5fdba720d7638b654265495229ae130218bb06301925709c6"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_73-74",
+      "section": "Unit 4 - People at Home",
+      "source_pdf_page": 29,
+      "track_ids": [
+        "CD1_73",
+        "CD1_74"
+      ],
+      "image": "Unit 4 - People at Home - Audio Pages/combined/CD1_73-74.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 73952,
+      "image_sha256": "599677225d4974ab7d2a97710bdcba07ed4b26d0bbee1845dde7df240d2f51e0",
+      "panels": [
+        {
+          "source_track": "CD1_73",
+          "box": [
+            24,
+            105,
+            744,
+            744
+          ]
+        },
+        {
+          "source_track": "CD1_74",
+          "box": [
+            24,
+            764,
+            744,
+            918
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_73",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_73.webp",
+          "sha256": "ca3767312e2db7ae5e706d6a4b22b66a71535628198657bced4fc83869213105"
+        },
+        {
+          "track": "CD1_74",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_74.webp",
+          "sha256": "6048f45399f6c80072e4553008f44b6fbb9b7a63cff9a6173e4c80e57a8706f1"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_76-78",
+      "section": "Unit 4 - People at Home",
+      "source_pdf_page": 30,
+      "track_ids": [
+        "CD1_76",
+        "CD1_77",
+        "CD1_78"
+      ],
+      "image": "Unit 4 - People at Home - Audio Pages/combined/CD1_76-78.webp",
+      "image_size": [
+        768,
+        768
+      ],
+      "image_bytes": 62790,
+      "image_sha256": "27b51286550a26476fa83f7530aa27b917f2011abda503707d4f4cef11bb9fca",
+      "panels": [
+        {
+          "source_track": "CD1_76",
+          "box": [
+            24,
+            28,
+            744,
+            565
+          ]
+        },
+        {
+          "source_track": "CD1_77",
+          "box": [
+            24,
+            585,
+            744,
+            739
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_76",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_76.webp",
+          "sha256": "8be5c71f3cae68d2a8a87f2451c4e78206000f26ad24e329c6dd35222afae910"
+        },
+        {
+          "track": "CD1_77",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_77.webp",
+          "sha256": "76058173b9453b941c187e80d4ae624e2491c2a9a23098b6edc63c6ce9b1c3a0"
+        },
+        {
+          "track": "CD1_78",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_78.webp",
+          "sha256": "b24e7ae4f78cd1b4f89eec1ef03bb67221e379e43879a99db69b0fb711efa6fd"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_79-81",
+      "section": "Unit 4 - People at Home",
+      "source_pdf_page": 31,
+      "track_ids": [
+        "CD1_79",
+        "CD1_80",
+        "CD1_81"
+      ],
+      "image": "Unit 4 - People at Home - Audio Pages/combined/CD1_79-81.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 74166,
+      "image_sha256": "5001472260bbb0ee5adfe6fb039b0d6380332bf7c925001fdb103225611f459c",
+      "panels": [
+        {
+          "source_track": "CD1_79",
+          "box": [
+            24,
+            64,
+            744,
+            696
+          ]
+        },
+        {
+          "source_track": "CD1_80",
+          "box": [
+            24,
+            716,
+            744,
+            959
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_79",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_79.webp",
+          "sha256": "5721edc2625f942bc61f957d22d2b84558713adff592ecce7e6137a9e9c16833"
+        },
+        {
+          "track": "CD1_80",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_80.webp",
+          "sha256": "59e514337ec174905b81b2867e1d9ab8552eac3b4d2c904ff7a0a8f3522ed9f9"
+        },
+        {
+          "track": "CD1_81",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_81.webp",
+          "sha256": "a4a1fcf88bd8c3ae6eccf8e43e1d08d12ab5844cacda9bc3828024e1566d83ee"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_82-84",
+      "section": "Unit 4 - People at Home",
+      "source_pdf_page": 32,
+      "track_ids": [
+        "CD1_82",
+        "CD1_83",
+        "CD1_84"
+      ],
+      "image": "Unit 4 - People at Home - Audio Pages/combined/CD1_82-84.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 98124,
+      "image_sha256": "bd83979366311577933f4d5f94d7401c19f02ef2eff59fdff047d525aca2bea9",
+      "panels": [
+        {
+          "source_track": "CD1_82",
+          "box": [
+            24,
+            26,
+            744,
+            753
+          ]
+        },
+        {
+          "source_track": "CD1_83",
+          "box": [
+            24,
+            773,
+            744,
+            998
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_82",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_82.webp",
+          "sha256": "6d288b9ca70368e701a00e14ad067972baf3dbfeeb1f8c1bab233d562f448f88"
+        },
+        {
+          "track": "CD1_83",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_83.webp",
+          "sha256": "db6def6e6cddf2f19a49ab37c326022af5c085561507022ba19a559602a6ac0e"
+        },
+        {
+          "track": "CD1_84",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_84.webp",
+          "sha256": "cded8e11cdccda3638dad35ce68c7edf494e3f8715d88194e6ba18e3c1d61624"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_85-87",
+      "section": "Unit 4 - People at Home",
+      "source_pdf_page": 33,
+      "track_ids": [
+        "CD1_85",
+        "CD1_86",
+        "CD1_87"
+      ],
+      "image": "Unit 4 - People at Home - Audio Pages/combined/CD1_85-87.webp",
+      "image_size": [
+        768,
+        1280
+      ],
+      "image_bytes": 67142,
+      "image_sha256": "21b4edaf76b17ecb2890653ab71534a64febed81815f847c8f570736cfca00ba",
+      "panels": [
+        {
+          "source_track": "CD1_85",
+          "box": [
+            24,
+            141,
+            744,
+            839
+          ]
+        },
+        {
+          "source_track": "CD1_86",
+          "box": [
+            24,
+            859,
+            744,
+            1138
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_85",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_85.webp",
+          "sha256": "15f96cf64ad13f40a652bcc7e2c0edf8c30ab435db12efe814d7cd7e47c02ebb"
+        },
+        {
+          "track": "CD1_86",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_86.webp",
+          "sha256": "4796398794188a67e5f0408d771f1a5125c1cb8290b345a7df07868e6059863d"
+        },
+        {
+          "track": "CD1_87",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_87.webp",
+          "sha256": "99fb5b4a33a2ab6ba60dbc51835db5dc7702f786095f8b3347e64b18a9d93ae0"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_88-90",
+      "section": "Unit 4 - People at Home",
+      "source_pdf_page": 34,
+      "track_ids": [
+        "CD1_88",
+        "CD1_89",
+        "CD1_90"
+      ],
+      "image": "Unit 4 - People at Home - Audio Pages/combined/CD1_88-90.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 79506,
+      "image_sha256": "2c88e654d08448c43daebca07ba4e8cda70e50b8e4b8d600059bb9df5c25d131",
+      "panels": [
+        {
+          "source_track": "CD1_88",
+          "box": [
+            24,
+            134,
+            744,
+            680
+          ]
+        },
+        {
+          "source_track": "CD1_89",
+          "box": [
+            24,
+            700,
+            744,
+            890
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_88",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_88.webp",
+          "sha256": "6435d4d36e5fda989097b361d0b89828759c1616860b25cad30bb8ce8341b2fb"
+        },
+        {
+          "track": "CD1_89",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_89.webp",
+          "sha256": "348f9e57c017d4de077f7f2126fa760def30300eddc17d0d56adc2d48ab17521"
+        },
+        {
+          "track": "CD1_90",
+          "path": "Let_s Go 1/Units/Unit 4 - People at Home - Audio Pages/regenerated-single/CD1_90.webp",
+          "sha256": "face4de5b25b91d2de674e1d02f5567f2cf8d246374bf259be3cac160837e102"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD1_97-98",
+      "section": "Review 3-4",
+      "source_pdf_page": 38,
+      "track_ids": [
+        "CD1_97",
+        "CD1_98"
+      ],
+      "image": "Review 3-4 - Audio Pages/combined/CD1_97-98.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 51856,
+      "image_sha256": "028ce373c273d1d5acdcc346c76ec504f2cdb6ebb9a3b2fc275bf90ab5989e21",
+      "panels": [
+        {
+          "source_track": "CD1_97",
+          "box": [
+            24,
+            136,
+            744,
+            656
+          ]
+        },
+        {
+          "source_track": "CD1_98",
+          "box": [
+            24,
+            676,
+            744,
+            887
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD1_97",
+          "path": "Let_s Go 1/Units/Review 3-4 - Audio Pages/regenerated-single/CD1_97.webp",
+          "sha256": "9f7fa0b19f3a81f6fa3d42ed4e05e7f5c386e109ce22853c7733cda5e6cc7f51"
+        },
+        {
+          "track": "CD1_98",
+          "path": "Let_s Go 1/Units/Review 3-4 - Audio Pages/regenerated-single/CD1_98.webp",
+          "sha256": "1aff1dffd3d09a52e8b92d6624ef49f94a386fe15226bddd30baaf4823d427b4"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_02-03",
+      "section": "Unit 5 - Birthday and Toys",
+      "source_pdf_page": 39,
+      "track_ids": [
+        "CD2_02",
+        "CD2_03"
+      ],
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/combined/CD2_02-03.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 82462,
+      "image_sha256": "a19de1a50274599cb0d913799e2e7c0dfbc2d92da100cbbcefce7528c2216f9a",
+      "panels": [
+        {
+          "source_track": "CD2_02",
+          "box": [
+            24,
+            65,
+            744,
+            779
+          ]
+        },
+        {
+          "source_track": "CD2_03",
+          "box": [
+            24,
+            799,
+            744,
+            958
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_02",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_02.webp",
+          "sha256": "e92b57424a13606a6d428cab214c5f78ee4835754fb6d6a6dbc22de842a54d5f"
+        },
+        {
+          "track": "CD2_03",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_03.webp",
+          "sha256": "867e5e73d87a80e6bedb05ef6b8d99b833d825ca7b70dc97f651c9aebc8642bb"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_05-07",
+      "section": "Unit 5 - Birthday and Toys",
+      "source_pdf_page": 40,
+      "track_ids": [
+        "CD2_05",
+        "CD2_06",
+        "CD2_07"
+      ],
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/combined/CD2_05-07.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 59210,
+      "image_sha256": "99e5f6431097d2d63da2a46758f4bd55b0bafb5496304cbaee6d97884a22ed77",
+      "panels": [
+        {
+          "source_track": "CD2_05",
+          "box": [
+            24,
+            80,
+            744,
+            751
+          ]
+        },
+        {
+          "source_track": "CD2_06",
+          "box": [
+            24,
+            771,
+            744,
+            943
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_05",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_05.webp",
+          "sha256": "50a6e7027e38f3a25506df9ed88b1eead4483c9212dbb5e9147b0a9b70a0fe29"
+        },
+        {
+          "track": "CD2_06",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_06.webp",
+          "sha256": "cecc868f22f04b618104d6aa8a6eaeef3524d2e92c33ce04ab2907ba1f81d529"
+        },
+        {
+          "track": "CD2_07",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_07.webp",
+          "sha256": "53df07e4d22fd70fdc072f604dbfd18383a8e6fb1f606d61630d37707781f6f7"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_08-10",
+      "section": "Unit 5 - Birthday and Toys",
+      "source_pdf_page": 41,
+      "track_ids": [
+        "CD2_08",
+        "CD2_09",
+        "CD2_10"
+      ],
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/combined/CD2_08-10.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 55114,
+      "image_sha256": "2e78efdc868716de82bfb67fb0244fc9a0dbc51656ed65dc7bf6e4013c0f39c5",
+      "panels": [
+        {
+          "source_track": "CD2_08",
+          "box": [
+            24,
+            88,
+            744,
+            673
+          ]
+        },
+        {
+          "source_track": "CD2_09",
+          "box": [
+            24,
+            693,
+            744,
+            935
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_08",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_08.webp",
+          "sha256": "3cd4f7bd0d5903f5a007be40dd3f1dc9ee0b2693859b02f9f31a365be546a710"
+        },
+        {
+          "track": "CD2_09",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_09.webp",
+          "sha256": "56a00f08d73c45fc1cb9f0b8c297fa320880cfc8188b1d2223965189f7be50b1"
+        },
+        {
+          "track": "CD2_10",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_10.webp",
+          "sha256": "09a2c892d3f59c0e478c3083829966b4c3d277eda1cea0e59ad7d52ae1ae5d90"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_11-13",
+      "section": "Unit 5 - Birthday and Toys",
+      "source_pdf_page": 42,
+      "track_ids": [
+        "CD2_11",
+        "CD2_12",
+        "CD2_13"
+      ],
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/combined/CD2_11-13.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 107794,
+      "image_sha256": "703034274f06b17cf491a76b35e51766cd9a602b29ea44affd040932a4c92996",
+      "panels": [
+        {
+          "source_track": "CD2_11",
+          "box": [
+            24,
+            112,
+            744,
+            699
+          ]
+        },
+        {
+          "source_track": "CD2_12",
+          "box": [
+            24,
+            719,
+            744,
+            912
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_11",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_11.webp",
+          "sha256": "7feb75483f384daec58225f1ac19a9b83c4b257c19b31aaa179b8b073abd8f44"
+        },
+        {
+          "track": "CD2_12",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_12.webp",
+          "sha256": "723ff85f0a349dd684b2e82217679172444a61d33bbc093563b3676aabe81bf0"
+        },
+        {
+          "track": "CD2_13",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_13.webp",
+          "sha256": "5b6db12d52a6753b915de991e0271ea30f65a99f2f83f5f7d06b9d863e28cc30"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_14-16",
+      "section": "Unit 5 - Birthday and Toys",
+      "source_pdf_page": 43,
+      "track_ids": [
+        "CD2_14",
+        "CD2_15",
+        "CD2_16"
+      ],
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/combined/CD2_14-16.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 46692,
+      "image_sha256": "0f0161c4cb9714538bad117f4bd2832ec0a5c15e83cdaebb5a528a2a6d358df8",
+      "panels": [
+        {
+          "source_track": "CD2_14",
+          "box": [
+            24,
+            51,
+            744,
+            710
+          ]
+        },
+        {
+          "source_track": "CD2_15",
+          "box": [
+            24,
+            730,
+            744,
+            972
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_14",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_14.webp",
+          "sha256": "4a8b6f33be4a0d7d8c120d1c3849102f7017b13beeda5b2f1fe6da0c42827782"
+        },
+        {
+          "track": "CD2_15",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_15.webp",
+          "sha256": "c2924483514a855315b6481cbd3d8317b60c0db63d6166d8ec8bcbfe499e4deb"
+        },
+        {
+          "track": "CD2_16",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_16.webp",
+          "sha256": "1066ca245a4062a9ae5e2f6cab01039acca2c3144fa12402aafbfc9ece61261d"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_17-19",
+      "section": "Unit 5 - Birthday and Toys",
+      "source_pdf_page": 44,
+      "track_ids": [
+        "CD2_17",
+        "CD2_18",
+        "CD2_19"
+      ],
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/combined/CD2_17-19.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 81010,
+      "image_sha256": "a0af65663f80482c4b3961307836271d150ee4c3e275098b2296ed1d7f675ef1",
+      "panels": [
+        {
+          "source_track": "CD2_17",
+          "box": [
+            24,
+            139,
+            744,
+            653
+          ]
+        },
+        {
+          "source_track": "CD2_18",
+          "box": [
+            24,
+            673,
+            744,
+            885
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_17",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_17.webp",
+          "sha256": "8771ed76d2752f3e08e2523e244894d3ba53ce3132e6a4dc32a287ecfb1cdc5e"
+        },
+        {
+          "track": "CD2_18",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_18.webp",
+          "sha256": "c520fae740c6f6431fdcb37065717b5ef4e97cf94ae1907bbb998be59f1aa1ec"
+        },
+        {
+          "track": "CD2_19",
+          "path": "Let_s Go 1/Units/Unit 5 - Birthday and Toys - Audio Pages/regenerated-single/CD2_19.webp",
+          "sha256": "aee0a3b9c1cb700d14a1204acd57e78fdfd3ccb328f3291dafc98e4756b4f47a"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_25-26",
+      "section": "Unit 6 - Outdoors",
+      "source_pdf_page": 47,
+      "track_ids": [
+        "CD2_25",
+        "CD2_26"
+      ],
+      "image": "Unit 6 - Outdoors - Audio Pages/combined/CD2_25-26.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 73008,
+      "image_sha256": "6c30a6dd1aa577143158338cdd738c5cf20b6545b4f645c6e7152fb5d701a097",
+      "panels": [
+        {
+          "source_track": "CD2_25",
+          "box": [
+            24,
+            70,
+            744,
+            763
+          ]
+        },
+        {
+          "source_track": "CD2_26",
+          "box": [
+            24,
+            783,
+            744,
+            953
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_25",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_25.webp",
+          "sha256": "7d79d23e85e1d1da92b45dae60e55286b2c01204f15555860e8eb320eadd3f3f"
+        },
+        {
+          "track": "CD2_26",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_26.webp",
+          "sha256": "1a079923b84b01a1d000b851e338af00c84dce855d13fde3fee141d57c909a52"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_28-30",
+      "section": "Unit 6 - Outdoors",
+      "source_pdf_page": 48,
+      "track_ids": [
+        "CD2_28",
+        "CD2_29",
+        "CD2_30"
+      ],
+      "image": "Unit 6 - Outdoors - Audio Pages/combined/CD2_28-30.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 44282,
+      "image_sha256": "f2c87445a26b336ddc4f9c92f253a78a6bbd3a679cbbcaf1ebb25a08c645200a",
+      "panels": [
+        {
+          "source_track": "CD2_28",
+          "box": [
+            24,
+            40,
+            744,
+            694
+          ]
+        },
+        {
+          "source_track": "CD2_29",
+          "box": [
+            24,
+            714,
+            744,
+            984
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_28",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_28.webp",
+          "sha256": "127a5bb792d126072d6c1509b14ffd48797d17e267401d9e03e354eb11661fe5"
+        },
+        {
+          "track": "CD2_29",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_29.webp",
+          "sha256": "a1abe3173762832e6f3184aeaf30cad6106c0d13e93716743b6598ba4dcb179f"
+        },
+        {
+          "track": "CD2_30",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_30.webp",
+          "sha256": "1f0b5c673b64ff7e6fd9cb5131847b97d2e724638711d4ff135371845130abf8"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_31-33",
+      "section": "Unit 6 - Outdoors",
+      "source_pdf_page": 49,
+      "track_ids": [
+        "CD2_31",
+        "CD2_32",
+        "CD2_33"
+      ],
+      "image": "Unit 6 - Outdoors - Audio Pages/combined/CD2_31-33.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 46734,
+      "image_sha256": "f621cfd30f7f7e42f4a5a5fccbcf3b9463d4f45ea7182c7e2665fe44aba66502",
+      "panels": [
+        {
+          "source_track": "CD2_31",
+          "box": [
+            24,
+            112,
+            744,
+            608
+          ]
+        },
+        {
+          "source_track": "CD2_32",
+          "box": [
+            24,
+            628,
+            744,
+            911
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_31",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_31.webp",
+          "sha256": "2bca6856f54e28011e37e5f6d52f623c9004f4897561bd5031ef4a652deed2ae"
+        },
+        {
+          "track": "CD2_32",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_32.webp",
+          "sha256": "ab263d415b91731aab74bfb4a03b37f183fbd5f41ac1fd7b401f00e764a2c978"
+        },
+        {
+          "track": "CD2_33",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_33.webp",
+          "sha256": "577364924ad0ce1176e2725686c42adbd43b6421e593ad4cc70c0bec53f437bc"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_34-36",
+      "section": "Unit 6 - Outdoors",
+      "source_pdf_page": 50,
+      "track_ids": [
+        "CD2_34",
+        "CD2_35",
+        "CD2_36"
+      ],
+      "image": "Unit 6 - Outdoors - Audio Pages/combined/CD2_34-36.webp",
+      "image_size": [
+        768,
+        1280
+      ],
+      "image_bytes": 119664,
+      "image_sha256": "ef444d17ddb207f07a0255e90859a5f01e6176834e7822d96c3d1a5663b12276",
+      "panels": [
+        {
+          "source_track": "CD2_34",
+          "box": [
+            24,
+            126,
+            744,
+            870
+          ]
+        },
+        {
+          "source_track": "CD2_35",
+          "box": [
+            24,
+            890,
+            744,
+            1154
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_34",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_34.webp",
+          "sha256": "d2af2b89da9c158ef9c54691fae7a76d0e8f1be690ba0644a21ff73da36e3899"
+        },
+        {
+          "track": "CD2_35",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_35.webp",
+          "sha256": "dc77b732025a12dea319b27b3672ef0da5e3db1d99ee4e9a6f21d2d45d194e98"
+        },
+        {
+          "track": "CD2_36",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_36.webp",
+          "sha256": "5dfbe83b438d1e6a6abc60ca99773fe435bbeca0f15a146057ee4de0f8e2cd6e"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_37-40",
+      "section": "Unit 6 - Outdoors",
+      "source_pdf_page": 51,
+      "track_ids": [
+        "CD2_37",
+        "CD2_38",
+        "CD2_39",
+        "CD2_40"
+      ],
+      "image": "Unit 6 - Outdoors - Audio Pages/combined/CD2_37-40.webp",
+      "image_size": [
+        768,
+        1280
+      ],
+      "image_bytes": 83044,
+      "image_sha256": "f2167fd1a3a558ecc98d4b8fe3f1241111e56af7c87661dcc7414f3b6fa50a74",
+      "panels": [
+        {
+          "source_track": "CD2_37",
+          "box": [
+            24,
+            101,
+            744,
+            456
+          ]
+        },
+        {
+          "source_track": "CD2_38",
+          "box": [
+            24,
+            476,
+            744,
+            933
+          ]
+        },
+        {
+          "source_track": "CD2_39",
+          "box": [
+            24,
+            953,
+            744,
+            1179
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_37",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_37.webp",
+          "sha256": "152a917586cbda2cba03d551c05134e7f7aaa2743e5e1cfa3f5f17ea629e804f"
+        },
+        {
+          "track": "CD2_38",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_38.webp",
+          "sha256": "36f419b3ff12c32698be665b44595eb067bc5cd6619082370a3f64f6bb7b44d7"
+        },
+        {
+          "track": "CD2_39",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_39.webp",
+          "sha256": "78863072c8d5a968d8d87fc7cc6a26d67a4aab0ba069867c53a194b7bbed5a6d"
+        },
+        {
+          "track": "CD2_40",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_40.webp",
+          "sha256": "19c2e4c0bf5571212750afe78e9a25abef0929b6eb22ddf1e2c1eb63657cdbc4"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_41-43",
+      "section": "Unit 6 - Outdoors",
+      "source_pdf_page": 52,
+      "track_ids": [
+        "CD2_41",
+        "CD2_42",
+        "CD2_43"
+      ],
+      "image": "Unit 6 - Outdoors - Audio Pages/combined/CD2_41-43.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 95150,
+      "image_sha256": "d2505b994b703a31bd3a191c6881a08e7807511844b4d572e9031bd947db21ad",
+      "panels": [
+        {
+          "source_track": "CD2_41",
+          "box": [
+            24,
+            99,
+            744,
+            666
+          ]
+        },
+        {
+          "source_track": "CD2_42",
+          "box": [
+            24,
+            686,
+            744,
+            924
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_41",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_41.webp",
+          "sha256": "81c16a5dfe2b8693ba211e35963ca133b262ec300b711f44472a740310deadf0"
+        },
+        {
+          "track": "CD2_42",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_42.webp",
+          "sha256": "77446e23d8b7f7aa6b6972871024f7766477f80702872fe3dc45ccd5df4f58ff"
+        },
+        {
+          "track": "CD2_43",
+          "path": "Let_s Go 1/Units/Unit 6 - Outdoors - Audio Pages/regenerated-single/CD2_43.webp",
+          "sha256": "37da337494ad807ba713cb254d1f03c96692d5f287770a5de3fe8dd442fa4ac3"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_49-50",
+      "section": "Review 5-6",
+      "source_pdf_page": 56,
+      "track_ids": [
+        "CD2_49",
+        "CD2_50"
+      ],
+      "image": "Review 5-6 - Audio Pages/combined/CD2_49-50.webp",
+      "image_size": [
+        768,
+        1280
+      ],
+      "image_bytes": 93856,
+      "image_sha256": "6e26dece71d01ecefa8eac69a765bd96c4e249235f83f2733a639604f7467f1e",
+      "panels": [
+        {
+          "source_track": "CD2_49",
+          "box": [
+            24,
+            114,
+            744,
+            862
+          ]
+        },
+        {
+          "source_track": "CD2_50",
+          "box": [
+            24,
+            882,
+            744,
+            1166
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_49",
+          "path": "Let_s Go 1/Units/Review 5-6 - Audio Pages/regenerated-single/CD2_49.webp",
+          "sha256": "86575dd0c9c9e12bf16cbdb92675f5668333e2d2946207d8e93daea46bc083d9"
+        },
+        {
+          "track": "CD2_50",
+          "path": "Let_s Go 1/Units/Review 5-6 - Audio Pages/regenerated-single/CD2_50.webp",
+          "sha256": "3a2e29a7439256d752e42f66af864c23f966a74eae1cf668a75aa153c61edf70"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_51-52",
+      "section": "Unit 7 - Food",
+      "source_pdf_page": 57,
+      "track_ids": [
+        "CD2_51",
+        "CD2_52"
+      ],
+      "image": "Unit 7 - Food - Audio Pages/combined/CD2_51-52.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 73228,
+      "image_sha256": "31864d775c47c06c7c99864042c2560f117e13aa15f8ab281796dc9548fd2174",
+      "panels": [
+        {
+          "source_track": "CD2_51",
+          "box": [
+            24,
+            74,
+            744,
+            741
+          ]
+        },
+        {
+          "source_track": "CD2_52",
+          "box": [
+            24,
+            761,
+            744,
+            949
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_51",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_51.webp",
+          "sha256": "b8268c109d90f0aade944f7d5a6c83afe41a8b95f025969b5ad2b463b5b955bc"
+        },
+        {
+          "track": "CD2_52",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_52.webp",
+          "sha256": "8eff966dce5d1977bbc7aac998bc6b46c564ed2467ed3cbf80d73ccc089df80d"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_54-56",
+      "section": "Unit 7 - Food",
+      "source_pdf_page": 58,
+      "track_ids": [
+        "CD2_54",
+        "CD2_55",
+        "CD2_56"
+      ],
+      "image": "Unit 7 - Food - Audio Pages/combined/CD2_54-56.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 45528,
+      "image_sha256": "0dba318db89c6a4d0a12c9b798c3d07ed82cb9b3e64769bf11e95d5428148642",
+      "panels": [
+        {
+          "source_track": "CD2_54",
+          "box": [
+            24,
+            132,
+            744,
+            724
+          ]
+        },
+        {
+          "source_track": "CD2_55",
+          "box": [
+            24,
+            744,
+            744,
+            892
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_54",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_54.webp",
+          "sha256": "254e9ef99332fc54cbae1e8a384f7af72214d36e4a52899097d5055debd03e3b"
+        },
+        {
+          "track": "CD2_55",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_55.webp",
+          "sha256": "9d5db619d191f24df0df253d192d54373509585478ebb6a448af1f9f7079dd1b"
+        },
+        {
+          "track": "CD2_56",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_56.webp",
+          "sha256": "441ee812b390b9a93c2bc4be0b8494e1ade2c7c7032657cc67a264c353ea2655"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_57-59",
+      "section": "Unit 7 - Food",
+      "source_pdf_page": 59,
+      "track_ids": [
+        "CD2_57",
+        "CD2_58",
+        "CD2_59"
+      ],
+      "image": "Unit 7 - Food - Audio Pages/combined/CD2_57-59.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 64608,
+      "image_sha256": "48c89f2920665e5f212f6654b48dc1a6943ca14d99b509aa3550207728cbe20b",
+      "panels": [
+        {
+          "source_track": "CD2_57",
+          "box": [
+            24,
+            46,
+            744,
+            648
+          ]
+        },
+        {
+          "source_track": "CD2_58",
+          "box": [
+            24,
+            668,
+            744,
+            978
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_57",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_57.webp",
+          "sha256": "ec1d12de1e4e8a03b1cb073206d2607ac693ad1f9946891839da07d380eff0df"
+        },
+        {
+          "track": "CD2_58",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_58.webp",
+          "sha256": "cfb77b6afe630a336230de940a45f78a05125808009165857fb319f6d809345f"
+        },
+        {
+          "track": "CD2_59",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_59.webp",
+          "sha256": "d1e8a91de7603aadf5a14ad00a8dbd9a6ee032658841e1c7341b363711722c51"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_60-62",
+      "section": "Unit 7 - Food",
+      "source_pdf_page": 60,
+      "track_ids": [
+        "CD2_60",
+        "CD2_61",
+        "CD2_62"
+      ],
+      "image": "Unit 7 - Food - Audio Pages/combined/CD2_60-62.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 86382,
+      "image_sha256": "54ac58220b964cbe605185b2fa411249b8e71828186e905d51ac4b074bc9169d",
+      "panels": [
+        {
+          "source_track": "CD2_60",
+          "box": [
+            24,
+            128,
+            744,
+            664
+          ]
+        },
+        {
+          "source_track": "CD2_61",
+          "box": [
+            24,
+            684,
+            744,
+            896
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_60",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_60.webp",
+          "sha256": "0fbfa3aa0884df3b9c2353866c6e4ff36f52793e8a561c34341116c193e2480c"
+        },
+        {
+          "track": "CD2_61",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_61.webp",
+          "sha256": "27d69f05b8773ef004f0efe4de1bbc34de0b5cb39283ddcab87a2242756cc101"
+        },
+        {
+          "track": "CD2_62",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_62.webp",
+          "sha256": "cbd39810e2dd485010ae655fe68e0d5b7ae9d932f4402bbfee50e883db0ad93b"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_64-66",
+      "section": "Unit 7 - Food",
+      "source_pdf_page": 61,
+      "track_ids": [
+        "CD2_64",
+        "CD2_65",
+        "CD2_66"
+      ],
+      "image": "Unit 7 - Food - Audio Pages/combined/CD2_64-66.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 83392,
+      "image_sha256": "d029a33200b30b68be2920f7e64e68ab99f6f407c601ca0037b0e8907ff7a831",
+      "panels": [
+        {
+          "source_track": "CD2_64",
+          "box": [
+            24,
+            63,
+            744,
+            664
+          ]
+        },
+        {
+          "source_track": "CD2_65",
+          "box": [
+            24,
+            684,
+            744,
+            961
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_64",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_64.webp",
+          "sha256": "22e82d91c1001ee222bd84f2c807ef5668d939205973c1686bb089a1535153a2"
+        },
+        {
+          "track": "CD2_65",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_65.webp",
+          "sha256": "65caafe31167d6a25a58da2e27a9558a69ed41fb6b7206f771217ff46a6b94e4"
+        },
+        {
+          "track": "CD2_66",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_66.webp",
+          "sha256": "c3ef12bede66af27a10174bda3c2bc188d548e761ee532bb796d59f53e4f22c0"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_67-69",
+      "section": "Unit 7 - Food",
+      "source_pdf_page": 62,
+      "track_ids": [
+        "CD2_67",
+        "CD2_68",
+        "CD2_69"
+      ],
+      "image": "Unit 7 - Food - Audio Pages/combined/CD2_67-69.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 86080,
+      "image_sha256": "4af208622a533be89aff953786d8fd1e2c7e68f55fb3a5f9c2e3a2b8faac2c9d",
+      "panels": [
+        {
+          "source_track": "CD2_67",
+          "box": [
+            24,
+            134,
+            744,
+            712
+          ]
+        },
+        {
+          "source_track": "CD2_68",
+          "box": [
+            24,
+            732,
+            744,
+            889
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_67",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_67.webp",
+          "sha256": "ae7b47050214bfef3e517f362f878637765c2f1f83d655bc5f1fe3ba195170e7"
+        },
+        {
+          "track": "CD2_68",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_68.webp",
+          "sha256": "6fb4ab9b1d4caa54e5e0b639ffb472358d3d685167d7f0717a460881acc58960"
+        },
+        {
+          "track": "CD2_69",
+          "path": "Let_s Go 1/Units/Unit 7 - Food - Audio Pages/regenerated-single/CD2_69.webp",
+          "sha256": "ecd2f6049022c7b62887a6146ea39ec3471f8bab485c341c2229b929db25f9a5"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_74-75",
+      "section": "Unit 8 - Animals",
+      "source_pdf_page": 65,
+      "track_ids": [
+        "CD2_74",
+        "CD2_75"
+      ],
+      "image": "Unit 8 - Animals - Audio Pages/combined/CD2_74-75.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 68776,
+      "image_sha256": "ad11424cda04ba191de78ae4254d74566c1982e0f2eec107a48d816e927c7f17",
+      "panels": [
+        {
+          "source_track": "CD2_74",
+          "box": [
+            24,
+            68,
+            744,
+            753
+          ]
+        },
+        {
+          "source_track": "CD2_75",
+          "box": [
+            24,
+            773,
+            744,
+            956
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_74",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_74.webp",
+          "sha256": "5ae4aeeb7db0b7843b41bf826e3b2148c4fd5270f8294f1468136d11c497d8c4"
+        },
+        {
+          "track": "CD2_75",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_75.webp",
+          "sha256": "195589f55ce5bb5457ef77fc7f0a31067f47a2c6f7bbe5e10091f0c908783822"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_77-79",
+      "section": "Unit 8 - Animals",
+      "source_pdf_page": 66,
+      "track_ids": [
+        "CD2_77",
+        "CD2_78",
+        "CD2_79"
+      ],
+      "image": "Unit 8 - Animals - Audio Pages/combined/CD2_77-79.webp",
+      "image_size": [
+        768,
+        768
+      ],
+      "image_bytes": 53438,
+      "image_sha256": "1af9b4542d29f05e04f443741df3b3f4838008fe5eb53f2d25568d32e4d5e32b",
+      "panels": [
+        {
+          "source_track": "CD2_77",
+          "box": [
+            24,
+            41,
+            744,
+            550
+          ]
+        },
+        {
+          "source_track": "CD2_78",
+          "box": [
+            24,
+            570,
+            744,
+            727
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_77",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_77.webp",
+          "sha256": "be5c587124739eda94b5cd66ac9129d29f31d89b943ae1c2ee444bf6d0e98cad"
+        },
+        {
+          "track": "CD2_78",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_78.webp",
+          "sha256": "cf52ba3f03a09dd079e3132da69e088f3b3f84c01d540b8d060c3df4091032ac"
+        },
+        {
+          "track": "CD2_79",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_79.webp",
+          "sha256": "0e9aeac0cfdd56257934c031f315d8c26b79e88b61283d7402c7c20a7c5fdbec"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_80-82",
+      "section": "Unit 8 - Animals",
+      "source_pdf_page": 67,
+      "track_ids": [
+        "CD2_80",
+        "CD2_81",
+        "CD2_82"
+      ],
+      "image": "Unit 8 - Animals - Audio Pages/combined/CD2_80-82.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 66170,
+      "image_sha256": "032132ee478d8393c3a14853de84ea5b55b1b0c2fb33a6808e5319b2577a3e5e",
+      "panels": [
+        {
+          "source_track": "CD2_80",
+          "box": [
+            24,
+            53,
+            744,
+            666
+          ]
+        },
+        {
+          "source_track": "CD2_81",
+          "box": [
+            24,
+            686,
+            744,
+            971
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_80",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_80.webp",
+          "sha256": "ee50c26b34e199956e40898b66dfe5c6a0634f25b8ae521bb439cae6885dfe82"
+        },
+        {
+          "track": "CD2_81",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_81.webp",
+          "sha256": "56a394d2131531725dab278cc19923ee7bb1d2dcf61c033309a4890fed0b731b"
+        },
+        {
+          "track": "CD2_82",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_82.webp",
+          "sha256": "253275764da6d5afcae9588d749f7ff6c31e13d6c95838e2fbe8214de238a624"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_83-85",
+      "section": "Unit 8 - Animals",
+      "source_pdf_page": 68,
+      "track_ids": [
+        "CD2_83",
+        "CD2_84",
+        "CD2_85"
+      ],
+      "image": "Unit 8 - Animals - Audio Pages/combined/CD2_83-85.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 79292,
+      "image_sha256": "a72bf4a4439e0cebc17f185477c31b7be7f2f2b8b7a35a7107747cd50b33b8d4",
+      "panels": [
+        {
+          "source_track": "CD2_83",
+          "box": [
+            24,
+            121,
+            744,
+            676
+          ]
+        },
+        {
+          "source_track": "CD2_84",
+          "box": [
+            24,
+            696,
+            744,
+            903
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_83",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_83.webp",
+          "sha256": "b071727e8101344816937dc453ad9bb6169b547e00656af6e254e16d8606e93e"
+        },
+        {
+          "track": "CD2_84",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_84.webp",
+          "sha256": "9b866b9fdb1c091d57889d51b32a541c69adf682818ccb82c6b7d1b274066a66"
+        },
+        {
+          "track": "CD2_85",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_85.webp",
+          "sha256": "daccc16375307eadf74d9bc9408e7516e9dff80938748a1e72a97ae0d0c09abd"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_86-88",
+      "section": "Unit 8 - Animals",
+      "source_pdf_page": 69,
+      "track_ids": [
+        "CD2_86",
+        "CD2_87",
+        "CD2_88"
+      ],
+      "image": "Unit 8 - Animals - Audio Pages/combined/CD2_86-88.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 77772,
+      "image_sha256": "150c2802021ff7f39aeee0439c0603a09740b32c4f520b53e2dc3c9cb8353cf4",
+      "panels": [
+        {
+          "source_track": "CD2_86",
+          "box": [
+            24,
+            43,
+            744,
+            705
+          ]
+        },
+        {
+          "source_track": "CD2_87",
+          "box": [
+            24,
+            725,
+            744,
+            981
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_86",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_86.webp",
+          "sha256": "e84d34e095e1051d7fe85e7e088d164e9c91f14e8373e109da984f34a213e42c"
+        },
+        {
+          "track": "CD2_87",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_87.webp",
+          "sha256": "bfc7065a419e6a01bb3f55128a1b2e0bd982b33a3f38b661ce24c4c57628b236"
+        },
+        {
+          "track": "CD2_88",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_88.webp",
+          "sha256": "5235ee2e7667e0ce104d868ae35adc96141a220acf8a771e3ea95fcb8233a03b"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    },
+    {
+      "id": "CD2_89-91",
+      "section": "Unit 8 - Animals",
+      "source_pdf_page": 70,
+      "track_ids": [
+        "CD2_89",
+        "CD2_90",
+        "CD2_91"
+      ],
+      "image": "Unit 8 - Animals - Audio Pages/combined/CD2_89-91.webp",
+      "image_size": [
+        768,
+        1024
+      ],
+      "image_bytes": 119464,
+      "image_sha256": "91a55e2a5be6467961a5328a551633f822c176201b9e2dbf2740eb32c188d7fa",
+      "panels": [
+        {
+          "source_track": "CD2_89",
+          "box": [
+            24,
+            37,
+            744,
+            750
+          ]
+        },
+        {
+          "source_track": "CD2_90",
+          "box": [
+            24,
+            770,
+            744,
+            987
+          ]
+        }
+      ],
+      "source_images": [
+        {
+          "track": "CD2_89",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_89.webp",
+          "sha256": "a74121540000577132a9851e3aabc4072b886407762c9ae3c1163902ce38d7a9"
+        },
+        {
+          "track": "CD2_90",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_90.webp",
+          "sha256": "3c2f30b2fbc8433be1a1c4c890d8b4e0e8947674e80072e0852f5c4386ef4f53"
+        },
+        {
+          "track": "CD2_91",
+          "path": "Let_s Go 1/Units/Unit 8 - Animals - Audio Pages/regenerated-single/CD2_91.webp",
+          "sha256": "b82d5ba1581111ff7d6fb1c9ff37d3575f4d9d04adcef7b6496cadde57055d5c"
+        }
+      ],
+      "reason": "Same printed activity: illustration/vocabulary/actions plus its sentence model. Read and chant share the model panel."
+    }
+  ],
+  "group_count": 50,
+  "grouped_tracks": 141,
+  "standalone_tracks": [
+    "CD1_04",
+    "CD1_20",
+    "CD1_21",
+    "CD1_22",
+    "CD1_23",
+    "CD1_26",
+    "CD1_36",
+    "CD1_43",
+    "CD1_44",
+    "CD1_45",
+    "CD1_46",
+    "CD1_47",
+    "CD1_48",
+    "CD1_49",
+    "CD1_52",
+    "CD1_62",
+    "CD1_69",
+    "CD1_70",
+    "CD1_71",
+    "CD1_72",
+    "CD1_75",
+    "CD1_91",
+    "CD1_92",
+    "CD1_93",
+    "CD1_94",
+    "CD1_95",
+    "CD1_96",
+    "CD1_99",
+    "CD2_04",
+    "CD2_20",
+    "CD2_21",
+    "CD2_22",
+    "CD2_23",
+    "CD2_24",
+    "CD2_27",
+    "CD2_44",
+    "CD2_45",
+    "CD2_46",
+    "CD2_47",
+    "CD2_48",
+    "CD2_53",
+    "CD2_63",
+    "CD2_70",
+    "CD2_71",
+    "CD2_72",
+    "CD2_73",
+    "CD2_76",
+    "CD2_92",
+    "CD2_93",
+    "CD2_94",
+    "CD2_95",
+    "CD2_96",
+    "CD2_97",
+    "CD2_98",
+    "CD2_99"
+  ],
+  "total_tracks": 196
+}

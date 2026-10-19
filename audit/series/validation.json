@@ -1,0 +1,93 @@
+{
+  "status": "passed",
+  "books": [
+    {
+      "book": 1,
+      "pdf_sections": 12,
+      "pages": 72,
+      "lesson_questions": 2265,
+      "min_questions_per_page": 12,
+      "challenge_files": 8,
+      "challenge_groups": 40,
+      "challenge_questions": 2004,
+      "rendered_pages_verified": 72
+    },
+    {
+      "book": 2,
+      "pdf_sections": 12,
+      "pages": 72,
+      "lesson_questions": 2350,
+      "min_questions_per_page": 12,
+      "challenge_files": 8,
+      "challenge_groups": 40,
+      "challenge_questions": 1912,
+      "rendered_pages_verified": 72
+    },
+    {
+      "book": 3,
+      "pdf_sections": 16,
+      "pages": 72,
+      "lesson_questions": 2417,
+      "min_questions_per_page": 16,
+      "challenge_files": 8,
+      "challenge_groups": 40,
+      "challenge_questions": 2128,
+      "rendered_pages_verified": 72
+    },
+    {
+      "book": 4,
+      "pdf_sections": 16,
+      "pages": 72,
+      "lesson_questions": 2476,
+      "min_questions_per_page": 18,
+      "challenge_files": 8,
+      "challenge_groups": 40,
+      "challenge_questions": 2432,
+      "rendered_pages_verified": 72
+    },
+    {
+      "book": 5,
+      "pdf_sections": 16,
+      "pages": 72,
+      "lesson_questions": 2366,
+      "min_questions_per_page": 16,
+      "challenge_files": 8,
+      "challenge_groups": 40,
+      "challenge_questions": 2364,
+      "rendered_pages_verified": 72
+    },
+    {
+      "book": 6,
+      "pdf_sections": 16,
+      "pages": 72,
+      "lesson_questions": 2339,
+      "min_questions_per_page": 19,
+      "challenge_files": 8,
+      "challenge_groups": 40,
+      "challenge_questions": 2408,
+      "rendered_pages_verified": 72
+    }
+  ],
+  "total_pages": 432,
+  "total_pdfs": 88,
+  "total_lesson_files": 88,
+  "total_challenge_files": 48,
+  "total_challenge_groups": 240,
+  "total_lesson_questions": 14213,
+  "total_challenge_questions": 13248,
+  "errors": [],
+  "checks": [
+    "all requested ranges exactly once",
+    "all 432 split pages rendered identically to source",
+    "at least 12 questions per page",
+    "question ids unique with matching answer keys",
+    "five challenge groups per unit",
+    "no empty challenge task sections",
+    "local markdown links resolve",
+    "no single-option MCQ"
+  ],
+  "limitations": [
+    "Source OCR was checked against selected source page images; this is not an independent second-editor review of every sentence.",
+    "No new images or audio files are created. Challenge listening tasks include adult-read scripts. Original listening answers are not inferred."
+  ]
+}

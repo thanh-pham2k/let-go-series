@@ -1,0 +1,54 @@
+{
+  "job": "batch-24",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-24\\generated.png",
+  "tracks": [
+    {
+      "id": "CD2_74",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_74.webp",
+      "bytes": 35388,
+      "sha256": "5ae4aeeb7db0b7843b41bf826e3b2148c4fd5270f8294f1468136d11c497d8c4"
+    },
+    {
+      "id": "CD2_75",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_75.webp",
+      "bytes": 8552,
+      "sha256": "195589f55ce5bb5457ef77fc7f0a31067f47a2c6f7bbe5e10091f0c908783822"
+    },
+    {
+      "id": "CD2_76",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_76.webp",
+      "bytes": 37696,
+      "sha256": "bfc04d5884c940603032202b7c3ea0776561f1da2087b935028670091e5bbed7"
+    },
+    {
+      "id": "CD2_77",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_77.webp",
+      "bytes": 26014,
+      "sha256": "be5c587124739eda94b5cd66ac9129d29f31d89b943ae1c2ee444bf6d0e98cad"
+    },
+    {
+      "id": "CD2_78",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_78.webp",
+      "bytes": 9078,
+      "sha256": "cf52ba3f03a09dd079e3132da69e088f3b3f84c01d540b8d060c3df4091032ac"
+    },
+    {
+      "id": "CD2_79",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_79.webp",
+      "bytes": 9166,
+      "sha256": "0e9aeac0cfdd56257934c031f315d8c26b79e88b61283d7402c7c20a7c5fdbec"
+    },
+    {
+      "id": "CD2_80",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_80.webp",
+      "bytes": 33734,
+      "sha256": "ee50c26b34e199956e40898b66dfe5c6a0634f25b8ae521bb439cae6885dfe82"
+    },
+    {
+      "id": "CD2_81",
+      "image": "Unit 8 - Animals - Audio Pages/regenerated/CD2_81.webp",
+      "bytes": 7944,
+      "sha256": "56a394d2131531725dab278cc19923ee7bb1d2dcf61c033309a4890fed0b731b"
+    }
+  ]
+}

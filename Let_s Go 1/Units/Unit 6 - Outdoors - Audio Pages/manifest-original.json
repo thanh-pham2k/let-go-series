@@ -1,0 +1,1163 @@
+{
+  "section": "Unit 6 - Outdoors",
+  "source_pdf_pages": [
+    47,
+    54
+  ],
+  "page_count": 8,
+  "track_count": 23,
+  "audio_available": 23,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 2,
+      "track": 25,
+      "source_pdf_page": 47,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.725
+      ],
+      "activity": "A. Let's talk: weather",
+      "kind": "dialogue+words",
+      "region_id": "PDF-047-0.1350-0.7250",
+      "id": "CD2_25",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 46,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_25.png",
+      "page_image": "pages/PDF-047.png",
+      "audio": "audio/CD2_25.mp3",
+      "expected_audio": "audio/CD2_25.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/25 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "3061e0c89d98378d505a57a507cbd36ee260a0cf08871880abb957b08da18ba2",
+      "image_size": [
+        1224,
+        994
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        1221
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 43.626667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 26,
+      "source_pdf_page": 47,
+      "crop_normalized": [
+        0,
+        0.725,
+        1,
+        0.925
+      ],
+      "activity": "How’s the weather? It’s sunny",
+      "kind": "sentence+words",
+      "region_id": "PDF-047-0.7250-0.9250",
+      "id": "CD2_26",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 46,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_26.png",
+      "page_image": "pages/PDF-047.png",
+      "audio": "audio/CD2_26.mp3",
+      "expected_audio": "audio/CD2_26.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/26 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "aa93a5371073ec895d037b4bca295e4423239757bd487ac726fd316babb579dd",
+      "image_size": [
+        1224,
+        337
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1221,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 38.44,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 27,
+      "source_pdf_page": 48,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.345
+      ],
+      "activity": "B. How’s the Weather?",
+      "kind": "song",
+      "region_id": "PDF-048-0.0150-0.3450",
+      "id": "CD2_27",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 47,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_27.png",
+      "page_image": "pages/PDF-048.png",
+      "audio": "audio/CD2_27.mp3",
+      "expected_audio": "audio/CD2_27.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/27 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "87afc8560d51bf64ff51878e6f61adbdc942bcf564242afa26ad96c1ad76dc8e",
+      "image_size": [
+        1224,
+        556
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        581
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 108.813333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 28,
+      "source_pdf_page": 48,
+      "crop_normalized": [
+        0,
+        0.345,
+        1,
+        0.7
+      ],
+      "activity": "C. Let's move",
+      "kind": "words",
+      "region_id": "PDF-048-0.3450-0.7000",
+      "id": "CD2_28",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 47,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_28.png",
+      "page_image": "pages/PDF-048.png",
+      "audio": "audio/CD2_28.mp3",
+      "expected_audio": "audio/CD2_28.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/28 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "59af3975d9e983afd143e24caab2041961ad01e016497fe48ba645a5ed361758",
+      "image_size": [
+        1224,
+        598
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        581,
+        1224,
+        1179
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 25.0,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 29,
+      "source_pdf_page": 48,
+      "crop_normalized": [
+        0,
+        0.7,
+        1,
+        0.925
+      ],
+      "activity": "Can you throw a ball?",
+      "kind": "sentence+actions",
+      "region_id": "PDF-048-0.7000-0.9250",
+      "id": "CD2_29",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 47,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_29.png",
+      "page_image": "pages/PDF-048.png",
+      "audio": "audio/CD2_29.mp3",
+      "expected_audio": "audio/CD2_29.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/29 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "04a7fa108a180c02a52938342b0aab037ffacf37b7fb93c6bdc3c5a69a291c26",
+      "image_size": [
+        1224,
+        379
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1179,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 40.52,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 30,
+      "source_pdf_page": 48,
+      "crop_normalized": [
+        0,
+        0.7,
+        1,
+        0.925
+      ],
+      "activity": "Can you throw a ball?",
+      "kind": "sentence+actions",
+      "region_id": "PDF-048-0.7000-0.9250",
+      "id": "CD2_30",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 47,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_30.png",
+      "page_image": "pages/PDF-048.png",
+      "audio": "audio/CD2_30.mp3",
+      "expected_audio": "audio/CD2_30.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/30 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "8ef8fa6d19d1da13b98b300e84808439dda137ae0c102ca99e6b4fa7c064eab1",
+      "image_size": [
+        1224,
+        379
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1179,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 35.08,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 31,
+      "source_pdf_page": 49,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.435
+      ],
+      "activity": "A. Flowers, trees, clouds, puddles",
+      "kind": "words",
+      "region_id": "PDF-049-0.1350-0.4350",
+      "id": "CD2_31",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 48,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_31.png",
+      "page_image": "pages/PDF-049.png",
+      "audio": "audio/CD2_31.mp3",
+      "expected_audio": "audio/CD2_31.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/31 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "a913702bd8c73723dafc13598a27037224c1f6eb4f1da67ce8fbeb2fa968ec51",
+      "image_size": [
+        1224,
+        506
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        733
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 45.026667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 32,
+      "source_pdf_page": 49,
+      "crop_normalized": [
+        0,
+        0.435,
+        1,
+        0.675
+      ],
+      "activity": "B. There’s one flower / There are four trees",
+      "kind": "sentence+words",
+      "region_id": "PDF-049-0.4350-0.6750",
+      "id": "CD2_32",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 48,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_32.png",
+      "page_image": "pages/PDF-049.png",
+      "audio": "audio/CD2_32.mp3",
+      "expected_audio": "audio/CD2_32.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/32 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "9ef8e7ead5b5487a18f666cc934fd2e3ce2a33072e905b5cfac2a5db63d3e59c",
+      "image_size": [
+        1224,
+        404
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        733,
+        1224,
+        1137
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 49.053333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 33,
+      "source_pdf_page": 49,
+      "crop_normalized": [
+        0,
+        0.435,
+        1,
+        0.675
+      ],
+      "activity": "B. There’s one flower / There are four trees",
+      "kind": "sentence+words",
+      "region_id": "PDF-049-0.4350-0.6750",
+      "id": "CD2_33",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 48,
+      "section_page": 3,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_33.png",
+      "page_image": "pages/PDF-049.png",
+      "audio": "audio/CD2_33.mp3",
+      "expected_audio": "audio/CD2_33.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/33 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "8d46fe63057c1649340b6f170fcbdb5717c99cd1e25272f3256494d8180bc49b",
+      "image_size": [
+        1224,
+        404
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        733,
+        1224,
+        1137
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 26.346667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 34,
+      "source_pdf_page": 50,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.68
+      ],
+      "activity": "D. How many are there?",
+      "kind": "question+picture",
+      "region_id": "PDF-050-0.0150-0.6800",
+      "id": "CD2_34",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 49,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_34.png",
+      "page_image": "pages/PDF-050.png",
+      "audio": "audio/CD2_34.mp3",
+      "expected_audio": "audio/CD2_34.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/34 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "62a17b13f112d19eb005e344e773eb64f17d8360810dc34d4840c995a60e8e66",
+      "image_size": [
+        1224,
+        1120
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        1145
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 84.2,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 35,
+      "source_pdf_page": 50,
+      "crop_normalized": [
+        0,
+        0.68,
+        1,
+        0.925
+      ],
+      "activity": "How many kites / trees are there?",
+      "kind": "question+model",
+      "region_id": "PDF-050-0.6800-0.9250",
+      "id": "CD2_35",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 49,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_35.png",
+      "page_image": "pages/PDF-050.png",
+      "audio": "audio/CD2_35.mp3",
+      "expected_audio": "audio/CD2_35.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/35 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "5097a35bd3b21d24861b6fd8b386682a1a11a53b50a421e8e5b35c12757ca9dd",
+      "image_size": [
+        1224,
+        413
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1145,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 59.88,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 36,
+      "source_pdf_page": 50,
+      "crop_normalized": [
+        0,
+        0.68,
+        1,
+        0.925
+      ],
+      "activity": "How many kites / trees are there?",
+      "kind": "question+model",
+      "region_id": "PDF-050-0.6800-0.9250",
+      "id": "CD2_36",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 49,
+      "section_page": 4,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_36.png",
+      "page_image": "pages/PDF-050.png",
+      "audio": "audio/CD2_36.mp3",
+      "expected_audio": "audio/CD2_36.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/36 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "58d75ad7d3c297ad08fa290d6f6f10d21db321fa65de9263e651ff2e4c8d6669",
+      "image_size": [
+        1224,
+        413
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1145,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 49.76,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 37,
+      "source_pdf_page": 51,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.37
+      ],
+      "activity": "A. In, on, under, by",
+      "kind": "words",
+      "region_id": "PDF-051-0.1350-0.3700",
+      "id": "CD2_37",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 50,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_37.png",
+      "page_image": "pages/PDF-051.png",
+      "audio": "audio/CD2_37.mp3",
+      "expected_audio": "audio/CD2_37.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/37 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "b74e68970b41899e9a081acc1fd2b7fe35db0d8509edccecf25a4ef8fcefcb8a",
+      "image_size": [
+        1224,
+        394
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        621
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 27.64,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 38,
+      "source_pdf_page": 51,
+      "crop_normalized": [
+        0,
+        0.375,
+        1,
+        0.73
+      ],
+      "activity": "B. The bug is in the bag",
+      "kind": "sentence+picture",
+      "region_id": "PDF-051-0.3750-0.7300",
+      "id": "CD2_38",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 50,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_38.png",
+      "page_image": "pages/PDF-051.png",
+      "audio": "audio/CD2_38.mp3",
+      "expected_audio": "audio/CD2_38.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/38 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "c98e5e5f91d8c352ba8a415952129a269a357db73aed62774c55fdc2bbc929da",
+      "image_size": [
+        1224,
+        596
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        629,
+        1224,
+        1225
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 28.693333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 39,
+      "source_pdf_page": 51,
+      "crop_normalized": [
+        0,
+        0.73,
+        1,
+        0.925
+      ],
+      "activity": "The bug / bugs are in the bag",
+      "kind": "sentence+picture",
+      "region_id": "PDF-051-0.7300-0.9250",
+      "id": "CD2_39",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 50,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_39.png",
+      "page_image": "pages/PDF-051.png",
+      "audio": "audio/CD2_39.mp3",
+      "expected_audio": "audio/CD2_39.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/39 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "310d10086389fe8e5b527dbd7a4d5e9034cf8e8318df290427e416c011b2aa42",
+      "image_size": [
+        1224,
+        327
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        1225,
+        1224,
+        1552
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 41.36,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 40,
+      "source_pdf_page": 51,
+      "crop_normalized": [
+        0,
+        0.73,
+        1,
+        0.925
+      ],
+      "activity": "The bug / bugs are in the bag",
+      "kind": "sentence+picture",
+      "region_id": "PDF-051-0.7300-0.9250",
+      "id": "CD2_40",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 50,
+      "section_page": 5,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_40.png",
+      "page_image": "pages/PDF-051.png",
+      "audio": "audio/CD2_40.mp3",
+      "expected_audio": "audio/CD2_40.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/40 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "35442f982be0c1e8d7a8487ca4432b696516358ebe80ce6828af3719780b249e",
+      "image_size": [
+        1224,
+        327
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        1225,
+        1224,
+        1552
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 41.853333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 41,
+      "source_pdf_page": 52,
+      "crop_normalized": [
+        0,
+        0.015,
+        1,
+        0.42
+      ],
+      "activity": "C. Where’s the bat / Where are the books?",
+      "kind": "question+picture",
+      "region_id": "PDF-052-0.0150-0.4200",
+      "id": "CD2_41",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 51,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_41.png",
+      "page_image": "pages/PDF-052.png",
+      "audio": "audio/CD2_41.mp3",
+      "expected_audio": "audio/CD2_41.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/41 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "c4582cf772d1de509ff1b354a48c9c8638b506532b326285461a30bfc873c896",
+      "image_size": [
+        1224,
+        682
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        25,
+        1224,
+        707
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 77.04,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 42,
+      "source_pdf_page": 52,
+      "crop_normalized": [
+        0,
+        0.42,
+        1,
+        0.59
+      ],
+      "activity": "Where’s the doll / Where are the balls?",
+      "kind": "question+model",
+      "region_id": "PDF-052-0.4200-0.5900",
+      "id": "CD2_42",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 51,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_42.png",
+      "page_image": "pages/PDF-052.png",
+      "audio": "audio/CD2_42.mp3",
+      "expected_audio": "audio/CD2_42.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/42 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "7f21fd01e4e5dd585184a7d6136f26a330f8a0667995fbbf06b1a74ab9340648",
+      "image_size": [
+        1224,
+        287
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        707,
+        1224,
+        994
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 61.92,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 43,
+      "source_pdf_page": 52,
+      "crop_normalized": [
+        0,
+        0.42,
+        1,
+        0.59
+      ],
+      "activity": "Where’s the doll / Where are the balls?",
+      "kind": "question+model",
+      "region_id": "PDF-052-0.4200-0.5900",
+      "id": "CD2_43",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 51,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_43.png",
+      "page_image": "pages/PDF-052.png",
+      "audio": "audio/CD2_43.mp3",
+      "expected_audio": "audio/CD2_43.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/43 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "dc13bf726466883f67d97d92478452336576fca9ed9b973db285b67f88003f62",
+      "image_size": [
+        1224,
+        287
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        707,
+        1224,
+        994
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 51.506667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 44,
+      "source_pdf_page": 52,
+      "crop_normalized": [
+        0,
+        0.595,
+        1,
+        0.925
+      ],
+      "activity": "D. Where Are the Bugs?",
+      "kind": "song",
+      "region_id": "PDF-052-0.5950-0.9250",
+      "id": "CD2_44",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 51,
+      "section_page": 6,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_44.png",
+      "page_image": "pages/PDF-052.png",
+      "audio": "audio/CD2_44.mp3",
+      "expected_audio": "audio/CD2_44.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/44 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "8e62c4af3402845ffd913b1703e51cdad9d3247e42b4c5baf355a3872c4aead9",
+      "image_size": [
+        1224,
+        556
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        1002,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 45.466667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 45,
+      "source_pdf_page": 53,
+      "crop_normalized": [
+        0,
+        0.135,
+        1,
+        0.385
+      ],
+      "activity": "A. Alphabet N–Q",
+      "kind": "alphabet",
+      "region_id": "PDF-053-0.1350-0.3850",
+      "id": "CD2_45",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 52,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_45.png",
+      "page_image": "pages/PDF-053.png",
+      "audio": "audio/CD2_45.mp3",
+      "expected_audio": "audio/CD2_45.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/45 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "060b0ffa84de087442387c34783bf0f9769fcd6d960f400f110f2d1ee52c3260",
+      "image_size": [
+        1224,
+        421
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        227,
+        1224,
+        648
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 47.653333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 46,
+      "source_pdf_page": 53,
+      "crop_normalized": [
+        0,
+        0.385,
+        1,
+        0.925
+      ],
+      "activity": "B. Is there a doll in the bag?",
+      "kind": "practice",
+      "region_id": "PDF-053-0.3850-0.9250",
+      "id": "CD2_46",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 52,
+      "section_page": 7,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_46.png",
+      "page_image": "pages/PDF-053.png",
+      "audio": "audio/CD2_46.mp3",
+      "expected_audio": "audio/CD2_46.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/46 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "73f248001396d49a673393652674bad14bbf8156270985bf04152180689e3bd1",
+      "image_size": [
+        1224,
+        910
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        648,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 16.76,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 47,
+      "source_pdf_page": 54,
+      "crop_normalized": [
+        0,
+        0.49,
+        1,
+        0.925
+      ],
+      "activity": "D. Listen and circle: there is / are",
+      "kind": "listening",
+      "region_id": "PDF-054-0.4900-0.9250",
+      "id": "CD2_47",
+      "section": "Unit 6 - Outdoors",
+      "printed_page": 53,
+      "section_page": 8,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Unit 6 - Outdoors.pdf",
+      "image": "tracks/CD2_47.png",
+      "page_image": "pages/PDF-054.png",
+      "audio": "audio/CD2_47.mp3",
+      "expected_audio": "audio/CD2_47.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/47 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "549902709245b6972dd821fd729154b363a89871c06630590c614e84173ec5f3",
+      "image_size": [
+        1224,
+        733
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        825,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 48.413333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    }
+  ]
+}

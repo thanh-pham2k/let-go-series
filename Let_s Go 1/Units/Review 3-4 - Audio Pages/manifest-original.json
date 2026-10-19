@@ -1,0 +1,263 @@
+{
+  "section": "Review 3-4",
+  "source_pdf_pages": [
+    37,
+    38
+  ],
+  "page_count": 2,
+  "track_count": 5,
+  "audio_available": 5,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 95,
+      "source_pdf_page": 37,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.485
+      ],
+      "activity": "A. Listen and circle: Units 3–4",
+      "kind": "review",
+      "region_id": "PDF-037-0.0850-0.4850",
+      "id": "CD1_95",
+      "section": "Review 3-4",
+      "printed_page": 36,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 3-4.pdf",
+      "image": "tracks/CD1_95.png",
+      "page_image": "pages/PDF-037.png",
+      "audio": "audio/CD1_95.mp3",
+      "expected_audio": "audio/CD1_95.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/95 - (Third ed) - Track 95.mp3",
+      "audio_sha256": "fad9e3457aafe4b5585db5571c2d26e6d118ba3c2bea9c25fc0ccd3eb8bfe77d",
+      "image_size": [
+        1212,
+        674
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1212,
+        817
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 38.36,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 96,
+      "source_pdf_page": 37,
+      "crop_normalized": [
+        0,
+        0.485,
+        1,
+        0.925
+      ],
+      "activity": "B. Listen and number: family",
+      "kind": "review",
+      "region_id": "PDF-037-0.4850-0.9250",
+      "id": "CD1_96",
+      "section": "Review 3-4",
+      "printed_page": 36,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 3-4.pdf",
+      "image": "tracks/CD1_96.png",
+      "page_image": "pages/PDF-037.png",
+      "audio": "audio/CD1_96.mp3",
+      "expected_audio": "audio/CD1_96.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/96 - (Third ed) - Track 96.mp3",
+      "audio_sha256": "0a21700a6e74431197dea62dc62351a3bd069bc0aaa60be1fd20e659efacc644",
+      "image_size": [
+        1212,
+        741
+      ],
+      "source_page_size": [
+        1212,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        817,
+        1212,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 37.44,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 97,
+      "source_pdf_page": 38,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.545
+      ],
+      "activity": "A. Parts of the body",
+      "kind": "words",
+      "region_id": "PDF-038-0.0850-0.5450",
+      "id": "CD1_97",
+      "section": "Review 3-4",
+      "printed_page": 37,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 3-4.pdf",
+      "image": "tracks/CD1_97.png",
+      "page_image": "pages/PDF-038.png",
+      "audio": "audio/CD1_97.mp3",
+      "expected_audio": "audio/CD1_97.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/97 - (Third ed) - Track 97.mp3",
+      "audio_sha256": "2aa2ad54da206e266517c89193905c463f4cfbf5198787976726bf1e252fd871",
+      "image_size": [
+        1224,
+        772
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        915
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 80.666667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 98,
+      "source_pdf_page": 38,
+      "crop_normalized": [
+        0,
+        0.545,
+        1,
+        0.65
+      ],
+      "activity": "Touch your nose",
+      "kind": "sentence+words",
+      "region_id": "PDF-038-0.5450-0.6500",
+      "id": "CD1_98",
+      "section": "Review 3-4",
+      "printed_page": 37,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 3-4.pdf",
+      "image": "tracks/CD1_98.png",
+      "page_image": "pages/PDF-038.png",
+      "audio": "audio/CD1_98.mp3",
+      "expected_audio": "audio/CD1_98.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/98 - (Third ed) - Track 98.mp3",
+      "audio_sha256": "ce3ad2c0f26c8d4cc2c784e788f5323e5efeb0d5c93a42d1f5bcdfd7fd7d99c7",
+      "image_size": [
+        1224,
+        176
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        915,
+        1224,
+        1091
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 46.013333,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 1,
+      "track": 99,
+      "source_pdf_page": 38,
+      "crop_normalized": [
+        0,
+        0.65,
+        1,
+        0.925
+      ],
+      "activity": "B. Finger / fingers, toe / toes, foot / feet",
+      "kind": "words",
+      "region_id": "PDF-038-0.6500-0.9250",
+      "id": "CD1_99",
+      "section": "Review 3-4",
+      "printed_page": 37,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 3-4.pdf",
+      "image": "tracks/CD1_99.png",
+      "page_image": "pages/PDF-038.png",
+      "audio": "audio/CD1_99.mp3",
+      "expected_audio": "audio/CD1_99.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD1/99 - (Third ed) - Track 99.mp3",
+      "audio_sha256": "09b5774312a6b31dc80c129870829636e4ded347b1c9ce836145c21866636b04",
+      "image_size": [
+        1224,
+        461
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        1091,
+        1224,
+        1552
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 35.92,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    }
+  ]
+}

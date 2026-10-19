@@ -1,0 +1,54 @@
+{
+  "job": "batch-14",
+  "generated": "E:\\let-go-series\\output\\imagegen\\book1-all-batches\\batch-14\\generated.png",
+  "tracks": [
+    {
+      "id": "CD2_02",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_02.webp",
+      "bytes": 42512,
+      "sha256": "e92b57424a13606a6d428cab214c5f78ee4835754fb6d6a6dbc22de842a54d5f"
+    },
+    {
+      "id": "CD2_03",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_03.webp",
+      "bytes": 8426,
+      "sha256": "867e5e73d87a80e6bedb05ef6b8d99b833d825ca7b70dc97f651c9aebc8642bb"
+    },
+    {
+      "id": "CD2_04",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_04.webp",
+      "bytes": 42882,
+      "sha256": "384d435de077e5763bd73df2e65b551869fa3aabf87d37448fa38074630ad5ce"
+    },
+    {
+      "id": "CD2_05",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_05.webp",
+      "bytes": 27386,
+      "sha256": "50a6e7027e38f3a25506df9ed88b1eead4483c9212dbb5e9147b0a9b70a0fe29"
+    },
+    {
+      "id": "CD2_06",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_06.webp",
+      "bytes": 9326,
+      "sha256": "cecc868f22f04b618104d6aa8a6eaeef3524d2e92c33ce04ab2907ba1f81d529"
+    },
+    {
+      "id": "CD2_07",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_07.webp",
+      "bytes": 8920,
+      "sha256": "53df07e4d22fd70fdc072f604dbfd18383a8e6fb1f606d61630d37707781f6f7"
+    },
+    {
+      "id": "CD2_08",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_08.webp",
+      "bytes": 27586,
+      "sha256": "3cd4f7bd0d5903f5a007be40dd3f1dc9ee0b2693859b02f9f31a365be546a710"
+    },
+    {
+      "id": "CD2_09",
+      "image": "Unit 5 - Birthday and Toys - Audio Pages/regenerated/CD2_09.webp",
+      "bytes": 9618,
+      "sha256": "56a00f08d73c45fc1cb9f0b8c297fa320880cfc8188b1d2223965189f7be50b1"
+    }
+  ]
+}

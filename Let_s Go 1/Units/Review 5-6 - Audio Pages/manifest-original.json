@@ -1,0 +1,163 @@
+{
+  "section": "Review 5-6",
+  "source_pdf_pages": [
+    55,
+    56
+  ],
+  "page_count": 2,
+  "track_count": 3,
+  "audio_available": 3,
+  "missing_audio": [],
+  "tracks": [
+    {
+      "disc": 2,
+      "track": 48,
+      "source_pdf_page": 55,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.925
+      ],
+      "activity": "A. Listen and circle: Units 5–6",
+      "kind": "review",
+      "region_id": "PDF-055-0.0850-0.9250",
+      "id": "CD2_48",
+      "section": "Review 5-6",
+      "printed_page": 54,
+      "section_page": 1,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 5-6.pdf",
+      "image": "tracks/CD2_48.png",
+      "page_image": "pages/PDF-055.png",
+      "audio": "audio/CD2_48.mp3",
+      "expected_audio": "audio/CD2_48.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/48 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "007a12851b0df71df2d1e169fa3fee747a5b8a75824c67971a060d503f782631",
+      "image_size": [
+        1224,
+        1415
+      ],
+      "source_page_size": [
+        1224,
+        1684
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        1558
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 68.2,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 49,
+      "source_pdf_page": 56,
+      "crop_normalized": [
+        0,
+        0.085,
+        1,
+        0.7
+      ],
+      "activity": "A. Days of the week",
+      "kind": "question+words",
+      "region_id": "PDF-056-0.0850-0.7000",
+      "id": "CD2_49",
+      "section": "Review 5-6",
+      "printed_page": 55,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 5-6.pdf",
+      "image": "tracks/CD2_49.png",
+      "page_image": "pages/PDF-056.png",
+      "audio": "audio/CD2_49.mp3",
+      "expected_audio": "audio/CD2_49.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/49 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "51a996eb02db1170a7b5db8c4200e12460aa909e1f88d0577ceacf3257bc8d67",
+      "image_size": [
+        1224,
+        1032
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        143,
+        1224,
+        1175
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 80.746667,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "disc": 2,
+      "track": 50,
+      "source_pdf_page": 56,
+      "crop_normalized": [
+        0,
+        0.7,
+        1,
+        0.925
+      ],
+      "activity": "B. Today is Monday",
+      "kind": "sentence+calendar",
+      "region_id": "PDF-056-0.7000-0.9250",
+      "id": "CD2_50",
+      "section": "Review 5-6",
+      "printed_page": 55,
+      "section_page": 2,
+      "source_pdf": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition.pdf",
+      "source_section_pdf": "Review 5-6.pdf",
+      "image": "tracks/CD2_50.png",
+      "page_image": "pages/PDF-056.png",
+      "audio": "audio/CD2_50.mp3",
+      "expected_audio": "audio/CD2_50.mp3",
+      "audio_status": "available",
+      "source_audio": "Let_s Go 1/Oxford - Lets Go 1 Students Book 3 Edition CD2/50 - (CD2) - (Unit5-8).mp3",
+      "audio_sha256": "1b450ed929dc042017f4ba4969f0358269e872d4c11e7d6dd2c3388b8789147b",
+      "image_size": [
+        1224,
+        377
+      ],
+      "source_page_size": [
+        1224,
+        1678
+      ],
+      "crop_pixels": [
+        0,
+        1175,
+        1224,
+        1552
+      ],
+      "alignment_method": "Printed CD/track symbol on source page; original numbered CD file when available; each crop isolates its own printed activity",
+      "duration_seconds": 31.92,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    }
+  ]
+}

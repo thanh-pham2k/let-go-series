@@ -17,6 +17,8 @@
 # Challenge 1: Animals & Pets Master (Thú cưng & Động vật sở thú)
 
 ### C1.01
+
+<p align="center"><img src="Unit 8 - Animals - Audio Pages/challenge-assets/images/u8_dog.webp" width="220" alt="A cute dog"/></p>
 Loài thú cưng trung thành, thích sủa “gâu gâu” và vẫy đuôi mừng chủ là:
 - A. a cat
 - B. a dog
@@ -24,6 +26,8 @@ Loài thú cưng trung thành, thích sủa “gâu gâu” và vẫy đuôi m�
 - D. a frog
 
 ### C1.02
+
+<p align="center"><img src="Unit 8 - Animals - Audio Pages/challenge-assets/images/u8_giraffe.webp" width="220" alt="A tall giraffe"/></p>
 Loài vật có cổ cao lênh khênh, ăn lá cây trên ngọn cao là:
 - A. an elephant
 - B. a lion
@@ -31,6 +35,8 @@ Loài vật có cổ cao lênh khênh, ăn lá cây trên ngọn cao là:
 - D. a giraffe
 
 ### C1.03
+
+<p align="center"><img src="Unit 8 - Animals - Audio Pages/challenge-assets/images/u8_lion.webp" width="220" alt="A lion"/></p>
 Chúa tể rừng xanh có bờm xù dũng mãnh trong tiếng Anh là:
 - A. a lion
 - B. a tiger
@@ -38,6 +44,8 @@ Chúa tể rừng xanh có bờm xù dũng mãnh trong tiếng Anh là:
 - D. a rabbit
 
 ### C1.04
+
+<p align="center"><img src="Unit 8 - Animals - Audio Pages/challenge-assets/images/u8_frog.webp" width="220" alt="A frog"/></p>
 Loài lưỡng cư màu xanh lá cây, hay nhảy nhót quanh bờ ao hồ là:
 - A. a frog
 - B. a turtle
@@ -91,6 +99,8 @@ Từ **“van”** (xe tải nhỏ) và **“vacuum”** (máy hút bụi) cùng
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u8_c2_01.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_01.mp3)`
 Bạn nghe câu hỏi: **“What's your favorite color?”**. Bạn thích nhất màu đỏ, bạn trả lời:
 - A. It's a red.
 - B. I like dogs.
@@ -98,6 +108,8 @@ Bạn nghe câu hỏi: **“What's your favorite color?”**. Bạn thích nhấ
 - D. My favorite color is red.
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u8_c2_02.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_02.mp3)`
 Bạn nghe: **“What do you like?”** khi đứng trước chuồng thỏ. Bạn đáp:
 - A. I want a rabbit.
 - B. It's a rabbit.
@@ -105,6 +117,8 @@ Bạn nghe: **“What do you like?”** khi đứng trước chuồng thỏ. B�
 - D. They're rabbits.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u8_c2_03.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_03.mp3)`
 Bạn nghe: **“Do you like elephants?”** (và bạn rất yêu thích những chú voi to lớn). Bạn đáp:
 - A. No, I don't.
 - B. Yes, they are.
@@ -112,6 +126,8 @@ Bạn nghe: **“Do you like elephants?”** (và bạn rất yêu thích nhữn
 - D. I'm seven years old.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u8_c2_04.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_04.mp3)`
 Bạn nghe: **“Do you like tigers?”** (trong khi bạn rất sợ hổ dữ). Bạn trả lời:
 - A. No, I don't.
 - B. Yes, I do.
@@ -119,6 +135,8 @@ Bạn nghe: **“Do you like tigers?”** (trong khi bạn rất sợ hổ dữ)
 - D. No, it isn't.
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u8_c2_05.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_05.mp3)`
 Bạn nghe: **“I walk my dog every day.”**  
 Người nói chia sẻ về thói quen gì?
 - A. Cho rùa ăn mỗi ngày
@@ -127,6 +145,8 @@ Người nói chia sẻ về thói quen gì?
 - D. Vuốt ve chú mèo
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u8_c2_06.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_06.mp3)`
 Bạn nghe bài hát: **“Big turtles, little turtles, green turtles! I like turtles!”**  
 Loài vật được tôn vinh trong bài hát là:
 - A. Những chú chim
@@ -135,6 +155,8 @@ Loài vật được tôn vinh trong bài hát là:
 - D. Những chú gấu
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u8_c2_07.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_07.mp3)`
 Bạn nghe: **“Look at the trees! What do you like?” – “I like monkeys. They are funny!”**  
 Bạn ấy thích khỉ vì:
 - A. Chúng to lớn
@@ -143,6 +165,8 @@ Bạn ấy thích khỉ vì:
 - D. Chúng bơi giỏi
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u8_c2_08.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_08.mp3)`
 Bạn nghe: **“What do you want?” – “I want an apple.”**  
 Đây là câu diễn đạt:
 - A. Sở thích lâu dài với quả táo
@@ -151,6 +175,8 @@ Bạn nghe: **“What do you want?” – “I want an apple.”**
 - D. Mong muốn ăn một quả táo ngay bây giờ
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u8_c2_09.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_09.mp3)`
 Bạn nghe: **“Do you like giraffes?” – “Yes, I do. They are very tall.”**  
 Đặc điểm của loài hươu cao cổ là:
 - A. Rất thấp
@@ -159,6 +185,8 @@ Bạn nghe: **“Do you like giraffes?” – “Yes, I do. They are very tall.�
 - D. Rất cao (tall)
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u8_c2_10.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_c2_10.mp3)`
 Bạn nghe: **“I don't like bears. They are big and scary.”**  
 Người nói:
 - A. Rất thích gấu
@@ -173,6 +201,10 @@ Người nói:
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 15 từ)
+> 🎧 **Audio đọc mẫu:** `[u8_read_01.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_read_01.mp3)`
+>
+> <img src="Unit 8 - Animals - Audio Pages/challenge-assets/images/u8_read_01.webp" width="260" alt="A cute little green turtle"/>
+
 > *"Hello! My name is Ben. My favorite color is green.  
 > I have a small turtle. I like turtles."*
 
@@ -197,6 +229,10 @@ What pet does Ben have?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 27 từ)
+> 🎧 **Audio đọc mẫu:** `[u8_read_02.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_read_02.mp3)`
+>
+> <img src="Unit 8 - Animals - Audio Pages/challenge-assets/images/u8_read_02.webp" width="260" alt="Monkeys climbing on a tree"/>
+
 > *"Welcome to the city zoo! There are many wild animals today.  
 > Look at the monkeys! They are climbing the high trees.  
 > Do you like monkeys? Yes, I do. I love watching them."*
@@ -227,6 +263,8 @@ Does the visitor like monkeys?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Chuyến thăm nông trại & Sở thú - 5 câu, 45 từ)
+> 🎧 **Audio đọc mẫu:** `[u8_read_03.mp3](Unit 8 - Animals - Audio Pages/challenge-assets/audio/u8_read_03.mp3)`
+
 > *"On Sunday, Lucy visits a green farm with her grandfather.  
 > Lucy loves animals. She pets a white cat and brushes a brown horse.  
 > Her grandfather asks: 'What do you want to drink, Lucy?'  

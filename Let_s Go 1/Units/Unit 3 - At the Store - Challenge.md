@@ -31,6 +31,8 @@ Dạng số nhiều của từ **“a box”** (một chiếc hộp) trong tiế
 - D. boxes
 
 ### C1.03
+
+<p align="center"><img src="Unit 3 - At the Store - Audio Pages/challenge-assets/images/u3_computer.webp" width="220" alt="A computer"/></p>
 Thiết bị điện tử dùng để học tập, gõ văn bản và xem thông tin trên màn hình là:
 - A. a CD
 - B. a table
@@ -38,6 +40,8 @@ Thiết bị điện tử dùng để học tập, gõ văn bản và xem thông
 - D. a shelf
 
 ### C1.04
+
+<p align="center"><img src="Unit 3 - At the Store - Audio Pages/challenge-assets/images/u3_scissors.webp" width="220" alt="Child scissors"/></p>
 Vật dùng để xếp sách vở gọn gàng trên tường hoặc trong phòng học là:
 - A. a chair
 - B. a wastebasket
@@ -91,6 +95,8 @@ Khi chuyển từ danh từ số ít sang số nhiều, từ nào sau đây ch�
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u3_c2_01.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_01.mp3)`
 Bạn bước vào hiệu sách, cô bán hàng mỉm cười và hỏi: **“Can I help you?”**  
 Bạn muốn mua một cây thước kẻ, bạn đáp:
 - A. No, it isn't.
@@ -99,6 +105,8 @@ Bạn muốn mua một cây thước kẻ, bạn đáp:
 - D. My name is Scott.
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u3_c2_02.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_02.mp3)`
 Người bán hàng đưa đồ cho bạn và nói: **“Here you are.”**  
 Bạn sẽ đáp lại lịch sự bằng câu nào?
 - A. You're welcome.
@@ -107,6 +115,8 @@ Bạn sẽ đáp lại lịch sự bằng câu nào?
 - D. Can I help you?
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u3_c2_03.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_03.mp3)`
 Khi bạn nói “Thank you”, người đối diện sẽ đáp:
 - A. Here you are.
 - B. I'm fine.
@@ -114,6 +124,8 @@ Khi bạn nói “Thank you”, người đối diện sẽ đáp:
 - D. Yes, it is.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u3_c2_04.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_04.mp3)`
 Bạn nghe câu hỏi: **“What are these?”** khi chỉ vào 3 chiếc bút mực trên bàn.  
 Câu trả lời chuẩn là:
 - A. It's a pen.
@@ -122,6 +134,8 @@ Câu trả lời chuẩn là:
 - D. Yes, they are.
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u3_c2_05.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_05.mp3)`
 Bạn nghe: **“Are these your books?”** (và đúng là sách của bạn).  
 Bạn sẽ trả lời:
 - A. No, they aren't.
@@ -130,6 +144,8 @@ Bạn sẽ trả lời:
 - D. Yes, they are. Thank you!
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u3_c2_06.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_06.mp3)`
 Bạn nghe: **“Are these markers?”** (trong khi đó là những chiếc bút sáp *crayons*).  
 Bạn đáp:
 - A. No, they aren't. They're crayons.
@@ -138,6 +154,8 @@ Bạn đáp:
 - D. I like markers.
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u3_c2_07.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_07.mp3)`
 Bạn nghe thầy giáo nói: **“Please open your books to page 20.”**  
 Học sinh cần làm gì?
 - A. Cất sách đi
@@ -146,6 +164,8 @@ Học sinh cần làm gì?
 - D. Mở sách ra trang 20
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u3_c2_08.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_08.mp3)`
 Bạn nghe: **“These are new computers.”**  
 Người nói đang giới thiệu về thứ gì?
 - A. Những chiếc bàn mới
@@ -154,6 +174,8 @@ Người nói đang giới thiệu về thứ gì?
 - D. Những chiếc máy vi tính mới
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u3_c2_09.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_09.mp3)`
 Bạn nghe bạn mình hỏi: **“What are these?”** (chỉ vào chùm bóng bay).  
 Câu trả lời phù hợp nhất là:
 - A. It's a ball.
@@ -162,6 +184,8 @@ Câu trả lời phù hợp nhất là:
 - D. They're balloons.
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u3_c2_10.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_c2_10.mp3)`
 Bạn nghe: **“Close your books, please.”**  
 Hành động đúng là:
 - A. Mở sách ra học tiếp
@@ -176,6 +200,10 @@ Hành động đúng là:
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 15 từ)
+> 🎧 **Audio đọc mẫu:** `[u3_read_01.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_read_01.mp3)`
+>
+> <img src="Unit 3 - At the Store - Audio Pages/challenge-assets/images/u3_read_01.webp" width="260" alt="Blue and red pens"/>
+
 > *"Welcome to the school store!  
 > Look at these pens. They are blue and red."*
 
@@ -200,6 +228,10 @@ What colors are the pens?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 28 từ)
+> 🎧 **Audio đọc mẫu:** `[u3_read_02.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_read_02.mp3)`
+>
+> <img src="Unit 3 - At the Store - Audio Pages/challenge-assets/images/u3_read_02.webp" width="260" alt="Scott at the store counter with pencils and eraser"/>
+
 > *"Hello! My name is Scott. I am at the store.  
 > Can I help you? Yes, please. I want three pencils and one big eraser.  
 > Here you are. Thank you very much!"*
@@ -231,6 +263,8 @@ What does Scott say when he receives the items?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Ngữ cảnh mở rộng - 5 câu, 45 từ)
+> 🎧 **Audio đọc mẫu:** `[u3_read_03.mp3](Unit 3 - At the Store - Audio Pages/challenge-assets/audio/u3_read_03.mp3)`
+
 > *"Today, our school has a new computer room.  
 > Look! These are five computers on the long tables.  
 > Are these CDs? Yes, they are. They are for our English listening lessons.  

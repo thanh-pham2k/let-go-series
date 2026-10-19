@@ -17,6 +17,8 @@
 # Challenge 1: Outdoors & Nature Master (Thời tiết & Cảnh vật)
 
 ### C1.01
+
+<p align="center"><img src="Unit 6 - Outdoors - Audio Pages/challenge-assets/images/u6_cloudy.webp" width="220" alt="Cloudy sky"/></p>
 Khi nhìn lên bầu trời thấy mây đen phủ kín và không có nắng, thời tiết là:
 - A. sunny
 - B. cloudy
@@ -24,6 +26,8 @@ Khi nhìn lên bầu trời thấy mây đen phủ kín và không có nắng, t
 - D. snowy
 
 ### C1.02
+
+<p align="center"><img src="Unit 6 - Outdoors - Audio Pages/challenge-assets/images/u6_snowy.webp" width="220" alt="Snowy winter scene"/></p>
 Vào mùa đông ở các nước xứ lạnh, tuyết rơi trắng xóa khắp mặt đất. Thời tiết đó là:
 - A. rainy
 - B. snowy
@@ -31,6 +35,8 @@ Vào mùa đông ở các nước xứ lạnh, tuyết rơi trắng xóa khắp 
 - D. cloudy
 
 ### C1.03
+
+<p align="center"><img src="Unit 6 - Outdoors - Audio Pages/challenge-assets/images/u6_tree.webp" width="220" alt="A big green tree"/></p>
 Cảnh vật tự nhiên có rễ cắm sâu vào lòng đất, có thân gỗ cao và tán lá xanh là:
 - A. a tree
 - B. a flower
@@ -38,6 +44,8 @@ Cảnh vật tự nhiên có rễ cắm sâu vào lòng đất, có thân gỗ c
 - D. a cloud
 
 ### C1.04
+
+<p align="center"><img src="Unit 6 - Outdoors - Audio Pages/challenge-assets/images/u6_puddle.webp" width="220" alt="A rain puddle"/></p>
 Vũng nước nhỏ đọng trên đường sau cơn mưa rào được gọi là:
 - A. a puddle
 - B. a river
@@ -91,6 +99,8 @@ Từ **“question”** (câu hỏi) và **“queen”** (nữ hoàng) cùng b�
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u6_c2_01.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_01.mp3)`
 Bạn nghe: **“How's the weather today?”** khi ngoài trời đang có nắng ấm rực rỡ.  
 Bạn sẽ trả lời:
 - A. It's rainy.
@@ -99,6 +109,8 @@ Bạn sẽ trả lời:
 - D. My name is Scott.
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u6_c2_02.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_02.mp3)`
 Bạn nghe: **“How many flowers are there?”** (nhìn thấy có 5 bông hoa).  
 Câu trả lời chuẩn xác là:
 - A. There's five flowers.
@@ -107,6 +119,8 @@ Câu trả lời chuẩn xác là:
 - D. It's five flowers.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u6_c2_03.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_03.mp3)`
 Bạn nghe: **“Can you catch a ball?”** (và bạn bắt bóng rất cừ khôi).  
 Bạn đáp:
 - A. No, I can't.
@@ -115,6 +129,8 @@ Bạn đáp:
 - D. It's a ball.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u6_c2_04.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_04.mp3)`
 Bạn nghe: **“Where's the cat?” – “It's under the table.”**  
 Chú mèo đang nằm ở đâu?
 - A. Trên mặt bàn
@@ -123,6 +139,8 @@ Chú mèo đang nằm ở đâu?
 - D. Bên cạnh gốc cây
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u6_c2_05.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_05.mp3)`
 Bạn nghe: **“Where are the bugs?” – “They're on the flowers.”**  
 Những chú bọ đang ở đâu?
 - A. Trên những bông hoa
@@ -131,6 +149,8 @@ Những chú bọ đang ở đâu?
 - D. Bay trên trời
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u6_c2_06.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_06.mp3)`
 Bạn nghe: **“Is there a book in your bag?”** (và đúng là có một quyển sách trong cặp).  
 Bạn đáp:
 - A. Yes, there is.
@@ -139,6 +159,8 @@ Bạn đáp:
 - D. It's a pencil.
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u6_c2_07.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_07.mp3)`
 Bạn nghe: **“Are there balls under the chair?”** (trong khi dưới ghế không có quả bóng nào).  
 Bạn đáp:
 - A. Yes, there are.
@@ -147,6 +169,8 @@ Bạn đáp:
 - D. No, there aren't.
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u6_c2_08.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_08.mp3)`
 Bạn nghe: **“Look at the sky! There's one big white cloud.”**  
 Trên bầu trời có:
 - A. Nhiều đám mây đen
@@ -155,6 +179,8 @@ Trên bầu trời có:
 - D. 1 đám mây trắng lớn
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u6_c2_09.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_09.mp3)`
 Bạn nghe bạn mình rủ: **“It's windy today. Let's fly a kite!”**  
 Lời rủ đó có nghĩa là:
 - A. Hôm nay trời mưa. Hãy ở trong nhà!
@@ -163,6 +189,8 @@ Lời rủ đó có nghĩa là:
 - D. Cùng nhau đạp xe nào!
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u6_c2_10.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_c2_10.mp3)`
 Bạn nghe: **“Where's the bicycle?” – “It's by the tree.”**  
 Chiếc xe đạp đang dựng ở:
 - A. Bên cạnh cái cây
@@ -177,6 +205,10 @@ Chiếc xe đạp đang dựng ở:
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 14 từ)
+> 🎧 **Audio đọc mẫu:** `[u6_read_01.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_read_01.mp3)`
+>
+> <img src="Unit 6 - Outdoors - Audio Pages/challenge-assets/images/u6_read_01.webp" width="260" alt="Yellow flower next to a green tree"/>
+
 > *"How's the weather today? It is sunny.*  
 > *Look at the park. There are four tall trees."*
 
@@ -201,6 +233,10 @@ How many tall trees are there?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 26 từ)
+> 🎧 **Audio đọc mẫu:** `[u6_read_02.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_read_02.mp3)`
+>
+> <img src="Unit 6 - Outdoors - Audio Pages/challenge-assets/images/u6_read_02.webp" width="260" alt="Yellow bug on a flower"/>
+
 > *"Hello! My name is Andy. I am in the garden.*  
 > *There is one little puddle by the gate.*  
 > *Where are the yellow bugs? They are on the green flowers."*
@@ -232,6 +268,8 @@ Where are the bugs resting?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Ngữ cảnh dã ngoại mở rộng - 5 câu, 45 từ)
+> 🎧 **Audio đọc mẫu:** `[u6_read_03.mp3](Unit 6 - Outdoors - Audio Pages/challenge-assets/audio/u6_read_03.mp3)`
+
 > *"Today is a windy and cool day.  
 > Scott and Kate play in the yard with their friends.  
 > Scott has a big red ball. He can kick the ball very high.  

@@ -31,6 +31,8 @@ Quả cam chín có màu gì trong tiếng Anh?
 - D. red
 
 ### C1.03
+
+<p align="center"><img src="Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/images/u2_square_blue.webp" width="220" alt="A blue square"/></p>
 Hình khối nào sau đây có 4 cạnh bằng nhau và 4 góc vuông?
 - A. a rectangle
 - B. a triangle
@@ -38,6 +40,8 @@ Hình khối nào sau đây có 4 cạnh bằng nhau và 4 góc vuông?
 - D. a diamond
 
 ### C1.04
+
+<p align="center"><img src="Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/images/u2_circle_yellow.webp" width="220" alt="A yellow circle"/></p>
 Hình dạng của quả trứng gà hoặc quả bóng bầu dục là hình gì?
 - A. a circle
 - B. a star
@@ -45,6 +49,8 @@ Hình dạng của quả trứng gà hoặc quả bóng bầu dục là hình g�
 - D. an oval
 
 ### C1.05
+
+<p align="center"><img src="Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/images/u2_heart_red.webp" width="220" alt="A red heart"/></p>
 Biểu tượng của tình yêu thương thường được vẽ bằng hình nào?
 - A. a triangle
 - B. a diamond
@@ -91,6 +97,8 @@ Hai từ **“fish”** (con cá) và **“fan”** (cái quạt) cùng bắt đ
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u2_c2_01.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_01.mp3)`
 Bạn gặp bạn mình ở sân trường và nghe: **“Hi! How are you?”**  
 Câu trả lời tự nhiên và lịch sự của bạn là:
 - A. My name is Scott.
@@ -99,6 +107,8 @@ Câu trả lời tự nhiên và lịch sự của bạn là:
 - D. I'm fine, thank you.
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u2_c2_02.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_02.mp3)`
 Bạn nghe câu hỏi: **“What color is this?”** khi chỉ vào bông hoa hồng đỏ.  
 Câu trả lời đúng là:
 - A. It's red.
@@ -107,6 +117,8 @@ Câu trả lời đúng là:
 - D. It's a flower.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u2_c2_03.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_03.mp3)`
 Bạn nghe: **“Is it a green triangle?”** trong khi hình vẽ trước mặt là hình tròn màu vàng.  
 Bạn sẽ đáp:
 - A. No, it isn't.
@@ -115,6 +127,8 @@ Bạn sẽ đáp:
 - D. I'm fine.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u2_c2_04.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_04.mp3)`
 Bạn nghe thầy giáo nói: **“Point to the board, please.”**  
 Hành động đúng của bạn là:
 - A. Đi lên bảng cầm phấn viết
@@ -123,6 +137,8 @@ Hành động đúng của bạn là:
 - D. Đi vòng quanh lớp
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u2_c2_05.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_05.mp3)`
 Bạn nghe bài hát: **“Black cat, black cat, what do you see?”**  
 Con vật trong bài hát có màu gì?
 - A. Màu trắng
@@ -131,6 +147,8 @@ Con vật trong bài hát có màu gì?
 - D. Màu nâu
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u2_c2_06.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_06.mp3)`
 Bạn nghe câu: **“This is an orange oval.”**  
 Hình dạng và màu sắc của đồ vật này là:
 - A. Hình bầu dục màu cam
@@ -139,6 +157,8 @@ Hình dạng và màu sắc của đồ vật này là:
 - D. Hình vuông màu đỏ
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u2_c2_07.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_07.mp3)`
 Bạn nghe câu hỏi: **“What color is it?”** (chỉ chiếc lá cây tươi).  
 Câu trả lời chính xác là:
 - A. It's green.
@@ -147,6 +167,8 @@ Câu trả lời chính xác là:
 - D. It's purple.
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u2_c2_08.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_08.mp3)`
 Bạn nghe: **“Is it a heart?” – “Yes, it is.”**  
 Hai bạn đang đồng ý rằng hình đó là:
 - A. Hình ngôi sao
@@ -155,6 +177,8 @@ Hai bạn đang đồng ý rằng hình đó là:
 - D. Hình tam giác
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u2_c2_09.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_09.mp3)`
 Bạn nghe bạn mình hỏi: **“How are you?”** sau một ngày học vui vẻ.  
 Ngoài câu “I'm fine, thank you”, bạn có thể trả lời ngắn gọn là:
 - A. It's a book.
@@ -163,6 +187,8 @@ Ngoài câu “I'm fine, thank you”, bạn có thể trả lời ngắn gọn 
 - D. I'm good, thanks!
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u2_c2_10.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_c2_10.mp3)`
 Bạn nghe bạn mình reo lên: **“Look! It's a yellow star!”**  
 Vật bạn ấy đang nhìn thấy là:
 - A. Mặt trời màu đỏ
@@ -177,6 +203,10 @@ Vật bạn ấy đang nhìn thấy là:
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 13 từ)
+> 🎧 **Audio đọc mẫu:** `[u2_read_01.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_read_01.mp3)`
+>
+> <img src="Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/images/u2_read_01.webp" width="260" alt="Black cat playing with a red ball"/>
+
 > *"Look at my cat. It is black.*  
 > *It plays with a red ball."*
 
@@ -201,6 +231,10 @@ What color is the ball?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 25 từ)
+> 🎧 **Audio đọc mẫu:** `[u2_read_02.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_read_02.mp3)`
+>
+> <img src="Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/images/u2_read_02.webp" width="260" alt="Jenny holding a drawing book with a blue triangle"/>
+
 > *"Hello! My name is Jenny.*  
 > *I have a drawing book. Look at this shape.*  
 > *It is not a square. It is a blue triangle."*
@@ -231,6 +265,8 @@ What shape and color is it?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Ngữ cảnh lớp học mở rộng - 5 câu, 40 từ)
+> 🎧 **Audio đọc mẫu:** `[u2_read_03.mp3](Unit 2 - Colors and Shapes - Audio Pages/challenge-assets/audio/u2_read_03.mp3)`
+
 > *"Welcome to Art class! Today we learn colors and shapes.*  
 > *Scott has a green circle and an orange diamond.*  
 > *Kate points to the board. There is a big yellow star.*  

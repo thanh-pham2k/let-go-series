@@ -17,6 +17,8 @@
 # Challenge 1: Vocabulary & Alphabet Master (Nhận diện từ & Chữ cái)
 
 ### C1.01
+
+<p align="center"><img src="Unit 1 - Things for School - Audio Pages/challenge-assets/images/u1_ruler.webp" width="220" alt="A ruler"/></p>
 Nhìn đồ vật bạn dùng để kẻ đoạn thẳng trong cặp. Từ tiếng Anh tương ứng là:
 - A. a pencil
 - B. an eraser
@@ -24,6 +26,8 @@ Nhìn đồ vật bạn dùng để kẻ đoạn thẳng trong cặp. Từ tiế
 - D. a ruler
 
 ### C1.02
+
+<p align="center"><img src="Unit 1 - Things for School - Audio Pages/challenge-assets/images/u1_globe.webp" width="220" alt="A globe"/></p>
 Vật dụng nào sau đây trong lớp học có dạng hình cầu tròn để xem các quốc gia?
 - A. a globe
 - B. a map
@@ -31,6 +35,8 @@ Vật dụng nào sau đây trong lớp học có dạng hình cầu tròn để
 - D. a board
 
 ### C1.03
+
+<p align="center"><img src="Unit 1 - Things for School - Audio Pages/challenge-assets/images/u1_wastebasket.webp" width="220" alt="A wastebasket"/></p>
 Đồ dùng nào được dùng để đựng giấy rác vụn trong phòng học?
 - A. a wastebasket
 - B. a bag
@@ -93,6 +99,8 @@ Cặp chữ cái hoa – thường nào sau đây được viết KHÔNG chính 
 *(Gợi ý: Phụ huynh/giáo viên có thể đọc to câu tiếng Anh hoặc bật audio clip tương ứng)*
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u1_c2_01.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_01.mp3)`
 Bạn nghe người bạn mới gặp nói: **“Hello. I'm Scott. What's your name?”**  
 Câu đáp lại tự nhiên và chuẩn xác của bạn là:
 - A. I'm fine, thank you.
@@ -101,6 +109,8 @@ Câu đáp lại tự nhiên và chuẩn xác của bạn là:
 - D. My name is Nam.
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u1_c2_02.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_02.mp3)`
 Bạn nghe câu hỏi: **“What's this?”** (chỉ vào chiếc bàn học).  
 Câu trả lời phù hợp nhất là:
 - A. Yes, it is.
@@ -109,6 +119,8 @@ Câu trả lời phù hợp nhất là:
 - D. My name is Andy.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u1_c2_03.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_03.mp3)`
 Bạn nghe câu hỏi: **“Is this a book?”** trong khi đồ vật trên bàn là một cây bút dạ (*marker*).  
 Bạn sẽ đáp:
 - A. No, it isn't. It's a marker.
@@ -117,6 +129,8 @@ Bạn sẽ đáp:
 - D. Yes, I am.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u1_c2_04.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_04.mp3)`
 Bạn nghe bạn mình hỏi: **“Is this your eraser?”** (chỉ đúng vào cục tẩy của bạn).  
 Bạn sẽ trả lời lịch sự thế nào?
 - A. No, it is.
@@ -125,6 +139,8 @@ Bạn sẽ trả lời lịch sự thế nào?
 - D. I like English!
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u1_c2_05.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_05.mp3)`
 Bạn nghe cô giáo nói: **“Please make a line.”**  
 Học sinh trong lớp cần làm gì ngay lập tức?
 - A. Ngồi trật tự tại chỗ
@@ -133,6 +149,8 @@ Học sinh trong lớp cần làm gì ngay lập tức?
 - D. Xếp thành hàng ngay ngắn
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u1_c2_06.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_06.mp3)`
 Nghe lời bài hát: **“A B C D E F G... I like English!”**  
 Cụm từ “I like English!” thể hiện điều gì?
 - A. Mình đang học tiếng Anh.
@@ -141,6 +159,8 @@ Cụm từ “I like English!” thể hiện điều gì?
 - D. Bạn có thích tiếng Anh không?
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u1_c2_07.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_07.mp3)`
 Bạn nghe câu: **“This is my bag.”**  
 Ý nghĩa chính xác của câu này là:
 - A. Đây là cặp sách của bạn.
@@ -149,6 +169,8 @@ Bạn nghe câu: **“This is my bag.”**
 - D. Đó là một chiếc cặp.
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u1_c2_08.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_08.mp3)`
 Bạn nghe: **“Look at the wall. This is a map.”**  
 Người nói đang muốn bạn chú ý đến vật gì trên tường?
 - A. Cái đồng hồ
@@ -157,6 +179,8 @@ Người nói đang muốn bạn chú ý đến vật gì trên tường?
 - D. Bức tranh áp phích
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u1_c2_09.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_09.mp3)`
 Bạn nghe bạn bên cạnh nói: **“This is your pencil.”** và đưa cho bạn cây bút chì.  
 Bạn nên đáp lại như thế nào?
 - A. Good-bye.
@@ -165,6 +189,8 @@ Bạn nên đáp lại như thế nào?
 - D. Stand up.
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u1_c2_10.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_c2_10.mp3)`
 Nghe câu đối thoại: **“Is this a table?” – “Yes, it is.”**  
 Hai bạn đang nói về đồ vật gì?
 - A. Cái ghế tựa
@@ -179,6 +205,10 @@ Hai bạn đang nói về đồ vật gì?
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 14 từ)
+> 🎧 **Audio đọc mẫu:** `[u1_read_01.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_read_01.mp3)`
+>
+> <img src="Unit 1 - Things for School - Audio Pages/challenge-assets/images/u1_read_01.webp" width="260" alt="Andy with his yellow pencil"/>
+
 > *"Hello! My name is Andy.*  
 > *This is my pencil. It is yellow."*
 
@@ -203,6 +233,10 @@ What color is Andy's pencil?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 26 từ)
+> 🎧 **Audio đọc mẫu:** `[u1_read_02.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_read_02.mp3)`
+>
+> <img src="Unit 1 - Things for School - Audio Pages/challenge-assets/images/u1_read_02.webp" width="260" alt="School desk with backpack, eraser, and marker"/>
+
 > *"Look at my desk. This is a big bag.*  
 > *Is this an eraser? Yes, it is.*  
 > *This is not a pen. It is a marker."*
@@ -233,6 +267,8 @@ What is on the desk: a pen or a marker?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Ngữ cảnh lớp học mở rộng - 5 câu, 42 từ)
+> 🎧 **Audio đọc mẫu:** `[u1_read_03.mp3](Unit 1 - Things for School - Audio Pages/challenge-assets/audio/u1_read_03.mp3)`
+
 > *"Good morning, class! My name is Kate.*  
 > *Welcome to our classroom. Look at the wall!*  
 > *This is a big board and that is a colorful map.*  

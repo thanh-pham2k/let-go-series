@@ -17,6 +17,8 @@
 # Challenge 1: Food & Drinks Master (Đồ ăn & Thói quen)
 
 ### C1.01
+
+<p align="center"><img src="Unit 7 - Food - Audio Pages/challenge-assets/images/u7_rice.webp" width="220" alt="A bowl of rice"/></p>
 Món ăn chính quen thuộc từ hạt gạo nấu chín trong bữa cơm gia đình là:
 - A. bread
 - B. pizza
@@ -24,6 +26,8 @@ Món ăn chính quen thuộc từ hạt gạo nấu chín trong bữa cơm gia �
 - D. rice
 
 ### C1.02
+
+<p align="center"><img src="Unit 7 - Food - Audio Pages/challenge-assets/images/u7_banana.webp" width="220" alt="A yellow banana"/></p>
 Loại quả màu vàng cong cong, vỏ mềm, khỉ rất thích ăn là:
 - A. an apple
 - B. a banana
@@ -31,6 +35,8 @@ Loại quả màu vàng cong cong, vỏ mềm, khỉ rất thích ăn là:
 - D. a salad
 
 ### C1.03
+
+<p align="center"><img src="Unit 7 - Food - Audio Pages/challenge-assets/images/u7_milk.webp" width="220" alt="A glass of milk"/></p>
 Món đồ uống giàu canxi, tốt cho xương và răng của trẻ em là:
 - A. soda
 - B. coffee
@@ -38,6 +44,8 @@ Món đồ uống giàu canxi, tốt cho xương và răng của trẻ em là:
 - D. milk
 
 ### C1.04
+
+<p align="center"><img src="Unit 7 - Food - Audio Pages/challenge-assets/images/u7_pizza.webp" width="220" alt="A pizza"/></p>
 Món bánh tròn có phô mai dai và xúc xích nướng thơm lừng là:
 - A. ice cream
 - B. pizza
@@ -91,6 +99,8 @@ Từ **“towel”** (chiếc khăn tắm) và **“teapot”** (ấm trà) cùn
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u7_c2_01.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_01.mp3)`
 Bạn nghe: **“I'm thirsty! I want water.”**  
 Người nói đang cảm thấy thế nào và muốn gì?
 - A. Đói bụng và muốn ăn cơm
@@ -99,6 +109,8 @@ Người nói đang cảm thấy thế nào và muốn gì?
 - D. Vui vẻ và muốn đi chơi
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u7_c2_02.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_02.mp3)`
 Bạn đưa đĩa bánh cho bạn mình và nói: **“Here you are.”**  
 Bạn ấy nhận lấy và đáp lại:
 - A. You're welcome.
@@ -107,6 +119,8 @@ Bạn ấy nhận lấy và đáp lại:
 - D. No, it isn't.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u7_c2_03.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_03.mp3)`
 Khi ai đó cảm ơn bạn: “Thank you very much!”, câu đáp chuẩn mực là:
 - A. Here you are!
 - B. I'm fine.
@@ -114,6 +128,8 @@ Khi ai đó cảm ơn bạn: “Thank you very much!”, câu đáp chuẩn mự
 - D. You're welcome!
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u7_c2_04.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_04.mp3)`
 Bạn nghe câu hỏi: **“What do you want?”** khi đứng trước quầy bánh kẹo. Bạn muốn ăn kem, bạn đáp:
 - A. I like ice cream.
 - B. It's an ice cream.
@@ -121,6 +137,8 @@ Bạn nghe câu hỏi: **“What do you want?”** khi đứng trước quầy b
 - D. I want ice cream, please.
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u7_c2_05.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_05.mp3)`
 Bạn nghe: **“Do you want chicken?”** (và đó là món khoái khẩu của bạn). Bạn đáp:
 - A. No, I don't.
 - B. Yes, it is.
@@ -128,6 +146,8 @@ Bạn nghe: **“Do you want chicken?”** (và đó là món khoái khẩu củ
 - D. I'm hungry.
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u7_c2_06.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_06.mp3)`
 Bạn nghe: **“Do you want fish?”** (trong khi bạn không thích ăn cá). Bạn từ chối lịch sự:
 - A. No, I don't. Thank you.
 - B. No, I am not.
@@ -135,6 +155,8 @@ Bạn nghe: **“Do you want fish?”** (trong khi bạn không thích ăn cá).
 - D. I don't like.
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u7_c2_07.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_07.mp3)`
 Bạn nghe mẹ nhắc trước giờ ăn cơm: **“Please wash your hands!”**  
 Bạn sẽ làm hành động gì?
 - A. Ngồi vào bàn ăn ngay
@@ -143,6 +165,8 @@ Bạn sẽ làm hành động gì?
 - D. Lấy sách ra đọc
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u7_c2_08.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_08.mp3)`
 Bạn nghe: **“I want an orange and two bananas.”**  
 Người nói muốn mua những loại quả nào?
 - A. 2 quả cam và 1 quả chuối
@@ -151,6 +175,8 @@ Người nói muốn mua những loại quả nào?
 - D. 2 quả trứng và 1 quả chuối
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u7_c2_09.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_09.mp3)`
 Bạn nghe: **“I don't want soda. I want milk.”**  
 Bạn nhỏ muốn uống sữa và không muốn uống món gì?
 - A. Nước ép táo
@@ -159,6 +185,8 @@ Bạn nhỏ muốn uống sữa và không muốn uống món gì?
 - D. Nước lọc
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u7_c2_10.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_c2_10.mp3)`
 Bạn nghe lời hát: **“An apple a day keeps the doctor away! I want an apple!”**  
 Bài hát ca ngợi loại quả bổ dưỡng nào?
 - A. Quả táo (apple)
@@ -173,6 +201,10 @@ Bài hát ca ngợi loại quả bổ dưỡng nào?
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 15 từ)
+> 🎧 **Audio đọc mẫu:** `[u7_read_01.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_read_01.mp3)`
+>
+> <img src="Unit 7 - Food - Audio Pages/challenge-assets/images/u7_read_01.webp" width="260" alt="A sandwich and a glass of milk"/>
+
 > *"It is lunch time! I am very hungry.  
 > I want a big sandwich and cold milk."*
 
@@ -197,6 +229,10 @@ What food and drink does the child want?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 26 từ)
+> 🎧 **Audio đọc mẫu:** `[u7_read_02.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_read_02.mp3)`
+>
+> <img src="Unit 7 - Food - Audio Pages/challenge-assets/images/u7_read_02.webp" width="260" alt="A boiled egg and an orange"/>
+
 > *"Hello! My name is Lucy. Every morning, I brush my teeth and wash my hands.  
 > At breakfast, I eat one boiled egg and an orange.  
 > I do not want soda. I drink water."*
@@ -228,6 +264,8 @@ What does Lucy drink?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Bữa tối gia đình ấm cúng - 5 câu, 45 từ)
+> 🎧 **Audio đọc mẫu:** `[u7_read_03.mp3](Unit 7 - Food - Audio Pages/challenge-assets/audio/u7_read_03.mp3)`
+
 > *"Today, our family has a delicious dinner together.  
 > On the table, there is chicken, fish, salad, and warm rice.  
 > My father asks: 'Do you want chicken, Tom?'  

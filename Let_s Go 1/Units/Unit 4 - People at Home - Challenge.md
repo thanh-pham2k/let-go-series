@@ -17,6 +17,8 @@
 # Challenge 1: Family & People Master (Thành viên & Miêu tả)
 
 ### C1.01
+
+<p align="center"><img src="Unit 4 - People at Home - Audio Pages/challenge-assets/images/u4_mother.webp" width="220" alt="Mother"/></p>
 Người phụ nữ sinh ra bạn trong gia đình được gọi là:
 - A. grandmother
 - B. sister
@@ -24,6 +26,8 @@ Người phụ nữ sinh ra bạn trong gia đình được gọi là:
 - D. mother
 
 ### C1.02
+
+<p align="center"><img src="Unit 4 - People at Home - Audio Pages/challenge-assets/images/u4_grandfather.webp" width="220" alt="Grandfather"/></p>
 Người đàn ông lớn tuổi nhất, là bố của bố hoặc bố của mẹ bạn là:
 - A. father
 - B. brother
@@ -31,6 +35,8 @@ Người đàn ông lớn tuổi nhất, là bố của bố hoặc bố của m
 - D. grandfather
 
 ### C1.03
+
+<p align="center"><img src="Unit 4 - People at Home - Audio Pages/challenge-assets/images/u4_brother.webp" width="220" alt="Brother"/></p>
 Từ nào sau đây có nghĩa là “anh trai hoặc em trai”?
 - A. sister
 - B. father
@@ -91,6 +97,8 @@ Cặp từ trái nghĩa nào sau đây ghép ĐÚNG:
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u4_c2_01.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_01.mp3)`
 Bạn nghe Scott dẫn bạn về nhà và giới thiệu: **“This is my mother.”**  
 Câu chào lịch sự và chuẩn mực của bạn là:
 - A. Good-bye!
@@ -99,6 +107,8 @@ Câu chào lịch sự và chuẩn mực của bạn là:
 - D. How old are you?
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u4_c2_02.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_02.mp3)`
 Khi ai đó nói: **“Nice to meet you.”**, bạn đáp lại:
 - A. You're welcome.
 - B. Here you are.
@@ -106,6 +116,8 @@ Khi ai đó nói: **“Nice to meet you.”**, bạn đáp lại:
 - D. Fine, thank you.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u4_c2_03.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_03.mp3)`
 Bạn nghe câu hỏi: **“Who's she?”** khi người ta chỉ vào em bé gái nhỏ xíu.  
 Câu trả lời đúng là:
 - A. He's my brother.
@@ -114,6 +126,8 @@ Câu trả lời đúng là:
 - D. She's my baby sister.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u4_c2_04.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_04.mp3)`
 Bạn nghe: **“Who's he?”** (chỉ vào người anh trai).  
 Câu trả lời đúng ngữ pháp là:
 - A. She's my brother.
@@ -122,6 +136,8 @@ Câu trả lời đúng ngữ pháp là:
 - D. It's my brother.
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u4_c2_05.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_05.mp3)`
 Bạn nghe: **“Is your father tall?”** (và bố bạn thực sự rất cao).  
 Bạn sẽ đáp:
 - A. No, he isn't. He's short.
@@ -130,6 +146,8 @@ Bạn sẽ đáp:
 - D. Yes, he is.
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u4_c2_06.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_06.mp3)`
 Bạn nghe: **“Is she old?”** (khi chỉ vào em gái 5 tuổi).  
 Bạn trả lời:
 - A. Yes, she is.
@@ -138,6 +156,8 @@ Bạn trả lời:
 - D. No, she isn't. She's young.
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u4_c2_07.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_07.mp3)`
 Bạn nghe mẹ bảo: **“Give me a smile, please!”**  
 Bạn sẽ làm hành động gì?
 - A. Mỉm cười thật tươi với mẹ
@@ -146,6 +166,8 @@ Bạn sẽ làm hành động gì?
 - D. Hát một bài
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u4_c2_08.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_08.mp3)`
 Bạn nghe: **“Hug your mother.”**  
 Hành động tương ứng là:
 - A. Chạy lại ôm mẹ thật chặt
@@ -154,6 +176,8 @@ Hành động tương ứng là:
 - D. Giúp mẹ dọn dẹp
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u4_c2_09.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_09.mp3)`
 Bạn nghe câu miêu tả: **“My grandmother is pretty and kind.”**  
 Người được nhắc tới là ai?
 - A. Mẹ
@@ -162,6 +186,8 @@ Người được nhắc tới là ai?
 - D. Cô giáo
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u4_c2_10.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_c2_10.mp3)`
 Bạn nghe bạn mình hỏi: **“Is he thin?” – “No, he isn't. He's fat.”**  
 Người đó có dáng người:
 - A. Gầy
@@ -176,6 +202,10 @@ Người đó có dáng người:
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 14 từ)
+> 🎧 **Audio đọc mẫu:** `[u4_read_01.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_read_01.mp3)`
+>
+> <img src="Unit 4 - People at Home - Audio Pages/challenge-assets/images/u4_read_01.webp" width="260" alt="Mother gently holding her baby"/>
+
 > *"This is my father.*  
 > *He is tall. He has a blue shirt."*
 
@@ -200,6 +230,10 @@ What color is his shirt?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 26 từ)
+> 🎧 **Audio đọc mẫu:** `[u4_read_02.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_read_02.mp3)`
+>
+> <img src="Unit 4 - People at Home - Audio Pages/challenge-assets/images/u4_read_02.webp" width="260" alt="Happy family photo"/>
+
 > *"Hello! My name is Kate. Welcome to my home.*  
 > *This is my grandmother. She is old, but she is very pretty.*  
 > *And this is my baby brother. He is young and cute."*
@@ -230,6 +264,8 @@ Who is young and cute?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Ngữ cảnh gia đình trọn vẹn - 5 câu, 43 từ)
+> 🎧 **Audio đọc mẫu:** `[u4_read_03.mp3](Unit 4 - People at Home - Audio Pages/challenge-assets/audio/u4_read_03.mp3)`
+
 > *"Look at this photo! This is my happy family.*  
 > *My father is tall and my mother is pretty.*  
 > *Who is he? He is my big brother, Dan. He likes to play basketball.*  

@@ -17,6 +17,8 @@
 # Challenge 1: Birthday & Toys Master (Đồ chơi & Vận động)
 
 ### C1.01
+
+<p align="center"><img src="Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/images/u5_bicycle.webp" width="220" alt="A bicycle"/></p>
 Món đồ chơi có hai bánh xe, có bàn đạp để bạn đạp đi dạo là:
 - A. a car
 - B. a yo-yo
@@ -24,6 +26,8 @@ Món đồ chơi có hai bánh xe, có bàn đạp để bạn đạp đi dạo 
 - D. a bicycle
 
 ### C1.02
+
+<p align="center"><img src="Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/images/u5_yoyo.webp" width="220" alt="A yo-yo"/></p>
 Đồ chơi hình tròn, có dây buộc vào ngón tay để thả lên cuộn xuống là:
 - A. a ball
 - B. a yo-yo
@@ -31,6 +35,8 @@ Món đồ chơi có hai bánh xe, có bàn đạp để bạn đạp đi dạo 
 - D. a bat
 
 ### C1.03
+
+<p align="center"><img src="Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/images/u5_jump_rope.webp" width="220" alt="A jump rope"/></p>
 Trò chơi vận động mà bạn cầm hai đầu sợi dây quay vòng qua đầu và nhảy qua chân là:
 - A. ride a bicycle
 - B. fly a kite
@@ -91,6 +97,8 @@ Từ **“map”** (bản đồ) và **“mother”** (mẹ) cùng bắt đầu 
 # Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
 
 ### C2.01
+
+> 🔊 **Audio bài nghe:** `[u5_c2_01.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_01.mp3)`
 Hôm nay là sinh nhật của bạn Jenny. Bạn đến và chúc mừng bạn ấy bằng câu:
 - A. How are you, Jenny?
 - B. What's this?
@@ -98,6 +106,8 @@ Hôm nay là sinh nhật của bạn Jenny. Bạn đến và chúc mừng bạn 
 - D. Good-bye, Jenny!
 
 ### C2.02
+
+> 🔊 **Audio bài nghe:** `[u5_c2_02.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_02.mp3)`
 Bạn nghe câu hỏi: **“How old are you?”**. Bạn 7 tuổi, câu trả lời đầy đủ là:
 - A. I'm fine, thank you.
 - B. I'm seven years old.
@@ -105,6 +115,8 @@ Bạn nghe câu hỏi: **“How old are you?”**. Bạn 7 tuổi, câu trả l�
 - D. It's a bicycle.
 
 ### C2.03
+
+> 🔊 **Audio bài nghe:** `[u5_c2_03.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_03.mp3)`
 Bạn nghe bạn mình đố: **“What is it? Guess!”** nhưng bạn không đoán ra. Bạn đáp:
 - A. Yes, it is.
 - B. You're welcome.
@@ -112,6 +124,8 @@ Bạn nghe bạn mình đố: **“What is it? Guess!”** nhưng bạn không �
 - D. No, they aren't.
 
 ### C2.04
+
+> 🔊 **Audio bài nghe:** `[u5_c2_04.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_04.mp3)`
 Bạn nghe câu hỏi: **“What can you do?”** khi bạn biết nhảy dây rất giỏi. Bạn đáp:
 - A. I like dolls.
 - B. I can jump rope.
@@ -119,6 +133,8 @@ Bạn nghe câu hỏi: **“What can you do?”** khi bạn biết nhảy dây r
 - D. Stand up.
 
 ### C2.05
+
+> 🔊 **Audio bài nghe:** `[u5_c2_05.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_05.mp3)`
 Bạn nghe: **“Is it a round yo-yo?”** (và đúng là chiếc yo-yo tròn). Bạn trả lời:
 - A. No, it isn't.
 - B. It's square.
@@ -126,6 +142,8 @@ Bạn nghe: **“Is it a round yo-yo?”** (và đúng là chiếc yo-yo tròn).
 - D. Yes, it is.
 
 ### C2.06
+
+> 🔊 **Audio bài nghe:** `[u5_c2_06.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_06.mp3)`
 Bạn nghe: **“Is it a new doll?”** (trong khi đó là con búp bê đã cũ). Bạn trả lời:
 - A. Yes, it is.
 - B. It's a new doll.
@@ -133,6 +151,8 @@ Bạn nghe: **“Is it a new doll?”** (trong khi đó là con búp bê đã c�
 - D. No, it isn't. It's an old doll.
 
 ### C2.07
+
+> 🔊 **Audio bài nghe:** `[u5_c2_07.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_07.mp3)`
 Bạn nghe: **“Look at the sky! What can Jenny do?” – “She can fly a kite.”**  
 Jenny đang làm gì?
 - A. Thả diều
@@ -141,6 +161,8 @@ Jenny đang làm gì?
 - D. Chơi bóng
 
 ### C2.08
+
+> 🔊 **Audio bài nghe:** `[u5_c2_08.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_08.mp3)`
 Bạn nghe: **“What is it?” – “It's a big puzzle.”**  
 Đồ chơi được nhắc tới là:
 - A. Một quả bóng nhỏ
@@ -149,6 +171,8 @@ Bạn nghe: **“What is it?” – “It's a big puzzle.”**
 - D. Một con người máy
 
 ### C2.09
+
+> 🔊 **Audio bài nghe:** `[u5_c2_09.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_09.mp3)`
 Bạn nghe bạn mình hỏi: **“Are they pencils?”** khi chỉ vào hộp bút chì màu. Bạn đáp:
 - A. Yes, it is.
 - B. They're books.
@@ -156,6 +180,8 @@ Bạn nghe bạn mình hỏi: **“Are they pencils?”** khi chỉ vào hộp b
 - D. Yes, they are.
 
 ### C2.10
+
+> 🔊 **Audio bài nghe:** `[u5_c2_10.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_c2_10.mp3)`
 Bạn nghe bài hát: **“Happy birthday to you! How old are you today?”**  
 Nội dung bài hát là:
 - A. Hỏi thăm sức khỏe
@@ -170,6 +196,10 @@ Nội dung bài hát là:
 ---
 
 ### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 15 từ)
+> 🎧 **Audio đọc mẫu:** `[u5_read_01.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_read_01.mp3)`
+>
+> <img src="Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/images/u5_read_01.webp" width="260" alt="Birthday cake with candles"/>
+
 > *"Today is my birthday! I am seven years old.  
 > Look at this big box. It is a blue robot."*
 
@@ -194,6 +224,10 @@ What gift is inside the big box?
 ---
 
 ### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 27 từ)
+> 🎧 **Audio đọc mẫu:** `[u5_read_02.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_read_02.mp3)`
+>
+> <img src="Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/images/u5_read_02.webp" width="260" alt="Happy girl receiving a new doll"/>
+
 > *"Hello! My name is Ken. I have many toys.  
 > This is a round ball and this is a long jump rope.  
 > What can I do? I can ride a big bicycle in the yard."*
@@ -225,6 +259,8 @@ Where can Ken ride his big bicycle?
 ---
 
 ### 📖 Bài đọc 3 (Level 3: Bữa tiệc sinh nhật trọn vẹn - 5 câu, 45 từ)
+> 🎧 **Audio đọc mẫu:** `[u5_read_03.mp3](Unit 5 - Birthday and Toys - Audio Pages/challenge-assets/audio/u5_read_03.mp3)`
+
 > *"Welcome to Jenny's birthday party!  
 > Jenny is happy. She gets a new, pretty doll from her grandmother.  
 > Scott brings a little red yo-yo. Andy brings a puzzle.  

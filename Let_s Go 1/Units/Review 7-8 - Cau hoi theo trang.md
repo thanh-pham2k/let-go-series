@@ -13,6 +13,14 @@
 ## Trang PDF 73 - Review 7–8
 
 - **Trang in trong sách:** 72. **Trang trong file tách:** 1. [Mở trang nguồn](Review%207-8.pdf#page=1).
+- 🖼️ **Phần A (Listen & circle):** [CD2_96.webp](Review%207-8%20-%20Audio%20Pages/regenerated/CD2_96.webp) · 🎧 **Audio CD gốc:** [CD2_96.mp3](Review%207-8%20-%20Audio%20Pages/audio/CD2_96.mp3)
+- 🖼️ **Phần B (Listen & number):** [CD2_97.webp](Review%207-8%20-%20Audio%20Pages/regenerated/CD2_97.webp) · 🎧 **Audio CD gốc:** [CD2_97.mp3](Review%207-8%20-%20Audio%20Pages/audio/CD2_97.mp3)
+
+<p align="center">
+  <img src="Review 7-8 - Audio Pages/regenerated/CD2_96.webp" width="480" alt="Review 7-8: Listen and circle (CD2_96)"/>
+  <br/>
+  <img src="Review 7-8 - Audio Pages/regenerated/CD2_97.webp" width="480" alt="Review 7-8: Animals (CD2_97)"/>
+</p>
 - **Lưu ý phạm vi:** Câu hỏi bổ sung ôn Unit 7–8; bài nghe gốc chỉ chấm sau khi nghe đúng audio.
 
 ### Nội dung cần nắm
@@ -96,6 +104,8 @@ Hoàn thành câu theo nghĩa “Bạn muốn gì?”: **What do you _____**
 Sắp xếp các thẻ từ để diễn đạt “Bạn muốn gì?”: **What / you / want? / do**
 
 #### B1-P73-Q16
+> 🔊 **Audio đọc mẫu:** `[r78_p73_q16.mp3](Review 7-8 - Audio Pages/challenge-assets/audio/r78_p73_q16.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Bạn muốn gì?”.
 
 #### B1-P73-Q17
@@ -112,6 +122,8 @@ Hoàn thành câu theo nghĩa “Bạn thích gì?”: **What do you _____**
 Sắp xếp các thẻ từ để diễn đạt “Bạn thích gì?”: **do / What / like? / you**
 
 #### B1-P73-Q20
+> 🔊 **Audio đọc mẫu:** `[r78_p73_q20.mp3](Review 7-8 - Audio Pages/challenge-assets/audio/r78_p73_q20.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Bạn thích gì?”.
 
 #### B1-P73-Q21
@@ -128,11 +140,21 @@ Hoàn thành câu theo nghĩa “Bạn có thích hổ không?”: **Do you like
 Sắp xếp các thẻ từ để diễn đạt “Bạn có thích hổ không?”: **like / you / tigers? / Do**
 
 #### B1-P73-Q24
+> 🔊 **Audio đọc mẫu:** `[r78_p73_q24.mp3](Review 7-8 - Audio Pages/challenge-assets/audio/r78_p73_q24.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Bạn có thích hổ không?”.
 
 ## Trang PDF 74 - Cảm xúc và trạng thái
 
 - **Trang in trong sách:** 73. **Trang trong file tách:** 2. [Mở trang nguồn](Review%207-8.pdf#page=2).
+- 🖼️ **Phần A (Feelings):** [CD2_98.webp](Review%207-8%20-%20Audio%20Pages/regenerated/CD2_98.webp) · 🎧 **Audio CD gốc:** [CD2_98.mp3](Review%207-8%20-%20Audio%20Pages/audio/CD2_98.mp3)
+- 🖼️ **Phần B (Hungry, thirsty...):** [CD2_99.webp](Review%207-8%20-%20Audio%20Pages/regenerated/CD2_99.webp) · 🎧 **Audio CD gốc:** [CD2_99.mp3](Review%207-8%20-%20Audio%20Pages/audio/CD2_99.mp3)
+
+<p align="center">
+  <img src="Review 7-8 - Audio Pages/regenerated/CD2_98.webp" width="480" alt="Feelings: Are you happy? (CD2_98)"/>
+  <br/>
+  <img src="Review 7-8 - Audio Pages/regenerated/CD2_99.webp" width="480" alt="Hungry, thirsty, hot, cold (CD2_99)"/>
+</p>
 - **Lưu ý phạm vi:** Trang thứ hai thuộc phạm vi Review là Let’s Learn About Feelings.
 
 ### Nội dung cần nắm
@@ -291,6 +313,8 @@ Hoàn thành câu theo nghĩa “Bạn có vui không?”: **Are you _____**
 Sắp xếp các thẻ từ để diễn đạt “Bạn có vui không?”: **you / Are / happy?**
 
 #### B1-P74-Q33
+> 🔊 **Audio đọc mẫu:** `[r78_p74_q33.mp3](Review 7-8 - Audio Pages/challenge-assets/audio/r78_p74_q33.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Bạn có vui không?”.
 
 ---

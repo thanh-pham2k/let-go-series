@@ -13,6 +13,11 @@
 ## Trang PDF 55 - Review 5–6
 
 - **Trang in trong sách:** 54. **Trang trong file tách:** 1. [Mở trang nguồn](Review%205-6.pdf#page=1).
+- 🖼️ **Tranh bài học:** [CD2_48.webp](Review%205-6%20-%20Audio%20Pages/regenerated/CD2_48.webp) · 🎧 **Audio CD gốc:** [CD2_48.mp3](Review%205-6%20-%20Audio%20Pages/audio/CD2_48.mp3)
+
+<p align="center">
+  <img src="Review 5-6 - Audio Pages/regenerated/CD2_48.webp" width="480" alt="Review 5-6: đồ chơi và thời tiết (CD2_48)"/>
+</p>
 - **Lưu ý phạm vi:** Dùng hình trên trang để ôn Unit 5–6; không suy đoán câu trả lời của bài nghe gốc.
 
 ### Nội dung cần nắm
@@ -96,6 +101,8 @@ Hoàn thành câu theo nghĩa “Bạn bao nhiêu tuổi?”: **How old are ____
 Sắp xếp các thẻ từ để diễn đạt “Bạn bao nhiêu tuổi?”: **you? / How / are / old**
 
 #### B1-P55-Q16
+> 🔊 **Audio đọc mẫu:** `[r56_p55_q16.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p55_q16.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Bạn bao nhiêu tuổi?”.
 
 #### B1-P55-Q17
@@ -112,6 +119,8 @@ Hoàn thành câu theo nghĩa “Thời tiết thế nào?”: **How's the _____
 Sắp xếp các thẻ từ để diễn đạt “Thời tiết thế nào?”: **weather? / How's / the**
 
 #### B1-P55-Q20
+> 🔊 **Audio đọc mẫu:** `[r56_p55_q20.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p55_q20.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Thời tiết thế nào?”.
 
 #### B1-P55-Q21
@@ -128,11 +137,18 @@ Hoàn thành câu theo nghĩa “Quả bóng ở đâu?”: **Where's the _____*
 Sắp xếp các thẻ từ để diễn đạt “Quả bóng ở đâu?”: **the / ball? / Where's**
 
 #### B1-P55-Q24
+> 🔊 **Audio đọc mẫu:** `[r56_p55_q24.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p55_q24.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Quả bóng ở đâu?”.
 
 ## Trang PDF 56 - Các ngày trong tuần
 
 - **Trang in trong sách:** 55. **Trang trong file tách:** 2. [Mở trang nguồn](Review%205-6.pdf#page=2).
+- 🖼️ **Tranh bài học:** [CD2_49-50.webp](Review%205-6%20-%20Audio%20Pages/combined/CD2_49-50.webp) · 🎧 **Audio CD gốc:** [CD2_49.mp3](Review%205-6%20-%20Audio%20Pages/audio/CD2_49.mp3) · [CD2_50.mp3](Review%205-6%20-%20Audio%20Pages/audio/CD2_50.mp3)
+
+<p align="center">
+  <img src="Review 5-6 - Audio Pages/combined/CD2_49-50.webp" width="480" alt="Days of the week (CD2_49-50)"/>
+</p>
 - **Lưu ý phạm vi:** Trang thứ hai thuộc phạm vi Review là Let’s Learn About Days of the Week.
 
 ### Nội dung cần nắm
@@ -256,6 +272,8 @@ Hoàn thành câu theo nghĩa “Hôm nay là thứ mấy?”: **What day is it 
 Sắp xếp các thẻ từ để diễn đạt “Hôm nay là thứ mấy?”: **is / today? / day / What / it**
 
 #### B1-P56-Q25
+> 🔊 **Audio đọc mẫu:** `[r56_p56_q25.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p56_q25.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Hôm nay là thứ mấy?”.
 
 #### B1-P56-Q26
@@ -271,12 +289,18 @@ Hoàn thành câu theo nghĩa “Hôm nay là thứ Hai.”: **Today is _____**
 Sắp xếp các thẻ từ để diễn đạt “Hôm nay là thứ Hai.”: **Monday. / is / Today**
 
 #### B1-P56-Q29
+> 🔊 **Audio đọc mẫu:** `[r56_p56_q29.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p56_q29.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Hôm nay là thứ Hai.”.
 
 #### B1-P56-Q30
+> 🔊 **Audio câu hỏi:** `[r56_p56_q30.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p56_q30.mp3)`
+
 Đáp lại câu hỏi **“What day is it today?”** theo nội dung/hình trên trang.
 
 #### B1-P56-Q31
+> 🔊 **Audio câu trả lời nghe được:** `[r56_p56_q31.mp3](Review 5-6 - Audio Pages/challenge-assets/audio/r56_p56_q31.mp3)`
+
 Bạn nghe câu trả lời **“Today is Monday.”**. Hãy nói câu hỏi tương ứng.
 
 ---

@@ -13,6 +13,11 @@
 ## Trang PDF 19 - Review 1–2: đồ dùng, màu, hình
 
 - **Trang in trong sách:** 18. **Trang trong file tách:** 1. [Mở trang nguồn](Review%201-2.pdf#page=1).
+- 🖼️ **Tranh bài học:** [CD1_47.webp](Review%201-2%20-%20Audio%20Pages/regenerated/CD1_47.webp) · 🎧 **Audio CD gốc:** [CD1_47.mp3](Review%201-2%20-%20Audio%20Pages/audio/CD1_47.mp3)
+
+<p align="center">
+  <img src="Review 1-2 - Audio Pages/regenerated/CD1_47.webp" width="480" alt="Review 1-2: đồ dùng, màu, hình (CD1_47)"/>
+</p>
 - **Lưu ý phạm vi:** Bài nghe gốc Listen and circle không có đáp án suy đoán. Các câu bổ sung ôn mẫu câu Unit 1–2 bằng hình trên trang.
 
 ### Nội dung cần nắm
@@ -96,6 +101,8 @@ Hoàn thành câu theo nghĩa “Đây là cái gì?”: **What's _____**
 Sắp xếp các thẻ từ để diễn đạt “Đây là cái gì?”: **this? / What's**
 
 #### B1-P19-Q16
+> 🔊 **Audio đọc mẫu:** `[r12_p19_q16.mp3](Review 1-2 - Audio Pages/challenge-assets/audio/r12_p19_q16.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Đây là cái gì?”.
 
 #### B1-P19-Q17
@@ -112,6 +119,8 @@ Hoàn thành câu theo nghĩa “Cái này màu gì?”: **What color is _____**
 Sắp xếp các thẻ từ để diễn đạt “Cái này màu gì?”: **this? / is / color / What**
 
 #### B1-P19-Q20
+> 🔊 **Audio đọc mẫu:** `[r12_p19_q20.mp3](Review 1-2 - Audio Pages/challenge-assets/audio/r12_p19_q20.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Cái này màu gì?”.
 
 #### B1-P19-Q21
@@ -128,11 +137,21 @@ Hoàn thành câu theo nghĩa “Đây có phải một quyển sách không?”
 Sắp xếp các thẻ từ để diễn đạt “Đây có phải một quyển sách không?”: **a / this / book? / Is**
 
 #### B1-P19-Q24
+> 🔊 **Audio đọc mẫu:** `[r12_p19_q24.mp3](Review 1-2 - Audio Pages/challenge-assets/audio/r12_p19_q24.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Đây có phải một quyển sách không?”.
 
 ## Trang PDF 20 - Số đếm 0–20
 
 - **Trang in trong sách:** 19. **Trang trong file tách:** 2. [Mở trang nguồn](Review%201-2.pdf#page=2).
+- 🖼️ **Phần A (0–10):** [CD1_48.webp](Review%201-2%20-%20Audio%20Pages/regenerated/CD1_48.webp) · 🎧 **Audio CD gốc:** [CD1_48.mp3](Review%201-2%20-%20Audio%20Pages/audio/CD1_48.mp3)
+- 🖼️ **Phần B (11–20):** [CD1_49.webp](Review%201-2%20-%20Audio%20Pages/regenerated/CD1_49.webp) · 🎧 **Audio CD gốc:** [CD1_49.mp3](Review%201-2%20-%20Audio%20Pages/audio/CD1_49.mp3)
+
+<p align="center">
+  <img src="Review 1-2 - Audio Pages/regenerated/CD1_48.webp" width="480" alt="Count to ten (CD1_48)"/>
+  <br/>
+  <img src="Review 1-2 - Audio Pages/regenerated/CD1_49.webp" width="480" alt="Count to twenty (CD1_49)"/>
+</p>
 - **Lưu ý phạm vi:** Trang thứ hai trong phạm vi Review bạn chỉ định là Let’s Learn About Numbers 0–20 trong sách gốc.
 
 ### Nội dung cần nắm

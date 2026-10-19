@@ -13,6 +13,14 @@
 ## Trang PDF 37 - Review 3–4
 
 - **Trang in trong sách:** 36. **Trang trong file tách:** 1. [Mở trang nguồn](Review%203-4.pdf#page=1).
+- 🖼️ **Phần A (Listen & circle):** [CD1_95.webp](Review%203-4%20-%20Audio%20Pages/regenerated/CD1_95.webp) · 🎧 **Audio CD gốc:** [CD1_95.mp3](Review%203-4%20-%20Audio%20Pages/audio/CD1_95.mp3)
+- 🖼️ **Phần B (Listen & number):** [CD1_96.webp](Review%203-4%20-%20Audio%20Pages/regenerated/CD1_96.webp) · 🎧 **Audio CD gốc:** [CD1_96.mp3](Review%203-4%20-%20Audio%20Pages/audio/CD1_96.mp3)
+
+<p align="center">
+  <img src="Review 3-4 - Audio Pages/regenerated/CD1_95.webp" width="480" alt="Review 3-4: Listen and circle (CD1_95)"/>
+  <br/>
+  <img src="Review 3-4 - Audio Pages/regenerated/CD1_96.webp" width="480" alt="Review 3-4: Family (CD1_96)"/>
+</p>
 - **Lưu ý phạm vi:** Câu hỏi bổ sung dựa trên nội dung ôn Unit 3–4. Không gán đáp án cho audio gốc chưa đối chiếu.
 
 ### Nội dung cần nắm
@@ -96,6 +104,8 @@ Hoàn thành câu theo nghĩa “Đây là những cái gì?”: **What are ____
 Sắp xếp các thẻ từ để diễn đạt “Đây là những cái gì?”: **these? / are / What**
 
 #### B1-P37-Q16
+> 🔊 **Audio đọc mẫu:** `[r34_p37_q16.mp3](Review 3-4 - Audio Pages/challenge-assets/audio/r34_p37_q16.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Đây là những cái gì?”.
 
 #### B1-P37-Q17
@@ -112,6 +122,8 @@ Hoàn thành câu theo nghĩa “Cô ấy là ai?”: **Who's _____**
 Sắp xếp các thẻ từ để diễn đạt “Cô ấy là ai?”: **she? / Who's**
 
 #### B1-P37-Q20
+> 🔊 **Audio đọc mẫu:** `[r34_p37_q20.mp3](Review 3-4 - Audio Pages/challenge-assets/audio/r34_p37_q20.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Cô ấy là ai?”.
 
 #### B1-P37-Q21
@@ -128,11 +140,21 @@ Hoàn thành câu theo nghĩa “Anh ấy có cao không?”: **Is he _____**
 Sắp xếp các thẻ từ để diễn đạt “Anh ấy có cao không?”: **he / Is / tall?**
 
 #### B1-P37-Q24
+> 🔊 **Audio đọc mẫu:** `[r34_p37_q24.mp3](Review 3-4 - Audio Pages/challenge-assets/audio/r34_p37_q24.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Anh ấy có cao không?”.
 
 ## Trang PDF 38 - Các bộ phận cơ thể
 
 - **Trang in trong sách:** 37. **Trang trong file tách:** 2. [Mở trang nguồn](Review%203-4.pdf#page=2).
+- 🖼️ **Phần A (Bộ phận cơ thể):** [CD1_97-98.webp](Review%203-4%20-%20Audio%20Pages/combined/CD1_97-98.webp) · 🎧 **Audio CD gốc:** [CD1_97.mp3](Review%203-4%20-%20Audio%20Pages/audio/CD1_97.mp3) · [CD1_98.mp3](Review%203-4%20-%20Audio%20Pages/audio/CD1_98.mp3)
+- 🖼️ **Phần B (Số nhiều ngón chân/bàn chân):** [CD1_99.webp](Review%203-4%20-%20Audio%20Pages/regenerated/CD1_99.webp) · 🎧 **Audio CD gốc:** [CD1_99.mp3](Review%203-4%20-%20Audio%20Pages/audio/CD1_99.mp3)
+
+<p align="center">
+  <img src="Review 3-4 - Audio Pages/combined/CD1_97-98.webp" width="480" alt="Parts of the body (CD1_97-98)"/>
+  <br/>
+  <img src="Review 3-4 - Audio Pages/regenerated/CD1_99.webp" width="480" alt="Finger / fingers, toe / toes, foot / feet (CD1_99)"/>
+</p>
 - **Lưu ý phạm vi:** Trang thứ hai thuộc phạm vi Review là Let’s Learn About Parts of the Body.
 
 ### Nội dung cần nắm
@@ -389,6 +411,8 @@ Hoàn thành câu theo nghĩa “Chạm vào mũi của bạn!”: **Touch your 
 Sắp xếp các thẻ từ để diễn đạt “Chạm vào mũi của bạn!”: **Touch / nose! / your**
 
 #### B1-P38-Q54
+> 🔊 **Audio đọc mẫu:** `[r34_p38_q54.mp3](Review 3-4 - Audio Pages/challenge-assets/audio/r34_p38_q54.mp3)`
+
 Không nhìn mẫu tiếng Anh, nói câu: “Chạm vào mũi của bạn!”.
 
 ---

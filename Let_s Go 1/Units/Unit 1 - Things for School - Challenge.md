@@ -1,1971 +1,466 @@
-# Unit 1 - Things for School
+# Unit 1 - Things for School: Bộ Thử Thách Chuẩn Hóa (Standard Challenge)
 
-> Chỉ dùng nội dung trong phạm vi trang PDF **3–10** đã tách theo yêu cầu.
-
-- [PDF nguồn](Unit%201%20-%20Things%20for%20School.pdf) · [Câu hỏi theo từng trang](Unit%201%20-%20Things%20for%20School%20-%20Cau%20hoi%20theo%20trang.md).
-- Người lớn đọc câu nghe theo kịch bản cuối file. Các chỉ dẫn hình dùng hình trong PDF nguồn; không phải ảnh hoặc audio mới đã được tạo.
-- Lộ trình: Recognition → Recall → Comprehension → Production. Đáp án nằm cuối file.
-
-## Nội dung cần nắm
-
-### Vocabulary
-- stand up — đứng lên; trang PDF 4.
-- sit down — ngồi xuống; trang PDF 4.
-- make a circle — xếp thành vòng tròn; trang PDF 4.
-- make a line — xếp thành hàng; trang PDF 4.
-- a pencil — một bút chì; trang PDF 5.
-- a pen — một bút mực; trang PDF 5.
-- a bag — một chiếc cặp; trang PDF 5.
-- a book — một quyển sách; trang PDF 5.
-- a desk — một bàn học; trang PDF 5.
-- a chair — một cái ghế; trang PDF 5.
-- a ruler — một cái thước; trang PDF 5.
-- an eraser — một cục tẩy; trang PDF 5.
-- a map — một bản đồ; trang PDF 7.
-- a marker — một bút dạ; trang PDF 7.
-- a globe — một quả địa cầu; trang PDF 7.
-- a table — một cái bàn; trang PDF 7.
-- a board — một cái bảng; trang PDF 7.
-- a wastebasket — một sọt rác; trang PDF 7.
-- a poster — một áp phích; trang PDF 7.
-- a crayon — một bút sáp; trang PDF 7.
-- A a — chữ A hoa và a thường; trang PDF 9.
-- B b — chữ B hoa và b thường; trang PDF 9.
-- C c — chữ C hoa và c thường; trang PDF 9.
-- D d — chữ D hoa và d thường; trang PDF 9.
-- E e — chữ E hoa và e thường; trang PDF 9.
-- F f — chữ F hoa và f thường; trang PDF 9.
-- G g — chữ G hoa và g thường; trang PDF 9.
-- H h — chữ H hoa và h thường; trang PDF 9.
-- I i — chữ I hoa và i thường; trang PDF 9.
-- J j — chữ J hoa và j thường; trang PDF 9.
-- K k — chữ K hoa và k thường; trang PDF 9.
-- L l — chữ L hoa và l thường; trang PDF 9.
-- M m — chữ M hoa và m thường; trang PDF 9.
-- N n — chữ N hoa và n thường; trang PDF 9.
-- O o — chữ O hoa và o thường; trang PDF 9.
-- P p — chữ P hoa và p thường; trang PDF 9.
-- Q q — chữ Q hoa và q thường; trang PDF 9.
-- R r — chữ R hoa và r thường; trang PDF 9.
-- S s — chữ S hoa và s thường; trang PDF 9.
-- T t — chữ T hoa và t thường; trang PDF 9.
-- U u — chữ U hoa và u thường; trang PDF 9.
-- V v — chữ V hoa và v thường; trang PDF 9.
-- W w — chữ W hoa và w thường; trang PDF 9.
-- X x — chữ X hoa và x thường; trang PDF 9.
-- Y y — chữ Y hoa và y thường; trang PDF 9.
-- Z z — chữ Z hoa và z thường; trang PDF 9.
-
-### Sentences / classroom language
-- Hello. I'm Scott. — Xin chào. Mình là Scott.; trang PDF 3.
-- What's your name? — Tên bạn là gì?; trang PDF 3.
-- My name is Kate. — Tên mình là Kate.; trang PDF 3.
-- My name is Andy. — Tên mình là Andy.; trang PDF 3.
-- Hello, Scott! — Xin chào Scott!; trang PDF 4.
-- My name is Scott. — Tên mình là Scott.; trang PDF 4.
-- It's a pencil. — Đó là một bút chì.; trang PDF 5.
-- It's an eraser. — Đó là một cục tẩy.; trang PDF 5.
-- What's this? — Đây là cái gì?; trang PDF 6.
-- It's a map. — Đó là một bản đồ.; trang PDF 7.
-- Is this a book? — Đây có phải một quyển sách không?; trang PDF 8.
-- Yes, it is. — Đúng vậy.; trang PDF 8.
-- No, it isn't. — Không phải.; trang PDF 8.
-- It's a marker. — Đó là một bút dạ.; trang PDF 8.
-- This is my pencil. — Đây là bút chì của mình.; trang PDF 9.
-- This is your pencil. — Đây là bút chì của bạn.; trang PDF 9.
-- I like English! — Mình thích tiếng Anh!; trang PDF 9.
-- Is this your eraser? — Đây có phải cục tẩy của bạn không?; trang PDF 10.
-- Is this your pen? — Đây có phải bút mực của bạn không?; trang PDF 10.
+> **Phạm vi kiến thức:** Toàn bộ Unit 1 (Trang PDF 3–10 / Trang in sách 2–9).  
+> **Cấu trúc:** Chuẩn hóa gồm **50 câu hỏi trọng tâm** chia đều làm 5 Chặng (mỗi chặng 10 câu), tích hợp chặng **Reading Explorer** (Đọc hiểu phân cấp từ Level 1 đến Level 3) giúp trẻ phát triển toàn diện 4 kỹ năng: Nhận diện $\rightarrow$ Nghe hiểu $\rightarrow$ Đọc hiểu $\rightarrow$ Ghép câu $\rightarrow$ Vận dụng thực tế.
 
 ---
 
-# Challenge 1 - Vocabulary Master
-**Level: Recognition**
+## 🎯 Bảng phân bổ 50 câu hỏi:
+- **Chặng 1: Vocabulary & Alphabet Master** (10 câu) – Nhận diện từ vựng then chốt và chữ cái âm đầu.
+- **Chặng 2: Listen & Reflex** (10 câu) – Lắng nghe phản xạ và chọn câu đáp phù hợp.
+- **Chặng 3: Reading Explorer (Mini Passages)** (10 câu) – Đọc hiểu 3 đoạn văn ngắn tăng dần độ khó (Level 1 $\rightarrow$ Level 3).
+- **Chặng 4: Sentence Builder & Grammar** (10 câu) – Xếp từ thành câu, phân biệt mạo từ *a/an* và sở hữu *my/your*.
+- **Chặng 5: Final Boss (Real-life Production)** (10 câu) – Đóng vai giao tiếp, phản xạ tình huống lớp học.
 
-## 1. Nhìn hình → chọn từ
+---
 
-### C1.1.01
-🖼️ Người lớn chỉ hình/nhãn **đứng lên** ở trang PDF 4. Chọn từ tương ứng.
+# Challenge 1: Vocabulary & Alphabet Master (Nhận diện từ & Chữ cái)
 
-- A. make a line
-- B. X x
-- C. a ruler
-- D. stand up
-
-### C1.1.02
-🖼️ Người lớn chỉ hình/nhãn **ngồi xuống** ở trang PDF 4. Chọn từ tương ứng.
-
-- A. D d
-- B. U u
-- C. sit down
-- D. a ruler
-
-### C1.1.03
-🖼️ Người lớn chỉ hình/nhãn **xếp thành vòng tròn** ở trang PDF 4. Chọn từ tương ứng.
-
-- A. N n
-- B. sit down
-- C. a globe
-- D. make a circle
-
-### C1.1.04
-🖼️ Người lớn chỉ hình/nhãn **xếp thành hàng** ở trang PDF 4. Chọn từ tương ứng.
-
-- A. make a line
-- B. S s
-- C. Z z
-- D. M m
-
-### C1.1.05
-🖼️ Người lớn chỉ hình/nhãn **một bút chì** ở trang PDF 5. Chọn từ tương ứng.
-
+### C1.01
+Nhìn đồ vật bạn dùng để kẻ đoạn thẳng trong cặp. Từ tiếng Anh tương ứng là:
 - A. a pencil
-- B. a map
-- C. a ruler
-- D. I i
-
-### C1.1.06
-🖼️ Người lớn chỉ hình/nhãn **một bút mực** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. T t
-- B. a pen
-- C. P p
-- D. a board
-
-### C1.1.07
-🖼️ Người lớn chỉ hình/nhãn **một chiếc cặp** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. M m
-- B. a table
-- C. a bag
-- D. C c
-
-### C1.1.08
-🖼️ Người lớn chỉ hình/nhãn **một quyển sách** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. a book
-- B. make a line
-- C. M m
-- D. a ruler
-
-### C1.1.09
-🖼️ Người lớn chỉ hình/nhãn **một bàn học** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. a desk
-- B. T t
-- C. a ruler
-- D. M m
-
-### C1.1.10
-🖼️ Người lớn chỉ hình/nhãn **một cái ghế** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. a chair
-- B. Q q
-- C. C c
-- D. N n
-
-### C1.1.11
-🖼️ Người lớn chỉ hình/nhãn **một cái thước** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. a ruler
-- B. O o
-- C. a board
-- D. an eraser
-
-### C1.1.12
-🖼️ Người lớn chỉ hình/nhãn **một cục tẩy** ở trang PDF 5. Chọn từ tương ứng.
-
-- A. J j
 - B. an eraser
-- C. H h
-- D. a board
-
-### C1.1.13
-🖼️ Người lớn chỉ hình/nhãn **một bản đồ** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. make a line
-- B. J j
-- C. a map
-- D. M m
-
-### C1.1.14
-🖼️ Người lớn chỉ hình/nhãn **một bút dạ** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. Z z
-- B. a marker
-- C. a globe
-- D. P p
-
-### C1.1.15
-🖼️ Người lớn chỉ hình/nhãn **một quả địa cầu** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. Y y
-- B. H h
-- C. L l
-- D. a globe
-
-### C1.1.16
-🖼️ Người lớn chỉ hình/nhãn **một cái bàn** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. sit down
-- B. a table
-- C. P p
-- D. B b
-
-### C1.1.17
-🖼️ Người lớn chỉ hình/nhãn **một cái bảng** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. a pen
-- B. stand up
-- C. a board
-- D. make a circle
-
-### C1.1.18
-🖼️ Người lớn chỉ hình/nhãn **một sọt rác** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. U u
-- B. a poster
-- C. N n
-- D. a wastebasket
-
-### C1.1.19
-🖼️ Người lớn chỉ hình/nhãn **một áp phích** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. W w
-- B. a poster
-- C. C c
-- D. J j
-
-### C1.1.20
-🖼️ Người lớn chỉ hình/nhãn **một bút sáp** ở trang PDF 7. Chọn từ tương ứng.
-
-- A. I i
-- B. a pen
-- C. M m
-- D. a crayon
-
-### C1.1.21
-🖼️ Người lớn chỉ hình/nhãn **chữ A hoa và a thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. A a
-- B. J j
-- C. G g
-- D. a chair
-
-### C1.1.22
-🖼️ Người lớn chỉ hình/nhãn **chữ B hoa và b thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. B b
-- B. a ruler
-- C. T t
-- D. V v
-
-### C1.1.23
-🖼️ Người lớn chỉ hình/nhãn **chữ C hoa và c thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. P p
-- B. E e
-- C. C c
-- D. A a
-
-### C1.1.24
-🖼️ Người lớn chỉ hình/nhãn **chữ D hoa và d thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. a pencil
-- B. D d
-- C. N n
-- D. sit down
-
-### C1.1.25
-🖼️ Người lớn chỉ hình/nhãn **chữ E hoa và e thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. E e
-- B. M m
-- C. a globe
-- D. K k
-
-### C1.1.26
-🖼️ Người lớn chỉ hình/nhãn **chữ F hoa và f thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. F f
-- B. E e
-- C. Q q
-- D. a poster
-
-### C1.1.27
-🖼️ Người lớn chỉ hình/nhãn **chữ G hoa và g thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. M m
-- B. G g
 - C. a bag
-- D. a chair
-
-### C1.1.28
-🖼️ Người lớn chỉ hình/nhãn **chữ H hoa và h thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. sit down
-- B. H h
-- C. U u
-- D. V v
-
-### C1.1.29
-🖼️ Người lớn chỉ hình/nhãn **chữ I hoa và i thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. I i
-- B. stand up
-- C. O o
-- D. B b
-
-### C1.1.30
-🖼️ Người lớn chỉ hình/nhãn **chữ J hoa và j thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. J j
-- B. Z z
-- C. a globe
-- D. Y y
-
-### C1.1.31
-🖼️ Người lớn chỉ hình/nhãn **chữ K hoa và k thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. K k
-- B. R r
-- C. B b
-- D. sit down
-
-### C1.1.32
-🖼️ Người lớn chỉ hình/nhãn **chữ L hoa và l thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. U u
-- B. L l
-- C. P p
-- D. a pen
-
-### C1.1.33
-🖼️ Người lớn chỉ hình/nhãn **chữ M hoa và m thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. X x
-- B. W w
-- C. Z z
-- D. M m
-
-### C1.1.34
-🖼️ Người lớn chỉ hình/nhãn **chữ N hoa và n thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. Q q
-- B. N n
-- C. Y y
-- D. G g
-
-### C1.1.35
-🖼️ Người lớn chỉ hình/nhãn **chữ O hoa và o thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. G g
-- B. X x
-- C. O o
-- D. L l
-
-### C1.1.36
-🖼️ Người lớn chỉ hình/nhãn **chữ P hoa và p thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. P p
-- B. J j
-- C. K k
-- D. Z z
-
-### C1.1.37
-🖼️ Người lớn chỉ hình/nhãn **chữ Q hoa và q thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. W w
-- B. Q q
-- C. C c
-- D. make a line
-
-### C1.1.38
-🖼️ Người lớn chỉ hình/nhãn **chữ R hoa và r thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. F f
-- B. M m
-- C. R r
-- D. Y y
-
-### C1.1.39
-🖼️ Người lớn chỉ hình/nhãn **chữ S hoa và s thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. U u
-- B. S s
-- C. K k
-- D. a table
-
-### C1.1.40
-🖼️ Người lớn chỉ hình/nhãn **chữ T hoa và t thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. T t
-- B. S s
-- C. G g
-- D. a chair
-
-### C1.1.41
-🖼️ Người lớn chỉ hình/nhãn **chữ U hoa và u thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. U u
-- B. R r
-- C. a map
-- D. G g
-
-### C1.1.42
-🖼️ Người lớn chỉ hình/nhãn **chữ V hoa và v thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. Q q
-- B. a poster
-- C. B b
-- D. V v
-
-### C1.1.43
-🖼️ Người lớn chỉ hình/nhãn **chữ W hoa và w thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. a wastebasket
-- B. W w
-- C. C c
-- D. B b
-
-### C1.1.44
-🖼️ Người lớn chỉ hình/nhãn **chữ X hoa và x thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. make a line
-- B. W w
-- C. X x
-- D. a crayon
-
-### C1.1.45
-🖼️ Người lớn chỉ hình/nhãn **chữ Y hoa và y thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. W w
-- B. F f
-- C. Y y
-- D. a globe
-
-### C1.1.46
-🖼️ Người lớn chỉ hình/nhãn **chữ Z hoa và z thường** ở trang PDF 9. Chọn từ tương ứng.
-
-- A. J j
-- B. a pen
-- C. Z z
-- D. E e
-
-## 2. Nghe → chọn từ/cụm từ
-
-### C1.2.01
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. stand up
-- B. R r
-- C. C c
-- D. make a circle
-
-### C1.2.02
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. U u
-- B. sit down
-- C. P p
-- D. a bag
-
-### C1.2.03
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. X x
-- B. W w
-- C. Z z
-- D. make a circle
-
-### C1.2.04
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. Q q
-- B. make a line
-- C. Y y
-- D. H h
-
-### C1.2.05
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. H h
-- B. X x
-- C. a pencil
-- D. M m
-
-### C1.2.06
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a pen
-- B. K k
-- C. L l
-- D. Z z
-
-### C1.2.07
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. W w
-- B. a bag
-- C. D d
-- D. make a line
-
-### C1.2.08
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. G g
-- B. N n
-- C. a book
-- D. Y y
-
-### C1.2.09
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. U u
-- B. a desk
-- C. L l
-- D. a board
-
-### C1.2.10
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a chair
-- B. T t
-- C. H h
 - D. a ruler
 
-### C1.2.11
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a ruler
-- B. S s
-- C. a marker
-- D. H h
-
-### C1.2.12
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. R r
-- B. a crayon
-- C. C c
-- D. an eraser
-
-### C1.2.13
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a poster
+### C1.02
+Vật dụng nào sau đây trong lớp học có dạng hình cầu tròn để xem các quốc gia?
+- A. a globe
 - B. a map
-- C. D d
-- D. C c
-
-### C1.2.14
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. make a line
-- B. X x
-- C. a marker
-- D. A a
-
-### C1.2.15
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. X x
-- B. G g
-- C. a globe
-- D. a table
-
-### C1.2.16
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. K k
-- B. a pen
-- C. a table
-- D. F f
-
-### C1.2.17
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. Y y
-- B. a board
-- C. a globe
-- D. O o
-
-### C1.2.18
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a book
-- B. S s
-- C. a wastebasket
-- D. Y y
-
-### C1.2.19
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. sit down
-- B. Y y
 - C. a poster
 - D. a board
 
-### C1.2.20
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. W w
-- B. a poster
-- C. J j
-- D. a crayon
-
-### C1.2.21
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. A a
-- B. I i
-- C. a bag
-- D. Y y
-
-### C1.2.22
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. I i
-- B. F f
-- C. a crayon
-- D. B b
-
-### C1.2.23
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. B b
-- B. C c
+### C1.03
+Đồ dùng nào được dùng để đựng giấy rác vụn trong phòng học?
+- A. a wastebasket
+- B. a bag
 - C. a table
-- D. a poster
+- D. a desk
 
-### C1.2.24
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
+### C1.04
+Từ nào sau đây viết ĐÚNG với mạo từ **“an”**?
+- A. an eraser
+- B. an book
+- C. an desk
+- D. an marker
 
-- A. A a
-- B. K k
-- C. D d
-- D. C c
+### C1.05
+Khi cô giáo muốn cả lớp cùng đứng dậy để khởi động, cô sẽ nói hiệu lệnh nào?
+- A. Sit down.
+- B. Make a line.
+- C. Make a circle.
+- D. Stand up.
 
-### C1.2.25
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a pencil
-- B. a poster
-- C. make a circle
-- D. E e
-
-### C1.2.26
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a ruler
-- B. an eraser
-- C. T t
-- D. F f
-
-### C1.2.27
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. G g
-- B. O o
+### C1.06
+Cụm từ nào mô tả hành động các bạn nhỏ nắm tay nhau tạo thành một vòng tròn?
+- A. make a circle
+- B. make a line
 - C. stand up
-- D. a book
+- D. sit down
 
-### C1.2.28
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. X x
-- B. a ruler
-- C. H h
-- D. L l
-
-### C1.2.29
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. I i
-- B. L l
-- C. a wastebasket
-- D. a book
-
-### C1.2.30
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a bag
-- B. J j
-- C. S s
-- D. a desk
-
-### C1.2.31
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. make a line
-- B. a crayon
-- C. K k
-- D. S s
-
-### C1.2.32
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. L l
-- B. sit down
-- C. a wastebasket
-- D. a desk
-
-### C1.2.33
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a chair
-- B. M m
-- C. a table
-- D. a globe
-
-### C1.2.34
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. N n
-- B. M m
-- C. C c
-- D. a globe
-
-### C1.2.35
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. P p
-- B. O o
-- C. T t
-- D. K k
-
-### C1.2.36
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. G g
-- B. R r
-- C. a ruler
-- D. P p
-
-### C1.2.37
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. Q q
-- B. O o
-- C. P p
-- D. Z z
-
-### C1.2.38
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a chair
-- B. G g
-- C. P p
-- D. R r
-
-### C1.2.39
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. D d
-- B. an eraser
-- C. make a line
-- D. S s
-
-### C1.2.40
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. D d
-- B. U u
-- C. X x
+### C1.07
+Chữ cái đầu tiên trong từ **“pencil”** và **“pen”** là chữ cái nào?
+- A. B b
+- B. P p
+- C. D d
 - D. T t
 
-### C1.2.41
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
+### C1.08
+Từ **“bag”** và **“board”** cùng bắt đầu bằng chữ cái nào?
+- A. D d
+- B. P p
+- C. R r
+- D. B b
 
-- A. X x
-- B. a desk
-- C. U u
-- D. a marker
-
-### C1.2.42
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. Z z
-- B. a bag
-- C. V v
-- D. a poster
-
-### C1.2.43
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a poster
-- B. a bag
-- C. W w
-- D. a ruler
-
-### C1.2.44
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. a map
-- B. X x
-- C. G g
-- D. a chair
-
-### C1.2.45
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. sit down
-- B. G g
-- C. Y y
+### C1.09
+Trong bảng chữ cái tiếng Anh, chữ cái đứng liền sau chữ **M m** là:
+- A. L l
+- B. O o
+- C. P p
 - D. N n
 
-### C1.2.46
-Nghe người lớn đọc. Chọn từ/cụm từ vừa nghe.
-
-- A. Z z
-- B. a pencil
-- C. W w
-- D. a desk
-
-# Challenge 2 - Listen & Understand
-**Level: Recognition**
-
-## 1. Nghe → chọn nghĩa
-
-### C2.1.01
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Tên mình là Kate.
-- B. Đây là bút chì của bạn.
-- C. Xin chào. Mình là Scott.
-- D. Đây có phải bút mực của bạn không?
-
-### C2.1.02
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Tên bạn là gì?
-- B. Đó là một bút dạ.
-- C. Xin chào Scott!
-- D. Không phải.
-
-### C2.1.03
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Xin chào Scott!
-- B. Tên mình là Kate.
-- C. Mình thích tiếng Anh!
-- D. Đây là bút chì của mình.
-
-### C2.1.04
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Tên mình là Andy.
-- B. Đây là bút chì của mình.
-- C. Đây là bút chì của bạn.
-- D. Đây có phải bút mực của bạn không?
-
-### C2.1.05
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Tên mình là Kate.
-- B. Xin chào Scott!
-- C. Tên mình là Scott.
-- D. Xin chào. Mình là Scott.
-
-### C2.1.06
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Xin chào. Mình là Scott.
-- B. Đây có phải cục tẩy của bạn không?
-- C. Đây có phải bút mực của bạn không?
-- D. Tên mình là Scott.
-
-### C2.1.07
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đó là một bút chì.
-- B. Không phải.
-- C. Đúng vậy.
-- D. Đó là một bản đồ.
-
-### C2.1.08
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đó là một bút dạ.
-- B. Đó là một bản đồ.
-- C. Không phải.
-- D. Đó là một cục tẩy.
-
-### C2.1.09
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đây là bút chì của bạn.
-- B. Xin chào. Mình là Scott.
-- C. Không phải.
-- D. Đây là cái gì?
-
-### C2.1.10
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đúng vậy.
-- B. Xin chào Scott!
-- C. Xin chào. Mình là Scott.
-- D. Đó là một bản đồ.
-
-### C2.1.11
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Tên mình là Scott.
-- B. Đây là cái gì?
-- C. Đây có phải một quyển sách không?
-- D. Đây là bút chì của mình.
-
-### C2.1.12
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đây là bút chì của mình.
-- B. Đó là một cục tẩy.
-- C. Đúng vậy.
-- D. Đây có phải một quyển sách không?
-
-### C2.1.13
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đây là bút chì của mình.
-- B. Tên mình là Scott.
-- C. Không phải.
-- D. Xin chào. Mình là Scott.
-
-### C2.1.14
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đó là một bản đồ.
-- B. Đó là một bút dạ.
-- C. Xin chào. Mình là Scott.
-- D. Đây là cái gì?
-
-### C2.1.15
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Tên mình là Andy.
-- B. Đó là một bản đồ.
-- C. Đây là bút chì của mình.
-- D. Xin chào Scott!
-
-### C2.1.16
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đây là bút chì của bạn.
-- B. Đây là cái gì?
-- C. Tên mình là Scott.
-- D. Đây có phải bút mực của bạn không?
-
-### C2.1.17
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đây có phải cục tẩy của bạn không?
-- B. Mình thích tiếng Anh!
-- C. Đó là một bản đồ.
-- D. Không phải.
-
-### C2.1.18
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Đây là bút chì của bạn.
-- B. Đây là cái gì?
-- C. Không phải.
-- D. Đây có phải cục tẩy của bạn không?
-
-### C2.1.19
-Nghe câu rồi chọn ý nghĩa phù hợp.
-
-- A. Mình thích tiếng Anh!
-- B. Đây có phải bút mực của bạn không?
-- C. Đây có phải cục tẩy của bạn không?
-- D. Đây có phải một quyển sách không?
-
-## 2. Nghe → chọn câu trả lời phù hợp
-
-### C2.2.01
-Nghe câu hỏi. Dựa vào tình huống ở trang PDF 3, nói câu trả lời.
-
-### C2.2.02
-Nghe câu hỏi. Dựa vào tình huống ở trang PDF 6, nói câu trả lời.
-
-### C2.2.03
-Nghe câu hỏi. Dựa vào tình huống ở trang PDF 8, nói câu trả lời.
-
-### C2.2.04
-Nghe câu hỏi. Dựa vào tình huống ở trang PDF 10, nói câu trả lời.
-
-### C2.2.05
-Nghe câu hỏi. Dựa vào tình huống ở trang PDF 10, nói câu trả lời.
-
-# Challenge 3 - Fill & Recall
-**Level: Recall**
-
-## 1. Điền chữ cái còn thiếu vào từ
-
-### C3.1.01
-Điền chữ cái: **s_and up** (đứng lên).
-
-### C3.1.02
-Điền chữ cái: **s_t down** (ngồi xuống).
-
-### C3.1.03
-Điền chữ cái: **m_ke a circle** (xếp thành vòng tròn).
-
-### C3.1.04
-Điền chữ cái: **m_ke a line** (xếp thành hàng).
-
-### C3.1.05
-Điền chữ cái: **a _encil** (một bút chì).
-
-### C3.1.06
-Điền chữ cái: **a _en** (một bút mực).
-
-### C3.1.07
-Điền chữ cái: **a _ag** (một chiếc cặp).
-
-### C3.1.08
-Điền chữ cái: **a _ook** (một quyển sách).
-
-### C3.1.09
-Điền chữ cái: **a _esk** (một bàn học).
-
-### C3.1.10
-Điền chữ cái: **a _hair** (một cái ghế).
-
-### C3.1.11
-Điền chữ cái: **a _uler** (một cái thước).
-
-### C3.1.12
-Điền chữ cái: **a_ eraser** (một cục tẩy).
-
-### C3.1.13
-Điền chữ cái: **a _ap** (một bản đồ).
-
-### C3.1.14
-Điền chữ cái: **a _arker** (một bút dạ).
-
-### C3.1.15
-Điền chữ cái: **a _lobe** (một quả địa cầu).
-
-### C3.1.16
-Điền chữ cái: **a _able** (một cái bàn).
-
-### C3.1.17
-Điền chữ cái: **a _oard** (một cái bảng).
-
-### C3.1.18
-Điền chữ cái: **a _astebasket** (một sọt rác).
-
-### C3.1.19
-Điền chữ cái: **a _oster** (một áp phích).
-
-### C3.1.20
-Điền chữ cái: **a _rayon** (một bút sáp).
-
-### C3.1.21
-Điền chữ cái: **A _** (chữ A hoa và a thường).
-
-### C3.1.22
-Điền chữ cái: **B _** (chữ B hoa và b thường).
-
-### C3.1.23
-Điền chữ cái: **C _** (chữ C hoa và c thường).
-
-### C3.1.24
-Điền chữ cái: **D _** (chữ D hoa và d thường).
-
-### C3.1.25
-Điền chữ cái: **E _** (chữ E hoa và e thường).
-
-### C3.1.26
-Điền chữ cái: **F _** (chữ F hoa và f thường).
-
-### C3.1.27
-Điền chữ cái: **G _** (chữ G hoa và g thường).
-
-### C3.1.28
-Điền chữ cái: **H _** (chữ H hoa và h thường).
-
-### C3.1.29
-Điền chữ cái: **I _** (chữ I hoa và i thường).
-
-### C3.1.30
-Điền chữ cái: **J _** (chữ J hoa và j thường).
-
-### C3.1.31
-Điền chữ cái: **K _** (chữ K hoa và k thường).
-
-### C3.1.32
-Điền chữ cái: **L _** (chữ L hoa và l thường).
-
-### C3.1.33
-Điền chữ cái: **M _** (chữ M hoa và m thường).
-
-### C3.1.34
-Điền chữ cái: **N _** (chữ N hoa và n thường).
-
-### C3.1.35
-Điền chữ cái: **O _** (chữ O hoa và o thường).
-
-### C3.1.36
-Điền chữ cái: **P _** (chữ P hoa và p thường).
-
-### C3.1.37
-Điền chữ cái: **Q _** (chữ Q hoa và q thường).
-
-### C3.1.38
-Điền chữ cái: **R _** (chữ R hoa và r thường).
-
-### C3.1.39
-Điền chữ cái: **S _** (chữ S hoa và s thường).
-
-### C3.1.40
-Điền chữ cái: **T _** (chữ T hoa và t thường).
-
-### C3.1.41
-Điền chữ cái: **U _** (chữ U hoa và u thường).
-
-### C3.1.42
-Điền chữ cái: **V _** (chữ V hoa và v thường).
-
-### C3.1.43
-Điền chữ cái: **W _** (chữ W hoa và w thường).
-
-### C3.1.44
-Điền chữ cái: **X _** (chữ X hoa và x thường).
-
-### C3.1.45
-Điền chữ cái: **Y _** (chữ Y hoa và y thường).
-
-### C3.1.46
-Điền chữ cái: **Z _** (chữ Z hoa và z thường).
-
-## 2. Hoàn thành mẫu câu; giảm gợi ý
-
-### C3.2.01
-Hoàn thành theo nghĩa “Xin chào. Mình là Scott.”: **Hello. I'm _____**
-
-### C3.2.02
-Hoàn thành theo nghĩa “Tên bạn là gì?”: **What's your _____**
-
-### C3.2.03
-Hoàn thành theo nghĩa “Tên mình là Kate.”: **My name is _____**
-
-### C3.2.04
-Hoàn thành theo nghĩa “Tên mình là Andy.”: **My name is _____**
-
-### C3.2.05
-Hoàn thành theo nghĩa “Xin chào Scott!”: **Hello, _____**
-
-### C3.2.06
-Hoàn thành theo nghĩa “Tên mình là Scott.”: **My name is _____**
-
-### C3.2.07
-Hoàn thành theo nghĩa “Đó là một bút chì.”: **It's a _____**
-
-### C3.2.08
-Hoàn thành theo nghĩa “Đó là một cục tẩy.”: **It's an _____**
-
-### C3.2.09
-Hoàn thành theo nghĩa “Đây là cái gì?”: **What's _____**
-
-### C3.2.10
-Hoàn thành theo nghĩa “Đó là một bản đồ.”: **It's a _____**
-
-### C3.2.11
-Hoàn thành theo nghĩa “Đây có phải một quyển sách không?”: **Is this a _____**
-
-### C3.2.12
-Hoàn thành theo nghĩa “Đúng vậy.”: **Yes, it _____**
-
-### C3.2.13
-Hoàn thành theo nghĩa “Không phải.”: **No, it _____**
-
-### C3.2.14
-Hoàn thành theo nghĩa “Đó là một bút dạ.”: **It's a _____**
-
-### C3.2.15
-Hoàn thành theo nghĩa “Đây là bút chì của mình.”: **This is my _____**
-
-### C3.2.16
-Hoàn thành theo nghĩa “Đây là bút chì của bạn.”: **This is your _____**
-
-### C3.2.17
-Hoàn thành theo nghĩa “Mình thích tiếng Anh!”: **I like _____**
-
-### C3.2.18
-Hoàn thành theo nghĩa “Đây có phải cục tẩy của bạn không?”: **Is this your _____**
-
-### C3.2.19
-Hoàn thành theo nghĩa “Đây có phải bút mực của bạn không?”: **Is this your _____**
-
-# Challenge 4 - Build & Match
-**Level: Comprehension**
-
-## 1. Ghép từ thành câu hoàn chỉnh
-
-### C4.1.01
-Sắp xếp theo nghĩa “Xin chào. Mình là Scott.”: **I'm / Scott. / Hello.**
-
-### C4.1.02
-Sắp xếp theo nghĩa “Tên bạn là gì?”: **your / name? / What's**
-
-### C4.1.03
-Sắp xếp theo nghĩa “Tên mình là Kate.”: **My / Kate. / name / is**
-
-### C4.1.04
-Sắp xếp theo nghĩa “Tên mình là Andy.”: **My / is / name / Andy.**
-
-### C4.1.05
-Sắp xếp theo nghĩa “Xin chào Scott!”: **Scott! / Hello,**
-
-### C4.1.06
-Sắp xếp theo nghĩa “Tên mình là Scott.”: **name / Scott. / is / My**
-
-### C4.1.07
-Sắp xếp theo nghĩa “Đó là một bút chì.”: **a / It's / pencil.**
-
-### C4.1.08
-Sắp xếp theo nghĩa “Đó là một cục tẩy.”: **eraser. / an / It's**
-
-### C4.1.09
-Sắp xếp theo nghĩa “Đây là cái gì?”: **this? / What's**
-
-### C4.1.10
-Sắp xếp theo nghĩa “Đó là một bản đồ.”: **map. / It's / a**
-
-### C4.1.11
-Sắp xếp theo nghĩa “Đây có phải một quyển sách không?”: **this / Is / a / book?**
-
-### C4.1.12
-Sắp xếp theo nghĩa “Đúng vậy.”: **is. / Yes, / it**
-
-### C4.1.13
-Sắp xếp theo nghĩa “Không phải.”: **it / No, / isn't.**
-
-### C4.1.14
-Sắp xếp theo nghĩa “Đó là một bút dạ.”: **It's / a / marker.**
-
-### C4.1.15
-Sắp xếp theo nghĩa “Đây là bút chì của mình.”: **is / pencil. / my / This**
-
-### C4.1.16
-Sắp xếp theo nghĩa “Đây là bút chì của bạn.”: **pencil. / your / is / This**
-
-### C4.1.17
-Sắp xếp theo nghĩa “Mình thích tiếng Anh!”: **I / like / English!**
-
-### C4.1.18
-Sắp xếp theo nghĩa “Đây có phải cục tẩy của bạn không?”: **your / eraser? / this / Is**
-
-### C4.1.19
-Sắp xếp theo nghĩa “Đây có phải bút mực của bạn không?”: **this / your / pen? / Is**
-
-## 2. Ghép câu hỏi với câu trả lời phù hợp
-
-### C4.2.01
-What's your name?
-
-- 1. It's a pencil.
-- 2. My name is Kate.
-- 3. No, it isn't.
-- 4. Yes, it is.
-
-### C4.2.02
-What's this?
-
-- 1. It's a pencil.
-- 2. My name is Kate.
-- 3. No, it isn't.
-- 4. Yes, it is.
-
-### C4.2.03
-Is this a book?
-
-- 1. It's a pencil.
-- 2. My name is Kate.
-- 3. No, it isn't.
-- 4. Yes, it is.
-
-### C4.2.04
-Is this your eraser?
-
-- 1. It's a pencil.
-- 2. My name is Kate.
-- 3. No, it isn't.
-- 4. Yes, it is.
-
-### C4.2.05
-Is this your pen?
-
-- 1. It's a pencil.
-- 2. My name is Kate.
-- 3. No, it isn't.
-- 4. Yes, it is.
-
-## 3. Xây dựng hội thoại
-
-### C4.3.01
-Đóng vai hai người trong tình huống trang PDF 3. Người A hỏi, người B đáp; sau đó đổi vai.
-
-### C4.3.02
-Đóng vai hai người trong tình huống trang PDF 6. Người A hỏi, người B đáp; sau đó đổi vai.
-
-### C4.3.03
-Đóng vai hai người trong tình huống trang PDF 8. Người A hỏi, người B đáp; sau đó đổi vai.
-
-### C4.3.04
-Đóng vai hai người trong tình huống trang PDF 10. Người A hỏi, người B đáp; sau đó đổi vai.
-
-### C4.3.05
-Đóng vai hai người trong tình huống trang PDF 10. Người A hỏi, người B đáp; sau đó đổi vai.
-
-# Challenge 5 - Final Boss
-**Level: Production**
-
-## 1. Quick Recognition
-
-### C5.1.01
-Không nhìn chữ: chỉ và gọi tên hình **đứng lên** trong trang PDF 4.
-
-### C5.1.02
-Không nhìn chữ: chỉ và gọi tên hình **ngồi xuống** trong trang PDF 4.
-
-### C5.1.03
-Không nhìn chữ: chỉ và gọi tên hình **xếp thành vòng tròn** trong trang PDF 4.
-
-### C5.1.04
-Không nhìn chữ: chỉ và gọi tên hình **xếp thành hàng** trong trang PDF 4.
-
-### C5.1.05
-Không nhìn chữ: chỉ và gọi tên hình **một bút chì** trong trang PDF 5.
-
-### C5.1.06
-Không nhìn chữ: chỉ và gọi tên hình **một bút mực** trong trang PDF 5.
-
-### C5.1.07
-Không nhìn chữ: chỉ và gọi tên hình **một chiếc cặp** trong trang PDF 5.
-
-### C5.1.08
-Không nhìn chữ: chỉ và gọi tên hình **một quyển sách** trong trang PDF 5.
-
-### C5.1.09
-Không nhìn chữ: chỉ và gọi tên hình **một bàn học** trong trang PDF 5.
-
-### C5.1.10
-Không nhìn chữ: chỉ và gọi tên hình **một cái ghế** trong trang PDF 5.
-
-### C5.1.11
-Không nhìn chữ: chỉ và gọi tên hình **một cái thước** trong trang PDF 5.
-
-### C5.1.12
-Không nhìn chữ: chỉ và gọi tên hình **một cục tẩy** trong trang PDF 5.
-
-### C5.1.13
-Không nhìn chữ: chỉ và gọi tên hình **một bản đồ** trong trang PDF 7.
-
-### C5.1.14
-Không nhìn chữ: chỉ và gọi tên hình **một bút dạ** trong trang PDF 7.
-
-### C5.1.15
-Không nhìn chữ: chỉ và gọi tên hình **một quả địa cầu** trong trang PDF 7.
-
-### C5.1.16
-Không nhìn chữ: chỉ và gọi tên hình **một cái bàn** trong trang PDF 7.
-
-### C5.1.17
-Không nhìn chữ: chỉ và gọi tên hình **một cái bảng** trong trang PDF 7.
-
-### C5.1.18
-Không nhìn chữ: chỉ và gọi tên hình **một sọt rác** trong trang PDF 7.
-
-### C5.1.19
-Không nhìn chữ: chỉ và gọi tên hình **một áp phích** trong trang PDF 7.
-
-### C5.1.20
-Không nhìn chữ: chỉ và gọi tên hình **một bút sáp** trong trang PDF 7.
-
-### C5.1.21
-Không nhìn chữ: chỉ và gọi tên hình **chữ A hoa và a thường** trong trang PDF 9.
-
-### C5.1.22
-Không nhìn chữ: chỉ và gọi tên hình **chữ B hoa và b thường** trong trang PDF 9.
-
-### C5.1.23
-Không nhìn chữ: chỉ và gọi tên hình **chữ C hoa và c thường** trong trang PDF 9.
-
-### C5.1.24
-Không nhìn chữ: chỉ và gọi tên hình **chữ D hoa và d thường** trong trang PDF 9.
-
-### C5.1.25
-Không nhìn chữ: chỉ và gọi tên hình **chữ E hoa và e thường** trong trang PDF 9.
-
-### C5.1.26
-Không nhìn chữ: chỉ và gọi tên hình **chữ F hoa và f thường** trong trang PDF 9.
-
-### C5.1.27
-Không nhìn chữ: chỉ và gọi tên hình **chữ G hoa và g thường** trong trang PDF 9.
-
-### C5.1.28
-Không nhìn chữ: chỉ và gọi tên hình **chữ H hoa và h thường** trong trang PDF 9.
-
-### C5.1.29
-Không nhìn chữ: chỉ và gọi tên hình **chữ I hoa và i thường** trong trang PDF 9.
-
-### C5.1.30
-Không nhìn chữ: chỉ và gọi tên hình **chữ J hoa và j thường** trong trang PDF 9.
-
-### C5.1.31
-Không nhìn chữ: chỉ và gọi tên hình **chữ K hoa và k thường** trong trang PDF 9.
-
-### C5.1.32
-Không nhìn chữ: chỉ và gọi tên hình **chữ L hoa và l thường** trong trang PDF 9.
-
-### C5.1.33
-Không nhìn chữ: chỉ và gọi tên hình **chữ M hoa và m thường** trong trang PDF 9.
-
-### C5.1.34
-Không nhìn chữ: chỉ và gọi tên hình **chữ N hoa và n thường** trong trang PDF 9.
-
-### C5.1.35
-Không nhìn chữ: chỉ và gọi tên hình **chữ O hoa và o thường** trong trang PDF 9.
-
-### C5.1.36
-Không nhìn chữ: chỉ và gọi tên hình **chữ P hoa và p thường** trong trang PDF 9.
-
-### C5.1.37
-Không nhìn chữ: chỉ và gọi tên hình **chữ Q hoa và q thường** trong trang PDF 9.
-
-### C5.1.38
-Không nhìn chữ: chỉ và gọi tên hình **chữ R hoa và r thường** trong trang PDF 9.
-
-### C5.1.39
-Không nhìn chữ: chỉ và gọi tên hình **chữ S hoa và s thường** trong trang PDF 9.
-
-### C5.1.40
-Không nhìn chữ: chỉ và gọi tên hình **chữ T hoa và t thường** trong trang PDF 9.
-
-### C5.1.41
-Không nhìn chữ: chỉ và gọi tên hình **chữ U hoa và u thường** trong trang PDF 9.
-
-### C5.1.42
-Không nhìn chữ: chỉ và gọi tên hình **chữ V hoa và v thường** trong trang PDF 9.
-
-### C5.1.43
-Không nhìn chữ: chỉ và gọi tên hình **chữ W hoa và w thường** trong trang PDF 9.
-
-### C5.1.44
-Không nhìn chữ: chỉ và gọi tên hình **chữ X hoa và x thường** trong trang PDF 9.
-
-### C5.1.45
-Không nhìn chữ: chỉ và gọi tên hình **chữ Y hoa và y thường** trong trang PDF 9.
-
-### C5.1.46
-Không nhìn chữ: chỉ và gọi tên hình **chữ Z hoa và z thường** trong trang PDF 9.
-
-## 2. Recall / Context & Nói theo mẫu
-
-### C5.2.01
-Che câu mẫu ở trang PDF 3. Nói câu diễn đạt “Xin chào. Mình là Scott.”.
-
-### C5.2.02
-Che câu mẫu ở trang PDF 3. Nói câu diễn đạt “Tên bạn là gì?”.
-
-### C5.2.03
-Che câu mẫu ở trang PDF 3. Nói câu diễn đạt “Tên mình là Kate.”.
-
-### C5.2.04
-Che câu mẫu ở trang PDF 3. Nói câu diễn đạt “Tên mình là Andy.”.
-
-### C5.2.05
-Che câu mẫu ở trang PDF 4. Nói câu diễn đạt “Xin chào Scott!”.
-
-### C5.2.06
-Che câu mẫu ở trang PDF 4. Nói câu diễn đạt “Tên mình là Scott.”.
-
-### C5.2.07
-Che câu mẫu ở trang PDF 5. Nói câu diễn đạt “Đó là một bút chì.”.
-
-### C5.2.08
-Che câu mẫu ở trang PDF 5. Nói câu diễn đạt “Đó là một cục tẩy.”.
-
-### C5.2.09
-Che câu mẫu ở trang PDF 6. Nói câu diễn đạt “Đây là cái gì?”.
-
-### C5.2.10
-Che câu mẫu ở trang PDF 7. Nói câu diễn đạt “Đó là một bản đồ.”.
-
-### C5.2.11
-Che câu mẫu ở trang PDF 8. Nói câu diễn đạt “Đây có phải một quyển sách không?”.
-
-### C5.2.12
-Che câu mẫu ở trang PDF 8. Nói câu diễn đạt “Đúng vậy.”.
-
-### C5.2.13
-Che câu mẫu ở trang PDF 8. Nói câu diễn đạt “Không phải.”.
-
-### C5.2.14
-Che câu mẫu ở trang PDF 8. Nói câu diễn đạt “Đó là một bút dạ.”.
-
-### C5.2.15
-Che câu mẫu ở trang PDF 9. Nói câu diễn đạt “Đây là bút chì của mình.”.
-
-### C5.2.16
-Che câu mẫu ở trang PDF 9. Nói câu diễn đạt “Đây là bút chì của bạn.”.
-
-### C5.2.17
-Che câu mẫu ở trang PDF 9. Nói câu diễn đạt “Mình thích tiếng Anh!”.
-
-### C5.2.18
-Che câu mẫu ở trang PDF 10. Nói câu diễn đạt “Đây có phải cục tẩy của bạn không?”.
-
-### C5.2.19
-Che câu mẫu ở trang PDF 10. Nói câu diễn đạt “Đây có phải bút mực của bạn không?”.
-
-## 3. Speak - không hint / Mini Conversation
-
-### C5.3.01
-Không nhìn mẫu, thực hiện lượt hỏi–đáp theo ngữ cảnh trang PDF 3; đổi vai rồi lặp lại.
-
-### C5.3.02
-Không nhìn mẫu, thực hiện lượt hỏi–đáp theo ngữ cảnh trang PDF 6; đổi vai rồi lặp lại.
-
-### C5.3.03
-Không nhìn mẫu, thực hiện lượt hỏi–đáp theo ngữ cảnh trang PDF 8; đổi vai rồi lặp lại.
-
-### C5.3.04
-Không nhìn mẫu, thực hiện lượt hỏi–đáp theo ngữ cảnh trang PDF 10; đổi vai rồi lặp lại.
-
-### C5.3.05
-Không nhìn mẫu, thực hiện lượt hỏi–đáp theo ngữ cảnh trang PDF 10; đổi vai rồi lặp lại.
-
-## 4. Action Challenge
-
-Người lớn chọn một câu chỉ dẫn/hành động đã xuất hiện trong phạm vi Unit, đọc câu đó và yêu cầu người học thực hiện hoặc đóng vai. Nếu Unit không có câu chỉ dẫn vận động, dùng các lượt hội thoại ở trên. Chấm đúng ý, đúng từ và đúng mẫu câu của bài.
-
-# Coverage Check
-
-| Nội dung | Trang PDF | Bài luyện |
-|---|---:|---|
-| stand up | 4 | C1, C3.1, C5.1 |
-| sit down | 4 | C1, C3.1, C5.1 |
-| make a circle | 4 | C1, C3.1, C5.1 |
-| make a line | 4 | C1, C3.1, C5.1 |
-| a pencil | 5 | C1, C3.1, C5.1 |
-| a pen | 5 | C1, C3.1, C5.1 |
-| a bag | 5 | C1, C3.1, C5.1 |
-| a book | 5 | C1, C3.1, C5.1 |
-| a desk | 5 | C1, C3.1, C5.1 |
-| a chair | 5 | C1, C3.1, C5.1 |
-| a ruler | 5 | C1, C3.1, C5.1 |
-| an eraser | 5 | C1, C3.1, C5.1 |
-| a map | 7 | C1, C3.1, C5.1 |
-| a marker | 7 | C1, C3.1, C5.1 |
-| a globe | 7 | C1, C3.1, C5.1 |
-| a table | 7 | C1, C3.1, C5.1 |
-| a board | 7 | C1, C3.1, C5.1 |
-| a wastebasket | 7 | C1, C3.1, C5.1 |
-| a poster | 7 | C1, C3.1, C5.1 |
-| a crayon | 7 | C1, C3.1, C5.1 |
-| A a | 9 | C1, C3.1, C5.1 |
-| B b | 9 | C1, C3.1, C5.1 |
-| C c | 9 | C1, C3.1, C5.1 |
-| D d | 9 | C1, C3.1, C5.1 |
-| E e | 9 | C1, C3.1, C5.1 |
-| F f | 9 | C1, C3.1, C5.1 |
-| G g | 9 | C1, C3.1, C5.1 |
-| H h | 9 | C1, C3.1, C5.1 |
-| I i | 9 | C1, C3.1, C5.1 |
-| J j | 9 | C1, C3.1, C5.1 |
-| K k | 9 | C1, C3.1, C5.1 |
-| L l | 9 | C1, C3.1, C5.1 |
-| M m | 9 | C1, C3.1, C5.1 |
-| N n | 9 | C1, C3.1, C5.1 |
-| O o | 9 | C1, C3.1, C5.1 |
-| P p | 9 | C1, C3.1, C5.1 |
-| Q q | 9 | C1, C3.1, C5.1 |
-| R r | 9 | C1, C3.1, C5.1 |
-| S s | 9 | C1, C3.1, C5.1 |
-| T t | 9 | C1, C3.1, C5.1 |
-| U u | 9 | C1, C3.1, C5.1 |
-| V v | 9 | C1, C3.1, C5.1 |
-| W w | 9 | C1, C3.1, C5.1 |
-| X x | 9 | C1, C3.1, C5.1 |
-| Y y | 9 | C1, C3.1, C5.1 |
-| Z z | 9 | C1, C3.1, C5.1 |
-| Hello. I'm Scott. | 3 | C2.1, C3.2, C4.1, C5.2 |
-| What's your name? | 3 | C2.1, C3.2, C4.1, C5.2 |
-| My name is Kate. | 3 | C2.1, C3.2, C4.1, C5.2 |
-| My name is Andy. | 3 | C2.1, C3.2, C4.1, C5.2 |
-| Hello, Scott! | 4 | C2.1, C3.2, C4.1, C5.2 |
-| My name is Scott. | 4 | C2.1, C3.2, C4.1, C5.2 |
-| It's a pencil. | 5 | C2.1, C3.2, C4.1, C5.2 |
-| It's an eraser. | 5 | C2.1, C3.2, C4.1, C5.2 |
-| What's this? | 6 | C2.1, C3.2, C4.1, C5.2 |
-| It's a map. | 7 | C2.1, C3.2, C4.1, C5.2 |
-| Is this a book? | 8 | C2.1, C3.2, C4.1, C5.2 |
-| Yes, it is. | 8 | C2.1, C3.2, C4.1, C5.2 |
-| No, it isn't. | 8 | C2.1, C3.2, C4.1, C5.2 |
-| It's a marker. | 8 | C2.1, C3.2, C4.1, C5.2 |
-| This is my pencil. | 9 | C2.1, C3.2, C4.1, C5.2 |
-| This is your pencil. | 9 | C2.1, C3.2, C4.1, C5.2 |
-| I like English! | 9 | C2.1, C3.2, C4.1, C5.2 |
-| Is this your eraser? | 10 | C2.1, C3.2, C4.1, C5.2 |
-| Is this your pen? | 10 | C2.1, C3.2, C4.1, C5.2 |
-
-# Đáp án và gợi ý chấm
-
-- **C1.1.01:** D. stand up
-- **C1.1.02:** C. sit down
-- **C1.1.03:** D. make a circle
-- **C1.1.04:** A. make a line
-- **C1.1.05:** A. a pencil
-- **C1.1.06:** B. a pen
-- **C1.1.07:** C. a bag
-- **C1.1.08:** A. a book
-- **C1.1.09:** A. a desk
-- **C1.1.10:** A. a chair
-- **C1.1.11:** A. a ruler
-- **C1.1.12:** B. an eraser
-- **C1.1.13:** C. a map
-- **C1.1.14:** B. a marker
-- **C1.1.15:** D. a globe
-- **C1.1.16:** B. a table
-- **C1.1.17:** C. a board
-- **C1.1.18:** D. a wastebasket
-- **C1.1.19:** B. a poster
-- **C1.1.20:** D. a crayon
-- **C1.1.21:** A. A a
-- **C1.1.22:** A. B b
-- **C1.1.23:** C. C c
-- **C1.1.24:** B. D d
-- **C1.1.25:** A. E e
-- **C1.1.26:** A. F f
-- **C1.1.27:** B. G g
-- **C1.1.28:** B. H h
-- **C1.1.29:** A. I i
-- **C1.1.30:** A. J j
-- **C1.1.31:** A. K k
-- **C1.1.32:** B. L l
-- **C1.1.33:** D. M m
-- **C1.1.34:** B. N n
-- **C1.1.35:** C. O o
-- **C1.1.36:** A. P p
-- **C1.1.37:** B. Q q
-- **C1.1.38:** C. R r
-- **C1.1.39:** B. S s
-- **C1.1.40:** A. T t
-- **C1.1.41:** A. U u
-- **C1.1.42:** D. V v
-- **C1.1.43:** B. W w
-- **C1.1.44:** C. X x
-- **C1.1.45:** C. Y y
-- **C1.1.46:** C. Z z
-- **C1.2.01:** A. stand up
-- **C1.2.02:** B. sit down
-- **C1.2.03:** D. make a circle
-- **C1.2.04:** B. make a line
-- **C1.2.05:** C. a pencil
-- **C1.2.06:** A. a pen
-- **C1.2.07:** B. a bag
-- **C1.2.08:** C. a book
-- **C1.2.09:** B. a desk
-- **C1.2.10:** A. a chair
-- **C1.2.11:** A. a ruler
-- **C1.2.12:** D. an eraser
-- **C1.2.13:** B. a map
-- **C1.2.14:** C. a marker
-- **C1.2.15:** C. a globe
-- **C1.2.16:** C. a table
-- **C1.2.17:** B. a board
-- **C1.2.18:** C. a wastebasket
-- **C1.2.19:** C. a poster
-- **C1.2.20:** D. a crayon
-- **C1.2.21:** A. A a
-- **C1.2.22:** D. B b
-- **C1.2.23:** B. C c
-- **C1.2.24:** C. D d
-- **C1.2.25:** D. E e
-- **C1.2.26:** D. F f
-- **C1.2.27:** A. G g
-- **C1.2.28:** C. H h
-- **C1.2.29:** A. I i
-- **C1.2.30:** B. J j
-- **C1.2.31:** C. K k
-- **C1.2.32:** A. L l
-- **C1.2.33:** B. M m
-- **C1.2.34:** A. N n
-- **C1.2.35:** B. O o
-- **C1.2.36:** D. P p
-- **C1.2.37:** A. Q q
-- **C1.2.38:** D. R r
-- **C1.2.39:** D. S s
-- **C1.2.40:** D. T t
-- **C1.2.41:** C. U u
-- **C1.2.42:** C. V v
-- **C1.2.43:** C. W w
-- **C1.2.44:** B. X x
-- **C1.2.45:** C. Y y
-- **C1.2.46:** A. Z z
-- **C2.1.01:** C. Xin chào. Mình là Scott.
-- **C2.1.02:** A. Tên bạn là gì?
-- **C2.1.03:** B. Tên mình là Kate.
-- **C2.1.04:** A. Tên mình là Andy.
-- **C2.1.05:** B. Xin chào Scott!
-- **C2.1.06:** D. Tên mình là Scott.
-- **C2.1.07:** A. Đó là một bút chì.
-- **C2.1.08:** D. Đó là một cục tẩy.
-- **C2.1.09:** D. Đây là cái gì?
-- **C2.1.10:** D. Đó là một bản đồ.
-- **C2.1.11:** C. Đây có phải một quyển sách không?
-- **C2.1.12:** C. Đúng vậy.
-- **C2.1.13:** C. Không phải.
-- **C2.1.14:** B. Đó là một bút dạ.
-- **C2.1.15:** C. Đây là bút chì của mình.
-- **C2.1.16:** A. Đây là bút chì của bạn.
-- **C2.1.17:** B. Mình thích tiếng Anh!
-- **C2.1.18:** D. Đây có phải cục tẩy của bạn không?
-- **C2.1.19:** B. Đây có phải bút mực của bạn không?
-- **C2.2.01:** My name is Kate.
-- **C2.2.02:** It's a pencil.
-- **C2.2.03:** Yes, it is.
-- **C2.2.04:** Yes, it is.
-- **C2.2.05:** No, it isn't.
-- **C3.1.01:** stand up
-- **C3.1.02:** sit down
-- **C3.1.03:** make a circle
-- **C3.1.04:** make a line
-- **C3.1.05:** a pencil
-- **C3.1.06:** a pen
-- **C3.1.07:** a bag
-- **C3.1.08:** a book
-- **C3.1.09:** a desk
-- **C3.1.10:** a chair
-- **C3.1.11:** a ruler
-- **C3.1.12:** an eraser
-- **C3.1.13:** a map
-- **C3.1.14:** a marker
-- **C3.1.15:** a globe
-- **C3.1.16:** a table
-- **C3.1.17:** a board
-- **C3.1.18:** a wastebasket
-- **C3.1.19:** a poster
-- **C3.1.20:** a crayon
-- **C3.1.21:** A a
-- **C3.1.22:** B b
-- **C3.1.23:** C c
-- **C3.1.24:** D d
-- **C3.1.25:** E e
-- **C3.1.26:** F f
-- **C3.1.27:** G g
-- **C3.1.28:** H h
-- **C3.1.29:** I i
-- **C3.1.30:** J j
-- **C3.1.31:** K k
-- **C3.1.32:** L l
-- **C3.1.33:** M m
-- **C3.1.34:** N n
-- **C3.1.35:** O o
-- **C3.1.36:** P p
-- **C3.1.37:** Q q
-- **C3.1.38:** R r
-- **C3.1.39:** S s
-- **C3.1.40:** T t
-- **C3.1.41:** U u
-- **C3.1.42:** V v
-- **C3.1.43:** W w
-- **C3.1.44:** X x
-- **C3.1.45:** Y y
-- **C3.1.46:** Z z
-- **C3.2.01:** Hello. I'm Scott.
-- **C3.2.02:** What's your name?
-- **C3.2.03:** My name is Kate.
-- **C3.2.04:** My name is Andy.
-- **C3.2.05:** Hello, Scott!
-- **C3.2.06:** My name is Scott.
-- **C3.2.07:** It's a pencil.
-- **C3.2.08:** It's an eraser.
-- **C3.2.09:** What's this?
-- **C3.2.10:** It's a map.
-- **C3.2.11:** Is this a book?
-- **C3.2.12:** Yes, it is.
-- **C3.2.13:** No, it isn't.
-- **C3.2.14:** It's a marker.
-- **C3.2.15:** This is my pencil.
-- **C3.2.16:** This is your pencil.
-- **C3.2.17:** I like English!
-- **C3.2.18:** Is this your eraser?
-- **C3.2.19:** Is this your pen?
-- **C4.1.01:** Hello. I'm Scott.
-- **C4.1.02:** What's your name?
-- **C4.1.03:** My name is Kate.
-- **C4.1.04:** My name is Andy.
-- **C4.1.05:** Hello, Scott!
-- **C4.1.06:** My name is Scott.
-- **C4.1.07:** It's a pencil.
-- **C4.1.08:** It's an eraser.
-- **C4.1.09:** What's this?
-- **C4.1.10:** It's a map.
-- **C4.1.11:** Is this a book?
-- **C4.1.12:** Yes, it is.
-- **C4.1.13:** No, it isn't.
-- **C4.1.14:** It's a marker.
-- **C4.1.15:** This is my pencil.
-- **C4.1.16:** This is your pencil.
-- **C4.1.17:** I like English!
-- **C4.1.18:** Is this your eraser?
-- **C4.1.19:** Is this your pen?
-- **C4.2.01:** My name is Kate.
-- **C4.2.02:** It's a pencil.
-- **C4.2.03:** Yes, it is.
-- **C4.2.04:** Yes, it is.
-- **C4.2.05:** No, it isn't.
-- **C4.3.01:** What's your name? → My name is Kate.
-- **C4.3.02:** What's this? → It's a pencil.
-- **C4.3.03:** Is this a book? → Yes, it is.
-- **C4.3.04:** Is this your eraser? → Yes, it is.
-- **C4.3.05:** Is this your pen? → No, it isn't.
-- **C5.1.01:** stand up
-- **C5.1.02:** sit down
-- **C5.1.03:** make a circle
-- **C5.1.04:** make a line
-- **C5.1.05:** a pencil
-- **C5.1.06:** a pen
-- **C5.1.07:** a bag
-- **C5.1.08:** a book
-- **C5.1.09:** a desk
-- **C5.1.10:** a chair
-- **C5.1.11:** a ruler
-- **C5.1.12:** an eraser
-- **C5.1.13:** a map
-- **C5.1.14:** a marker
-- **C5.1.15:** a globe
-- **C5.1.16:** a table
-- **C5.1.17:** a board
-- **C5.1.18:** a wastebasket
-- **C5.1.19:** a poster
-- **C5.1.20:** a crayon
-- **C5.1.21:** A a
-- **C5.1.22:** B b
-- **C5.1.23:** C c
-- **C5.1.24:** D d
-- **C5.1.25:** E e
-- **C5.1.26:** F f
-- **C5.1.27:** G g
-- **C5.1.28:** H h
-- **C5.1.29:** I i
-- **C5.1.30:** J j
-- **C5.1.31:** K k
-- **C5.1.32:** L l
-- **C5.1.33:** M m
-- **C5.1.34:** N n
-- **C5.1.35:** O o
-- **C5.1.36:** P p
-- **C5.1.37:** Q q
-- **C5.1.38:** R r
-- **C5.1.39:** S s
-- **C5.1.40:** T t
-- **C5.1.41:** U u
-- **C5.1.42:** V v
-- **C5.1.43:** W w
-- **C5.1.44:** X x
-- **C5.1.45:** Y y
-- **C5.1.46:** Z z
-- **C5.2.01:** Hello. I'm Scott.
-- **C5.2.02:** What's your name?
-- **C5.2.03:** My name is Kate.
-- **C5.2.04:** My name is Andy.
-- **C5.2.05:** Hello, Scott!
-- **C5.2.06:** My name is Scott.
-- **C5.2.07:** It's a pencil.
-- **C5.2.08:** It's an eraser.
-- **C5.2.09:** What's this?
-- **C5.2.10:** It's a map.
-- **C5.2.11:** Is this a book?
-- **C5.2.12:** Yes, it is.
-- **C5.2.13:** No, it isn't.
-- **C5.2.14:** It's a marker.
-- **C5.2.15:** This is my pencil.
-- **C5.2.16:** This is your pencil.
-- **C5.2.17:** I like English!
-- **C5.2.18:** Is this your eraser?
-- **C5.2.19:** Is this your pen?
-- **C5.3.01:** What's your name? → My name is Kate.
-- **C5.3.02:** What's this? → It's a pencil.
-- **C5.3.03:** Is this a book? → Yes, it is.
-- **C5.3.04:** Is this your eraser? → Yes, it is.
-- **C5.3.05:** Is this your pen? → No, it isn't.
-
-# Danh sách Audio cần bổ sung
-
-Kịch bản để người lớn đọc hoặc thu âm. Đây là danh sách yêu cầu, chưa có file audio riêng. Không thay thế đáp án của bài nghe gốc.
-
-- **C1.2.01:** stand up
-- **C1.2.02:** sit down
-- **C1.2.03:** make a circle
-- **C1.2.04:** make a line
-- **C1.2.05:** a pencil
-- **C1.2.06:** a pen
-- **C1.2.07:** a bag
-- **C1.2.08:** a book
-- **C1.2.09:** a desk
-- **C1.2.10:** a chair
-- **C1.2.11:** a ruler
-- **C1.2.12:** an eraser
-- **C1.2.13:** a map
-- **C1.2.14:** a marker
-- **C1.2.15:** a globe
-- **C1.2.16:** a table
-- **C1.2.17:** a board
-- **C1.2.18:** a wastebasket
-- **C1.2.19:** a poster
-- **C1.2.20:** a crayon
-- **C1.2.21:** A a
-- **C1.2.22:** B b
-- **C1.2.23:** C c
-- **C1.2.24:** D d
-- **C1.2.25:** E e
-- **C1.2.26:** F f
-- **C1.2.27:** G g
-- **C1.2.28:** H h
-- **C1.2.29:** I i
-- **C1.2.30:** J j
-- **C1.2.31:** K k
-- **C1.2.32:** L l
-- **C1.2.33:** M m
-- **C1.2.34:** N n
-- **C1.2.35:** O o
-- **C1.2.36:** P p
-- **C1.2.37:** Q q
-- **C1.2.38:** R r
-- **C1.2.39:** S s
-- **C1.2.40:** T t
-- **C1.2.41:** U u
-- **C1.2.42:** V v
-- **C1.2.43:** W w
-- **C1.2.44:** X x
-- **C1.2.45:** Y y
-- **C1.2.46:** Z z
-- **C2.1.01:** Hello. I'm Scott.
-- **C2.1.02:** What's your name?
-- **C2.1.03:** My name is Kate.
-- **C2.1.04:** My name is Andy.
-- **C2.1.05:** Hello, Scott!
-- **C2.1.06:** My name is Scott.
-- **C2.1.07:** It's a pencil.
-- **C2.1.08:** It's an eraser.
-- **C2.1.09:** What's this?
-- **C2.1.10:** It's a map.
-- **C2.1.11:** Is this a book?
-- **C2.1.12:** Yes, it is.
-- **C2.1.13:** No, it isn't.
-- **C2.1.14:** It's a marker.
-- **C2.1.15:** This is my pencil.
-- **C2.1.16:** This is your pencil.
-- **C2.1.17:** I like English!
-- **C2.1.18:** Is this your eraser?
-- **C2.1.19:** Is this your pen?
-- **C2.2.01:** What's your name?
-- **C2.2.02:** What's this?
-- **C2.2.03:** Is this a book?
-- **C2.2.04:** Is this your eraser?
-- **C2.2.05:** Is this your pen?
+### C1.10
+Cặp chữ cái hoa – thường nào sau đây được viết KHÔNG chính xác?
+- A. D b
+- B. G g
+- C. Q q
+- D. K k
+
+---
+
+# Challenge 2: Listen & Reflex (Nghe hiểu & Phản xạ)
+
+*(Gợi ý: Phụ huynh/giáo viên có thể đọc to câu tiếng Anh hoặc bật audio clip tương ứng)*
+
+### C2.01
+Bạn nghe người bạn mới gặp nói: **“Hello. I'm Scott. What's your name?”**  
+Câu đáp lại tự nhiên và chuẩn xác của bạn là:
+- A. I'm fine, thank you.
+- B. It's a pencil.
+- C. Good-bye!
+- D. My name is Nam.
+
+### C2.02
+Bạn nghe câu hỏi: **“What's this?”** (chỉ vào chiếc bàn học).  
+Câu trả lời phù hợp nhất là:
+- A. Yes, it is.
+- B. No, it isn't.
+- C. It's a desk.
+- D. My name is Andy.
+
+### C2.03
+Bạn nghe câu hỏi: **“Is this a book?”** trong khi đồ vật trên bàn là một cây bút dạ (*marker*).  
+Bạn sẽ đáp:
+- A. No, it isn't. It's a marker.
+- B. Yes, it is.
+- C. It's a book.
+- D. Yes, I am.
+
+### C2.04
+Bạn nghe bạn mình hỏi: **“Is this your eraser?”** (chỉ đúng vào cục tẩy của bạn).  
+Bạn sẽ trả lời lịch sự thế nào?
+- A. No, it is.
+- B. No, it isn't. It's my pen.
+- C. Yes, it is. Thank you.
+- D. I like English!
+
+### C2.05
+Bạn nghe cô giáo nói: **“Please make a line.”**  
+Học sinh trong lớp cần làm gì ngay lập tức?
+- A. Ngồi trật tự tại chỗ
+- B. Nắm tay xếp vòng tròn
+- C. Mở sách bài tập
+- D. Xếp thành hàng ngay ngắn
+
+### C2.06
+Nghe lời bài hát: **“A B C D E F G... I like English!”**  
+Cụm từ “I like English!” thể hiện điều gì?
+- A. Mình đang học tiếng Anh.
+- B. Tiếng Anh rất khó.
+- C. Mình rất yêu thích môn tiếng Anh!
+- D. Bạn có thích tiếng Anh không?
+
+### C2.07
+Bạn nghe câu: **“This is my bag.”**  
+Ý nghĩa chính xác của câu này là:
+- A. Đây là cặp sách của bạn.
+- B. Đây là cặp sách của mình.
+- C. Đây có phải cặp của bạn không?
+- D. Đó là một chiếc cặp.
+
+### C2.08
+Bạn nghe: **“Look at the wall. This is a map.”**  
+Người nói đang muốn bạn chú ý đến vật gì trên tường?
+- A. Cái đồng hồ
+- B. Tấm bản đồ
+- C. Cái bảng đen
+- D. Bức tranh áp phích
+
+### C2.09
+Bạn nghe bạn bên cạnh nói: **“This is your pencil.”** và đưa cho bạn cây bút chì.  
+Bạn nên đáp lại như thế nào?
+- A. Good-bye.
+- B. Thank you!
+- C. What's this?
+- D. Stand up.
+
+### C2.10
+Nghe câu đối thoại: **“Is this a table?” – “Yes, it is.”**  
+Hai bạn đang nói về đồ vật gì?
+- A. Cái ghế tựa
+- B. Bàn học sinh có ngăn
+- C. Cái bàn lớn
+- D. Quả địa cầu
+
+---
+
+# Challenge 3: Reading Explorer (Bài Luyện Đọc Ngắn)
+
+---
+
+### 📖 Bài đọc 1 (Level 1: Nhận diện cơ bản - 2 câu, 14 từ)
+> *"Hello! My name is Andy.*  
+> *This is my pencil. It is yellow."*
+
+#### C3.01
+What is the boy's name?
+- A. Scott
+- B. Andy
+- C. Kate
+
+#### C3.02
+What does Andy have?
+- A. A pen
+- B. A pencil
+- C. A ruler
+
+#### C3.03
+What color is Andy's pencil?
+- A. Blue
+- B. Red
+- C. Yellow
+
+---
+
+### 📖 Bài đọc 2 (Level 2: Tình huống & Chi tiết - 3 câu, 26 từ)
+> *"Look at my desk. This is a big bag.*  
+> *Is this an eraser? Yes, it is.*  
+> *This is not a pen. It is a marker."*
+
+#### C3.04
+Where are the school things?
+- A. On the chair
+- B. On the desk
+- C. On the board
+
+#### C3.05
+Is the bag big or small?
+- A. It is small.
+- B. It is old.
+- C. It is big.
+
+#### C3.06
+*(Đúng hay Sai)* The eraser is on the desk.
+- A. True (Đúng)
+- B. False (Sai)
+
+#### C3.07
+What is on the desk: a pen or a marker?
+- A. It is a pen.
+- B. It is a pencil.
+- C. It is a marker.
+
+---
+
+### 📖 Bài đọc 3 (Level 3: Ngữ cảnh lớp học mở rộng - 5 câu, 42 từ)
+> *"Good morning, class! My name is Kate.*  
+> *Welcome to our classroom. Look at the wall!*  
+> *This is a big board and that is a colorful map.*  
+> *Here is my desk. This is my book and this is your ruler.*  
+> *Now, stand up and let's make a circle!"*
+
+#### C3.08
+Who is introducing the classroom?
+- A. Andy
+- B. Scott
+- C. Kate
+
+#### C3.09
+What is on the wall?
+- A. A board and a map
+- B. A globe and a clock
+- C. A wastebasket and a poster
+
+#### C3.10
+What does Kate ask everyone to do at the end?
+- A. Sit down and read a book
+- B. Stand up and make a circle
+- C. Make a line and walk out
+
+---
+
+# Challenge 4: Sentence Builder & Grammar (Cấu trúc & Ghép câu)
+
+### C4.01
+Sắp xếp các từ sau thành câu chào hỏi chuẩn: **is / Kate. / My / name**
+- A. Name is my Kate.
+- B. My name is Kate.
+- C. Kate my name is.
+- D. My is name Kate.
+
+### C4.02
+Sắp xếp các từ sau thành câu hỏi đồ vật: **this? / What's**
+- A. This what's?
+- B. This is what?
+- C. What's this?
+- D. What this is?
+
+### C4.03
+Sắp xếp thành câu trả lời: **an / It's / eraser.**
+- A. An eraser it's.
+- B. It's an eraser.
+- C. It's eraser an.
+- D. Eraser an it's.
+
+### C4.04
+Sắp xếp thành câu hỏi xác nhận: **Is / book? / a / this**
+- A. Is a book this?
+- B. This is a book?
+- C. A book is this?
+- D. Is this a book?
+
+### C4.05
+Sắp xếp thành câu phủ định hoàn chỉnh: **isn't. / it / No,**
+- A. It isn't no.
+- B. No isn't it.
+- C. No, it isn't.
+- D. Isn't it no.
+
+### C4.06
+Điền từ thích hợp vào chỗ trống: **“_____ is my pen and that is your pen.”**
+- A. These
+- B. This
+- C. What
+- D. Is
+
+### C4.07
+Chọn câu sử dụng đúng dạng sở hữu **“your”** (của bạn):
+- A. This is you book.
+- B. This is yours book.
+- C. This is your book.
+- D. This your is book.
+
+### C4.08
+Tìm từ viết sai trong câu: *“It's a eraser on the desk.”*
+- A. a
+- B. It's
+- C. on
+- D. desk
+
+### C4.09
+Ghép câu hỏi với câu trả lời tương ứng:  
+*Câu hỏi:* **“Is this your ruler?”**  
+- A. It's a ruler.
+- B. My name is Scott.
+- C. Yes, it is.
+- D. Stand up.
+
+### C4.10
+Hoàn thành câu: **“Let's _____ a line.”**
+- A. make
+- B. do
+- C. go
+- D. have
+
+---
+
+# Challenge 5: Final Boss (Giao tiếp & Ứng dụng thực tế)
+
+### C5.01
+Vào ngày đầu tiên đến lớp, bạn muốn làm quen với bạn bên cạnh. Bạn sẽ nói:
+- A. Hello. I'm [Tên của bạn]. What's your name?
+- B. What's this?
+- C. Is this your bag?
+- D. Stand up, please.
+
+### C5.02
+Cô giáo giơ một đồ vật lên và hỏi bạn: **“What's this?”**. Đồ vật đó là quả địa cầu. Bạn trả lời:
+- A. It's a map.
+- B. It's a table.
+- C. It's a wastebasket.
+- D. It's a globe.
+
+### C5.03
+Bạn thấy một cây bút mực rơi dưới đất cạnh bàn bạn Andy. Bạn nhặt lên và hỏi Andy thế nào?
+- A. Is this your pen?
+- B. What's your name?
+- C. This is my pen.
+- D. Make a circle.
+
+### C5.04
+Andy nhìn cây bút và thấy đúng là của mình. Andy sẽ đáp lại:
+- A. No, it isn't.
+- B. It's a pencil.
+- C. Yes, it is. Thank you!
+- D. I like English!
+
+### C5.05
+Bạn mượn nhầm cục tẩy của bạn mình và muốn trả lại. Bạn nói:
+- A. This is my eraser.
+- B. What's this?
+- C. Sit down.
+- D. This is your eraser.
+
+### C5.06
+Trong giờ học vẽ, bạn muốn chỉ cho bạn mình bức tranh áp phích treo ở góc lớp:
+- A. This is a wastebasket.
+- B. This is a ruler.
+- C. Stand up.
+- D. This is a poster.
+
+### C5.07
+Khi giáo viên nói: **“Sit down, please.”**, học sinh nên làm gì?
+- A. Đứng dậy chào cô
+- B. Đi ra xếp hàng
+- C. Lấy bút chì ra
+- D. Ngồi xuống ghế trật tự
+
+### C5.08
+Một bạn hỏi bạn: **“Is this a desk?”** trong khi đó là cái bàn tròn lớn ăn trưa (*table*). Bạn đáp:
+- A. Yes, it is.
+- B. No, it isn't. It's a table.
+- C. It's a desk.
+- D. My name is Kate.
+
+### C5.09
+Khi cùng các bạn chơi trò chơi tạo vòng tròn lớn giữa sân, bạn hô:
+- A. Let's make a circle!
+- B. Let's make a line!
+- C. Let's sit down!
+- D. What's your name?
+
+### C5.10
+Để bày tỏ niềm vui và sự hứng thú sau khi hoàn thành xong Unit 1 tiếng Anh, câu nói phù hợp nhất là:
+- A. Good-bye Scott!
+- B. It's an eraser.
+- C. I like English!
+- D. No, it isn't.
+
+---
+
+---
+
+## 🔑 BẢNG ĐÁP ÁN & GIẢI THÍCH CHI TIẾT (ANSWER KEY)
+
+| Câu | Đáp án | Giải thích ngắn |
+| :---: | :---: | :--- |
+| **C1.01** | **D** | thước kẻ = *ruler*. |
+| **C1.02** | **A** | quả địa cầu = *globe*; map là bản đồ phẳng. |
+| **C1.03** | **A** | sọt rác = *wastebasket*. |
+| **C1.04** | **A** | *eraser* bắt đầu bằng nguyên âm 'e' nên đi với mạo từ *an*. |
+| **C1.05** | **D** | đứng dậy = *stand up*. |
+| **C1.06** | **A** | xếp vòng tròn = *make a circle*. |
+| **C1.07** | **B** | *pencil, pen* bắt đầu bằng chữ cái P p. |
+| **C1.08** | **D** | *bag, board* bắt đầu bằng chữ cái B b. |
+| **C1.09** | **D** | Thứ tự bảng chữ cái: L $\rightarrow$ M $\rightarrow$ **N** $\rightarrow$ O. |
+| **C1.10** | **A** | D hoa phải đi với d thường; 'b' là chữ cái khác. |
+| **C2.01** | **D** | Hỏi tên *What's your name?* $\rightarrow$ đáp *My name is...* |
+| **C2.02** | **C** | Hỏi đồ vật *What's this?* $\rightarrow$ *It's a desk.* |
+| **C2.03** | **A** | Đồ vật không phải sách $\rightarrow$ *No, it isn't. It's a marker.* |
+| **C2.04** | **C** | Đúng đồ của mình $\rightarrow$ *Yes, it is. Thank you.* |
+| **C2.05** | **D** | *Make a line* = xếp hàng ngay ngắn. |
+| **C2.06** | **C** | *I like English!* = Mình thích tiếng Anh! |
+| **C2.07** | **B** | *my* = của mình/tôi. |
+| **C2.08** | **B** | *map* = bản đồ. |
+| **C2.09** | **B** | Được bạn trả đồ $\rightarrow$ nói *Thank you!* |
+| **C2.10** | **C** | *table* = cái bàn lớn (bàn ăn/bàn tròn). |
+| **C3.01** | **B** | Trong bài đọc 1: *"Hello! My name is Andy."* |
+| **C3.02** | **B** | *"This is my pencil."* |
+| **C3.03** | **C** | *"It is yellow."* |
+| **C3.04** | **B** | Trong bài đọc 2: *"Look at my desk."* |
+| **C3.05** | **C** | *"This is a big bag."* |
+| **C3.06** | **A** | *"Is this an eraser? Yes, it is."* $\rightarrow$ Đúng (True). |
+| **C3.07** | **C** | *"This is not a pen. It is a marker."* |
+| **C3.08** | **C** | Trong bài đọc 3: *"My name is Kate."* |
+| **C3.09** | **A** | *"This is a big board and that is a colorful map."* |
+| **C3.10** | **B** | *"Now, stand up and let's make a circle!"* |
+| **C4.01** | **B** | Cấu trúc: *My name is Kate.* |
+| **C4.02** | **C** | Cấu trúc: *What's this?* |
+| **C4.03** | **B** | Cấu trúc: *It's an eraser.* |
+| **C4.04** | **D** | Cấu trúc câu hỏi đảo: *Is this a book?* |
+| **C4.05** | **C** | Dạng phủ định: *No, it isn't.* |
+| **C4.06** | **B** | Đại từ chỉ vật ở gần số ít: *This is...* |
+| **C4.07** | **C** | Tính từ sở hữu: *your book*. |
+| **C4.08** | **A** | Sai chữ *a* (phải sửa thành *an eraser*). |
+| **C4.09** | **C** | Câu hỏi *Is this...?* đáp bằng *Yes, it is.* |
+| **C4.10** | **A** | Cụm cố định: *make a line* (xếp hàng). |
+| **C5.01** | **A** | Cách làm quen lịch sự đầy đủ chào và hỏi tên. |
+| **C5.02** | **D** | Quả địa cầu là *globe* $\rightarrow$ *It's a globe.* |
+| **C5.03** | **A** | Hỏi xác nhận đồ của bạn: *Is this your pen?* |
+| **C5.04** | **C** | Xác nhận đúng đồ của mình kèm lời cảm ơn. |
+| **C5.05** | **D** | Trả đồ cho bạn: *This is your eraser.* (Đây là tẩy của bạn). |
+| **C5.06** | **D** | Bức tranh áp phích là *poster* $\rightarrow$ *This is a poster.* |
+| **C5.07** | **D** | *Sit down, please* = Mời ngồi xuống. |
+| **C5.08** | **B** | Phủ định và đính chính tên đồ vật đúng: *No, it isn't. It's a table.* |
+| **C5.09** | **A** | Rủ cùng tạo vòng tròn: *Let's make a circle!* |
+| **C5.10** | **C** | Câu cảm thán cuối bài 9: *I like English!* |
